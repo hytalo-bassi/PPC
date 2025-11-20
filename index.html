@@ -35,8 +35,8 @@
                     <div class="Semestre" v-for="i in numero_semestres">
                         <div class="Split">{{ i }}</div>
                         <div class="column-items-around">
-                            <div class="Disciplina" v-for="(discipline) in getDisciplinesBySemester(i - 1)">
-                                <h1>{{ discipline.nome }}</h1>
+                            <div class="Disciplina" v-for="(discipline) in getDisciplinesBySemester(i - 1)" :key="discipline.id_curso">
+                                <h1>{{ discipline.apelido }}</h1>
                                 <p class="CH">CH: {{ discipline.carga_horaria }} horas</p>
                                 <div class="Espace"><div class="Matematica"></div></div>
                             </div>

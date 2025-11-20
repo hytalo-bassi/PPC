@@ -150,23 +150,24 @@ label h1{
 
 /*   Linha de Semestres   */
 
-#Splits{
+.row-items {
     display: flex;
     flex-direction: row;
     justify-content:space-between;
-    width: 98%;
 }
 
 .Split{
     display: flex;
+    position: relative;
+    top: 0;
     flex-direction: row;
     justify-content: center;
     align-items: center;
     background: rgba(0, 0, 0, 0.1);
     border: 0.3vh solid rgba(255, 255, 255, 0.4);
     border-radius: 2vh;
-    height: 3vh;
-    width: 10%;
+    height: 18px;
+    width: 100%;
     font-size: 1vw;
 }
 
@@ -184,9 +185,13 @@ label h1{
     position: relative;
     display: flex;
     flex-direction: column;
-    align-items: center;
-    justify-content:space-around;
     width: 12%;
+}
+
+.column-items-around {
+    display: flex;
+    flex-direction: column;
+    justify-content:space-around;
 }
 
 .Disciplina{
@@ -194,8 +199,8 @@ label h1{
     background-color: rgba(0, 0, 0, 0.1);
     border: 0.3vh solid rgba(255, 255, 255, 0.4);
     border-radius: 2vh;
-    height: 17%;
-    width: 80%;
+    height: 34px;
+    width: 100%;
     display: flex;
     padding: 0px 1%;
     flex-direction: column;
@@ -217,7 +222,7 @@ label h1{
 }
 
 .Disciplina:hover{
-    height: 20%;
+    height: 42px;
     width: 100%;
     font-size: 63%;
     background-color: rgba(255,255, 255, 0.1);

@@ -1,18 +1,61 @@
 <!DOCTYPE html>
 <html>
-
     <head>
         <meta charset="utf-8">
         <title>PPC</title>
-        <meta name="author" content="Arthur B.">
         <meta name="viewport" content="width=device-width,initial-scale=1">
+        <script type="importmap">
+          {
+            "imports": {
+              "vue": "https://unpkg.com/vue@3/dist/vue.esm-browser.js"
+            }
+          }
+        </script>
         <link rel="stylesheet" href="PPC.css">
     </head>
     
     <body>
+        <div id="app">
+            <header>
+            <div class="Header_Content"><h1 class="Titulo">Quadro de Semestralização e Pré-Requisitos</h1></div>
+            <div class="Header_Content"id="Options">
+                <label>
+                    <input type="checkbox" name="bt" id="CH_preview">
+                    <span></span>
+                    <h1>Pré-visualizar Carga Horária</h1>
+                </label>
+                <label>
+                    <input type="checkbox" name="bt" id="SUB_preview">
+                    <span></span>
+                    <h1>Pré-visualizar Legenda</h1>
+                </label>
+            </div>
+            <div class="Quadro">
+                <div id="Semestres">
+                    <div class="Semestre" v-for="i in numero_semestres">
+                        <div class="Split">{{ i }}</div>
+                        <div class="column-items-around">
+                            <div class="Disciplina" v-for="(discipline) in getDisciplinesBySemester(i - 1)">
+                                <h1>{{ discipline.nome }}</h1>
+                                <p class="CH">CH: {{ discipline.carga_horaria }} horas</p>
+                                <div class="Espace"><div class="Matematica"></div></div>
+                            </div>
+                        </div>
+                    </div>
+                </div>
+            </div>
+        </header>
 
+        <div class="Line"></div>
+        </div>
+        <script type="module">
+          import { createApp } from 'vue'
+          import App from './app.js'
+
+          createApp(App).mount('#app')
+        </script>
+<!--    
         <header>
-            
             <div class="Header_Content"><h1 class="Titulo">Quadro de Semestralização e Pré-Requisitos</h1></div>
             <div class="Header_Content"id="Options">
                 <label>
@@ -290,7 +333,6 @@
             <button>Fechar</button>
         </dialog>
 
-        <script src="PPC.js"></script>
-
+        <script src="PPC.js"></script> -->
     </body>
  </html>

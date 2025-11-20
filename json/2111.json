@@ -1,0 +1,3842 @@
+[
+  {
+    "Id": 48791,
+    "Codigo": "1919.000.459-3",
+    "Tipo": "OBR",
+    "Descricao": "ALGORITMOS E PROGRAMAÇÃO",
+    "Semestre": 1,
+    "Apelido": "ALGORITMOS E PROGRAMAÇÃO",
+    "CargaHorariaTeorico": 51,
+    "CargaHorariaPratica": null,
+    "ListaPrequisitos": []
+  },
+  {
+    "Id": 48016,
+    "Codigo": "2201.000.197-0",
+    "Tipo": "OBR",
+    "Descricao": "CÁLCULO I",
+    "Semestre": 1,
+    "Apelido": "CÁLCULO I",
+    "CargaHorariaTeorico": 68,
+    "CargaHorariaPratica": null,
+    "ListaPrequisitos": []
+  },
+  {
+    "Id": 48034,
+    "Codigo": "2401.000.260-3",
+    "Tipo": "OBR",
+    "Descricao": "FUNDAMENTOS DE MECÂNICA",
+    "Semestre": 1,
+    "Apelido": "FUNDAMENTOS DE MECÂNICA",
+    "CargaHorariaTeorico": 68,
+    "CargaHorariaPratica": null,
+    "ListaPrequisitos": []
+  },
+  {
+    "Id": 50151,
+    "Codigo": "2101.001.421-5",
+    "Tipo": "OBR",
+    "Descricao": "GEOMETRIA DESCRITIVA",
+    "Semestre": 1,
+    "Apelido": "GEOMETRIA DESCRITIVA",
+    "CargaHorariaTeorico": 51,
+    "CargaHorariaPratica": null,
+    "ListaPrequisitos": []
+  },
+  {
+    "Id": 31697,
+    "Codigo": "2101.000.179-7",
+    "Tipo": "OBR",
+    "Descricao": "INTRODUÇÃO A ENGENHARIA CIVIL",
+    "Semestre": 1,
+    "Apelido": "INTRODUÇÃO A ENGENHARIA CIVIL",
+    "CargaHorariaTeorico": 34,
+    "CargaHorariaPratica": null,
+    "ListaPrequisitos": []
+  },
+  {
+    "Id": 48008,
+    "Codigo": "2201.000.195-2",
+    "Tipo": "OBR",
+    "Descricao": "VETORES E GEOMETRIA ANALÍTICA",
+    "Semestre": 1,
+    "Apelido": "VETORES E GEOMETRIA ANALÍTICA",
+    "CargaHorariaTeorico": 68,
+    "CargaHorariaPratica": null,
+    "ListaPrequisitos": []
+  },
+  {
+    "Id": 48330,
+    "Codigo": "2201.000.202-9",
+    "Tipo": "OBR",
+    "Descricao": "ÁLGEBRA LINEAR",
+    "Semestre": 2,
+    "Apelido": "ÁLGEBRA LINEAR",
+    "CargaHorariaTeorico": 68,
+    "CargaHorariaPratica": null,
+    "ListaPrequisitos": []
+  },
+  {
+    "Id": 48017,
+    "Codigo": "2201.000.198-0",
+    "Tipo": "OBR",
+    "Descricao": "CÁLCULO II",
+    "Semestre": 2,
+    "Apelido": "CÁLCULO II",
+    "CargaHorariaTeorico": 68,
+    "CargaHorariaPratica": null,
+    "ListaPrequisitos": [
+      {
+        "Id": 48008,
+        "Codigo": "2201.000.195-2",
+        "Descricao": "VETORES E GEOMETRIA ANALÍTICA",
+        "Semestre": "0",
+        "Apelido": "VETORES E GEOMETRIA ANALÍTICA",
+        "CargaHorariaTeorico": 0,
+        "CargaHorariaPratica": 0,
+        "ListaPrequisitos": []
+      },
+      {
+        "Id": 48016,
+        "Codigo": "2201.000.197-0",
+        "Descricao": "CÁLCULO I",
+        "Semestre": "0",
+        "Apelido": "CÁLCULO I",
+        "CargaHorariaTeorico": 0,
+        "CargaHorariaPratica": 0,
+        "ListaPrequisitos": []
+      }
+    ]
+  },
+  {
+    "Id": 31586,
+    "Codigo": "2101.000.077-4",
+    "Tipo": "OBR",
+    "Descricao": "CIÊNCIAS DO AMBIENTE",
+    "Semestre": 2,
+    "Apelido": "CIÊNCIAS DO AMBIENTE",
+    "CargaHorariaTeorico": 34,
+    "CargaHorariaPratica": null,
+    "ListaPrequisitos": []
+  },
+  {
+    "Id": 50139,
+    "Codigo": "2101.001.409-1",
+    "Tipo": "OBR",
+    "Descricao": "DESENHO TÉCNICO CIVIL",
+    "Semestre": 2,
+    "Apelido": "DESENHO TÉCNICO CIVIL",
+    "CargaHorariaTeorico": 51,
+    "CargaHorariaPratica": null,
+    "ListaPrequisitos": [
+      {
+        "Id": 50151,
+        "Codigo": "2101.001.421-5",
+        "Descricao": "GEOMETRIA DESCRITIVA",
+        "Semestre": "0",
+        "Apelido": "GEOMETRIA DESCRITIVA",
+        "CargaHorariaTeorico": 0,
+        "CargaHorariaPratica": 0,
+        "ListaPrequisitos": []
+      }
+    ]
+  },
+  {
+    "Id": 46512,
+    "Codigo": "2101.001.401-9",
+    "Tipo": "OBR",
+    "Descricao": "FUNDAMENTOS DE ECONOMIA",
+    "Semestre": 2,
+    "Apelido": "FUNDAMENTOS DE ECONOMIA",
+    "CargaHorariaTeorico": 34,
+    "CargaHorariaPratica": null,
+    "ListaPrequisitos": []
+  },
+  {
+    "Id": 48031,
+    "Codigo": "2401.000.257-9",
+    "Tipo": "OBR",
+    "Descricao": "FUNDAMENTOS DE FLUIDOS, ONDAS E TERMODINÂMICA",
+    "Semestre": 2,
+    "Apelido": "FUNDAMENTOS DE FLUIDOS, ONDAS E TERMODINÂMICA",
+    "CargaHorariaTeorico": 68,
+    "CargaHorariaPratica": null,
+    "ListaPrequisitos": [
+      {
+        "Id": 48034,
+        "Codigo": "2401.000.260-3",
+        "Descricao": "FUNDAMENTOS DE MECÂNICA",
+        "Semestre": "0",
+        "Apelido": "FUNDAMENTOS DE MECÂNICA",
+        "CargaHorariaTeorico": 0,
+        "CargaHorariaPratica": 0,
+        "ListaPrequisitos": []
+      }
+    ]
+  },
+  {
+    "Id": 48723,
+    "Codigo": "2401.000.287-3",
+    "Tipo": "OBR",
+    "Descricao": "LABORATÓRIO DE MECÂNICA, FLUIDOS E TERMODINÂMICA",
+    "Semestre": 2,
+    "Apelido": "LABORATÓRIO DE MECÂNICA, FLUIDOS E TERMODINÂMICA",
+    "CargaHorariaTeorico": 34,
+    "CargaHorariaPratica": null,
+    "ListaPrequisitos": [
+      {
+        "Id": 48034,
+        "Codigo": "2401.000.260-3",
+        "Descricao": "FUNDAMENTOS DE MECÂNICA",
+        "Semestre": "0",
+        "Apelido": "FUNDAMENTOS DE MECÂNICA",
+        "CargaHorariaTeorico": 0,
+        "CargaHorariaPratica": 0,
+        "ListaPrequisitos": []
+      }
+    ]
+  },
+  {
+    "Id": 48318,
+    "Codigo": "2201.000.201-0",
+    "Tipo": "OBR",
+    "Descricao": "CÁLCULO III",
+    "Semestre": 3,
+    "Apelido": "CÁLCULO III",
+    "CargaHorariaTeorico": 68,
+    "CargaHorariaPratica": null,
+    "ListaPrequisitos": [
+      {
+        "Id": 48017,
+        "Codigo": "2201.000.198-0",
+        "Descricao": "CÁLCULO II",
+        "Semestre": "0",
+        "Apelido": "CÁLCULO II",
+        "CargaHorariaTeorico": 0,
+        "CargaHorariaPratica": 0,
+        "ListaPrequisitos": []
+      }
+    ]
+  },
+  {
+    "Id": 50157,
+    "Codigo": "2101.001.426-0",
+    "Tipo": "OBR",
+    "Descricao": "ESTÁTICA DAS ESTRUTURAS I",
+    "Semestre": 3,
+    "Apelido": "ESTÁTICA DAS ESTRUTURAS I",
+    "CargaHorariaTeorico": 85,
+    "CargaHorariaPratica": null,
+    "ListaPrequisitos": [
+      {
+        "Id": 48008,
+        "Codigo": "2201.000.195-2",
+        "Descricao": "VETORES E GEOMETRIA ANALÍTICA",
+        "Semestre": "0",
+        "Apelido": "VETORES E GEOMETRIA ANALÍTICA",
+        "CargaHorariaTeorico": 0,
+        "CargaHorariaPratica": 0,
+        "ListaPrequisitos": []
+      },
+      {
+        "Id": 48016,
+        "Codigo": "2201.000.197-0",
+        "Descricao": "CÁLCULO I",
+        "Semestre": "0",
+        "Apelido": "CÁLCULO I",
+        "CargaHorariaTeorico": 0,
+        "CargaHorariaPratica": 0,
+        "ListaPrequisitos": []
+      }
+    ]
+  },
+  {
+    "Id": 48009,
+    "Codigo": "2201.000.196-1",
+    "Tipo": "OBR",
+    "Descricao": "PROBABILIDADE E ESTATÍSTICA",
+    "Semestre": 3,
+    "Apelido": "PROBABILIDADE E ESTATÍSTICA",
+    "CargaHorariaTeorico": 68,
+    "CargaHorariaPratica": null,
+    "ListaPrequisitos": [
+      {
+        "Id": 48017,
+        "Codigo": "2201.000.198-0",
+        "Descricao": "CÁLCULO II",
+        "Semestre": "0",
+        "Apelido": "CÁLCULO II",
+        "CargaHorariaTeorico": 0,
+        "CargaHorariaPratica": 0,
+        "ListaPrequisitos": []
+      }
+    ]
+  },
+  {
+    "Id": 50156,
+    "Codigo": "2301.000.406-1",
+    "Tipo": "OBR",
+    "Descricao": "QUÍMICA GERAL",
+    "Semestre": 3,
+    "Apelido": "QUÍMICA GERAL",
+    "CargaHorariaTeorico": 34,
+    "CargaHorariaPratica": null,
+    "ListaPrequisitos": []
+  },
+  {
+    "Id": 49467,
+    "Codigo": "2301.000.405-2",
+    "Tipo": "OBR",
+    "Descricao": "QUÍMICA GERAL EXPERIMENTAL",
+    "Semestre": 3,
+    "Apelido": "QUÍMICA GERAL EXPERIMENTAL",
+    "CargaHorariaTeorico": 34,
+    "CargaHorariaPratica": null,
+    "ListaPrequisitos": []
+  },
+  {
+    "Id": 50173,
+    "Codigo": "2101.001.441-1",
+    "Tipo": "OBR",
+    "Descricao": "REPRESENTAÇÃO DE PROJETOS DE ENGENHARIA",
+    "Semestre": 3,
+    "Apelido": "REPRESENTAÇÃO DE PROJETOS DE ENGENHARIA",
+    "CargaHorariaTeorico": 51,
+    "CargaHorariaPratica": null,
+    "ListaPrequisitos": [
+      {
+        "Id": 50139,
+        "Codigo": "2101.001.409-1",
+        "Descricao": "DESENHO TÉCNICO CIVIL",
+        "Semestre": "0",
+        "Apelido": "DESENHO TÉCNICO CIVIL",
+        "CargaHorariaTeorico": 0,
+        "CargaHorariaPratica": 0,
+        "ListaPrequisitos": []
+      }
+    ]
+  },
+  {
+    "Id": 50171,
+    "Codigo": "2101.001.439-6",
+    "Tipo": "OBR",
+    "Descricao": "ARQUITETURA E URBANISMO",
+    "Semestre": 4,
+    "Apelido": "ARQUITETURA E URBANISMO",
+    "CargaHorariaTeorico": 51,
+    "CargaHorariaPratica": null,
+    "ListaPrequisitos": [
+      {
+        "Id": 50173,
+        "Codigo": "2101.001.441-1",
+        "Descricao": "REPRESENTAÇÃO DE PROJETOS DE ENGENHARIA",
+        "Semestre": "0",
+        "Apelido": "REPRESENTAÇÃO DE PROJETOS DE ENGENHARIA",
+        "CargaHorariaTeorico": 0,
+        "CargaHorariaPratica": 0,
+        "ListaPrequisitos": []
+      }
+    ]
+  },
+  {
+    "Id": 50150,
+    "Codigo": "2101.001.420-6",
+    "Tipo": "OBR",
+    "Descricao": "CIÊNCIA E TECNOLOGIA DOS MATERIAIS",
+    "Semestre": 4,
+    "Apelido": "CIÊNCIA E TECNOLOGIA DOS MATERIAIS",
+    "CargaHorariaTeorico": 34,
+    "CargaHorariaPratica": null,
+    "ListaPrequisitos": [
+      {
+        "Id": 49467,
+        "Codigo": "2301.000.405-2",
+        "Descricao": "QUÍMICA GERAL EXPERIMENTAL",
+        "Semestre": "0",
+        "Apelido": "QUÍMICA GERAL EXPERIMENTAL",
+        "CargaHorariaTeorico": 0,
+        "CargaHorariaPratica": 0,
+        "ListaPrequisitos": []
+      },
+      {
+        "Id": 50156,
+        "Codigo": "2301.000.406-1",
+        "Descricao": "QUÍMICA GERAL",
+        "Semestre": "0",
+        "Apelido": "QUÍMICA GERAL",
+        "CargaHorariaTeorico": 0,
+        "CargaHorariaPratica": 0,
+        "ListaPrequisitos": []
+      }
+    ]
+  },
+  {
+    "Id": 50164,
+    "Codigo": "2101.001.433-1",
+    "Tipo": "OBR",
+    "Descricao": "ELETRICIDADE",
+    "Semestre": 4,
+    "Apelido": "ELETRICIDADE",
+    "CargaHorariaTeorico": 51,
+    "CargaHorariaPratica": null,
+    "ListaPrequisitos": [
+      {
+        "Id": 48017,
+        "Codigo": "2201.000.198-0",
+        "Descricao": "CÁLCULO II",
+        "Semestre": "0",
+        "Apelido": "CÁLCULO II",
+        "CargaHorariaTeorico": 0,
+        "CargaHorariaPratica": 0,
+        "ListaPrequisitos": []
+      }
+    ]
+  },
+  {
+    "Id": 48018,
+    "Codigo": "2201.000.199-9",
+    "Tipo": "OBR",
+    "Descricao": "EQUAÇÕES DIFERENCIAIS ORDINÁRIAS",
+    "Semestre": 4,
+    "Apelido": "EQUAÇÕES DIFERENCIAIS ORDINÁRIAS",
+    "CargaHorariaTeorico": 34,
+    "CargaHorariaPratica": null,
+    "ListaPrequisitos": [
+      {
+        "Id": 48318,
+        "Codigo": "2201.000.201-0",
+        "Descricao": "CÁLCULO III",
+        "Semestre": "0",
+        "Apelido": "CÁLCULO III",
+        "CargaHorariaTeorico": 0,
+        "CargaHorariaPratica": 0,
+        "ListaPrequisitos": []
+      }
+    ]
+  },
+  {
+    "Id": 31859,
+    "Codigo": "2101.000.337-4",
+    "Tipo": "OBR",
+    "Descricao": "GEOLOGIA GERAL",
+    "Semestre": 4,
+    "Apelido": "GEOLOGIA GERAL",
+    "CargaHorariaTeorico": 68,
+    "CargaHorariaPratica": null,
+    "ListaPrequisitos": []
+  },
+  {
+    "Id": 50160,
+    "Codigo": "2101.001.429-8",
+    "Tipo": "OBR",
+    "Descricao": "RESISTÊNCIA DOS MATERIAIS I",
+    "Semestre": 4,
+    "Apelido": "RESISTÊNCIA DOS MATERIAIS I",
+    "CargaHorariaTeorico": 85,
+    "CargaHorariaPratica": null,
+    "ListaPrequisitos": [
+      {
+        "Id": 48034,
+        "Codigo": "2401.000.260-3",
+        "Descricao": "FUNDAMENTOS DE MECÂNICA",
+        "Semestre": "0",
+        "Apelido": "FUNDAMENTOS DE MECÂNICA",
+        "CargaHorariaTeorico": 0,
+        "CargaHorariaPratica": 0,
+        "ListaPrequisitos": []
+      },
+      {
+        "Id": 50157,
+        "Codigo": "2101.001.426-0",
+        "Descricao": "ESTÁTICA DAS ESTRUTURAS I",
+        "Semestre": "0",
+        "Apelido": "ESTÁTICA DAS ESTRUTURAS I",
+        "CargaHorariaTeorico": 0,
+        "CargaHorariaPratica": 0,
+        "ListaPrequisitos": []
+      }
+    ]
+  },
+  {
+    "Id": 31858,
+    "Codigo": "2101.000.336-6",
+    "Tipo": "OBR",
+    "Descricao": "TOPOGRAFIA",
+    "Semestre": 4,
+    "Apelido": "TOPOGRAFIA",
+    "CargaHorariaTeorico": 68,
+    "CargaHorariaPratica": null,
+    "ListaPrequisitos": []
+  },
+  {
+    "Id": 50159,
+    "Codigo": "2101.001.428-9",
+    "Tipo": "OBR",
+    "Descricao": "FENÔMENOS DE TRANSPORTE",
+    "Semestre": 5,
+    "Apelido": "FENÔMENOS DE TRANSPORTE",
+    "CargaHorariaTeorico": 85,
+    "CargaHorariaPratica": null,
+    "ListaPrequisitos": [
+      {
+        "Id": 48031,
+        "Codigo": "2401.000.257-9",
+        "Descricao": "FUNDAMENTOS DE FLUIDOS, ONDAS E TERMODINÂMICA",
+        "Semestre": "0",
+        "Apelido": "FUNDAMENTOS DE FLUIDOS, ONDAS E TERMODINÂMICA",
+        "CargaHorariaTeorico": 0,
+        "CargaHorariaPratica": 0,
+        "ListaPrequisitos": []
+      },
+      {
+        "Id": 48318,
+        "Codigo": "2201.000.201-0",
+        "Descricao": "CÁLCULO III",
+        "Semestre": "0",
+        "Apelido": "CÁLCULO III",
+        "CargaHorariaTeorico": 0,
+        "CargaHorariaPratica": 0,
+        "ListaPrequisitos": []
+      }
+    ]
+  },
+  {
+    "Id": 46511,
+    "Codigo": "2101.001.400-0",
+    "Tipo": "OBR",
+    "Descricao": "FUNDAMENTOS DE ADMINISTRAÇÃO",
+    "Semestre": 5,
+    "Apelido": "FUNDAMENTOS DE ADMINISTRAÇÃO",
+    "CargaHorariaTeorico": 34,
+    "CargaHorariaPratica": null,
+    "ListaPrequisitos": []
+  },
+  {
+    "Id": 31599,
+    "Codigo": "2101.000.083-9",
+    "Tipo": "OBR",
+    "Descricao": "MATERIAIS DE CONSTRUÇÃO CIVIL I",
+    "Semestre": 5,
+    "Apelido": "MATERIAIS DE CONSTRUÇÃO CIVIL I",
+    "CargaHorariaTeorico": 51,
+    "CargaHorariaPratica": null,
+    "ListaPrequisitos": [
+      {
+        "Id": 31859,
+        "Codigo": "2101.000.337-4",
+        "Descricao": "GEOLOGIA GERAL",
+        "Semestre": "0",
+        "Apelido": "GEOLOGIA GERAL",
+        "CargaHorariaTeorico": 0,
+        "CargaHorariaPratica": 0,
+        "ListaPrequisitos": []
+      },
+      {
+        "Id": 50150,
+        "Codigo": "2101.001.420-6",
+        "Descricao": "CIÊNCIA E TECNOLOGIA DOS MATERIAIS",
+        "Semestre": "0",
+        "Apelido": "CIÊNCIA E TECNOLOGIA DOS MATERIAIS",
+        "CargaHorariaTeorico": 0,
+        "CargaHorariaPratica": 0,
+        "ListaPrequisitos": []
+      }
+    ]
+  },
+  {
+    "Id": 31613,
+    "Codigo": "2101.000.097-9",
+    "Tipo": "OBR",
+    "Descricao": "MECÂNICA DOS SOLOS",
+    "Semestre": 5,
+    "Apelido": "MECÂNICA DOS SOLOS",
+    "CargaHorariaTeorico": 85,
+    "CargaHorariaPratica": null,
+    "ListaPrequisitos": [
+      {
+        "Id": 31859,
+        "Codigo": "2101.000.337-4",
+        "Descricao": "GEOLOGIA GERAL",
+        "Semestre": "0",
+        "Apelido": "GEOLOGIA GERAL",
+        "CargaHorariaTeorico": 0,
+        "CargaHorariaPratica": 0,
+        "ListaPrequisitos": []
+      },
+      {
+        "Id": 50160,
+        "Codigo": "2101.001.429-8",
+        "Descricao": "RESISTÊNCIA DOS MATERIAIS I",
+        "Semestre": "0",
+        "Apelido": "RESISTÊNCIA DOS MATERIAIS I",
+        "CargaHorariaTeorico": 0,
+        "CargaHorariaPratica": 0,
+        "ListaPrequisitos": []
+      }
+    ]
+  },
+  {
+    "Id": 48582,
+    "Codigo": "2201.000.204-7",
+    "Tipo": "OBR",
+    "Descricao": "MÉTODOS NUMÉRICOS",
+    "Semestre": 5,
+    "Apelido": "MÉTODOS NUMÉRICOS",
+    "CargaHorariaTeorico": 68,
+    "CargaHorariaPratica": null,
+    "ListaPrequisitos": [
+      {
+        "Id": 48330,
+        "Codigo": "2201.000.202-9",
+        "Descricao": "ÁLGEBRA LINEAR",
+        "Semestre": "0",
+        "Apelido": "ÁLGEBRA LINEAR",
+        "CargaHorariaTeorico": 0,
+        "CargaHorariaPratica": 0,
+        "ListaPrequisitos": []
+      },
+      {
+        "Id": 48791,
+        "Codigo": "1919.000.459-3",
+        "Descricao": "ALGORITMOS E PROGRAMAÇÃO",
+        "Semestre": "0",
+        "Apelido": "ALGORITMOS E PROGRAMAÇÃO",
+        "CargaHorariaTeorico": 0,
+        "CargaHorariaPratica": 0,
+        "ListaPrequisitos": []
+      }
+    ]
+  },
+  {
+    "Id": 50165,
+    "Codigo": "2101.001.434-0",
+    "Tipo": "OBR",
+    "Descricao": "RESISTÊNCIA DOS MATERIAIS II",
+    "Semestre": 5,
+    "Apelido": "RESISTÊNCIA DOS MATERIAIS II",
+    "CargaHorariaTeorico": 85,
+    "CargaHorariaPratica": null,
+    "ListaPrequisitos": [
+      {
+        "Id": 50160,
+        "Codigo": "2101.001.429-8",
+        "Descricao": "RESISTÊNCIA DOS MATERIAIS I",
+        "Semestre": "0",
+        "Apelido": "RESISTÊNCIA DOS MATERIAIS I",
+        "CargaHorariaTeorico": 0,
+        "CargaHorariaPratica": 0,
+        "ListaPrequisitos": []
+      }
+    ]
+  },
+  {
+    "Id": 50146,
+    "Codigo": "2101.001.416-2",
+    "Tipo": "OBR",
+    "Descricao": "AÇÕES, SEGURANÇA E CONCEPÇÃO ESTRUTURAL",
+    "Semestre": 6,
+    "Apelido": "AÇÕES, SEGURANÇA E CONCEPÇÃO ESTRUTURAL",
+    "CargaHorariaTeorico": 34,
+    "CargaHorariaPratica": null,
+    "ListaPrequisitos": [
+      {
+        "Id": 50160,
+        "Codigo": "2101.001.429-8",
+        "Descricao": "RESISTÊNCIA DOS MATERIAIS I",
+        "Semestre": "0",
+        "Apelido": "RESISTÊNCIA DOS MATERIAIS I",
+        "CargaHorariaTeorico": 0,
+        "CargaHorariaPratica": 0,
+        "ListaPrequisitos": []
+      }
+    ]
+  },
+  {
+    "Id": 34023,
+    "Codigo": "2101.000.794-9",
+    "Tipo": "OBR",
+    "Descricao": "ENGENHARIA DE TRANSPORTES I",
+    "Semestre": 6,
+    "Apelido": "ENGENHARIA DE TRANSPORTES I",
+    "CargaHorariaTeorico": 68,
+    "CargaHorariaPratica": null,
+    "ListaPrequisitos": [
+      {
+        "Id": 48009,
+        "Codigo": "2201.000.196-1",
+        "Descricao": "PROBABILIDADE E ESTATÍSTICA",
+        "Semestre": "0",
+        "Apelido": "PROBABILIDADE E ESTATÍSTICA",
+        "CargaHorariaTeorico": 0,
+        "CargaHorariaPratica": 0,
+        "ListaPrequisitos": []
+      },
+      {
+        "Id": 48582,
+        "Codigo": "2201.000.204-7",
+        "Descricao": "MÉTODOS NUMÉRICOS",
+        "Semestre": "0",
+        "Apelido": "MÉTODOS NUMÉRICOS",
+        "CargaHorariaTeorico": 0,
+        "CargaHorariaPratica": 0,
+        "ListaPrequisitos": []
+      }
+    ]
+  },
+  {
+    "Id": 50166,
+    "Codigo": "2101.001.435-0",
+    "Tipo": "OBR",
+    "Descricao": "ESTÁTICA DAS ESTRUTURAS II",
+    "Semestre": 6,
+    "Apelido": "ESTÁTICA DAS ESTRUTURAS II",
+    "CargaHorariaTeorico": 85,
+    "CargaHorariaPratica": null,
+    "ListaPrequisitos": [
+      {
+        "Id": 50160,
+        "Codigo": "2101.001.429-8",
+        "Descricao": "RESISTÊNCIA DOS MATERIAIS I",
+        "Semestre": "0",
+        "Apelido": "RESISTÊNCIA DOS MATERIAIS I",
+        "CargaHorariaTeorico": 0,
+        "CargaHorariaPratica": 0,
+        "ListaPrequisitos": []
+      }
+    ]
+  },
+  {
+    "Id": 50161,
+    "Codigo": "2101.001.430-4",
+    "Tipo": "OBR",
+    "Descricao": "HIDRÁULICA",
+    "Semestre": 6,
+    "Apelido": "HIDRÁULICA",
+    "CargaHorariaTeorico": 85,
+    "CargaHorariaPratica": null,
+    "ListaPrequisitos": [
+      {
+        "Id": 50159,
+        "Codigo": "2101.001.428-9",
+        "Descricao": "FENÔMENOS DE TRANSPORTE",
+        "Semestre": "0",
+        "Apelido": "FENÔMENOS DE TRANSPORTE",
+        "CargaHorariaTeorico": 0,
+        "CargaHorariaPratica": 0,
+        "ListaPrequisitos": []
+      }
+    ]
+  },
+  {
+    "Id": 34024,
+    "Codigo": "2101.000.795-7",
+    "Tipo": "OBR",
+    "Descricao": "INSTALAÇÕES ELÉTRICAS",
+    "Semestre": 6,
+    "Apelido": "INSTALAÇÕES ELÉTRICAS",
+    "CargaHorariaTeorico": 51,
+    "CargaHorariaPratica": null,
+    "ListaPrequisitos": [
+      {
+        "Id": 50164,
+        "Codigo": "2101.001.433-1",
+        "Descricao": "ELETRICIDADE",
+        "Semestre": "0",
+        "Apelido": "ELETRICIDADE",
+        "CargaHorariaTeorico": 0,
+        "CargaHorariaPratica": 0,
+        "ListaPrequisitos": []
+      }
+    ]
+  },
+  {
+    "Id": 50172,
+    "Codigo": "2101.001.440-2",
+    "Tipo": "OBR",
+    "Descricao": "MATERIAIS DE CONSTRUÇÃO CIVIL II",
+    "Semestre": 6,
+    "Apelido": "MATERIAIS DE CONSTRUÇÃO CIVIL II",
+    "CargaHorariaTeorico": 51,
+    "CargaHorariaPratica": null,
+    "ListaPrequisitos": [
+      {
+        "Id": 31599,
+        "Codigo": "2101.000.083-9",
+        "Descricao": "MATERIAIS DE CONSTRUÇÃO CIVIL I",
+        "Semestre": "0",
+        "Apelido": "MATERIAIS DE CONSTRUÇÃO CIVIL I",
+        "CargaHorariaTeorico": 0,
+        "CargaHorariaPratica": 0,
+        "ListaPrequisitos": []
+      }
+    ]
+  },
+  {
+    "Id": 31617,
+    "Codigo": "2101.000.101-0",
+    "Tipo": "OBR",
+    "Descricao": "OBRAS DE TERRA",
+    "Semestre": 6,
+    "Apelido": "OBRAS DE TERRA",
+    "CargaHorariaTeorico": 51,
+    "CargaHorariaPratica": null,
+    "ListaPrequisitos": [
+      {
+        "Id": 31613,
+        "Codigo": "2101.000.097-9",
+        "Descricao": "MECÂNICA DOS SOLOS",
+        "Semestre": "0",
+        "Apelido": "MECÂNICA DOS SOLOS",
+        "CargaHorariaTeorico": 0,
+        "CargaHorariaPratica": 0,
+        "ListaPrequisitos": []
+      }
+    ]
+  },
+  {
+    "Id": 50167,
+    "Codigo": "2101.001.436-9",
+    "Tipo": "OBR",
+    "Descricao": "CONCRETO ARMADO I",
+    "Semestre": 7,
+    "Apelido": "CONCRETO ARMADO I",
+    "CargaHorariaTeorico": 85,
+    "CargaHorariaPratica": null,
+    "ListaPrequisitos": [
+      {
+        "Id": 50146,
+        "Codigo": "2101.001.416-2",
+        "Descricao": "AÇÕES, SEGURANÇA E CONCEPÇÃO ESTRUTURAL",
+        "Semestre": "0",
+        "Apelido": "AÇÕES, SEGURANÇA E CONCEPÇÃO ESTRUTURAL",
+        "CargaHorariaTeorico": 0,
+        "CargaHorariaPratica": 0,
+        "ListaPrequisitos": []
+      },
+      {
+        "Id": 50166,
+        "Codigo": "2101.001.435-0",
+        "Descricao": "ESTÁTICA DAS ESTRUTURAS II",
+        "Semestre": "0",
+        "Apelido": "ESTÁTICA DAS ESTRUTURAS II",
+        "CargaHorariaTeorico": 0,
+        "CargaHorariaPratica": 0,
+        "ListaPrequisitos": []
+      }
+    ]
+  },
+  {
+    "Id": 50158,
+    "Codigo": "2101.001.427-0",
+    "Tipo": "OBR",
+    "Descricao": "CONSTRUÇÕES DE EDIFÍCIOS",
+    "Semestre": 7,
+    "Apelido": "CONSTRUÇÕES DE EDIFÍCIOS",
+    "CargaHorariaTeorico": 85,
+    "CargaHorariaPratica": null,
+    "ListaPrequisitos": [
+      {
+        "Id": 50172,
+        "Codigo": "2101.001.440-2",
+        "Descricao": "MATERIAIS DE CONSTRUÇÃO CIVIL II",
+        "Semestre": "0",
+        "Apelido": "MATERIAIS DE CONSTRUÇÃO CIVIL II",
+        "CargaHorariaTeorico": 0,
+        "CargaHorariaPratica": 0,
+        "ListaPrequisitos": []
+      }
+    ]
+  },
+  {
+    "Id": 34027,
+    "Codigo": "2101.000.798-1",
+    "Tipo": "OBR",
+    "Descricao": "ENGENHARIA DE TRANSPORTES II",
+    "Semestre": 7,
+    "Apelido": "ENGENHARIA DE TRANSPORTES II",
+    "CargaHorariaTeorico": 34,
+    "CargaHorariaPratica": null,
+    "ListaPrequisitos": [
+      {
+        "Id": 34023,
+        "Codigo": "2101.000.794-9",
+        "Descricao": "ENGENHARIA DE TRANSPORTES I",
+        "Semestre": "0",
+        "Apelido": "ENGENHARIA DE TRANSPORTES I",
+        "CargaHorariaTeorico": 0,
+        "CargaHorariaPratica": 0,
+        "ListaPrequisitos": []
+      }
+    ]
+  },
+  {
+    "Id": 50168,
+    "Codigo": "2101.001.437-8",
+    "Tipo": "OBR",
+    "Descricao": "ESTRUTURAS METÁLICAS",
+    "Semestre": 7,
+    "Apelido": "ESTRUTURAS METÁLICAS",
+    "CargaHorariaTeorico": 51,
+    "CargaHorariaPratica": null,
+    "ListaPrequisitos": [
+      {
+        "Id": 50146,
+        "Codigo": "2101.001.416-2",
+        "Descricao": "AÇÕES, SEGURANÇA E CONCEPÇÃO ESTRUTURAL",
+        "Semestre": "0",
+        "Apelido": "AÇÕES, SEGURANÇA E CONCEPÇÃO ESTRUTURAL",
+        "CargaHorariaTeorico": 0,
+        "CargaHorariaPratica": 0,
+        "ListaPrequisitos": []
+      },
+      {
+        "Id": 50165,
+        "Codigo": "2101.001.434-0",
+        "Descricao": "RESISTÊNCIA DOS MATERIAIS II",
+        "Semestre": "0",
+        "Apelido": "RESISTÊNCIA DOS MATERIAIS II",
+        "CargaHorariaTeorico": 0,
+        "CargaHorariaPratica": 0,
+        "ListaPrequisitos": []
+      }
+    ]
+  },
+  {
+    "Id": 31619,
+    "Codigo": "2101.000.103-7",
+    "Tipo": "OBR",
+    "Descricao": "FUNDAÇÕES I",
+    "Semestre": 7,
+    "Apelido": "FUNDAÇÕES I",
+    "CargaHorariaTeorico": 51,
+    "CargaHorariaPratica": null,
+    "ListaPrequisitos": [
+      {
+        "Id": 31613,
+        "Codigo": "2101.000.097-9",
+        "Descricao": "MECÂNICA DOS SOLOS",
+        "Semestre": "0",
+        "Apelido": "MECÂNICA DOS SOLOS",
+        "CargaHorariaTeorico": 0,
+        "CargaHorariaPratica": 0,
+        "ListaPrequisitos": []
+      }
+    ]
+  },
+  {
+    "Id": 31712,
+    "Codigo": "2101.000.193-2",
+    "Tipo": "OBR",
+    "Descricao": "HIDROLOGIA GERAL",
+    "Semestre": 7,
+    "Apelido": "HIDROLOGIA GERAL",
+    "CargaHorariaTeorico": 68,
+    "CargaHorariaPratica": null,
+    "ListaPrequisitos": [
+      {
+        "Id": 50159,
+        "Codigo": "2101.001.428-9",
+        "Descricao": "FENÔMENOS DE TRANSPORTE",
+        "Semestre": "0",
+        "Apelido": "FENÔMENOS DE TRANSPORTE",
+        "CargaHorariaTeorico": 0,
+        "CargaHorariaPratica": 0,
+        "ListaPrequisitos": []
+      }
+    ]
+  },
+  {
+    "Id": 31539,
+    "Codigo": "2101.000.035-9",
+    "Tipo": "OBR",
+    "Descricao": "INSTALAÇÕES HIDRÁULICAS PREDIAIS",
+    "Semestre": 7,
+    "Apelido": "INSTALAÇÕES HIDRÁULICAS PREDIAIS",
+    "CargaHorariaTeorico": 68,
+    "CargaHorariaPratica": null,
+    "ListaPrequisitos": [
+      {
+        "Id": 50161,
+        "Codigo": "2101.001.430-4",
+        "Descricao": "HIDRÁULICA",
+        "Semestre": "0",
+        "Apelido": "HIDRÁULICA",
+        "CargaHorariaTeorico": 0,
+        "CargaHorariaPratica": 0,
+        "ListaPrequisitos": []
+      }
+    ]
+  },
+  {
+    "Id": 50174,
+    "Codigo": "2101.001.442-0",
+    "Tipo": "OBR",
+    "Descricao": "CONCRETO ARMADO II",
+    "Semestre": 8,
+    "Apelido": "CONCRETO ARMADO II",
+    "CargaHorariaTeorico": 85,
+    "CargaHorariaPratica": null,
+    "ListaPrequisitos": [
+      {
+        "Id": 50167,
+        "Codigo": "2101.001.436-9",
+        "Descricao": "CONCRETO ARMADO I",
+        "Semestre": "0",
+        "Apelido": "CONCRETO ARMADO I",
+        "CargaHorariaTeorico": 0,
+        "CargaHorariaPratica": 0,
+        "ListaPrequisitos": []
+      }
+    ]
+  },
+  {
+    "Id": 50152,
+    "Codigo": "2101.001.422-4",
+    "Tipo": "OBR",
+    "Descricao": "EFICIÊNCIA ENERGÉTICA EM EDIFICAÇÕES",
+    "Semestre": 8,
+    "Apelido": "EFICIÊNCIA ENERGÉTICA EM EDIFICAÇÕES",
+    "CargaHorariaTeorico": 68,
+    "CargaHorariaPratica": null,
+    "ListaPrequisitos": [
+      {
+        "Id": 50158,
+        "Codigo": "2101.001.427-0",
+        "Descricao": "CONSTRUÇÕES DE EDIFÍCIOS",
+        "Semestre": "0",
+        "Apelido": "CONSTRUÇÕES DE EDIFÍCIOS",
+        "CargaHorariaTeorico": 0,
+        "CargaHorariaPratica": 0,
+        "ListaPrequisitos": []
+      }
+    ]
+  },
+  {
+    "Id": 45266,
+    "Codigo": "2101.001.351-2",
+    "Tipo": "OBR",
+    "Descricao": "ESTRADAS I",
+    "Semestre": 8,
+    "Apelido": "ESTRADAS I",
+    "CargaHorariaTeorico": 51,
+    "CargaHorariaPratica": null,
+    "ListaPrequisitos": [
+      {
+        "Id": 31858,
+        "Codigo": "2101.000.336-6",
+        "Descricao": "TOPOGRAFIA",
+        "Semestre": "0",
+        "Apelido": "TOPOGRAFIA",
+        "CargaHorariaTeorico": 0,
+        "CargaHorariaPratica": 0,
+        "ListaPrequisitos": []
+      },
+      {
+        "Id": 34027,
+        "Codigo": "2101.000.798-1",
+        "Descricao": "ENGENHARIA DE TRANSPORTES II",
+        "Semestre": "0",
+        "Apelido": "ENGENHARIA DE TRANSPORTES II",
+        "CargaHorariaTeorico": 0,
+        "CargaHorariaPratica": 0,
+        "ListaPrequisitos": []
+      }
+    ]
+  },
+  {
+    "Id": 34028,
+    "Codigo": "2101.000.799-0",
+    "Tipo": "OBR",
+    "Descricao": "FUNDAÇÕES II",
+    "Semestre": 8,
+    "Apelido": "FUNDAÇÕES II",
+    "CargaHorariaTeorico": 68,
+    "CargaHorariaPratica": null,
+    "ListaPrequisitos": [
+      {
+        "Id": 31619,
+        "Codigo": "2101.000.103-7",
+        "Descricao": "FUNDAÇÕES I",
+        "Semestre": "0",
+        "Apelido": "FUNDAÇÕES I",
+        "CargaHorariaTeorico": 0,
+        "CargaHorariaPratica": 0,
+        "ListaPrequisitos": []
+      }
+    ]
+  },
+  {
+    "Id": 46513,
+    "Codigo": "2101.001.402-8",
+    "Tipo": "OBR",
+    "Descricao": "LEGISLAÇÃO, ÉTICA PROFISSIONAL E CIDADANIA",
+    "Semestre": 8,
+    "Apelido": "LEGISLAÇÃO, ÉTICA PROFISSIONAL E CIDADANIA",
+    "CargaHorariaTeorico": 34,
+    "CargaHorariaPratica": null,
+    "ListaPrequisitos": []
+  },
+  {
+    "Id": 34033,
+    "Codigo": "2101.000.804-0",
+    "Tipo": "OBR",
+    "Descricao": "SEGURANÇA DO TRABALHO",
+    "Semestre": 8,
+    "Apelido": "SEGURANÇA DO TRABALHO",
+    "CargaHorariaTeorico": 34,
+    "CargaHorariaPratica": null,
+    "ListaPrequisitos": [
+      {
+        "Id": 50158,
+        "Codigo": "2101.001.427-0",
+        "Descricao": "CONSTRUÇÕES DE EDIFÍCIOS",
+        "Semestre": "0",
+        "Apelido": "CONSTRUÇÕES DE EDIFÍCIOS",
+        "CargaHorariaTeorico": 0,
+        "CargaHorariaPratica": 0,
+        "ListaPrequisitos": []
+      }
+    ]
+  },
+  {
+    "Id": 34035,
+    "Codigo": "2101.000.806-6",
+    "Tipo": "OBR",
+    "Descricao": "SISTEMAS DE ÁGUA, ESGOTO E DRENAGEM",
+    "Semestre": 8,
+    "Apelido": "SISTEMAS DE ÁGUA, ESGOTO E DRENAGEM",
+    "CargaHorariaTeorico": 68,
+    "CargaHorariaPratica": null,
+    "ListaPrequisitos": [
+      {
+        "Id": 31712,
+        "Codigo": "2101.000.193-2",
+        "Descricao": "HIDROLOGIA GERAL",
+        "Semestre": "0",
+        "Apelido": "HIDROLOGIA GERAL",
+        "CargaHorariaTeorico": 0,
+        "CargaHorariaPratica": 0,
+        "ListaPrequisitos": []
+      },
+      {
+        "Id": 50161,
+        "Codigo": "2101.001.430-4",
+        "Descricao": "HIDRÁULICA",
+        "Semestre": "0",
+        "Apelido": "HIDRÁULICA",
+        "CargaHorariaTeorico": 0,
+        "CargaHorariaPratica": 0,
+        "ListaPrequisitos": []
+      }
+    ]
+  },
+  {
+    "Id": 50147,
+    "Codigo": "2101.001.417-1",
+    "Tipo": "OBR",
+    "Descricao": "ANÁLISE ECONÔMICA DE PROJETOS",
+    "Semestre": 9,
+    "Apelido": "ANÁLISE ECONÔMICA DE PROJETOS",
+    "CargaHorariaTeorico": 34,
+    "CargaHorariaPratica": null,
+    "ListaPrequisitos": [
+      {
+        "Id": 48009,
+        "Codigo": "2201.000.196-1",
+        "Descricao": "PROBABILIDADE E ESTATÍSTICA",
+        "Semestre": "0",
+        "Apelido": "PROBABILIDADE E ESTATÍSTICA",
+        "CargaHorariaTeorico": 0,
+        "CargaHorariaPratica": 0,
+        "ListaPrequisitos": []
+      }
+    ]
+  },
+  {
+    "Id": 50148,
+    "Codigo": "2101.001.418-0",
+    "Tipo": "OBR",
+    "Descricao": "ANÁLISE MULTIVARIADA DE DADOS",
+    "Semestre": 9,
+    "Apelido": "ANÁLISE MULTIVARIADA DE DADOS",
+    "CargaHorariaTeorico": 34,
+    "CargaHorariaPratica": null,
+    "ListaPrequisitos": [
+      {
+        "Id": 48009,
+        "Codigo": "2201.000.196-1",
+        "Descricao": "PROBABILIDADE E ESTATÍSTICA",
+        "Semestre": "0",
+        "Apelido": "PROBABILIDADE E ESTATÍSTICA",
+        "CargaHorariaTeorico": 0,
+        "CargaHorariaPratica": 0,
+        "ListaPrequisitos": []
+      }
+    ]
+  },
+  {
+    "Id": 45267,
+    "Codigo": "2101.001.352-1",
+    "Tipo": "OBR",
+    "Descricao": "ESTRADAS II",
+    "Semestre": 9,
+    "Apelido": "ESTRADAS II",
+    "CargaHorariaTeorico": 85,
+    "CargaHorariaPratica": null,
+    "ListaPrequisitos": [
+      {
+        "Id": 45266,
+        "Codigo": "2101.001.351-2",
+        "Descricao": "ESTRADAS I",
+        "Semestre": "0",
+        "Apelido": "ESTRADAS I",
+        "CargaHorariaTeorico": 0,
+        "CargaHorariaPratica": 0,
+        "ListaPrequisitos": []
+      }
+    ]
+  },
+  {
+    "Id": 50140,
+    "Codigo": "2101.001.410-8",
+    "Tipo": "OBR",
+    "Descricao": "LÓGICA DA PESQUISA CIENTÍFICA",
+    "Semestre": 9,
+    "Apelido": "LÓGICA DA PESQUISA CIENTÍFICA",
+    "CargaHorariaTeorico": 34,
+    "CargaHorariaPratica": null,
+    "ListaPrequisitos": []
+  },
+  {
+    "Id": 50138,
+    "Codigo": "2101.001.408-2",
+    "Tipo": "OBR",
+    "Descricao": "PLANEJAMENTO DE OBRAS",
+    "Semestre": 9,
+    "Apelido": "PLANEJAMENTO DE OBRAS",
+    "CargaHorariaTeorico": 51,
+    "CargaHorariaPratica": null,
+    "ListaPrequisitos": [
+      {
+        "Id": 50158,
+        "Codigo": "2101.001.427-0",
+        "Descricao": "CONSTRUÇÕES DE EDIFÍCIOS",
+        "Semestre": "0",
+        "Apelido": "CONSTRUÇÕES DE EDIFÍCIOS",
+        "CargaHorariaTeorico": 0,
+        "CargaHorariaPratica": 0,
+        "ListaPrequisitos": []
+      }
+    ]
+  },
+  {
+    "Id": 50149,
+    "Codigo": "2101.001.419-0",
+    "Tipo": "OBR",
+    "Descricao": "PONTES DE CONCRETO",
+    "Semestre": 9,
+    "Apelido": "PONTES DE CONCRETO",
+    "CargaHorariaTeorico": 68,
+    "CargaHorariaPratica": null,
+    "ListaPrequisitos": [
+      {
+        "Id": 50174,
+        "Codigo": "2101.001.442-0",
+        "Descricao": "CONCRETO ARMADO II",
+        "Semestre": "0",
+        "Apelido": "CONCRETO ARMADO II",
+        "CargaHorariaTeorico": 0,
+        "CargaHorariaPratica": 0,
+        "ListaPrequisitos": []
+      }
+    ]
+  },
+  {
+    "Id": 50153,
+    "Codigo": "2101.001.423-3",
+    "Tipo": "OBR",
+    "Descricao": "PROJETOS DE SISTEMAS DE ÁGUA, ESGOTO E DRENAGEM",
+    "Semestre": 9,
+    "Apelido": "PROJETOS DE SISTEMAS DE ÁGUA, ESGOTO E DRENAGEM",
+    "CargaHorariaTeorico": 68,
+    "CargaHorariaPratica": null,
+    "ListaPrequisitos": [
+      {
+        "Id": 34035,
+        "Codigo": "2101.000.806-6",
+        "Descricao": "SISTEMAS DE ÁGUA, ESGOTO E DRENAGEM",
+        "Semestre": "0",
+        "Apelido": "SISTEMAS DE ÁGUA, ESGOTO E DRENAGEM",
+        "CargaHorariaTeorico": 0,
+        "CargaHorariaPratica": 0,
+        "ListaPrequisitos": []
+      }
+    ]
+  },
+  {
+    "Id": 34030,
+    "Codigo": "2101.000.801-5",
+    "Tipo": "OBR",
+    "Descricao": "ESTÁGIO OBRIGATÓRIO",
+    "Semestre": 10,
+    "Apelido": "ESTÁGIO OBRIGATÓRIO",
+    "CargaHorariaTeorico": 160,
+    "CargaHorariaPratica": null,
+    "ListaPrequisitos": []
+  },
+  {
+    "Id": 50170,
+    "Codigo": "2101.001.438-7",
+    "Tipo": "OBR",
+    "Descricao": "ESTRUTURAS DE MADEIRA",
+    "Semestre": 10,
+    "Apelido": "ESTRUTURAS DE MADEIRA",
+    "CargaHorariaTeorico": 34,
+    "CargaHorariaPratica": null,
+    "ListaPrequisitos": [
+      {
+        "Id": 50146,
+        "Codigo": "2101.001.416-2",
+        "Descricao": "AÇÕES, SEGURANÇA E CONCEPÇÃO ESTRUTURAL",
+        "Semestre": "0",
+        "Apelido": "AÇÕES, SEGURANÇA E CONCEPÇÃO ESTRUTURAL",
+        "CargaHorariaTeorico": 0,
+        "CargaHorariaPratica": 0,
+        "ListaPrequisitos": []
+      },
+      {
+        "Id": 50165,
+        "Codigo": "2101.001.434-0",
+        "Descricao": "RESISTÊNCIA DOS MATERIAIS II",
+        "Semestre": "0",
+        "Apelido": "RESISTÊNCIA DOS MATERIAIS II",
+        "CargaHorariaTeorico": 0,
+        "CargaHorariaPratica": 0,
+        "ListaPrequisitos": []
+      }
+    ]
+  },
+  {
+    "Id": 50154,
+    "Codigo": "2101.001.424-2",
+    "Tipo": "OBR",
+    "Descricao": "PROJETO DE EDIFÍCIOS",
+    "Semestre": 10,
+    "Apelido": "PROJETO DE EDIFÍCIOS",
+    "CargaHorariaTeorico": 85,
+    "CargaHorariaPratica": null,
+    "ListaPrequisitos": [
+      {
+        "Id": 31539,
+        "Codigo": "2101.000.035-9",
+        "Descricao": "INSTALAÇÕES HIDRÁULICAS PREDIAIS",
+        "Semestre": "0",
+        "Apelido": "INSTALAÇÕES HIDRÁULICAS PREDIAIS",
+        "CargaHorariaTeorico": 0,
+        "CargaHorariaPratica": 0,
+        "ListaPrequisitos": []
+      },
+      {
+        "Id": 34024,
+        "Codigo": "2101.000.795-7",
+        "Descricao": "INSTALAÇÕES ELÉTRICAS",
+        "Semestre": "0",
+        "Apelido": "INSTALAÇÕES ELÉTRICAS",
+        "CargaHorariaTeorico": 0,
+        "CargaHorariaPratica": 0,
+        "ListaPrequisitos": []
+      },
+      {
+        "Id": 34028,
+        "Codigo": "2101.000.799-0",
+        "Descricao": "FUNDAÇÕES II",
+        "Semestre": "0",
+        "Apelido": "FUNDAÇÕES II",
+        "CargaHorariaTeorico": 0,
+        "CargaHorariaPratica": 0,
+        "ListaPrequisitos": []
+      },
+      {
+        "Id": 50174,
+        "Codigo": "2101.001.442-0",
+        "Descricao": "CONCRETO ARMADO II",
+        "Semestre": "0",
+        "Apelido": "CONCRETO ARMADO II",
+        "CargaHorariaTeorico": 0,
+        "CargaHorariaPratica": 0,
+        "ListaPrequisitos": []
+      }
+    ]
+  },
+  {
+    "Id": 31638,
+    "Codigo": "2101.000.121-5",
+    "Tipo": "OPT",
+    "Descricao": "ADUTORAS E ELEVATÓRIAS",
+    "Semestre": 99,
+    "Apelido": "ADUTORAS E ELEVATÓRIAS",
+    "CargaHorariaTeorico": 68,
+    "CargaHorariaPratica": null,
+    "ListaPrequisitos": [
+      {
+        "Id": 50161,
+        "Codigo": "2101.001.430-4",
+        "Descricao": "HIDRÁULICA",
+        "Semestre": "0",
+        "Apelido": "HIDRÁULICA",
+        "CargaHorariaTeorico": 0,
+        "CargaHorariaPratica": 0,
+        "ListaPrequisitos": []
+      }
+    ]
+  },
+  {
+    "Id": 33944,
+    "Codigo": "2101.000.724-8",
+    "Tipo": "OPT",
+    "Descricao": "AEROPORTOS, PORTOS E VIAS NAVEGÁVEIS",
+    "Semestre": 99,
+    "Apelido": "AEROPORTOS, PORTOS E VIAS NAVEGÁVEIS",
+    "CargaHorariaTeorico": 68,
+    "CargaHorariaPratica": null,
+    "ListaPrequisitos": [
+      {
+        "Id": 34027,
+        "Codigo": "2101.000.798-1",
+        "Descricao": "ENGENHARIA DE TRANSPORTES II",
+        "Semestre": "0",
+        "Apelido": "ENGENHARIA DE TRANSPORTES II",
+        "CargaHorariaTeorico": 0,
+        "CargaHorariaPratica": 0,
+        "ListaPrequisitos": []
+      }
+    ]
+  },
+  {
+    "Id": 31637,
+    "Codigo": "2101.000.120-7",
+    "Tipo": "OPT",
+    "Descricao": "ÁGUAS SUBTERRÂNEAS",
+    "Semestre": 99,
+    "Apelido": "ÁGUAS SUBTERRÂNEAS",
+    "CargaHorariaTeorico": 68,
+    "CargaHorariaPratica": null,
+    "ListaPrequisitos": [
+      {
+        "Id": 31859,
+        "Codigo": "2101.000.337-4",
+        "Descricao": "GEOLOGIA GERAL",
+        "Semestre": "0",
+        "Apelido": "GEOLOGIA GERAL",
+        "CargaHorariaTeorico": 0,
+        "CargaHorariaPratica": 0,
+        "ListaPrequisitos": []
+      }
+    ]
+  },
+  {
+    "Id": 33945,
+    "Codigo": "2101.000.725-6",
+    "Tipo": "OPT",
+    "Descricao": "ALVENARIA ESTRUTURAL",
+    "Semestre": 99,
+    "Apelido": "ALVENARIA ESTRUTURAL",
+    "CargaHorariaTeorico": 51,
+    "CargaHorariaPratica": null,
+    "ListaPrequisitos": [
+      {
+        "Id": 50165,
+        "Codigo": "2101.001.434-0",
+        "Descricao": "RESISTÊNCIA DOS MATERIAIS II",
+        "Semestre": "0",
+        "Apelido": "RESISTÊNCIA DOS MATERIAIS II",
+        "CargaHorariaTeorico": 0,
+        "CargaHorariaPratica": 0,
+        "ListaPrequisitos": []
+      }
+    ]
+  },
+  {
+    "Id": 33946,
+    "Codigo": "2101.000.726-4",
+    "Tipo": "OPT",
+    "Descricao": "ANÁLISE DE FLUXO E PRESSÕES EM SISTEMAS DE ARMAZENAMENTO",
+    "Semestre": 99,
+    "Apelido": "ANÁLISE DE FLUXO E PRESSÕES EM SISTEMAS DE ARMAZENAMENTO",
+    "CargaHorariaTeorico": 51,
+    "CargaHorariaPratica": null,
+    "ListaPrequisitos": [
+      {
+        "Id": 50165,
+        "Codigo": "2101.001.434-0",
+        "Descricao": "RESISTÊNCIA DOS MATERIAIS II",
+        "Semestre": "0",
+        "Apelido": "RESISTÊNCIA DOS MATERIAIS II",
+        "CargaHorariaTeorico": 0,
+        "CargaHorariaPratica": 0,
+        "ListaPrequisitos": []
+      },
+      {
+        "Id": 50166,
+        "Codigo": "2101.001.435-0",
+        "Descricao": "ESTÁTICA DAS ESTRUTURAS II",
+        "Semestre": "0",
+        "Apelido": "ESTÁTICA DAS ESTRUTURAS II",
+        "CargaHorariaTeorico": 0,
+        "CargaHorariaPratica": 0,
+        "ListaPrequisitos": []
+      }
+    ]
+  },
+  {
+    "Id": 33947,
+    "Codigo": "2101.000.727-2",
+    "Tipo": "OPT",
+    "Descricao": "ANÁLISE DE TENSÕES E DEFORMAÇÕES EM PAVIMENTOS",
+    "Semestre": 99,
+    "Apelido": "ANÁLISE DE TENSÕES E DEFORMAÇÕES EM PAVIMENTOS",
+    "CargaHorariaTeorico": 51,
+    "CargaHorariaPratica": null,
+    "ListaPrequisitos": []
+  },
+  {
+    "Id": 31698,
+    "Codigo": "2101.000.180-0",
+    "Tipo": "OPT",
+    "Descricao": "ANÁLISE E CONTROLE DE SISTEMAS DE DISTRIBUIÇÃO DE ÁGUA",
+    "Semestre": 99,
+    "Apelido": "ANÁLISE E CONTROLE DE SISTEMAS DE DISTRIBUIÇÃO DE ÁGUA",
+    "CargaHorariaTeorico": 68,
+    "CargaHorariaPratica": null,
+    "ListaPrequisitos": [
+      {
+        "Id": 34035,
+        "Codigo": "2101.000.806-6",
+        "Descricao": "SISTEMAS DE ÁGUA, ESGOTO E DRENAGEM",
+        "Semestre": "0",
+        "Apelido": "SISTEMAS DE ÁGUA, ESGOTO E DRENAGEM",
+        "CargaHorariaTeorico": 0,
+        "CargaHorariaPratica": 0,
+        "ListaPrequisitos": []
+      }
+    ]
+  },
+  {
+    "Id": 46476,
+    "Codigo": "2101.001.366-6",
+    "Tipo": "OPT",
+    "Descricao": "ANÁLISE E GERENCIAMENTO DE RISCOS",
+    "Semestre": 99,
+    "Apelido": "ANÁLISE E GERENCIAMENTO DE RISCOS",
+    "CargaHorariaTeorico": 34,
+    "CargaHorariaPratica": null,
+    "ListaPrequisitos": [
+      {
+        "Id": 34033,
+        "Codigo": "2101.000.804-0",
+        "Descricao": "SEGURANÇA DO TRABALHO",
+        "Semestre": "0",
+        "Apelido": "SEGURANÇA DO TRABALHO",
+        "CargaHorariaTeorico": 0,
+        "CargaHorariaPratica": 0,
+        "ListaPrequisitos": []
+      }
+    ]
+  },
+  {
+    "Id": 50145,
+    "Codigo": "2101.001.415-3",
+    "Tipo": "OPT",
+    "Descricao": "ANÁLISE E PRODUÇÃO DE TEXTOS E APRESENTAÇÕES PARA ENGENHARIA",
+    "Semestre": 99,
+    "Apelido": "ANÁLISE E PRODUÇÃO DE TEXTOS E APRESENTAÇÕES PARA ENGENHARIA",
+    "CargaHorariaTeorico": 34,
+    "CargaHorariaPratica": null,
+    "ListaPrequisitos": []
+  },
+  {
+    "Id": 51755,
+    "Codigo": "2101.001.611-1",
+    "Tipo": "OPT",
+    "Descricao": "ANÁLISE EXPERIMENTAL DE ELEMENTOS ESTRUTURAIS DE CONCRETO ARMADO",
+    "Semestre": 99,
+    "Apelido": "ANÁLISE EXPERIMENTAL DE ELEMENTOS ESTRUTURAIS DE CONCRETO ARMADO",
+    "CargaHorariaTeorico": 51,
+    "CargaHorariaPratica": null,
+    "ListaPrequisitos": [
+      {
+        "Id": 50166,
+        "Codigo": "2101.001.435-0",
+        "Descricao": "ESTÁTICA DAS ESTRUTURAS II",
+        "Semestre": "0",
+        "Apelido": "ESTÁTICA DAS ESTRUTURAS II",
+        "CargaHorariaTeorico": 0,
+        "CargaHorariaPratica": 0,
+        "ListaPrequisitos": []
+      }
+    ]
+  },
+  {
+    "Id": 33948,
+    "Codigo": "2101.000.728-0",
+    "Tipo": "OPT",
+    "Descricao": "ANÁLISE EXPERIMENTAL EM ENGENHARIA CIVIL",
+    "Semestre": 99,
+    "Apelido": "ANÁLISE EXPERIMENTAL EM ENGENHARIA CIVIL",
+    "CargaHorariaTeorico": 34,
+    "CargaHorariaPratica": null,
+    "ListaPrequisitos": [
+      {
+        "Id": 50160,
+        "Codigo": "2101.001.429-8",
+        "Descricao": "RESISTÊNCIA DOS MATERIAIS I",
+        "Semestre": "0",
+        "Apelido": "RESISTÊNCIA DOS MATERIAIS I",
+        "CargaHorariaTeorico": 0,
+        "CargaHorariaPratica": 0,
+        "ListaPrequisitos": []
+      },
+      {
+        "Id": 50164,
+        "Codigo": "2101.001.433-1",
+        "Descricao": "ELETRICIDADE",
+        "Semestre": "0",
+        "Apelido": "ELETRICIDADE",
+        "CargaHorariaTeorico": 0,
+        "CargaHorariaPratica": 0,
+        "ListaPrequisitos": []
+      }
+    ]
+  },
+  {
+    "Id": 46488,
+    "Codigo": "2101.001.378-2",
+    "Tipo": "OPT",
+    "Descricao": "ANÁLISE FINANCEIRA DE PROJETOS",
+    "Semestre": 99,
+    "Apelido": "ANÁLISE FINANCEIRA DE PROJETOS",
+    "CargaHorariaTeorico": 51,
+    "CargaHorariaPratica": null,
+    "ListaPrequisitos": []
+  },
+  {
+    "Id": 33949,
+    "Codigo": "2101.000.729-9",
+    "Tipo": "OPT",
+    "Descricao": "ANÁLISE MATRICIAL DAS ESTRUTURAS",
+    "Semestre": 99,
+    "Apelido": "ANÁLISE MATRICIAL DAS ESTRUTURAS",
+    "CargaHorariaTeorico": 51,
+    "CargaHorariaPratica": null,
+    "ListaPrequisitos": [
+      {
+        "Id": 50166,
+        "Codigo": "2101.001.435-0",
+        "Descricao": "ESTÁTICA DAS ESTRUTURAS II",
+        "Semestre": "0",
+        "Apelido": "ESTÁTICA DAS ESTRUTURAS II",
+        "CargaHorariaTeorico": 0,
+        "CargaHorariaPratica": 0,
+        "ListaPrequisitos": []
+      }
+    ]
+  },
+  {
+    "Id": 31642,
+    "Codigo": "2101.000.125-8",
+    "Tipo": "OPT",
+    "Descricao": "APROVEITAMENTOS HIDRÁULICOS",
+    "Semestre": 99,
+    "Apelido": "APROVEITAMENTOS HIDRÁULICOS",
+    "CargaHorariaTeorico": 68,
+    "CargaHorariaPratica": null,
+    "ListaPrequisitos": [
+      {
+        "Id": 50161,
+        "Codigo": "2101.001.430-4",
+        "Descricao": "HIDRÁULICA",
+        "Semestre": "0",
+        "Apelido": "HIDRÁULICA",
+        "CargaHorariaTeorico": 0,
+        "CargaHorariaPratica": 0,
+        "ListaPrequisitos": []
+      }
+    ]
+  },
+  {
+    "Id": 31643,
+    "Codigo": "2101.000.126-6",
+    "Tipo": "OPT",
+    "Descricao": "AQUAVIAS E DUTOVIAS",
+    "Semestre": 99,
+    "Apelido": "AQUAVIAS E DUTOVIAS",
+    "CargaHorariaTeorico": 68,
+    "CargaHorariaPratica": null,
+    "ListaPrequisitos": [
+      {
+        "Id": 50161,
+        "Codigo": "2101.001.430-4",
+        "Descricao": "HIDRÁULICA",
+        "Semestre": "0",
+        "Apelido": "HIDRÁULICA",
+        "CargaHorariaTeorico": 0,
+        "CargaHorariaPratica": 0,
+        "ListaPrequisitos": []
+      }
+    ]
+  },
+  {
+    "Id": 31889,
+    "Codigo": "2101.000.362-5",
+    "Tipo": "OPT",
+    "Descricao": "AVALIAÇÃO DE IMPACTOS AMBIENTAIS",
+    "Semestre": 99,
+    "Apelido": "AVALIAÇÃO DE IMPACTOS AMBIENTAIS",
+    "CargaHorariaTeorico": 68,
+    "CargaHorariaPratica": null,
+    "ListaPrequisitos": []
+  },
+  {
+    "Id": 33950,
+    "Codigo": "2101.000.730-2",
+    "Tipo": "OPT",
+    "Descricao": "AVALIAÇÕES E PERÍCIAS NA CONSTRUÇÃO CIVIL",
+    "Semestre": 99,
+    "Apelido": "AVALIAÇÕES E PERÍCIAS NA CONSTRUÇÃO CIVIL",
+    "CargaHorariaTeorico": 51,
+    "CargaHorariaPratica": null,
+    "ListaPrequisitos": [
+      {
+        "Id": 50158,
+        "Codigo": "2101.001.427-0",
+        "Descricao": "CONSTRUÇÕES DE EDIFÍCIOS",
+        "Semestre": "0",
+        "Apelido": "CONSTRUÇÕES DE EDIFÍCIOS",
+        "CargaHorariaTeorico": 0,
+        "CargaHorariaPratica": 0,
+        "ListaPrequisitos": []
+      }
+    ]
+  },
+  {
+    "Id": 46482,
+    "Codigo": "2101.001.372-8",
+    "Tipo": "OPT",
+    "Descricao": "CIDADES INTELIGENTES DO SÉCULO XXI",
+    "Semestre": 99,
+    "Apelido": "CIDADES INTELIGENTES DO SÉCULO XXI",
+    "CargaHorariaTeorico": 51,
+    "CargaHorariaPratica": null,
+    "ListaPrequisitos": []
+  },
+  {
+    "Id": 46483,
+    "Codigo": "2101.001.373-7",
+    "Tipo": "OPT",
+    "Descricao": "CIÊNCIAS DE DADOS APLICADA",
+    "Semestre": 99,
+    "Apelido": "CIÊNCIAS DE DADOS APLICADA",
+    "CargaHorariaTeorico": 51,
+    "CargaHorariaPratica": null,
+    "ListaPrequisitos": []
+  },
+  {
+    "Id": 34034,
+    "Codigo": "2101.000.805-8",
+    "Tipo": "OPT",
+    "Descricao": "COMPLEMENTOS DE ESTRADAS",
+    "Semestre": 99,
+    "Apelido": "COMPLEMENTOS DE ESTRADAS",
+    "CargaHorariaTeorico": 51,
+    "CargaHorariaPratica": null,
+    "ListaPrequisitos": [
+      {
+        "Id": 45267,
+        "Codigo": "2101.001.352-1",
+        "Descricao": "ESTRADAS II",
+        "Semestre": "0",
+        "Apelido": "ESTRADAS II",
+        "CargaHorariaTeorico": 0,
+        "CargaHorariaPratica": 0,
+        "ListaPrequisitos": []
+      }
+    ]
+  },
+  {
+    "Id": 33951,
+    "Codigo": "2101.000.731-0",
+    "Tipo": "OPT",
+    "Descricao": "COMPLEMENTOS DE FUNDAÇÕES E OBRAS DE TERRA",
+    "Semestre": 99,
+    "Apelido": "COMPLEMENTOS DE FUNDAÇÕES E OBRAS DE TERRA",
+    "CargaHorariaTeorico": 51,
+    "CargaHorariaPratica": null,
+    "ListaPrequisitos": [
+      {
+        "Id": 31613,
+        "Codigo": "2101.000.097-9",
+        "Descricao": "MECÂNICA DOS SOLOS",
+        "Semestre": "0",
+        "Apelido": "MECÂNICA DOS SOLOS",
+        "CargaHorariaTeorico": 0,
+        "CargaHorariaPratica": 0,
+        "ListaPrequisitos": []
+      },
+      {
+        "Id": 31617,
+        "Codigo": "2101.000.101-0",
+        "Descricao": "OBRAS DE TERRA",
+        "Semestre": "0",
+        "Apelido": "OBRAS DE TERRA",
+        "CargaHorariaTeorico": 0,
+        "CargaHorariaPratica": 0,
+        "ListaPrequisitos": []
+      },
+      {
+        "Id": 31619,
+        "Codigo": "2101.000.103-7",
+        "Descricao": "FUNDAÇÕES I",
+        "Semestre": "0",
+        "Apelido": "FUNDAÇÕES I",
+        "CargaHorariaTeorico": 0,
+        "CargaHorariaPratica": 0,
+        "ListaPrequisitos": []
+      }
+    ]
+  },
+  {
+    "Id": 33952,
+    "Codigo": "2101.000.732-9",
+    "Tipo": "OPT",
+    "Descricao": "COMPLEMENTOS DE MECÂNICA DOS FLUIDOS",
+    "Semestre": 99,
+    "Apelido": "COMPLEMENTOS DE MECÂNICA DOS FLUIDOS",
+    "CargaHorariaTeorico": 51,
+    "CargaHorariaPratica": null,
+    "ListaPrequisitos": [
+      {
+        "Id": 50159,
+        "Codigo": "2101.001.428-9",
+        "Descricao": "FENÔMENOS DE TRANSPORTE",
+        "Semestre": "0",
+        "Apelido": "FENÔMENOS DE TRANSPORTE",
+        "CargaHorariaTeorico": 0,
+        "CargaHorariaPratica": 0,
+        "ListaPrequisitos": []
+      }
+    ]
+  },
+  {
+    "Id": 46506,
+    "Codigo": "2101.001.395-1",
+    "Tipo": "OPT",
+    "Descricao": "COMPLEMENTOS DE MECÂNICA DOS SOLOS",
+    "Semestre": 99,
+    "Apelido": "COMPLEMENTOS DE MECÂNICA DOS SOLOS",
+    "CargaHorariaTeorico": 34,
+    "CargaHorariaPratica": null,
+    "ListaPrequisitos": [
+      {
+        "Id": 31613,
+        "Codigo": "2101.000.097-9",
+        "Descricao": "MECÂNICA DOS SOLOS",
+        "Semestre": "0",
+        "Apelido": "MECÂNICA DOS SOLOS",
+        "CargaHorariaTeorico": 0,
+        "CargaHorariaPratica": 0,
+        "ListaPrequisitos": []
+      }
+    ]
+  },
+  {
+    "Id": 33954,
+    "Codigo": "2101.000.734-5",
+    "Tipo": "OPT",
+    "Descricao": "COMPLEMENTOS DE PONTES DE CONCRETO",
+    "Semestre": 99,
+    "Apelido": "COMPLEMENTOS DE PONTES DE CONCRETO",
+    "CargaHorariaTeorico": 51,
+    "CargaHorariaPratica": null,
+    "ListaPrequisitos": [
+      {
+        "Id": 50149,
+        "Codigo": "2101.001.419-0",
+        "Descricao": "PONTES DE CONCRETO",
+        "Semestre": "0",
+        "Apelido": "PONTES DE CONCRETO",
+        "CargaHorariaTeorico": 0,
+        "CargaHorariaPratica": 0,
+        "ListaPrequisitos": []
+      }
+    ]
+  },
+  {
+    "Id": 33955,
+    "Codigo": "2101.000.735-3",
+    "Tipo": "OPT",
+    "Descricao": "COMPLEMENTOS DE RESISTÊNCIA DOS MATERIAIS",
+    "Semestre": 99,
+    "Apelido": "COMPLEMENTOS DE RESISTÊNCIA DOS MATERIAIS",
+    "CargaHorariaTeorico": 51,
+    "CargaHorariaPratica": null,
+    "ListaPrequisitos": [
+      {
+        "Id": 50165,
+        "Codigo": "2101.001.434-0",
+        "Descricao": "RESISTÊNCIA DOS MATERIAIS II",
+        "Semestre": "0",
+        "Apelido": "RESISTÊNCIA DOS MATERIAIS II",
+        "CargaHorariaTeorico": 0,
+        "CargaHorariaPratica": 0,
+        "ListaPrequisitos": []
+      }
+    ]
+  },
+  {
+    "Id": 46493,
+    "Codigo": "2101.001.383-5",
+    "Tipo": "OPT",
+    "Descricao": "COMUNICAÇÃO",
+    "Semestre": 99,
+    "Apelido": "COMUNICAÇÃO",
+    "CargaHorariaTeorico": 51,
+    "CargaHorariaPratica": null,
+    "ListaPrequisitos": []
+  },
+  {
+    "Id": 42908,
+    "Codigo": "2901.000.480-5",
+    "Tipo": "OPT",
+    "Descricao": "COMUNICAÇÃO E EXPRESSÃO",
+    "Semestre": 99,
+    "Apelido": "COMUNICAÇÃO E EXPRESSÃO",
+    "CargaHorariaTeorico": 34,
+    "CargaHorariaPratica": null,
+    "ListaPrequisitos": []
+  },
+  {
+    "Id": 33956,
+    "Codigo": "2101.000.736-1",
+    "Tipo": "OPT",
+    "Descricao": "CONCRETO PROTENDIDO",
+    "Semestre": 99,
+    "Apelido": "CONCRETO PROTENDIDO",
+    "CargaHorariaTeorico": 51,
+    "CargaHorariaPratica": null,
+    "ListaPrequisitos": [
+      {
+        "Id": 50174,
+        "Codigo": "2101.001.442-0",
+        "Descricao": "CONCRETO ARMADO II",
+        "Semestre": "0",
+        "Apelido": "CONCRETO ARMADO II",
+        "CargaHorariaTeorico": 0,
+        "CargaHorariaPratica": 0,
+        "ListaPrequisitos": []
+      }
+    ]
+  },
+  {
+    "Id": 46500,
+    "Codigo": "2101.001.389-0",
+    "Tipo": "OPT",
+    "Descricao": "CONFIABILIDADE ESTRUTURAL",
+    "Semestre": 99,
+    "Apelido": "CONFIABILIDADE ESTRUTURAL",
+    "CargaHorariaTeorico": 68,
+    "CargaHorariaPratica": null,
+    "ListaPrequisitos": [
+      {
+        "Id": 50167,
+        "Codigo": "2101.001.436-9",
+        "Descricao": "CONCRETO ARMADO I",
+        "Semestre": "0",
+        "Apelido": "CONCRETO ARMADO I",
+        "CargaHorariaTeorico": 0,
+        "CargaHorariaPratica": 0,
+        "ListaPrequisitos": []
+      }
+    ]
+  },
+  {
+    "Id": 33957,
+    "Codigo": "2101.000.737-0",
+    "Tipo": "OPT",
+    "Descricao": "CONFORTO EM EDIFICAÇÕES",
+    "Semestre": 99,
+    "Apelido": "CONFORTO EM EDIFICAÇÕES",
+    "CargaHorariaTeorico": 51,
+    "CargaHorariaPratica": null,
+    "ListaPrequisitos": [
+      {
+        "Id": 50171,
+        "Codigo": "2101.001.439-6",
+        "Descricao": "ARQUITETURA E URBANISMO",
+        "Semestre": "0",
+        "Apelido": "ARQUITETURA E URBANISMO",
+        "CargaHorariaTeorico": 0,
+        "CargaHorariaPratica": 0,
+        "ListaPrequisitos": []
+      },
+      {
+        "Id": 50172,
+        "Codigo": "2101.001.440-2",
+        "Descricao": "MATERIAIS DE CONSTRUÇÃO CIVIL II",
+        "Semestre": "0",
+        "Apelido": "MATERIAIS DE CONSTRUÇÃO CIVIL II",
+        "CargaHorariaTeorico": 0,
+        "CargaHorariaPratica": 0,
+        "ListaPrequisitos": []
+      }
+    ]
+  },
+  {
+    "Id": 33958,
+    "Codigo": "2101.000.738-8",
+    "Tipo": "OPT",
+    "Descricao": "CONSERVAÇÃO DE RODOVIAS",
+    "Semestre": 99,
+    "Apelido": "CONSERVAÇÃO DE RODOVIAS",
+    "CargaHorariaTeorico": 34,
+    "CargaHorariaPratica": null,
+    "ListaPrequisitos": []
+  },
+  {
+    "Id": 46484,
+    "Codigo": "2101.001.374-6",
+    "Tipo": "OPT",
+    "Descricao": "CONSTRUÇÃO 4.0",
+    "Semestre": 99,
+    "Apelido": "CONSTRUÇÃO 4.0",
+    "CargaHorariaTeorico": 51,
+    "CargaHorariaPratica": null,
+    "ListaPrequisitos": []
+  },
+  {
+    "Id": 33959,
+    "Codigo": "2101.000.739-6",
+    "Tipo": "OPT",
+    "Descricao": "CONSTRUÇÃO CIVIL",
+    "Semestre": 99,
+    "Apelido": "CONSTRUÇÃO CIVIL",
+    "CargaHorariaTeorico": 51,
+    "CargaHorariaPratica": null,
+    "ListaPrequisitos": [
+      {
+        "Id": 50158,
+        "Codigo": "2101.001.427-0",
+        "Descricao": "CONSTRUÇÕES DE EDIFÍCIOS",
+        "Semestre": "0",
+        "Apelido": "CONSTRUÇÕES DE EDIFÍCIOS",
+        "CargaHorariaTeorico": 0,
+        "CargaHorariaPratica": 0,
+        "ListaPrequisitos": []
+      }
+    ]
+  },
+  {
+    "Id": 33960,
+    "Codigo": "2101.000.740-0",
+    "Tipo": "OPT",
+    "Descricao": "CONTROLE E MELHORIA DA QUALIDADE",
+    "Semestre": 99,
+    "Apelido": "CONTROLE E MELHORIA DA QUALIDADE",
+    "CargaHorariaTeorico": 51,
+    "CargaHorariaPratica": null,
+    "ListaPrequisitos": []
+  },
+  {
+    "Id": 46480,
+    "Codigo": "2101.001.370-0",
+    "Tipo": "OPT",
+    "Descricao": "DESEMPENHO TÉRMICO DE EDIFICAÇÕES",
+    "Semestre": 99,
+    "Apelido": "DESEMPENHO TÉRMICO DE EDIFICAÇÕES",
+    "CargaHorariaTeorico": 51,
+    "CargaHorariaPratica": null,
+    "ListaPrequisitos": [
+      {
+        "Id": 50172,
+        "Codigo": "2101.001.440-2",
+        "Descricao": "MATERIAIS DE CONSTRUÇÃO CIVIL II",
+        "Semestre": "0",
+        "Apelido": "MATERIAIS DE CONSTRUÇÃO CIVIL II",
+        "CargaHorariaTeorico": 0,
+        "CargaHorariaPratica": 0,
+        "ListaPrequisitos": []
+      }
+    ]
+  },
+  {
+    "Id": 46501,
+    "Codigo": "2101.001.390-6",
+    "Tipo": "OPT",
+    "Descricao": "DIAGNÓSTICO E HIGIENE OCUPACIONAL",
+    "Semestre": 99,
+    "Apelido": "DIAGNÓSTICO E HIGIENE OCUPACIONAL",
+    "CargaHorariaTeorico": 34,
+    "CargaHorariaPratica": null,
+    "ListaPrequisitos": [
+      {
+        "Id": 34033,
+        "Codigo": "2101.000.804-0",
+        "Descricao": "SEGURANÇA DO TRABALHO",
+        "Semestre": "0",
+        "Apelido": "SEGURANÇA DO TRABALHO",
+        "CargaHorariaTeorico": 0,
+        "CargaHorariaPratica": 0,
+        "ListaPrequisitos": []
+      }
+    ]
+  },
+  {
+    "Id": 33962,
+    "Codigo": "2101.000.742-6",
+    "Tipo": "OPT",
+    "Descricao": "DINÂMICA DAS ESTRUTURAS",
+    "Semestre": 99,
+    "Apelido": "DINÂMICA DAS ESTRUTURAS",
+    "CargaHorariaTeorico": 51,
+    "CargaHorariaPratica": null,
+    "ListaPrequisitos": [
+      {
+        "Id": 48582,
+        "Codigo": "2201.000.204-7",
+        "Descricao": "MÉTODOS NUMÉRICOS",
+        "Semestre": "0",
+        "Apelido": "MÉTODOS NUMÉRICOS",
+        "CargaHorariaTeorico": 0,
+        "CargaHorariaPratica": 0,
+        "ListaPrequisitos": []
+      },
+      {
+        "Id": 50166,
+        "Codigo": "2101.001.435-0",
+        "Descricao": "ESTÁTICA DAS ESTRUTURAS II",
+        "Semestre": "0",
+        "Apelido": "ESTÁTICA DAS ESTRUTURAS II",
+        "CargaHorariaTeorico": 0,
+        "CargaHorariaPratica": 0,
+        "ListaPrequisitos": []
+      }
+    ]
+  },
+  {
+    "Id": 33963,
+    "Codigo": "2101.000.743-4",
+    "Tipo": "OPT",
+    "Descricao": "DRENAGEM DE VIAS TERRESTRES",
+    "Semestre": 99,
+    "Apelido": "DRENAGEM DE VIAS TERRESTRES",
+    "CargaHorariaTeorico": 51,
+    "CargaHorariaPratica": null,
+    "ListaPrequisitos": []
+  },
+  {
+    "Id": 31903,
+    "Codigo": "2101.000.376-5",
+    "Tipo": "OPT",
+    "Descricao": "DRENAGEM URBANA",
+    "Semestre": 99,
+    "Apelido": "DRENAGEM URBANA",
+    "CargaHorariaTeorico": 51,
+    "CargaHorariaPratica": null,
+    "ListaPrequisitos": []
+  },
+  {
+    "Id": 41760,
+    "Codigo": "3001.000.004-8",
+    "Tipo": "OPT",
+    "Descricao": "EDUCAÇÃO DAS RELAÇÕES ÉTNICO-RACIAIS",
+    "Semestre": 99,
+    "Apelido": "EDUCAÇÃO DAS RELAÇÕES ÉTNICO-RACIAIS",
+    "CargaHorariaTeorico": 34,
+    "CargaHorariaPratica": null,
+    "ListaPrequisitos": []
+  },
+  {
+    "Id": 31705,
+    "Codigo": "2101.000.187-8",
+    "Tipo": "OPT",
+    "Descricao": "EFICIÊNCIA ENERGÉTICA EM HIDRÁULICA E SANEAMENTO",
+    "Semestre": 99,
+    "Apelido": "EFICIÊNCIA ENERGÉTICA EM HIDRÁULICA E SANEAMENTO",
+    "CargaHorariaTeorico": 51,
+    "CargaHorariaPratica": null,
+    "ListaPrequisitos": [
+      {
+        "Id": 34035,
+        "Codigo": "2101.000.806-6",
+        "Descricao": "SISTEMAS DE ÁGUA, ESGOTO E DRENAGEM",
+        "Semestre": "0",
+        "Apelido": "SISTEMAS DE ÁGUA, ESGOTO E DRENAGEM",
+        "CargaHorariaTeorico": 0,
+        "CargaHorariaPratica": 0,
+        "ListaPrequisitos": []
+      }
+    ]
+  },
+  {
+    "Id": 33965,
+    "Codigo": "2101.000.745-0",
+    "Tipo": "OPT",
+    "Descricao": "ELEMENTOS FINITOS",
+    "Semestre": 99,
+    "Apelido": "ELEMENTOS FINITOS",
+    "CargaHorariaTeorico": 51,
+    "CargaHorariaPratica": null,
+    "ListaPrequisitos": [
+      {
+        "Id": 50166,
+        "Codigo": "2101.001.435-0",
+        "Descricao": "ESTÁTICA DAS ESTRUTURAS II",
+        "Semestre": "0",
+        "Apelido": "ESTÁTICA DAS ESTRUTURAS II",
+        "CargaHorariaTeorico": 0,
+        "CargaHorariaPratica": 0,
+        "ListaPrequisitos": []
+      }
+    ]
+  },
+  {
+    "Id": 36922,
+    "Codigo": "2101.000.987-9",
+    "Tipo": "OPT",
+    "Descricao": "ELETRÔNICA I",
+    "Semestre": 99,
+    "Apelido": "ELETRÔNICA I",
+    "CargaHorariaTeorico": 51,
+    "CargaHorariaPratica": null,
+    "ListaPrequisitos": []
+  },
+  {
+    "Id": 36925,
+    "Codigo": "2101.000.990-9",
+    "Tipo": "OPT",
+    "Descricao": "ELETRÔNICA II",
+    "Semestre": 99,
+    "Apelido": "ELETRÔNICA II",
+    "CargaHorariaTeorico": 51,
+    "CargaHorariaPratica": null,
+    "ListaPrequisitos": []
+  },
+  {
+    "Id": 46491,
+    "Codigo": "2101.001.381-7",
+    "Tipo": "OPT",
+    "Descricao": "EMPREENDEDORISMO E ESTRATÉGIA EMPRESARIAL",
+    "Semestre": 99,
+    "Apelido": "EMPREENDEDORISMO E ESTRATÉGIA EMPRESARIAL",
+    "CargaHorariaTeorico": 51,
+    "CargaHorariaPratica": null,
+    "ListaPrequisitos": []
+  },
+  {
+    "Id": 43686,
+    "Codigo": "1991.000.004-3",
+    "Tipo": "OPT",
+    "Descricao": "EMPREENDEDORISMO E INOVAÇÃO",
+    "Semestre": 99,
+    "Apelido": "EMPREENDEDORISMO E INOVAÇÃO",
+    "CargaHorariaTeorico": 68,
+    "CargaHorariaPratica": null,
+    "ListaPrequisitos": []
+  },
+  {
+    "Id": 46481,
+    "Codigo": "2101.001.371-9",
+    "Tipo": "OPT",
+    "Descricao": "EMPREENDEDORISMO E INOVAÇÃO",
+    "Semestre": 99,
+    "Apelido": "EMPREENDEDORISMO E INOVAÇÃO",
+    "CargaHorariaTeorico": 68,
+    "CargaHorariaPratica": null,
+    "ListaPrequisitos": []
+  },
+  {
+    "Id": 31704,
+    "Codigo": "2101.000.186-0",
+    "Tipo": "OPT",
+    "Descricao": "EMPREENDEDORISMO E INOVAÇÃO TECNOLÓGICA",
+    "Semestre": 99,
+    "Apelido": "EMPREENDEDORISMO E INOVAÇÃO TECNOLÓGICA",
+    "CargaHorariaTeorico": 34,
+    "CargaHorariaPratica": null,
+    "ListaPrequisitos": []
+  },
+  {
+    "Id": 46510,
+    "Codigo": "2101.001.399-8",
+    "Tipo": "OPT",
+    "Descricao": "EMPREENDEDORISMO SOCIAL",
+    "Semestre": 99,
+    "Apelido": "EMPREENDEDORISMO SOCIAL",
+    "CargaHorariaTeorico": 68,
+    "CargaHorariaPratica": null,
+    "ListaPrequisitos": []
+  },
+  {
+    "Id": 46487,
+    "Codigo": "2101.001.377-3",
+    "Tipo": "OPT",
+    "Descricao": "ENGENHARIA DA INOVAÇÃO",
+    "Semestre": 99,
+    "Apelido": "ENGENHARIA DA INOVAÇÃO",
+    "CargaHorariaTeorico": 51,
+    "CargaHorariaPratica": null,
+    "ListaPrequisitos": []
+  },
+  {
+    "Id": 33966,
+    "Codigo": "2101.000.746-9",
+    "Tipo": "OPT",
+    "Descricao": "ENGENHARIA DA QUALIDADE",
+    "Semestre": 99,
+    "Apelido": "ENGENHARIA DA QUALIDADE",
+    "CargaHorariaTeorico": 51,
+    "CargaHorariaPratica": null,
+    "ListaPrequisitos": []
+  },
+  {
+    "Id": 33967,
+    "Codigo": "2101.000.747-7",
+    "Tipo": "OPT",
+    "Descricao": "ENGENHARIA DE TRÁFEGO",
+    "Semestre": 99,
+    "Apelido": "ENGENHARIA DE TRÁFEGO",
+    "CargaHorariaTeorico": 51,
+    "CargaHorariaPratica": null,
+    "ListaPrequisitos": [
+      {
+        "Id": 34023,
+        "Codigo": "2101.000.794-9",
+        "Descricao": "ENGENHARIA DE TRANSPORTES I",
+        "Semestre": "0",
+        "Apelido": "ENGENHARIA DE TRANSPORTES I",
+        "CargaHorariaTeorico": 0,
+        "CargaHorariaPratica": 0,
+        "ListaPrequisitos": []
+      }
+    ]
+  },
+  {
+    "Id": 33968,
+    "Codigo": "2101.000.748-5",
+    "Tipo": "OPT",
+    "Descricao": "ENSAIOS E CONTROLE DE OBRAS DE PAVIMENTAÇÃO - SOLOS",
+    "Semestre": 99,
+    "Apelido": "ENSAIOS E CONTROLE DE OBRAS DE PAVIMENTAÇÃO - SOLOS",
+    "CargaHorariaTeorico": 51,
+    "CargaHorariaPratica": null,
+    "ListaPrequisitos": []
+  },
+  {
+    "Id": 33969,
+    "Codigo": "2101.000.749-3",
+    "Tipo": "OPT",
+    "Descricao": "ENSAIOS E CONTROLE DE OBRAS EM PAVIMENTAÇÃO - AGREGADOS E ASFALTOS",
+    "Semestre": 99,
+    "Apelido": "ENSAIOS E CONTROLE DE OBRAS EM PAVIMENTAÇÃO - AGREGADOS E ASFALTOS",
+    "CargaHorariaTeorico": 51,
+    "CargaHorariaPratica": null,
+    "ListaPrequisitos": []
+  },
+  {
+    "Id": 50143,
+    "Codigo": "2101.001.413-5",
+    "Tipo": "OPT",
+    "Descricao": "EQUAÇÕES DIFERENCIAIS APLICADAS À ENGENHARIA",
+    "Semestre": 99,
+    "Apelido": "EQUAÇÕES DIFERENCIAIS APLICADAS À ENGENHARIA",
+    "CargaHorariaTeorico": 34,
+    "CargaHorariaPratica": null,
+    "ListaPrequisitos": [
+      {
+        "Id": 48018,
+        "Codigo": "2201.000.199-9",
+        "Descricao": "EQUAÇÕES DIFERENCIAIS ORDINÁRIAS",
+        "Semestre": "0",
+        "Apelido": "EQUAÇÕES DIFERENCIAIS ORDINÁRIAS",
+        "CargaHorariaTeorico": 0,
+        "CargaHorariaPratica": 0,
+        "ListaPrequisitos": []
+      }
+    ]
+  },
+  {
+    "Id": 46507,
+    "Codigo": "2101.001.396-0",
+    "Tipo": "OPT",
+    "Descricao": "ESTABILIDADE DE TALUDES E ESTRUTURAS DE CONTENÇÃO",
+    "Semestre": 99,
+    "Apelido": "ESTABILIDADE DE TALUDES E ESTRUTURAS DE CONTENÇÃO",
+    "CargaHorariaTeorico": 34,
+    "CargaHorariaPratica": null,
+    "ListaPrequisitos": [
+      {
+        "Id": 31617,
+        "Codigo": "2101.000.101-0",
+        "Descricao": "OBRAS DE TERRA",
+        "Semestre": "0",
+        "Apelido": "OBRAS DE TERRA",
+        "CargaHorariaTeorico": 0,
+        "CargaHorariaPratica": 0,
+        "ListaPrequisitos": []
+      }
+    ]
+  },
+  {
+    "Id": 33972,
+    "Codigo": "2101.000.752-3",
+    "Tipo": "OPT",
+    "Descricao": "ESTÁTICA DAS ESTRUTURAS III",
+    "Semestre": 99,
+    "Apelido": "ESTÁTICA DAS ESTRUTURAS III",
+    "CargaHorariaTeorico": 51,
+    "CargaHorariaPratica": null,
+    "ListaPrequisitos": [
+      {
+        "Id": 50166,
+        "Codigo": "2101.001.435-0",
+        "Descricao": "ESTÁTICA DAS ESTRUTURAS II",
+        "Semestre": "0",
+        "Apelido": "ESTÁTICA DAS ESTRUTURAS II",
+        "CargaHorariaTeorico": 0,
+        "CargaHorariaPratica": 0,
+        "ListaPrequisitos": []
+      }
+    ]
+  },
+  {
+    "Id": 41756,
+    "Codigo": "3101.000.095-0",
+    "Tipo": "OPT",
+    "Descricao": "ESTUDO DE LIBRAS",
+    "Semestre": 99,
+    "Apelido": "ESTUDO DE LIBRAS",
+    "CargaHorariaTeorico": 51,
+    "CargaHorariaPratica": null,
+    "ListaPrequisitos": []
+  },
+  {
+    "Id": 33973,
+    "Codigo": "2101.000.753-1",
+    "Tipo": "OPT",
+    "Descricao": "ESTUDOS ESPECIAIS EM ENGENHARIA CIVIL I",
+    "Semestre": 99,
+    "Apelido": "ESTUDOS ESPECIAIS EM ENGENHARIA CIVIL I",
+    "CargaHorariaTeorico": 51,
+    "CargaHorariaPratica": null,
+    "ListaPrequisitos": []
+  },
+  {
+    "Id": 33974,
+    "Codigo": "2101.000.754-0",
+    "Tipo": "OPT",
+    "Descricao": "ESTUDOS ESPECIAIS EM ENGENHARIA CIVIL II",
+    "Semestre": 99,
+    "Apelido": "ESTUDOS ESPECIAIS EM ENGENHARIA CIVIL II",
+    "CargaHorariaTeorico": 51,
+    "CargaHorariaPratica": null,
+    "ListaPrequisitos": []
+  },
+  {
+    "Id": 33975,
+    "Codigo": "2101.000.755-8",
+    "Tipo": "OPT",
+    "Descricao": "ESTUDOS ESPECIAIS EM ENGENHARIA CIVIL III",
+    "Semestre": 99,
+    "Apelido": "ESTUDOS ESPECIAIS EM ENGENHARIA CIVIL III",
+    "CargaHorariaTeorico": 51,
+    "CargaHorariaPratica": null,
+    "ListaPrequisitos": []
+  },
+  {
+    "Id": 33976,
+    "Codigo": "2101.000.756-6",
+    "Tipo": "OPT",
+    "Descricao": "FERROVIAS",
+    "Semestre": 99,
+    "Apelido": "FERROVIAS",
+    "CargaHorariaTeorico": 51,
+    "CargaHorariaPratica": null,
+    "ListaPrequisitos": []
+  },
+  {
+    "Id": 33977,
+    "Codigo": "2101.000.757-4",
+    "Tipo": "OPT",
+    "Descricao": "FÍSICA DAS CONSTRUÇÕES",
+    "Semestre": 99,
+    "Apelido": "FÍSICA DAS CONSTRUÇÕES",
+    "CargaHorariaTeorico": 51,
+    "CargaHorariaPratica": null,
+    "ListaPrequisitos": [
+      {
+        "Id": 48016,
+        "Codigo": "2201.000.197-0",
+        "Descricao": "CÁLCULO I",
+        "Semestre": "0",
+        "Apelido": "CÁLCULO I",
+        "CargaHorariaTeorico": 0,
+        "CargaHorariaPratica": 0,
+        "ListaPrequisitos": []
+      },
+      {
+        "Id": 48031,
+        "Codigo": "2401.000.257-9",
+        "Descricao": "FUNDAMENTOS DE FLUIDOS, ONDAS E TERMODINÂMICA",
+        "Semestre": "0",
+        "Apelido": "FUNDAMENTOS DE FLUIDOS, ONDAS E TERMODINÂMICA",
+        "CargaHorariaTeorico": 0,
+        "CargaHorariaPratica": 0,
+        "ListaPrequisitos": []
+      }
+    ]
+  },
+  {
+    "Id": 33979,
+    "Codigo": "2101.000.759-0",
+    "Tipo": "OPT",
+    "Descricao": "FUNDAMENTOS BIOLÓGICOS DO SANEAMENTO",
+    "Semestre": 99,
+    "Apelido": "FUNDAMENTOS BIOLÓGICOS DO SANEAMENTO",
+    "CargaHorariaTeorico": 51,
+    "CargaHorariaPratica": null,
+    "ListaPrequisitos": []
+  },
+  {
+    "Id": 48032,
+    "Codigo": "2401.000.258-8",
+    "Tipo": "OPT",
+    "Descricao": "FUNDAMENTOS DE ELETROMAGNETISMO",
+    "Semestre": 99,
+    "Apelido": "FUNDAMENTOS DE ELETROMAGNETISMO",
+    "CargaHorariaTeorico": 68,
+    "CargaHorariaPratica": null,
+    "ListaPrequisitos": [
+      {
+        "Id": 48031,
+        "Codigo": "2401.000.257-9",
+        "Descricao": "FUNDAMENTOS DE FLUIDOS, ONDAS E TERMODINÂMICA",
+        "Semestre": "0",
+        "Apelido": "FUNDAMENTOS DE FLUIDOS, ONDAS E TERMODINÂMICA",
+        "CargaHorariaTeorico": 0,
+        "CargaHorariaPratica": 0,
+        "ListaPrequisitos": []
+      }
+    ]
+  },
+  {
+    "Id": 51756,
+    "Codigo": "2101.001.612-0",
+    "Tipo": "OPT",
+    "Descricao": "FUNDAMENTOS DE ESTÁTICA E MECÂNICA DAS ESTRUTURAS",
+    "Semestre": 99,
+    "Apelido": "FUNDAMENTOS DE ESTÁTICA E MECÂNICA DAS ESTRUTURAS",
+    "CargaHorariaTeorico": 51,
+    "CargaHorariaPratica": null,
+    "ListaPrequisitos": [
+      {
+        "Id": 50157,
+        "Codigo": "2101.001.426-0",
+        "Descricao": "ESTÁTICA DAS ESTRUTURAS I",
+        "Semestre": "0",
+        "Apelido": "ESTÁTICA DAS ESTRUTURAS I",
+        "CargaHorariaTeorico": 0,
+        "CargaHorariaPratica": 0,
+        "ListaPrequisitos": []
+      },
+      {
+        "Id": 50160,
+        "Codigo": "2101.001.429-8",
+        "Descricao": "RESISTÊNCIA DOS MATERIAIS I",
+        "Semestre": "0",
+        "Apelido": "RESISTÊNCIA DOS MATERIAIS I",
+        "CargaHorariaTeorico": 0,
+        "CargaHorariaPratica": 0,
+        "ListaPrequisitos": []
+      }
+    ]
+  },
+  {
+    "Id": 33980,
+    "Codigo": "2101.000.760-4",
+    "Tipo": "OPT",
+    "Descricao": "FUNDAMENTOS SOBRE A INFRAESTRUTURA DE TRANSPORTES",
+    "Semestre": 99,
+    "Apelido": "FUNDAMENTOS SOBRE A INFRAESTRUTURA DE TRANSPORTES",
+    "CargaHorariaTeorico": 51,
+    "CargaHorariaPratica": null,
+    "ListaPrequisitos": []
+  },
+  {
+    "Id": 33981,
+    "Codigo": "2101.000.761-2",
+    "Tipo": "OPT",
+    "Descricao": "GEOLOGIA DE ENGENHARIA",
+    "Semestre": 99,
+    "Apelido": "GEOLOGIA DE ENGENHARIA",
+    "CargaHorariaTeorico": 51,
+    "CargaHorariaPratica": null,
+    "ListaPrequisitos": [
+      {
+        "Id": 31859,
+        "Codigo": "2101.000.337-4",
+        "Descricao": "GEOLOGIA GERAL",
+        "Semestre": "0",
+        "Apelido": "GEOLOGIA GERAL",
+        "CargaHorariaTeorico": 0,
+        "CargaHorariaPratica": 0,
+        "ListaPrequisitos": []
+      }
+    ]
+  },
+  {
+    "Id": 33982,
+    "Codigo": "2101.000.762-0",
+    "Tipo": "OPT",
+    "Descricao": "GEOPROCESSAMENTO",
+    "Semestre": 99,
+    "Apelido": "GEOPROCESSAMENTO",
+    "CargaHorariaTeorico": 51,
+    "CargaHorariaPratica": null,
+    "ListaPrequisitos": [
+      {
+        "Id": 31858,
+        "Codigo": "2101.000.336-6",
+        "Descricao": "TOPOGRAFIA",
+        "Semestre": "0",
+        "Apelido": "TOPOGRAFIA",
+        "CargaHorariaTeorico": 0,
+        "CargaHorariaPratica": 0,
+        "ListaPrequisitos": []
+      }
+    ]
+  },
+  {
+    "Id": 33983,
+    "Codigo": "2101.000.763-9",
+    "Tipo": "OPT",
+    "Descricao": "GEOTECNIA AMBIENTAL",
+    "Semestre": 99,
+    "Apelido": "GEOTECNIA AMBIENTAL",
+    "CargaHorariaTeorico": 51,
+    "CargaHorariaPratica": null,
+    "ListaPrequisitos": [
+      {
+        "Id": 31859,
+        "Codigo": "2101.000.337-4",
+        "Descricao": "GEOLOGIA GERAL",
+        "Semestre": "0",
+        "Apelido": "GEOLOGIA GERAL",
+        "CargaHorariaTeorico": 0,
+        "CargaHorariaPratica": 0,
+        "ListaPrequisitos": []
+      }
+    ]
+  },
+  {
+    "Id": 46514,
+    "Codigo": "2101.001.403-7",
+    "Tipo": "OPT",
+    "Descricao": "GERENCIAMENTO DE PROJETOS SOCIAIS",
+    "Semestre": 99,
+    "Apelido": "GERENCIAMENTO DE PROJETOS SOCIAIS",
+    "CargaHorariaTeorico": 68,
+    "CargaHorariaPratica": null,
+    "ListaPrequisitos": []
+  },
+  {
+    "Id": 33984,
+    "Codigo": "2101.000.764-7",
+    "Tipo": "OPT",
+    "Descricao": "GERENCIAMENTO NA CONSTRUÇÃO CIVIL",
+    "Semestre": 99,
+    "Apelido": "GERENCIAMENTO NA CONSTRUÇÃO CIVIL",
+    "CargaHorariaTeorico": 51,
+    "CargaHorariaPratica": null,
+    "ListaPrequisitos": [
+      {
+        "Id": 50158,
+        "Codigo": "2101.001.427-0",
+        "Descricao": "CONSTRUÇÕES DE EDIFÍCIOS",
+        "Semestre": "0",
+        "Apelido": "CONSTRUÇÕES DE EDIFÍCIOS",
+        "CargaHorariaTeorico": 0,
+        "CargaHorariaPratica": 0,
+        "ListaPrequisitos": []
+      }
+    ]
+  },
+  {
+    "Id": 34343,
+    "Codigo": "2101.000.846-5",
+    "Tipo": "OPT",
+    "Descricao": "GESTÃO AMBIENTAL",
+    "Semestre": 99,
+    "Apelido": "GESTÃO AMBIENTAL",
+    "CargaHorariaTeorico": 68,
+    "CargaHorariaPratica": null,
+    "ListaPrequisitos": [
+      {
+        "Id": 31586,
+        "Codigo": "2101.000.077-4",
+        "Descricao": "CIÊNCIAS DO AMBIENTE",
+        "Semestre": "0",
+        "Apelido": "CIÊNCIAS DO AMBIENTE",
+        "CargaHorariaTeorico": 0,
+        "CargaHorariaPratica": 0,
+        "ListaPrequisitos": []
+      }
+    ]
+  },
+  {
+    "Id": 32042,
+    "Codigo": "2101.000.502-4",
+    "Tipo": "OPT",
+    "Descricao": "GESTÃO DA CADEIA DE SUPRIMENTOS",
+    "Semestre": 99,
+    "Apelido": "GESTÃO DA CADEIA DE SUPRIMENTOS",
+    "CargaHorariaTeorico": 51,
+    "CargaHorariaPratica": null,
+    "ListaPrequisitos": []
+  },
+  {
+    "Id": 50144,
+    "Codigo": "2101.001.414-4",
+    "Tipo": "OPT",
+    "Descricao": "GESTÃO DA QUALIDADE",
+    "Semestre": 99,
+    "Apelido": "GESTÃO DA QUALIDADE",
+    "CargaHorariaTeorico": 51,
+    "CargaHorariaPratica": null,
+    "ListaPrequisitos": [
+      {
+        "Id": 46511,
+        "Codigo": "2101.001.400-0",
+        "Descricao": "FUNDAMENTOS DE ADMINISTRAÇÃO",
+        "Semestre": "0",
+        "Apelido": "FUNDAMENTOS DE ADMINISTRAÇÃO",
+        "CargaHorariaTeorico": 0,
+        "CargaHorariaPratica": 0,
+        "ListaPrequisitos": []
+      }
+    ]
+  },
+  {
+    "Id": 46497,
+    "Codigo": "2101.001.387-1",
+    "Tipo": "OPT",
+    "Descricao": "GESTÃO DA QUALIDADE, SAÚDE, MEIO AMBIENTE, SEGURANÇA E RESPONSABILIDADE SOCIAL",
+    "Semestre": 99,
+    "Apelido": "GESTÃO DA QUALIDADE, SAÚDE, MEIO AMBIENTE, SEGURANÇA E RESPONSABILIDADE SOCIAL",
+    "CargaHorariaTeorico": 34,
+    "CargaHorariaPratica": null,
+    "ListaPrequisitos": [
+      {
+        "Id": 34033,
+        "Codigo": "2101.000.804-0",
+        "Descricao": "SEGURANÇA DO TRABALHO",
+        "Semestre": "0",
+        "Apelido": "SEGURANÇA DO TRABALHO",
+        "CargaHorariaTeorico": 0,
+        "CargaHorariaPratica": 0,
+        "ListaPrequisitos": []
+      }
+    ]
+  },
+  {
+    "Id": 46486,
+    "Codigo": "2101.001.376-4",
+    "Tipo": "OPT",
+    "Descricao": "GESTÃO DE NEGÓCIOS",
+    "Semestre": 99,
+    "Apelido": "GESTÃO DE NEGÓCIOS",
+    "CargaHorariaTeorico": 51,
+    "CargaHorariaPratica": null,
+    "ListaPrequisitos": []
+  },
+  {
+    "Id": 46504,
+    "Codigo": "2101.001.393-3",
+    "Tipo": "OPT",
+    "Descricao": "GESTÃO DE PESSOAS NA ENGENHARIA",
+    "Semestre": 99,
+    "Apelido": "GESTÃO DE PESSOAS NA ENGENHARIA",
+    "CargaHorariaTeorico": 68,
+    "CargaHorariaPratica": null,
+    "ListaPrequisitos": []
+  },
+  {
+    "Id": 50142,
+    "Codigo": "2101.001.412-6",
+    "Tipo": "OPT",
+    "Descricao": "GESTÃO DE PROJETOS",
+    "Semestre": 99,
+    "Apelido": "GESTÃO DE PROJETOS",
+    "CargaHorariaTeorico": 68,
+    "CargaHorariaPratica": null,
+    "ListaPrequisitos": [
+      {
+        "Id": 46511,
+        "Codigo": "2101.001.400-0",
+        "Descricao": "FUNDAMENTOS DE ADMINISTRAÇÃO",
+        "Semestre": "0",
+        "Apelido": "FUNDAMENTOS DE ADMINISTRAÇÃO",
+        "CargaHorariaTeorico": 0,
+        "CargaHorariaPratica": 0,
+        "ListaPrequisitos": []
+      }
+    ]
+  },
+  {
+    "Id": 46490,
+    "Codigo": "2101.001.380-8",
+    "Tipo": "OPT",
+    "Descricao": "GESTÃO DE PROJETOS NA ENGENHARIA",
+    "Semestre": 99,
+    "Apelido": "GESTÃO DE PROJETOS NA ENGENHARIA",
+    "CargaHorariaTeorico": 51,
+    "CargaHorariaPratica": null,
+    "ListaPrequisitos": []
+  },
+  {
+    "Id": 34342,
+    "Codigo": "2101.000.845-7",
+    "Tipo": "OPT",
+    "Descricao": "GESTÃO ENERGÉTICA",
+    "Semestre": 99,
+    "Apelido": "GESTÃO ENERGÉTICA",
+    "CargaHorariaTeorico": 68,
+    "CargaHorariaPratica": null,
+    "ListaPrequisitos": [
+      {
+        "Id": 34024,
+        "Codigo": "2101.000.795-7",
+        "Descricao": "INSTALAÇÕES ELÉTRICAS",
+        "Semestre": "0",
+        "Apelido": "INSTALAÇÕES ELÉTRICAS",
+        "CargaHorariaTeorico": 0,
+        "CargaHorariaPratica": 0,
+        "ListaPrequisitos": []
+      }
+    ]
+  },
+  {
+    "Id": 46489,
+    "Codigo": "2101.001.379-1",
+    "Tipo": "OPT",
+    "Descricao": "GESTÃO NA ENGENHARIA",
+    "Semestre": 99,
+    "Apelido": "GESTÃO NA ENGENHARIA",
+    "CargaHorariaTeorico": 51,
+    "CargaHorariaPratica": null,
+    "ListaPrequisitos": []
+  },
+  {
+    "Id": 46495,
+    "Codigo": "2101.001.385-3",
+    "Tipo": "OPT",
+    "Descricao": "HIDROLOGIA APLICADA",
+    "Semestre": 99,
+    "Apelido": "HIDROLOGIA APLICADA",
+    "CargaHorariaTeorico": 68,
+    "CargaHorariaPratica": null,
+    "ListaPrequisitos": [
+      {
+        "Id": 31712,
+        "Codigo": "2101.000.193-2",
+        "Descricao": "HIDROLOGIA GERAL",
+        "Semestre": "0",
+        "Apelido": "HIDROLOGIA GERAL",
+        "CargaHorariaTeorico": 0,
+        "CargaHorariaPratica": 0,
+        "ListaPrequisitos": []
+      }
+    ]
+  },
+  {
+    "Id": 45265,
+    "Codigo": "2101.001.350-3",
+    "Tipo": "OPT",
+    "Descricao": "INFRAESTRUTURA E ECOTECNOLOGIAS",
+    "Semestre": 99,
+    "Apelido": "INFRAESTRUTURA E ECOTECNOLOGIAS",
+    "CargaHorariaTeorico": 51,
+    "CargaHorariaPratica": null,
+    "ListaPrequisitos": [
+      {
+        "Id": 31712,
+        "Codigo": "2101.000.193-2",
+        "Descricao": "HIDROLOGIA GERAL",
+        "Semestre": "0",
+        "Apelido": "HIDROLOGIA GERAL",
+        "CargaHorariaTeorico": 0,
+        "CargaHorariaPratica": 0,
+        "ListaPrequisitos": []
+      }
+    ]
+  },
+  {
+    "Id": 36936,
+    "Codigo": "2101.001.001-0",
+    "Tipo": "OPT",
+    "Descricao": "INSTALAÇÕES ELÉTRICAS INDUSTRIAIS I",
+    "Semestre": 99,
+    "Apelido": "INSTALAÇÕES ELÉTRICAS INDUSTRIAIS I",
+    "CargaHorariaTeorico": 68,
+    "CargaHorariaPratica": null,
+    "ListaPrequisitos": []
+  },
+  {
+    "Id": 36940,
+    "Codigo": "2101.001.005-2",
+    "Tipo": "OPT",
+    "Descricao": "INSTALAÇÕES ELÉTRICAS INDUSTRIAIS II",
+    "Semestre": 99,
+    "Apelido": "INSTALAÇÕES ELÉTRICAS INDUSTRIAIS II",
+    "CargaHorariaTeorico": 51,
+    "CargaHorariaPratica": null,
+    "ListaPrequisitos": []
+  },
+  {
+    "Id": 50155,
+    "Codigo": "2101.001.425-1",
+    "Tipo": "OPT",
+    "Descricao": "INSTRUMENTAÇÃO ELETRÔNICA",
+    "Semestre": 99,
+    "Apelido": "INSTRUMENTAÇÃO ELETRÔNICA",
+    "CargaHorariaTeorico": 51,
+    "CargaHorariaPratica": null,
+    "ListaPrequisitos": [
+      {
+        "Id": 50164,
+        "Codigo": "2101.001.433-1",
+        "Descricao": "ELETRICIDADE",
+        "Semestre": "0",
+        "Apelido": "ELETRICIDADE",
+        "CargaHorariaTeorico": 0,
+        "CargaHorariaPratica": 0,
+        "ListaPrequisitos": []
+      }
+    ]
+  },
+  {
+    "Id": 31949,
+    "Codigo": "2101.000.420-6",
+    "Tipo": "OPT",
+    "Descricao": "INSTRUMENTAÇÃO INDUSTRIAL",
+    "Semestre": 99,
+    "Apelido": "INSTRUMENTAÇÃO INDUSTRIAL",
+    "CargaHorariaTeorico": 68,
+    "CargaHorariaPratica": null,
+    "ListaPrequisitos": []
+  },
+  {
+    "Id": 31846,
+    "Codigo": "2101.000.324-2",
+    "Tipo": "OPT",
+    "Descricao": "INTELIGÊNCIA ARTIFICIAL APLICADA À ENGENHARIA",
+    "Semestre": 99,
+    "Apelido": "INTELIGÊNCIA ARTIFICIAL APLICADA À ENGENHARIA",
+    "CargaHorariaTeorico": 51,
+    "CargaHorariaPratica": null,
+    "ListaPrequisitos": []
+  },
+  {
+    "Id": 33985,
+    "Codigo": "2101.000.765-5",
+    "Tipo": "OPT",
+    "Descricao": "INTERSECÇÕES RODOVIÁRIAS",
+    "Semestre": 99,
+    "Apelido": "INTERSECÇÕES RODOVIÁRIAS",
+    "CargaHorariaTeorico": 51,
+    "CargaHorariaPratica": null,
+    "ListaPrequisitos": []
+  },
+  {
+    "Id": 33986,
+    "Codigo": "2101.000.766-3",
+    "Tipo": "OPT",
+    "Descricao": "INTRODUÇÃO À SIMULAÇÃO DE SISTEMAS DE TRANSPORTE",
+    "Semestre": 99,
+    "Apelido": "INTRODUÇÃO À SIMULAÇÃO DE SISTEMAS DE TRANSPORTE",
+    "CargaHorariaTeorico": 51,
+    "CargaHorariaPratica": null,
+    "ListaPrequisitos": []
+  },
+  {
+    "Id": 31671,
+    "Codigo": "2101.000.154-1",
+    "Tipo": "OPT",
+    "Descricao": "IRRIGAÇÃO E DRENAGEM",
+    "Semestre": 99,
+    "Apelido": "IRRIGAÇÃO E DRENAGEM",
+    "CargaHorariaTeorico": 68,
+    "CargaHorariaPratica": null,
+    "ListaPrequisitos": [
+      {
+        "Id": 31712,
+        "Codigo": "2101.000.193-2",
+        "Descricao": "HIDROLOGIA GERAL",
+        "Semestre": "0",
+        "Apelido": "HIDROLOGIA GERAL",
+        "CargaHorariaTeorico": 0,
+        "CargaHorariaPratica": 0,
+        "ListaPrequisitos": []
+      },
+      {
+        "Id": 50161,
+        "Codigo": "2101.001.430-4",
+        "Descricao": "HIDRÁULICA",
+        "Semestre": "0",
+        "Apelido": "HIDRÁULICA",
+        "CargaHorariaTeorico": 0,
+        "CargaHorariaPratica": 0,
+        "ListaPrequisitos": []
+      }
+    ]
+  },
+  {
+    "Id": 48812,
+    "Codigo": "2401.000.290-8",
+    "Tipo": "OPT",
+    "Descricao": "LABORATÓRIO DE ONDAS E ELETRICIDADE E MAGNETISMO",
+    "Semestre": 99,
+    "Apelido": "LABORATÓRIO DE ONDAS E ELETRICIDADE E MAGNETISMO",
+    "CargaHorariaTeorico": 34,
+    "CargaHorariaPratica": null,
+    "ListaPrequisitos": [
+      {
+        "Id": 48031,
+        "Codigo": "2401.000.257-9",
+        "Descricao": "FUNDAMENTOS DE FLUIDOS, ONDAS E TERMODINÂMICA",
+        "Semestre": "0",
+        "Apelido": "FUNDAMENTOS DE FLUIDOS, ONDAS E TERMODINÂMICA",
+        "CargaHorariaTeorico": 0,
+        "CargaHorariaPratica": 0,
+        "ListaPrequisitos": []
+      },
+      {
+        "Id": 48032,
+        "Codigo": "2401.000.258-8",
+        "Descricao": "FUNDAMENTOS DE ELETROMAGNETISMO",
+        "Semestre": "0",
+        "Apelido": "FUNDAMENTOS DE ELETROMAGNETISMO",
+        "CargaHorariaTeorico": 0,
+        "CargaHorariaPratica": 0,
+        "ListaPrequisitos": []
+      }
+    ]
+  },
+  {
+    "Id": 33987,
+    "Codigo": "2101.000.767-1",
+    "Tipo": "OPT",
+    "Descricao": "LOGÍSTICA E TRANSPORTES",
+    "Semestre": 99,
+    "Apelido": "LOGÍSTICA E TRANSPORTES",
+    "CargaHorariaTeorico": 51,
+    "CargaHorariaPratica": null,
+    "ListaPrequisitos": []
+  },
+  {
+    "Id": 33988,
+    "Codigo": "2101.000.768-0",
+    "Tipo": "OPT",
+    "Descricao": "LOGÍSTICA REVERSA",
+    "Semestre": 99,
+    "Apelido": "LOGÍSTICA REVERSA",
+    "CargaHorariaTeorico": 51,
+    "CargaHorariaPratica": null,
+    "ListaPrequisitos": []
+  },
+  {
+    "Id": 31852,
+    "Codigo": "2101.000.330-7",
+    "Tipo": "OPT",
+    "Descricao": "MÁQUINAS DE FLUXO E APROVEITAMENTO HIDROELÉTRICO",
+    "Semestre": 99,
+    "Apelido": "MÁQUINAS DE FLUXO E APROVEITAMENTO HIDROELÉTRICO",
+    "CargaHorariaTeorico": 51,
+    "CargaHorariaPratica": null,
+    "ListaPrequisitos": []
+  },
+  {
+    "Id": 31673,
+    "Codigo": "2101.000.156-8",
+    "Tipo": "OPT",
+    "Descricao": "MÁQUINAS HIDRÁULICAS",
+    "Semestre": 99,
+    "Apelido": "MÁQUINAS HIDRÁULICAS",
+    "CargaHorariaTeorico": 68,
+    "CargaHorariaPratica": null,
+    "ListaPrequisitos": [
+      {
+        "Id": 50159,
+        "Codigo": "2101.001.428-9",
+        "Descricao": "FENÔMENOS DE TRANSPORTE",
+        "Semestre": "0",
+        "Apelido": "FENÔMENOS DE TRANSPORTE",
+        "CargaHorariaTeorico": 0,
+        "CargaHorariaPratica": 0,
+        "ListaPrequisitos": []
+      }
+    ]
+  },
+  {
+    "Id": 46509,
+    "Codigo": "2101.001.398-9",
+    "Tipo": "OPT",
+    "Descricao": "MECÂNICA DAS ROCHAS",
+    "Semestre": 99,
+    "Apelido": "MECÂNICA DAS ROCHAS",
+    "CargaHorariaTeorico": 34,
+    "CargaHorariaPratica": null,
+    "ListaPrequisitos": [
+      {
+        "Id": 31613,
+        "Codigo": "2101.000.097-9",
+        "Descricao": "MECÂNICA DOS SOLOS",
+        "Semestre": "0",
+        "Apelido": "MECÂNICA DOS SOLOS",
+        "CargaHorariaTeorico": 0,
+        "CargaHorariaPratica": 0,
+        "ListaPrequisitos": []
+      }
+    ]
+  },
+  {
+    "Id": 50169,
+    "Codigo": "2401.000.308-4",
+    "Tipo": "OPT",
+    "Descricao": "MECÂNICA GERAL",
+    "Semestre": 99,
+    "Apelido": "MECÂNICA GERAL",
+    "CargaHorariaTeorico": 34,
+    "CargaHorariaPratica": null,
+    "ListaPrequisitos": [
+      {
+        "Id": 48034,
+        "Codigo": "2401.000.260-3",
+        "Descricao": "FUNDAMENTOS DE MECÂNICA",
+        "Semestre": "0",
+        "Apelido": "FUNDAMENTOS DE MECÂNICA",
+        "CargaHorariaTeorico": 0,
+        "CargaHorariaPratica": 0,
+        "ListaPrequisitos": []
+      }
+    ]
+  },
+  {
+    "Id": 46492,
+    "Codigo": "2101.001.382-6",
+    "Tipo": "OPT",
+    "Descricao": "METODOLOGIA DE PESQUISA TECNOLÓGICA",
+    "Semestre": 99,
+    "Apelido": "METODOLOGIA DE PESQUISA TECNOLÓGICA",
+    "CargaHorariaTeorico": 68,
+    "CargaHorariaPratica": null,
+    "ListaPrequisitos": []
+  },
+  {
+    "Id": 31699,
+    "Codigo": "2101.000.181-9",
+    "Tipo": "OPT",
+    "Descricao": "MICROBIOLOGIA AMBIENTAL",
+    "Semestre": 99,
+    "Apelido": "MICROBIOLOGIA AMBIENTAL",
+    "CargaHorariaTeorico": 68,
+    "CargaHorariaPratica": null,
+    "ListaPrequisitos": []
+  },
+  {
+    "Id": 31883,
+    "Codigo": "2101.000.356-0",
+    "Tipo": "OPT",
+    "Descricao": "MODELAGEM DE SISTEMAS AMBIENTAIS",
+    "Semestre": 99,
+    "Apelido": "MODELAGEM DE SISTEMAS AMBIENTAIS",
+    "CargaHorariaTeorico": 68,
+    "CargaHorariaPratica": null,
+    "ListaPrequisitos": [
+      {
+        "Id": 48582,
+        "Codigo": "2201.000.204-7",
+        "Descricao": "MÉTODOS NUMÉRICOS",
+        "Semestre": "0",
+        "Apelido": "MÉTODOS NUMÉRICOS",
+        "CargaHorariaTeorico": 0,
+        "CargaHorariaPratica": 0,
+        "ListaPrequisitos": []
+      }
+    ]
+  },
+  {
+    "Id": 33989,
+    "Codigo": "2101.000.769-8",
+    "Tipo": "OPT",
+    "Descricao": "MODELAGEM E SIMULAÇÃO DE SISTEMAS",
+    "Semestre": 99,
+    "Apelido": "MODELAGEM E SIMULAÇÃO DE SISTEMAS",
+    "CargaHorariaTeorico": 51,
+    "CargaHorariaPratica": null,
+    "ListaPrequisitos": []
+  },
+  {
+    "Id": 31674,
+    "Codigo": "2101.000.157-6",
+    "Tipo": "OPT",
+    "Descricao": "NAVEGAÇÃO MARÍTIMA E INTERIOR",
+    "Semestre": 99,
+    "Apelido": "NAVEGAÇÃO MARÍTIMA E INTERIOR",
+    "CargaHorariaTeorico": 68,
+    "CargaHorariaPratica": null,
+    "ListaPrequisitos": [
+      {
+        "Id": 50161,
+        "Codigo": "2101.001.430-4",
+        "Descricao": "HIDRÁULICA",
+        "Semestre": "0",
+        "Apelido": "HIDRÁULICA",
+        "CargaHorariaTeorico": 0,
+        "CargaHorariaPratica": 0,
+        "ListaPrequisitos": []
+      }
+    ]
+  },
+  {
+    "Id": 33990,
+    "Codigo": "2101.000.770-1",
+    "Tipo": "OPT",
+    "Descricao": "OBRAS DE PRÉ-MOLDADOS",
+    "Semestre": 99,
+    "Apelido": "OBRAS DE PRÉ-MOLDADOS",
+    "CargaHorariaTeorico": 51,
+    "CargaHorariaPratica": null,
+    "ListaPrequisitos": [
+      {
+        "Id": 34028,
+        "Codigo": "2101.000.799-0",
+        "Descricao": "FUNDAÇÕES II",
+        "Semestre": "0",
+        "Apelido": "FUNDAÇÕES II",
+        "CargaHorariaTeorico": 0,
+        "CargaHorariaPratica": 0,
+        "ListaPrequisitos": []
+      },
+      {
+        "Id": 50174,
+        "Codigo": "2101.001.442-0",
+        "Descricao": "CONCRETO ARMADO II",
+        "Semestre": "0",
+        "Apelido": "CONCRETO ARMADO II",
+        "CargaHorariaTeorico": 0,
+        "CargaHorariaPratica": 0,
+        "ListaPrequisitos": []
+      }
+    ]
+  },
+  {
+    "Id": 31675,
+    "Codigo": "2101.000.158-4",
+    "Tipo": "OPT",
+    "Descricao": "OBRAS HIDRÁULICAS",
+    "Semestre": 99,
+    "Apelido": "OBRAS HIDRÁULICAS",
+    "CargaHorariaTeorico": 68,
+    "CargaHorariaPratica": null,
+    "ListaPrequisitos": [
+      {
+        "Id": 50161,
+        "Codigo": "2101.001.430-4",
+        "Descricao": "HIDRÁULICA",
+        "Semestre": "0",
+        "Apelido": "HIDRÁULICA",
+        "CargaHorariaTeorico": 0,
+        "CargaHorariaPratica": 0,
+        "ListaPrequisitos": []
+      }
+    ]
+  },
+  {
+    "Id": 50162,
+    "Codigo": "2101.001.431-3",
+    "Tipo": "OPT",
+    "Descricao": "PATOLOGIA DAS CONSTRUÇÕES",
+    "Semestre": 99,
+    "Apelido": "PATOLOGIA DAS CONSTRUÇÕES",
+    "CargaHorariaTeorico": 51,
+    "CargaHorariaPratica": null,
+    "ListaPrequisitos": [
+      {
+        "Id": 34024,
+        "Codigo": "2101.000.795-7",
+        "Descricao": "INSTALAÇÕES ELÉTRICAS",
+        "Semestre": "0",
+        "Apelido": "INSTALAÇÕES ELÉTRICAS",
+        "CargaHorariaTeorico": 0,
+        "CargaHorariaPratica": 0,
+        "ListaPrequisitos": []
+      },
+      {
+        "Id": 34028,
+        "Codigo": "2101.000.799-0",
+        "Descricao": "FUNDAÇÕES II",
+        "Semestre": "0",
+        "Apelido": "FUNDAÇÕES II",
+        "CargaHorariaTeorico": 0,
+        "CargaHorariaPratica": 0,
+        "ListaPrequisitos": []
+      },
+      {
+        "Id": 50172,
+        "Codigo": "2101.001.440-2",
+        "Descricao": "MATERIAIS DE CONSTRUÇÃO CIVIL II",
+        "Semestre": "0",
+        "Apelido": "MATERIAIS DE CONSTRUÇÃO CIVIL II",
+        "CargaHorariaTeorico": 0,
+        "CargaHorariaPratica": 0,
+        "ListaPrequisitos": []
+      },
+      {
+        "Id": 50174,
+        "Codigo": "2101.001.442-0",
+        "Descricao": "CONCRETO ARMADO II",
+        "Semestre": "0",
+        "Apelido": "CONCRETO ARMADO II",
+        "CargaHorariaTeorico": 0,
+        "CargaHorariaPratica": 0,
+        "ListaPrequisitos": []
+      }
+    ]
+  },
+  {
+    "Id": 33992,
+    "Codigo": "2101.000.772-8",
+    "Tipo": "OPT",
+    "Descricao": "PAVIMENTOS RÍGIDOS",
+    "Semestre": 99,
+    "Apelido": "PAVIMENTOS RÍGIDOS",
+    "CargaHorariaTeorico": 51,
+    "CargaHorariaPratica": null,
+    "ListaPrequisitos": [
+      {
+        "Id": 50172,
+        "Codigo": "2101.001.440-2",
+        "Descricao": "MATERIAIS DE CONSTRUÇÃO CIVIL II",
+        "Semestre": "0",
+        "Apelido": "MATERIAIS DE CONSTRUÇÃO CIVIL II",
+        "CargaHorariaTeorico": 0,
+        "CargaHorariaPratica": 0,
+        "ListaPrequisitos": []
+      }
+    ]
+  },
+  {
+    "Id": 31996,
+    "Codigo": "2101.000.457-5",
+    "Tipo": "OPT",
+    "Descricao": "PESQUISA OPERACIONAL I",
+    "Semestre": 99,
+    "Apelido": "PESQUISA OPERACIONAL I",
+    "CargaHorariaTeorico": 68,
+    "CargaHorariaPratica": null,
+    "ListaPrequisitos": []
+  },
+  {
+    "Id": 32007,
+    "Codigo": "2101.000.467-2",
+    "Tipo": "OPT",
+    "Descricao": "PESQUISA OPERACIONAL II",
+    "Semestre": 99,
+    "Apelido": "PESQUISA OPERACIONAL II",
+    "CargaHorariaTeorico": 68,
+    "CargaHorariaPratica": null,
+    "ListaPrequisitos": []
+  },
+  {
+    "Id": 33993,
+    "Codigo": "2101.000.773-6",
+    "Tipo": "OPT",
+    "Descricao": "PESQUISA OPERACIONAL PARA SISTEMAS LOGÍSTICOS E ENGENHARIA DE TRANSPORTES",
+    "Semestre": 99,
+    "Apelido": "PESQUISA OPERACIONAL PARA SISTEMAS LOGÍSTICOS E ENGENHARIA DE TRANSPORTES",
+    "CargaHorariaTeorico": 51,
+    "CargaHorariaPratica": null,
+    "ListaPrequisitos": []
+  },
+  {
+    "Id": 33994,
+    "Codigo": "2101.000.774-4",
+    "Tipo": "OPT",
+    "Descricao": "PLANEJAMENTO DE TRANSPORTE",
+    "Semestre": 99,
+    "Apelido": "PLANEJAMENTO DE TRANSPORTE",
+    "CargaHorariaTeorico": 51,
+    "CargaHorariaPratica": null,
+    "ListaPrequisitos": [
+      {
+        "Id": 34023,
+        "Codigo": "2101.000.794-9",
+        "Descricao": "ENGENHARIA DE TRANSPORTES I",
+        "Semestre": "0",
+        "Apelido": "ENGENHARIA DE TRANSPORTES I",
+        "CargaHorariaTeorico": 0,
+        "CargaHorariaPratica": 0,
+        "ListaPrequisitos": []
+      }
+    ]
+  },
+  {
+    "Id": 31703,
+    "Codigo": "2101.000.185-1",
+    "Tipo": "OPT",
+    "Descricao": "PLANEJAMENTO E GESTÃO DE RECURSOS HÍDRICOS",
+    "Semestre": 99,
+    "Apelido": "PLANEJAMENTO E GESTÃO DE RECURSOS HÍDRICOS",
+    "CargaHorariaTeorico": 68,
+    "CargaHorariaPratica": null,
+    "ListaPrequisitos": []
+  },
+  {
+    "Id": 33996,
+    "Codigo": "2101.000.776-0",
+    "Tipo": "OPT",
+    "Descricao": "PLANEJAMENTO URBANO E REGIONAL I",
+    "Semestre": 99,
+    "Apelido": "PLANEJAMENTO URBANO E REGIONAL I",
+    "CargaHorariaTeorico": 68,
+    "CargaHorariaPratica": null,
+    "ListaPrequisitos": []
+  },
+  {
+    "Id": 33997,
+    "Codigo": "2101.000.777-9",
+    "Tipo": "OPT",
+    "Descricao": "PLANEJAMENTO URBANO E REGIONAL II",
+    "Semestre": 99,
+    "Apelido": "PLANEJAMENTO URBANO E REGIONAL II",
+    "CargaHorariaTeorico": 68,
+    "CargaHorariaPratica": null,
+    "ListaPrequisitos": []
+  },
+  {
+    "Id": 31534,
+    "Codigo": "2101.000.030-8",
+    "Tipo": "OPT",
+    "Descricao": "PLANEJAMENTO URBANO I",
+    "Semestre": 99,
+    "Apelido": "PLANEJAMENTO URBANO I",
+    "CargaHorariaTeorico": 68,
+    "CargaHorariaPratica": null,
+    "ListaPrequisitos": []
+  },
+  {
+    "Id": 31540,
+    "Codigo": "2101.000.036-7",
+    "Tipo": "OPT",
+    "Descricao": "PLANEJAMENTO URBANO II",
+    "Semestre": 99,
+    "Apelido": "PLANEJAMENTO URBANO II",
+    "CargaHorariaTeorico": 68,
+    "CargaHorariaPratica": null,
+    "ListaPrequisitos": []
+  },
+  {
+    "Id": 31709,
+    "Codigo": "2101.000.190-8",
+    "Tipo": "OPT",
+    "Descricao": "PLANO DIRETOR DE RECURSOS HÍDRICOS",
+    "Semestre": 99,
+    "Apelido": "PLANO DIRETOR DE RECURSOS HÍDRICOS",
+    "CargaHorariaTeorico": 51,
+    "CargaHorariaPratica": null,
+    "ListaPrequisitos": []
+  },
+  {
+    "Id": 33998,
+    "Codigo": "2101.000.778-7",
+    "Tipo": "OPT",
+    "Descricao": "PONTES DE MADEIRA",
+    "Semestre": 99,
+    "Apelido": "PONTES DE MADEIRA",
+    "CargaHorariaTeorico": 51,
+    "CargaHorariaPratica": null,
+    "ListaPrequisitos": [
+      {
+        "Id": 50170,
+        "Codigo": "2101.001.438-7",
+        "Descricao": "ESTRUTURAS DE MADEIRA",
+        "Semestre": "0",
+        "Apelido": "ESTRUTURAS DE MADEIRA",
+        "CargaHorariaTeorico": 0,
+        "CargaHorariaPratica": 0,
+        "ListaPrequisitos": []
+      }
+    ]
+  },
+  {
+    "Id": 33999,
+    "Codigo": "2101.000.779-5",
+    "Tipo": "OPT",
+    "Descricao": "PONTES METÁLICAS EM VIGA RETA",
+    "Semestre": 99,
+    "Apelido": "PONTES METÁLICAS EM VIGA RETA",
+    "CargaHorariaTeorico": 51,
+    "CargaHorariaPratica": null,
+    "ListaPrequisitos": [
+      {
+        "Id": 50168,
+        "Codigo": "2101.001.437-8",
+        "Descricao": "ESTRUTURAS METÁLICAS",
+        "Semestre": "0",
+        "Apelido": "ESTRUTURAS METÁLICAS",
+        "CargaHorariaTeorico": 0,
+        "CargaHorariaPratica": 0,
+        "ListaPrequisitos": []
+      }
+    ]
+  },
+  {
+    "Id": 34000,
+    "Codigo": "2101.000.780-9",
+    "Tipo": "OPT",
+    "Descricao": "QUALIDADE NA CONSTRUÇÃO CIVIL",
+    "Semestre": 99,
+    "Apelido": "QUALIDADE NA CONSTRUÇÃO CIVIL",
+    "CargaHorariaTeorico": 51,
+    "CargaHorariaPratica": null,
+    "ListaPrequisitos": [
+      {
+        "Id": 46511,
+        "Codigo": "2101.001.400-0",
+        "Descricao": "FUNDAMENTOS DE ADMINISTRAÇÃO",
+        "Semestre": "0",
+        "Apelido": "FUNDAMENTOS DE ADMINISTRAÇÃO",
+        "CargaHorariaTeorico": 0,
+        "CargaHorariaPratica": 0,
+        "ListaPrequisitos": []
+      },
+      {
+        "Id": 50158,
+        "Codigo": "2101.001.427-0",
+        "Descricao": "CONSTRUÇÕES DE EDIFÍCIOS",
+        "Semestre": "0",
+        "Apelido": "CONSTRUÇÕES DE EDIFÍCIOS",
+        "CargaHorariaTeorico": 0,
+        "CargaHorariaPratica": 0,
+        "ListaPrequisitos": []
+      }
+    ]
+  },
+  {
+    "Id": 31702,
+    "Codigo": "2101.000.184-3",
+    "Tipo": "OPT",
+    "Descricao": "RESÍDUOS SÓLIDOS URBANOS E INDUSTRIAIS",
+    "Semestre": 99,
+    "Apelido": "RESÍDUOS SÓLIDOS URBANOS E INDUSTRIAIS",
+    "CargaHorariaTeorico": 68,
+    "CargaHorariaPratica": null,
+    "ListaPrequisitos": []
+  },
+  {
+    "Id": 31876,
+    "Codigo": "2101.000.349-8",
+    "Tipo": "OPT",
+    "Descricao": "SAÚDE AMBIENTAL",
+    "Semestre": 99,
+    "Apelido": "SAÚDE AMBIENTAL",
+    "CargaHorariaTeorico": 34,
+    "CargaHorariaPratica": null,
+    "ListaPrequisitos": []
+  },
+  {
+    "Id": 31874,
+    "Codigo": "2101.000.347-1",
+    "Tipo": "OPT",
+    "Descricao": "SENSORIAMENTO REMOTO AMBIENTAL",
+    "Semestre": 99,
+    "Apelido": "SENSORIAMENTO REMOTO AMBIENTAL",
+    "CargaHorariaTeorico": 51,
+    "CargaHorariaPratica": null,
+    "ListaPrequisitos": []
+  },
+  {
+    "Id": 48019,
+    "Codigo": "2201.000.200-0",
+    "Tipo": "OPT",
+    "Descricao": "SEQUÊNCIAS E SÉRIES",
+    "Semestre": 99,
+    "Apelido": "SEQUÊNCIAS E SÉRIES",
+    "CargaHorariaTeorico": 34,
+    "CargaHorariaPratica": null,
+    "ListaPrequisitos": [
+      {
+        "Id": 48318,
+        "Codigo": "2201.000.201-0",
+        "Descricao": "CÁLCULO III",
+        "Semestre": "0",
+        "Apelido": "CÁLCULO III",
+        "CargaHorariaTeorico": 0,
+        "CargaHorariaPratica": 0,
+        "ListaPrequisitos": []
+      }
+    ]
+  },
+  {
+    "Id": 34001,
+    "Codigo": "2101.000.781-7",
+    "Tipo": "OPT",
+    "Descricao": "SISTEMAS DE GERÊNCIA DE PAVIMENTOS",
+    "Semestre": 99,
+    "Apelido": "SISTEMAS DE GERÊNCIA DE PAVIMENTOS",
+    "CargaHorariaTeorico": 51,
+    "CargaHorariaPratica": null,
+    "ListaPrequisitos": []
+  },
+  {
+    "Id": 34002,
+    "Codigo": "2101.000.782-5",
+    "Tipo": "OPT",
+    "Descricao": "SISTEMAS DE INFORMAÇÕES GEOGRÁFICAS APLICADOS À ENGENHARIA DE TRANSPORTES",
+    "Semestre": 99,
+    "Apelido": "SISTEMAS DE INFORMAÇÕES GEOGRÁFICAS APLICADOS À ENGENHARIA DE TRANSPORTES",
+    "CargaHorariaTeorico": 68,
+    "CargaHorariaPratica": null,
+    "ListaPrequisitos": []
+  },
+  {
+    "Id": 46485,
+    "Codigo": "2101.001.375-5",
+    "Tipo": "OPT",
+    "Descricao": "SISTEMAS DE PRODUÇÃO 4.0 INTEGRADOS À GESTÃO 4.0",
+    "Semestre": 99,
+    "Apelido": "SISTEMAS DE PRODUÇÃO 4.0 INTEGRADOS À GESTÃO 4.0",
+    "CargaHorariaTeorico": 51,
+    "CargaHorariaPratica": null,
+    "ListaPrequisitos": []
+  },
+  {
+    "Id": 50163,
+    "Codigo": "2101.001.432-2",
+    "Tipo": "OPT",
+    "Descricao": "TECNOLOGIA DO CONCRETO",
+    "Semestre": 99,
+    "Apelido": "TECNOLOGIA DO CONCRETO",
+    "CargaHorariaTeorico": 51,
+    "CargaHorariaPratica": null,
+    "ListaPrequisitos": [
+      {
+        "Id": 50172,
+        "Codigo": "2101.001.440-2",
+        "Descricao": "MATERIAIS DE CONSTRUÇÃO CIVIL II",
+        "Semestre": "0",
+        "Apelido": "MATERIAIS DE CONSTRUÇÃO CIVIL II",
+        "CargaHorariaTeorico": 0,
+        "CargaHorariaPratica": 0,
+        "ListaPrequisitos": []
+      }
+    ]
+  },
+  {
+    "Id": 31684,
+    "Codigo": "2101.000.167-3",
+    "Tipo": "OPT",
+    "Descricao": "TECNOLOGIA E MATERIAIS NÃO-CONVENCIONAIS DE CONSTRUÇÃO",
+    "Semestre": 99,
+    "Apelido": "TECNOLOGIA E MATERIAIS NÃO-CONVENCIONAIS DE CONSTRUÇÃO",
+    "CargaHorariaTeorico": 51,
+    "CargaHorariaPratica": null,
+    "ListaPrequisitos": [
+      {
+        "Id": 50172,
+        "Codigo": "2101.001.440-2",
+        "Descricao": "MATERIAIS DE CONSTRUÇÃO CIVIL II",
+        "Semestre": "0",
+        "Apelido": "MATERIAIS DE CONSTRUÇÃO CIVIL II",
+        "CargaHorariaTeorico": 0,
+        "CargaHorariaPratica": 0,
+        "ListaPrequisitos": []
+      }
+    ]
+  },
+  {
+    "Id": 50141,
+    "Codigo": "2101.001.411-7",
+    "Tipo": "OPT",
+    "Descricao": "TÓPICOS EM CIÊNCIA E TECNOLOGIA DOS MATERIAIS",
+    "Semestre": 99,
+    "Apelido": "TÓPICOS EM CIÊNCIA E TECNOLOGIA DOS MATERIAIS",
+    "CargaHorariaTeorico": 34,
+    "CargaHorariaPratica": null,
+    "ListaPrequisitos": [
+      {
+        "Id": 50150,
+        "Codigo": "2101.001.420-6",
+        "Descricao": "CIÊNCIA E TECNOLOGIA DOS MATERIAIS",
+        "Semestre": "0",
+        "Apelido": "CIÊNCIA E TECNOLOGIA DOS MATERIAIS",
+        "CargaHorariaTeorico": 0,
+        "CargaHorariaPratica": 0,
+        "ListaPrequisitos": []
+      }
+    ]
+  },
+  {
+    "Id": 34005,
+    "Codigo": "2101.000.785-0",
+    "Tipo": "OPT",
+    "Descricao": "TÓPICOS ESPECIAIS DE CONCRETO ARMADO",
+    "Semestre": 99,
+    "Apelido": "TÓPICOS ESPECIAIS DE CONCRETO ARMADO",
+    "CargaHorariaTeorico": 51,
+    "CargaHorariaPratica": null,
+    "ListaPrequisitos": [
+      {
+        "Id": 50174,
+        "Codigo": "2101.001.442-0",
+        "Descricao": "CONCRETO ARMADO II",
+        "Semestre": "0",
+        "Apelido": "CONCRETO ARMADO II",
+        "CargaHorariaTeorico": 0,
+        "CargaHorariaPratica": 0,
+        "ListaPrequisitos": []
+      }
+    ]
+  },
+  {
+    "Id": 34006,
+    "Codigo": "2101.000.786-8",
+    "Tipo": "OPT",
+    "Descricao": "TÓPICOS ESPECIAIS DE ESTRUTURAS DE MADEIRA",
+    "Semestre": 99,
+    "Apelido": "TÓPICOS ESPECIAIS DE ESTRUTURAS DE MADEIRA",
+    "CargaHorariaTeorico": 51,
+    "CargaHorariaPratica": null,
+    "ListaPrequisitos": [
+      {
+        "Id": 50170,
+        "Codigo": "2101.001.438-7",
+        "Descricao": "ESTRUTURAS DE MADEIRA",
+        "Semestre": "0",
+        "Apelido": "ESTRUTURAS DE MADEIRA",
+        "CargaHorariaTeorico": 0,
+        "CargaHorariaPratica": 0,
+        "ListaPrequisitos": []
+      }
+    ]
+  },
+  {
+    "Id": 34007,
+    "Codigo": "2101.000.787-6",
+    "Tipo": "OPT",
+    "Descricao": "TÓPICOS ESPECIAIS DE ESTRUTURAS METÁLICAS",
+    "Semestre": 99,
+    "Apelido": "TÓPICOS ESPECIAIS DE ESTRUTURAS METÁLICAS",
+    "CargaHorariaTeorico": 51,
+    "CargaHorariaPratica": null,
+    "ListaPrequisitos": [
+      {
+        "Id": 50168,
+        "Codigo": "2101.001.437-8",
+        "Descricao": "ESTRUTURAS METÁLICAS",
+        "Semestre": "0",
+        "Apelido": "ESTRUTURAS METÁLICAS",
+        "CargaHorariaTeorico": 0,
+        "CargaHorariaPratica": 0,
+        "ListaPrequisitos": []
+      }
+    ]
+  },
+  {
+    "Id": 46508,
+    "Codigo": "2101.001.397-0",
+    "Tipo": "OPT",
+    "Descricao": "TÓPICOS ESPECIAIS DE FUNDAÇÕES",
+    "Semestre": 99,
+    "Apelido": "TÓPICOS ESPECIAIS DE FUNDAÇÕES",
+    "CargaHorariaTeorico": 34,
+    "CargaHorariaPratica": null,
+    "ListaPrequisitos": [
+      {
+        "Id": 34028,
+        "Codigo": "2101.000.799-0",
+        "Descricao": "FUNDAÇÕES II",
+        "Semestre": "0",
+        "Apelido": "FUNDAÇÕES II",
+        "CargaHorariaTeorico": 0,
+        "CargaHorariaPratica": 0,
+        "ListaPrequisitos": []
+      }
+    ]
+  },
+  {
+    "Id": 34009,
+    "Codigo": "2101.000.789-2",
+    "Tipo": "OPT",
+    "Descricao": "TRANSPORTE DE SEDIMENTOS E MECÂNICA FLUVIAL",
+    "Semestre": 99,
+    "Apelido": "TRANSPORTE DE SEDIMENTOS E MECÂNICA FLUVIAL",
+    "CargaHorariaTeorico": 68,
+    "CargaHorariaPratica": null,
+    "ListaPrequisitos": []
+  },
+  {
+    "Id": 34008,
+    "Codigo": "2101.000.788-4",
+    "Tipo": "OPT",
+    "Descricao": "TRANSPORTE PÚBLICO URBANO",
+    "Semestre": 99,
+    "Apelido": "TRANSPORTE PÚBLICO URBANO",
+    "CargaHorariaTeorico": 51,
+    "CargaHorariaPratica": null,
+    "ListaPrequisitos": []
+  },
+  {
+    "Id": 31689,
+    "Codigo": "2101.000.172-0",
+    "Tipo": "OPT",
+    "Descricao": "TRATAMENTO DE ÁGUA",
+    "Semestre": 99,
+    "Apelido": "TRATAMENTO DE ÁGUA",
+    "CargaHorariaTeorico": 68,
+    "CargaHorariaPratica": null,
+    "ListaPrequisitos": []
+  },
+  {
+    "Id": 31911,
+    "Codigo": "2101.000.382-0",
+    "Tipo": "OPT",
+    "Descricao": "TRATAMENTO DE ESGOTO",
+    "Semestre": 99,
+    "Apelido": "TRATAMENTO DE ESGOTO",
+    "CargaHorariaTeorico": 85,
+    "CargaHorariaPratica": null,
+    "ListaPrequisitos": []
+  },
+  {
+    "Id": 34010,
+    "Codigo": "2101.000.790-6",
+    "Tipo": "OPT",
+    "Descricao": "VENTILAÇÃO E ILUMINAÇÃO NATURAL",
+    "Semestre": 99,
+    "Apelido": "VENTILAÇÃO E ILUMINAÇÃO NATURAL",
+    "CargaHorariaTeorico": 51,
+    "CargaHorariaPratica": null,
+    "ListaPrequisitos": [
+      {
+        "Id": 50158,
+        "Codigo": "2101.001.427-0",
+        "Descricao": "CONSTRUÇÕES DE EDIFÍCIOS",
+        "Semestre": "0",
+        "Apelido": "CONSTRUÇÕES DE EDIFÍCIOS",
+        "CargaHorariaTeorico": 0,
+        "CargaHorariaPratica": 0,
+        "ListaPrequisitos": []
+      }
+    ]
+  }
+]

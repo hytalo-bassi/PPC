@@ -1,0 +1,1294 @@
+[
+  {
+    "Id": 41571,
+    "Codigo": "2701.000.188-5",
+    "Tipo": "OBR",
+    "Descricao": "ANATOMIA HUMANA",
+    "Semestre": 1,
+    "Apelido": "ANATOMIA HUMANA",
+    "CargaHorariaTeorico": 51,
+    "CargaHorariaPratica": null,
+    "ListaPrequisitos": []
+  },
+  {
+    "Id": 51242,
+    "Codigo": "3101.000.610-5",
+    "Tipo": "OBR",
+    "Descricao": "BASES BIOLÓGICAS PARA A ATIVIDADE FÍSICA",
+    "Semestre": 1,
+    "Apelido": "BASES BIOLÓGICAS PARA A ATIVIDADE FÍSICA",
+    "CargaHorariaTeorico": 51,
+    "CargaHorariaPratica": null,
+    "ListaPrequisitos": []
+  },
+  {
+    "Id": 41991,
+    "Codigo": "3101.000.126-3",
+    "Tipo": "OBR",
+    "Descricao": "CIÊNCIA E EDUCAÇÃO FÍSICA I",
+    "Semestre": 1,
+    "Apelido": "CIÊNCIA E EDUCAÇÃO FÍSICA I",
+    "CargaHorariaTeorico": 68,
+    "CargaHorariaPratica": null,
+    "ListaPrequisitos": []
+  },
+  {
+    "Id": 51261,
+    "Codigo": "3101.000.629-5",
+    "Tipo": "OBR",
+    "Descricao": "HISTÓRIA DA EDUCAÇÃO FÍSICA",
+    "Semestre": 1,
+    "Apelido": "HISTÓRIA DA EDUCAÇÃO FÍSICA",
+    "CargaHorariaTeorico": 68,
+    "CargaHorariaPratica": null,
+    "ListaPrequisitos": []
+  },
+  {
+    "Id": 51264,
+    "Codigo": "3101.000.632-0",
+    "Tipo": "OBR",
+    "Descricao": "METODOLOGIAS DE ENSINO DAS GINÁSTICAS",
+    "Semestre": 1,
+    "Apelido": "METODOLOGIAS DE ENSINO DAS GINÁSTICAS",
+    "CargaHorariaTeorico": 68,
+    "CargaHorariaPratica": null,
+    "ListaPrequisitos": []
+  },
+  {
+    "Id": 43177,
+    "Codigo": "3101.000.331-9",
+    "Tipo": "OBR",
+    "Descricao": "PEDAGOGIA DO ESPORTE I",
+    "Semestre": 1,
+    "Apelido": "PEDAGOGIA DO ESPORTE I",
+    "CargaHorariaTeorico": 68,
+    "CargaHorariaPratica": null,
+    "ListaPrequisitos": []
+  },
+  {
+    "Id": 43165,
+    "Codigo": "3101.000.319-5",
+    "Tipo": "OBR",
+    "Descricao": "CINESIOLOGIA E BIOMECÂNICA",
+    "Semestre": 2,
+    "Apelido": "CINESIOLOGIA E BIOMECÂNICA",
+    "CargaHorariaTeorico": 68,
+    "CargaHorariaPratica": null,
+    "ListaPrequisitos": [
+      {
+        "Id": 41571,
+        "Codigo": "2701.000.188-5",
+        "Descricao": "ANATOMIA HUMANA",
+        "Semestre": "0",
+        "Apelido": "ANATOMIA HUMANA",
+        "CargaHorariaTeorico": 0,
+        "CargaHorariaPratica": 0,
+        "ListaPrequisitos": []
+      }
+    ]
+  },
+  {
+    "Id": 51243,
+    "Codigo": "3101.000.611-4",
+    "Tipo": "OBR",
+    "Descricao": "CRESCIMENTO E DESENVOLVIMENTO HUMANO",
+    "Semestre": 2,
+    "Apelido": "CRESCIMENTO E DESENVOLVIMENTO HUMANO",
+    "CargaHorariaTeorico": 51,
+    "CargaHorariaPratica": null,
+    "ListaPrequisitos": []
+  },
+  {
+    "Id": 51257,
+    "Codigo": "3101.000.625-9",
+    "Tipo": "OBR",
+    "Descricao": "EPIDEMIOLOGIA DA ATIVIDADE FÍSICA E SAÚDE",
+    "Semestre": 2,
+    "Apelido": "EPIDEMIOLOGIA DA ATIVIDADE FÍSICA E SAÚDE",
+    "CargaHorariaTeorico": 51,
+    "CargaHorariaPratica": null,
+    "ListaPrequisitos": []
+  },
+  {
+    "Id": 51274,
+    "Codigo": "3101.000.642-8",
+    "Tipo": "OBR",
+    "Descricao": "FUNDAMENTOS FILOSÓFICOS E EDUCAÇÃO FÍSICA",
+    "Semestre": 2,
+    "Apelido": "FUNDAMENTOS FILOSÓFICOS E EDUCAÇÃO FÍSICA",
+    "CargaHorariaTeorico": 51,
+    "CargaHorariaPratica": null,
+    "ListaPrequisitos": []
+  },
+  {
+    "Id": 51268,
+    "Codigo": "3101.000.636-6",
+    "Tipo": "OBR",
+    "Descricao": "METODOLOGIAS DE ENSINO DO FUTEBOL E FUTSAL",
+    "Semestre": 2,
+    "Apelido": "METODOLOGIAS DE ENSINO DO FUTEBOL E FUTSAL",
+    "CargaHorariaTeorico": 68,
+    "CargaHorariaPratica": null,
+    "ListaPrequisitos": []
+  },
+  {
+    "Id": 43156,
+    "Codigo": "3101.000.310-3",
+    "Tipo": "OBR",
+    "Descricao": "NUTRIÇÃO E ATIVIDADE FÍSICA",
+    "Semestre": 2,
+    "Apelido": "NUTRIÇÃO E ATIVIDADE FÍSICA",
+    "CargaHorariaTeorico": 51,
+    "CargaHorariaPratica": null,
+    "ListaPrequisitos": []
+  },
+  {
+    "Id": 43142,
+    "Codigo": "3101.000.296-6",
+    "Tipo": "OBR",
+    "Descricao": "PEDAGOGIA DO ESPORTE II",
+    "Semestre": 2,
+    "Apelido": "PEDAGOGIA DO ESPORTE II",
+    "CargaHorariaTeorico": 51,
+    "CargaHorariaPratica": null,
+    "ListaPrequisitos": [
+      {
+        "Id": 43177,
+        "Codigo": "3101.000.331-9",
+        "Descricao": "PEDAGOGIA DO ESPORTE I",
+        "Semestre": "0",
+        "Apelido": "PEDAGOGIA DO ESPORTE I",
+        "CargaHorariaTeorico": 0,
+        "CargaHorariaPratica": 0,
+        "ListaPrequisitos": []
+      }
+    ]
+  },
+  {
+    "Id": 51245,
+    "Codigo": "3101.000.613-2",
+    "Tipo": "OBR",
+    "Descricao": "APRENDIZAGEM MOTORA",
+    "Semestre": 3,
+    "Apelido": "APRENDIZAGEM MOTORA",
+    "CargaHorariaTeorico": 51,
+    "CargaHorariaPratica": null,
+    "ListaPrequisitos": []
+  },
+  {
+    "Id": 43178,
+    "Codigo": "3101.000.332-8",
+    "Tipo": "OBR",
+    "Descricao": "ATIVIDADE MOTORA ADAPTADA",
+    "Semestre": 3,
+    "Apelido": "ATIVIDADE MOTORA ADAPTADA",
+    "CargaHorariaTeorico": 51,
+    "CargaHorariaPratica": null,
+    "ListaPrequisitos": []
+  },
+  {
+    "Id": 43157,
+    "Codigo": "3101.000.311-2",
+    "Tipo": "OBR",
+    "Descricao": "CIÊNCIA E EDUCAÇÃO FÍSICA II",
+    "Semestre": 3,
+    "Apelido": "CIÊNCIA E EDUCAÇÃO FÍSICA II",
+    "CargaHorariaTeorico": 68,
+    "CargaHorariaPratica": null,
+    "ListaPrequisitos": [
+      {
+        "Id": 41991,
+        "Codigo": "3101.000.126-3",
+        "Descricao": "CIÊNCIA E EDUCAÇÃO FÍSICA I",
+        "Semestre": "0",
+        "Apelido": "CIÊNCIA E EDUCAÇÃO FÍSICA I",
+        "CargaHorariaTeorico": 0,
+        "CargaHorariaPratica": 0,
+        "ListaPrequisitos": []
+      }
+    ]
+  },
+  {
+    "Id": 43158,
+    "Codigo": "3101.000.312-1",
+    "Tipo": "OBR",
+    "Descricao": "ESTATÍSTICA APLICADA A EDUCAÇÃO FÍSICA",
+    "Semestre": 3,
+    "Apelido": "ESTATÍSTICA APLICADA A EDUCAÇÃO FÍSICA",
+    "CargaHorariaTeorico": 34,
+    "CargaHorariaPratica": null,
+    "ListaPrequisitos": []
+  },
+  {
+    "Id": 51262,
+    "Codigo": "3101.000.630-1",
+    "Tipo": "OBR",
+    "Descricao": "ESTUDOS DO LAZER",
+    "Semestre": 3,
+    "Apelido": "ESTUDOS DO LAZER",
+    "CargaHorariaTeorico": 68,
+    "CargaHorariaPratica": null,
+    "ListaPrequisitos": []
+  },
+  {
+    "Id": 51244,
+    "Codigo": "3101.000.612-3",
+    "Tipo": "OBR",
+    "Descricao": "FISIOLOGIA HUMANA",
+    "Semestre": 3,
+    "Apelido": "FISIOLOGIA HUMANA",
+    "CargaHorariaTeorico": 68,
+    "CargaHorariaPratica": null,
+    "ListaPrequisitos": []
+  },
+  {
+    "Id": 51269,
+    "Codigo": "3101.000.637-5",
+    "Tipo": "OBR",
+    "Descricao": "METODOLOGIAS DE ENSINO DO VOLEIBOL",
+    "Semestre": 3,
+    "Apelido": "METODOLOGIAS DE ENSINO DO VOLEIBOL",
+    "CargaHorariaTeorico": 68,
+    "CargaHorariaPratica": null,
+    "ListaPrequisitos": []
+  },
+  {
+    "Id": 43155,
+    "Codigo": "3101.000.309-7",
+    "Tipo": "OBR",
+    "Descricao": "FISIOLOGIA DO EXERCICIO",
+    "Semestre": 4,
+    "Apelido": "FISIOLOGIA DO EXERCICIO",
+    "CargaHorariaTeorico": 68,
+    "CargaHorariaPratica": null,
+    "ListaPrequisitos": [
+      {
+        "Id": 41571,
+        "Codigo": "2701.000.188-5",
+        "Descricao": "ANATOMIA HUMANA",
+        "Semestre": "0",
+        "Apelido": "ANATOMIA HUMANA",
+        "CargaHorariaTeorico": 0,
+        "CargaHorariaPratica": 0,
+        "ListaPrequisitos": []
+      }
+    ]
+  },
+  {
+    "Id": 43154,
+    "Codigo": "3101.000.308-8",
+    "Tipo": "OBR",
+    "Descricao": "MEDIDAS E AVALIAÇÃO",
+    "Semestre": 4,
+    "Apelido": "MEDIDAS E AVALIAÇÃO",
+    "CargaHorariaTeorico": 68,
+    "CargaHorariaPratica": null,
+    "ListaPrequisitos": []
+  },
+  {
+    "Id": 51263,
+    "Codigo": "3101.000.631-0",
+    "Tipo": "OBR",
+    "Descricao": "METODOLOGIAS DE ENSINO DAS DANÇAS",
+    "Semestre": 4,
+    "Apelido": "METODOLOGIAS DE ENSINO DAS DANÇAS",
+    "CargaHorariaTeorico": 68,
+    "CargaHorariaPratica": null,
+    "ListaPrequisitos": []
+  },
+  {
+    "Id": 51266,
+    "Codigo": "3101.000.634-8",
+    "Tipo": "OBR",
+    "Descricao": "METODOLOGIAS DE ENSINO DO ATLETISMO",
+    "Semestre": 4,
+    "Apelido": "METODOLOGIAS DE ENSINO DO ATLETISMO",
+    "CargaHorariaTeorico": 68,
+    "CargaHorariaPratica": null,
+    "ListaPrequisitos": []
+  },
+  {
+    "Id": 51259,
+    "Codigo": "3101.000.627-7",
+    "Tipo": "OBR",
+    "Descricao": "POLÍTICAS PÚBLICAS DE EDUCAÇÃO FÍSICA, ESPORTE E LAZER",
+    "Semestre": 4,
+    "Apelido": "POLÍTICAS PÚBLICAS DE EDUCAÇÃO FÍSICA, ESPORTE E LAZER",
+    "CargaHorariaTeorico": 68,
+    "CargaHorariaPratica": null,
+    "ListaPrequisitos": []
+  },
+  {
+    "Id": 51270,
+    "Codigo": "3101.000.638-4",
+    "Tipo": "OBR",
+    "Descricao": "PREVENÇÃO DE ACIDENTES E SOCORROS DE URGÊNCIA EM EDUCAÇÃO FÍSICA",
+    "Semestre": 4,
+    "Apelido": "PREVENÇÃO DE ACIDENTES E SOCORROS DE URGÊNCIA EM EDUCAÇÃO FÍSICA",
+    "CargaHorariaTeorico": 34,
+    "CargaHorariaPratica": null,
+    "ListaPrequisitos": []
+  },
+  {
+    "Id": 43163,
+    "Codigo": "3101.000.317-7",
+    "Tipo": "OBR",
+    "Descricao": "ADMINISTRAÇÃO E ORGANIZAÇÃO EM EDUCAÇÃO FÍSICA",
+    "Semestre": 5,
+    "Apelido": "ADMINISTRAÇÃO E ORGANIZAÇÃO EM EDUCAÇÃO FÍSICA",
+    "CargaHorariaTeorico": 68,
+    "CargaHorariaPratica": null,
+    "ListaPrequisitos": []
+  },
+  {
+    "Id": 43144,
+    "Codigo": "3101.000.298-4",
+    "Tipo": "OBR",
+    "Descricao": "ATIVIDADE FÍSICA E ENVELHECIMENTO",
+    "Semestre": 5,
+    "Apelido": "ATIVIDADE FÍSICA E ENVELHECIMENTO",
+    "CargaHorariaTeorico": 34,
+    "CargaHorariaPratica": null,
+    "ListaPrequisitos": [
+      {
+        "Id": 51244,
+        "Codigo": "3101.000.612-3",
+        "Descricao": "FISIOLOGIA HUMANA",
+        "Semestre": "0",
+        "Apelido": "FISIOLOGIA HUMANA",
+        "CargaHorariaTeorico": 0,
+        "CargaHorariaPratica": 0,
+        "ListaPrequisitos": []
+      }
+    ]
+  },
+  {
+    "Id": 43150,
+    "Codigo": "3101.000.304-1",
+    "Tipo": "OBR",
+    "Descricao": "ESPORTES NA NATUREZA",
+    "Semestre": 5,
+    "Apelido": "ESPORTES NA NATUREZA",
+    "CargaHorariaTeorico": 51,
+    "CargaHorariaPratica": null,
+    "ListaPrequisitos": []
+  },
+  {
+    "Id": 51253,
+    "Codigo": "3101.000.621-2",
+    "Tipo": "OBR",
+    "Descricao": "ESTÁGIO 1 - ANIMAÇÃO SOCIOCULTURAL",
+    "Semestre": 5,
+    "Apelido": "ESTÁGIO 1 - ANIMAÇÃO SOCIOCULTURAL",
+    "CargaHorariaTeorico": 68,
+    "CargaHorariaPratica": null,
+    "ListaPrequisitos": []
+  },
+  {
+    "Id": 51265,
+    "Codigo": "3101.000.633-9",
+    "Tipo": "OBR",
+    "Descricao": "METODOLOGIAS DE ENSINO DAS LUTAS",
+    "Semestre": 5,
+    "Apelido": "METODOLOGIAS DE ENSINO DAS LUTAS",
+    "CargaHorariaTeorico": 68,
+    "CargaHorariaPratica": null,
+    "ListaPrequisitos": []
+  },
+  {
+    "Id": 51267,
+    "Codigo": "3101.000.635-7",
+    "Tipo": "OBR",
+    "Descricao": "METODOLOGIAS DE ENSINO DO BASQUETEBOL",
+    "Semestre": 5,
+    "Apelido": "METODOLOGIAS DE ENSINO DO BASQUETEBOL",
+    "CargaHorariaTeorico": 68,
+    "CargaHorariaPratica": null,
+    "ListaPrequisitos": []
+  },
+  {
+    "Id": 51246,
+    "Codigo": "3101.000.614-1",
+    "Tipo": "OBR",
+    "Descricao": "TREINAMENTO DE FORÇA/MUSCULAÇÃO",
+    "Semestre": 5,
+    "Apelido": "TREINAMENTO DE FORÇA/MUSCULAÇÃO",
+    "CargaHorariaTeorico": 68,
+    "CargaHorariaPratica": null,
+    "ListaPrequisitos": [
+      {
+        "Id": 43155,
+        "Codigo": "3101.000.309-7",
+        "Descricao": "FISIOLOGIA DO EXERCICIO",
+        "Semestre": "0",
+        "Apelido": "FISIOLOGIA DO EXERCICIO",
+        "CargaHorariaTeorico": 0,
+        "CargaHorariaPratica": 0,
+        "ListaPrequisitos": []
+      },
+      {
+        "Id": 43165,
+        "Codigo": "3101.000.319-5",
+        "Descricao": "CINESIOLOGIA E BIOMECÂNICA",
+        "Semestre": "0",
+        "Apelido": "CINESIOLOGIA E BIOMECÂNICA",
+        "CargaHorariaTeorico": 0,
+        "CargaHorariaPratica": 0,
+        "ListaPrequisitos": []
+      }
+    ]
+  },
+  {
+    "Id": 51247,
+    "Codigo": "3101.000.615-0",
+    "Tipo": "OBR",
+    "Descricao": "ATIVIDADES DE ACADEMIA",
+    "Semestre": 6,
+    "Apelido": "ATIVIDADES DE ACADEMIA",
+    "CargaHorariaTeorico": 51,
+    "CargaHorariaPratica": null,
+    "ListaPrequisitos": [
+      {
+        "Id": 41571,
+        "Codigo": "2701.000.188-5",
+        "Descricao": "ANATOMIA HUMANA",
+        "Semestre": "0",
+        "Apelido": "ANATOMIA HUMANA",
+        "CargaHorariaTeorico": 0,
+        "CargaHorariaPratica": 0,
+        "ListaPrequisitos": []
+      },
+      {
+        "Id": 43155,
+        "Codigo": "3101.000.309-7",
+        "Descricao": "FISIOLOGIA DO EXERCICIO",
+        "Semestre": "0",
+        "Apelido": "FISIOLOGIA DO EXERCICIO",
+        "CargaHorariaTeorico": 0,
+        "CargaHorariaPratica": 0,
+        "ListaPrequisitos": []
+      }
+    ]
+  },
+  {
+    "Id": 43143,
+    "Codigo": "3101.000.297-5",
+    "Tipo": "OBR",
+    "Descricao": "EDUCAÇÃO FÍSICA E SAÚDE PÚBLICA",
+    "Semestre": 6,
+    "Apelido": "EDUCAÇÃO FÍSICA E SAÚDE PÚBLICA",
+    "CargaHorariaTeorico": 51,
+    "CargaHorariaPratica": null,
+    "ListaPrequisitos": []
+  },
+  {
+    "Id": 51249,
+    "Codigo": "3101.000.617-9",
+    "Tipo": "OBR",
+    "Descricao": "ESTÁGIO 2 - ATIVIDADE MOTORA ADAPTADA",
+    "Semestre": 6,
+    "Apelido": "ESTÁGIO 2 - ATIVIDADE MOTORA ADAPTADA",
+    "CargaHorariaTeorico": 136,
+    "CargaHorariaPratica": null,
+    "ListaPrequisitos": [
+      {
+        "Id": 43178,
+        "Codigo": "3101.000.332-8",
+        "Descricao": "ATIVIDADE MOTORA ADAPTADA",
+        "Semestre": "0",
+        "Apelido": "ATIVIDADE MOTORA ADAPTADA",
+        "CargaHorariaTeorico": 0,
+        "CargaHorariaPratica": 0,
+        "ListaPrequisitos": []
+      }
+    ]
+  },
+  {
+    "Id": 51258,
+    "Codigo": "3101.000.626-8",
+    "Tipo": "OBR",
+    "Descricao": "METODOLOGIAS DE ENSINO DAS ATIVIDADES AQUÁTICAS",
+    "Semestre": 6,
+    "Apelido": "METODOLOGIAS DE ENSINO DAS ATIVIDADES AQUÁTICAS",
+    "CargaHorariaTeorico": 68,
+    "CargaHorariaPratica": null,
+    "ListaPrequisitos": []
+  },
+  {
+    "Id": 51256,
+    "Codigo": "3101.000.624-0",
+    "Tipo": "OBR",
+    "Descricao": "METODOLOGIAS DE ENSINO DO HANDEBOL",
+    "Semestre": 6,
+    "Apelido": "METODOLOGIAS DE ENSINO DO HANDEBOL",
+    "CargaHorariaTeorico": 68,
+    "CargaHorariaPratica": null,
+    "ListaPrequisitos": []
+  },
+  {
+    "Id": 51255,
+    "Codigo": "3101.000.623-0",
+    "Tipo": "OBR",
+    "Descricao": "PRESCRIÇÃO DE EXERCÍCIOS FÍSICOS PARA GRUPOS ESPECIAIS",
+    "Semestre": 6,
+    "Apelido": "PRESCRIÇÃO DE EXERCÍCIOS FÍSICOS PARA GRUPOS ESPECIAIS",
+    "CargaHorariaTeorico": 68,
+    "CargaHorariaPratica": null,
+    "ListaPrequisitos": [
+      {
+        "Id": 43155,
+        "Codigo": "3101.000.309-7",
+        "Descricao": "FISIOLOGIA DO EXERCICIO",
+        "Semestre": "0",
+        "Apelido": "FISIOLOGIA DO EXERCICIO",
+        "CargaHorariaTeorico": 0,
+        "CargaHorariaPratica": 0,
+        "ListaPrequisitos": []
+      }
+    ]
+  },
+  {
+    "Id": 43170,
+    "Codigo": "3101.000.324-8",
+    "Tipo": "OBR",
+    "Descricao": "TREINAMENTO ESPORTIVO I",
+    "Semestre": 6,
+    "Apelido": "TREINAMENTO ESPORTIVO I",
+    "CargaHorariaTeorico": 51,
+    "CargaHorariaPratica": null,
+    "ListaPrequisitos": [
+      {
+        "Id": 43155,
+        "Codigo": "3101.000.309-7",
+        "Descricao": "FISIOLOGIA DO EXERCICIO",
+        "Semestre": "0",
+        "Apelido": "FISIOLOGIA DO EXERCICIO",
+        "CargaHorariaTeorico": 0,
+        "CargaHorariaPratica": 0,
+        "ListaPrequisitos": []
+      },
+      {
+        "Id": 43165,
+        "Codigo": "3101.000.319-5",
+        "Descricao": "CINESIOLOGIA E BIOMECÂNICA",
+        "Semestre": "0",
+        "Apelido": "CINESIOLOGIA E BIOMECÂNICA",
+        "CargaHorariaTeorico": 0,
+        "CargaHorariaPratica": 0,
+        "ListaPrequisitos": []
+      }
+    ]
+  },
+  {
+    "Id": 43166,
+    "Codigo": "3101.000.320-1",
+    "Tipo": "OBR",
+    "Descricao": "EMPREENDEDORISMO",
+    "Semestre": 7,
+    "Apelido": "EMPREENDEDORISMO",
+    "CargaHorariaTeorico": 51,
+    "CargaHorariaPratica": null,
+    "ListaPrequisitos": []
+  },
+  {
+    "Id": 51250,
+    "Codigo": "3101.000.618-8",
+    "Tipo": "OBR",
+    "Descricao": "ESTÁGIO 3 - ESPORTES",
+    "Semestre": 7,
+    "Apelido": "ESTÁGIO 3 - ESPORTES",
+    "CargaHorariaTeorico": 158,
+    "CargaHorariaPratica": null,
+    "ListaPrequisitos": [
+      {
+        "Id": 43142,
+        "Codigo": "3101.000.296-6",
+        "Descricao": "PEDAGOGIA DO ESPORTE II",
+        "Semestre": "0",
+        "Apelido": "PEDAGOGIA DO ESPORTE II",
+        "CargaHorariaTeorico": 0,
+        "CargaHorariaPratica": 0,
+        "ListaPrequisitos": []
+      },
+      {
+        "Id": 43177,
+        "Codigo": "3101.000.331-9",
+        "Descricao": "PEDAGOGIA DO ESPORTE I",
+        "Semestre": "0",
+        "Apelido": "PEDAGOGIA DO ESPORTE I",
+        "CargaHorariaTeorico": 0,
+        "CargaHorariaPratica": 0,
+        "ListaPrequisitos": []
+      }
+    ]
+  },
+  {
+    "Id": 51280,
+    "Codigo": "3101.000.648-2",
+    "Tipo": "OBR",
+    "Descricao": "PRÁTICA CIENTÍFICA I",
+    "Semestre": 7,
+    "Apelido": "PRÁTICA CIENTÍFICA I",
+    "CargaHorariaTeorico": 34,
+    "CargaHorariaPratica": null,
+    "ListaPrequisitos": [
+      {
+        "Id": 41991,
+        "Codigo": "3101.000.126-3",
+        "Descricao": "CIÊNCIA E EDUCAÇÃO FÍSICA I",
+        "Semestre": "0",
+        "Apelido": "CIÊNCIA E EDUCAÇÃO FÍSICA I",
+        "CargaHorariaTeorico": 0,
+        "CargaHorariaPratica": 0,
+        "ListaPrequisitos": []
+      },
+      {
+        "Id": 43157,
+        "Codigo": "3101.000.311-2",
+        "Descricao": "CIÊNCIA E EDUCAÇÃO FÍSICA II",
+        "Semestre": "0",
+        "Apelido": "CIÊNCIA E EDUCAÇÃO FÍSICA II",
+        "CargaHorariaTeorico": 0,
+        "CargaHorariaPratica": 0,
+        "ListaPrequisitos": []
+      }
+    ]
+  },
+  {
+    "Id": 51254,
+    "Codigo": "3101.000.622-1",
+    "Tipo": "OBR",
+    "Descricao": "PRÁTICAS EDUCATIVAS EM SAÚDE",
+    "Semestre": 7,
+    "Apelido": "PRÁTICAS EDUCATIVAS EM SAÚDE",
+    "CargaHorariaTeorico": 51,
+    "CargaHorariaPratica": null,
+    "ListaPrequisitos": []
+  },
+  {
+    "Id": 51248,
+    "Codigo": "3101.000.616-0",
+    "Tipo": "OBR",
+    "Descricao": "SOCIOLOGIA DA EDUCAÇÃO FÍSICA E DO ESPORTE",
+    "Semestre": 7,
+    "Apelido": "SOCIOLOGIA DA EDUCAÇÃO FÍSICA E DO ESPORTE",
+    "CargaHorariaTeorico": 68,
+    "CargaHorariaPratica": null,
+    "ListaPrequisitos": []
+  },
+  {
+    "Id": 43171,
+    "Codigo": "3101.000.325-7",
+    "Tipo": "OBR",
+    "Descricao": "TREINAMENTO ESPORTIVO II",
+    "Semestre": 7,
+    "Apelido": "TREINAMENTO ESPORTIVO II",
+    "CargaHorariaTeorico": 51,
+    "CargaHorariaPratica": null,
+    "ListaPrequisitos": [
+      {
+        "Id": 43170,
+        "Codigo": "3101.000.324-8",
+        "Descricao": "TREINAMENTO ESPORTIVO I",
+        "Semestre": "0",
+        "Apelido": "TREINAMENTO ESPORTIVO I",
+        "CargaHorariaTeorico": 0,
+        "CargaHorariaPratica": 0,
+        "ListaPrequisitos": []
+      }
+    ]
+  },
+  {
+    "Id": 51251,
+    "Codigo": "3101.000.619-7",
+    "Tipo": "OBR",
+    "Descricao": "ESTÁGIO 4 - SAÚDE COLETIVA",
+    "Semestre": 8,
+    "Apelido": "ESTÁGIO 4 - SAÚDE COLETIVA",
+    "CargaHorariaTeorico": 136,
+    "CargaHorariaPratica": null,
+    "ListaPrequisitos": [
+      {
+        "Id": 43143,
+        "Codigo": "3101.000.297-5",
+        "Descricao": "EDUCAÇÃO FÍSICA E SAÚDE PÚBLICA",
+        "Semestre": "0",
+        "Apelido": "EDUCAÇÃO FÍSICA E SAÚDE PÚBLICA",
+        "CargaHorariaTeorico": 0,
+        "CargaHorariaPratica": 0,
+        "ListaPrequisitos": []
+      }
+    ]
+  },
+  {
+    "Id": 51271,
+    "Codigo": "3101.000.639-3",
+    "Tipo": "OBR",
+    "Descricao": "ESTÁGIO 5 - ATIVIDADES DE ACADEMIA/MUSCULAÇÃO",
+    "Semestre": 8,
+    "Apelido": "ESTÁGIO 5 - ATIVIDADES DE ACADEMIA/MUSCULAÇÃO",
+    "CargaHorariaTeorico": 158,
+    "CargaHorariaPratica": null,
+    "ListaPrequisitos": [
+      {
+        "Id": 51246,
+        "Codigo": "3101.000.614-1",
+        "Descricao": "TREINAMENTO DE FORÇA/MUSCULAÇÃO",
+        "Semestre": "0",
+        "Apelido": "TREINAMENTO DE FORÇA/MUSCULAÇÃO",
+        "CargaHorariaTeorico": 0,
+        "CargaHorariaPratica": 0,
+        "ListaPrequisitos": []
+      },
+      {
+        "Id": 51247,
+        "Codigo": "3101.000.615-0",
+        "Descricao": "ATIVIDADES DE ACADEMIA",
+        "Semestre": "0",
+        "Apelido": "ATIVIDADES DE ACADEMIA",
+        "CargaHorariaTeorico": 0,
+        "CargaHorariaPratica": 0,
+        "ListaPrequisitos": []
+      }
+    ]
+  },
+  {
+    "Id": 51281,
+    "Codigo": "3101.000.649-1",
+    "Tipo": "OBR",
+    "Descricao": "PRÁTICA CIENTÍFICA II",
+    "Semestre": 8,
+    "Apelido": "PRÁTICA CIENTÍFICA II",
+    "CargaHorariaTeorico": 34,
+    "CargaHorariaPratica": null,
+    "ListaPrequisitos": [
+      {
+        "Id": 51280,
+        "Codigo": "3101.000.648-2",
+        "Descricao": "PRÁTICA CIENTÍFICA I",
+        "Semestre": "0",
+        "Apelido": "PRÁTICA CIENTÍFICA I",
+        "CargaHorariaTeorico": 0,
+        "CargaHorariaPratica": 0,
+        "ListaPrequisitos": []
+      }
+    ]
+  },
+  {
+    "Id": 41964,
+    "Codigo": "3101.000.099-2",
+    "Tipo": "OPT",
+    "Descricao": "APROFUNDAMENTO EM ATIVIDADES AQUÁTICAS",
+    "Semestre": 99,
+    "Apelido": "APROFUNDAMENTO EM ATIVIDADES AQUÁTICAS",
+    "CargaHorariaTeorico": 34,
+    "CargaHorariaPratica": null,
+    "ListaPrequisitos": [
+      {
+        "Id": 51258,
+        "Codigo": "3101.000.626-8",
+        "Descricao": "METODOLOGIAS DE ENSINO DAS ATIVIDADES AQUÁTICAS",
+        "Semestre": "0",
+        "Apelido": "METODOLOGIAS DE ENSINO DAS ATIVIDADES AQUÁTICAS",
+        "CargaHorariaTeorico": 0,
+        "CargaHorariaPratica": 0,
+        "ListaPrequisitos": []
+      }
+    ]
+  },
+  {
+    "Id": 41965,
+    "Codigo": "3101.000.100-0",
+    "Tipo": "OPT",
+    "Descricao": "APROFUNDAMENTO EM ATLETISMO",
+    "Semestre": 99,
+    "Apelido": "APROFUNDAMENTO EM ATLETISMO",
+    "CargaHorariaTeorico": 34,
+    "CargaHorariaPratica": null,
+    "ListaPrequisitos": [
+      {
+        "Id": 51266,
+        "Codigo": "3101.000.634-8",
+        "Descricao": "METODOLOGIAS DE ENSINO DO ATLETISMO",
+        "Semestre": "0",
+        "Apelido": "METODOLOGIAS DE ENSINO DO ATLETISMO",
+        "CargaHorariaTeorico": 0,
+        "CargaHorariaPratica": 0,
+        "ListaPrequisitos": []
+      }
+    ]
+  },
+  {
+    "Id": 41966,
+    "Codigo": "3101.000.101-8",
+    "Tipo": "OPT",
+    "Descricao": "APROFUNDAMENTO EM BASQUETEBOL",
+    "Semestre": 99,
+    "Apelido": "APROFUNDAMENTO EM BASQUETEBOL",
+    "CargaHorariaTeorico": 34,
+    "CargaHorariaPratica": null,
+    "ListaPrequisitos": [
+      {
+        "Id": 51267,
+        "Codigo": "3101.000.635-7",
+        "Descricao": "METODOLOGIAS DE ENSINO DO BASQUETEBOL",
+        "Semestre": "0",
+        "Apelido": "METODOLOGIAS DE ENSINO DO BASQUETEBOL",
+        "CargaHorariaTeorico": 0,
+        "CargaHorariaPratica": 0,
+        "ListaPrequisitos": []
+      }
+    ]
+  },
+  {
+    "Id": 41967,
+    "Codigo": "3101.000.102-6",
+    "Tipo": "OPT",
+    "Descricao": "APROFUNDAMENTO EM DANÇAS",
+    "Semestre": 99,
+    "Apelido": "APROFUNDAMENTO EM DANÇAS",
+    "CargaHorariaTeorico": 34,
+    "CargaHorariaPratica": null,
+    "ListaPrequisitos": [
+      {
+        "Id": 51263,
+        "Codigo": "3101.000.631-0",
+        "Descricao": "METODOLOGIAS DE ENSINO DAS DANÇAS",
+        "Semestre": "0",
+        "Apelido": "METODOLOGIAS DE ENSINO DAS DANÇAS",
+        "CargaHorariaTeorico": 0,
+        "CargaHorariaPratica": 0,
+        "ListaPrequisitos": []
+      }
+    ]
+  },
+  {
+    "Id": 41968,
+    "Codigo": "3101.000.103-4",
+    "Tipo": "OPT",
+    "Descricao": "APROFUNDAMENTO EM DESENVOLVIMENTO MOTOR",
+    "Semestre": 99,
+    "Apelido": "APROFUNDAMENTO EM DESENVOLVIMENTO MOTOR",
+    "CargaHorariaTeorico": 34,
+    "CargaHorariaPratica": null,
+    "ListaPrequisitos": []
+  },
+  {
+    "Id": 41969,
+    "Codigo": "3101.000.104-2",
+    "Tipo": "OPT",
+    "Descricao": "APROFUNDAMENTO EM FUTEBOL",
+    "Semestre": 99,
+    "Apelido": "APROFUNDAMENTO EM FUTEBOL",
+    "CargaHorariaTeorico": 34,
+    "CargaHorariaPratica": null,
+    "ListaPrequisitos": [
+      {
+        "Id": 51268,
+        "Codigo": "3101.000.636-6",
+        "Descricao": "METODOLOGIAS DE ENSINO DO FUTEBOL E FUTSAL",
+        "Semestre": "0",
+        "Apelido": "METODOLOGIAS DE ENSINO DO FUTEBOL E FUTSAL",
+        "CargaHorariaTeorico": 0,
+        "CargaHorariaPratica": 0,
+        "ListaPrequisitos": []
+      }
+    ]
+  },
+  {
+    "Id": 41970,
+    "Codigo": "3101.000.105-0",
+    "Tipo": "OPT",
+    "Descricao": "APROFUNDAMENTO EM GINÁSTICAS",
+    "Semestre": 99,
+    "Apelido": "APROFUNDAMENTO EM GINÁSTICAS",
+    "CargaHorariaTeorico": 34,
+    "CargaHorariaPratica": null,
+    "ListaPrequisitos": [
+      {
+        "Id": 51264,
+        "Codigo": "3101.000.632-0",
+        "Descricao": "METODOLOGIAS DE ENSINO DAS GINÁSTICAS",
+        "Semestre": "0",
+        "Apelido": "METODOLOGIAS DE ENSINO DAS GINÁSTICAS",
+        "CargaHorariaTeorico": 0,
+        "CargaHorariaPratica": 0,
+        "ListaPrequisitos": []
+      }
+    ]
+  },
+  {
+    "Id": 41971,
+    "Codigo": "3101.000.106-9",
+    "Tipo": "OPT",
+    "Descricao": "APROFUNDAMENTO EM HANDEBOL",
+    "Semestre": 99,
+    "Apelido": "APROFUNDAMENTO EM HANDEBOL",
+    "CargaHorariaTeorico": 34,
+    "CargaHorariaPratica": null,
+    "ListaPrequisitos": [
+      {
+        "Id": 51256,
+        "Codigo": "3101.000.624-0",
+        "Descricao": "METODOLOGIAS DE ENSINO DO HANDEBOL",
+        "Semestre": "0",
+        "Apelido": "METODOLOGIAS DE ENSINO DO HANDEBOL",
+        "CargaHorariaTeorico": 0,
+        "CargaHorariaPratica": 0,
+        "ListaPrequisitos": []
+      }
+    ]
+  },
+  {
+    "Id": 41972,
+    "Codigo": "3101.000.107-7",
+    "Tipo": "OPT",
+    "Descricao": "APROFUNDAMENTO EM LUTAS",
+    "Semestre": 99,
+    "Apelido": "APROFUNDAMENTO EM LUTAS",
+    "CargaHorariaTeorico": 34,
+    "CargaHorariaPratica": null,
+    "ListaPrequisitos": [
+      {
+        "Id": 51265,
+        "Codigo": "3101.000.633-9",
+        "Descricao": "METODOLOGIAS DE ENSINO DAS LUTAS",
+        "Semestre": "0",
+        "Apelido": "METODOLOGIAS DE ENSINO DAS LUTAS",
+        "CargaHorariaTeorico": 0,
+        "CargaHorariaPratica": 0,
+        "ListaPrequisitos": []
+      }
+    ]
+  },
+  {
+    "Id": 41973,
+    "Codigo": "3101.000.108-5",
+    "Tipo": "OPT",
+    "Descricao": "APROFUNDAMENTO EM MEDIDAS E AVALIAÇÃO",
+    "Semestre": 99,
+    "Apelido": "APROFUNDAMENTO EM MEDIDAS E AVALIAÇÃO",
+    "CargaHorariaTeorico": 34,
+    "CargaHorariaPratica": null,
+    "ListaPrequisitos": [
+      {
+        "Id": 43154,
+        "Codigo": "3101.000.308-8",
+        "Descricao": "MEDIDAS E AVALIAÇÃO",
+        "Semestre": "0",
+        "Apelido": "MEDIDAS E AVALIAÇÃO",
+        "CargaHorariaTeorico": 0,
+        "CargaHorariaPratica": 0,
+        "ListaPrequisitos": []
+      }
+    ]
+  },
+  {
+    "Id": 41974,
+    "Codigo": "3101.000.109-3",
+    "Tipo": "OPT",
+    "Descricao": "APROFUNDAMENTO EM SOCIOLOGIA DA EDUCAÇÃO FÍSICA, ESPORTE E LAZER",
+    "Semestre": 99,
+    "Apelido": "APROFUNDAMENTO EM SOCIOLOGIA DA EDUCAÇÃO FÍSICA, ESPORTE E LAZER",
+    "CargaHorariaTeorico": 34,
+    "CargaHorariaPratica": null,
+    "ListaPrequisitos": [
+      {
+        "Id": 51248,
+        "Codigo": "3101.000.616-0",
+        "Descricao": "SOCIOLOGIA DA EDUCAÇÃO FÍSICA E DO ESPORTE",
+        "Semestre": "0",
+        "Apelido": "SOCIOLOGIA DA EDUCAÇÃO FÍSICA E DO ESPORTE",
+        "CargaHorariaTeorico": 0,
+        "CargaHorariaPratica": 0,
+        "ListaPrequisitos": []
+      }
+    ]
+  },
+  {
+    "Id": 41975,
+    "Codigo": "3101.000.110-7",
+    "Tipo": "OPT",
+    "Descricao": "APROFUNDAMENTO EM VOLEIBOL",
+    "Semestre": 99,
+    "Apelido": "APROFUNDAMENTO EM VOLEIBOL",
+    "CargaHorariaTeorico": 34,
+    "CargaHorariaPratica": null,
+    "ListaPrequisitos": [
+      {
+        "Id": 51269,
+        "Codigo": "3101.000.637-5",
+        "Descricao": "METODOLOGIAS DE ENSINO DO VOLEIBOL",
+        "Semestre": "0",
+        "Apelido": "METODOLOGIAS DE ENSINO DO VOLEIBOL",
+        "CargaHorariaTeorico": 0,
+        "CargaHorariaPratica": 0,
+        "ListaPrequisitos": []
+      }
+    ]
+  },
+  {
+    "Id": 43172,
+    "Codigo": "3101.000.326-6",
+    "Tipo": "OPT",
+    "Descricao": "BRINQUEDO, BRINCADEIRA E JOGO NA INFÂNCIA",
+    "Semestre": 99,
+    "Apelido": "BRINQUEDO, BRINCADEIRA E JOGO NA INFÂNCIA",
+    "CargaHorariaTeorico": 34,
+    "CargaHorariaPratica": null,
+    "ListaPrequisitos": []
+  },
+  {
+    "Id": 41979,
+    "Codigo": "3101.000.114-0",
+    "Tipo": "OPT",
+    "Descricao": "COMPORTAMENTO MOTOR",
+    "Semestre": 99,
+    "Apelido": "COMPORTAMENTO MOTOR",
+    "CargaHorariaTeorico": 34,
+    "CargaHorariaPratica": null,
+    "ListaPrequisitos": []
+  },
+  {
+    "Id": 43181,
+    "Codigo": "3001.000.371-0",
+    "Tipo": "OPT",
+    "Descricao": "EDUCAÇÃO DAS RELAÇÕES ÉTNICO-RACIAIS",
+    "Semestre": 99,
+    "Apelido": "EDUCAÇÃO DAS RELAÇÕES ÉTNICO-RACIAIS",
+    "CargaHorariaTeorico": 51,
+    "CargaHorariaPratica": null,
+    "ListaPrequisitos": []
+  },
+  {
+    "Id": 41755,
+    "Codigo": "3101.000.094-1",
+    "Tipo": "OPT",
+    "Descricao": "EDUCAÇÃO ESPECIAL",
+    "Semestre": 99,
+    "Apelido": "EDUCAÇÃO ESPECIAL",
+    "CargaHorariaTeorico": 51,
+    "CargaHorariaPratica": null,
+    "ListaPrequisitos": []
+  },
+  {
+    "Id": 41982,
+    "Codigo": "3101.000.117-4",
+    "Tipo": "OPT",
+    "Descricao": "EDUCAÇÃO FÍSICA, CORPO E CULTURA",
+    "Semestre": 99,
+    "Apelido": "EDUCAÇÃO FÍSICA, CORPO E CULTURA",
+    "CargaHorariaTeorico": 34,
+    "CargaHorariaPratica": null,
+    "ListaPrequisitos": []
+  },
+  {
+    "Id": 51273,
+    "Codigo": "3101.000.641-9",
+    "Tipo": "OPT",
+    "Descricao": "EDUCAÇÃO FÍSICA E COMUNIDADE 1 - GINÁSTICAS",
+    "Semestre": 99,
+    "Apelido": "EDUCAÇÃO FÍSICA E COMUNIDADE 1 - GINÁSTICAS",
+    "CargaHorariaTeorico": 34,
+    "CargaHorariaPratica": null,
+    "ListaPrequisitos": []
+  },
+  {
+    "Id": 51252,
+    "Codigo": "3101.000.620-3",
+    "Tipo": "OPT",
+    "Descricao": "EDUCAÇÃO FÍSICA E COMUNIDADE 2 - LAZER",
+    "Semestre": 99,
+    "Apelido": "EDUCAÇÃO FÍSICA E COMUNIDADE 2 - LAZER",
+    "CargaHorariaTeorico": 34,
+    "CargaHorariaPratica": null,
+    "ListaPrequisitos": []
+  },
+  {
+    "Id": 51260,
+    "Codigo": "3101.000.628-6",
+    "Tipo": "OPT",
+    "Descricao": "EDUCAÇÃO FÍSICA E COMUNIDADE 3 - ESPORTES COLETIVOS",
+    "Semestre": 99,
+    "Apelido": "EDUCAÇÃO FÍSICA E COMUNIDADE 3 - ESPORTES COLETIVOS",
+    "CargaHorariaTeorico": 34,
+    "CargaHorariaPratica": null,
+    "ListaPrequisitos": []
+  },
+  {
+    "Id": 51275,
+    "Codigo": "3101.000.643-7",
+    "Tipo": "OPT",
+    "Descricao": "EDUCAÇÃO FÍSICA E COMUNIDADE 4 - ESPORTES INDIVIDUAIS",
+    "Semestre": 99,
+    "Apelido": "EDUCAÇÃO FÍSICA E COMUNIDADE 4 - ESPORTES INDIVIDUAIS",
+    "CargaHorariaTeorico": 34,
+    "CargaHorariaPratica": null,
+    "ListaPrequisitos": []
+  },
+  {
+    "Id": 51276,
+    "Codigo": "3101.000.644-6",
+    "Tipo": "OPT",
+    "Descricao": "EDUCAÇÃO FÍSICA E COMUNIDADE 5 - SAÚDE",
+    "Semestre": 99,
+    "Apelido": "EDUCAÇÃO FÍSICA E COMUNIDADE 5 - SAÚDE",
+    "CargaHorariaTeorico": 34,
+    "CargaHorariaPratica": null,
+    "ListaPrequisitos": []
+  },
+  {
+    "Id": 51277,
+    "Codigo": "3101.000.645-5",
+    "Tipo": "OPT",
+    "Descricao": "EDUCAÇÃO FÍSICA E COMUNIDADE 6 - DANÇAS",
+    "Semestre": 99,
+    "Apelido": "EDUCAÇÃO FÍSICA E COMUNIDADE 6 - DANÇAS",
+    "CargaHorariaTeorico": 34,
+    "CargaHorariaPratica": null,
+    "ListaPrequisitos": []
+  },
+  {
+    "Id": 51278,
+    "Codigo": "3101.000.646-4",
+    "Tipo": "OPT",
+    "Descricao": "EDUCAÇÃO FÍSICA E COMUNIDADE 7 - ATIVIDADES ADAPTADAS E INCLUSIVAS",
+    "Semestre": 99,
+    "Apelido": "EDUCAÇÃO FÍSICA E COMUNIDADE 7 - ATIVIDADES ADAPTADAS E INCLUSIVAS",
+    "CargaHorariaTeorico": 34,
+    "CargaHorariaPratica": null,
+    "ListaPrequisitos": []
+  },
+  {
+    "Id": 51279,
+    "Codigo": "3101.000.647-3",
+    "Tipo": "OPT",
+    "Descricao": "EDUCAÇÃO FÍSICA E COMUNIDADE 8 - ORGANIZAÇÃO DE EVENTOS EM EDUCAÇÃO FÍSICA",
+    "Semestre": 99,
+    "Apelido": "EDUCAÇÃO FÍSICA E COMUNIDADE 8 - ORGANIZAÇÃO DE EVENTOS EM EDUCAÇÃO FÍSICA",
+    "CargaHorariaTeorico": 34,
+    "CargaHorariaPratica": null,
+    "ListaPrequisitos": []
+  },
+  {
+    "Id": 41981,
+    "Codigo": "3101.000.116-6",
+    "Tipo": "OPT",
+    "Descricao": "EDUCAÇÃO FÍSICA E PROGRAMAS SÓCIO-EDUCACIONAIS",
+    "Semestre": 99,
+    "Apelido": "EDUCAÇÃO FÍSICA E PROGRAMAS SÓCIO-EDUCACIONAIS",
+    "CargaHorariaTeorico": 34,
+    "CargaHorariaPratica": null,
+    "ListaPrequisitos": []
+  },
+  {
+    "Id": 42018,
+    "Codigo": "3101.000.153-0",
+    "Tipo": "OPT",
+    "Descricao": "EDUCAÇÃO FÍSICA ESCOLAR E PROMOÇÃO DA SAÚDE",
+    "Semestre": 99,
+    "Apelido": "EDUCAÇÃO FÍSICA ESCOLAR E PROMOÇÃO DA SAÚDE",
+    "CargaHorariaTeorico": 68,
+    "CargaHorariaPratica": null,
+    "ListaPrequisitos": []
+  },
+  {
+    "Id": 43147,
+    "Codigo": "3101.000.301-4",
+    "Tipo": "OPT",
+    "Descricao": "EDUCAÇÃO FÍSICA INCLUSIVA",
+    "Semestre": 99,
+    "Apelido": "EDUCAÇÃO FÍSICA INCLUSIVA",
+    "CargaHorariaTeorico": 68,
+    "CargaHorariaPratica": null,
+    "ListaPrequisitos": [
+      {
+        "Id": 41755,
+        "Codigo": "3101.000.094-1",
+        "Descricao": "EDUCAÇÃO ESPECIAL",
+        "Semestre": "0",
+        "Apelido": "EDUCAÇÃO ESPECIAL",
+        "CargaHorariaTeorico": 0,
+        "CargaHorariaPratica": 0,
+        "ListaPrequisitos": []
+      }
+    ]
+  },
+  {
+    "Id": 41984,
+    "Codigo": "3101.000.119-0",
+    "Tipo": "OPT",
+    "Descricao": "ESPORTE COM RAQUETES",
+    "Semestre": 99,
+    "Apelido": "ESPORTE COM RAQUETES",
+    "CargaHorariaTeorico": 34,
+    "CargaHorariaPratica": null,
+    "ListaPrequisitos": []
+  },
+  {
+    "Id": 43148,
+    "Codigo": "3101.000.302-3",
+    "Tipo": "OPT",
+    "Descricao": "ESPORTES ADAPTADOS",
+    "Semestre": 99,
+    "Apelido": "ESPORTES ADAPTADOS",
+    "CargaHorariaTeorico": 34,
+    "CargaHorariaPratica": null,
+    "ListaPrequisitos": []
+  },
+  {
+    "Id": 51272,
+    "Codigo": "3101.000.640-0",
+    "Tipo": "OPT",
+    "Descricao": "ESTÁGIO EM EDUCAÇÃO FÍSICA",
+    "Semestre": 99,
+    "Apelido": "ESTÁGIO EM EDUCAÇÃO FÍSICA",
+    "CargaHorariaTeorico": 102,
+    "CargaHorariaPratica": null,
+    "ListaPrequisitos": []
+  },
+  {
+    "Id": 41756,
+    "Codigo": "3101.000.095-0",
+    "Tipo": "OPT",
+    "Descricao": "ESTUDO DE LIBRAS",
+    "Semestre": 99,
+    "Apelido": "ESTUDO DE LIBRAS",
+    "CargaHorariaTeorico": 51,
+    "CargaHorariaPratica": null,
+    "ListaPrequisitos": []
+  },
+  {
+    "Id": 43145,
+    "Codigo": "3101.000.299-3",
+    "Tipo": "OPT",
+    "Descricao": "IMAGEM CORPORAL",
+    "Semestre": 99,
+    "Apelido": "IMAGEM CORPORAL",
+    "CargaHorariaTeorico": 34,
+    "CargaHorariaPratica": null,
+    "ListaPrequisitos": []
+  },
+  {
+    "Id": 43167,
+    "Codigo": "3101.000.321-0",
+    "Tipo": "OPT",
+    "Descricao": "METODOLOGIA E TEORIA DO JOGO",
+    "Semestre": 99,
+    "Apelido": "METODOLOGIA E TEORIA DO JOGO",
+    "CargaHorariaTeorico": 51,
+    "CargaHorariaPratica": null,
+    "ListaPrequisitos": []
+  },
+  {
+    "Id": 41988,
+    "Codigo": "3101.000.123-9",
+    "Tipo": "OPT",
+    "Descricao": "PSICOLOGIA DO ESPORTE",
+    "Semestre": 99,
+    "Apelido": "PSICOLOGIA DO ESPORTE",
+    "CargaHorariaTeorico": 34,
+    "CargaHorariaPratica": null,
+    "ListaPrequisitos": []
+  }
+]

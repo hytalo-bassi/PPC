@@ -1,0 +1,1739 @@
+[
+  {
+    "Id": 51969,
+    "Codigo": "2701.000.440-7",
+    "Tipo": "OBR",
+    "Descricao": "ANATOMIA DOS ANIMAIS DOMÉSTICOS",
+    "Semestre": 1,
+    "Apelido": "ANATOMIA DOS ANIMAIS DOMÉSTICOS",
+    "CargaHorariaTeorico": 68,
+    "CargaHorariaPratica": null,
+    "ListaPrequisitos": []
+  },
+  {
+    "Id": 51970,
+    "Codigo": "2701.000.441-6",
+    "Tipo": "OBR",
+    "Descricao": "BIOLOGIA CELULAR",
+    "Semestre": 1,
+    "Apelido": "BIOLOGIA CELULAR",
+    "CargaHorariaTeorico": 51,
+    "CargaHorariaPratica": null,
+    "ListaPrequisitos": []
+  },
+  {
+    "Id": 51968,
+    "Codigo": "2701.000.439-0",
+    "Tipo": "OBR",
+    "Descricao": "BOTÂNICA",
+    "Semestre": 1,
+    "Apelido": "BOTÂNICA",
+    "CargaHorariaTeorico": 51,
+    "CargaHorariaPratica": null,
+    "ListaPrequisitos": []
+  },
+  {
+    "Id": 36389,
+    "Codigo": "2201.000.097-7",
+    "Tipo": "OBR",
+    "Descricao": "MATEMÁTICA",
+    "Semestre": 1,
+    "Apelido": "MATEMÁTICA",
+    "CargaHorariaTeorico": 68,
+    "CargaHorariaPratica": null,
+    "ListaPrequisitos": []
+  },
+  {
+    "Id": 51999,
+    "Codigo": "1203.000.257-3",
+    "Tipo": "OBR",
+    "Descricao": "PROFISSÃO ZOOTECNISTA",
+    "Semestre": 1,
+    "Apelido": "PROFISSÃO ZOOTECNISTA",
+    "CargaHorariaTeorico": 34,
+    "CargaHorariaPratica": null,
+    "ListaPrequisitos": []
+  },
+  {
+    "Id": 50156,
+    "Codigo": "2301.000.406-1",
+    "Tipo": "OBR",
+    "Descricao": "QUÍMICA GERAL",
+    "Semestre": 1,
+    "Apelido": "QUÍMICA GERAL",
+    "CargaHorariaTeorico": 34,
+    "CargaHorariaPratica": null,
+    "ListaPrequisitos": []
+  },
+  {
+    "Id": 50837,
+    "Codigo": "2301.000.409-9",
+    "Tipo": "OBR",
+    "Descricao": "QUÍMICA GERAL E ORGÂNICA EXPERIMENTAL",
+    "Semestre": 1,
+    "Apelido": "QUÍMICA GERAL E ORGÂNICA EXPERIMENTAL",
+    "CargaHorariaTeorico": 34,
+    "CargaHorariaPratica": null,
+    "ListaPrequisitos": []
+  },
+  {
+    "Id": 50829,
+    "Codigo": "2301.000.408-0",
+    "Tipo": "OBR",
+    "Descricao": "QUÍMICA ORGÂNICA",
+    "Semestre": 1,
+    "Apelido": "QUÍMICA ORGÂNICA",
+    "CargaHorariaTeorico": 34,
+    "CargaHorariaPratica": null,
+    "ListaPrequisitos": []
+  },
+  {
+    "Id": 51972,
+    "Codigo": "2701.000.443-4",
+    "Tipo": "OBR",
+    "Descricao": "ZOOLOGIA DOS VERTEBRADOS",
+    "Semestre": 1,
+    "Apelido": "ZOOLOGIA DOS VERTEBRADOS",
+    "CargaHorariaTeorico": 34,
+    "CargaHorariaPratica": null,
+    "ListaPrequisitos": []
+  },
+  {
+    "Id": 36394,
+    "Codigo": "1203.000.050-9",
+    "Tipo": "OBR",
+    "Descricao": "BIOESTATÍSTICA I",
+    "Semestre": 2,
+    "Apelido": "BIOESTATÍSTICA I",
+    "CargaHorariaTeorico": 34,
+    "CargaHorariaPratica": null,
+    "ListaPrequisitos": []
+  },
+  {
+    "Id": 41445,
+    "Codigo": "2701.000.096-0",
+    "Tipo": "OBR",
+    "Descricao": "BIOQUÍMICA I",
+    "Semestre": 2,
+    "Apelido": "BIOQUÍMICA I",
+    "CargaHorariaTeorico": 51,
+    "CargaHorariaPratica": null,
+    "ListaPrequisitos": []
+  },
+  {
+    "Id": 41654,
+    "Codigo": "2701.000.251-2",
+    "Tipo": "OBR",
+    "Descricao": "ECOLOGIA E FAUNA SILVESTRE",
+    "Semestre": 2,
+    "Apelido": "ECOLOGIA E FAUNA SILVESTRE",
+    "CargaHorariaTeorico": 51,
+    "CargaHorariaPratica": null,
+    "ListaPrequisitos": []
+  },
+  {
+    "Id": 51973,
+    "Codigo": "2701.000.444-3",
+    "Tipo": "OBR",
+    "Descricao": "EMBRIOLOGIA",
+    "Semestre": 2,
+    "Apelido": "EMBRIOLOGIA",
+    "CargaHorariaTeorico": 51,
+    "CargaHorariaPratica": null,
+    "ListaPrequisitos": [
+      {
+        "Id": 51970,
+        "Codigo": "2701.000.441-6",
+        "Descricao": "BIOLOGIA CELULAR",
+        "Semestre": "0",
+        "Apelido": "BIOLOGIA CELULAR",
+        "CargaHorariaTeorico": 0,
+        "CargaHorariaPratica": 0,
+        "ListaPrequisitos": []
+      }
+    ]
+  },
+  {
+    "Id": 36399,
+    "Codigo": "2401.000.123-6",
+    "Tipo": "OBR",
+    "Descricao": "FÍSICA",
+    "Semestre": 2,
+    "Apelido": "FÍSICA",
+    "CargaHorariaTeorico": 51,
+    "CargaHorariaPratica": null,
+    "ListaPrequisitos": []
+  },
+  {
+    "Id": 41656,
+    "Codigo": "2701.000.253-9",
+    "Tipo": "OBR",
+    "Descricao": "FISIOLOGIA VEGETAL",
+    "Semestre": 2,
+    "Apelido": "FISIOLOGIA VEGETAL",
+    "CargaHorariaTeorico": 51,
+    "CargaHorariaPratica": null,
+    "ListaPrequisitos": [
+      {
+        "Id": 51968,
+        "Codigo": "2701.000.439-0",
+        "Descricao": "BOTÂNICA",
+        "Semestre": "0",
+        "Apelido": "BOTÂNICA",
+        "CargaHorariaTeorico": 0,
+        "CargaHorariaPratica": 0,
+        "ListaPrequisitos": []
+      }
+    ]
+  },
+  {
+    "Id": 51772,
+    "Codigo": "2701.000.438-1",
+    "Tipo": "OBR",
+    "Descricao": "HISTOLOGIA",
+    "Semestre": 2,
+    "Apelido": "HISTOLOGIA",
+    "CargaHorariaTeorico": 51,
+    "CargaHorariaPratica": null,
+    "ListaPrequisitos": [
+      {
+        "Id": 51970,
+        "Codigo": "2701.000.441-6",
+        "Descricao": "BIOLOGIA CELULAR",
+        "Semestre": "0",
+        "Apelido": "BIOLOGIA CELULAR",
+        "CargaHorariaTeorico": 0,
+        "CargaHorariaPratica": 0,
+        "ListaPrequisitos": []
+      }
+    ]
+  },
+  {
+    "Id": 36407,
+    "Codigo": "1203.000.055-0",
+    "Tipo": "OBR",
+    "Descricao": "MICROBIOLOGIA",
+    "Semestre": 2,
+    "Apelido": "MICROBIOLOGIA",
+    "CargaHorariaTeorico": 51,
+    "CargaHorariaPratica": null,
+    "ListaPrequisitos": []
+  },
+  {
+    "Id": 36402,
+    "Codigo": "1203.000.052-5",
+    "Tipo": "OBR",
+    "Descricao": "BIOESTATÍSTICA II",
+    "Semestre": 3,
+    "Apelido": "BIOESTATÍSTICA II",
+    "CargaHorariaTeorico": 34,
+    "CargaHorariaPratica": null,
+    "ListaPrequisitos": [
+      {
+        "Id": 36394,
+        "Codigo": "1203.000.050-9",
+        "Descricao": "BIOESTATÍSTICA I",
+        "Semestre": "0",
+        "Apelido": "BIOESTATÍSTICA I",
+        "CargaHorariaTeorico": 0,
+        "CargaHorariaPratica": 0,
+        "ListaPrequisitos": []
+      }
+    ]
+  },
+  {
+    "Id": 41658,
+    "Codigo": "2701.000.255-5",
+    "Tipo": "OBR",
+    "Descricao": "BIOQUÍMICA II",
+    "Semestre": 3,
+    "Apelido": "BIOQUÍMICA II",
+    "CargaHorariaTeorico": 68,
+    "CargaHorariaPratica": null,
+    "ListaPrequisitos": [
+      {
+        "Id": 41445,
+        "Codigo": "2701.000.096-0",
+        "Descricao": "BIOQUÍMICA I",
+        "Semestre": "0",
+        "Apelido": "BIOQUÍMICA I",
+        "CargaHorariaTeorico": 0,
+        "CargaHorariaPratica": 0,
+        "ListaPrequisitos": []
+      }
+    ]
+  },
+  {
+    "Id": 51971,
+    "Codigo": "2701.000.442-5",
+    "Tipo": "OBR",
+    "Descricao": "FISIOLOGIA ANIMAL",
+    "Semestre": 3,
+    "Apelido": "FISIOLOGIA ANIMAL",
+    "CargaHorariaTeorico": 68,
+    "CargaHorariaPratica": null,
+    "ListaPrequisitos": [
+      {
+        "Id": 51969,
+        "Codigo": "2701.000.440-7",
+        "Descricao": "ANATOMIA DOS ANIMAIS DOMÉSTICOS",
+        "Semestre": "0",
+        "Apelido": "ANATOMIA DOS ANIMAIS DOMÉSTICOS",
+        "CargaHorariaTeorico": 0,
+        "CargaHorariaPratica": 0,
+        "ListaPrequisitos": []
+      }
+    ]
+  },
+  {
+    "Id": 51977,
+    "Codigo": "1203.000.235-9",
+    "Tipo": "OBR",
+    "Descricao": "GENÉTICA ANIMAL",
+    "Semestre": 3,
+    "Apelido": "GENÉTICA ANIMAL",
+    "CargaHorariaTeorico": 51,
+    "CargaHorariaPratica": null,
+    "ListaPrequisitos": []
+  },
+  {
+    "Id": 36398,
+    "Codigo": "1203.000.051-7",
+    "Tipo": "OBR",
+    "Descricao": "IMUNOLOGIA",
+    "Semestre": 3,
+    "Apelido": "IMUNOLOGIA",
+    "CargaHorariaTeorico": 34,
+    "CargaHorariaPratica": null,
+    "ListaPrequisitos": []
+  },
+  {
+    "Id": 52006,
+    "Codigo": "1203.000.264-4",
+    "Tipo": "OBR",
+    "Descricao": "MÁQUINAS E IMPLEMENTOS AGRÍCOLAS",
+    "Semestre": 3,
+    "Apelido": "MÁQUINAS E IMPLEMENTOS AGRÍCOLAS",
+    "CargaHorariaTeorico": 34,
+    "CargaHorariaPratica": null,
+    "ListaPrequisitos": []
+  },
+  {
+    "Id": 36406,
+    "Codigo": "1203.000.054-1",
+    "Tipo": "OBR",
+    "Descricao": "METODOLOGIA CIENTÍFICA",
+    "Semestre": 3,
+    "Apelido": "METODOLOGIA CIENTÍFICA",
+    "CargaHorariaTeorico": 34,
+    "CargaHorariaPratica": null,
+    "ListaPrequisitos": []
+  },
+  {
+    "Id": 51997,
+    "Codigo": "1203.000.255-5",
+    "Tipo": "OBR",
+    "Descricao": "PARASITOLOGIA ANIMAL",
+    "Semestre": 3,
+    "Apelido": "PARASITOLOGIA ANIMAL",
+    "CargaHorariaTeorico": 51,
+    "CargaHorariaPratica": null,
+    "ListaPrequisitos": []
+  },
+  {
+    "Id": 51989,
+    "Codigo": "1203.000.247-5",
+    "Tipo": "OBR",
+    "Descricao": "SOLOS",
+    "Semestre": 3,
+    "Apelido": "SOLOS",
+    "CargaHorariaTeorico": 34,
+    "CargaHorariaPratica": null,
+    "ListaPrequisitos": []
+  },
+  {
+    "Id": 51975,
+    "Codigo": "1203.000.233-0",
+    "Tipo": "OBR",
+    "Descricao": "ADUBAÇÃO E NUTRIÇÃO DE PLANTAS",
+    "Semestre": 4,
+    "Apelido": "ADUBAÇÃO E NUTRIÇÃO DE PLANTAS",
+    "CargaHorariaTeorico": 51,
+    "CargaHorariaPratica": null,
+    "ListaPrequisitos": [
+      {
+        "Id": 51989,
+        "Codigo": "1203.000.247-5",
+        "Descricao": "SOLOS",
+        "Semestre": "0",
+        "Apelido": "SOLOS",
+        "CargaHorariaTeorico": 0,
+        "CargaHorariaPratica": 0,
+        "ListaPrequisitos": []
+      }
+    ]
+  },
+  {
+    "Id": 52005,
+    "Codigo": "1203.000.263-5",
+    "Tipo": "OBR",
+    "Descricao": "AGROMETEOROLOGIA",
+    "Semestre": 4,
+    "Apelido": "AGROMETEOROLOGIA",
+    "CargaHorariaTeorico": 34,
+    "CargaHorariaPratica": null,
+    "ListaPrequisitos": []
+  },
+  {
+    "Id": 36411,
+    "Codigo": "1203.000.059-2",
+    "Tipo": "OBR",
+    "Descricao": "ANÁLISE DE ALIMENTOS",
+    "Semestre": 4,
+    "Apelido": "ANÁLISE DE ALIMENTOS",
+    "CargaHorariaTeorico": 51,
+    "CargaHorariaPratica": null,
+    "ListaPrequisitos": [
+      {
+        "Id": 50156,
+        "Codigo": "2301.000.406-1",
+        "Descricao": "QUÍMICA GERAL",
+        "Semestre": "0",
+        "Apelido": "QUÍMICA GERAL",
+        "CargaHorariaTeorico": 0,
+        "CargaHorariaPratica": 0,
+        "ListaPrequisitos": []
+      },
+      {
+        "Id": 50837,
+        "Codigo": "2301.000.409-9",
+        "Descricao": "QUÍMICA GERAL E ORGÂNICA EXPERIMENTAL",
+        "Semestre": "0",
+        "Apelido": "QUÍMICA GERAL E ORGÂNICA EXPERIMENTAL",
+        "CargaHorariaTeorico": 0,
+        "CargaHorariaPratica": 0,
+        "ListaPrequisitos": []
+      }
+    ]
+  },
+  {
+    "Id": 36414,
+    "Codigo": "2101.000.954-2",
+    "Tipo": "OBR",
+    "Descricao": "CONSTRUÇÕES RURAIS",
+    "Semestre": 4,
+    "Apelido": "CONSTRUÇÕES RURAIS",
+    "CargaHorariaTeorico": 68,
+    "CargaHorariaPratica": null,
+    "ListaPrequisitos": []
+  },
+  {
+    "Id": 36412,
+    "Codigo": "1203.000.060-6",
+    "Tipo": "OBR",
+    "Descricao": "EXPERIMENTAÇÃO ZOOTÉCNICA",
+    "Semestre": 4,
+    "Apelido": "EXPERIMENTAÇÃO ZOOTÉCNICA",
+    "CargaHorariaTeorico": 51,
+    "CargaHorariaPratica": null,
+    "ListaPrequisitos": [
+      {
+        "Id": 36402,
+        "Codigo": "1203.000.052-5",
+        "Descricao": "BIOESTATÍSTICA II",
+        "Semestre": "0",
+        "Apelido": "BIOESTATÍSTICA II",
+        "CargaHorariaTeorico": 0,
+        "CargaHorariaPratica": 0,
+        "ListaPrequisitos": []
+      }
+    ]
+  },
+  {
+    "Id": 36413,
+    "Codigo": "1203.000.061-4",
+    "Tipo": "OBR",
+    "Descricao": "FISIOLOGIA DA DIGESTÃO",
+    "Semestre": 4,
+    "Apelido": "FISIOLOGIA DA DIGESTÃO",
+    "CargaHorariaTeorico": 51,
+    "CargaHorariaPratica": null,
+    "ListaPrequisitos": [
+      {
+        "Id": 41658,
+        "Codigo": "2701.000.255-5",
+        "Descricao": "BIOQUÍMICA II",
+        "Semestre": "0",
+        "Apelido": "BIOQUÍMICA II",
+        "CargaHorariaTeorico": 0,
+        "CargaHorariaPratica": 0,
+        "ListaPrequisitos": []
+      }
+    ]
+  },
+  {
+    "Id": 36415,
+    "Codigo": "1203.000.062-2",
+    "Tipo": "OBR",
+    "Descricao": "MELHORAMENTO GENÉTICO ANIMAL I",
+    "Semestre": 4,
+    "Apelido": "MELHORAMENTO GENÉTICO ANIMAL I",
+    "CargaHorariaTeorico": 68,
+    "CargaHorariaPratica": null,
+    "ListaPrequisitos": [
+      {
+        "Id": 51977,
+        "Codigo": "1203.000.235-9",
+        "Descricao": "GENÉTICA ANIMAL",
+        "Semestre": "0",
+        "Apelido": "GENÉTICA ANIMAL",
+        "CargaHorariaTeorico": 0,
+        "CargaHorariaPratica": 0,
+        "ListaPrequisitos": []
+      }
+    ]
+  },
+  {
+    "Id": 51982,
+    "Codigo": "1203.000.240-1",
+    "Tipo": "OBR",
+    "Descricao": "COMPORTAMENTO E BEM-ESTAR ANIMAL",
+    "Semestre": 5,
+    "Apelido": "COMPORTAMENTO E BEM-ESTAR ANIMAL",
+    "CargaHorariaTeorico": 51,
+    "CargaHorariaPratica": null,
+    "ListaPrequisitos": []
+  },
+  {
+    "Id": 36418,
+    "Codigo": "1203.000.065-7",
+    "Tipo": "OBR",
+    "Descricao": "FISIOLOGIA E MANEJO DA REPRODUÇÃO ANIMAL",
+    "Semestre": 5,
+    "Apelido": "FISIOLOGIA E MANEJO DA REPRODUÇÃO ANIMAL",
+    "CargaHorariaTeorico": 68,
+    "CargaHorariaPratica": null,
+    "ListaPrequisitos": [
+      {
+        "Id": 51971,
+        "Codigo": "2701.000.442-5",
+        "Descricao": "FISIOLOGIA ANIMAL",
+        "Semestre": "0",
+        "Apelido": "FISIOLOGIA ANIMAL",
+        "CargaHorariaTeorico": 0,
+        "CargaHorariaPratica": 0,
+        "ListaPrequisitos": []
+      }
+    ]
+  },
+  {
+    "Id": 36419,
+    "Codigo": "1203.000.066-5",
+    "Tipo": "OBR",
+    "Descricao": "FORRAGICULTURA I",
+    "Semestre": 5,
+    "Apelido": "FORRAGICULTURA I",
+    "CargaHorariaTeorico": 68,
+    "CargaHorariaPratica": null,
+    "ListaPrequisitos": [
+      {
+        "Id": 41656,
+        "Codigo": "2701.000.253-9",
+        "Descricao": "FISIOLOGIA VEGETAL",
+        "Semestre": "0",
+        "Apelido": "FISIOLOGIA VEGETAL",
+        "CargaHorariaTeorico": 0,
+        "CargaHorariaPratica": 0,
+        "ListaPrequisitos": []
+      }
+    ]
+  },
+  {
+    "Id": 36420,
+    "Codigo": "1203.000.067-3",
+    "Tipo": "OBR",
+    "Descricao": "MELHORAMENTO GENÉTICO ANIMAL II",
+    "Semestre": 5,
+    "Apelido": "MELHORAMENTO GENÉTICO ANIMAL II",
+    "CargaHorariaTeorico": 68,
+    "CargaHorariaPratica": null,
+    "ListaPrequisitos": [
+      {
+        "Id": 51977,
+        "Codigo": "1203.000.235-9",
+        "Descricao": "GENÉTICA ANIMAL",
+        "Semestre": "0",
+        "Apelido": "GENÉTICA ANIMAL",
+        "CargaHorariaTeorico": 0,
+        "CargaHorariaPratica": 0,
+        "ListaPrequisitos": []
+      }
+    ]
+  },
+  {
+    "Id": 36421,
+    "Codigo": "1203.000.068-1",
+    "Tipo": "OBR",
+    "Descricao": "NUTRIÇÃO ANIMAL",
+    "Semestre": 5,
+    "Apelido": "NUTRIÇÃO ANIMAL",
+    "CargaHorariaTeorico": 68,
+    "CargaHorariaPratica": null,
+    "ListaPrequisitos": [
+      {
+        "Id": 36411,
+        "Codigo": "1203.000.059-2",
+        "Descricao": "ANÁLISE DE ALIMENTOS",
+        "Semestre": "0",
+        "Apelido": "ANÁLISE DE ALIMENTOS",
+        "CargaHorariaTeorico": 0,
+        "CargaHorariaPratica": 0,
+        "ListaPrequisitos": []
+      }
+    ]
+  },
+  {
+    "Id": 36422,
+    "Codigo": "1203.000.069-0",
+    "Tipo": "OBR",
+    "Descricao": "PRINCÍPIOS DE ADMINISTRAÇÃO",
+    "Semestre": 5,
+    "Apelido": "PRINCÍPIOS DE ADMINISTRAÇÃO",
+    "CargaHorariaTeorico": 51,
+    "CargaHorariaPratica": null,
+    "ListaPrequisitos": []
+  },
+  {
+    "Id": 36423,
+    "Codigo": "1203.000.070-3",
+    "Tipo": "OBR",
+    "Descricao": "PRINCÍPIOS DE ECONOMIA",
+    "Semestre": 5,
+    "Apelido": "PRINCÍPIOS DE ECONOMIA",
+    "CargaHorariaTeorico": 51,
+    "CargaHorariaPratica": null,
+    "ListaPrequisitos": []
+  },
+  {
+    "Id": 36424,
+    "Codigo": "1203.000.071-1",
+    "Tipo": "OBR",
+    "Descricao": "BIOCLIMATOLOGIA ZOOTÉCNICA",
+    "Semestre": 6,
+    "Apelido": "BIOCLIMATOLOGIA ZOOTÉCNICA",
+    "CargaHorariaTeorico": 51,
+    "CargaHorariaPratica": null,
+    "ListaPrequisitos": [
+      {
+        "Id": 51971,
+        "Codigo": "2701.000.442-5",
+        "Descricao": "FISIOLOGIA ANIMAL",
+        "Semestre": "0",
+        "Apelido": "FISIOLOGIA ANIMAL",
+        "CargaHorariaTeorico": 0,
+        "CargaHorariaPratica": 0,
+        "ListaPrequisitos": []
+      }
+    ]
+  },
+  {
+    "Id": 36425,
+    "Codigo": "1203.000.072-0",
+    "Tipo": "OBR",
+    "Descricao": "FORRAGICULTURA II",
+    "Semestre": 6,
+    "Apelido": "FORRAGICULTURA II",
+    "CargaHorariaTeorico": 68,
+    "CargaHorariaPratica": null,
+    "ListaPrequisitos": [
+      {
+        "Id": 51975,
+        "Codigo": "1203.000.233-0",
+        "Descricao": "ADUBAÇÃO E NUTRIÇÃO DE PLANTAS",
+        "Semestre": "0",
+        "Apelido": "ADUBAÇÃO E NUTRIÇÃO DE PLANTAS",
+        "CargaHorariaTeorico": 0,
+        "CargaHorariaPratica": 0,
+        "ListaPrequisitos": []
+      }
+    ]
+  },
+  {
+    "Id": 36426,
+    "Codigo": "1203.000.073-8",
+    "Tipo": "OBR",
+    "Descricao": "NUTRIÇÃO E ALIMENTAÇÃO DE NÃO RUMINANTES",
+    "Semestre": 6,
+    "Apelido": "NUTRIÇÃO E ALIMENTAÇÃO DE NÃO RUMINANTES",
+    "CargaHorariaTeorico": 68,
+    "CargaHorariaPratica": null,
+    "ListaPrequisitos": [
+      {
+        "Id": 36421,
+        "Codigo": "1203.000.068-1",
+        "Descricao": "NUTRIÇÃO ANIMAL",
+        "Semestre": "0",
+        "Apelido": "NUTRIÇÃO ANIMAL",
+        "CargaHorariaTeorico": 0,
+        "CargaHorariaPratica": 0,
+        "ListaPrequisitos": []
+      }
+    ]
+  },
+  {
+    "Id": 51979,
+    "Codigo": "1203.000.237-7",
+    "Tipo": "OBR",
+    "Descricao": "PISCICULTURA",
+    "Semestre": 6,
+    "Apelido": "PISCICULTURA",
+    "CargaHorariaTeorico": 51,
+    "CargaHorariaPratica": null,
+    "ListaPrequisitos": []
+  },
+  {
+    "Id": 36428,
+    "Codigo": "1203.000.075-4",
+    "Tipo": "OBR",
+    "Descricao": "PROFILAXIA E HIGIENE ZOOTÉCNICA",
+    "Semestre": 6,
+    "Apelido": "PROFILAXIA E HIGIENE ZOOTÉCNICA",
+    "CargaHorariaTeorico": 51,
+    "CargaHorariaPratica": null,
+    "ListaPrequisitos": [
+      {
+        "Id": 36398,
+        "Codigo": "1203.000.051-7",
+        "Descricao": "IMUNOLOGIA",
+        "Semestre": "0",
+        "Apelido": "IMUNOLOGIA",
+        "CargaHorariaTeorico": 0,
+        "CargaHorariaPratica": 0,
+        "ListaPrequisitos": []
+      }
+    ]
+  },
+  {
+    "Id": 36429,
+    "Codigo": "1203.000.076-2",
+    "Tipo": "OBR",
+    "Descricao": "TECNOLOGIA INDUSTRIAL NA ALIMENTAÇÃO ANIMAL",
+    "Semestre": 6,
+    "Apelido": "TECNOLOGIA INDUSTRIAL NA ALIMENTAÇÃO ANIMAL",
+    "CargaHorariaTeorico": 51,
+    "CargaHorariaPratica": null,
+    "ListaPrequisitos": [
+      {
+        "Id": 36407,
+        "Codigo": "1203.000.055-0",
+        "Descricao": "MICROBIOLOGIA",
+        "Semestre": "0",
+        "Apelido": "MICROBIOLOGIA",
+        "CargaHorariaTeorico": 0,
+        "CargaHorariaPratica": 0,
+        "ListaPrequisitos": []
+      }
+    ]
+  },
+  {
+    "Id": 51978,
+    "Codigo": "1203.000.236-8",
+    "Tipo": "OBR",
+    "Descricao": "AVALIAÇÃO E TIPIFICAÇÃO DE CARCAÇAS",
+    "Semestre": 7,
+    "Apelido": "AVALIAÇÃO E TIPIFICAÇÃO DE CARCAÇAS",
+    "CargaHorariaTeorico": 51,
+    "CargaHorariaPratica": null,
+    "ListaPrequisitos": [
+      {
+        "Id": 51971,
+        "Codigo": "2701.000.442-5",
+        "Descricao": "FISIOLOGIA ANIMAL",
+        "Semestre": "0",
+        "Apelido": "FISIOLOGIA ANIMAL",
+        "CargaHorariaTeorico": 0,
+        "CargaHorariaPratica": 0,
+        "ListaPrequisitos": []
+      }
+    ]
+  },
+  {
+    "Id": 36431,
+    "Codigo": "1203.000.078-9",
+    "Tipo": "OBR",
+    "Descricao": "CULTURAS AGRÍCOLAS DE INTERESSE ZOOTÉCNICO",
+    "Semestre": 7,
+    "Apelido": "CULTURAS AGRÍCOLAS DE INTERESSE ZOOTÉCNICO",
+    "CargaHorariaTeorico": 51,
+    "CargaHorariaPratica": null,
+    "ListaPrequisitos": [
+      {
+        "Id": 51989,
+        "Codigo": "1203.000.247-5",
+        "Descricao": "SOLOS",
+        "Semestre": "0",
+        "Apelido": "SOLOS",
+        "CargaHorariaTeorico": 0,
+        "CargaHorariaPratica": 0,
+        "ListaPrequisitos": []
+      }
+    ]
+  },
+  {
+    "Id": 52000,
+    "Codigo": "1203.000.258-2",
+    "Tipo": "OBR",
+    "Descricao": "ÉTICA E LEGISLAÇÃO PROFISSIONAL",
+    "Semestre": 7,
+    "Apelido": "ÉTICA E LEGISLAÇÃO PROFISSIONAL",
+    "CargaHorariaTeorico": 34,
+    "CargaHorariaPratica": null,
+    "ListaPrequisitos": []
+  },
+  {
+    "Id": 51995,
+    "Codigo": "1203.000.253-7",
+    "Tipo": "OBR",
+    "Descricao": "GESTÃO AMBIENTAL NA AGROPECUÁRIA",
+    "Semestre": 7,
+    "Apelido": "GESTÃO AMBIENTAL NA AGROPECUÁRIA",
+    "CargaHorariaTeorico": 51,
+    "CargaHorariaPratica": null,
+    "ListaPrequisitos": [
+      {
+        "Id": 41654,
+        "Codigo": "2701.000.251-2",
+        "Descricao": "ECOLOGIA E FAUNA SILVESTRE",
+        "Semestre": "0",
+        "Apelido": "ECOLOGIA E FAUNA SILVESTRE",
+        "CargaHorariaTeorico": 0,
+        "CargaHorariaPratica": 0,
+        "ListaPrequisitos": []
+      }
+    ]
+  },
+  {
+    "Id": 36433,
+    "Codigo": "1203.000.080-0",
+    "Tipo": "OBR",
+    "Descricao": "NUTRIÇÃO E ALIMENTAÇÃO DE RUMINANTES",
+    "Semestre": 7,
+    "Apelido": "NUTRIÇÃO E ALIMENTAÇÃO DE RUMINANTES",
+    "CargaHorariaTeorico": 68,
+    "CargaHorariaPratica": null,
+    "ListaPrequisitos": [
+      {
+        "Id": 36421,
+        "Codigo": "1203.000.068-1",
+        "Descricao": "NUTRIÇÃO ANIMAL",
+        "Semestre": "0",
+        "Apelido": "NUTRIÇÃO ANIMAL",
+        "CargaHorariaTeorico": 0,
+        "CargaHorariaPratica": 0,
+        "ListaPrequisitos": []
+      }
+    ]
+  },
+  {
+    "Id": 52001,
+    "Codigo": "1203.000.259-1",
+    "Tipo": "OBR",
+    "Descricao": "SOCIOLOGIA, COMUNICAÇÃO E EXTENSÃO RURAL",
+    "Semestre": 7,
+    "Apelido": "SOCIOLOGIA, COMUNICAÇÃO E EXTENSÃO RURAL",
+    "CargaHorariaTeorico": 68,
+    "CargaHorariaPratica": null,
+    "ListaPrequisitos": []
+  },
+  {
+    "Id": 36430,
+    "Codigo": "1203.000.077-0",
+    "Tipo": "OBR",
+    "Descricao": "AVICULTURA",
+    "Semestre": 8,
+    "Apelido": "AVICULTURA",
+    "CargaHorariaTeorico": 51,
+    "CargaHorariaPratica": null,
+    "ListaPrequisitos": [
+      {
+        "Id": 36424,
+        "Codigo": "1203.000.071-1",
+        "Descricao": "BIOCLIMATOLOGIA ZOOTÉCNICA",
+        "Semestre": "0",
+        "Apelido": "BIOCLIMATOLOGIA ZOOTÉCNICA",
+        "CargaHorariaTeorico": 0,
+        "CargaHorariaPratica": 0,
+        "ListaPrequisitos": []
+      }
+    ]
+  },
+  {
+    "Id": 36437,
+    "Codigo": "1203.000.084-3",
+    "Tipo": "OBR",
+    "Descricao": "EQUIDEOCULTURA",
+    "Semestre": 8,
+    "Apelido": "EQUIDEOCULTURA",
+    "CargaHorariaTeorico": 51,
+    "CargaHorariaPratica": null,
+    "ListaPrequisitos": [
+      {
+        "Id": 36421,
+        "Codigo": "1203.000.068-1",
+        "Descricao": "NUTRIÇÃO ANIMAL",
+        "Semestre": "0",
+        "Apelido": "NUTRIÇÃO ANIMAL",
+        "CargaHorariaTeorico": 0,
+        "CargaHorariaPratica": 0,
+        "ListaPrequisitos": []
+      }
+    ]
+  },
+  {
+    "Id": 36439,
+    "Codigo": "1203.000.086-0",
+    "Tipo": "OBR",
+    "Descricao": "SUINOCULTURA",
+    "Semestre": 8,
+    "Apelido": "SUINOCULTURA",
+    "CargaHorariaTeorico": 51,
+    "CargaHorariaPratica": null,
+    "ListaPrequisitos": [
+      {
+        "Id": 36421,
+        "Codigo": "1203.000.068-1",
+        "Descricao": "NUTRIÇÃO ANIMAL",
+        "Semestre": "0",
+        "Apelido": "NUTRIÇÃO ANIMAL",
+        "CargaHorariaTeorico": 0,
+        "CargaHorariaPratica": 0,
+        "ListaPrequisitos": []
+      }
+    ]
+  },
+  {
+    "Id": 51980,
+    "Codigo": "1203.000.238-6",
+    "Tipo": "OBR",
+    "Descricao": "TECNOLOGIA DE PRODUTOS DE ORIGEM ANIMAL",
+    "Semestre": 8,
+    "Apelido": "TECNOLOGIA DE PRODUTOS DE ORIGEM ANIMAL",
+    "CargaHorariaTeorico": 68,
+    "CargaHorariaPratica": null,
+    "ListaPrequisitos": [
+      {
+        "Id": 36407,
+        "Codigo": "1203.000.055-0",
+        "Descricao": "MICROBIOLOGIA",
+        "Semestre": "0",
+        "Apelido": "MICROBIOLOGIA",
+        "CargaHorariaTeorico": 0,
+        "CargaHorariaPratica": 0,
+        "ListaPrequisitos": []
+      }
+    ]
+  },
+  {
+    "Id": 51996,
+    "Codigo": "1203.000.254-6",
+    "Tipo": "OBR",
+    "Descricao": "ZOOTECNIA DE PRECISÃO",
+    "Semestre": 8,
+    "Apelido": "ZOOTECNIA DE PRECISÃO",
+    "CargaHorariaTeorico": 51,
+    "CargaHorariaPratica": null,
+    "ListaPrequisitos": []
+  },
+  {
+    "Id": 52002,
+    "Codigo": "1203.000.260-8",
+    "Tipo": "OBR",
+    "Descricao": "BOVINOCULTURA DE CORTE",
+    "Semestre": 9,
+    "Apelido": "BOVINOCULTURA DE CORTE",
+    "CargaHorariaTeorico": 68,
+    "CargaHorariaPratica": null,
+    "ListaPrequisitos": [
+      {
+        "Id": 36421,
+        "Codigo": "1203.000.068-1",
+        "Descricao": "NUTRIÇÃO ANIMAL",
+        "Semestre": "0",
+        "Apelido": "NUTRIÇÃO ANIMAL",
+        "CargaHorariaTeorico": 0,
+        "CargaHorariaPratica": 0,
+        "ListaPrequisitos": []
+      }
+    ]
+  },
+  {
+    "Id": 52003,
+    "Codigo": "1203.000.261-7",
+    "Tipo": "OBR",
+    "Descricao": "BOVINOCULTURA DE LEITE",
+    "Semestre": 9,
+    "Apelido": "BOVINOCULTURA DE LEITE",
+    "CargaHorariaTeorico": 68,
+    "CargaHorariaPratica": null,
+    "ListaPrequisitos": [
+      {
+        "Id": 36421,
+        "Codigo": "1203.000.068-1",
+        "Descricao": "NUTRIÇÃO ANIMAL",
+        "Semestre": "0",
+        "Apelido": "NUTRIÇÃO ANIMAL",
+        "CargaHorariaTeorico": 0,
+        "CargaHorariaPratica": 0,
+        "ListaPrequisitos": []
+      }
+    ]
+  },
+  {
+    "Id": 36443,
+    "Codigo": "1203.000.090-8",
+    "Tipo": "OBR",
+    "Descricao": "EMPREENDEDORISMO E PROJETOS EMPRESARIAIS",
+    "Semestre": 9,
+    "Apelido": "EMPREENDEDORISMO E PROJETOS EMPRESARIAIS",
+    "CargaHorariaTeorico": 68,
+    "CargaHorariaPratica": null,
+    "ListaPrequisitos": [
+      {
+        "Id": 36423,
+        "Codigo": "1203.000.070-3",
+        "Descricao": "PRINCÍPIOS DE ECONOMIA",
+        "Semestre": "0",
+        "Apelido": "PRINCÍPIOS DE ECONOMIA",
+        "CargaHorariaTeorico": 0,
+        "CargaHorariaPratica": 0,
+        "ListaPrequisitos": []
+      }
+    ]
+  },
+  {
+    "Id": 51998,
+    "Codigo": "1203.000.256-4",
+    "Tipo": "OPT",
+    "Descricao": "ALIMENTAÇÃO E FORMULAÇÃO DE DIETAS PARA BOVINOS LEITEIROS",
+    "Semestre": 99,
+    "Apelido": "ALIMENTAÇÃO E FORMULAÇÃO DE DIETAS PARA BOVINOS LEITEIROS",
+    "CargaHorariaTeorico": 51,
+    "CargaHorariaPratica": null,
+    "ListaPrequisitos": []
+  },
+  {
+    "Id": 36337,
+    "Codigo": "1203.000.003-7",
+    "Tipo": "OPT",
+    "Descricao": "APICULTURA",
+    "Semestre": 99,
+    "Apelido": "APICULTURA",
+    "CargaHorariaTeorico": 51,
+    "CargaHorariaPratica": null,
+    "ListaPrequisitos": []
+  },
+  {
+    "Id": 36338,
+    "Codigo": "1203.000.004-5",
+    "Tipo": "OPT",
+    "Descricao": "APROVEITAMENTO DE RESÍDUOS E DEJETOS DA AGROPECUÁRIA",
+    "Semestre": 99,
+    "Apelido": "APROVEITAMENTO DE RESÍDUOS E DEJETOS DA AGROPECUÁRIA",
+    "CargaHorariaTeorico": 51,
+    "CargaHorariaPratica": null,
+    "ListaPrequisitos": []
+  },
+  {
+    "Id": 36339,
+    "Codigo": "1203.000.005-3",
+    "Tipo": "OPT",
+    "Descricao": "AQUICULTURA",
+    "Semestre": 99,
+    "Apelido": "AQUICULTURA",
+    "CargaHorariaTeorico": 51,
+    "CargaHorariaPratica": null,
+    "ListaPrequisitos": []
+  },
+  {
+    "Id": 36340,
+    "Codigo": "1203.000.006-1",
+    "Tipo": "OPT",
+    "Descricao": "ASSOCIATIVISMO E COOPERATIVISMO AGRÍCOLA",
+    "Semestre": 99,
+    "Apelido": "ASSOCIATIVISMO E COOPERATIVISMO AGRÍCOLA",
+    "CargaHorariaTeorico": 51,
+    "CargaHorariaPratica": null,
+    "ListaPrequisitos": []
+  },
+  {
+    "Id": 36341,
+    "Codigo": "1203.000.007-0",
+    "Tipo": "OPT",
+    "Descricao": "BIOLOGIA MOLECULAR I",
+    "Semestre": 99,
+    "Apelido": "BIOLOGIA MOLECULAR I",
+    "CargaHorariaTeorico": 51,
+    "CargaHorariaPratica": null,
+    "ListaPrequisitos": []
+  },
+  {
+    "Id": 36342,
+    "Codigo": "1203.000.008-8",
+    "Tipo": "OPT",
+    "Descricao": "BIOLOGIA MOLECULAR II",
+    "Semestre": 99,
+    "Apelido": "BIOLOGIA MOLECULAR II",
+    "CargaHorariaTeorico": 51,
+    "CargaHorariaPratica": null,
+    "ListaPrequisitos": []
+  },
+  {
+    "Id": 36343,
+    "Codigo": "1203.000.009-6",
+    "Tipo": "OPT",
+    "Descricao": "BUBALINOCULTURA",
+    "Semestre": 99,
+    "Apelido": "BUBALINOCULTURA",
+    "CargaHorariaTeorico": 51,
+    "CargaHorariaPratica": null,
+    "ListaPrequisitos": []
+  },
+  {
+    "Id": 36344,
+    "Codigo": "1203.000.010-0",
+    "Tipo": "OPT",
+    "Descricao": "CAPRINOCULTURA",
+    "Semestre": 99,
+    "Apelido": "CAPRINOCULTURA",
+    "CargaHorariaTeorico": 51,
+    "CargaHorariaPratica": null,
+    "ListaPrequisitos": []
+  },
+  {
+    "Id": 36345,
+    "Codigo": "1203.000.011-8",
+    "Tipo": "OPT",
+    "Descricao": "CONSERVAÇÃO DO SOLO E ÁGUA",
+    "Semestre": 99,
+    "Apelido": "CONSERVAÇÃO DO SOLO E ÁGUA",
+    "CargaHorariaTeorico": 51,
+    "CargaHorariaPratica": null,
+    "ListaPrequisitos": []
+  },
+  {
+    "Id": 51988,
+    "Codigo": "1203.000.246-6",
+    "Tipo": "OPT",
+    "Descricao": "COTURNICULTURA",
+    "Semestre": 99,
+    "Apelido": "COTURNICULTURA",
+    "CargaHorariaTeorico": 51,
+    "CargaHorariaPratica": null,
+    "ListaPrequisitos": []
+  },
+  {
+    "Id": 36346,
+    "Codigo": "1203.000.012-6",
+    "Tipo": "OPT",
+    "Descricao": "CRIAÇÃO DE ANIMAIS SILVESTRES",
+    "Semestre": 99,
+    "Apelido": "CRIAÇÃO DE ANIMAIS SILVESTRES",
+    "CargaHorariaTeorico": 51,
+    "CargaHorariaPratica": null,
+    "ListaPrequisitos": []
+  },
+  {
+    "Id": 36347,
+    "Codigo": "1203.000.013-4",
+    "Tipo": "OPT",
+    "Descricao": "CRIAÇÕES NÃO TRADICIONAIS",
+    "Semestre": 99,
+    "Apelido": "CRIAÇÕES NÃO TRADICIONAIS",
+    "CargaHorariaTeorico": 51,
+    "CargaHorariaPratica": null,
+    "ListaPrequisitos": []
+  },
+  {
+    "Id": 36348,
+    "Codigo": "1203.000.014-2",
+    "Tipo": "OPT",
+    "Descricao": "CUNICULTURA",
+    "Semestre": 99,
+    "Apelido": "CUNICULTURA",
+    "CargaHorariaTeorico": 51,
+    "CargaHorariaPratica": null,
+    "ListaPrequisitos": []
+  },
+  {
+    "Id": 51994,
+    "Codigo": "1203.000.252-8",
+    "Tipo": "OPT",
+    "Descricao": "DESENVOLVIMENTO DE PROGRAMAS PARA FORMULAÇÃO DE RAÇÕES",
+    "Semestre": 99,
+    "Apelido": "DESENVOLVIMENTO DE PROGRAMAS PARA FORMULAÇÃO DE RAÇÕES",
+    "CargaHorariaTeorico": 51,
+    "CargaHorariaPratica": null,
+    "ListaPrequisitos": []
+  },
+  {
+    "Id": 36349,
+    "Codigo": "1203.000.015-0",
+    "Tipo": "OPT",
+    "Descricao": "DIREITO E LEGISLAÇÃO AMBIENTAL APLICÁVEIS À ZOOTECNIA",
+    "Semestre": 99,
+    "Apelido": "DIREITO E LEGISLAÇÃO AMBIENTAL APLICÁVEIS À ZOOTECNIA",
+    "CargaHorariaTeorico": 51,
+    "CargaHorariaPratica": null,
+    "ListaPrequisitos": []
+  },
+  {
+    "Id": 36810,
+    "Codigo": "1203.000.101-7",
+    "Tipo": "OPT",
+    "Descricao": "DOENÇAS CARENCIAIS E METABÓLICAS DE GRANDES ANIMAIS",
+    "Semestre": 99,
+    "Apelido": "DOENÇAS CARENCIAIS E METABÓLICAS DE GRANDES ANIMAIS",
+    "CargaHorariaTeorico": 51,
+    "CargaHorariaPratica": null,
+    "ListaPrequisitos": []
+  },
+  {
+    "Id": 51985,
+    "Codigo": "1203.000.243-9",
+    "Tipo": "OPT",
+    "Descricao": "DOENÇAS DE PLANTAS FORRAGEIRAS",
+    "Semestre": 99,
+    "Apelido": "DOENÇAS DE PLANTAS FORRAGEIRAS",
+    "CargaHorariaTeorico": 51,
+    "CargaHorariaPratica": null,
+    "ListaPrequisitos": []
+  },
+  {
+    "Id": 41760,
+    "Codigo": "3001.000.004-8",
+    "Tipo": "OPT",
+    "Descricao": "EDUCAÇÃO DAS RELAÇÕES ÉTNICO-RACIAIS",
+    "Semestre": 99,
+    "Apelido": "EDUCAÇÃO DAS RELAÇÕES ÉTNICO-RACIAIS",
+    "CargaHorariaTeorico": 34,
+    "CargaHorariaPratica": null,
+    "ListaPrequisitos": []
+  },
+  {
+    "Id": 51991,
+    "Codigo": "1203.000.249-3",
+    "Tipo": "OPT",
+    "Descricao": "ESTRATÉGIA EMPRESARIAL APLICADA À AGROPECUÁRIA",
+    "Semestre": 99,
+    "Apelido": "ESTRATÉGIA EMPRESARIAL APLICADA À AGROPECUÁRIA",
+    "CargaHorariaTeorico": 51,
+    "CargaHorariaPratica": null,
+    "ListaPrequisitos": []
+  },
+  {
+    "Id": 51990,
+    "Codigo": "1203.000.248-4",
+    "Tipo": "OPT",
+    "Descricao": "ESTRUTIOCULTURA",
+    "Semestre": 99,
+    "Apelido": "ESTRUTIOCULTURA",
+    "CargaHorariaTeorico": 51,
+    "CargaHorariaPratica": null,
+    "ListaPrequisitos": []
+  },
+  {
+    "Id": 51773,
+    "Codigo": "3101.000.660-6",
+    "Tipo": "OPT",
+    "Descricao": "ESTUDO DE LIBRAS",
+    "Semestre": 99,
+    "Apelido": "ESTUDO DE LIBRAS",
+    "CargaHorariaTeorico": 51,
+    "CargaHorariaPratica": null,
+    "ListaPrequisitos": []
+  },
+  {
+    "Id": 51992,
+    "Codigo": "1203.000.250-0",
+    "Tipo": "OPT",
+    "Descricao": "ESTUDOS DO AGRONEGÓCIO",
+    "Semestre": 99,
+    "Apelido": "ESTUDOS DO AGRONEGÓCIO",
+    "CargaHorariaTeorico": 51,
+    "CargaHorariaPratica": null,
+    "ListaPrequisitos": []
+  },
+  {
+    "Id": 36352,
+    "Codigo": "1203.000.018-5",
+    "Tipo": "OPT",
+    "Descricao": "EZOOGNÓSIA",
+    "Semestre": 99,
+    "Apelido": "EZOOGNÓSIA",
+    "CargaHorariaTeorico": 51,
+    "CargaHorariaPratica": null,
+    "ListaPrequisitos": []
+  },
+  {
+    "Id": 51993,
+    "Codigo": "1203.000.251-9",
+    "Tipo": "OPT",
+    "Descricao": "FERRAMENTAS COMPUTACIONAIS APLICADAS AO AGRONEGÓCIO",
+    "Semestre": 99,
+    "Apelido": "FERRAMENTAS COMPUTACIONAIS APLICADAS AO AGRONEGÓCIO",
+    "CargaHorariaTeorico": 51,
+    "CargaHorariaPratica": null,
+    "ListaPrequisitos": []
+  },
+  {
+    "Id": 51983,
+    "Codigo": "1203.000.241-0",
+    "Tipo": "OPT",
+    "Descricao": "FISIOLOGIA E MANEJO DA LACTAÇÃO",
+    "Semestre": 99,
+    "Apelido": "FISIOLOGIA E MANEJO DA LACTAÇÃO",
+    "CargaHorariaTeorico": 51,
+    "CargaHorariaPratica": null,
+    "ListaPrequisitos": []
+  },
+  {
+    "Id": 36353,
+    "Codigo": "1203.000.019-3",
+    "Tipo": "OPT",
+    "Descricao": "GEOREFERENCIAMENTO RURAL",
+    "Semestre": 99,
+    "Apelido": "GEOREFERENCIAMENTO RURAL",
+    "CargaHorariaTeorico": 51,
+    "CargaHorariaPratica": null,
+    "ListaPrequisitos": []
+  },
+  {
+    "Id": 52004,
+    "Codigo": "1203.000.262-6",
+    "Tipo": "OPT",
+    "Descricao": "GESTÃO DE CUSTOS PECUÁRIOS",
+    "Semestre": 99,
+    "Apelido": "GESTÃO DE CUSTOS PECUÁRIOS",
+    "CargaHorariaTeorico": 51,
+    "CargaHorariaPratica": null,
+    "ListaPrequisitos": []
+  },
+  {
+    "Id": 51984,
+    "Codigo": "1203.000.242-0",
+    "Tipo": "OPT",
+    "Descricao": "IDENTIFICAÇÃO DE PLANTAS FORRAGEIRAS E PLANTAS TÓXICAS",
+    "Semestre": 99,
+    "Apelido": "IDENTIFICAÇÃO DE PLANTAS FORRAGEIRAS E PLANTAS TÓXICAS",
+    "CargaHorariaTeorico": 51,
+    "CargaHorariaPratica": null,
+    "ListaPrequisitos": []
+  },
+  {
+    "Id": 36354,
+    "Codigo": "1203.000.020-7",
+    "Tipo": "OPT",
+    "Descricao": "INTOXICAÇÕES DE INTERESSE ZOOTÉCNICO",
+    "Semestre": 99,
+    "Apelido": "INTOXICAÇÕES DE INTERESSE ZOOTÉCNICO",
+    "CargaHorariaTeorico": 51,
+    "CargaHorariaPratica": null,
+    "ListaPrequisitos": []
+  },
+  {
+    "Id": 36361,
+    "Codigo": "1203.000.027-4",
+    "Tipo": "OPT",
+    "Descricao": "MANEJO DE BOVINOS DE CORTE EM CONFINAMENTO",
+    "Semestre": 99,
+    "Apelido": "MANEJO DE BOVINOS DE CORTE EM CONFINAMENTO",
+    "CargaHorariaTeorico": 51,
+    "CargaHorariaPratica": null,
+    "ListaPrequisitos": []
+  },
+  {
+    "Id": 36355,
+    "Codigo": "1203.000.021-5",
+    "Tipo": "OPT",
+    "Descricao": "MANEJO E LIDA DE ANIMAIS DE PRODUÇÃO",
+    "Semestre": 99,
+    "Apelido": "MANEJO E LIDA DE ANIMAIS DE PRODUÇÃO",
+    "CargaHorariaTeorico": 51,
+    "CargaHorariaPratica": null,
+    "ListaPrequisitos": []
+  },
+  {
+    "Id": 36816,
+    "Codigo": "1203.000.105-0",
+    "Tipo": "OPT",
+    "Descricao": "MANEJO PROFILÁTICO E SANITÁRIO DE RUMINANTES",
+    "Semestre": 99,
+    "Apelido": "MANEJO PROFILÁTICO E SANITÁRIO DE RUMINANTES",
+    "CargaHorariaTeorico": 51,
+    "CargaHorariaPratica": null,
+    "ListaPrequisitos": []
+  },
+  {
+    "Id": 36357,
+    "Codigo": "1203.000.023-1",
+    "Tipo": "OPT",
+    "Descricao": "MARKETING RURAL",
+    "Semestre": 99,
+    "Apelido": "MARKETING RURAL",
+    "CargaHorariaTeorico": 51,
+    "CargaHorariaPratica": null,
+    "ListaPrequisitos": []
+  },
+  {
+    "Id": 47849,
+    "Codigo": "1203.000.214-3",
+    "Tipo": "OPT",
+    "Descricao": "MELIPONICULTURA",
+    "Semestre": 99,
+    "Apelido": "MELIPONICULTURA",
+    "CargaHorariaTeorico": 51,
+    "CargaHorariaPratica": null,
+    "ListaPrequisitos": []
+  },
+  {
+    "Id": 36358,
+    "Codigo": "1203.000.024-0",
+    "Tipo": "OPT",
+    "Descricao": "MERCADOS FUTUROS AGROPECUÁRIOS",
+    "Semestre": 99,
+    "Apelido": "MERCADOS FUTUROS AGROPECUÁRIOS",
+    "CargaHorariaTeorico": 51,
+    "CargaHorariaPratica": null,
+    "ListaPrequisitos": []
+  },
+  {
+    "Id": 36359,
+    "Codigo": "1203.000.025-8",
+    "Tipo": "OPT",
+    "Descricao": "NUTRIÇÃO DE EQUINOS",
+    "Semestre": 99,
+    "Apelido": "NUTRIÇÃO DE EQUINOS",
+    "CargaHorariaTeorico": 51,
+    "CargaHorariaPratica": null,
+    "ListaPrequisitos": []
+  },
+  {
+    "Id": 51986,
+    "Codigo": "1203.000.244-8",
+    "Tipo": "OPT",
+    "Descricao": "NUTRIÇÃO E ALIMENTAÇÃO DE CÃES E GATOS",
+    "Semestre": 99,
+    "Apelido": "NUTRIÇÃO E ALIMENTAÇÃO DE CÃES E GATOS",
+    "CargaHorariaTeorico": 51,
+    "CargaHorariaPratica": null,
+    "ListaPrequisitos": []
+  },
+  {
+    "Id": 36434,
+    "Codigo": "1203.000.081-9",
+    "Tipo": "OPT",
+    "Descricao": "OVINOCULTURA",
+    "Semestre": 99,
+    "Apelido": "OVINOCULTURA",
+    "CargaHorariaTeorico": 51,
+    "CargaHorariaPratica": null,
+    "ListaPrequisitos": []
+  },
+  {
+    "Id": 51976,
+    "Codigo": "1203.000.234-0",
+    "Tipo": "OPT",
+    "Descricao": "PROCESSAMENTO DE CARNES E DERIVADOS",
+    "Semestre": 99,
+    "Apelido": "PROCESSAMENTO DE CARNES E DERIVADOS",
+    "CargaHorariaTeorico": 51,
+    "CargaHorariaPratica": null,
+    "ListaPrequisitos": []
+  },
+  {
+    "Id": 41648,
+    "Codigo": "2601.000.189-5",
+    "Tipo": "OPT",
+    "Descricao": "PROCESSAMENTO DE LEITE E DERIVADOS",
+    "Semestre": 99,
+    "Apelido": "PROCESSAMENTO DE LEITE E DERIVADOS",
+    "CargaHorariaTeorico": 51,
+    "CargaHorariaPratica": null,
+    "ListaPrequisitos": []
+  },
+  {
+    "Id": 36364,
+    "Codigo": "1203.000.028-2",
+    "Tipo": "OPT",
+    "Descricao": "PROCESSAMENTO NA INDÚSTRIA DE ALIMENTOS PARA ANIMAIS",
+    "Semestre": 99,
+    "Apelido": "PROCESSAMENTO NA INDÚSTRIA DE ALIMENTOS PARA ANIMAIS",
+    "CargaHorariaTeorico": 51,
+    "CargaHorariaPratica": null,
+    "ListaPrequisitos": []
+  },
+  {
+    "Id": 36365,
+    "Codigo": "1203.000.029-0",
+    "Tipo": "OPT",
+    "Descricao": "PRODUÇÃO AGROECOLÓGICA DE ALIMENTOS",
+    "Semestre": 99,
+    "Apelido": "PRODUÇÃO AGROECOLÓGICA DE ALIMENTOS",
+    "CargaHorariaTeorico": 51,
+    "CargaHorariaPratica": null,
+    "ListaPrequisitos": []
+  },
+  {
+    "Id": 36366,
+    "Codigo": "1203.000.030-4",
+    "Tipo": "OPT",
+    "Descricao": "PRODUÇÃO DE LEITE A PASTO",
+    "Semestre": 99,
+    "Apelido": "PRODUÇÃO DE LEITE A PASTO",
+    "CargaHorariaTeorico": 51,
+    "CargaHorariaPratica": null,
+    "ListaPrequisitos": []
+  },
+  {
+    "Id": 36367,
+    "Codigo": "1203.000.031-2",
+    "Tipo": "OPT",
+    "Descricao": "RANICULTURA",
+    "Semestre": 99,
+    "Apelido": "RANICULTURA",
+    "CargaHorariaTeorico": 51,
+    "CargaHorariaPratica": null,
+    "ListaPrequisitos": []
+  },
+  {
+    "Id": 36368,
+    "Codigo": "1203.000.032-0",
+    "Tipo": "OPT",
+    "Descricao": "SERICICULTURA",
+    "Semestre": 99,
+    "Apelido": "SERICICULTURA",
+    "CargaHorariaTeorico": 51,
+    "CargaHorariaPratica": null,
+    "ListaPrequisitos": []
+  },
+  {
+    "Id": 51974,
+    "Codigo": "1203.000.232-1",
+    "Tipo": "OPT",
+    "Descricao": "SISTEMAS DE CRIAÇÃO ALTERNATIVOS NA AVICULTURA",
+    "Semestre": 99,
+    "Apelido": "SISTEMAS DE CRIAÇÃO ALTERNATIVOS NA AVICULTURA",
+    "CargaHorariaTeorico": 51,
+    "CargaHorariaPratica": null,
+    "ListaPrequisitos": []
+  },
+  {
+    "Id": 36369,
+    "Codigo": "1203.000.033-9",
+    "Tipo": "OPT",
+    "Descricao": "SISTEMAS DE GESTÃO EMPRESARIAL NO AGRONEGÓCIO",
+    "Semestre": 99,
+    "Apelido": "SISTEMAS DE GESTÃO EMPRESARIAL NO AGRONEGÓCIO",
+    "CargaHorariaTeorico": 51,
+    "CargaHorariaPratica": null,
+    "ListaPrequisitos": []
+  },
+  {
+    "Id": 51981,
+    "Codigo": "1203.000.239-5",
+    "Tipo": "OPT",
+    "Descricao": "SISTEMAS DE INTEGRAÇÃO LAVOURA-PECUÁRIA-FLORESTA NA PRODUÇÃO ANIMAL",
+    "Semestre": 99,
+    "Apelido": "SISTEMAS DE INTEGRAÇÃO LAVOURA-PECUÁRIA-FLORESTA NA PRODUÇÃO ANIMAL",
+    "CargaHorariaTeorico": 51,
+    "CargaHorariaPratica": null,
+    "ListaPrequisitos": []
+  },
+  {
+    "Id": 36370,
+    "Codigo": "1203.000.034-7",
+    "Tipo": "OPT",
+    "Descricao": "TÉCNICAS AVANÇADAS EM FORMULAÇÃO DE RAÇÕES",
+    "Semestre": 99,
+    "Apelido": "TÉCNICAS AVANÇADAS EM FORMULAÇÃO DE RAÇÕES",
+    "CargaHorariaTeorico": 51,
+    "CargaHorariaPratica": null,
+    "ListaPrequisitos": []
+  },
+  {
+    "Id": 36371,
+    "Codigo": "1203.000.035-5",
+    "Tipo": "OPT",
+    "Descricao": "TECNOLOGIA DE COUROS E PELES",
+    "Semestre": 99,
+    "Apelido": "TECNOLOGIA DE COUROS E PELES",
+    "CargaHorariaTeorico": 51,
+    "CargaHorariaPratica": null,
+    "ListaPrequisitos": []
+  },
+  {
+    "Id": 41649,
+    "Codigo": "2601.000.190-9",
+    "Tipo": "OPT",
+    "Descricao": "TECNOLOGIA DE PESCADOS",
+    "Semestre": 99,
+    "Apelido": "TECNOLOGIA DE PESCADOS",
+    "CargaHorariaTeorico": 51,
+    "CargaHorariaPratica": null,
+    "ListaPrequisitos": []
+  },
+  {
+    "Id": 36373,
+    "Codigo": "1203.000.036-3",
+    "Tipo": "OPT",
+    "Descricao": "TÓPICOS ESPECIAIS EM AVICULTURA",
+    "Semestre": 99,
+    "Apelido": "TÓPICOS ESPECIAIS EM AVICULTURA",
+    "CargaHorariaTeorico": 51,
+    "CargaHorariaPratica": null,
+    "ListaPrequisitos": []
+  },
+  {
+    "Id": 36374,
+    "Codigo": "1203.000.037-1",
+    "Tipo": "OPT",
+    "Descricao": "TÓPICOS ESPECIAIS EM BOVINOCULTURA DE CORTE",
+    "Semestre": 99,
+    "Apelido": "TÓPICOS ESPECIAIS EM BOVINOCULTURA DE CORTE",
+    "CargaHorariaTeorico": 51,
+    "CargaHorariaPratica": null,
+    "ListaPrequisitos": []
+  },
+  {
+    "Id": 36375,
+    "Codigo": "1203.000.038-0",
+    "Tipo": "OPT",
+    "Descricao": "TÓPICOS ESPECIAIS EM BOVINOCULTURA DE LEITE",
+    "Semestre": 99,
+    "Apelido": "TÓPICOS ESPECIAIS EM BOVINOCULTURA DE LEITE",
+    "CargaHorariaTeorico": 51,
+    "CargaHorariaPratica": null,
+    "ListaPrequisitos": []
+  },
+  {
+    "Id": 36376,
+    "Codigo": "1203.000.039-8",
+    "Tipo": "OPT",
+    "Descricao": "TÓPICOS ESPECIAIS EM EQUIDEOCULTURA",
+    "Semestre": 99,
+    "Apelido": "TÓPICOS ESPECIAIS EM EQUIDEOCULTURA",
+    "CargaHorariaTeorico": 51,
+    "CargaHorariaPratica": null,
+    "ListaPrequisitos": []
+  },
+  {
+    "Id": 36377,
+    "Codigo": "1203.000.040-1",
+    "Tipo": "OPT",
+    "Descricao": "TÓPICOS ESPECIAIS EM FORRAGICULTURA",
+    "Semestre": 99,
+    "Apelido": "TÓPICOS ESPECIAIS EM FORRAGICULTURA",
+    "CargaHorariaTeorico": 51,
+    "CargaHorariaPratica": null,
+    "ListaPrequisitos": []
+  },
+  {
+    "Id": 36378,
+    "Codigo": "1203.000.041-0",
+    "Tipo": "OPT",
+    "Descricao": "TÓPICOS ESPECIAIS EM MELHORAMENTO GENÉTICO ANIMAL",
+    "Semestre": 99,
+    "Apelido": "TÓPICOS ESPECIAIS EM MELHORAMENTO GENÉTICO ANIMAL",
+    "CargaHorariaTeorico": 51,
+    "CargaHorariaPratica": null,
+    "ListaPrequisitos": []
+  },
+  {
+    "Id": 51987,
+    "Codigo": "1203.000.245-7",
+    "Tipo": "OPT",
+    "Descricao": "TÓPICOS ESPECIAIS EM NUTRIÇÃO DE CÃES E GATOS",
+    "Semestre": 99,
+    "Apelido": "TÓPICOS ESPECIAIS EM NUTRIÇÃO DE CÃES E GATOS",
+    "CargaHorariaTeorico": 51,
+    "CargaHorariaPratica": null,
+    "ListaPrequisitos": []
+  },
+  {
+    "Id": 36379,
+    "Codigo": "1203.000.042-8",
+    "Tipo": "OPT",
+    "Descricao": "TÓPICOS ESPECIAIS EM OVINOCULTURA",
+    "Semestre": 99,
+    "Apelido": "TÓPICOS ESPECIAIS EM OVINOCULTURA",
+    "CargaHorariaTeorico": 51,
+    "CargaHorariaPratica": null,
+    "ListaPrequisitos": []
+  },
+  {
+    "Id": 36380,
+    "Codigo": "1203.000.043-6",
+    "Tipo": "OPT",
+    "Descricao": "TÓPICOS ESPECIAIS EM PISCICULTURA",
+    "Semestre": 99,
+    "Apelido": "TÓPICOS ESPECIAIS EM PISCICULTURA",
+    "CargaHorariaTeorico": 51,
+    "CargaHorariaPratica": null,
+    "ListaPrequisitos": []
+  },
+  {
+    "Id": 36381,
+    "Codigo": "1203.000.044-4",
+    "Tipo": "OPT",
+    "Descricao": "TÓPICOS ESPECIAIS EM SUINOCULTURA",
+    "Semestre": 99,
+    "Apelido": "TÓPICOS ESPECIAIS EM SUINOCULTURA",
+    "CargaHorariaTeorico": 51,
+    "CargaHorariaPratica": null,
+    "ListaPrequisitos": []
+  },
+  {
+    "Id": 36382,
+    "Codigo": "1203.000.045-2",
+    "Tipo": "OPT",
+    "Descricao": "TÓPICOS ESPECIAIS EM TECNOLOGIA DE PRODUTOS DE ORIGEM ANIMAL",
+    "Semestre": 99,
+    "Apelido": "TÓPICOS ESPECIAIS EM TECNOLOGIA DE PRODUTOS DE ORIGEM ANIMAL",
+    "CargaHorariaTeorico": 51,
+    "CargaHorariaPratica": null,
+    "ListaPrequisitos": []
+  },
+  {
+    "Id": 36383,
+    "Codigo": "1203.000.046-0",
+    "Tipo": "OPT",
+    "Descricao": "TÓPICOS ESPECIAIS EM ZOOTECNIA I",
+    "Semestre": 99,
+    "Apelido": "TÓPICOS ESPECIAIS EM ZOOTECNIA I",
+    "CargaHorariaTeorico": 51,
+    "CargaHorariaPratica": null,
+    "ListaPrequisitos": []
+  },
+  {
+    "Id": 36384,
+    "Codigo": "1203.000.047-9",
+    "Tipo": "OPT",
+    "Descricao": "TÓPICOS ESPECIAIS EM ZOOTECNIA II",
+    "Semestre": 99,
+    "Apelido": "TÓPICOS ESPECIAIS EM ZOOTECNIA II",
+    "CargaHorariaTeorico": 51,
+    "CargaHorariaPratica": null,
+    "ListaPrequisitos": []
+  },
+  {
+    "Id": 36385,
+    "Codigo": "1203.000.048-7",
+    "Tipo": "OPT",
+    "Descricao": "TÓPICOS ESPECIAIS EM ZOOTECNIA III",
+    "Semestre": 99,
+    "Apelido": "TÓPICOS ESPECIAIS EM ZOOTECNIA III",
+    "CargaHorariaTeorico": 51,
+    "CargaHorariaPratica": null,
+    "ListaPrequisitos": []
+  }
+]

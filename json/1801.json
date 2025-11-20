@@ -1,0 +1,1154 @@
+[
+  {
+    "Id": 48554,
+    "Codigo": "1803.000.329-5",
+    "Tipo": "OBR",
+    "Descricao": "ELEMENTOS PARA O ENSINO DE NÚMEROS E OPERAÇÕES",
+    "Semestre": 1,
+    "Apelido": "ELEMENTOS PARA O ENSINO DE NÚMEROS E OPERAÇÕES",
+    "CargaHorariaTeorico": 68,
+    "CargaHorariaPratica": null,
+    "ListaPrequisitos": []
+  },
+  {
+    "Id": 44040,
+    "Codigo": "1803.000.261-8",
+    "Tipo": "OBR",
+    "Descricao": "FUNDAMENTOS DE DIDÁTICA",
+    "Semestre": 1,
+    "Apelido": "FUNDAMENTOS DE DIDÁTICA",
+    "CargaHorariaTeorico": 51,
+    "CargaHorariaPratica": null,
+    "ListaPrequisitos": []
+  },
+  {
+    "Id": 48572,
+    "Codigo": "1803.000.347-3",
+    "Tipo": "OBR",
+    "Descricao": "FUNDAMENTOS PARA O ENSINO DE GEOMETRIA, GRANDEZAS E MEDIDAS",
+    "Semestre": 1,
+    "Apelido": "FUNDAMENTOS PARA O ENSINO DE GEOMETRIA, GRANDEZAS E MEDIDAS",
+    "CargaHorariaTeorico": 68,
+    "CargaHorariaPratica": null,
+    "ListaPrequisitos": []
+  },
+  {
+    "Id": 48575,
+    "Codigo": "1803.000.350-8",
+    "Tipo": "OBR",
+    "Descricao": "ORGANIZAÇÃO CURRICULAR E GESTÃO DA ESCOLA",
+    "Semestre": 1,
+    "Apelido": "ORGANIZAÇÃO CURRICULAR E GESTÃO DA ESCOLA",
+    "CargaHorariaTeorico": 68,
+    "CargaHorariaPratica": null,
+    "ListaPrequisitos": []
+  },
+  {
+    "Id": 44041,
+    "Codigo": "1803.000.262-7",
+    "Tipo": "OBR",
+    "Descricao": "POLÍTICAS EDUCACIONAIS",
+    "Semestre": 1,
+    "Apelido": "POLÍTICAS EDUCACIONAIS",
+    "CargaHorariaTeorico": 51,
+    "CargaHorariaPratica": null,
+    "ListaPrequisitos": []
+  },
+  {
+    "Id": 48551,
+    "Codigo": "1803.000.326-8",
+    "Tipo": "OBR",
+    "Descricao": "RACIOCÍNIO LÓGICO NA EDUCAÇÃO BÁSICA",
+    "Semestre": 1,
+    "Apelido": "RACIOCÍNIO LÓGICO NA EDUCAÇÃO BÁSICA",
+    "CargaHorariaTeorico": 68,
+    "CargaHorariaPratica": null,
+    "ListaPrequisitos": []
+  },
+  {
+    "Id": 48565,
+    "Codigo": "1803.000.340-0",
+    "Tipo": "OBR",
+    "Descricao": "ÁLGEBRA NA EDUCAÇÃO BÁSICA",
+    "Semestre": 2,
+    "Apelido": "ÁLGEBRA NA EDUCAÇÃO BÁSICA",
+    "CargaHorariaTeorico": 68,
+    "CargaHorariaPratica": null,
+    "ListaPrequisitos": []
+  },
+  {
+    "Id": 48560,
+    "Codigo": "1803.000.335-7",
+    "Tipo": "OBR",
+    "Descricao": "DESENVOLVIMENTO PROFISSIONAL DOCENTE",
+    "Semestre": 2,
+    "Apelido": "DESENVOLVIMENTO PROFISSIONAL DOCENTE",
+    "CargaHorariaTeorico": 34,
+    "CargaHorariaPratica": null,
+    "ListaPrequisitos": []
+  },
+  {
+    "Id": 44038,
+    "Codigo": "1803.000.259-2",
+    "Tipo": "OBR",
+    "Descricao": "EDUCAÇÃO ESPECIAL",
+    "Semestre": 2,
+    "Apelido": "EDUCAÇÃO ESPECIAL",
+    "CargaHorariaTeorico": 51,
+    "CargaHorariaPratica": null,
+    "ListaPrequisitos": []
+  },
+  {
+    "Id": 48573,
+    "Codigo": "1803.000.348-2",
+    "Tipo": "OBR",
+    "Descricao": "FUNDAMENTOS E METODOLOGIAS PARA O ENSINO DE FUNÇÕES",
+    "Semestre": 2,
+    "Apelido": "FUNDAMENTOS E METODOLOGIAS PARA O ENSINO DE FUNÇÕES",
+    "CargaHorariaTeorico": 68,
+    "CargaHorariaPratica": null,
+    "ListaPrequisitos": []
+  },
+  {
+    "Id": 48555,
+    "Codigo": "1803.000.330-1",
+    "Tipo": "OBR",
+    "Descricao": "FUNDAMENTOS HISTÓRICOS, SOCIOLÓGICOS E FILOSÓFICOS DA EDUCAÇÃO",
+    "Semestre": 2,
+    "Apelido": "FUNDAMENTOS HISTÓRICOS, SOCIOLÓGICOS E FILOSÓFICOS DA EDUCAÇÃO",
+    "CargaHorariaTeorico": 51,
+    "CargaHorariaPratica": null,
+    "ListaPrequisitos": []
+  },
+  {
+    "Id": 48558,
+    "Codigo": "1803.000.333-9",
+    "Tipo": "OBR",
+    "Descricao": "PRÁTICA DE ENSINO DE MATEMÁTICA I",
+    "Semestre": 2,
+    "Apelido": "PRÁTICA DE ENSINO DE MATEMÁTICA I",
+    "CargaHorariaTeorico": 68,
+    "CargaHorariaPratica": null,
+    "ListaPrequisitos": []
+  },
+  {
+    "Id": 44043,
+    "Codigo": "1803.000.264-5",
+    "Tipo": "OBR",
+    "Descricao": "PSICOLOGIA E EDUCAÇÃO",
+    "Semestre": 2,
+    "Apelido": "PSICOLOGIA E EDUCAÇÃO",
+    "CargaHorariaTeorico": 51,
+    "CargaHorariaPratica": null,
+    "ListaPrequisitos": []
+  },
+  {
+    "Id": 48576,
+    "Codigo": "1803.000.351-7",
+    "Tipo": "OBR",
+    "Descricao": "CONCEITOS PARA O ENSINO DE PROBABILIDADE E ESTATÍSTICA",
+    "Semestre": 3,
+    "Apelido": "CONCEITOS PARA O ENSINO DE PROBABILIDADE E ESTATÍSTICA",
+    "CargaHorariaTeorico": 68,
+    "CargaHorariaPratica": null,
+    "ListaPrequisitos": []
+  },
+  {
+    "Id": 44039,
+    "Codigo": "1803.000.260-9",
+    "Tipo": "OBR",
+    "Descricao": "ESTUDO DE LIBRAS",
+    "Semestre": 3,
+    "Apelido": "ESTUDO DE LIBRAS",
+    "CargaHorariaTeorico": 51,
+    "CargaHorariaPratica": null,
+    "ListaPrequisitos": []
+  },
+  {
+    "Id": 37487,
+    "Codigo": "1803.000.077-0",
+    "Tipo": "OBR",
+    "Descricao": "FÍSICA ELEMENTAR",
+    "Semestre": 3,
+    "Apelido": "FÍSICA ELEMENTAR",
+    "CargaHorariaTeorico": 68,
+    "CargaHorariaPratica": null,
+    "ListaPrequisitos": []
+  },
+  {
+    "Id": 48579,
+    "Codigo": "1803.000.354-4",
+    "Tipo": "OBR",
+    "Descricao": "LEITURA E PRODUÇÃO DE TEXTOS",
+    "Semestre": 3,
+    "Apelido": "LEITURA E PRODUÇÃO DE TEXTOS",
+    "CargaHorariaTeorico": 68,
+    "CargaHorariaPratica": null,
+    "ListaPrequisitos": []
+  },
+  {
+    "Id": 48561,
+    "Codigo": "1803.000.336-6",
+    "Tipo": "OBR",
+    "Descricao": "LÓGICA MATEMÁTICA",
+    "Semestre": 3,
+    "Apelido": "LÓGICA MATEMÁTICA",
+    "CargaHorariaTeorico": 68,
+    "CargaHorariaPratica": null,
+    "ListaPrequisitos": []
+  },
+  {
+    "Id": 48566,
+    "Codigo": "1803.000.341-9",
+    "Tipo": "OBR",
+    "Descricao": "PRÁTICA DE ENSINO DE MATEMÁTICA II",
+    "Semestre": 3,
+    "Apelido": "PRÁTICA DE ENSINO DE MATEMÁTICA II",
+    "CargaHorariaTeorico": 68,
+    "CargaHorariaPratica": null,
+    "ListaPrequisitos": [
+      {
+        "Id": 48558,
+        "Codigo": "1803.000.333-9",
+        "Descricao": "PRÁTICA DE ENSINO DE MATEMÁTICA I",
+        "Semestre": "0",
+        "Apelido": "PRÁTICA DE ENSINO DE MATEMÁTICA I",
+        "CargaHorariaTeorico": 0,
+        "CargaHorariaPratica": 0,
+        "ListaPrequisitos": []
+      }
+    ]
+  },
+  {
+    "Id": 48553,
+    "Codigo": "1803.000.328-6",
+    "Tipo": "OBR",
+    "Descricao": "CÁLCULO I",
+    "Semestre": 4,
+    "Apelido": "CÁLCULO I",
+    "CargaHorariaTeorico": 68,
+    "CargaHorariaPratica": null,
+    "ListaPrequisitos": [
+      {
+        "Id": 48573,
+        "Codigo": "1803.000.348-2",
+        "Descricao": "FUNDAMENTOS E METODOLOGIAS PARA O ENSINO DE FUNÇÕES",
+        "Semestre": "0",
+        "Apelido": "FUNDAMENTOS E METODOLOGIAS PARA O ENSINO DE FUNÇÕES",
+        "CargaHorariaTeorico": 0,
+        "CargaHorariaPratica": 0,
+        "ListaPrequisitos": []
+      }
+    ]
+  },
+  {
+    "Id": 38921,
+    "Codigo": "1803.000.224-1",
+    "Tipo": "OBR",
+    "Descricao": "FÍSICA I",
+    "Semestre": 4,
+    "Apelido": "FÍSICA I",
+    "CargaHorariaTeorico": 68,
+    "CargaHorariaPratica": null,
+    "ListaPrequisitos": [
+      {
+        "Id": 37487,
+        "Codigo": "1803.000.077-0",
+        "Descricao": "FÍSICA ELEMENTAR",
+        "Semestre": "0",
+        "Apelido": "FÍSICA ELEMENTAR",
+        "CargaHorariaTeorico": 0,
+        "CargaHorariaPratica": 0,
+        "ListaPrequisitos": []
+      }
+    ]
+  },
+  {
+    "Id": 38900,
+    "Codigo": "1803.000.212-8",
+    "Tipo": "OBR",
+    "Descricao": "GEOMETRIA PLANA",
+    "Semestre": 4,
+    "Apelido": "GEOMETRIA PLANA",
+    "CargaHorariaTeorico": 68,
+    "CargaHorariaPratica": null,
+    "ListaPrequisitos": []
+  },
+  {
+    "Id": 48571,
+    "Codigo": "1803.000.346-4",
+    "Tipo": "OBR",
+    "Descricao": "PRÁTICA DE ENSINO DE MATEMÁTICA III",
+    "Semestre": 4,
+    "Apelido": "PRÁTICA DE ENSINO DE MATEMÁTICA III",
+    "CargaHorariaTeorico": 68,
+    "CargaHorariaPratica": null,
+    "ListaPrequisitos": []
+  },
+  {
+    "Id": 48568,
+    "Codigo": "1803.000.343-7",
+    "Tipo": "OBR",
+    "Descricao": "TECNOLOGIAS DIGITAIS E O ENSINO DE MATEMÁTICA",
+    "Semestre": 4,
+    "Apelido": "TECNOLOGIAS DIGITAIS E O ENSINO DE MATEMÁTICA",
+    "CargaHorariaTeorico": 68,
+    "CargaHorariaPratica": null,
+    "ListaPrequisitos": []
+  },
+  {
+    "Id": 38961,
+    "Codigo": "1803.000.248-9",
+    "Tipo": "OBR",
+    "Descricao": "TRIGONOMETRIA E NÚMEROS COMPLEXOS",
+    "Semestre": 4,
+    "Apelido": "TRIGONOMETRIA E NÚMEROS COMPLEXOS",
+    "CargaHorariaTeorico": 68,
+    "CargaHorariaPratica": null,
+    "ListaPrequisitos": []
+  },
+  {
+    "Id": 38912,
+    "Codigo": "1803.000.215-2",
+    "Tipo": "OBR",
+    "Descricao": "ÁLGEBRA I",
+    "Semestre": 5,
+    "Apelido": "ÁLGEBRA I",
+    "CargaHorariaTeorico": 68,
+    "CargaHorariaPratica": null,
+    "ListaPrequisitos": [
+      {
+        "Id": 48554,
+        "Codigo": "1803.000.329-5",
+        "Descricao": "ELEMENTOS PARA O ENSINO DE NÚMEROS E OPERAÇÕES",
+        "Semestre": "0",
+        "Apelido": "ELEMENTOS PARA O ENSINO DE NÚMEROS E OPERAÇÕES",
+        "CargaHorariaTeorico": 0,
+        "CargaHorariaPratica": 0,
+        "ListaPrequisitos": []
+      }
+    ]
+  },
+  {
+    "Id": 48570,
+    "Codigo": "1803.000.345-5",
+    "Tipo": "OBR",
+    "Descricao": "CÁLCULO II",
+    "Semestre": 5,
+    "Apelido": "CÁLCULO II",
+    "CargaHorariaTeorico": 68,
+    "CargaHorariaPratica": null,
+    "ListaPrequisitos": [
+      {
+        "Id": 48553,
+        "Codigo": "1803.000.328-6",
+        "Descricao": "CÁLCULO I",
+        "Semestre": "0",
+        "Apelido": "CÁLCULO I",
+        "CargaHorariaTeorico": 0,
+        "CargaHorariaPratica": 0,
+        "ListaPrequisitos": []
+      }
+    ]
+  },
+  {
+    "Id": 48574,
+    "Codigo": "1803.000.349-1",
+    "Tipo": "OBR",
+    "Descricao": "ESTÁGIO OBRIGATÓRIO I",
+    "Semestre": 5,
+    "Apelido": "ESTÁGIO OBRIGATÓRIO I",
+    "CargaHorariaTeorico": 100,
+    "CargaHorariaPratica": null,
+    "ListaPrequisitos": [
+      {
+        "Id": 48566,
+        "Codigo": "1803.000.341-9",
+        "Descricao": "PRÁTICA DE ENSINO DE MATEMÁTICA II",
+        "Semestre": "0",
+        "Apelido": "PRÁTICA DE ENSINO DE MATEMÁTICA II",
+        "CargaHorariaTeorico": 0,
+        "CargaHorariaPratica": 0,
+        "ListaPrequisitos": []
+      }
+    ]
+  },
+  {
+    "Id": 38913,
+    "Codigo": "1803.000.216-0",
+    "Tipo": "OBR",
+    "Descricao": "GEOMETRIA ESPACIAL",
+    "Semestre": 5,
+    "Apelido": "GEOMETRIA ESPACIAL",
+    "CargaHorariaTeorico": 68,
+    "CargaHorariaPratica": null,
+    "ListaPrequisitos": [
+      {
+        "Id": 38900,
+        "Codigo": "1803.000.212-8",
+        "Descricao": "GEOMETRIA PLANA",
+        "Semestre": "0",
+        "Apelido": "GEOMETRIA PLANA",
+        "CargaHorariaTeorico": 0,
+        "CargaHorariaPratica": 0,
+        "ListaPrequisitos": []
+      }
+    ]
+  },
+  {
+    "Id": 48563,
+    "Codigo": "1803.000.338-4",
+    "Tipo": "OBR",
+    "Descricao": "PRÁTICA DE ENSINO DE MATEMÁTICA IV",
+    "Semestre": 5,
+    "Apelido": "PRÁTICA DE ENSINO DE MATEMÁTICA IV",
+    "CargaHorariaTeorico": 68,
+    "CargaHorariaPratica": null,
+    "ListaPrequisitos": []
+  },
+  {
+    "Id": 37479,
+    "Codigo": "1803.000.073-7",
+    "Tipo": "OBR",
+    "Descricao": "VETORES E GEOMETRIA ANALÍTICA",
+    "Semestre": 5,
+    "Apelido": "VETORES E GEOMETRIA ANALÍTICA",
+    "CargaHorariaTeorico": 68,
+    "CargaHorariaPratica": null,
+    "ListaPrequisitos": []
+  },
+  {
+    "Id": 38915,
+    "Codigo": "1803.000.218-7",
+    "Tipo": "OBR",
+    "Descricao": "ÁLGEBRA II",
+    "Semestre": 6,
+    "Apelido": "ÁLGEBRA II",
+    "CargaHorariaTeorico": 68,
+    "CargaHorariaPratica": null,
+    "ListaPrequisitos": [
+      {
+        "Id": 38912,
+        "Codigo": "1803.000.215-2",
+        "Descricao": "ÁLGEBRA I",
+        "Semestre": "0",
+        "Apelido": "ÁLGEBRA I",
+        "CargaHorariaTeorico": 0,
+        "CargaHorariaPratica": 0,
+        "ListaPrequisitos": []
+      }
+    ]
+  },
+  {
+    "Id": 38918,
+    "Codigo": "1803.000.221-7",
+    "Tipo": "OBR",
+    "Descricao": "ÁLGEBRA LINEAR",
+    "Semestre": 6,
+    "Apelido": "ÁLGEBRA LINEAR",
+    "CargaHorariaTeorico": 102,
+    "CargaHorariaPratica": null,
+    "ListaPrequisitos": [
+      {
+        "Id": 37479,
+        "Codigo": "1803.000.073-7",
+        "Descricao": "VETORES E GEOMETRIA ANALÍTICA",
+        "Semestre": "0",
+        "Apelido": "VETORES E GEOMETRIA ANALÍTICA",
+        "CargaHorariaTeorico": 0,
+        "CargaHorariaPratica": 0,
+        "ListaPrequisitos": []
+      },
+      {
+        "Id": 48565,
+        "Codigo": "1803.000.340-0",
+        "Descricao": "ÁLGEBRA NA EDUCAÇÃO BÁSICA",
+        "Semestre": "0",
+        "Apelido": "ÁLGEBRA NA EDUCAÇÃO BÁSICA",
+        "CargaHorariaTeorico": 0,
+        "CargaHorariaPratica": 0,
+        "ListaPrequisitos": []
+      }
+    ]
+  },
+  {
+    "Id": 48569,
+    "Codigo": "1803.000.344-6",
+    "Tipo": "OBR",
+    "Descricao": "CÁLCULO III",
+    "Semestre": 6,
+    "Apelido": "CÁLCULO III",
+    "CargaHorariaTeorico": 68,
+    "CargaHorariaPratica": null,
+    "ListaPrequisitos": [
+      {
+        "Id": 48570,
+        "Codigo": "1803.000.345-5",
+        "Descricao": "CÁLCULO II",
+        "Semestre": "0",
+        "Apelido": "CÁLCULO II",
+        "CargaHorariaTeorico": 0,
+        "CargaHorariaPratica": 0,
+        "ListaPrequisitos": []
+      }
+    ]
+  },
+  {
+    "Id": 48578,
+    "Codigo": "1803.000.353-5",
+    "Tipo": "OBR",
+    "Descricao": "ESTÁGIO OBRIGATÓRIO II",
+    "Semestre": 6,
+    "Apelido": "ESTÁGIO OBRIGATÓRIO II",
+    "CargaHorariaTeorico": 100,
+    "CargaHorariaPratica": null,
+    "ListaPrequisitos": [
+      {
+        "Id": 48566,
+        "Codigo": "1803.000.341-9",
+        "Descricao": "PRÁTICA DE ENSINO DE MATEMÁTICA II",
+        "Semestre": "0",
+        "Apelido": "PRÁTICA DE ENSINO DE MATEMÁTICA II",
+        "CargaHorariaTeorico": 0,
+        "CargaHorariaPratica": 0,
+        "ListaPrequisitos": []
+      },
+      {
+        "Id": 48574,
+        "Codigo": "1803.000.349-1",
+        "Descricao": "ESTÁGIO OBRIGATÓRIO I",
+        "Semestre": "0",
+        "Apelido": "ESTÁGIO OBRIGATÓRIO I",
+        "CargaHorariaTeorico": 0,
+        "CargaHorariaPratica": 0,
+        "ListaPrequisitos": []
+      }
+    ]
+  },
+  {
+    "Id": 48562,
+    "Codigo": "1803.000.337-5",
+    "Tipo": "OBR",
+    "Descricao": "PRÁTICA DE ENSINO DE MATEMÁTICA V",
+    "Semestre": 6,
+    "Apelido": "PRÁTICA DE ENSINO DE MATEMÁTICA V",
+    "CargaHorariaTeorico": 68,
+    "CargaHorariaPratica": null,
+    "ListaPrequisitos": []
+  },
+  {
+    "Id": 48552,
+    "Codigo": "1803.000.327-7",
+    "Tipo": "OBR",
+    "Descricao": "ESTÁGIO OBRIGATÓRIO III",
+    "Semestre": 7,
+    "Apelido": "ESTÁGIO OBRIGATÓRIO III",
+    "CargaHorariaTeorico": 100,
+    "CargaHorariaPratica": null,
+    "ListaPrequisitos": [
+      {
+        "Id": 48578,
+        "Codigo": "1803.000.353-5",
+        "Descricao": "ESTÁGIO OBRIGATÓRIO II",
+        "Semestre": "0",
+        "Apelido": "ESTÁGIO OBRIGATÓRIO II",
+        "CargaHorariaTeorico": 0,
+        "CargaHorariaPratica": 0,
+        "ListaPrequisitos": []
+      }
+    ]
+  },
+  {
+    "Id": 48567,
+    "Codigo": "1803.000.342-8",
+    "Tipo": "OBR",
+    "Descricao": "INTRODUÇÃO À ANÁLISE REAL",
+    "Semestre": 7,
+    "Apelido": "INTRODUÇÃO À ANÁLISE REAL",
+    "CargaHorariaTeorico": 68,
+    "CargaHorariaPratica": null,
+    "ListaPrequisitos": [
+      {
+        "Id": 48553,
+        "Codigo": "1803.000.328-6",
+        "Descricao": "CÁLCULO I",
+        "Semestre": "0",
+        "Apelido": "CÁLCULO I",
+        "CargaHorariaTeorico": 0,
+        "CargaHorariaPratica": 0,
+        "ListaPrequisitos": []
+      },
+      {
+        "Id": 48570,
+        "Codigo": "1803.000.345-5",
+        "Descricao": "CÁLCULO II",
+        "Semestre": "0",
+        "Apelido": "CÁLCULO II",
+        "CargaHorariaTeorico": 0,
+        "CargaHorariaPratica": 0,
+        "ListaPrequisitos": []
+      }
+    ]
+  },
+  {
+    "Id": 38382,
+    "Codigo": "1803.000.192-0",
+    "Tipo": "OBR",
+    "Descricao": "INTRODUÇÃO À COMPUTAÇÃO",
+    "Semestre": 7,
+    "Apelido": "INTRODUÇÃO À COMPUTAÇÃO",
+    "CargaHorariaTeorico": 68,
+    "CargaHorariaPratica": null,
+    "ListaPrequisitos": []
+  },
+  {
+    "Id": 48564,
+    "Codigo": "1803.000.339-3",
+    "Tipo": "OBR",
+    "Descricao": "INTRODUÇÃO ÀS EQUAÇÕES DIFERENCIAIS ORDINÁRIAS",
+    "Semestre": 7,
+    "Apelido": "INTRODUÇÃO ÀS EQUAÇÕES DIFERENCIAIS ORDINÁRIAS",
+    "CargaHorariaTeorico": 102,
+    "CargaHorariaPratica": null,
+    "ListaPrequisitos": [
+      {
+        "Id": 48570,
+        "Codigo": "1803.000.345-5",
+        "Descricao": "CÁLCULO II",
+        "Semestre": "0",
+        "Apelido": "CÁLCULO II",
+        "CargaHorariaTeorico": 0,
+        "CargaHorariaPratica": 0,
+        "ListaPrequisitos": []
+      }
+    ]
+  },
+  {
+    "Id": 48556,
+    "Codigo": "1803.000.331-0",
+    "Tipo": "OBR",
+    "Descricao": "PRÁTICA DE ENSINO DE MATEMÁTICA VI",
+    "Semestre": 7,
+    "Apelido": "PRÁTICA DE ENSINO DE MATEMÁTICA VI",
+    "CargaHorariaTeorico": 68,
+    "CargaHorariaPratica": null,
+    "ListaPrequisitos": []
+  },
+  {
+    "Id": 48557,
+    "Codigo": "1803.000.332-0",
+    "Tipo": "OBR",
+    "Descricao": "ANÁLISE REAL",
+    "Semestre": 8,
+    "Apelido": "ANÁLISE REAL",
+    "CargaHorariaTeorico": 68,
+    "CargaHorariaPratica": null,
+    "ListaPrequisitos": [
+      {
+        "Id": 48567,
+        "Codigo": "1803.000.342-8",
+        "Descricao": "INTRODUÇÃO À ANÁLISE REAL",
+        "Semestre": "0",
+        "Apelido": "INTRODUÇÃO À ANÁLISE REAL",
+        "CargaHorariaTeorico": 0,
+        "CargaHorariaPratica": 0,
+        "ListaPrequisitos": []
+      }
+    ]
+  },
+  {
+    "Id": 48559,
+    "Codigo": "1803.000.334-8",
+    "Tipo": "OBR",
+    "Descricao": "ESTÁGIO OBRIGATÓRIO IV",
+    "Semestre": 8,
+    "Apelido": "ESTÁGIO OBRIGATÓRIO IV",
+    "CargaHorariaTeorico": 100,
+    "CargaHorariaPratica": null,
+    "ListaPrequisitos": [
+      {
+        "Id": 48552,
+        "Codigo": "1803.000.327-7",
+        "Descricao": "ESTÁGIO OBRIGATÓRIO III",
+        "Semestre": "0",
+        "Apelido": "ESTÁGIO OBRIGATÓRIO III",
+        "CargaHorariaTeorico": 0,
+        "CargaHorariaPratica": 0,
+        "ListaPrequisitos": []
+      }
+    ]
+  },
+  {
+    "Id": 48577,
+    "Codigo": "1803.000.352-6",
+    "Tipo": "OBR",
+    "Descricao": "HISTÓRIA DA MATEMÁTICA",
+    "Semestre": 8,
+    "Apelido": "HISTÓRIA DA MATEMÁTICA",
+    "CargaHorariaTeorico": 68,
+    "CargaHorariaPratica": null,
+    "ListaPrequisitos": []
+  },
+  {
+    "Id": 38937,
+    "Codigo": "1803.000.231-4",
+    "Tipo": "OPT",
+    "Descricao": "ÁLGEBRA DOS NÚMEROS",
+    "Semestre": 99,
+    "Apelido": "ÁLGEBRA DOS NÚMEROS",
+    "CargaHorariaTeorico": 68,
+    "CargaHorariaPratica": null,
+    "ListaPrequisitos": []
+  },
+  {
+    "Id": 38938,
+    "Codigo": "1803.000.232-2",
+    "Tipo": "OPT",
+    "Descricao": "AVALIAÇÃO ESCOLAR",
+    "Semestre": 99,
+    "Apelido": "AVALIAÇÃO ESCOLAR",
+    "CargaHorariaTeorico": 68,
+    "CargaHorariaPratica": null,
+    "ListaPrequisitos": []
+  },
+  {
+    "Id": 38939,
+    "Codigo": "1803.000.233-0",
+    "Tipo": "OPT",
+    "Descricao": "CÁLCULO AVANÇADO",
+    "Semestre": 99,
+    "Apelido": "CÁLCULO AVANÇADO",
+    "CargaHorariaTeorico": 68,
+    "CargaHorariaPratica": null,
+    "ListaPrequisitos": []
+  },
+  {
+    "Id": 37494,
+    "Codigo": "1803.000.081-8",
+    "Tipo": "OPT",
+    "Descricao": "CÁLCULO NUMÉRICO",
+    "Semestre": 99,
+    "Apelido": "CÁLCULO NUMÉRICO",
+    "CargaHorariaTeorico": 68,
+    "CargaHorariaPratica": null,
+    "ListaPrequisitos": []
+  },
+  {
+    "Id": 38940,
+    "Codigo": "1803.000.234-9",
+    "Tipo": "OPT",
+    "Descricao": "CONSTRUÇÕES GEOMÉTRICAS",
+    "Semestre": 99,
+    "Apelido": "CONSTRUÇÕES GEOMÉTRICAS",
+    "CargaHorariaTeorico": 68,
+    "CargaHorariaPratica": null,
+    "ListaPrequisitos": []
+  },
+  {
+    "Id": 33580,
+    "Codigo": "1803.000.044-3",
+    "Tipo": "OPT",
+    "Descricao": "EDUCAÇÃO A DISTÂNCIA",
+    "Semestre": 99,
+    "Apelido": "EDUCAÇÃO A DISTÂNCIA",
+    "CargaHorariaTeorico": 68,
+    "CargaHorariaPratica": null,
+    "ListaPrequisitos": []
+  },
+  {
+    "Id": 44042,
+    "Codigo": "1803.000.263-6",
+    "Tipo": "OPT",
+    "Descricao": "EDUCAÇÃO DAS RELAÇÕES ÉTNICO-RACIAIS",
+    "Semestre": 99,
+    "Apelido": "EDUCAÇÃO DAS RELAÇÕES ÉTNICO-RACIAIS",
+    "CargaHorariaTeorico": 51,
+    "CargaHorariaPratica": null,
+    "ListaPrequisitos": []
+  },
+  {
+    "Id": 33567,
+    "Codigo": "1803.000.031-1",
+    "Tipo": "OPT",
+    "Descricao": "EDUCAÇÃO DE JOVENS E ADULTOS",
+    "Semestre": 99,
+    "Apelido": "EDUCAÇÃO DE JOVENS E ADULTOS",
+    "CargaHorariaTeorico": 68,
+    "CargaHorariaPratica": null,
+    "ListaPrequisitos": []
+  },
+  {
+    "Id": 44045,
+    "Codigo": "1803.000.266-3",
+    "Tipo": "OPT",
+    "Descricao": "EDUCAÇÃO FINANCEIRA",
+    "Semestre": 99,
+    "Apelido": "EDUCAÇÃO FINANCEIRA",
+    "CargaHorariaTeorico": 68,
+    "CargaHorariaPratica": null,
+    "ListaPrequisitos": []
+  },
+  {
+    "Id": 43686,
+    "Codigo": "1991.000.004-3",
+    "Tipo": "OPT",
+    "Descricao": "EMPREENDEDORISMO E INOVAÇÃO",
+    "Semestre": 99,
+    "Apelido": "EMPREENDEDORISMO E INOVAÇÃO",
+    "CargaHorariaTeorico": 68,
+    "CargaHorariaPratica": null,
+    "ListaPrequisitos": []
+  },
+  {
+    "Id": 33582,
+    "Codigo": "1803.000.046-0",
+    "Tipo": "OPT",
+    "Descricao": "ESTUDOS AFRO-BRASILEIROS E ÉTNICOS RACIAIS",
+    "Semestre": 99,
+    "Apelido": "ESTUDOS AFRO-BRASILEIROS E ÉTNICOS RACIAIS",
+    "CargaHorariaTeorico": 68,
+    "CargaHorariaPratica": null,
+    "ListaPrequisitos": []
+  },
+  {
+    "Id": 33584,
+    "Codigo": "1803.000.048-6",
+    "Tipo": "OPT",
+    "Descricao": "ÉTICA NA EDUCAÇÃO",
+    "Semestre": 99,
+    "Apelido": "ÉTICA NA EDUCAÇÃO",
+    "CargaHorariaTeorico": 68,
+    "CargaHorariaPratica": null,
+    "ListaPrequisitos": []
+  },
+  {
+    "Id": 38941,
+    "Codigo": "1803.000.235-7",
+    "Tipo": "OPT",
+    "Descricao": "FÍSICA II",
+    "Semestre": 99,
+    "Apelido": "FÍSICA II",
+    "CargaHorariaTeorico": 68,
+    "CargaHorariaPratica": null,
+    "ListaPrequisitos": []
+  },
+  {
+    "Id": 37571,
+    "Codigo": "1803.000.118-0",
+    "Tipo": "OPT",
+    "Descricao": "FÍSICA III",
+    "Semestre": 99,
+    "Apelido": "FÍSICA III",
+    "CargaHorariaTeorico": 68,
+    "CargaHorariaPratica": null,
+    "ListaPrequisitos": []
+  },
+  {
+    "Id": 38942,
+    "Codigo": "1803.000.236-5",
+    "Tipo": "OPT",
+    "Descricao": "FÍSICA IV",
+    "Semestre": 99,
+    "Apelido": "FÍSICA IV",
+    "CargaHorariaTeorico": 68,
+    "CargaHorariaPratica": null,
+    "ListaPrequisitos": []
+  },
+  {
+    "Id": 38943,
+    "Codigo": "1803.000.237-3",
+    "Tipo": "OPT",
+    "Descricao": "FUNÇÕES DE UMA VARIÁVEL COMPLEXA",
+    "Semestre": 99,
+    "Apelido": "FUNÇÕES DE UMA VARIÁVEL COMPLEXA",
+    "CargaHorariaTeorico": 68,
+    "CargaHorariaPratica": null,
+    "ListaPrequisitos": []
+  },
+  {
+    "Id": 38890,
+    "Codigo": "1803.000.207-1",
+    "Tipo": "OPT",
+    "Descricao": "FUNDAMENTOS DE MATEMÁTICA",
+    "Semestre": 99,
+    "Apelido": "FUNDAMENTOS DE MATEMÁTICA",
+    "CargaHorariaTeorico": 68,
+    "CargaHorariaPratica": null,
+    "ListaPrequisitos": []
+  },
+  {
+    "Id": 44048,
+    "Codigo": "1803.000.269-0",
+    "Tipo": "OPT",
+    "Descricao": "FUNDAMENTOS PARA O ENSINO DE MATEMÁTICA",
+    "Semestre": 99,
+    "Apelido": "FUNDAMENTOS PARA O ENSINO DE MATEMÁTICA",
+    "CargaHorariaTeorico": 68,
+    "CargaHorariaPratica": null,
+    "ListaPrequisitos": []
+  },
+  {
+    "Id": 44032,
+    "Codigo": "1803.000.253-8",
+    "Tipo": "OPT",
+    "Descricao": "GEOMETRIA DO ENSINO BÁSICO",
+    "Semestre": 99,
+    "Apelido": "GEOMETRIA DO ENSINO BÁSICO",
+    "CargaHorariaTeorico": 68,
+    "CargaHorariaPratica": null,
+    "ListaPrequisitos": []
+  },
+  {
+    "Id": 33549,
+    "Codigo": "1803.000.013-3",
+    "Tipo": "OPT",
+    "Descricao": "HISTÓRIA DA EDUCAÇÃO",
+    "Semestre": 99,
+    "Apelido": "HISTÓRIA DA EDUCAÇÃO",
+    "CargaHorariaTeorico": 68,
+    "CargaHorariaPratica": null,
+    "ListaPrequisitos": []
+  },
+  {
+    "Id": 33534,
+    "Codigo": "1803.000.003-6",
+    "Tipo": "OPT",
+    "Descricao": "INTRODUÇÃO À METODOLOGIA CIENTÍFICA",
+    "Semestre": 99,
+    "Apelido": "INTRODUÇÃO À METODOLOGIA CIENTÍFICA",
+    "CargaHorariaTeorico": 68,
+    "CargaHorariaPratica": null,
+    "ListaPrequisitos": []
+  },
+  {
+    "Id": 33587,
+    "Codigo": "1803.000.051-6",
+    "Tipo": "OPT",
+    "Descricao": "INTRODUÇÃO A MODELAGEM MATEMÁTICA",
+    "Semestre": 99,
+    "Apelido": "INTRODUÇÃO A MODELAGEM MATEMÁTICA",
+    "CargaHorariaTeorico": 68,
+    "CargaHorariaPratica": null,
+    "ListaPrequisitos": []
+  },
+  {
+    "Id": 38945,
+    "Codigo": "1803.000.239-0",
+    "Tipo": "OPT",
+    "Descricao": "INTRODUÇÃO ÀS EQUAÇÕES DIFERENCIAIS PARCIAIS",
+    "Semestre": 99,
+    "Apelido": "INTRODUÇÃO ÀS EQUAÇÕES DIFERENCIAIS PARCIAIS",
+    "CargaHorariaTeorico": 68,
+    "CargaHorariaPratica": null,
+    "ListaPrequisitos": []
+  },
+  {
+    "Id": 44035,
+    "Codigo": "1803.000.256-5",
+    "Tipo": "OPT",
+    "Descricao": "INTRODUÇÃO A TEORIA DOS NÚMEROS",
+    "Semestre": 99,
+    "Apelido": "INTRODUÇÃO A TEORIA DOS NÚMEROS",
+    "CargaHorariaTeorico": 68,
+    "CargaHorariaPratica": null,
+    "ListaPrequisitos": []
+  },
+  {
+    "Id": 38947,
+    "Codigo": "1803.000.240-3",
+    "Tipo": "OPT",
+    "Descricao": "LABORATÓRIO DE SUPORTE ÀS DISCIPLINAS BÁSICAS DE MATEMÁTICA",
+    "Semestre": 99,
+    "Apelido": "LABORATÓRIO DE SUPORTE ÀS DISCIPLINAS BÁSICAS DE MATEMÁTICA",
+    "CargaHorariaTeorico": 34,
+    "CargaHorariaPratica": null,
+    "ListaPrequisitos": []
+  },
+  {
+    "Id": 30796,
+    "Codigo": "1802.000.182-0",
+    "Tipo": "OPT",
+    "Descricao": "LÍNGUA PORTUGUESA",
+    "Semestre": 99,
+    "Apelido": "LÍNGUA PORTUGUESA",
+    "CargaHorariaTeorico": 68,
+    "CargaHorariaPratica": null,
+    "ListaPrequisitos": []
+  },
+  {
+    "Id": 37467,
+    "Codigo": "1803.000.068-0",
+    "Tipo": "OPT",
+    "Descricao": "MATEMÁTICA ELEMENTAR",
+    "Semestre": 99,
+    "Apelido": "MATEMÁTICA ELEMENTAR",
+    "CargaHorariaTeorico": 102,
+    "CargaHorariaPratica": null,
+    "ListaPrequisitos": []
+  },
+  {
+    "Id": 38949,
+    "Codigo": "1803.000.241-1",
+    "Tipo": "OPT",
+    "Descricao": "MATEMÁTICA FINANCEIRA",
+    "Semestre": 99,
+    "Apelido": "MATEMÁTICA FINANCEIRA",
+    "CargaHorariaTeorico": 68,
+    "CargaHorariaPratica": null,
+    "ListaPrequisitos": []
+  },
+  {
+    "Id": 33555,
+    "Codigo": "1803.000.019-2",
+    "Tipo": "OPT",
+    "Descricao": "PLANEJAMENTO E PROJETOS EDUCACIONAIS",
+    "Semestre": 99,
+    "Apelido": "PLANEJAMENTO E PROJETOS EDUCACIONAIS",
+    "CargaHorariaTeorico": 68,
+    "CargaHorariaPratica": null,
+    "ListaPrequisitos": []
+  },
+  {
+    "Id": 33599,
+    "Codigo": "1803.000.063-0",
+    "Tipo": "OPT",
+    "Descricao": "POLÍTICA DE INCLUSÃO NAS RELAÇÕES SOCIAIS",
+    "Semestre": 99,
+    "Apelido": "POLÍTICA DE INCLUSÃO NAS RELAÇÕES SOCIAIS",
+    "CargaHorariaTeorico": 68,
+    "CargaHorariaPratica": null,
+    "ListaPrequisitos": []
+  },
+  {
+    "Id": 33559,
+    "Codigo": "1803.000.023-0",
+    "Tipo": "OPT",
+    "Descricao": "POLÍTICAS EDUCACIONAIS E FORMAÇÃO DE PROFESSORES",
+    "Semestre": 99,
+    "Apelido": "POLÍTICAS EDUCACIONAIS E FORMAÇÃO DE PROFESSORES",
+    "CargaHorariaTeorico": 68,
+    "CargaHorariaPratica": null,
+    "ListaPrequisitos": []
+  },
+  {
+    "Id": 37488,
+    "Codigo": "1803.000.078-8",
+    "Tipo": "OPT",
+    "Descricao": "PROBABILIDADE E ESTATÍSTICA",
+    "Semestre": 99,
+    "Apelido": "PROBABILIDADE E ESTATÍSTICA",
+    "CargaHorariaTeorico": 68,
+    "CargaHorariaPratica": null,
+    "ListaPrequisitos": []
+  },
+  {
+    "Id": 44046,
+    "Codigo": "1803.000.267-2",
+    "Tipo": "OPT",
+    "Descricao": "PROFISSÃO DOCENTE: IDENTIDADE, CARREIRA E DESENVOLVIMENTO PROFISSIONAL",
+    "Semestre": 99,
+    "Apelido": "PROFISSÃO DOCENTE: IDENTIDADE, CARREIRA E DESENVOLVIMENTO PROFISSIONAL",
+    "CargaHorariaTeorico": 68,
+    "CargaHorariaPratica": null,
+    "ListaPrequisitos": []
+  },
+  {
+    "Id": 44031,
+    "Codigo": "1803.000.252-9",
+    "Tipo": "OPT",
+    "Descricao": "RESOLUÇÃO DE PROBLEMAS NO ENSINO DE MATEMÁTICA",
+    "Semestre": 99,
+    "Apelido": "RESOLUÇÃO DE PROBLEMAS NO ENSINO DE MATEMÁTICA",
+    "CargaHorariaTeorico": 68,
+    "CargaHorariaPratica": null,
+    "ListaPrequisitos": []
+  },
+  {
+    "Id": 44034,
+    "Codigo": "1803.000.255-6",
+    "Tipo": "OPT",
+    "Descricao": "SEMINÁRIO DE PESQUISA I",
+    "Semestre": 99,
+    "Apelido": "SEMINÁRIO DE PESQUISA I",
+    "CargaHorariaTeorico": 34,
+    "CargaHorariaPratica": null,
+    "ListaPrequisitos": []
+  },
+  {
+    "Id": 44030,
+    "Codigo": "1803.000.251-0",
+    "Tipo": "OPT",
+    "Descricao": "SEMINÁRIO DE PESQUISA II",
+    "Semestre": 99,
+    "Apelido": "SEMINÁRIO DE PESQUISA II",
+    "CargaHorariaTeorico": 68,
+    "CargaHorariaPratica": null,
+    "ListaPrequisitos": []
+  },
+  {
+    "Id": 33550,
+    "Codigo": "1803.000.014-1",
+    "Tipo": "OPT",
+    "Descricao": "SOCIOLOGIA",
+    "Semestre": 99,
+    "Apelido": "SOCIOLOGIA",
+    "CargaHorariaTeorico": 68,
+    "CargaHorariaPratica": null,
+    "ListaPrequisitos": []
+  },
+  {
+    "Id": 38951,
+    "Codigo": "1803.000.242-0",
+    "Tipo": "OPT",
+    "Descricao": "TÓPICOS DE ÁLGEBRA MODERNA",
+    "Semestre": 99,
+    "Apelido": "TÓPICOS DE ÁLGEBRA MODERNA",
+    "CargaHorariaTeorico": 68,
+    "CargaHorariaPratica": null,
+    "ListaPrequisitos": []
+  },
+  {
+    "Id": 38953,
+    "Codigo": "1803.000.243-8",
+    "Tipo": "OPT",
+    "Descricao": "TÓPICOS DE ANÁLISE MATEMÁTICA",
+    "Semestre": 99,
+    "Apelido": "TÓPICOS DE ANÁLISE MATEMÁTICA",
+    "CargaHorariaTeorico": 68,
+    "CargaHorariaPratica": null,
+    "ListaPrequisitos": []
+  },
+  {
+    "Id": 44033,
+    "Codigo": "1803.000.254-7",
+    "Tipo": "OPT",
+    "Descricao": "TÓPICOS EM MATEMÁTICA BÁSICA",
+    "Semestre": 99,
+    "Apelido": "TÓPICOS EM MATEMÁTICA BÁSICA",
+    "CargaHorariaTeorico": 68,
+    "CargaHorariaPratica": null,
+    "ListaPrequisitos": []
+  },
+  {
+    "Id": 44044,
+    "Codigo": "1803.000.265-4",
+    "Tipo": "OPT",
+    "Descricao": "TÓPICOS EM MODELAGEM COMPUTACIONAL",
+    "Semestre": 99,
+    "Apelido": "TÓPICOS EM MODELAGEM COMPUTACIONAL",
+    "CargaHorariaTeorico": 68,
+    "CargaHorariaPratica": null,
+    "ListaPrequisitos": []
+  },
+  {
+    "Id": 44036,
+    "Codigo": "1803.000.257-4",
+    "Tipo": "OPT",
+    "Descricao": "TÓPICOS NO ENSINO DE FÍSICA",
+    "Semestre": 99,
+    "Apelido": "TÓPICOS NO ENSINO DE FÍSICA",
+    "CargaHorariaTeorico": 68,
+    "CargaHorariaPratica": null,
+    "ListaPrequisitos": []
+  }
+]

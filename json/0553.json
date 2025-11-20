@@ -1,0 +1,1619 @@
+[
+  {
+    "Id": 49980,
+    "Codigo": "0510.001.717-1",
+    "Tipo": "OBR",
+    "Descricao": "CONCEITOS PARA O ENSINO DE PROBABILIDADE E ESTATÍSTICA",
+    "Semestre": 1,
+    "Apelido": "CONCEITOS PARA O ENSINO DE PROBABILIDADE E ESTATÍSTICA",
+    "CargaHorariaTeorico": 68,
+    "CargaHorariaPratica": null,
+    "ListaPrequisitos": []
+  },
+  {
+    "Id": 49972,
+    "Codigo": "0510.001.709-1",
+    "Tipo": "OBR",
+    "Descricao": "ELEMENTOS PARA O ENSINO DE NÚMEROS E OPERAÇÕES",
+    "Semestre": 1,
+    "Apelido": "ELEMENTOS PARA O ENSINO DE NÚMEROS E OPERAÇÕES",
+    "CargaHorariaTeorico": 68,
+    "CargaHorariaPratica": null,
+    "ListaPrequisitos": []
+  },
+  {
+    "Id": 49978,
+    "Codigo": "0510.001.715-3",
+    "Tipo": "OBR",
+    "Descricao": "FUNDAMENTOS HISTÓRICOS, SOCIOLÓGICOS E FILOSÓFICOS DA EDUCAÇÃO",
+    "Semestre": 1,
+    "Apelido": "FUNDAMENTOS HISTÓRICOS, SOCIOLÓGICOS E FILOSÓFICOS DA EDUCAÇÃO",
+    "CargaHorariaTeorico": 51,
+    "CargaHorariaPratica": null,
+    "ListaPrequisitos": []
+  },
+  {
+    "Id": 36195,
+    "Codigo": "0510.000.493-9",
+    "Tipo": "OBR",
+    "Descricao": "MATEMÁTICA NA EDUCAÇÃO BÁSICA I",
+    "Semestre": 1,
+    "Apelido": "MATEMÁTICA NA EDUCAÇÃO BÁSICA I",
+    "CargaHorariaTeorico": 68,
+    "CargaHorariaPratica": null,
+    "ListaPrequisitos": []
+  },
+  {
+    "Id": 43554,
+    "Codigo": "0510.000.996-6",
+    "Tipo": "OBR",
+    "Descricao": "PSICOLOGIA E EDUCAÇÃO",
+    "Semestre": 1,
+    "Apelido": "PSICOLOGIA E EDUCAÇÃO",
+    "CargaHorariaTeorico": 51,
+    "CargaHorariaPratica": null,
+    "ListaPrequisitos": []
+  },
+  {
+    "Id": 49966,
+    "Codigo": "0510.001.703-7",
+    "Tipo": "OBR",
+    "Descricao": "RACIOCÍNIO LÓGICO NA EDUCAÇÃO BÁSICA",
+    "Semestre": 1,
+    "Apelido": "RACIOCÍNIO LÓGICO NA EDUCAÇÃO BÁSICA",
+    "CargaHorariaTeorico": 68,
+    "CargaHorariaPratica": null,
+    "ListaPrequisitos": []
+  },
+  {
+    "Id": 49979,
+    "Codigo": "0510.001.716-2",
+    "Tipo": "OBR",
+    "Descricao": "ÁLGEBRA NA EDUCAÇÃO BÁSICA",
+    "Semestre": 2,
+    "Apelido": "ÁLGEBRA NA EDUCAÇÃO BÁSICA",
+    "CargaHorariaTeorico": 68,
+    "CargaHorariaPratica": null,
+    "ListaPrequisitos": []
+  },
+  {
+    "Id": 43570,
+    "Codigo": "0510.001.012-5",
+    "Tipo": "OBR",
+    "Descricao": "EDUCAÇÃO ESPECIAL",
+    "Semestre": 2,
+    "Apelido": "EDUCAÇÃO ESPECIAL",
+    "CargaHorariaTeorico": 51,
+    "CargaHorariaPratica": null,
+    "ListaPrequisitos": []
+  },
+  {
+    "Id": 43573,
+    "Codigo": "0510.001.015-2",
+    "Tipo": "OBR",
+    "Descricao": "ESTUDO DE LIBRAS",
+    "Semestre": 2,
+    "Apelido": "ESTUDO DE LIBRAS",
+    "CargaHorariaTeorico": 51,
+    "CargaHorariaPratica": null,
+    "ListaPrequisitos": []
+  },
+  {
+    "Id": 49973,
+    "Codigo": "0510.001.710-8",
+    "Tipo": "OBR",
+    "Descricao": "FUNDAMENTOS E METODOLOGIAS PARA O ENSINO DE FUNÇÕES",
+    "Semestre": 2,
+    "Apelido": "FUNDAMENTOS E METODOLOGIAS PARA O ENSINO DE FUNÇÕES",
+    "CargaHorariaTeorico": 68,
+    "CargaHorariaPratica": null,
+    "ListaPrequisitos": []
+  },
+  {
+    "Id": 49967,
+    "Codigo": "0510.001.704-6",
+    "Tipo": "OBR",
+    "Descricao": "FUNDAMENTOS PARA O ENSINO DE GEOMETRIA, GRANDEZAS E MEDIDAS",
+    "Semestre": 2,
+    "Apelido": "FUNDAMENTOS PARA O ENSINO DE GEOMETRIA, GRANDEZAS E MEDIDAS",
+    "CargaHorariaTeorico": 68,
+    "CargaHorariaPratica": null,
+    "ListaPrequisitos": []
+  },
+  {
+    "Id": 36199,
+    "Codigo": "0510.000.497-1",
+    "Tipo": "OBR",
+    "Descricao": "MATEMÁTICA NA EDUCAÇÃO BÁSICA II",
+    "Semestre": 2,
+    "Apelido": "MATEMÁTICA NA EDUCAÇÃO BÁSICA II",
+    "CargaHorariaTeorico": 68,
+    "CargaHorariaPratica": null,
+    "ListaPrequisitos": []
+  },
+  {
+    "Id": 49970,
+    "Codigo": "0510.001.707-3",
+    "Tipo": "OBR",
+    "Descricao": "CÁLCULO I",
+    "Semestre": 3,
+    "Apelido": "CÁLCULO I",
+    "CargaHorariaTeorico": 68,
+    "CargaHorariaPratica": null,
+    "ListaPrequisitos": [
+      {
+        "Id": 49973,
+        "Codigo": "0510.001.710-8",
+        "Descricao": "FUNDAMENTOS E METODOLOGIAS PARA O ENSINO DE FUNÇÕES",
+        "Semestre": "0",
+        "Apelido": "FUNDAMENTOS E METODOLOGIAS PARA O ENSINO DE FUNÇÕES",
+        "CargaHorariaTeorico": 0,
+        "CargaHorariaPratica": 0,
+        "ListaPrequisitos": []
+      }
+    ]
+  },
+  {
+    "Id": 49975,
+    "Codigo": "0510.001.712-6",
+    "Tipo": "OBR",
+    "Descricao": "LEITURA E PRODUÇÃO DE TEXTOS",
+    "Semestre": 3,
+    "Apelido": "LEITURA E PRODUÇÃO DE TEXTOS",
+    "CargaHorariaTeorico": 68,
+    "CargaHorariaPratica": null,
+    "ListaPrequisitos": []
+  },
+  {
+    "Id": 49958,
+    "Codigo": "0510.001.695-1",
+    "Tipo": "OBR",
+    "Descricao": "LÓGICA MATEMÁTICA",
+    "Semestre": 3,
+    "Apelido": "LÓGICA MATEMÁTICA",
+    "CargaHorariaTeorico": 68,
+    "CargaHorariaPratica": null,
+    "ListaPrequisitos": []
+  },
+  {
+    "Id": 49955,
+    "Codigo": "0510.001.692-4",
+    "Tipo": "OBR",
+    "Descricao": "MATEMÁTICA DISCRETA",
+    "Semestre": 3,
+    "Apelido": "MATEMÁTICA DISCRETA",
+    "CargaHorariaTeorico": 68,
+    "CargaHorariaPratica": null,
+    "ListaPrequisitos": []
+  },
+  {
+    "Id": 49954,
+    "Codigo": "0510.001.691-5",
+    "Tipo": "OBR",
+    "Descricao": "PRÁTICA DE ENSINO I",
+    "Semestre": 3,
+    "Apelido": "PRÁTICA DE ENSINO I",
+    "CargaHorariaTeorico": 34,
+    "CargaHorariaPratica": null,
+    "ListaPrequisitos": []
+  },
+  {
+    "Id": 49959,
+    "Codigo": "0510.001.696-0",
+    "Tipo": "OBR",
+    "Descricao": "TRIGONOMETRIA E NÚMEROS COMPLEXOS",
+    "Semestre": 3,
+    "Apelido": "TRIGONOMETRIA E NÚMEROS COMPLEXOS",
+    "CargaHorariaTeorico": 68,
+    "CargaHorariaPratica": null,
+    "ListaPrequisitos": []
+  },
+  {
+    "Id": 36207,
+    "Codigo": "0510.000.505-6",
+    "Tipo": "OBR",
+    "Descricao": "CÁLCULO II",
+    "Semestre": 4,
+    "Apelido": "CÁLCULO II",
+    "CargaHorariaTeorico": 68,
+    "CargaHorariaPratica": null,
+    "ListaPrequisitos": [
+      {
+        "Id": 49970,
+        "Codigo": "0510.001.707-3",
+        "Descricao": "CÁLCULO I",
+        "Semestre": "0",
+        "Apelido": "CÁLCULO I",
+        "CargaHorariaTeorico": 0,
+        "CargaHorariaPratica": 0,
+        "ListaPrequisitos": []
+      }
+    ]
+  },
+  {
+    "Id": 49961,
+    "Codigo": "0510.001.698-9",
+    "Tipo": "OBR",
+    "Descricao": "DESENVOLVIMENTO PROFISSIONAL DOCENTE",
+    "Semestre": 4,
+    "Apelido": "DESENVOLVIMENTO PROFISSIONAL DOCENTE",
+    "CargaHorariaTeorico": 34,
+    "CargaHorariaPratica": null,
+    "ListaPrequisitos": []
+  },
+  {
+    "Id": 43569,
+    "Codigo": "0510.001.011-6",
+    "Tipo": "OBR",
+    "Descricao": "FUNDAMENTOS DE DIDÁTICA",
+    "Semestre": 4,
+    "Apelido": "FUNDAMENTOS DE DIDÁTICA",
+    "CargaHorariaTeorico": 51,
+    "CargaHorariaPratica": null,
+    "ListaPrequisitos": []
+  },
+  {
+    "Id": 45878,
+    "Codigo": "0510.001.285-4",
+    "Tipo": "OBR",
+    "Descricao": "GEOMETRIA PLANA",
+    "Semestre": 4,
+    "Apelido": "GEOMETRIA PLANA",
+    "CargaHorariaTeorico": 102,
+    "CargaHorariaPratica": null,
+    "ListaPrequisitos": []
+  },
+  {
+    "Id": 49956,
+    "Codigo": "0510.001.693-3",
+    "Tipo": "OBR",
+    "Descricao": "VETORES E GEOMETRIA ANALÍTICA",
+    "Semestre": 4,
+    "Apelido": "VETORES E GEOMETRIA ANALÍTICA",
+    "CargaHorariaTeorico": 68,
+    "CargaHorariaPratica": null,
+    "ListaPrequisitos": []
+  },
+  {
+    "Id": 49957,
+    "Codigo": "0510.001.694-2",
+    "Tipo": "OBR",
+    "Descricao": "ÁLGEBRA I",
+    "Semestre": 5,
+    "Apelido": "ÁLGEBRA I",
+    "CargaHorariaTeorico": 85,
+    "CargaHorariaPratica": null,
+    "ListaPrequisitos": [
+      {
+        "Id": 49958,
+        "Codigo": "0510.001.695-1",
+        "Descricao": "LÓGICA MATEMÁTICA",
+        "Semestre": "0",
+        "Apelido": "LÓGICA MATEMÁTICA",
+        "CargaHorariaTeorico": 0,
+        "CargaHorariaPratica": 0,
+        "ListaPrequisitos": []
+      }
+    ]
+  },
+  {
+    "Id": 36209,
+    "Codigo": "0510.000.507-2",
+    "Tipo": "OBR",
+    "Descricao": "ÁLGEBRA LINEAR I",
+    "Semestre": 5,
+    "Apelido": "ÁLGEBRA LINEAR I",
+    "CargaHorariaTeorico": 68,
+    "CargaHorariaPratica": null,
+    "ListaPrequisitos": []
+  },
+  {
+    "Id": 36210,
+    "Codigo": "0510.000.508-0",
+    "Tipo": "OBR",
+    "Descricao": "CÁLCULO III",
+    "Semestre": 5,
+    "Apelido": "CÁLCULO III",
+    "CargaHorariaTeorico": 68,
+    "CargaHorariaPratica": null,
+    "ListaPrequisitos": [
+      {
+        "Id": 49970,
+        "Codigo": "0510.001.707-3",
+        "Descricao": "CÁLCULO I",
+        "Semestre": "0",
+        "Apelido": "CÁLCULO I",
+        "CargaHorariaTeorico": 0,
+        "CargaHorariaPratica": 0,
+        "ListaPrequisitos": []
+      }
+    ]
+  },
+  {
+    "Id": 49963,
+    "Codigo": "0510.001.700-0",
+    "Tipo": "OBR",
+    "Descricao": "ESTÁGIO OBRIGATÓRIO I",
+    "Semestre": 5,
+    "Apelido": "ESTÁGIO OBRIGATÓRIO I",
+    "CargaHorariaTeorico": 100,
+    "CargaHorariaPratica": null,
+    "ListaPrequisitos": [
+      {
+        "Id": 36195,
+        "Codigo": "0510.000.493-9",
+        "Descricao": "MATEMÁTICA NA EDUCAÇÃO BÁSICA I",
+        "Semestre": "0",
+        "Apelido": "MATEMÁTICA NA EDUCAÇÃO BÁSICA I",
+        "CargaHorariaTeorico": 0,
+        "CargaHorariaPratica": 0,
+        "ListaPrequisitos": []
+      }
+    ]
+  },
+  {
+    "Id": 49960,
+    "Codigo": "0510.001.697-0",
+    "Tipo": "OBR",
+    "Descricao": "GEOMETRIA ESPACIAL",
+    "Semestre": 5,
+    "Apelido": "GEOMETRIA ESPACIAL",
+    "CargaHorariaTeorico": 68,
+    "CargaHorariaPratica": null,
+    "ListaPrequisitos": []
+  },
+  {
+    "Id": 45869,
+    "Codigo": "0510.001.276-5",
+    "Tipo": "OBR",
+    "Descricao": "METODOLOGIAS PARA O ENSINO DE MATEMÁTICA",
+    "Semestre": 5,
+    "Apelido": "METODOLOGIAS PARA O ENSINO DE MATEMÁTICA",
+    "CargaHorariaTeorico": 68,
+    "CargaHorariaPratica": null,
+    "ListaPrequisitos": []
+  },
+  {
+    "Id": 49976,
+    "Codigo": "0510.001.713-5",
+    "Tipo": "OBR",
+    "Descricao": "ÁLGEBRA II",
+    "Semestre": 6,
+    "Apelido": "ÁLGEBRA II",
+    "CargaHorariaTeorico": 102,
+    "CargaHorariaPratica": null,
+    "ListaPrequisitos": [
+      {
+        "Id": 49957,
+        "Codigo": "0510.001.694-2",
+        "Descricao": "ÁLGEBRA I",
+        "Semestre": "0",
+        "Apelido": "ÁLGEBRA I",
+        "CargaHorariaTeorico": 0,
+        "CargaHorariaPratica": 0,
+        "ListaPrequisitos": []
+      }
+    ]
+  },
+  {
+    "Id": 45868,
+    "Codigo": "0510.001.275-6",
+    "Tipo": "OBR",
+    "Descricao": "ÁLGEBRA LINEAR II",
+    "Semestre": 6,
+    "Apelido": "ÁLGEBRA LINEAR II",
+    "CargaHorariaTeorico": 68,
+    "CargaHorariaPratica": null,
+    "ListaPrequisitos": [
+      {
+        "Id": 36209,
+        "Codigo": "0510.000.507-2",
+        "Descricao": "ÁLGEBRA LINEAR I",
+        "Semestre": "0",
+        "Apelido": "ÁLGEBRA LINEAR I",
+        "CargaHorariaTeorico": 0,
+        "CargaHorariaPratica": 0,
+        "ListaPrequisitos": []
+      }
+    ]
+  },
+  {
+    "Id": 49964,
+    "Codigo": "0510.001.701-9",
+    "Tipo": "OBR",
+    "Descricao": "ESTÁGIO OBRIGATÓRIO II",
+    "Semestre": 6,
+    "Apelido": "ESTÁGIO OBRIGATÓRIO II",
+    "CargaHorariaTeorico": 100,
+    "CargaHorariaPratica": null,
+    "ListaPrequisitos": [
+      {
+        "Id": 36195,
+        "Codigo": "0510.000.493-9",
+        "Descricao": "MATEMÁTICA NA EDUCAÇÃO BÁSICA I",
+        "Semestre": "0",
+        "Apelido": "MATEMÁTICA NA EDUCAÇÃO BÁSICA I",
+        "CargaHorariaTeorico": 0,
+        "CargaHorariaPratica": 0,
+        "ListaPrequisitos": []
+      }
+    ]
+  },
+  {
+    "Id": 36216,
+    "Codigo": "0510.000.513-7",
+    "Tipo": "OBR",
+    "Descricao": "INFERÊNCIA ESTATÍSTICA",
+    "Semestre": 6,
+    "Apelido": "INFERÊNCIA ESTATÍSTICA",
+    "CargaHorariaTeorico": 68,
+    "CargaHorariaPratica": null,
+    "ListaPrequisitos": [
+      {
+        "Id": 49980,
+        "Codigo": "0510.001.717-1",
+        "Descricao": "CONCEITOS PARA O ENSINO DE PROBABILIDADE E ESTATÍSTICA",
+        "Semestre": "0",
+        "Apelido": "CONCEITOS PARA O ENSINO DE PROBABILIDADE E ESTATÍSTICA",
+        "CargaHorariaTeorico": 0,
+        "CargaHorariaPratica": 0,
+        "ListaPrequisitos": []
+      }
+    ]
+  },
+  {
+    "Id": 45880,
+    "Codigo": "0510.001.287-2",
+    "Tipo": "OBR",
+    "Descricao": "INTRODUÇÃO À METODOLOGIA CIENTÍFICA",
+    "Semestre": 6,
+    "Apelido": "INTRODUÇÃO À METODOLOGIA CIENTÍFICA",
+    "CargaHorariaTeorico": 68,
+    "CargaHorariaPratica": null,
+    "ListaPrequisitos": []
+  },
+  {
+    "Id": 49971,
+    "Codigo": "0510.001.708-2",
+    "Tipo": "OBR",
+    "Descricao": "ORGANIZAÇÃO CURRICULAR E GESTÃO DA ESCOLA",
+    "Semestre": 6,
+    "Apelido": "ORGANIZAÇÃO CURRICULAR E GESTÃO DA ESCOLA",
+    "CargaHorariaTeorico": 68,
+    "CargaHorariaPratica": null,
+    "ListaPrequisitos": []
+  },
+  {
+    "Id": 49962,
+    "Codigo": "0510.001.699-8",
+    "Tipo": "OBR",
+    "Descricao": "ESTÁGIO OBRIGATÓRIO III",
+    "Semestre": 7,
+    "Apelido": "ESTÁGIO OBRIGATÓRIO III",
+    "CargaHorariaTeorico": 100,
+    "CargaHorariaPratica": null,
+    "ListaPrequisitos": [
+      {
+        "Id": 49973,
+        "Codigo": "0510.001.710-8",
+        "Descricao": "FUNDAMENTOS E METODOLOGIAS PARA O ENSINO DE FUNÇÕES",
+        "Semestre": "0",
+        "Apelido": "FUNDAMENTOS E METODOLOGIAS PARA O ENSINO DE FUNÇÕES",
+        "CargaHorariaTeorico": 0,
+        "CargaHorariaPratica": 0,
+        "ListaPrequisitos": []
+      }
+    ]
+  },
+  {
+    "Id": 36220,
+    "Codigo": "0510.000.517-0",
+    "Tipo": "OBR",
+    "Descricao": "FÍSICA I",
+    "Semestre": 7,
+    "Apelido": "FÍSICA I",
+    "CargaHorariaTeorico": 68,
+    "CargaHorariaPratica": null,
+    "ListaPrequisitos": [
+      {
+        "Id": 49970,
+        "Codigo": "0510.001.707-3",
+        "Descricao": "CÁLCULO I",
+        "Semestre": "0",
+        "Apelido": "CÁLCULO I",
+        "CargaHorariaTeorico": 0,
+        "CargaHorariaPratica": 0,
+        "ListaPrequisitos": []
+      }
+    ]
+  },
+  {
+    "Id": 49977,
+    "Codigo": "0510.001.714-4",
+    "Tipo": "OBR",
+    "Descricao": "HISTÓRIA DA MATEMÁTICA",
+    "Semestre": 7,
+    "Apelido": "HISTÓRIA DA MATEMÁTICA",
+    "CargaHorariaTeorico": 68,
+    "CargaHorariaPratica": null,
+    "ListaPrequisitos": []
+  },
+  {
+    "Id": 49968,
+    "Codigo": "0510.001.705-5",
+    "Tipo": "OBR",
+    "Descricao": "INTRODUÇÃO À ANÁLISE REAL",
+    "Semestre": 7,
+    "Apelido": "INTRODUÇÃO À ANÁLISE REAL",
+    "CargaHorariaTeorico": 68,
+    "CargaHorariaPratica": null,
+    "ListaPrequisitos": [
+      {
+        "Id": 49970,
+        "Codigo": "0510.001.707-3",
+        "Descricao": "CÁLCULO I",
+        "Semestre": "0",
+        "Apelido": "CÁLCULO I",
+        "CargaHorariaTeorico": 0,
+        "CargaHorariaPratica": 0,
+        "ListaPrequisitos": []
+      }
+    ]
+  },
+  {
+    "Id": 45875,
+    "Codigo": "0510.001.282-7",
+    "Tipo": "OBR",
+    "Descricao": "INTRODUÇÃO AO SOFTWARE MATEMÁTICO",
+    "Semestre": 7,
+    "Apelido": "INTRODUÇÃO AO SOFTWARE MATEMÁTICO",
+    "CargaHorariaTeorico": 68,
+    "CargaHorariaPratica": null,
+    "ListaPrequisitos": []
+  },
+  {
+    "Id": 43556,
+    "Codigo": "0510.000.998-4",
+    "Tipo": "OBR",
+    "Descricao": "POLÍTICAS EDUCACIONAIS",
+    "Semestre": 7,
+    "Apelido": "POLÍTICAS EDUCACIONAIS",
+    "CargaHorariaTeorico": 51,
+    "CargaHorariaPratica": null,
+    "ListaPrequisitos": []
+  },
+  {
+    "Id": 45877,
+    "Codigo": "0510.001.284-5",
+    "Tipo": "OBR",
+    "Descricao": "CÁLCULO IV",
+    "Semestre": 8,
+    "Apelido": "CÁLCULO IV",
+    "CargaHorariaTeorico": 102,
+    "CargaHorariaPratica": null,
+    "ListaPrequisitos": [
+      {
+        "Id": 36207,
+        "Codigo": "0510.000.505-6",
+        "Descricao": "CÁLCULO II",
+        "Semestre": "0",
+        "Apelido": "CÁLCULO II",
+        "CargaHorariaTeorico": 0,
+        "CargaHorariaPratica": 0,
+        "ListaPrequisitos": []
+      }
+    ]
+  },
+  {
+    "Id": 45881,
+    "Codigo": "0510.001.288-1",
+    "Tipo": "OBR",
+    "Descricao": "ENSINO E APRENDIZAGEM EM MATEMÁTICA",
+    "Semestre": 8,
+    "Apelido": "ENSINO E APRENDIZAGEM EM MATEMÁTICA",
+    "CargaHorariaTeorico": 68,
+    "CargaHorariaPratica": null,
+    "ListaPrequisitos": []
+  },
+  {
+    "Id": 49974,
+    "Codigo": "0510.001.711-7",
+    "Tipo": "OBR",
+    "Descricao": "ESTÁGIO OBRIGATÓRIO IV",
+    "Semestre": 8,
+    "Apelido": "ESTÁGIO OBRIGATÓRIO IV",
+    "CargaHorariaTeorico": 100,
+    "CargaHorariaPratica": null,
+    "ListaPrequisitos": [
+      {
+        "Id": 49955,
+        "Codigo": "0510.001.692-4",
+        "Descricao": "MATEMÁTICA DISCRETA",
+        "Semestre": "0",
+        "Apelido": "MATEMÁTICA DISCRETA",
+        "CargaHorariaTeorico": 0,
+        "CargaHorariaPratica": 0,
+        "ListaPrequisitos": []
+      }
+    ]
+  },
+  {
+    "Id": 36225,
+    "Codigo": "0510.000.521-8",
+    "Tipo": "OBR",
+    "Descricao": "FÍSICA II",
+    "Semestre": 8,
+    "Apelido": "FÍSICA II",
+    "CargaHorariaTeorico": 68,
+    "CargaHorariaPratica": null,
+    "ListaPrequisitos": [
+      {
+        "Id": 49970,
+        "Codigo": "0510.001.707-3",
+        "Descricao": "CÁLCULO I",
+        "Semestre": "0",
+        "Apelido": "CÁLCULO I",
+        "CargaHorariaTeorico": 0,
+        "CargaHorariaPratica": 0,
+        "ListaPrequisitos": []
+      }
+    ]
+  },
+  {
+    "Id": 49969,
+    "Codigo": "0510.001.706-4",
+    "Tipo": "OBR",
+    "Descricao": "PRÁTICA DE ENSINO II",
+    "Semestre": 8,
+    "Apelido": "PRÁTICA DE ENSINO II",
+    "CargaHorariaTeorico": 34,
+    "CargaHorariaPratica": null,
+    "ListaPrequisitos": []
+  },
+  {
+    "Id": 49965,
+    "Codigo": "0510.001.702-8",
+    "Tipo": "OBR",
+    "Descricao": "TECNOLOGIAS DIGITAIS E O ENSINO DE MATEMÁTICA",
+    "Semestre": 8,
+    "Apelido": "TECNOLOGIAS DIGITAIS E O ENSINO DE MATEMÁTICA",
+    "CargaHorariaTeorico": 68,
+    "CargaHorariaPratica": null,
+    "ListaPrequisitos": []
+  },
+  {
+    "Id": 36157,
+    "Codigo": "0510.000.455-6",
+    "Tipo": "OPT",
+    "Descricao": "ÁLGEBRA III",
+    "Semestre": 99,
+    "Apelido": "ÁLGEBRA III",
+    "CargaHorariaTeorico": 68,
+    "CargaHorariaPratica": null,
+    "ListaPrequisitos": []
+  },
+  {
+    "Id": 36158,
+    "Codigo": "0510.000.456-4",
+    "Tipo": "OPT",
+    "Descricao": "ALGORITMOS E PROGRAMAÇÃO I",
+    "Semestre": 99,
+    "Apelido": "ALGORITMOS E PROGRAMAÇÃO I",
+    "CargaHorariaTeorico": 102,
+    "CargaHorariaPratica": null,
+    "ListaPrequisitos": []
+  },
+  {
+    "Id": 36159,
+    "Codigo": "0510.000.457-2",
+    "Tipo": "OPT",
+    "Descricao": "ALGORITMOS E PROGRAMAÇÃO II",
+    "Semestre": 99,
+    "Apelido": "ALGORITMOS E PROGRAMAÇÃO II",
+    "CargaHorariaTeorico": 102,
+    "CargaHorariaPratica": null,
+    "ListaPrequisitos": [
+      {
+        "Id": 36158,
+        "Codigo": "0510.000.456-4",
+        "Descricao": "ALGORITMOS E PROGRAMAÇÃO I",
+        "Semestre": "0",
+        "Apelido": "ALGORITMOS E PROGRAMAÇÃO I",
+        "CargaHorariaTeorico": 0,
+        "CargaHorariaPratica": 0,
+        "ListaPrequisitos": []
+      }
+    ]
+  },
+  {
+    "Id": 36160,
+    "Codigo": "0510.000.458-0",
+    "Tipo": "OPT",
+    "Descricao": "ANÁLISE DE SOFTWARES EDUCATIVOS DE MATEMÁTICA",
+    "Semestre": 99,
+    "Apelido": "ANÁLISE DE SOFTWARES EDUCATIVOS DE MATEMÁTICA",
+    "CargaHorariaTeorico": 51,
+    "CargaHorariaPratica": null,
+    "ListaPrequisitos": []
+  },
+  {
+    "Id": 35671,
+    "Codigo": "0510.000.140-9",
+    "Tipo": "OPT",
+    "Descricao": "BRINQUEDOTECA",
+    "Semestre": 99,
+    "Apelido": "BRINQUEDOTECA",
+    "CargaHorariaTeorico": 51,
+    "CargaHorariaPratica": null,
+    "ListaPrequisitos": []
+  },
+  {
+    "Id": 44505,
+    "Codigo": "0510.001.110-4",
+    "Tipo": "OPT",
+    "Descricao": "CÁLCULO AVANÇADO",
+    "Semestre": 99,
+    "Apelido": "CÁLCULO AVANÇADO",
+    "CargaHorariaTeorico": 68,
+    "CargaHorariaPratica": null,
+    "ListaPrequisitos": [
+      {
+        "Id": 36210,
+        "Codigo": "0510.000.508-0",
+        "Descricao": "CÁLCULO III",
+        "Semestre": "0",
+        "Apelido": "CÁLCULO III",
+        "CargaHorariaTeorico": 0,
+        "CargaHorariaPratica": 0,
+        "ListaPrequisitos": []
+      }
+    ]
+  },
+  {
+    "Id": 36162,
+    "Codigo": "0510.000.460-2",
+    "Tipo": "OPT",
+    "Descricao": "CÁLCULO NA EDUCAÇÃO BÁSICA",
+    "Semestre": 99,
+    "Apelido": "CÁLCULO NA EDUCAÇÃO BÁSICA",
+    "CargaHorariaTeorico": 68,
+    "CargaHorariaPratica": null,
+    "ListaPrequisitos": []
+  },
+  {
+    "Id": 38550,
+    "Codigo": "0510.000.811-0",
+    "Tipo": "OPT",
+    "Descricao": "CÁLCULO NUMÉRICO",
+    "Semestre": 99,
+    "Apelido": "CÁLCULO NUMÉRICO",
+    "CargaHorariaTeorico": 51,
+    "CargaHorariaPratica": null,
+    "ListaPrequisitos": [
+      {
+        "Id": 49970,
+        "Codigo": "0510.001.707-3",
+        "Descricao": "CÁLCULO I",
+        "Semestre": "0",
+        "Apelido": "CÁLCULO I",
+        "CargaHorariaTeorico": 0,
+        "CargaHorariaPratica": 0,
+        "ListaPrequisitos": []
+      }
+    ]
+  },
+  {
+    "Id": 36163,
+    "Codigo": "0510.000.461-0",
+    "Tipo": "OPT",
+    "Descricao": "CURIOSIDADES, JOGOS E RECREAÇÕES MATEMÁTICAS",
+    "Semestre": 99,
+    "Apelido": "CURIOSIDADES, JOGOS E RECREAÇÕES MATEMÁTICAS",
+    "CargaHorariaTeorico": 51,
+    "CargaHorariaPratica": null,
+    "ListaPrequisitos": []
+  },
+  {
+    "Id": 36164,
+    "Codigo": "0510.000.462-9",
+    "Tipo": "OPT",
+    "Descricao": "DESENHO GEOMÉTRICO",
+    "Semestre": 99,
+    "Apelido": "DESENHO GEOMÉTRICO",
+    "CargaHorariaTeorico": 51,
+    "CargaHorariaPratica": null,
+    "ListaPrequisitos": [
+      {
+        "Id": 45878,
+        "Codigo": "0510.001.285-4",
+        "Descricao": "GEOMETRIA PLANA",
+        "Semestre": "0",
+        "Apelido": "GEOMETRIA PLANA",
+        "CargaHorariaTeorico": 0,
+        "CargaHorariaPratica": 0,
+        "ListaPrequisitos": []
+      }
+    ]
+  },
+  {
+    "Id": 36165,
+    "Codigo": "0510.000.463-7",
+    "Tipo": "OPT",
+    "Descricao": "DIDÁTICA FRANCESA",
+    "Semestre": 99,
+    "Apelido": "DIDÁTICA FRANCESA",
+    "CargaHorariaTeorico": 51,
+    "CargaHorariaPratica": null,
+    "ListaPrequisitos": []
+  },
+  {
+    "Id": 44498,
+    "Codigo": "0510.001.103-3",
+    "Tipo": "OPT",
+    "Descricao": "DIFERENÇA, DIVERSIDADE E DIREITOS HUMANOS",
+    "Semestre": 99,
+    "Apelido": "DIFERENÇA, DIVERSIDADE E DIREITOS HUMANOS",
+    "CargaHorariaTeorico": 51,
+    "CargaHorariaPratica": null,
+    "ListaPrequisitos": []
+  },
+  {
+    "Id": 43549,
+    "Codigo": "0510.000.991-0",
+    "Tipo": "OPT",
+    "Descricao": "EDUCAÇÃO DAS RELAÇÕES ÉTNICO-RACIAIS",
+    "Semestre": 99,
+    "Apelido": "EDUCAÇÃO DAS RELAÇÕES ÉTNICO-RACIAIS",
+    "CargaHorariaTeorico": 51,
+    "CargaHorariaPratica": null,
+    "ListaPrequisitos": []
+  },
+  {
+    "Id": 35305,
+    "Codigo": "0510.000.016-0",
+    "Tipo": "OPT",
+    "Descricao": "EDUCAÇÃO DE JOVENS E ADULTOS",
+    "Semestre": 99,
+    "Apelido": "EDUCAÇÃO DE JOVENS E ADULTOS",
+    "CargaHorariaTeorico": 51,
+    "CargaHorariaPratica": null,
+    "ListaPrequisitos": []
+  },
+  {
+    "Id": 43686,
+    "Codigo": "1991.000.004-3",
+    "Tipo": "OPT",
+    "Descricao": "EMPREENDEDORISMO E INOVAÇÃO",
+    "Semestre": 99,
+    "Apelido": "EMPREENDEDORISMO E INOVAÇÃO",
+    "CargaHorariaTeorico": 68,
+    "CargaHorariaPratica": null,
+    "ListaPrequisitos": []
+  },
+  {
+    "Id": 36166,
+    "Codigo": "0510.000.464-5",
+    "Tipo": "OPT",
+    "Descricao": "EQUAÇÕES DIFERENCIAIS ORDINÁRIAS",
+    "Semestre": 99,
+    "Apelido": "EQUAÇÕES DIFERENCIAIS ORDINÁRIAS",
+    "CargaHorariaTeorico": 68,
+    "CargaHorariaPratica": null,
+    "ListaPrequisitos": [
+      {
+        "Id": 49970,
+        "Codigo": "0510.001.707-3",
+        "Descricao": "CÁLCULO I",
+        "Semestre": "0",
+        "Apelido": "CÁLCULO I",
+        "CargaHorariaTeorico": 0,
+        "CargaHorariaPratica": 0,
+        "ListaPrequisitos": []
+      }
+    ]
+  },
+  {
+    "Id": 44508,
+    "Codigo": "0510.001.113-1",
+    "Tipo": "OPT",
+    "Descricao": "EQUAÇÕES DIFERENCIAIS PARCIAIS",
+    "Semestre": 99,
+    "Apelido": "EQUAÇÕES DIFERENCIAIS PARCIAIS",
+    "CargaHorariaTeorico": 68,
+    "CargaHorariaPratica": null,
+    "ListaPrequisitos": [
+      {
+        "Id": 36210,
+        "Codigo": "0510.000.508-0",
+        "Descricao": "CÁLCULO III",
+        "Semestre": "0",
+        "Apelido": "CÁLCULO III",
+        "CargaHorariaTeorico": 0,
+        "CargaHorariaPratica": 0,
+        "ListaPrequisitos": []
+      }
+    ]
+  },
+  {
+    "Id": 36167,
+    "Codigo": "0510.000.465-3",
+    "Tipo": "OPT",
+    "Descricao": "ESPAÇOS MÉTRICOS",
+    "Semestre": 99,
+    "Apelido": "ESPAÇOS MÉTRICOS",
+    "CargaHorariaTeorico": 68,
+    "CargaHorariaPratica": null,
+    "ListaPrequisitos": []
+  },
+  {
+    "Id": 36168,
+    "Codigo": "0510.000.466-1",
+    "Tipo": "OPT",
+    "Descricao": "ESTRUTURA DE DADOS E PROGRAMAÇÃO",
+    "Semestre": 99,
+    "Apelido": "ESTRUTURA DE DADOS E PROGRAMAÇÃO",
+    "CargaHorariaTeorico": 102,
+    "CargaHorariaPratica": null,
+    "ListaPrequisitos": [
+      {
+        "Id": 36159,
+        "Codigo": "0510.000.457-2",
+        "Descricao": "ALGORITMOS E PROGRAMAÇÃO II",
+        "Semestre": "0",
+        "Apelido": "ALGORITMOS E PROGRAMAÇÃO II",
+        "CargaHorariaTeorico": 0,
+        "CargaHorariaPratica": 0,
+        "ListaPrequisitos": []
+      }
+    ]
+  },
+  {
+    "Id": 36169,
+    "Codigo": "0510.000.467-0",
+    "Tipo": "OPT",
+    "Descricao": "EXPERIMENTOS EM FÍSICA",
+    "Semestre": 99,
+    "Apelido": "EXPERIMENTOS EM FÍSICA",
+    "CargaHorariaTeorico": 51,
+    "CargaHorariaPratica": null,
+    "ListaPrequisitos": [
+      {
+        "Id": 36220,
+        "Codigo": "0510.000.517-0",
+        "Descricao": "FÍSICA I",
+        "Semestre": "0",
+        "Apelido": "FÍSICA I",
+        "CargaHorariaTeorico": 0,
+        "CargaHorariaPratica": 0,
+        "ListaPrequisitos": []
+      }
+    ]
+  },
+  {
+    "Id": 35745,
+    "Codigo": "0510.000.214-6",
+    "Tipo": "OPT",
+    "Descricao": "FUNDAMENTOS E METODOLOGIA DO ENSINO DE MATEMÁTICA",
+    "Semestre": 99,
+    "Apelido": "FUNDAMENTOS E METODOLOGIA DO ENSINO DE MATEMÁTICA",
+    "CargaHorariaTeorico": 68,
+    "CargaHorariaPratica": null,
+    "ListaPrequisitos": []
+  },
+  {
+    "Id": 35313,
+    "Codigo": "0510.000.024-0",
+    "Tipo": "OPT",
+    "Descricao": "FUNDAMENTOS SOCIOLÓGICOS DA EDUCAÇÃO",
+    "Semestre": 99,
+    "Apelido": "FUNDAMENTOS SOCIOLÓGICOS DA EDUCAÇÃO",
+    "CargaHorariaTeorico": 51,
+    "CargaHorariaPratica": null,
+    "ListaPrequisitos": []
+  },
+  {
+    "Id": 36170,
+    "Codigo": "0510.000.468-8",
+    "Tipo": "OPT",
+    "Descricao": "GEOMETRIA NA EDUCAÇÃO BÁSICA",
+    "Semestre": 99,
+    "Apelido": "GEOMETRIA NA EDUCAÇÃO BÁSICA",
+    "CargaHorariaTeorico": 68,
+    "CargaHorariaPratica": null,
+    "ListaPrequisitos": []
+  },
+  {
+    "Id": 36171,
+    "Codigo": "0510.000.469-6",
+    "Tipo": "OPT",
+    "Descricao": "INTRODUÇÃO À COMPUTAÇÃO",
+    "Semestre": 99,
+    "Apelido": "INTRODUÇÃO À COMPUTAÇÃO",
+    "CargaHorariaTeorico": 68,
+    "CargaHorariaPratica": null,
+    "ListaPrequisitos": []
+  },
+  {
+    "Id": 36172,
+    "Codigo": "0510.000.470-0",
+    "Tipo": "OPT",
+    "Descricao": "INTRODUÇÃO À FILOSOFIA",
+    "Semestre": 99,
+    "Apelido": "INTRODUÇÃO À FILOSOFIA",
+    "CargaHorariaTeorico": 51,
+    "CargaHorariaPratica": null,
+    "ListaPrequisitos": []
+  },
+  {
+    "Id": 36173,
+    "Codigo": "0510.000.471-8",
+    "Tipo": "OPT",
+    "Descricao": "INTRODUÇÃO AO ELETROMAGNETISMO",
+    "Semestre": 99,
+    "Apelido": "INTRODUÇÃO AO ELETROMAGNETISMO",
+    "CargaHorariaTeorico": 51,
+    "CargaHorariaPratica": null,
+    "ListaPrequisitos": []
+  },
+  {
+    "Id": 43077,
+    "Codigo": "0510.000.965-2",
+    "Tipo": "OPT",
+    "Descricao": "INTRODUÇÃO A SISTEMAS DIGITAIS",
+    "Semestre": 99,
+    "Apelido": "INTRODUÇÃO A SISTEMAS DIGITAIS",
+    "CargaHorariaTeorico": 68,
+    "CargaHorariaPratica": null,
+    "ListaPrequisitos": []
+  },
+  {
+    "Id": 44494,
+    "Codigo": "0510.001.099-4",
+    "Tipo": "OPT",
+    "Descricao": "JOGOS NA PERSPECTIVA DO LETRAMENTO MATEMÁTICO",
+    "Semestre": 99,
+    "Apelido": "JOGOS NA PERSPECTIVA DO LETRAMENTO MATEMÁTICO",
+    "CargaHorariaTeorico": 51,
+    "CargaHorariaPratica": null,
+    "ListaPrequisitos": []
+  },
+  {
+    "Id": 36174,
+    "Codigo": "0510.000.472-6",
+    "Tipo": "OPT",
+    "Descricao": "LABORATÓRIO DE MATEMÁTICA",
+    "Semestre": 99,
+    "Apelido": "LABORATÓRIO DE MATEMÁTICA",
+    "CargaHorariaTeorico": 68,
+    "CargaHorariaPratica": null,
+    "ListaPrequisitos": []
+  },
+  {
+    "Id": 44509,
+    "Codigo": "0510.001.114-0",
+    "Tipo": "OPT",
+    "Descricao": "LETRAMENTO ESTATÍSTICO",
+    "Semestre": 99,
+    "Apelido": "LETRAMENTO ESTATÍSTICO",
+    "CargaHorariaTeorico": 51,
+    "CargaHorariaPratica": null,
+    "ListaPrequisitos": []
+  },
+  {
+    "Id": 43565,
+    "Codigo": "0510.001.007-2",
+    "Tipo": "OPT",
+    "Descricao": "LIBRAS: NOÇÕES BÁSICAS I",
+    "Semestre": 99,
+    "Apelido": "LIBRAS: NOÇÕES BÁSICAS I",
+    "CargaHorariaTeorico": 34,
+    "CargaHorariaPratica": null,
+    "ListaPrequisitos": []
+  },
+  {
+    "Id": 43568,
+    "Codigo": "0510.001.010-7",
+    "Tipo": "OPT",
+    "Descricao": "LIBRAS: NOÇÕES BÁSICAS II",
+    "Semestre": 99,
+    "Apelido": "LIBRAS: NOÇÕES BÁSICAS II",
+    "CargaHorariaTeorico": 34,
+    "CargaHorariaPratica": null,
+    "ListaPrequisitos": []
+  },
+  {
+    "Id": 35769,
+    "Codigo": "0510.000.238-3",
+    "Tipo": "OPT",
+    "Descricao": "MATEMÁTICA FINANCEIRA",
+    "Semestre": 99,
+    "Apelido": "MATEMÁTICA FINANCEIRA",
+    "CargaHorariaTeorico": 68,
+    "CargaHorariaPratica": null,
+    "ListaPrequisitos": []
+  },
+  {
+    "Id": 35695,
+    "Codigo": "0510.000.164-6",
+    "Tipo": "OPT",
+    "Descricao": "MATEMÁTICA NA EDUCAÇÃO INFANTIL",
+    "Semestre": 99,
+    "Apelido": "MATEMÁTICA NA EDUCAÇÃO INFANTIL",
+    "CargaHorariaTeorico": 51,
+    "CargaHorariaPratica": null,
+    "ListaPrequisitos": []
+  },
+  {
+    "Id": 44499,
+    "Codigo": "0510.001.104-2",
+    "Tipo": "OPT",
+    "Descricao": "MATERIAIS E RECURSOS PEDAGÓGICOS NA ESCOLA",
+    "Semestre": 99,
+    "Apelido": "MATERIAIS E RECURSOS PEDAGÓGICOS NA ESCOLA",
+    "CargaHorariaTeorico": 51,
+    "CargaHorariaPratica": null,
+    "ListaPrequisitos": []
+  },
+  {
+    "Id": 44496,
+    "Codigo": "0510.001.101-5",
+    "Tipo": "OPT",
+    "Descricao": "MODELAGEM EM EDUCAÇÃO MATEMÁTICA",
+    "Semestre": 99,
+    "Apelido": "MODELAGEM EM EDUCAÇÃO MATEMÁTICA",
+    "CargaHorariaTeorico": 68,
+    "CargaHorariaPratica": null,
+    "ListaPrequisitos": [
+      {
+        "Id": 49973,
+        "Codigo": "0510.001.710-8",
+        "Descricao": "FUNDAMENTOS E METODOLOGIAS PARA O ENSINO DE FUNÇÕES",
+        "Semestre": "0",
+        "Apelido": "FUNDAMENTOS E METODOLOGIAS PARA O ENSINO DE FUNÇÕES",
+        "CargaHorariaTeorico": 0,
+        "CargaHorariaPratica": 0,
+        "ListaPrequisitos": []
+      }
+    ]
+  },
+  {
+    "Id": 36176,
+    "Codigo": "0510.000.474-2",
+    "Tipo": "OPT",
+    "Descricao": "MODELAGEM ESTATÍSTICA",
+    "Semestre": 99,
+    "Apelido": "MODELAGEM ESTATÍSTICA",
+    "CargaHorariaTeorico": 68,
+    "CargaHorariaPratica": null,
+    "ListaPrequisitos": [
+      {
+        "Id": 49980,
+        "Codigo": "0510.001.717-1",
+        "Descricao": "CONCEITOS PARA O ENSINO DE PROBABILIDADE E ESTATÍSTICA",
+        "Semestre": "0",
+        "Apelido": "CONCEITOS PARA O ENSINO DE PROBABILIDADE E ESTATÍSTICA",
+        "CargaHorariaTeorico": 0,
+        "CargaHorariaPratica": 0,
+        "ListaPrequisitos": []
+      }
+    ]
+  },
+  {
+    "Id": 44493,
+    "Codigo": "0510.001.098-5",
+    "Tipo": "OPT",
+    "Descricao": "MODELAGEM MATEMÁTICA",
+    "Semestre": 99,
+    "Apelido": "MODELAGEM MATEMÁTICA",
+    "CargaHorariaTeorico": 51,
+    "CargaHorariaPratica": null,
+    "ListaPrequisitos": [
+      {
+        "Id": 36207,
+        "Codigo": "0510.000.505-6",
+        "Descricao": "CÁLCULO II",
+        "Semestre": "0",
+        "Apelido": "CÁLCULO II",
+        "CargaHorariaTeorico": 0,
+        "CargaHorariaPratica": 0,
+        "ListaPrequisitos": []
+      }
+    ]
+  },
+  {
+    "Id": 45867,
+    "Codigo": "0510.001.274-7",
+    "Tipo": "OPT",
+    "Descricao": "NÚMEROS IRRACIONAIS E TRANSCENDENTES",
+    "Semestre": 99,
+    "Apelido": "NÚMEROS IRRACIONAIS E TRANSCENDENTES",
+    "CargaHorariaTeorico": 51,
+    "CargaHorariaPratica": null,
+    "ListaPrequisitos": []
+  },
+  {
+    "Id": 44489,
+    "Codigo": "0510.001.094-9",
+    "Tipo": "OPT",
+    "Descricao": "O LÚDICO NO ENSINO DA MATEMÁTICA NA EDUCAÇÃO INFANTIL",
+    "Semestre": 99,
+    "Apelido": "O LÚDICO NO ENSINO DA MATEMÁTICA NA EDUCAÇÃO INFANTIL",
+    "CargaHorariaTeorico": 51,
+    "CargaHorariaPratica": null,
+    "ListaPrequisitos": []
+  },
+  {
+    "Id": 36178,
+    "Codigo": "0510.000.476-9",
+    "Tipo": "OPT",
+    "Descricao": "PESQUISA OPERACIONAL",
+    "Semestre": 99,
+    "Apelido": "PESQUISA OPERACIONAL",
+    "CargaHorariaTeorico": 68,
+    "CargaHorariaPratica": null,
+    "ListaPrequisitos": []
+  },
+  {
+    "Id": 36179,
+    "Codigo": "0510.000.477-7",
+    "Tipo": "OPT",
+    "Descricao": "PRÁTICA DE ENSINO EM FÍSICA",
+    "Semestre": 99,
+    "Apelido": "PRÁTICA DE ENSINO EM FÍSICA",
+    "CargaHorariaTeorico": 68,
+    "CargaHorariaPratica": null,
+    "ListaPrequisitos": []
+  },
+  {
+    "Id": 43550,
+    "Codigo": "0510.000.992-0",
+    "Tipo": "OPT",
+    "Descricao": "PRÁTICAS INTEGRADORAS PARA FORMAÇÃO DOCENTE",
+    "Semestre": 99,
+    "Apelido": "PRÁTICAS INTEGRADORAS PARA FORMAÇÃO DOCENTE",
+    "CargaHorariaTeorico": 68,
+    "CargaHorariaPratica": null,
+    "ListaPrequisitos": []
+  },
+  {
+    "Id": 43824,
+    "Codigo": "0510.001.028-8",
+    "Tipo": "OPT",
+    "Descricao": "PROFISSÃO DOCENTE: IDENTIDADE, CARREIRA E DESENVOLVIMENTO PROFISSIONAL",
+    "Semestre": 99,
+    "Apelido": "PROFISSÃO DOCENTE: IDENTIDADE, CARREIRA E DESENVOLVIMENTO PROFISSIONAL",
+    "CargaHorariaTeorico": 68,
+    "CargaHorariaPratica": null,
+    "ListaPrequisitos": []
+  },
+  {
+    "Id": 35551,
+    "Codigo": "0510.000.097-6",
+    "Tipo": "OPT",
+    "Descricao": "QUÍMICA I",
+    "Semestre": 99,
+    "Apelido": "QUÍMICA I",
+    "CargaHorariaTeorico": 51,
+    "CargaHorariaPratica": null,
+    "ListaPrequisitos": []
+  },
+  {
+    "Id": 35557,
+    "Codigo": "0510.000.103-4",
+    "Tipo": "OPT",
+    "Descricao": "QUÍMICA II",
+    "Semestre": 99,
+    "Apelido": "QUÍMICA II",
+    "CargaHorariaTeorico": 51,
+    "CargaHorariaPratica": null,
+    "ListaPrequisitos": [
+      {
+        "Id": 35551,
+        "Codigo": "0510.000.097-6",
+        "Descricao": "QUÍMICA I",
+        "Semestre": "0",
+        "Apelido": "QUÍMICA I",
+        "CargaHorariaTeorico": 0,
+        "CargaHorariaPratica": 0,
+        "ListaPrequisitos": []
+      }
+    ]
+  },
+  {
+    "Id": 36180,
+    "Codigo": "0510.000.478-5",
+    "Tipo": "OPT",
+    "Descricao": "TEORIA DOS CONJUNTOS",
+    "Semestre": 99,
+    "Apelido": "TEORIA DOS CONJUNTOS",
+    "CargaHorariaTeorico": 51,
+    "CargaHorariaPratica": null,
+    "ListaPrequisitos": []
+  },
+  {
+    "Id": 36181,
+    "Codigo": "0510.000.479-3",
+    "Tipo": "OPT",
+    "Descricao": "TÓPICOS DE EDUCAÇÃO MATEMÁTICA I",
+    "Semestre": 99,
+    "Apelido": "TÓPICOS DE EDUCAÇÃO MATEMÁTICA I",
+    "CargaHorariaTeorico": 34,
+    "CargaHorariaPratica": null,
+    "ListaPrequisitos": []
+  },
+  {
+    "Id": 36182,
+    "Codigo": "0510.000.480-7",
+    "Tipo": "OPT",
+    "Descricao": "TÓPICOS DE EDUCAÇÃO MATEMÁTICA II",
+    "Semestre": 99,
+    "Apelido": "TÓPICOS DE EDUCAÇÃO MATEMÁTICA II",
+    "CargaHorariaTeorico": 51,
+    "CargaHorariaPratica": null,
+    "ListaPrequisitos": []
+  },
+  {
+    "Id": 36183,
+    "Codigo": "0510.000.481-5",
+    "Tipo": "OPT",
+    "Descricao": "TÓPICOS DE EDUCAÇÃO MATEMÁTICA III",
+    "Semestre": 99,
+    "Apelido": "TÓPICOS DE EDUCAÇÃO MATEMÁTICA III",
+    "CargaHorariaTeorico": 68,
+    "CargaHorariaPratica": null,
+    "ListaPrequisitos": []
+  },
+  {
+    "Id": 44504,
+    "Codigo": "0510.001.109-8",
+    "Tipo": "OPT",
+    "Descricao": "TÓPICOS DE EDUCAÇÃO MATEMÁTICA IV",
+    "Semestre": 99,
+    "Apelido": "TÓPICOS DE EDUCAÇÃO MATEMÁTICA IV",
+    "CargaHorariaTeorico": 68,
+    "CargaHorariaPratica": null,
+    "ListaPrequisitos": []
+  },
+  {
+    "Id": 45884,
+    "Codigo": "0510.001.291-6",
+    "Tipo": "OPT",
+    "Descricao": "TÓPICOS DE EDUCAÇÃO MATEMÁTICA IX",
+    "Semestre": 99,
+    "Apelido": "TÓPICOS DE EDUCAÇÃO MATEMÁTICA IX",
+    "CargaHorariaTeorico": 136,
+    "CargaHorariaPratica": null,
+    "ListaPrequisitos": []
+  },
+  {
+    "Id": 44495,
+    "Codigo": "0510.001.100-6",
+    "Tipo": "OPT",
+    "Descricao": "TÓPICOS DE EDUCAÇÃO MATEMÁTICA V",
+    "Semestre": 99,
+    "Apelido": "TÓPICOS DE EDUCAÇÃO MATEMÁTICA V",
+    "CargaHorariaTeorico": 68,
+    "CargaHorariaPratica": null,
+    "ListaPrequisitos": []
+  },
+  {
+    "Id": 44490,
+    "Codigo": "0510.001.095-8",
+    "Tipo": "OPT",
+    "Descricao": "TÓPICOS DE EDUCAÇÃO MATEMÁTICA VI",
+    "Semestre": 99,
+    "Apelido": "TÓPICOS DE EDUCAÇÃO MATEMÁTICA VI",
+    "CargaHorariaTeorico": 68,
+    "CargaHorariaPratica": null,
+    "ListaPrequisitos": []
+  },
+  {
+    "Id": 44497,
+    "Codigo": "0510.001.102-4",
+    "Tipo": "OPT",
+    "Descricao": "TÓPICOS DE EDUCAÇÃO MATEMÁTICA VII",
+    "Semestre": 99,
+    "Apelido": "TÓPICOS DE EDUCAÇÃO MATEMÁTICA VII",
+    "CargaHorariaTeorico": 68,
+    "CargaHorariaPratica": null,
+    "ListaPrequisitos": []
+  },
+  {
+    "Id": 44507,
+    "Codigo": "0510.001.112-2",
+    "Tipo": "OPT",
+    "Descricao": "TÓPICOS DE EDUCAÇÃO MATEMÁTICA VIII",
+    "Semestre": 99,
+    "Apelido": "TÓPICOS DE EDUCAÇÃO MATEMÁTICA VIII",
+    "CargaHorariaTeorico": 68,
+    "CargaHorariaPratica": null,
+    "ListaPrequisitos": []
+  },
+  {
+    "Id": 45887,
+    "Codigo": "0510.001.294-3",
+    "Tipo": "OPT",
+    "Descricao": "TÓPICOS DE EDUCAÇÃO MATEMÁTICA X",
+    "Semestre": 99,
+    "Apelido": "TÓPICOS DE EDUCAÇÃO MATEMÁTICA X",
+    "CargaHorariaTeorico": 136,
+    "CargaHorariaPratica": null,
+    "ListaPrequisitos": []
+  },
+  {
+    "Id": 36184,
+    "Codigo": "0510.000.482-3",
+    "Tipo": "OPT",
+    "Descricao": "TÓPICOS DE FÍSICA",
+    "Semestre": 99,
+    "Apelido": "TÓPICOS DE FÍSICA",
+    "CargaHorariaTeorico": 51,
+    "CargaHorariaPratica": null,
+    "ListaPrequisitos": []
+  },
+  {
+    "Id": 36185,
+    "Codigo": "0510.000.483-1",
+    "Tipo": "OPT",
+    "Descricao": "TÓPICOS DE HISTÓRIA DA MATEMÁTICA",
+    "Semestre": 99,
+    "Apelido": "TÓPICOS DE HISTÓRIA DA MATEMÁTICA",
+    "CargaHorariaTeorico": 51,
+    "CargaHorariaPratica": null,
+    "ListaPrequisitos": []
+  },
+  {
+    "Id": 36186,
+    "Codigo": "0510.000.484-0",
+    "Tipo": "OPT",
+    "Descricao": "TÓPICOS DE MATEMÁTICA I",
+    "Semestre": 99,
+    "Apelido": "TÓPICOS DE MATEMÁTICA I",
+    "CargaHorariaTeorico": 34,
+    "CargaHorariaPratica": null,
+    "ListaPrequisitos": []
+  },
+  {
+    "Id": 36187,
+    "Codigo": "0510.000.485-8",
+    "Tipo": "OPT",
+    "Descricao": "TÓPICOS DE MATEMÁTICA II",
+    "Semestre": 99,
+    "Apelido": "TÓPICOS DE MATEMÁTICA II",
+    "CargaHorariaTeorico": 51,
+    "CargaHorariaPratica": null,
+    "ListaPrequisitos": []
+  },
+  {
+    "Id": 36188,
+    "Codigo": "0510.000.486-6",
+    "Tipo": "OPT",
+    "Descricao": "TÓPICOS DE MATEMÁTICA III",
+    "Semestre": 99,
+    "Apelido": "TÓPICOS DE MATEMÁTICA III",
+    "CargaHorariaTeorico": 68,
+    "CargaHorariaPratica": null,
+    "ListaPrequisitos": []
+  },
+  {
+    "Id": 44501,
+    "Codigo": "0510.001.106-0",
+    "Tipo": "OPT",
+    "Descricao": "TÓPICOS DE MATEMÁTICA IV",
+    "Semestre": 99,
+    "Apelido": "TÓPICOS DE MATEMÁTICA IV",
+    "CargaHorariaTeorico": 68,
+    "CargaHorariaPratica": null,
+    "ListaPrequisitos": []
+  },
+  {
+    "Id": 45874,
+    "Codigo": "0510.001.281-8",
+    "Tipo": "OPT",
+    "Descricao": "TÓPICOS DE MATEMÁTICA IX",
+    "Semestre": 99,
+    "Apelido": "TÓPICOS DE MATEMÁTICA IX",
+    "CargaHorariaTeorico": 136,
+    "CargaHorariaPratica": null,
+    "ListaPrequisitos": []
+  },
+  {
+    "Id": 44500,
+    "Codigo": "0510.001.105-1",
+    "Tipo": "OPT",
+    "Descricao": "TÓPICOS DE MATEMÁTICA V",
+    "Semestre": 99,
+    "Apelido": "TÓPICOS DE MATEMÁTICA V",
+    "CargaHorariaTeorico": 68,
+    "CargaHorariaPratica": null,
+    "ListaPrequisitos": []
+  },
+  {
+    "Id": 44502,
+    "Codigo": "0510.001.107-0",
+    "Tipo": "OPT",
+    "Descricao": "TÓPICOS DE MATEMÁTICA VI",
+    "Semestre": 99,
+    "Apelido": "TÓPICOS DE MATEMÁTICA VI",
+    "CargaHorariaTeorico": 68,
+    "CargaHorariaPratica": null,
+    "ListaPrequisitos": []
+  },
+  {
+    "Id": 44503,
+    "Codigo": "0510.001.108-9",
+    "Tipo": "OPT",
+    "Descricao": "TÓPICOS DE MATEMÁTICA VII",
+    "Semestre": 99,
+    "Apelido": "TÓPICOS DE MATEMÁTICA VII",
+    "CargaHorariaTeorico": 68,
+    "CargaHorariaPratica": null,
+    "ListaPrequisitos": []
+  },
+  {
+    "Id": 44510,
+    "Codigo": "0510.001.115-0",
+    "Tipo": "OPT",
+    "Descricao": "TÓPICOS DE MATEMÁTICA VIII",
+    "Semestre": 99,
+    "Apelido": "TÓPICOS DE MATEMÁTICA VIII",
+    "CargaHorariaTeorico": 68,
+    "CargaHorariaPratica": null,
+    "ListaPrequisitos": []
+  },
+  {
+    "Id": 45871,
+    "Codigo": "0510.001.278-3",
+    "Tipo": "OPT",
+    "Descricao": "TÓPICOS DE MATEMÁTICA X",
+    "Semestre": 99,
+    "Apelido": "TÓPICOS DE MATEMÁTICA X",
+    "CargaHorariaTeorico": 136,
+    "CargaHorariaPratica": null,
+    "ListaPrequisitos": []
+  },
+  {
+    "Id": 43079,
+    "Codigo": "0510.000.967-0",
+    "Tipo": "OPT",
+    "Descricao": "TÓPICOS EM ROBÓTICA",
+    "Semestre": 99,
+    "Apelido": "TÓPICOS EM ROBÓTICA",
+    "CargaHorariaTeorico": 68,
+    "CargaHorariaPratica": null,
+    "ListaPrequisitos": []
+  },
+  {
+    "Id": 36189,
+    "Codigo": "0510.000.487-4",
+    "Tipo": "OPT",
+    "Descricao": "TOPOLOGIA GERAL",
+    "Semestre": 99,
+    "Apelido": "TOPOLOGIA GERAL",
+    "CargaHorariaTeorico": 68,
+    "CargaHorariaPratica": null,
+    "ListaPrequisitos": []
+  },
+  {
+    "Id": 36192,
+    "Codigo": "0510.000.490-4",
+    "Tipo": "OPT",
+    "Descricao": "VARIÁVEIS COMPLEXAS",
+    "Semestre": 99,
+    "Apelido": "VARIÁVEIS COMPLEXAS",
+    "CargaHorariaTeorico": 68,
+    "CargaHorariaPratica": null,
+    "ListaPrequisitos": [
+      {
+        "Id": 49970,
+        "Codigo": "0510.001.707-3",
+        "Descricao": "CÁLCULO I",
+        "Semestre": "0",
+        "Apelido": "CÁLCULO I",
+        "CargaHorariaTeorico": 0,
+        "CargaHorariaPratica": 0,
+        "ListaPrequisitos": []
+      }
+    ]
+  }
+]

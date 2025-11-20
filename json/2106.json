@@ -1,0 +1,1878 @@
+[
+  {
+    "Id": 48016,
+    "Codigo": "2201.000.197-0",
+    "Tipo": "OBR",
+    "Descricao": "CÁLCULO I",
+    "Semestre": 1,
+    "Apelido": "CÁLCULO I",
+    "CargaHorariaTeorico": 68,
+    "CargaHorariaPratica": null,
+    "ListaPrequisitos": []
+  },
+  {
+    "Id": 31586,
+    "Codigo": "2101.000.077-4",
+    "Tipo": "OBR",
+    "Descricao": "CIÊNCIAS DO AMBIENTE",
+    "Semestre": 1,
+    "Apelido": "CIÊNCIAS DO AMBIENTE",
+    "CargaHorariaTeorico": 34,
+    "CargaHorariaPratica": null,
+    "ListaPrequisitos": []
+  },
+  {
+    "Id": 48809,
+    "Codigo": "2101.001.407-3",
+    "Tipo": "OBR",
+    "Descricao": "DESENHO TÉCNICO",
+    "Semestre": 1,
+    "Apelido": "DESENHO TÉCNICO",
+    "CargaHorariaTeorico": 68,
+    "CargaHorariaPratica": null,
+    "ListaPrequisitos": []
+  },
+  {
+    "Id": 46511,
+    "Codigo": "2101.001.400-0",
+    "Tipo": "OBR",
+    "Descricao": "FUNDAMENTOS DE ADMINISTRAÇÃO",
+    "Semestre": 1,
+    "Apelido": "FUNDAMENTOS DE ADMINISTRAÇÃO",
+    "CargaHorariaTeorico": 34,
+    "CargaHorariaPratica": null,
+    "ListaPrequisitos": []
+  },
+  {
+    "Id": 31966,
+    "Codigo": "2101.000.435-4",
+    "Tipo": "OBR",
+    "Descricao": "INTRODUÇÃO À ENGENHARIA DE PRODUÇÃO",
+    "Semestre": 1,
+    "Apelido": "INTRODUÇÃO À ENGENHARIA DE PRODUÇÃO",
+    "CargaHorariaTeorico": 34,
+    "CargaHorariaPratica": null,
+    "ListaPrequisitos": []
+  },
+  {
+    "Id": 50156,
+    "Codigo": "2301.000.406-1",
+    "Tipo": "OBR",
+    "Descricao": "QUÍMICA GERAL",
+    "Semestre": 1,
+    "Apelido": "QUÍMICA GERAL",
+    "CargaHorariaTeorico": 34,
+    "CargaHorariaPratica": null,
+    "ListaPrequisitos": []
+  },
+  {
+    "Id": 49467,
+    "Codigo": "2301.000.405-2",
+    "Tipo": "OBR",
+    "Descricao": "QUÍMICA GERAL EXPERIMENTAL",
+    "Semestre": 1,
+    "Apelido": "QUÍMICA GERAL EXPERIMENTAL",
+    "CargaHorariaTeorico": 34,
+    "CargaHorariaPratica": null,
+    "ListaPrequisitos": []
+  },
+  {
+    "Id": 48008,
+    "Codigo": "2201.000.195-2",
+    "Tipo": "OBR",
+    "Descricao": "VETORES E GEOMETRIA ANALÍTICA",
+    "Semestre": 1,
+    "Apelido": "VETORES E GEOMETRIA ANALÍTICA",
+    "CargaHorariaTeorico": 68,
+    "CargaHorariaPratica": null,
+    "ListaPrequisitos": []
+  },
+  {
+    "Id": 48330,
+    "Codigo": "2201.000.202-9",
+    "Tipo": "OBR",
+    "Descricao": "ÁLGEBRA LINEAR",
+    "Semestre": 2,
+    "Apelido": "ÁLGEBRA LINEAR",
+    "CargaHorariaTeorico": 68,
+    "CargaHorariaPratica": null,
+    "ListaPrequisitos": [
+      {
+        "Id": 48008,
+        "Codigo": "2201.000.195-2",
+        "Descricao": "VETORES E GEOMETRIA ANALÍTICA",
+        "Semestre": "0",
+        "Apelido": "VETORES E GEOMETRIA ANALÍTICA",
+        "CargaHorariaTeorico": 0,
+        "CargaHorariaPratica": 0,
+        "ListaPrequisitos": []
+      }
+    ]
+  },
+  {
+    "Id": 48791,
+    "Codigo": "1919.000.459-3",
+    "Tipo": "OBR",
+    "Descricao": "ALGORITMOS E PROGRAMAÇÃO",
+    "Semestre": 2,
+    "Apelido": "ALGORITMOS E PROGRAMAÇÃO",
+    "CargaHorariaTeorico": 51,
+    "CargaHorariaPratica": null,
+    "ListaPrequisitos": []
+  },
+  {
+    "Id": 48017,
+    "Codigo": "2201.000.198-0",
+    "Tipo": "OBR",
+    "Descricao": "CÁLCULO II",
+    "Semestre": 2,
+    "Apelido": "CÁLCULO II",
+    "CargaHorariaTeorico": 68,
+    "CargaHorariaPratica": null,
+    "ListaPrequisitos": [
+      {
+        "Id": 48016,
+        "Codigo": "2201.000.197-0",
+        "Descricao": "CÁLCULO I",
+        "Semestre": "0",
+        "Apelido": "CÁLCULO I",
+        "CargaHorariaTeorico": 0,
+        "CargaHorariaPratica": 0,
+        "ListaPrequisitos": []
+      }
+    ]
+  },
+  {
+    "Id": 50150,
+    "Codigo": "2101.001.420-6",
+    "Tipo": "OBR",
+    "Descricao": "CIÊNCIA E TECNOLOGIA DOS MATERIAIS",
+    "Semestre": 2,
+    "Apelido": "CIÊNCIA E TECNOLOGIA DOS MATERIAIS",
+    "CargaHorariaTeorico": 34,
+    "CargaHorariaPratica": null,
+    "ListaPrequisitos": []
+  },
+  {
+    "Id": 46512,
+    "Codigo": "2101.001.401-9",
+    "Tipo": "OBR",
+    "Descricao": "FUNDAMENTOS DE ECONOMIA",
+    "Semestre": 2,
+    "Apelido": "FUNDAMENTOS DE ECONOMIA",
+    "CargaHorariaTeorico": 34,
+    "CargaHorariaPratica": null,
+    "ListaPrequisitos": []
+  },
+  {
+    "Id": 48034,
+    "Codigo": "2401.000.260-3",
+    "Tipo": "OBR",
+    "Descricao": "FUNDAMENTOS DE MECÂNICA",
+    "Semestre": 2,
+    "Apelido": "FUNDAMENTOS DE MECÂNICA",
+    "CargaHorariaTeorico": 68,
+    "CargaHorariaPratica": null,
+    "ListaPrequisitos": [
+      {
+        "Id": 48016,
+        "Codigo": "2201.000.197-0",
+        "Descricao": "CÁLCULO I",
+        "Semestre": "0",
+        "Apelido": "CÁLCULO I",
+        "CargaHorariaTeorico": 0,
+        "CargaHorariaPratica": 0,
+        "ListaPrequisitos": []
+      }
+    ]
+  },
+  {
+    "Id": 34033,
+    "Codigo": "2101.000.804-0",
+    "Tipo": "OBR",
+    "Descricao": "SEGURANÇA DO TRABALHO",
+    "Semestre": 2,
+    "Apelido": "SEGURANÇA DO TRABALHO",
+    "CargaHorariaTeorico": 34,
+    "CargaHorariaPratica": null,
+    "ListaPrequisitos": []
+  },
+  {
+    "Id": 34314,
+    "Codigo": "2101.000.817-1",
+    "Tipo": "OBR",
+    "Descricao": "SISTEMAS DE PRODUÇÃO",
+    "Semestre": 2,
+    "Apelido": "SISTEMAS DE PRODUÇÃO",
+    "CargaHorariaTeorico": 34,
+    "CargaHorariaPratica": null,
+    "ListaPrequisitos": []
+  },
+  {
+    "Id": 48318,
+    "Codigo": "2201.000.201-0",
+    "Tipo": "OBR",
+    "Descricao": "CÁLCULO III",
+    "Semestre": 3,
+    "Apelido": "CÁLCULO III",
+    "CargaHorariaTeorico": 68,
+    "CargaHorariaPratica": null,
+    "ListaPrequisitos": [
+      {
+        "Id": 48016,
+        "Codigo": "2201.000.197-0",
+        "Descricao": "CÁLCULO I",
+        "Semestre": "0",
+        "Apelido": "CÁLCULO I",
+        "CargaHorariaTeorico": 0,
+        "CargaHorariaPratica": 0,
+        "ListaPrequisitos": []
+      }
+    ]
+  },
+  {
+    "Id": 51115,
+    "Codigo": "2101.001.468-1",
+    "Tipo": "OBR",
+    "Descricao": "ERGONOMIA",
+    "Semestre": 3,
+    "Apelido": "ERGONOMIA",
+    "CargaHorariaTeorico": 34,
+    "CargaHorariaPratica": null,
+    "ListaPrequisitos": []
+  },
+  {
+    "Id": 48798,
+    "Codigo": "2401.000.289-1",
+    "Tipo": "OBR",
+    "Descricao": "FUNDAMENTOS DE TERMODINÂMICA",
+    "Semestre": 3,
+    "Apelido": "FUNDAMENTOS DE TERMODINÂMICA",
+    "CargaHorariaTeorico": 34,
+    "CargaHorariaPratica": null,
+    "ListaPrequisitos": []
+  },
+  {
+    "Id": 50169,
+    "Codigo": "2401.000.308-4",
+    "Tipo": "OBR",
+    "Descricao": "MECÂNICA GERAL",
+    "Semestre": 3,
+    "Apelido": "MECÂNICA GERAL",
+    "CargaHorariaTeorico": 34,
+    "CargaHorariaPratica": null,
+    "ListaPrequisitos": []
+  },
+  {
+    "Id": 51138,
+    "Codigo": "2101.001.491-2",
+    "Tipo": "OBR",
+    "Descricao": "MERCADOLOGIA",
+    "Semestre": 3,
+    "Apelido": "MERCADOLOGIA",
+    "CargaHorariaTeorico": 34,
+    "CargaHorariaPratica": null,
+    "ListaPrequisitos": [
+      {
+        "Id": 46511,
+        "Codigo": "2101.001.400-0",
+        "Descricao": "FUNDAMENTOS DE ADMINISTRAÇÃO",
+        "Semestre": "0",
+        "Apelido": "FUNDAMENTOS DE ADMINISTRAÇÃO",
+        "CargaHorariaTeorico": 0,
+        "CargaHorariaPratica": 0,
+        "ListaPrequisitos": []
+      }
+    ]
+  },
+  {
+    "Id": 46475,
+    "Codigo": "2101.001.365-7",
+    "Tipo": "OBR",
+    "Descricao": "METODOLOGIA E REDAÇÃO CIENTÍFICA",
+    "Semestre": 3,
+    "Apelido": "METODOLOGIA E REDAÇÃO CIENTÍFICA",
+    "CargaHorariaTeorico": 34,
+    "CargaHorariaPratica": null,
+    "ListaPrequisitos": []
+  },
+  {
+    "Id": 48582,
+    "Codigo": "2201.000.204-7",
+    "Tipo": "OBR",
+    "Descricao": "MÉTODOS NUMÉRICOS",
+    "Semestre": 3,
+    "Apelido": "MÉTODOS NUMÉRICOS",
+    "CargaHorariaTeorico": 68,
+    "CargaHorariaPratica": null,
+    "ListaPrequisitos": [
+      {
+        "Id": 48330,
+        "Codigo": "2201.000.202-9",
+        "Descricao": "ÁLGEBRA LINEAR",
+        "Semestre": "0",
+        "Apelido": "ÁLGEBRA LINEAR",
+        "CargaHorariaTeorico": 0,
+        "CargaHorariaPratica": 0,
+        "ListaPrequisitos": []
+      },
+      {
+        "Id": 48791,
+        "Codigo": "1919.000.459-3",
+        "Descricao": "ALGORITMOS E PROGRAMAÇÃO",
+        "Semestre": "0",
+        "Apelido": "ALGORITMOS E PROGRAMAÇÃO",
+        "CargaHorariaTeorico": 0,
+        "CargaHorariaPratica": 0,
+        "ListaPrequisitos": []
+      }
+    ]
+  },
+  {
+    "Id": 34323,
+    "Codigo": "2101.000.826-0",
+    "Tipo": "OBR",
+    "Descricao": "PROCESSOS DE FABRICAÇÃO",
+    "Semestre": 3,
+    "Apelido": "PROCESSOS DE FABRICAÇÃO",
+    "CargaHorariaTeorico": 68,
+    "CargaHorariaPratica": null,
+    "ListaPrequisitos": []
+  },
+  {
+    "Id": 48032,
+    "Codigo": "2401.000.258-8",
+    "Tipo": "OBR",
+    "Descricao": "FUNDAMENTOS DE ELETROMAGNETISMO",
+    "Semestre": 4,
+    "Apelido": "FUNDAMENTOS DE ELETROMAGNETISMO",
+    "CargaHorariaTeorico": 68,
+    "CargaHorariaPratica": null,
+    "ListaPrequisitos": []
+  },
+  {
+    "Id": 50488,
+    "Codigo": "2101.001.449-4",
+    "Tipo": "OBR",
+    "Descricao": "FUNDAMENTOS DE FENÔMENOS DOS TRANSPORTES",
+    "Semestre": 4,
+    "Apelido": "FUNDAMENTOS DE FENÔMENOS DOS TRANSPORTES",
+    "CargaHorariaTeorico": 51,
+    "CargaHorariaPratica": null,
+    "ListaPrequisitos": []
+  },
+  {
+    "Id": 51134,
+    "Codigo": "2101.001.487-9",
+    "Tipo": "OBR",
+    "Descricao": "GESTÃO ORGANIZACIONAL",
+    "Semestre": 4,
+    "Apelido": "GESTÃO ORGANIZACIONAL",
+    "CargaHorariaTeorico": 68,
+    "CargaHorariaPratica": null,
+    "ListaPrequisitos": [
+      {
+        "Id": 34314,
+        "Codigo": "2101.000.817-1",
+        "Descricao": "SISTEMAS DE PRODUÇÃO",
+        "Semestre": "0",
+        "Apelido": "SISTEMAS DE PRODUÇÃO",
+        "CargaHorariaTeorico": 0,
+        "CargaHorariaPratica": 0,
+        "ListaPrequisitos": []
+      },
+      {
+        "Id": 46511,
+        "Codigo": "2101.001.400-0",
+        "Descricao": "FUNDAMENTOS DE ADMINISTRAÇÃO",
+        "Semestre": "0",
+        "Apelido": "FUNDAMENTOS DE ADMINISTRAÇÃO",
+        "CargaHorariaTeorico": 0,
+        "CargaHorariaPratica": 0,
+        "ListaPrequisitos": []
+      }
+    ]
+  },
+  {
+    "Id": 48723,
+    "Codigo": "2401.000.287-3",
+    "Tipo": "OBR",
+    "Descricao": "LABORATÓRIO DE MECÂNICA, FLUIDOS E TERMODINÂMICA",
+    "Semestre": 4,
+    "Apelido": "LABORATÓRIO DE MECÂNICA, FLUIDOS E TERMODINÂMICA",
+    "CargaHorariaTeorico": 34,
+    "CargaHorariaPratica": null,
+    "ListaPrequisitos": [
+      {
+        "Id": 48034,
+        "Codigo": "2401.000.260-3",
+        "Descricao": "FUNDAMENTOS DE MECÂNICA",
+        "Semestre": "0",
+        "Apelido": "FUNDAMENTOS DE MECÂNICA",
+        "CargaHorariaTeorico": 0,
+        "CargaHorariaPratica": 0,
+        "ListaPrequisitos": []
+      },
+      {
+        "Id": 48798,
+        "Codigo": "2401.000.289-1",
+        "Descricao": "FUNDAMENTOS DE TERMODINÂMICA",
+        "Semestre": "0",
+        "Apelido": "FUNDAMENTOS DE TERMODINÂMICA",
+        "CargaHorariaTeorico": 0,
+        "CargaHorariaPratica": 0,
+        "ListaPrequisitos": []
+      }
+    ]
+  },
+  {
+    "Id": 46513,
+    "Codigo": "2101.001.402-8",
+    "Tipo": "OBR",
+    "Descricao": "LEGISLAÇÃO, ÉTICA PROFISSIONAL E CIDADANIA",
+    "Semestre": 4,
+    "Apelido": "LEGISLAÇÃO, ÉTICA PROFISSIONAL E CIDADANIA",
+    "CargaHorariaTeorico": 34,
+    "CargaHorariaPratica": null,
+    "ListaPrequisitos": []
+  },
+  {
+    "Id": 34320,
+    "Codigo": "2101.000.823-6",
+    "Tipo": "OBR",
+    "Descricao": "MECÂNICA DOS SÓLIDOS",
+    "Semestre": 4,
+    "Apelido": "MECÂNICA DOS SÓLIDOS",
+    "CargaHorariaTeorico": 51,
+    "CargaHorariaPratica": null,
+    "ListaPrequisitos": []
+  },
+  {
+    "Id": 51131,
+    "Codigo": "2101.001.484-1",
+    "Tipo": "OBR",
+    "Descricao": "MODELOS PROBABILÍSTICOS APLICADOS À ENGENHARIA",
+    "Semestre": 4,
+    "Apelido": "MODELOS PROBABILÍSTICOS APLICADOS À ENGENHARIA",
+    "CargaHorariaTeorico": 34,
+    "CargaHorariaPratica": null,
+    "ListaPrequisitos": []
+  },
+  {
+    "Id": 32002,
+    "Codigo": "2101.000.462-1",
+    "Tipo": "OBR",
+    "Descricao": "PRÁTICAS EM ENGENHARIA DE PRODUÇÃO I",
+    "Semestre": 4,
+    "Apelido": "PRÁTICAS EM ENGENHARIA DE PRODUÇÃO I",
+    "CargaHorariaTeorico": 34,
+    "CargaHorariaPratica": null,
+    "ListaPrequisitos": []
+  },
+  {
+    "Id": 50164,
+    "Codigo": "2101.001.433-1",
+    "Tipo": "OBR",
+    "Descricao": "ELETRICIDADE",
+    "Semestre": 5,
+    "Apelido": "ELETRICIDADE",
+    "CargaHorariaTeorico": 51,
+    "CargaHorariaPratica": null,
+    "ListaPrequisitos": []
+  },
+  {
+    "Id": 51132,
+    "Codigo": "2101.001.485-0",
+    "Tipo": "OBR",
+    "Descricao": "MÉTODOS ESTATÍSTICOS APLICADOS À ENGENHARIA",
+    "Semestre": 5,
+    "Apelido": "MÉTODOS ESTATÍSTICOS APLICADOS À ENGENHARIA",
+    "CargaHorariaTeorico": 34,
+    "CargaHorariaPratica": null,
+    "ListaPrequisitos": [
+      {
+        "Id": 51131,
+        "Codigo": "2101.001.484-1",
+        "Descricao": "MODELOS PROBABILÍSTICOS APLICADOS À ENGENHARIA",
+        "Semestre": "0",
+        "Apelido": "MODELOS PROBABILÍSTICOS APLICADOS À ENGENHARIA",
+        "CargaHorariaTeorico": 0,
+        "CargaHorariaPratica": 0,
+        "ListaPrequisitos": []
+      }
+    ]
+  },
+  {
+    "Id": 51117,
+    "Codigo": "2101.001.470-7",
+    "Tipo": "OBR",
+    "Descricao": "OPERAÇÕES UNITÁRIAS",
+    "Semestre": 5,
+    "Apelido": "OPERAÇÕES UNITÁRIAS",
+    "CargaHorariaTeorico": 68,
+    "CargaHorariaPratica": null,
+    "ListaPrequisitos": []
+  },
+  {
+    "Id": 51120,
+    "Codigo": "2101.001.473-4",
+    "Tipo": "OBR",
+    "Descricao": "PESQUISA OPERACIONAL I",
+    "Semestre": 5,
+    "Apelido": "PESQUISA OPERACIONAL I",
+    "CargaHorariaTeorico": 68,
+    "CargaHorariaPratica": null,
+    "ListaPrequisitos": [
+      {
+        "Id": 48582,
+        "Codigo": "2201.000.204-7",
+        "Descricao": "MÉTODOS NUMÉRICOS",
+        "Semestre": "0",
+        "Apelido": "MÉTODOS NUMÉRICOS",
+        "CargaHorariaTeorico": 0,
+        "CargaHorariaPratica": 0,
+        "ListaPrequisitos": []
+      }
+    ]
+  },
+  {
+    "Id": 32006,
+    "Codigo": "2101.000.466-4",
+    "Tipo": "OBR",
+    "Descricao": "PLANEJAMENTO E CONTROLE DA PRODUÇÃO I",
+    "Semestre": 5,
+    "Apelido": "PLANEJAMENTO E CONTROLE DA PRODUÇÃO I",
+    "CargaHorariaTeorico": 68,
+    "CargaHorariaPratica": null,
+    "ListaPrequisitos": [
+      {
+        "Id": 34314,
+        "Codigo": "2101.000.817-1",
+        "Descricao": "SISTEMAS DE PRODUÇÃO",
+        "Semestre": "0",
+        "Apelido": "SISTEMAS DE PRODUÇÃO",
+        "CargaHorariaTeorico": 0,
+        "CargaHorariaPratica": 0,
+        "ListaPrequisitos": []
+      }
+    ]
+  },
+  {
+    "Id": 32019,
+    "Codigo": "2101.000.479-6",
+    "Tipo": "OBR",
+    "Descricao": "PRÁTICAS EM ENGENHARIA DE PRODUÇÃO II",
+    "Semestre": 5,
+    "Apelido": "PRÁTICAS EM ENGENHARIA DE PRODUÇÃO II",
+    "CargaHorariaTeorico": 34,
+    "CargaHorariaPratica": null,
+    "ListaPrequisitos": []
+  },
+  {
+    "Id": 51114,
+    "Codigo": "2101.001.467-2",
+    "Tipo": "OBR",
+    "Descricao": "PROJETO E ORGANIZAÇÃO DO TRABALHO",
+    "Semestre": 5,
+    "Apelido": "PROJETO E ORGANIZAÇÃO DO TRABALHO",
+    "CargaHorariaTeorico": 51,
+    "CargaHorariaPratica": null,
+    "ListaPrequisitos": [
+      {
+        "Id": 51134,
+        "Codigo": "2101.001.487-9",
+        "Descricao": "GESTÃO ORGANIZACIONAL",
+        "Semestre": "0",
+        "Apelido": "GESTÃO ORGANIZACIONAL",
+        "CargaHorariaTeorico": 0,
+        "CargaHorariaPratica": 0,
+        "ListaPrequisitos": []
+      }
+    ]
+  },
+  {
+    "Id": 51116,
+    "Codigo": "2101.001.469-0",
+    "Tipo": "OBR",
+    "Descricao": "FUNDAMENTOS DE LOGÍSTICA",
+    "Semestre": 6,
+    "Apelido": "FUNDAMENTOS DE LOGÍSTICA",
+    "CargaHorariaTeorico": 51,
+    "CargaHorariaPratica": null,
+    "ListaPrequisitos": [
+      {
+        "Id": 34314,
+        "Codigo": "2101.000.817-1",
+        "Descricao": "SISTEMAS DE PRODUÇÃO",
+        "Semestre": "0",
+        "Apelido": "SISTEMAS DE PRODUÇÃO",
+        "CargaHorariaTeorico": 0,
+        "CargaHorariaPratica": 0,
+        "ListaPrequisitos": []
+      }
+    ]
+  },
+  {
+    "Id": 50144,
+    "Codigo": "2101.001.414-4",
+    "Tipo": "OBR",
+    "Descricao": "GESTÃO DA QUALIDADE",
+    "Semestre": 6,
+    "Apelido": "GESTÃO DA QUALIDADE",
+    "CargaHorariaTeorico": 51,
+    "CargaHorariaPratica": null,
+    "ListaPrequisitos": [
+      {
+        "Id": 34314,
+        "Codigo": "2101.000.817-1",
+        "Descricao": "SISTEMAS DE PRODUÇÃO",
+        "Semestre": "0",
+        "Apelido": "SISTEMAS DE PRODUÇÃO",
+        "CargaHorariaTeorico": 0,
+        "CargaHorariaPratica": 0,
+        "ListaPrequisitos": []
+      }
+    ]
+  },
+  {
+    "Id": 34024,
+    "Codigo": "2101.000.795-7",
+    "Tipo": "OBR",
+    "Descricao": "INSTALAÇÕES ELÉTRICAS",
+    "Semestre": 6,
+    "Apelido": "INSTALAÇÕES ELÉTRICAS",
+    "CargaHorariaTeorico": 51,
+    "CargaHorariaPratica": null,
+    "ListaPrequisitos": [
+      {
+        "Id": 50164,
+        "Codigo": "2101.001.433-1",
+        "Descricao": "ELETRICIDADE",
+        "Semestre": "0",
+        "Apelido": "ELETRICIDADE",
+        "CargaHorariaTeorico": 0,
+        "CargaHorariaPratica": 0,
+        "ListaPrequisitos": []
+      }
+    ]
+  },
+  {
+    "Id": 34340,
+    "Codigo": "2101.000.843-0",
+    "Tipo": "OBR",
+    "Descricao": "METROLOGIA INDUSTRIAL E CIENTÍFICA",
+    "Semestre": 6,
+    "Apelido": "METROLOGIA INDUSTRIAL E CIENTÍFICA",
+    "CargaHorariaTeorico": 68,
+    "CargaHorariaPratica": null,
+    "ListaPrequisitos": [
+      {
+        "Id": 51132,
+        "Codigo": "2101.001.485-0",
+        "Descricao": "MÉTODOS ESTATÍSTICOS APLICADOS À ENGENHARIA",
+        "Semestre": "0",
+        "Apelido": "MÉTODOS ESTATÍSTICOS APLICADOS À ENGENHARIA",
+        "CargaHorariaTeorico": 0,
+        "CargaHorariaPratica": 0,
+        "ListaPrequisitos": []
+      }
+    ]
+  },
+  {
+    "Id": 51125,
+    "Codigo": "2101.001.478-0",
+    "Tipo": "OBR",
+    "Descricao": "PESQUISA OPERACIONAL II",
+    "Semestre": 6,
+    "Apelido": "PESQUISA OPERACIONAL II",
+    "CargaHorariaTeorico": 68,
+    "CargaHorariaPratica": null,
+    "ListaPrequisitos": [
+      {
+        "Id": 51120,
+        "Codigo": "2101.001.473-4",
+        "Descricao": "PESQUISA OPERACIONAL I",
+        "Semestre": "0",
+        "Apelido": "PESQUISA OPERACIONAL I",
+        "CargaHorariaTeorico": 0,
+        "CargaHorariaPratica": 0,
+        "ListaPrequisitos": []
+      },
+      {
+        "Id": 51132,
+        "Codigo": "2101.001.485-0",
+        "Descricao": "MÉTODOS ESTATÍSTICOS APLICADOS À ENGENHARIA",
+        "Semestre": "0",
+        "Apelido": "MÉTODOS ESTATÍSTICOS APLICADOS À ENGENHARIA",
+        "CargaHorariaTeorico": 0,
+        "CargaHorariaPratica": 0,
+        "ListaPrequisitos": []
+      }
+    ]
+  },
+  {
+    "Id": 32015,
+    "Codigo": "2101.000.475-3",
+    "Tipo": "OBR",
+    "Descricao": "PLANEJAMENTO E CONTROLE DA PRODUÇÃO II",
+    "Semestre": 6,
+    "Apelido": "PLANEJAMENTO E CONTROLE DA PRODUÇÃO II",
+    "CargaHorariaTeorico": 68,
+    "CargaHorariaPratica": null,
+    "ListaPrequisitos": [
+      {
+        "Id": 32006,
+        "Codigo": "2101.000.466-4",
+        "Descricao": "PLANEJAMENTO E CONTROLE DA PRODUÇÃO I",
+        "Semestre": "0",
+        "Apelido": "PLANEJAMENTO E CONTROLE DA PRODUÇÃO I",
+        "CargaHorariaTeorico": 0,
+        "CargaHorariaPratica": 0,
+        "ListaPrequisitos": []
+      }
+    ]
+  },
+  {
+    "Id": 34332,
+    "Codigo": "2101.000.835-0",
+    "Tipo": "OBR",
+    "Descricao": "PRÁTICAS EM ENGENHARIA DE PRODUÇÃO III",
+    "Semestre": 6,
+    "Apelido": "PRÁTICAS EM ENGENHARIA DE PRODUÇÃO III",
+    "CargaHorariaTeorico": 34,
+    "CargaHorariaPratica": null,
+    "ListaPrequisitos": []
+  },
+  {
+    "Id": 51113,
+    "Codigo": "2101.001.466-3",
+    "Tipo": "OBR",
+    "Descricao": "AUTOMAÇÃO INDUSTRIAL",
+    "Semestre": 7,
+    "Apelido": "AUTOMAÇÃO INDUSTRIAL",
+    "CargaHorariaTeorico": 34,
+    "CargaHorariaPratica": null,
+    "ListaPrequisitos": [
+      {
+        "Id": 34024,
+        "Codigo": "2101.000.795-7",
+        "Descricao": "INSTALAÇÕES ELÉTRICAS",
+        "Semestre": "0",
+        "Apelido": "INSTALAÇÕES ELÉTRICAS",
+        "CargaHorariaTeorico": 0,
+        "CargaHorariaPratica": 0,
+        "ListaPrequisitos": []
+      }
+    ]
+  },
+  {
+    "Id": 51124,
+    "Codigo": "2101.001.477-0",
+    "Tipo": "OBR",
+    "Descricao": "CONTROLE ESTATÍSTICO DE PROCESSOS",
+    "Semestre": 7,
+    "Apelido": "CONTROLE ESTATÍSTICO DE PROCESSOS",
+    "CargaHorariaTeorico": 34,
+    "CargaHorariaPratica": null,
+    "ListaPrequisitos": [
+      {
+        "Id": 51132,
+        "Codigo": "2101.001.485-0",
+        "Descricao": "MÉTODOS ESTATÍSTICOS APLICADOS À ENGENHARIA",
+        "Semestre": "0",
+        "Apelido": "MÉTODOS ESTATÍSTICOS APLICADOS À ENGENHARIA",
+        "CargaHorariaTeorico": 0,
+        "CargaHorariaPratica": 0,
+        "ListaPrequisitos": []
+      }
+    ]
+  },
+  {
+    "Id": 34327,
+    "Codigo": "2101.000.830-9",
+    "Tipo": "OBR",
+    "Descricao": "CUSTOS INDUSTRIAIS",
+    "Semestre": 7,
+    "Apelido": "CUSTOS INDUSTRIAIS",
+    "CargaHorariaTeorico": 34,
+    "CargaHorariaPratica": null,
+    "ListaPrequisitos": []
+  },
+  {
+    "Id": 34331,
+    "Codigo": "2101.000.834-1",
+    "Tipo": "OBR",
+    "Descricao": "GESTÃO DE OPERAÇÕES DE SERVIÇOS",
+    "Semestre": 7,
+    "Apelido": "GESTÃO DE OPERAÇÕES DE SERVIÇOS",
+    "CargaHorariaTeorico": 34,
+    "CargaHorariaPratica": null,
+    "ListaPrequisitos": []
+  },
+  {
+    "Id": 50142,
+    "Codigo": "2101.001.412-6",
+    "Tipo": "OBR",
+    "Descricao": "GESTÃO DE PROJETOS",
+    "Semestre": 7,
+    "Apelido": "GESTÃO DE PROJETOS",
+    "CargaHorariaTeorico": 68,
+    "CargaHorariaPratica": null,
+    "ListaPrequisitos": []
+  },
+  {
+    "Id": 51121,
+    "Codigo": "2101.001.474-3",
+    "Tipo": "OBR",
+    "Descricao": "GESTÃO DO CONHECIMENTO",
+    "Semestre": 7,
+    "Apelido": "GESTÃO DO CONHECIMENTO",
+    "CargaHorariaTeorico": 68,
+    "CargaHorariaPratica": null,
+    "ListaPrequisitos": [
+      {
+        "Id": 51134,
+        "Codigo": "2101.001.487-9",
+        "Descricao": "GESTÃO ORGANIZACIONAL",
+        "Semestre": "0",
+        "Apelido": "GESTÃO ORGANIZACIONAL",
+        "CargaHorariaTeorico": 0,
+        "CargaHorariaPratica": 0,
+        "ListaPrequisitos": []
+      }
+    ]
+  },
+  {
+    "Id": 51135,
+    "Codigo": "2101.001.488-8",
+    "Tipo": "OBR",
+    "Descricao": "PLANEJAMENTO E CONTROLE DA PRODUÇÃO III",
+    "Semestre": 7,
+    "Apelido": "PLANEJAMENTO E CONTROLE DA PRODUÇÃO III",
+    "CargaHorariaTeorico": 68,
+    "CargaHorariaPratica": null,
+    "ListaPrequisitos": [
+      {
+        "Id": 32015,
+        "Codigo": "2101.000.475-3",
+        "Descricao": "PLANEJAMENTO E CONTROLE DA PRODUÇÃO II",
+        "Semestre": "0",
+        "Apelido": "PLANEJAMENTO E CONTROLE DA PRODUÇÃO II",
+        "CargaHorariaTeorico": 0,
+        "CargaHorariaPratica": 0,
+        "ListaPrequisitos": []
+      }
+    ]
+  },
+  {
+    "Id": 34336,
+    "Codigo": "2101.000.839-2",
+    "Tipo": "OBR",
+    "Descricao": "PRÁTICAS EM ENGENHARIA DE PRODUÇÃO IV",
+    "Semestre": 7,
+    "Apelido": "PRÁTICAS EM ENGENHARIA DE PRODUÇÃO IV",
+    "CargaHorariaTeorico": 34,
+    "CargaHorariaPratica": null,
+    "ListaPrequisitos": []
+  },
+  {
+    "Id": 34333,
+    "Codigo": "2101.000.836-8",
+    "Tipo": "OBR",
+    "Descricao": "ENGENHARIA DE MÉTODOS",
+    "Semestre": 8,
+    "Apelido": "ENGENHARIA DE MÉTODOS",
+    "CargaHorariaTeorico": 68,
+    "CargaHorariaPratica": null,
+    "ListaPrequisitos": [
+      {
+        "Id": 51115,
+        "Codigo": "2101.001.468-1",
+        "Descricao": "ERGONOMIA",
+        "Semestre": "0",
+        "Apelido": "ERGONOMIA",
+        "CargaHorariaTeorico": 0,
+        "CargaHorariaPratica": 0,
+        "ListaPrequisitos": []
+      }
+    ]
+  },
+  {
+    "Id": 34343,
+    "Codigo": "2101.000.846-5",
+    "Tipo": "OBR",
+    "Descricao": "GESTÃO AMBIENTAL",
+    "Semestre": 8,
+    "Apelido": "GESTÃO AMBIENTAL",
+    "CargaHorariaTeorico": 68,
+    "CargaHorariaPratica": null,
+    "ListaPrequisitos": []
+  },
+  {
+    "Id": 34335,
+    "Codigo": "2101.000.838-4",
+    "Tipo": "OBR",
+    "Descricao": "MANUTENÇÃO INDUSTRIAL E CONFIABILIDADE",
+    "Semestre": 8,
+    "Apelido": "MANUTENÇÃO INDUSTRIAL E CONFIABILIDADE",
+    "CargaHorariaTeorico": 68,
+    "CargaHorariaPratica": null,
+    "ListaPrequisitos": [
+      {
+        "Id": 51132,
+        "Codigo": "2101.001.485-0",
+        "Descricao": "MÉTODOS ESTATÍSTICOS APLICADOS À ENGENHARIA",
+        "Semestre": "0",
+        "Apelido": "MÉTODOS ESTATÍSTICOS APLICADOS À ENGENHARIA",
+        "CargaHorariaTeorico": 0,
+        "CargaHorariaPratica": 0,
+        "ListaPrequisitos": []
+      }
+    ]
+  },
+  {
+    "Id": 32039,
+    "Codigo": "2101.000.499-0",
+    "Tipo": "OBR",
+    "Descricao": "MODELAGEM E SIMULAÇÃO DE SISTEMAS",
+    "Semestre": 8,
+    "Apelido": "MODELAGEM E SIMULAÇÃO DE SISTEMAS",
+    "CargaHorariaTeorico": 68,
+    "CargaHorariaPratica": null,
+    "ListaPrequisitos": [
+      {
+        "Id": 51125,
+        "Codigo": "2101.001.478-0",
+        "Descricao": "PESQUISA OPERACIONAL II",
+        "Semestre": "0",
+        "Apelido": "PESQUISA OPERACIONAL II",
+        "CargaHorariaTeorico": 0,
+        "CargaHorariaPratica": 0,
+        "ListaPrequisitos": []
+      }
+    ]
+  },
+  {
+    "Id": 51123,
+    "Codigo": "2101.001.476-1",
+    "Tipo": "OBR",
+    "Descricao": "PLANEJAMENTO DE EXPERIMENTOS",
+    "Semestre": 8,
+    "Apelido": "PLANEJAMENTO DE EXPERIMENTOS",
+    "CargaHorariaTeorico": 34,
+    "CargaHorariaPratica": null,
+    "ListaPrequisitos": [
+      {
+        "Id": 51132,
+        "Codigo": "2101.001.485-0",
+        "Descricao": "MÉTODOS ESTATÍSTICOS APLICADOS À ENGENHARIA",
+        "Semestre": "0",
+        "Apelido": "MÉTODOS ESTATÍSTICOS APLICADOS À ENGENHARIA",
+        "CargaHorariaTeorico": 0,
+        "CargaHorariaPratica": 0,
+        "ListaPrequisitos": []
+      }
+    ]
+  },
+  {
+    "Id": 50148,
+    "Codigo": "2101.001.418-0",
+    "Tipo": "OBR",
+    "Descricao": "ANÁLISE MULTIVARIADA DE DADOS",
+    "Semestre": 9,
+    "Apelido": "ANÁLISE MULTIVARIADA DE DADOS",
+    "CargaHorariaTeorico": 34,
+    "CargaHorariaPratica": null,
+    "ListaPrequisitos": [
+      {
+        "Id": 51132,
+        "Codigo": "2101.001.485-0",
+        "Descricao": "MÉTODOS ESTATÍSTICOS APLICADOS À ENGENHARIA",
+        "Semestre": "0",
+        "Apelido": "MÉTODOS ESTATÍSTICOS APLICADOS À ENGENHARIA",
+        "CargaHorariaTeorico": 0,
+        "CargaHorariaPratica": 0,
+        "ListaPrequisitos": []
+      }
+    ]
+  },
+  {
+    "Id": 51118,
+    "Codigo": "2101.001.471-6",
+    "Tipo": "OBR",
+    "Descricao": "ENGENHARIA ECONÔMICA",
+    "Semestre": 9,
+    "Apelido": "ENGENHARIA ECONÔMICA",
+    "CargaHorariaTeorico": 68,
+    "CargaHorariaPratica": null,
+    "ListaPrequisitos": []
+  },
+  {
+    "Id": 51140,
+    "Codigo": "2101.001.493-0",
+    "Tipo": "OBR",
+    "Descricao": "ESTÁGIO OBRIGATÓRIO I",
+    "Semestre": 9,
+    "Apelido": "ESTÁGIO OBRIGATÓRIO I",
+    "CargaHorariaTeorico": 80,
+    "CargaHorariaPratica": null,
+    "ListaPrequisitos": []
+  },
+  {
+    "Id": 34342,
+    "Codigo": "2101.000.845-7",
+    "Tipo": "OBR",
+    "Descricao": "GESTÃO ENERGÉTICA",
+    "Semestre": 9,
+    "Apelido": "GESTÃO ENERGÉTICA",
+    "CargaHorariaTeorico": 68,
+    "CargaHorariaPratica": null,
+    "ListaPrequisitos": [
+      {
+        "Id": 34024,
+        "Codigo": "2101.000.795-7",
+        "Descricao": "INSTALAÇÕES ELÉTRICAS",
+        "Semestre": "0",
+        "Apelido": "INSTALAÇÕES ELÉTRICAS",
+        "CargaHorariaTeorico": 0,
+        "CargaHorariaPratica": 0,
+        "ListaPrequisitos": []
+      }
+    ]
+  },
+  {
+    "Id": 51133,
+    "Codigo": "2101.001.486-0",
+    "Tipo": "OBR",
+    "Descricao": "PROJETO E DESENVOLVIMENTO DE PRODUTOS",
+    "Semestre": 9,
+    "Apelido": "PROJETO E DESENVOLVIMENTO DE PRODUTOS",
+    "CargaHorariaTeorico": 68,
+    "CargaHorariaPratica": null,
+    "ListaPrequisitos": [
+      {
+        "Id": 32006,
+        "Codigo": "2101.000.466-4",
+        "Descricao": "PLANEJAMENTO E CONTROLE DA PRODUÇÃO I",
+        "Semestre": "0",
+        "Apelido": "PLANEJAMENTO E CONTROLE DA PRODUÇÃO I",
+        "CargaHorariaTeorico": 0,
+        "CargaHorariaPratica": 0,
+        "ListaPrequisitos": []
+      },
+      {
+        "Id": 50142,
+        "Codigo": "2101.001.412-6",
+        "Descricao": "GESTÃO DE PROJETOS",
+        "Semestre": "0",
+        "Apelido": "GESTÃO DE PROJETOS",
+        "CargaHorariaTeorico": 0,
+        "CargaHorariaPratica": 0,
+        "ListaPrequisitos": []
+      }
+    ]
+  },
+  {
+    "Id": 43686,
+    "Codigo": "1991.000.004-3",
+    "Tipo": "OBR",
+    "Descricao": "EMPREENDEDORISMO E INOVAÇÃO",
+    "Semestre": 10,
+    "Apelido": "EMPREENDEDORISMO E INOVAÇÃO",
+    "CargaHorariaTeorico": 68,
+    "CargaHorariaPratica": null,
+    "ListaPrequisitos": [
+      {
+        "Id": 51134,
+        "Codigo": "2101.001.487-9",
+        "Descricao": "GESTÃO ORGANIZACIONAL",
+        "Semestre": "0",
+        "Apelido": "GESTÃO ORGANIZACIONAL",
+        "CargaHorariaTeorico": 0,
+        "CargaHorariaPratica": 0,
+        "ListaPrequisitos": []
+      }
+    ]
+  },
+  {
+    "Id": 51141,
+    "Codigo": "2101.001.494-0",
+    "Tipo": "OBR",
+    "Descricao": "ESTÁGIO OBRIGATÓRIO II",
+    "Semestre": 10,
+    "Apelido": "ESTÁGIO OBRIGATÓRIO II",
+    "CargaHorariaTeorico": 80,
+    "CargaHorariaPratica": null,
+    "ListaPrequisitos": []
+  },
+  {
+    "Id": 51122,
+    "Codigo": "2101.001.475-2",
+    "Tipo": "OBR",
+    "Descricao": "LOGÍSTICA E GESTÃO DA CADEIA DE SUPRIMENTOS",
+    "Semestre": 10,
+    "Apelido": "LOGÍSTICA E GESTÃO DA CADEIA DE SUPRIMENTOS",
+    "CargaHorariaTeorico": 68,
+    "CargaHorariaPratica": null,
+    "ListaPrequisitos": [
+      {
+        "Id": 51116,
+        "Codigo": "2101.001.469-0",
+        "Descricao": "FUNDAMENTOS DE LOGÍSTICA",
+        "Semestre": "0",
+        "Apelido": "FUNDAMENTOS DE LOGÍSTICA",
+        "CargaHorariaTeorico": 0,
+        "CargaHorariaPratica": 0,
+        "ListaPrequisitos": []
+      }
+    ]
+  },
+  {
+    "Id": 51107,
+    "Codigo": "2101.001.460-9",
+    "Tipo": "OBR",
+    "Descricao": "PROJETO DE UNIDADES PRODUTIVAS",
+    "Semestre": 10,
+    "Apelido": "PROJETO DE UNIDADES PRODUTIVAS",
+    "CargaHorariaTeorico": 68,
+    "CargaHorariaPratica": null,
+    "ListaPrequisitos": [
+      {
+        "Id": 51135,
+        "Codigo": "2101.001.488-8",
+        "Descricao": "PLANEJAMENTO E CONTROLE DA PRODUÇÃO III",
+        "Semestre": "0",
+        "Apelido": "PLANEJAMENTO E CONTROLE DA PRODUÇÃO III",
+        "CargaHorariaTeorico": 0,
+        "CargaHorariaPratica": 0,
+        "ListaPrequisitos": []
+      }
+    ]
+  },
+  {
+    "Id": 51127,
+    "Codigo": "2101.001.480-5",
+    "Tipo": "OPT",
+    "Descricao": "ANÁLISE DE DADOS TEXTUAIS",
+    "Semestre": 99,
+    "Apelido": "ANÁLISE DE DADOS TEXTUAIS",
+    "CargaHorariaTeorico": 51,
+    "CargaHorariaPratica": null,
+    "ListaPrequisitos": []
+  },
+  {
+    "Id": 46476,
+    "Codigo": "2101.001.366-6",
+    "Tipo": "OPT",
+    "Descricao": "ANÁLISE E GERENCIAMENTO DE RISCOS",
+    "Semestre": 99,
+    "Apelido": "ANÁLISE E GERENCIAMENTO DE RISCOS",
+    "CargaHorariaTeorico": 34,
+    "CargaHorariaPratica": null,
+    "ListaPrequisitos": []
+  },
+  {
+    "Id": 51111,
+    "Codigo": "2101.001.464-5",
+    "Tipo": "OPT",
+    "Descricao": "APOIO MULTICRITÉRIO À DECISÃO",
+    "Semestre": 99,
+    "Apelido": "APOIO MULTICRITÉRIO À DECISÃO",
+    "CargaHorariaTeorico": 34,
+    "CargaHorariaPratica": null,
+    "ListaPrequisitos": [
+      {
+        "Id": 51125,
+        "Codigo": "2101.001.478-0",
+        "Descricao": "PESQUISA OPERACIONAL II",
+        "Semestre": "0",
+        "Apelido": "PESQUISA OPERACIONAL II",
+        "CargaHorariaTeorico": 0,
+        "CargaHorariaPratica": 0,
+        "ListaPrequisitos": []
+      }
+    ]
+  },
+  {
+    "Id": 32033,
+    "Codigo": "2101.000.493-1",
+    "Tipo": "OPT",
+    "Descricao": "BIOTECNOLOGIA",
+    "Semestre": 99,
+    "Apelido": "BIOTECNOLOGIA",
+    "CargaHorariaTeorico": 34,
+    "CargaHorariaPratica": null,
+    "ListaPrequisitos": []
+  },
+  {
+    "Id": 46482,
+    "Codigo": "2101.001.372-8",
+    "Tipo": "OPT",
+    "Descricao": "CIDADES INTELIGENTES DO SÉCULO XXI",
+    "Semestre": 99,
+    "Apelido": "CIDADES INTELIGENTES DO SÉCULO XXI",
+    "CargaHorariaTeorico": 51,
+    "CargaHorariaPratica": null,
+    "ListaPrequisitos": []
+  },
+  {
+    "Id": 46483,
+    "Codigo": "2101.001.373-7",
+    "Tipo": "OPT",
+    "Descricao": "CIÊNCIAS DE DADOS APLICADA",
+    "Semestre": 99,
+    "Apelido": "CIÊNCIAS DE DADOS APLICADA",
+    "CargaHorariaTeorico": 51,
+    "CargaHorariaPratica": null,
+    "ListaPrequisitos": []
+  },
+  {
+    "Id": 32008,
+    "Codigo": "2101.000.468-0",
+    "Tipo": "OPT",
+    "Descricao": "CONTABILIDADE BÁSICA, AVALIAÇÃO DE INVESTIMENTOS E FINANÇAS CORPORATIVAS",
+    "Semestre": 99,
+    "Apelido": "CONTABILIDADE BÁSICA, AVALIAÇÃO DE INVESTIMENTOS E FINANÇAS CORPORATIVAS",
+    "CargaHorariaTeorico": 51,
+    "CargaHorariaPratica": null,
+    "ListaPrequisitos": []
+  },
+  {
+    "Id": 51129,
+    "Codigo": "2101.001.482-3",
+    "Tipo": "OPT",
+    "Descricao": "DECISÃO EM GRUPO E NEGOCIAÇÃO",
+    "Semestre": 99,
+    "Apelido": "DECISÃO EM GRUPO E NEGOCIAÇÃO",
+    "CargaHorariaTeorico": 34,
+    "CargaHorariaPratica": null,
+    "ListaPrequisitos": []
+  },
+  {
+    "Id": 32044,
+    "Codigo": "2101.000.504-0",
+    "Tipo": "OPT",
+    "Descricao": "DESENVOLVIMENTO DE PLANO DE NEGÓCIOS E ESTRATÉGIA DE PRODUÇÃO",
+    "Semestre": 99,
+    "Apelido": "DESENVOLVIMENTO DE PLANO DE NEGÓCIOS E ESTRATÉGIA DE PRODUÇÃO",
+    "CargaHorariaTeorico": 34,
+    "CargaHorariaPratica": null,
+    "ListaPrequisitos": []
+  },
+  {
+    "Id": 46501,
+    "Codigo": "2101.001.390-6",
+    "Tipo": "OPT",
+    "Descricao": "DIAGNÓSTICO E HIGIENE OCUPACIONAL",
+    "Semestre": 99,
+    "Apelido": "DIAGNÓSTICO E HIGIENE OCUPACIONAL",
+    "CargaHorariaTeorico": 34,
+    "CargaHorariaPratica": null,
+    "ListaPrequisitos": []
+  },
+  {
+    "Id": 51128,
+    "Codigo": "2101.001.481-4",
+    "Tipo": "OPT",
+    "Descricao": "ECONOMIA CIRCULAR",
+    "Semestre": 99,
+    "Apelido": "ECONOMIA CIRCULAR",
+    "CargaHorariaTeorico": 51,
+    "CargaHorariaPratica": null,
+    "ListaPrequisitos": []
+  },
+  {
+    "Id": 31971,
+    "Codigo": "2101.000.439-7",
+    "Tipo": "OPT",
+    "Descricao": "EFICIÊNCIA ENERGÉTICA NA AGROINDÚSTRIA",
+    "Semestre": 99,
+    "Apelido": "EFICIÊNCIA ENERGÉTICA NA AGROINDÚSTRIA",
+    "CargaHorariaTeorico": 34,
+    "CargaHorariaPratica": null,
+    "ListaPrequisitos": []
+  },
+  {
+    "Id": 46510,
+    "Codigo": "2101.001.399-8",
+    "Tipo": "OPT",
+    "Descricao": "EMPREENDEDORISMO SOCIAL",
+    "Semestre": 99,
+    "Apelido": "EMPREENDEDORISMO SOCIAL",
+    "CargaHorariaTeorico": 68,
+    "CargaHorariaPratica": null,
+    "ListaPrequisitos": []
+  },
+  {
+    "Id": 45383,
+    "Codigo": "2101.001.353-1",
+    "Tipo": "OPT",
+    "Descricao": "ENERGIA E INSTALAÇÕES ELÉTRICAS",
+    "Semestre": 99,
+    "Apelido": "ENERGIA E INSTALAÇÕES ELÉTRICAS",
+    "CargaHorariaTeorico": 68,
+    "CargaHorariaPratica": null,
+    "ListaPrequisitos": []
+  },
+  {
+    "Id": 42913,
+    "Codigo": "3101.000.286-3",
+    "Tipo": "OPT",
+    "Descricao": "ESTUDO DE LIBRAS",
+    "Semestre": 99,
+    "Apelido": "ESTUDO DE LIBRAS",
+    "CargaHorariaTeorico": 51,
+    "CargaHorariaPratica": null,
+    "ListaPrequisitos": []
+  },
+  {
+    "Id": 31972,
+    "Codigo": "2101.000.440-0",
+    "Tipo": "OPT",
+    "Descricao": "FONTES ALTERNATIVAS DE ENERGIA",
+    "Semestre": 99,
+    "Apelido": "FONTES ALTERNATIVAS DE ENERGIA",
+    "CargaHorariaTeorico": 34,
+    "CargaHorariaPratica": null,
+    "ListaPrequisitos": []
+  },
+  {
+    "Id": 51119,
+    "Codigo": "2101.001.472-5",
+    "Tipo": "OPT",
+    "Descricao": "FONTES RENOVÁVEIS DE ENERGIA",
+    "Semestre": 99,
+    "Apelido": "FONTES RENOVÁVEIS DE ENERGIA",
+    "CargaHorariaTeorico": 34,
+    "CargaHorariaPratica": null,
+    "ListaPrequisitos": []
+  },
+  {
+    "Id": 51136,
+    "Codigo": "2101.001.489-7",
+    "Tipo": "OPT",
+    "Descricao": "FUNDAMENTOS DE APRENDIZAGEM DE MÁQUINA",
+    "Semestre": 99,
+    "Apelido": "FUNDAMENTOS DE APRENDIZAGEM DE MÁQUINA",
+    "CargaHorariaTeorico": 34,
+    "CargaHorariaPratica": null,
+    "ListaPrequisitos": [
+      {
+        "Id": 50148,
+        "Codigo": "2101.001.418-0",
+        "Descricao": "ANÁLISE MULTIVARIADA DE DADOS",
+        "Semestre": "0",
+        "Apelido": "ANÁLISE MULTIVARIADA DE DADOS",
+        "CargaHorariaTeorico": 0,
+        "CargaHorariaPratica": 0,
+        "ListaPrequisitos": []
+      }
+    ]
+  },
+  {
+    "Id": 48719,
+    "Codigo": "2401.000.286-4",
+    "Tipo": "OPT",
+    "Descricao": "FUNDAMENTOS DE OSCILAÇÕES, ONDAS E FLUIDOS",
+    "Semestre": 99,
+    "Apelido": "FUNDAMENTOS DE OSCILAÇÕES, ONDAS E FLUIDOS",
+    "CargaHorariaTeorico": 34,
+    "CargaHorariaPratica": null,
+    "ListaPrequisitos": []
+  },
+  {
+    "Id": 46514,
+    "Codigo": "2101.001.403-7",
+    "Tipo": "OPT",
+    "Descricao": "GERENCIAMENTO DE PROJETOS SOCIAIS",
+    "Semestre": 99,
+    "Apelido": "GERENCIAMENTO DE PROJETOS SOCIAIS",
+    "CargaHorariaTeorico": 68,
+    "CargaHorariaPratica": null,
+    "ListaPrequisitos": []
+  },
+  {
+    "Id": 46497,
+    "Codigo": "2101.001.387-1",
+    "Tipo": "OPT",
+    "Descricao": "GESTÃO DA QUALIDADE, SAÚDE, MEIO AMBIENTE, SEGURANÇA E RESPONSABILIDADE SOCIAL",
+    "Semestre": 99,
+    "Apelido": "GESTÃO DA QUALIDADE, SAÚDE, MEIO AMBIENTE, SEGURANÇA E RESPONSABILIDADE SOCIAL",
+    "CargaHorariaTeorico": 34,
+    "CargaHorariaPratica": null,
+    "ListaPrequisitos": []
+  },
+  {
+    "Id": 46504,
+    "Codigo": "2101.001.393-3",
+    "Tipo": "OPT",
+    "Descricao": "GESTÃO DE PESSOAS NA ENGENHARIA",
+    "Semestre": 99,
+    "Apelido": "GESTÃO DE PESSOAS NA ENGENHARIA",
+    "CargaHorariaTeorico": 68,
+    "CargaHorariaPratica": null,
+    "ListaPrequisitos": []
+  },
+  {
+    "Id": 32020,
+    "Codigo": "2101.000.480-0",
+    "Tipo": "OPT",
+    "Descricao": "HIDRÁULICA",
+    "Semestre": 99,
+    "Apelido": "HIDRÁULICA",
+    "CargaHorariaTeorico": 34,
+    "CargaHorariaPratica": null,
+    "ListaPrequisitos": []
+  },
+  {
+    "Id": 48812,
+    "Codigo": "2401.000.290-8",
+    "Tipo": "OPT",
+    "Descricao": "LABORATÓRIO DE ONDAS E ELETRICIDADE E MAGNETISMO",
+    "Semestre": 99,
+    "Apelido": "LABORATÓRIO DE ONDAS E ELETRICIDADE E MAGNETISMO",
+    "CargaHorariaTeorico": 34,
+    "CargaHorariaPratica": null,
+    "ListaPrequisitos": [
+      {
+        "Id": 48032,
+        "Codigo": "2401.000.258-8",
+        "Descricao": "FUNDAMENTOS DE ELETROMAGNETISMO",
+        "Semestre": "0",
+        "Apelido": "FUNDAMENTOS DE ELETROMAGNETISMO",
+        "CargaHorariaTeorico": 0,
+        "CargaHorariaPratica": 0,
+        "ListaPrequisitos": []
+      }
+    ]
+  },
+  {
+    "Id": 31965,
+    "Codigo": "2301.000.009-6",
+    "Tipo": "OPT",
+    "Descricao": "LABORATÓRIO DE QUÍMICA GERAL",
+    "Semestre": 99,
+    "Apelido": "LABORATÓRIO DE QUÍMICA GERAL",
+    "CargaHorariaTeorico": 34,
+    "CargaHorariaPratica": null,
+    "ListaPrequisitos": []
+  },
+  {
+    "Id": 32499,
+    "Codigo": "2301.000.145-9",
+    "Tipo": "OPT",
+    "Descricao": "LABORATÓRIO DE QUÍMICA ORGÂNICA",
+    "Semestre": 99,
+    "Apelido": "LABORATÓRIO DE QUÍMICA ORGÂNICA",
+    "CargaHorariaTeorico": 34,
+    "CargaHorariaPratica": null,
+    "ListaPrequisitos": []
+  },
+  {
+    "Id": 32022,
+    "Codigo": "2101.000.482-6",
+    "Tipo": "OPT",
+    "Descricao": "MATERIAIS DE CONSTRUÇÃO CIVIL",
+    "Semestre": 99,
+    "Apelido": "MATERIAIS DE CONSTRUÇÃO CIVIL",
+    "CargaHorariaTeorico": 34,
+    "CargaHorariaPratica": null,
+    "ListaPrequisitos": []
+  },
+  {
+    "Id": 32034,
+    "Codigo": "2101.000.494-0",
+    "Tipo": "OPT",
+    "Descricao": "MICROBIOLOGIA",
+    "Semestre": 99,
+    "Apelido": "MICROBIOLOGIA",
+    "CargaHorariaTeorico": 34,
+    "CargaHorariaPratica": null,
+    "ListaPrequisitos": []
+  },
+  {
+    "Id": 31973,
+    "Codigo": "2101.000.441-9",
+    "Tipo": "OPT",
+    "Descricao": "PLANEJAMENTO DE RECURSOS ENERGÉTICOS PARA AGROINDÚSTRIA",
+    "Semestre": 99,
+    "Apelido": "PLANEJAMENTO DE RECURSOS ENERGÉTICOS PARA AGROINDÚSTRIA",
+    "CargaHorariaTeorico": 34,
+    "CargaHorariaPratica": null,
+    "ListaPrequisitos": []
+  },
+  {
+    "Id": 31782,
+    "Codigo": "2101.000.262-9",
+    "Tipo": "OPT",
+    "Descricao": "PRINCÍPIOS DE COMUNICAÇÃO I",
+    "Semestre": 99,
+    "Apelido": "PRINCÍPIOS DE COMUNICAÇÃO I",
+    "CargaHorariaTeorico": 68,
+    "CargaHorariaPratica": null,
+    "ListaPrequisitos": []
+  },
+  {
+    "Id": 32040,
+    "Codigo": "2101.000.500-8",
+    "Tipo": "OPT",
+    "Descricao": "PROCESSAMENTO DE PRODUTOS DE ORIGEM ANIMAL",
+    "Semestre": 99,
+    "Apelido": "PROCESSAMENTO DE PRODUTOS DE ORIGEM ANIMAL",
+    "CargaHorariaTeorico": 34,
+    "CargaHorariaPratica": null,
+    "ListaPrequisitos": []
+  },
+  {
+    "Id": 32041,
+    "Codigo": "2101.000.501-6",
+    "Tipo": "OPT",
+    "Descricao": "PROCESSAMENTO DE PRODUTOS DE ORIGEM VEGETAL (CONSERVAÇÃO DE ALIMENTOS)",
+    "Semestre": 99,
+    "Apelido": "PROCESSAMENTO DE PRODUTOS DE ORIGEM VEGETAL (CONSERVAÇÃO DE ALIMENTOS)",
+    "CargaHorariaTeorico": 34,
+    "CargaHorariaPratica": null,
+    "ListaPrequisitos": []
+  },
+  {
+    "Id": 32000,
+    "Codigo": "2101.000.460-5",
+    "Tipo": "OPT",
+    "Descricao": "PROCESSOS AGROINDUSTRIAIS",
+    "Semestre": 99,
+    "Apelido": "PROCESSOS AGROINDUSTRIAIS",
+    "CargaHorariaTeorico": 34,
+    "CargaHorariaPratica": null,
+    "ListaPrequisitos": []
+  },
+  {
+    "Id": 32532,
+    "Codigo": "2301.000.170-0",
+    "Tipo": "OPT",
+    "Descricao": "QUÍMICA ORGÂNICA",
+    "Semestre": 99,
+    "Apelido": "QUÍMICA ORGÂNICA",
+    "CargaHorariaTeorico": 68,
+    "CargaHorariaPratica": null,
+    "ListaPrequisitos": []
+  },
+  {
+    "Id": 51130,
+    "Codigo": "2101.001.483-2",
+    "Tipo": "OPT",
+    "Descricao": "SISTEMA DE INFORMAÇÃO E APOIO À DECISÃO",
+    "Semestre": 99,
+    "Apelido": "SISTEMA DE INFORMAÇÃO E APOIO À DECISÃO",
+    "CargaHorariaTeorico": 34,
+    "CargaHorariaPratica": null,
+    "ListaPrequisitos": []
+  },
+  {
+    "Id": 34318,
+    "Codigo": "2101.000.821-0",
+    "Tipo": "OPT",
+    "Descricao": "SISTEMAS CONSTRUTIVOS",
+    "Semestre": 99,
+    "Apelido": "SISTEMAS CONSTRUTIVOS",
+    "CargaHorariaTeorico": 34,
+    "CargaHorariaPratica": null,
+    "ListaPrequisitos": []
+  },
+  {
+    "Id": 46485,
+    "Codigo": "2101.001.375-5",
+    "Tipo": "OPT",
+    "Descricao": "SISTEMAS DE PRODUÇÃO 4.0 INTEGRADOS À GESTÃO 4.0",
+    "Semestre": 99,
+    "Apelido": "SISTEMAS DE PRODUÇÃO 4.0 INTEGRADOS À GESTÃO 4.0",
+    "CargaHorariaTeorico": 51,
+    "CargaHorariaPratica": null,
+    "ListaPrequisitos": []
+  },
+  {
+    "Id": 32021,
+    "Codigo": "2101.000.481-8",
+    "Tipo": "OPT",
+    "Descricao": "SISTEMAS ESTRUTURAIS E TEORIA DAS ESTRUTURAS",
+    "Semestre": 99,
+    "Apelido": "SISTEMAS ESTRUTURAIS E TEORIA DAS ESTRUTURAS",
+    "CargaHorariaTeorico": 34,
+    "CargaHorariaPratica": null,
+    "ListaPrequisitos": []
+  },
+  {
+    "Id": 51112,
+    "Codigo": "2101.001.465-4",
+    "Tipo": "OPT",
+    "Descricao": "SISTEMAS INTELIGENTES NO APOIO À DECISÃO I",
+    "Semestre": 99,
+    "Apelido": "SISTEMAS INTELIGENTES NO APOIO À DECISÃO I",
+    "CargaHorariaTeorico": 34,
+    "CargaHorariaPratica": null,
+    "ListaPrequisitos": [
+      {
+        "Id": 51125,
+        "Codigo": "2101.001.478-0",
+        "Descricao": "PESQUISA OPERACIONAL II",
+        "Semestre": "0",
+        "Apelido": "PESQUISA OPERACIONAL II",
+        "CargaHorariaTeorico": 0,
+        "CargaHorariaPratica": 0,
+        "ListaPrequisitos": []
+      }
+    ]
+  },
+  {
+    "Id": 51110,
+    "Codigo": "2101.001.463-6",
+    "Tipo": "OPT",
+    "Descricao": "SISTEMAS INTELIGENTES NO APOIO À DECISÃO II",
+    "Semestre": 99,
+    "Apelido": "SISTEMAS INTELIGENTES NO APOIO À DECISÃO II",
+    "CargaHorariaTeorico": 34,
+    "CargaHorariaPratica": null,
+    "ListaPrequisitos": [
+      {
+        "Id": 51125,
+        "Codigo": "2101.001.478-0",
+        "Descricao": "PESQUISA OPERACIONAL II",
+        "Semestre": "0",
+        "Apelido": "PESQUISA OPERACIONAL II",
+        "CargaHorariaTeorico": 0,
+        "CargaHorariaPratica": 0,
+        "ListaPrequisitos": []
+      }
+    ]
+  },
+  {
+    "Id": 51109,
+    "Codigo": "2101.001.462-7",
+    "Tipo": "OPT",
+    "Descricao": "SISTEMAS INTELIGENTES NO APOIO À DECISÃO III",
+    "Semestre": 99,
+    "Apelido": "SISTEMAS INTELIGENTES NO APOIO À DECISÃO III",
+    "CargaHorariaTeorico": 34,
+    "CargaHorariaPratica": null,
+    "ListaPrequisitos": [
+      {
+        "Id": 51125,
+        "Codigo": "2101.001.478-0",
+        "Descricao": "PESQUISA OPERACIONAL II",
+        "Semestre": "0",
+        "Apelido": "PESQUISA OPERACIONAL II",
+        "CargaHorariaTeorico": 0,
+        "CargaHorariaPratica": 0,
+        "ListaPrequisitos": []
+      }
+    ]
+  },
+  {
+    "Id": 43548,
+    "Codigo": "2401.000.221-6",
+    "Tipo": "OPT",
+    "Descricao": "TERMODINÂMICA",
+    "Semestre": 99,
+    "Apelido": "TERMODINÂMICA",
+    "CargaHorariaTeorico": 34,
+    "CargaHorariaPratica": null,
+    "ListaPrequisitos": []
+  },
+  {
+    "Id": 31975,
+    "Codigo": "2101.000.443-5",
+    "Tipo": "OPT",
+    "Descricao": "TÓPICOS EM PLANEJAMENTO E CONTROLE DA PRODUÇÃO",
+    "Semestre": 99,
+    "Apelido": "TÓPICOS EM PLANEJAMENTO E CONTROLE DA PRODUÇÃO",
+    "CargaHorariaTeorico": 34,
+    "CargaHorariaPratica": null,
+    "ListaPrequisitos": [
+      {
+        "Id": 32015,
+        "Codigo": "2101.000.475-3",
+        "Descricao": "PLANEJAMENTO E CONTROLE DA PRODUÇÃO II",
+        "Semestre": "0",
+        "Apelido": "PLANEJAMENTO E CONTROLE DA PRODUÇÃO II",
+        "CargaHorariaTeorico": 0,
+        "CargaHorariaPratica": 0,
+        "ListaPrequisitos": []
+      }
+    ]
+  },
+  {
+    "Id": 51139,
+    "Codigo": "2101.001.492-1",
+    "Tipo": "OPT",
+    "Descricao": "TÓPICOS ESPECIAIS EM EDUCAÇÃO EM ENGENHARIA DE PRODUÇÃO",
+    "Semestre": 99,
+    "Apelido": "TÓPICOS ESPECIAIS EM EDUCAÇÃO EM ENGENHARIA DE PRODUÇÃO",
+    "CargaHorariaTeorico": 34,
+    "CargaHorariaPratica": null,
+    "ListaPrequisitos": []
+  },
+  {
+    "Id": 34348,
+    "Codigo": "2101.000.850-3",
+    "Tipo": "OPT",
+    "Descricao": "TÓPICOS ESPECIAIS EM ENGENHARIA DA QUALIDADE",
+    "Semestre": 99,
+    "Apelido": "TÓPICOS ESPECIAIS EM ENGENHARIA DA QUALIDADE",
+    "CargaHorariaTeorico": 34,
+    "CargaHorariaPratica": null,
+    "ListaPrequisitos": []
+  },
+  {
+    "Id": 34349,
+    "Codigo": "2101.000.851-1",
+    "Tipo": "OPT",
+    "Descricao": "TÓPICOS ESPECIAIS EM ENGENHARIA DA SUSTENTABILIDADE",
+    "Semestre": 99,
+    "Apelido": "TÓPICOS ESPECIAIS EM ENGENHARIA DA SUSTENTABILIDADE",
+    "CargaHorariaTeorico": 34,
+    "CargaHorariaPratica": null,
+    "ListaPrequisitos": []
+  },
+  {
+    "Id": 34346,
+    "Codigo": "2101.000.848-1",
+    "Tipo": "OPT",
+    "Descricao": "TÓPICOS ESPECIAIS EM ENGENHARIA DE OPERAÇÕES E PROCESSOS DA PRODUÇÃO",
+    "Semestre": 99,
+    "Apelido": "TÓPICOS ESPECIAIS EM ENGENHARIA DE OPERAÇÕES E PROCESSOS DA PRODUÇÃO",
+    "CargaHorariaTeorico": 34,
+    "CargaHorariaPratica": null,
+    "ListaPrequisitos": []
+  },
+  {
+    "Id": 34350,
+    "Codigo": "2101.000.852-0",
+    "Tipo": "OPT",
+    "Descricao": "TÓPICOS ESPECIAIS EM ENGENHARIA DO PRODUTO",
+    "Semestre": 99,
+    "Apelido": "TÓPICOS ESPECIAIS EM ENGENHARIA DO PRODUTO",
+    "CargaHorariaTeorico": 34,
+    "CargaHorariaPratica": null,
+    "ListaPrequisitos": [
+      {
+        "Id": 51133,
+        "Codigo": "2101.001.486-0",
+        "Descricao": "PROJETO E DESENVOLVIMENTO DE PRODUTOS",
+        "Semestre": "0",
+        "Apelido": "PROJETO E DESENVOLVIMENTO DE PRODUTOS",
+        "CargaHorariaTeorico": 0,
+        "CargaHorariaPratica": 0,
+        "ListaPrequisitos": []
+      }
+    ]
+  },
+  {
+    "Id": 34351,
+    "Codigo": "2101.000.853-8",
+    "Tipo": "OPT",
+    "Descricao": "TÓPICOS ESPECIAIS EM ENGENHARIA DO TRABALHO",
+    "Semestre": 99,
+    "Apelido": "TÓPICOS ESPECIAIS EM ENGENHARIA DO TRABALHO",
+    "CargaHorariaTeorico": 34,
+    "CargaHorariaPratica": null,
+    "ListaPrequisitos": []
+  },
+  {
+    "Id": 34352,
+    "Codigo": "2101.000.854-6",
+    "Tipo": "OPT",
+    "Descricao": "TÓPICOS ESPECIAIS EM ENGENHARIA ECONÔMICA",
+    "Semestre": 99,
+    "Apelido": "TÓPICOS ESPECIAIS EM ENGENHARIA ECONÔMICA",
+    "CargaHorariaTeorico": 34,
+    "CargaHorariaPratica": null,
+    "ListaPrequisitos": []
+  },
+  {
+    "Id": 34347,
+    "Codigo": "2101.000.849-0",
+    "Tipo": "OPT",
+    "Descricao": "TÓPICOS ESPECIAIS EM ENGENHARIA ORGANIZACIONAL",
+    "Semestre": 99,
+    "Apelido": "TÓPICOS ESPECIAIS EM ENGENHARIA ORGANIZACIONAL",
+    "CargaHorariaTeorico": 34,
+    "CargaHorariaPratica": null,
+    "ListaPrequisitos": []
+  },
+  {
+    "Id": 51108,
+    "Codigo": "2101.001.461-8",
+    "Tipo": "OPT",
+    "Descricao": "TÓPICOS ESPECIAIS EM GESTÃO DA INOVAÇÃO TECNOLÓGICA",
+    "Semestre": 99,
+    "Apelido": "TÓPICOS ESPECIAIS EM GESTÃO DA INOVAÇÃO TECNOLÓGICA",
+    "CargaHorariaTeorico": 34,
+    "CargaHorariaPratica": null,
+    "ListaPrequisitos": []
+  },
+  {
+    "Id": 34353,
+    "Codigo": "2101.000.855-4",
+    "Tipo": "OPT",
+    "Descricao": "TÓPICOS ESPECIAIS EM LOGÍSTICA",
+    "Semestre": 99,
+    "Apelido": "TÓPICOS ESPECIAIS EM LOGÍSTICA",
+    "CargaHorariaTeorico": 34,
+    "CargaHorariaPratica": null,
+    "ListaPrequisitos": []
+  },
+  {
+    "Id": 34354,
+    "Codigo": "2101.000.856-2",
+    "Tipo": "OPT",
+    "Descricao": "TÓPICOS ESPECIAIS EM PESQUISA OPERACIONAL",
+    "Semestre": 99,
+    "Apelido": "TÓPICOS ESPECIAIS EM PESQUISA OPERACIONAL",
+    "CargaHorariaTeorico": 34,
+    "CargaHorariaPratica": null,
+    "ListaPrequisitos": [
+      {
+        "Id": 51125,
+        "Codigo": "2101.001.478-0",
+        "Descricao": "PESQUISA OPERACIONAL II",
+        "Semestre": "0",
+        "Apelido": "PESQUISA OPERACIONAL II",
+        "CargaHorariaTeorico": 0,
+        "CargaHorariaPratica": 0,
+        "ListaPrequisitos": []
+      }
+    ]
+  },
+  {
+    "Id": 51137,
+    "Codigo": "2101.001.490-3",
+    "Tipo": "OPT",
+    "Descricao": "TÓPICOS ESPECIAIS EM PESQUISA OPERACIONAL II",
+    "Semestre": 99,
+    "Apelido": "TÓPICOS ESPECIAIS EM PESQUISA OPERACIONAL II",
+    "CargaHorariaTeorico": 34,
+    "CargaHorariaPratica": null,
+    "ListaPrequisitos": [
+      {
+        "Id": 51125,
+        "Codigo": "2101.001.478-0",
+        "Descricao": "PESQUISA OPERACIONAL II",
+        "Semestre": "0",
+        "Apelido": "PESQUISA OPERACIONAL II",
+        "CargaHorariaTeorico": 0,
+        "CargaHorariaPratica": 0,
+        "ListaPrequisitos": []
+      }
+    ]
+  },
+  {
+    "Id": 51126,
+    "Codigo": "2101.001.479-9",
+    "Tipo": "OPT",
+    "Descricao": "TRANSFORMAÇÃO DIGITAL EM BUSINESS INTELLIGENCE EMPREGADA NA MANUFATURA AVANÇADA",
+    "Semestre": 99,
+    "Apelido": "TRANSFORMAÇÃO DIGITAL EM BUSINESS INTELLIGENCE EMPREGADA NA MANUFATURA AVANÇADA",
+    "CargaHorariaTeorico": 51,
+    "CargaHorariaPratica": null,
+    "ListaPrequisitos": []
+  }
+]

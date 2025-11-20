@@ -1,0 +1,1421 @@
+[
+  {
+    "Id": 50382,
+    "Codigo": "2601.000.449-7",
+    "Tipo": "OBR",
+    "Descricao": "INTRODUÇÃO À ENGENHARIA DE ALIMENTOS",
+    "Semestre": 1,
+    "Apelido": "INTRODUÇÃO À ENGENHARIA DE ALIMENTOS",
+    "CargaHorariaTeorico": 34,
+    "CargaHorariaPratica": null,
+    "ListaPrequisitos": []
+  },
+  {
+    "Id": 48331,
+    "Codigo": "2201.000.203-8",
+    "Tipo": "OBR",
+    "Descricao": "MATEMÁTICA ELEMENTAR",
+    "Semestre": 1,
+    "Apelido": "MATEMÁTICA ELEMENTAR",
+    "CargaHorariaTeorico": 68,
+    "CargaHorariaPratica": null,
+    "ListaPrequisitos": []
+  },
+  {
+    "Id": 45198,
+    "Codigo": "2701.000.293-0",
+    "Tipo": "OBR",
+    "Descricao": "MICROBIOLOGIA",
+    "Semestre": 1,
+    "Apelido": "MICROBIOLOGIA",
+    "CargaHorariaTeorico": 34,
+    "CargaHorariaPratica": null,
+    "ListaPrequisitos": []
+  },
+  {
+    "Id": 37193,
+    "Codigo": "2301.000.268-4",
+    "Tipo": "OBR",
+    "Descricao": "QUÍMICA GERAL I",
+    "Semestre": 1,
+    "Apelido": "QUÍMICA GERAL I",
+    "CargaHorariaTeorico": 68,
+    "CargaHorariaPratica": null,
+    "ListaPrequisitos": []
+  },
+  {
+    "Id": 45245,
+    "Codigo": "3001.000.536-7",
+    "Tipo": "OBR",
+    "Descricao": "RELAÇÕES ÉTNICO-RACIAIS",
+    "Semestre": 1,
+    "Apelido": "RELAÇÕES ÉTNICO-RACIAIS",
+    "CargaHorariaTeorico": 34,
+    "CargaHorariaPratica": null,
+    "ListaPrequisitos": []
+  },
+  {
+    "Id": 50352,
+    "Codigo": "2601.000.419-2",
+    "Tipo": "OBR",
+    "Descricao": "SEGURANÇA ALIMENTAR E NUTRICIONAL",
+    "Semestre": 1,
+    "Apelido": "SEGURANÇA ALIMENTAR E NUTRICIONAL",
+    "CargaHorariaTeorico": 34,
+    "CargaHorariaPratica": null,
+    "ListaPrequisitos": []
+  },
+  {
+    "Id": 50363,
+    "Codigo": "2601.000.430-7",
+    "Tipo": "OBR",
+    "Descricao": "SISTEMA AGROINDUSTRIAL ALIMENTAR",
+    "Semestre": 1,
+    "Apelido": "SISTEMA AGROINDUSTRIAL ALIMENTAR",
+    "CargaHorariaTeorico": 51,
+    "CargaHorariaPratica": null,
+    "ListaPrequisitos": []
+  },
+  {
+    "Id": 48016,
+    "Codigo": "2201.000.197-0",
+    "Tipo": "OBR",
+    "Descricao": "CÁLCULO I",
+    "Semestre": 2,
+    "Apelido": "CÁLCULO I",
+    "CargaHorariaTeorico": 68,
+    "CargaHorariaPratica": null,
+    "ListaPrequisitos": []
+  },
+  {
+    "Id": 48809,
+    "Codigo": "2101.001.407-3",
+    "Tipo": "OBR",
+    "Descricao": "DESENHO TÉCNICO",
+    "Semestre": 2,
+    "Apelido": "DESENHO TÉCNICO",
+    "CargaHorariaTeorico": 68,
+    "CargaHorariaPratica": null,
+    "ListaPrequisitos": []
+  },
+  {
+    "Id": 50354,
+    "Codigo": "2601.000.421-8",
+    "Tipo": "OBR",
+    "Descricao": "FUNDAMENTOS DA NUTRIÇÃO",
+    "Semestre": 2,
+    "Apelido": "FUNDAMENTOS DA NUTRIÇÃO",
+    "CargaHorariaTeorico": 34,
+    "CargaHorariaPratica": null,
+    "ListaPrequisitos": []
+  },
+  {
+    "Id": 46735,
+    "Codigo": "2601.000.378-5",
+    "Tipo": "OBR",
+    "Descricao": "FUNDAMENTOS DE QUÍMICA ANALÍTICA",
+    "Semestre": 2,
+    "Apelido": "FUNDAMENTOS DE QUÍMICA ANALÍTICA",
+    "CargaHorariaTeorico": 34,
+    "CargaHorariaPratica": null,
+    "ListaPrequisitos": []
+  },
+  {
+    "Id": 50353,
+    "Codigo": "2601.000.420-9",
+    "Tipo": "OBR",
+    "Descricao": "METODOLOGIA DA PESQUISA",
+    "Semestre": 2,
+    "Apelido": "METODOLOGIA DA PESQUISA",
+    "CargaHorariaTeorico": 34,
+    "CargaHorariaPratica": null,
+    "ListaPrequisitos": []
+  },
+  {
+    "Id": 48041,
+    "Codigo": "2301.000.347-6",
+    "Tipo": "OBR",
+    "Descricao": "QUÍMICA ORGÂNICA I",
+    "Semestre": 2,
+    "Apelido": "QUÍMICA ORGÂNICA I",
+    "CargaHorariaTeorico": 51,
+    "CargaHorariaPratica": null,
+    "ListaPrequisitos": []
+  },
+  {
+    "Id": 48008,
+    "Codigo": "2201.000.195-2",
+    "Tipo": "OBR",
+    "Descricao": "VETORES E GEOMETRIA ANALÍTICA",
+    "Semestre": 2,
+    "Apelido": "VETORES E GEOMETRIA ANALÍTICA",
+    "CargaHorariaTeorico": 68,
+    "CargaHorariaPratica": null,
+    "ListaPrequisitos": []
+  },
+  {
+    "Id": 50398,
+    "Codigo": "2601.000.465-7",
+    "Tipo": "OBR",
+    "Descricao": "ANÁLISE FÍSICO-QUÍMICA DE ALIMENTOS",
+    "Semestre": 3,
+    "Apelido": "ANÁLISE FÍSICO-QUÍMICA DE ALIMENTOS",
+    "CargaHorariaTeorico": 51,
+    "CargaHorariaPratica": null,
+    "ListaPrequisitos": []
+  },
+  {
+    "Id": 45219,
+    "Codigo": "2601.000.239-4",
+    "Tipo": "OBR",
+    "Descricao": "BIOQUÍMICA DE ALIMENTOS I",
+    "Semestre": 3,
+    "Apelido": "BIOQUÍMICA DE ALIMENTOS I",
+    "CargaHorariaTeorico": 51,
+    "CargaHorariaPratica": null,
+    "ListaPrequisitos": []
+  },
+  {
+    "Id": 48017,
+    "Codigo": "2201.000.198-0",
+    "Tipo": "OBR",
+    "Descricao": "CÁLCULO II",
+    "Semestre": 3,
+    "Apelido": "CÁLCULO II",
+    "CargaHorariaTeorico": 68,
+    "CargaHorariaPratica": null,
+    "ListaPrequisitos": []
+  },
+  {
+    "Id": 48034,
+    "Codigo": "2401.000.260-3",
+    "Tipo": "OBR",
+    "Descricao": "FUNDAMENTOS DE MECÂNICA",
+    "Semestre": 3,
+    "Apelido": "FUNDAMENTOS DE MECÂNICA",
+    "CargaHorariaTeorico": 68,
+    "CargaHorariaPratica": null,
+    "ListaPrequisitos": []
+  },
+  {
+    "Id": 46730,
+    "Codigo": "2601.000.373-0",
+    "Tipo": "OBR",
+    "Descricao": "MICROBIOLOGIA DE ALIMENTOS",
+    "Semestre": 3,
+    "Apelido": "MICROBIOLOGIA DE ALIMENTOS",
+    "CargaHorariaTeorico": 68,
+    "CargaHorariaPratica": null,
+    "ListaPrequisitos": [
+      {
+        "Id": 45198,
+        "Codigo": "2701.000.293-0",
+        "Descricao": "MICROBIOLOGIA",
+        "Semestre": "0",
+        "Apelido": "MICROBIOLOGIA",
+        "CargaHorariaTeorico": 0,
+        "CargaHorariaPratica": 0,
+        "ListaPrequisitos": []
+      }
+    ]
+  },
+  {
+    "Id": 50373,
+    "Codigo": "2601.000.440-5",
+    "Tipo": "OBR",
+    "Descricao": "QUÍMICA DE ALIMENTOS",
+    "Semestre": 3,
+    "Apelido": "QUÍMICA DE ALIMENTOS",
+    "CargaHorariaTeorico": 34,
+    "CargaHorariaPratica": null,
+    "ListaPrequisitos": []
+  },
+  {
+    "Id": 48791,
+    "Codigo": "1919.000.459-3",
+    "Tipo": "OBR",
+    "Descricao": "ALGORITMOS E PROGRAMAÇÃO",
+    "Semestre": 4,
+    "Apelido": "ALGORITMOS E PROGRAMAÇÃO",
+    "CargaHorariaTeorico": 51,
+    "CargaHorariaPratica": null,
+    "ListaPrequisitos": []
+  },
+  {
+    "Id": 50357,
+    "Codigo": "2601.000.424-5",
+    "Tipo": "OBR",
+    "Descricao": "ANÁLISE E CONTROLE DE QUALIDADE DE ALIMENTOS",
+    "Semestre": 4,
+    "Apelido": "ANÁLISE E CONTROLE DE QUALIDADE DE ALIMENTOS",
+    "CargaHorariaTeorico": 68,
+    "CargaHorariaPratica": null,
+    "ListaPrequisitos": []
+  },
+  {
+    "Id": 50379,
+    "Codigo": "2601.000.446-0",
+    "Tipo": "OBR",
+    "Descricao": "BIOQUÍMICA DE ALIMENTOS II",
+    "Semestre": 4,
+    "Apelido": "BIOQUÍMICA DE ALIMENTOS II",
+    "CargaHorariaTeorico": 51,
+    "CargaHorariaPratica": null,
+    "ListaPrequisitos": [
+      {
+        "Id": 45219,
+        "Codigo": "2601.000.239-4",
+        "Descricao": "BIOQUÍMICA DE ALIMENTOS I",
+        "Semestre": "0",
+        "Apelido": "BIOQUÍMICA DE ALIMENTOS I",
+        "CargaHorariaTeorico": 0,
+        "CargaHorariaPratica": 0,
+        "ListaPrequisitos": []
+      }
+    ]
+  },
+  {
+    "Id": 48318,
+    "Codigo": "2201.000.201-0",
+    "Tipo": "OBR",
+    "Descricao": "CÁLCULO III",
+    "Semestre": 4,
+    "Apelido": "CÁLCULO III",
+    "CargaHorariaTeorico": 68,
+    "CargaHorariaPratica": null,
+    "ListaPrequisitos": []
+  },
+  {
+    "Id": 46723,
+    "Codigo": "2601.000.366-9",
+    "Tipo": "OBR",
+    "Descricao": "FÍSICO-QUÍMICA",
+    "Semestre": 4,
+    "Apelido": "FÍSICO-QUÍMICA",
+    "CargaHorariaTeorico": 34,
+    "CargaHorariaPratica": null,
+    "ListaPrequisitos": []
+  },
+  {
+    "Id": 48798,
+    "Codigo": "2401.000.289-1",
+    "Tipo": "OBR",
+    "Descricao": "FUNDAMENTOS DE TERMODINÂMICA",
+    "Semestre": 4,
+    "Apelido": "FUNDAMENTOS DE TERMODINÂMICA",
+    "CargaHorariaTeorico": 34,
+    "CargaHorariaPratica": null,
+    "ListaPrequisitos": [
+      {
+        "Id": 48016,
+        "Codigo": "2201.000.197-0",
+        "Descricao": "CÁLCULO I",
+        "Semestre": "0",
+        "Apelido": "CÁLCULO I",
+        "CargaHorariaTeorico": 0,
+        "CargaHorariaPratica": 0,
+        "ListaPrequisitos": []
+      }
+    ]
+  },
+  {
+    "Id": 50369,
+    "Codigo": "2601.000.436-1",
+    "Tipo": "OBR",
+    "Descricao": "GESTÃO AMBIENTAL E SUSTENTABILIDADE",
+    "Semestre": 4,
+    "Apelido": "GESTÃO AMBIENTAL E SUSTENTABILIDADE",
+    "CargaHorariaTeorico": 51,
+    "CargaHorariaPratica": null,
+    "ListaPrequisitos": []
+  },
+  {
+    "Id": 46751,
+    "Codigo": "2601.000.394-5",
+    "Tipo": "OBR",
+    "Descricao": "FENÔMENOS DE TRANSPORTE I",
+    "Semestre": 5,
+    "Apelido": "FENÔMENOS DE TRANSPORTE I",
+    "CargaHorariaTeorico": 51,
+    "CargaHorariaPratica": null,
+    "ListaPrequisitos": []
+  },
+  {
+    "Id": 45236,
+    "Codigo": "2401.000.236-3",
+    "Tipo": "OBR",
+    "Descricao": "FUNDAMENTOS DA ELETRICIDADE",
+    "Semestre": 5,
+    "Apelido": "FUNDAMENTOS DA ELETRICIDADE",
+    "CargaHorariaTeorico": 34,
+    "CargaHorariaPratica": null,
+    "ListaPrequisitos": []
+  },
+  {
+    "Id": 49460,
+    "Codigo": "2601.000.412-9",
+    "Tipo": "OBR",
+    "Descricao": "GERENCIAMENTO DA QUALIDADE",
+    "Semestre": 5,
+    "Apelido": "GERENCIAMENTO DA QUALIDADE",
+    "CargaHorariaTeorico": 34,
+    "CargaHorariaPratica": null,
+    "ListaPrequisitos": []
+  },
+  {
+    "Id": 48723,
+    "Codigo": "2401.000.287-3",
+    "Tipo": "OBR",
+    "Descricao": "LABORATÓRIO DE MECÂNICA, FLUIDOS E TERMODINÂMICA",
+    "Semestre": 5,
+    "Apelido": "LABORATÓRIO DE MECÂNICA, FLUIDOS E TERMODINÂMICA",
+    "CargaHorariaTeorico": 34,
+    "CargaHorariaPratica": null,
+    "ListaPrequisitos": []
+  },
+  {
+    "Id": 50386,
+    "Codigo": "2601.000.453-0",
+    "Tipo": "OBR",
+    "Descricao": "LEGISLAÇÃO NA INDÚSTRIA DE ALIMENTOS",
+    "Semestre": 5,
+    "Apelido": "LEGISLAÇÃO NA INDÚSTRIA DE ALIMENTOS",
+    "CargaHorariaTeorico": 34,
+    "CargaHorariaPratica": null,
+    "ListaPrequisitos": []
+  },
+  {
+    "Id": 48009,
+    "Codigo": "2201.000.196-1",
+    "Tipo": "OBR",
+    "Descricao": "PROBABILIDADE E ESTATÍSTICA",
+    "Semestre": 5,
+    "Apelido": "PROBABILIDADE E ESTATÍSTICA",
+    "CargaHorariaTeorico": 68,
+    "CargaHorariaPratica": null,
+    "ListaPrequisitos": []
+  },
+  {
+    "Id": 46747,
+    "Codigo": "2601.000.390-9",
+    "Tipo": "OBR",
+    "Descricao": "TERMODINÂMICA APLICADA",
+    "Semestre": 5,
+    "Apelido": "TERMODINÂMICA APLICADA",
+    "CargaHorariaTeorico": 68,
+    "CargaHorariaPratica": null,
+    "ListaPrequisitos": [
+      {
+        "Id": 48798,
+        "Codigo": "2401.000.289-1",
+        "Descricao": "FUNDAMENTOS DE TERMODINÂMICA",
+        "Semestre": "0",
+        "Apelido": "FUNDAMENTOS DE TERMODINÂMICA",
+        "CargaHorariaTeorico": 0,
+        "CargaHorariaPratica": 0,
+        "ListaPrequisitos": []
+      }
+    ]
+  },
+  {
+    "Id": 45244,
+    "Codigo": "2601.000.260-7",
+    "Tipo": "OBR",
+    "Descricao": "ANÁLISE SENSORIAL",
+    "Semestre": 6,
+    "Apelido": "ANÁLISE SENSORIAL",
+    "CargaHorariaTeorico": 51,
+    "CargaHorariaPratica": null,
+    "ListaPrequisitos": []
+  },
+  {
+    "Id": 50359,
+    "Codigo": "2601.000.426-3",
+    "Tipo": "OBR",
+    "Descricao": "CIÊNCIA E TECNOLOGIA DE GRÃOS, RAÍZES E TUBÉRCULOS",
+    "Semestre": 6,
+    "Apelido": "CIÊNCIA E TECNOLOGIA DE GRÃOS, RAÍZES E TUBÉRCULOS",
+    "CargaHorariaTeorico": 85,
+    "CargaHorariaPratica": null,
+    "ListaPrequisitos": []
+  },
+  {
+    "Id": 50362,
+    "Codigo": "2601.000.429-0",
+    "Tipo": "OBR",
+    "Descricao": "CIÊNCIA E TECNOLOGIA DE LEITES",
+    "Semestre": 6,
+    "Apelido": "CIÊNCIA E TECNOLOGIA DE LEITES",
+    "CargaHorariaTeorico": 85,
+    "CargaHorariaPratica": null,
+    "ListaPrequisitos": [
+      {
+        "Id": 45219,
+        "Codigo": "2601.000.239-4",
+        "Descricao": "BIOQUÍMICA DE ALIMENTOS I",
+        "Semestre": "0",
+        "Apelido": "BIOQUÍMICA DE ALIMENTOS I",
+        "CargaHorariaTeorico": 0,
+        "CargaHorariaPratica": 0,
+        "ListaPrequisitos": []
+      }
+    ]
+  },
+  {
+    "Id": 50358,
+    "Codigo": "2601.000.425-4",
+    "Tipo": "OBR",
+    "Descricao": "ENGENHARIA BIOQUÍMICA",
+    "Semestre": 6,
+    "Apelido": "ENGENHARIA BIOQUÍMICA",
+    "CargaHorariaTeorico": 34,
+    "CargaHorariaPratica": null,
+    "ListaPrequisitos": [
+      {
+        "Id": 45219,
+        "Codigo": "2601.000.239-4",
+        "Descricao": "BIOQUÍMICA DE ALIMENTOS I",
+        "Semestre": "0",
+        "Apelido": "BIOQUÍMICA DE ALIMENTOS I",
+        "CargaHorariaTeorico": 0,
+        "CargaHorariaPratica": 0,
+        "ListaPrequisitos": []
+      }
+    ]
+  },
+  {
+    "Id": 50372,
+    "Codigo": "2601.000.439-9",
+    "Tipo": "OBR",
+    "Descricao": "FENÔMENOS DE TRANSPORTE II",
+    "Semestre": 6,
+    "Apelido": "FENÔMENOS DE TRANSPORTE II",
+    "CargaHorariaTeorico": 68,
+    "CargaHorariaPratica": null,
+    "ListaPrequisitos": [
+      {
+        "Id": 46751,
+        "Codigo": "2601.000.394-5",
+        "Descricao": "FENÔMENOS DE TRANSPORTE I",
+        "Semestre": "0",
+        "Apelido": "FENÔMENOS DE TRANSPORTE I",
+        "CargaHorariaTeorico": 0,
+        "CargaHorariaPratica": 0,
+        "ListaPrequisitos": []
+      }
+    ]
+  },
+  {
+    "Id": 45194,
+    "Codigo": "2401.000.235-4",
+    "Tipo": "OBR",
+    "Descricao": "FUNDAMENTOS DE CIÊNCIA DOS MATERIAIS",
+    "Semestre": 6,
+    "Apelido": "FUNDAMENTOS DE CIÊNCIA DOS MATERIAIS",
+    "CargaHorariaTeorico": 34,
+    "CargaHorariaPratica": null,
+    "ListaPrequisitos": []
+  },
+  {
+    "Id": 50355,
+    "Codigo": "2601.000.422-7",
+    "Tipo": "OBR",
+    "Descricao": "GESTÃO DA SEGURANÇA DE ALIMENTOS",
+    "Semestre": 6,
+    "Apelido": "GESTÃO DA SEGURANÇA DE ALIMENTOS",
+    "CargaHorariaTeorico": 51,
+    "CargaHorariaPratica": null,
+    "ListaPrequisitos": []
+  },
+  {
+    "Id": 45251,
+    "Codigo": "2601.000.266-1",
+    "Tipo": "OBR",
+    "Descricao": "CIÊNCIA E TECNOLOGIA DE CARNES",
+    "Semestre": 7,
+    "Apelido": "CIÊNCIA E TECNOLOGIA DE CARNES",
+    "CargaHorariaTeorico": 85,
+    "CargaHorariaPratica": null,
+    "ListaPrequisitos": []
+  },
+  {
+    "Id": 46725,
+    "Codigo": "2601.000.368-7",
+    "Tipo": "OBR",
+    "Descricao": "CIÊNCIA E TECNOLOGIA DE FRUTAS E HORTALIÇAS",
+    "Semestre": 7,
+    "Apelido": "CIÊNCIA E TECNOLOGIA DE FRUTAS E HORTALIÇAS",
+    "CargaHorariaTeorico": 85,
+    "CargaHorariaPratica": null,
+    "ListaPrequisitos": []
+  },
+  {
+    "Id": 50387,
+    "Codigo": "2601.000.454-0",
+    "Tipo": "OBR",
+    "Descricao": "EMBALAGENS PARA ALIMENTOS",
+    "Semestre": 7,
+    "Apelido": "EMBALAGENS PARA ALIMENTOS",
+    "CargaHorariaTeorico": 51,
+    "CargaHorariaPratica": null,
+    "ListaPrequisitos": []
+  },
+  {
+    "Id": 42904,
+    "Codigo": "2501.000.130-7",
+    "Tipo": "OBR",
+    "Descricao": "FUNDAMENTOS DE ECONOMIA",
+    "Semestre": 7,
+    "Apelido": "FUNDAMENTOS DE ECONOMIA",
+    "CargaHorariaTeorico": 34,
+    "CargaHorariaPratica": null,
+    "ListaPrequisitos": []
+  },
+  {
+    "Id": 46738,
+    "Codigo": "2601.000.381-0",
+    "Tipo": "OBR",
+    "Descricao": "OPERAÇÕES UNITÁRIAS NA INDÚSTRIA DE ALIMENTOS I",
+    "Semestre": 7,
+    "Apelido": "OPERAÇÕES UNITÁRIAS NA INDÚSTRIA DE ALIMENTOS I",
+    "CargaHorariaTeorico": 51,
+    "CargaHorariaPratica": null,
+    "ListaPrequisitos": [
+      {
+        "Id": 46751,
+        "Codigo": "2601.000.394-5",
+        "Descricao": "FENÔMENOS DE TRANSPORTE I",
+        "Semestre": "0",
+        "Apelido": "FENÔMENOS DE TRANSPORTE I",
+        "CargaHorariaTeorico": 0,
+        "CargaHorariaPratica": 0,
+        "ListaPrequisitos": []
+      }
+    ]
+  },
+  {
+    "Id": 50367,
+    "Codigo": "2601.000.434-3",
+    "Tipo": "OBR",
+    "Descricao": "TRATAMENTO DE RESÍDUOS NA INDÚSTRIA DE ALIMENTOS",
+    "Semestre": 7,
+    "Apelido": "TRATAMENTO DE RESÍDUOS NA INDÚSTRIA DE ALIMENTOS",
+    "CargaHorariaTeorico": 68,
+    "CargaHorariaPratica": null,
+    "ListaPrequisitos": []
+  },
+  {
+    "Id": 50389,
+    "Codigo": "2601.000.456-8",
+    "Tipo": "OBR",
+    "Descricao": "CIÊNCIA E TECNOLOGIA DE CANA-DE-AÇÚCAR",
+    "Semestre": 8,
+    "Apelido": "CIÊNCIA E TECNOLOGIA DE CANA-DE-AÇÚCAR",
+    "CargaHorariaTeorico": 51,
+    "CargaHorariaPratica": null,
+    "ListaPrequisitos": []
+  },
+  {
+    "Id": 50364,
+    "Codigo": "2601.000.431-6",
+    "Tipo": "OBR",
+    "Descricao": "EMPREENDEDORISMO",
+    "Semestre": 8,
+    "Apelido": "EMPREENDEDORISMO",
+    "CargaHorariaTeorico": 68,
+    "CargaHorariaPratica": null,
+    "ListaPrequisitos": []
+  },
+  {
+    "Id": 50397,
+    "Codigo": "2601.000.464-8",
+    "Tipo": "OBR",
+    "Descricao": "EXTENSÃO EM ENGENHARIA DE ALIMENTOS",
+    "Semestre": 8,
+    "Apelido": "EXTENSÃO EM ENGENHARIA DE ALIMENTOS",
+    "CargaHorariaTeorico": 102,
+    "CargaHorariaPratica": null,
+    "ListaPrequisitos": []
+  },
+  {
+    "Id": 50393,
+    "Codigo": "2601.000.460-1",
+    "Tipo": "OBR",
+    "Descricao": "INSTRUMENTAÇÃO, INSTALAÇÕES E SEGURANÇA DO TRABALHO",
+    "Semestre": 8,
+    "Apelido": "INSTRUMENTAÇÃO, INSTALAÇÕES E SEGURANÇA DO TRABALHO",
+    "CargaHorariaTeorico": 68,
+    "CargaHorariaPratica": null,
+    "ListaPrequisitos": [
+      {
+        "Id": 46751,
+        "Codigo": "2601.000.394-5",
+        "Descricao": "FENÔMENOS DE TRANSPORTE I",
+        "Semestre": "0",
+        "Apelido": "FENÔMENOS DE TRANSPORTE I",
+        "CargaHorariaTeorico": 0,
+        "CargaHorariaPratica": 0,
+        "ListaPrequisitos": []
+      }
+    ]
+  },
+  {
+    "Id": 50360,
+    "Codigo": "2601.000.427-2",
+    "Tipo": "OBR",
+    "Descricao": "METODOLOGIA APLICADA AO TRABALHO DE CONCLUSÃO DE CURSO",
+    "Semestre": 8,
+    "Apelido": "METODOLOGIA APLICADA AO TRABALHO DE CONCLUSÃO DE CURSO",
+    "CargaHorariaTeorico": 51,
+    "CargaHorariaPratica": null,
+    "ListaPrequisitos": [
+      {
+        "Id": 46738,
+        "Codigo": "2601.000.381-0",
+        "Descricao": "OPERAÇÕES UNITÁRIAS NA INDÚSTRIA DE ALIMENTOS I",
+        "Semestre": "0",
+        "Apelido": "OPERAÇÕES UNITÁRIAS NA INDÚSTRIA DE ALIMENTOS I",
+        "CargaHorariaTeorico": 0,
+        "CargaHorariaPratica": 0,
+        "ListaPrequisitos": []
+      }
+    ]
+  },
+  {
+    "Id": 46733,
+    "Codigo": "2601.000.376-7",
+    "Tipo": "OBR",
+    "Descricao": "OPERAÇÕES UNITÁRIAS NA INDÚSTRIA DE ALIMENTOS II",
+    "Semestre": 8,
+    "Apelido": "OPERAÇÕES UNITÁRIAS NA INDÚSTRIA DE ALIMENTOS II",
+    "CargaHorariaTeorico": 51,
+    "CargaHorariaPratica": null,
+    "ListaPrequisitos": [
+      {
+        "Id": 50372,
+        "Codigo": "2601.000.439-9",
+        "Descricao": "FENÔMENOS DE TRANSPORTE II",
+        "Semestre": "0",
+        "Apelido": "FENÔMENOS DE TRANSPORTE II",
+        "CargaHorariaTeorico": 0,
+        "CargaHorariaPratica": 0,
+        "ListaPrequisitos": []
+      }
+    ]
+  },
+  {
+    "Id": 50370,
+    "Codigo": "2601.000.437-0",
+    "Tipo": "OBR",
+    "Descricao": "PROJETOS NA INDÚSTRIA DE ALIMENTOS I",
+    "Semestre": 8,
+    "Apelido": "PROJETOS NA INDÚSTRIA DE ALIMENTOS I",
+    "CargaHorariaTeorico": 34,
+    "CargaHorariaPratica": null,
+    "ListaPrequisitos": [
+      {
+        "Id": 46738,
+        "Codigo": "2601.000.381-0",
+        "Descricao": "OPERAÇÕES UNITÁRIAS NA INDÚSTRIA DE ALIMENTOS I",
+        "Semestre": "0",
+        "Apelido": "OPERAÇÕES UNITÁRIAS NA INDÚSTRIA DE ALIMENTOS I",
+        "CargaHorariaTeorico": 0,
+        "CargaHorariaPratica": 0,
+        "ListaPrequisitos": []
+      }
+    ]
+  },
+  {
+    "Id": 50385,
+    "Codigo": "2601.000.452-1",
+    "Tipo": "OBR",
+    "Descricao": "DESENVOLVIMENTO E MARKETING DE NOVOS PRODUTOS",
+    "Semestre": 9,
+    "Apelido": "DESENVOLVIMENTO E MARKETING DE NOVOS PRODUTOS",
+    "CargaHorariaTeorico": 68,
+    "CargaHorariaPratica": null,
+    "ListaPrequisitos": []
+  },
+  {
+    "Id": 45214,
+    "Codigo": "2501.000.155-5",
+    "Tipo": "OBR",
+    "Descricao": "DESENVOLVIMENTO PESSOAL E PROFISSIONAL",
+    "Semestre": 9,
+    "Apelido": "DESENVOLVIMENTO PESSOAL E PROFISSIONAL",
+    "CargaHorariaTeorico": 34,
+    "CargaHorariaPratica": null,
+    "ListaPrequisitos": []
+  },
+  {
+    "Id": 45220,
+    "Codigo": "2501.000.156-4",
+    "Tipo": "OBR",
+    "Descricao": "INTRODUÇÃO A GESTÃO ORGANIZACIONAL",
+    "Semestre": 9,
+    "Apelido": "INTRODUÇÃO A GESTÃO ORGANIZACIONAL",
+    "CargaHorariaTeorico": 34,
+    "CargaHorariaPratica": null,
+    "ListaPrequisitos": []
+  },
+  {
+    "Id": 50391,
+    "Codigo": "2601.000.458-6",
+    "Tipo": "OBR",
+    "Descricao": "LABORATÓRIO DE ENGENHARIA DE ALIMENTOS",
+    "Semestre": 9,
+    "Apelido": "LABORATÓRIO DE ENGENHARIA DE ALIMENTOS",
+    "CargaHorariaTeorico": 34,
+    "CargaHorariaPratica": null,
+    "ListaPrequisitos": [
+      {
+        "Id": 46733,
+        "Codigo": "2601.000.376-7",
+        "Descricao": "OPERAÇÕES UNITÁRIAS NA INDÚSTRIA DE ALIMENTOS II",
+        "Semestre": "0",
+        "Apelido": "OPERAÇÕES UNITÁRIAS NA INDÚSTRIA DE ALIMENTOS II",
+        "CargaHorariaTeorico": 0,
+        "CargaHorariaPratica": 0,
+        "ListaPrequisitos": []
+      }
+    ]
+  },
+  {
+    "Id": 46734,
+    "Codigo": "2601.000.377-6",
+    "Tipo": "OBR",
+    "Descricao": "OPERAÇÕES UNITÁRIAS NA INDÚSTRIA DE ALIMENTOS III",
+    "Semestre": 9,
+    "Apelido": "OPERAÇÕES UNITÁRIAS NA INDÚSTRIA DE ALIMENTOS III",
+    "CargaHorariaTeorico": 51,
+    "CargaHorariaPratica": null,
+    "ListaPrequisitos": [
+      {
+        "Id": 50372,
+        "Codigo": "2601.000.439-9",
+        "Descricao": "FENÔMENOS DE TRANSPORTE II",
+        "Semestre": "0",
+        "Apelido": "FENÔMENOS DE TRANSPORTE II",
+        "CargaHorariaTeorico": 0,
+        "CargaHorariaPratica": 0,
+        "ListaPrequisitos": []
+      }
+    ]
+  },
+  {
+    "Id": 50371,
+    "Codigo": "2601.000.438-0",
+    "Tipo": "OBR",
+    "Descricao": "PROJETOS NA INDÚSTRIA DE ALIMENTOS II",
+    "Semestre": 9,
+    "Apelido": "PROJETOS NA INDÚSTRIA DE ALIMENTOS II",
+    "CargaHorariaTeorico": 34,
+    "CargaHorariaPratica": null,
+    "ListaPrequisitos": [
+      {
+        "Id": 50370,
+        "Codigo": "2601.000.437-0",
+        "Descricao": "PROJETOS NA INDÚSTRIA DE ALIMENTOS I",
+        "Semestre": "0",
+        "Apelido": "PROJETOS NA INDÚSTRIA DE ALIMENTOS I",
+        "CargaHorariaTeorico": 0,
+        "CargaHorariaPratica": 0,
+        "ListaPrequisitos": []
+      }
+    ]
+  },
+  {
+    "Id": 46742,
+    "Codigo": "2601.000.385-6",
+    "Tipo": "OBR",
+    "Descricao": "ESTÁGIO OBRIGATÓRIO EM ENGENHARIA DE ALIMENTOS",
+    "Semestre": 10,
+    "Apelido": "ESTÁGIO OBRIGATÓRIO EM ENGENHARIA DE ALIMENTOS",
+    "CargaHorariaTeorico": 300,
+    "CargaHorariaPratica": null,
+    "ListaPrequisitos": []
+  },
+  {
+    "Id": 45197,
+    "Codigo": "2601.000.220-4",
+    "Tipo": "OPT",
+    "Descricao": "ADITIVOS ALIMENTARES",
+    "Semestre": 99,
+    "Apelido": "ADITIVOS ALIMENTARES",
+    "CargaHorariaTeorico": 34,
+    "CargaHorariaPratica": null,
+    "ListaPrequisitos": []
+  },
+  {
+    "Id": 45242,
+    "Codigo": "2601.000.259-0",
+    "Tipo": "OPT",
+    "Descricao": "ALIMENTAÇÃO E COTIDIANO",
+    "Semestre": 99,
+    "Apelido": "ALIMENTAÇÃO E COTIDIANO",
+    "CargaHorariaTeorico": 34,
+    "CargaHorariaPratica": null,
+    "ListaPrequisitos": []
+  },
+  {
+    "Id": 45202,
+    "Codigo": "2601.000.224-0",
+    "Tipo": "OPT",
+    "Descricao": "ALIMENTOS E EXPERIMENTAÇÃO ANIMAL",
+    "Semestre": 99,
+    "Apelido": "ALIMENTOS E EXPERIMENTAÇÃO ANIMAL",
+    "CargaHorariaTeorico": 51,
+    "CargaHorariaPratica": null,
+    "ListaPrequisitos": []
+  },
+  {
+    "Id": 45246,
+    "Codigo": "2601.000.261-6",
+    "Tipo": "OPT",
+    "Descricao": "ALIMENTOS FUNCIONAIS",
+    "Semestre": 99,
+    "Apelido": "ALIMENTOS FUNCIONAIS",
+    "CargaHorariaTeorico": 34,
+    "CargaHorariaPratica": null,
+    "ListaPrequisitos": []
+  },
+  {
+    "Id": 50388,
+    "Codigo": "2601.000.455-9",
+    "Tipo": "OPT",
+    "Descricao": "ATUALIDADES DO MUNDO DO TRABALHO",
+    "Semestre": 99,
+    "Apelido": "ATUALIDADES DO MUNDO DO TRABALHO",
+    "CargaHorariaTeorico": 34,
+    "CargaHorariaPratica": null,
+    "ListaPrequisitos": []
+  },
+  {
+    "Id": 45256,
+    "Codigo": "2601.000.271-4",
+    "Tipo": "OPT",
+    "Descricao": "CIÊNCIA E TECNOLOGIA DE PESCADOS",
+    "Semestre": 99,
+    "Apelido": "CIÊNCIA E TECNOLOGIA DE PESCADOS",
+    "CargaHorariaTeorico": 34,
+    "CargaHorariaPratica": null,
+    "ListaPrequisitos": []
+  },
+  {
+    "Id": 45206,
+    "Codigo": "2601.000.228-7",
+    "Tipo": "OPT",
+    "Descricao": "COMPOSTOS BIOATIVOS EM ALIMENTOS",
+    "Semestre": 99,
+    "Apelido": "COMPOSTOS BIOATIVOS EM ALIMENTOS",
+    "CargaHorariaTeorico": 51,
+    "CargaHorariaPratica": null,
+    "ListaPrequisitos": []
+  },
+  {
+    "Id": 45258,
+    "Codigo": "2601.000.273-2",
+    "Tipo": "OPT",
+    "Descricao": "CONSERVAÇÃO DE ALIMENTOS",
+    "Semestre": 99,
+    "Apelido": "CONSERVAÇÃO DE ALIMENTOS",
+    "CargaHorariaTeorico": 34,
+    "CargaHorariaPratica": null,
+    "ListaPrequisitos": []
+  },
+  {
+    "Id": 45261,
+    "Codigo": "2601.000.276-0",
+    "Tipo": "OPT",
+    "Descricao": "COOPERATIVISMO",
+    "Semestre": 99,
+    "Apelido": "COOPERATIVISMO",
+    "CargaHorariaTeorico": 34,
+    "CargaHorariaPratica": null,
+    "ListaPrequisitos": []
+  },
+  {
+    "Id": 46722,
+    "Codigo": "2601.000.365-0",
+    "Tipo": "OPT",
+    "Descricao": "CULTIVO E PROPRIEDADES DE COGUMELOS COMESTÍVEIS",
+    "Semestre": 99,
+    "Apelido": "CULTIVO E PROPRIEDADES DE COGUMELOS COMESTÍVEIS",
+    "CargaHorariaTeorico": 34,
+    "CargaHorariaPratica": null,
+    "ListaPrequisitos": []
+  },
+  {
+    "Id": 44548,
+    "Codigo": "2901.000.696-0",
+    "Tipo": "OPT",
+    "Descricao": "ESTUDO DE LIBRAS",
+    "Semestre": 99,
+    "Apelido": "ESTUDO DE LIBRAS",
+    "CargaHorariaTeorico": 51,
+    "CargaHorariaPratica": null,
+    "ListaPrequisitos": []
+  },
+  {
+    "Id": 45207,
+    "Codigo": "2601.000.229-6",
+    "Tipo": "OPT",
+    "Descricao": "ÉTICA E REGULAMENTAÇÃO PROFISSIONAL",
+    "Semestre": 99,
+    "Apelido": "ÉTICA E REGULAMENTAÇÃO PROFISSIONAL",
+    "CargaHorariaTeorico": 34,
+    "CargaHorariaPratica": null,
+    "ListaPrequisitos": []
+  },
+  {
+    "Id": 50378,
+    "Codigo": "2601.000.445-0",
+    "Tipo": "OPT",
+    "Descricao": "EXTENSÃO EM ENGENHARIA DE ALIMENTOS I",
+    "Semestre": 99,
+    "Apelido": "EXTENSÃO EM ENGENHARIA DE ALIMENTOS I",
+    "CargaHorariaTeorico": 34,
+    "CargaHorariaPratica": null,
+    "ListaPrequisitos": []
+  },
+  {
+    "Id": 50380,
+    "Codigo": "2601.000.447-9",
+    "Tipo": "OPT",
+    "Descricao": "EXTENSÃO EM ENGENHARIA DE ALIMENTOS II",
+    "Semestre": 99,
+    "Apelido": "EXTENSÃO EM ENGENHARIA DE ALIMENTOS II",
+    "CargaHorariaTeorico": 51,
+    "CargaHorariaPratica": null,
+    "ListaPrequisitos": []
+  },
+  {
+    "Id": 50399,
+    "Codigo": "2601.000.466-6",
+    "Tipo": "OPT",
+    "Descricao": "EXTENSÃO EM ENGENHARIA DE ALIMENTOS III",
+    "Semestre": 99,
+    "Apelido": "EXTENSÃO EM ENGENHARIA DE ALIMENTOS III",
+    "CargaHorariaTeorico": 68,
+    "CargaHorariaPratica": null,
+    "ListaPrequisitos": []
+  },
+  {
+    "Id": 50366,
+    "Codigo": "2601.000.433-4",
+    "Tipo": "OPT",
+    "Descricao": "EXTENSÃO EM ENGENHARIA DE ALIMENTOS IV",
+    "Semestre": 99,
+    "Apelido": "EXTENSÃO EM ENGENHARIA DE ALIMENTOS IV",
+    "CargaHorariaTeorico": 34,
+    "CargaHorariaPratica": null,
+    "ListaPrequisitos": []
+  },
+  {
+    "Id": 37153,
+    "Codigo": "2401.000.131-7",
+    "Tipo": "OPT",
+    "Descricao": "FÍSICA DE FLUIDOS",
+    "Semestre": 99,
+    "Apelido": "FÍSICA DE FLUIDOS",
+    "CargaHorariaTeorico": 68,
+    "CargaHorariaPratica": null,
+    "ListaPrequisitos": []
+  },
+  {
+    "Id": 50356,
+    "Codigo": "2601.000.423-6",
+    "Tipo": "OPT",
+    "Descricao": "FUNGOS FILAMENTOSOS E MICOTOXINAS EM ALIMENTOS E BEBIDAS",
+    "Semestre": 99,
+    "Apelido": "FUNGOS FILAMENTOSOS E MICOTOXINAS EM ALIMENTOS E BEBIDAS",
+    "CargaHorariaTeorico": 34,
+    "CargaHorariaPratica": null,
+    "ListaPrequisitos": []
+  },
+  {
+    "Id": 44651,
+    "Codigo": "2601.000.217-0",
+    "Tipo": "OPT",
+    "Descricao": "GESTÃO DA INOVAÇÃO",
+    "Semestre": 99,
+    "Apelido": "GESTÃO DA INOVAÇÃO",
+    "CargaHorariaTeorico": 34,
+    "CargaHorariaPratica": null,
+    "ListaPrequisitos": []
+  },
+  {
+    "Id": 46497,
+    "Codigo": "2101.001.387-1",
+    "Tipo": "OPT",
+    "Descricao": "GESTÃO DA QUALIDADE, SAÚDE, MEIO AMBIENTE, SEGURANÇA E RESPONSABILIDADE SOCIAL",
+    "Semestre": 99,
+    "Apelido": "GESTÃO DA QUALIDADE, SAÚDE, MEIO AMBIENTE, SEGURANÇA E RESPONSABILIDADE SOCIAL",
+    "CargaHorariaTeorico": 34,
+    "CargaHorariaPratica": null,
+    "ListaPrequisitos": []
+  },
+  {
+    "Id": 46741,
+    "Codigo": "2601.000.384-7",
+    "Tipo": "OPT",
+    "Descricao": "LEITURA E PRODUÇÃO DE TEXTOS",
+    "Semestre": 99,
+    "Apelido": "LEITURA E PRODUÇÃO DE TEXTOS",
+    "CargaHorariaTeorico": 34,
+    "CargaHorariaPratica": null,
+    "ListaPrequisitos": []
+  },
+  {
+    "Id": 50361,
+    "Codigo": "2601.000.428-1",
+    "Tipo": "OPT",
+    "Descricao": "MANEJO E PÓS-COLHEITA DE GRÃOS",
+    "Semestre": 99,
+    "Apelido": "MANEJO E PÓS-COLHEITA DE GRÃOS",
+    "CargaHorariaTeorico": 51,
+    "CargaHorariaPratica": null,
+    "ListaPrequisitos": []
+  },
+  {
+    "Id": 45217,
+    "Codigo": "2601.000.237-6",
+    "Tipo": "OPT",
+    "Descricao": "MARKETING DE PRODUTOS AGROALIMENTARES",
+    "Semestre": 99,
+    "Apelido": "MARKETING DE PRODUTOS AGROALIMENTARES",
+    "CargaHorariaTeorico": 34,
+    "CargaHorariaPratica": null,
+    "ListaPrequisitos": []
+  },
+  {
+    "Id": 31636,
+    "Codigo": "2201.000.006-3",
+    "Tipo": "OPT",
+    "Descricao": "MÉTODOS NUMÉRICOS",
+    "Semestre": 99,
+    "Apelido": "MÉTODOS NUMÉRICOS",
+    "CargaHorariaTeorico": 68,
+    "CargaHorariaPratica": null,
+    "ListaPrequisitos": []
+  },
+  {
+    "Id": 46732,
+    "Codigo": "2601.000.375-8",
+    "Tipo": "OPT",
+    "Descricao": "MODELAGEM, SIMULAÇÃO E CONTROLE DE PROCESSOS",
+    "Semestre": 99,
+    "Apelido": "MODELAGEM, SIMULAÇÃO E CONTROLE DE PROCESSOS",
+    "CargaHorariaTeorico": 51,
+    "CargaHorariaPratica": null,
+    "ListaPrequisitos": []
+  },
+  {
+    "Id": 45211,
+    "Codigo": "2601.000.233-0",
+    "Tipo": "OPT",
+    "Descricao": "PLANTAS ALIMENTÍCIAS DO CERRADO E PANTANAL",
+    "Semestre": 99,
+    "Apelido": "PLANTAS ALIMENTÍCIAS DO CERRADO E PANTANAL",
+    "CargaHorariaTeorico": 34,
+    "CargaHorariaPratica": null,
+    "ListaPrequisitos": []
+  },
+  {
+    "Id": 45225,
+    "Codigo": "2601.000.244-7",
+    "Tipo": "OPT",
+    "Descricao": "PRÁTICAS EM ENGENHARIA DE ALIMENTOS",
+    "Semestre": 99,
+    "Apelido": "PRÁTICAS EM ENGENHARIA DE ALIMENTOS",
+    "CargaHorariaTeorico": 34,
+    "CargaHorariaPratica": null,
+    "ListaPrequisitos": []
+  },
+  {
+    "Id": 45218,
+    "Codigo": "2601.000.238-5",
+    "Tipo": "OPT",
+    "Descricao": "PROCESSAMENTO DE PRODUTOS LÁCTEOS",
+    "Semestre": 99,
+    "Apelido": "PROCESSAMENTO DE PRODUTOS LÁCTEOS",
+    "CargaHorariaTeorico": 34,
+    "CargaHorariaPratica": null,
+    "ListaPrequisitos": []
+  },
+  {
+    "Id": 50377,
+    "Codigo": "2601.000.444-1",
+    "Tipo": "OPT",
+    "Descricao": "QUÍMICA DE ALIMENTOS I",
+    "Semestre": 99,
+    "Apelido": "QUÍMICA DE ALIMENTOS I",
+    "CargaHorariaTeorico": 34,
+    "CargaHorariaPratica": null,
+    "ListaPrequisitos": []
+  },
+  {
+    "Id": 50368,
+    "Codigo": "2601.000.435-2",
+    "Tipo": "OPT",
+    "Descricao": "REAPROVEITAMENTO DE RESÍDUOS DA AGROINDÚSTRIA",
+    "Semestre": 99,
+    "Apelido": "REAPROVEITAMENTO DE RESÍDUOS DA AGROINDÚSTRIA",
+    "CargaHorariaTeorico": 51,
+    "CargaHorariaPratica": null,
+    "ListaPrequisitos": []
+  },
+  {
+    "Id": 45200,
+    "Codigo": "2601.000.222-2",
+    "Tipo": "OPT",
+    "Descricao": "REFRIGERAÇÃO INDUSTRIAL",
+    "Semestre": 99,
+    "Apelido": "REFRIGERAÇÃO INDUSTRIAL",
+    "CargaHorariaTeorico": 34,
+    "CargaHorariaPratica": null,
+    "ListaPrequisitos": []
+  },
+  {
+    "Id": 34325,
+    "Codigo": "2101.000.828-7",
+    "Tipo": "OPT",
+    "Descricao": "SEGURANÇA NO TRABALHO",
+    "Semestre": 99,
+    "Apelido": "SEGURANÇA NO TRABALHO",
+    "CargaHorariaTeorico": 34,
+    "CargaHorariaPratica": null,
+    "ListaPrequisitos": []
+  },
+  {
+    "Id": 45223,
+    "Codigo": "2601.000.242-9",
+    "Tipo": "OPT",
+    "Descricao": "SISTEMAS DE QUALIDADE APLICADO NA INDÚSTRIA DE CARNES",
+    "Semestre": 99,
+    "Apelido": "SISTEMAS DE QUALIDADE APLICADO NA INDÚSTRIA DE CARNES",
+    "CargaHorariaTeorico": 34,
+    "CargaHorariaPratica": null,
+    "ListaPrequisitos": []
+  },
+  {
+    "Id": 43953,
+    "Codigo": "2601.000.209-0",
+    "Tipo": "OPT",
+    "Descricao": "TECNOLOGIA DE BEBIDAS ALCOÓLICAS",
+    "Semestre": 99,
+    "Apelido": "TECNOLOGIA DE BEBIDAS ALCOÓLICAS",
+    "CargaHorariaTeorico": 51,
+    "CargaHorariaPratica": null,
+    "ListaPrequisitos": []
+  },
+  {
+    "Id": 43952,
+    "Codigo": "2601.000.208-0",
+    "Tipo": "OPT",
+    "Descricao": "TECNOLOGIA DE BEBIDAS NÃO ALCOÓLICAS",
+    "Semestre": 99,
+    "Apelido": "TECNOLOGIA DE BEBIDAS NÃO ALCOÓLICAS",
+    "CargaHorariaTeorico": 34,
+    "CargaHorariaPratica": null,
+    "ListaPrequisitos": []
+  },
+  {
+    "Id": 45201,
+    "Codigo": "2601.000.223-1",
+    "Tipo": "OPT",
+    "Descricao": "TECNOLOGIA DE CAFÉ E CACAU",
+    "Semestre": 99,
+    "Apelido": "TECNOLOGIA DE CAFÉ E CACAU",
+    "CargaHorariaTeorico": 34,
+    "CargaHorariaPratica": null,
+    "ListaPrequisitos": []
+  },
+  {
+    "Id": 50394,
+    "Codigo": "2601.000.461-0",
+    "Tipo": "OPT",
+    "Descricao": "TECNOLOGIA DE CHOCOLATES",
+    "Semestre": 99,
+    "Apelido": "TECNOLOGIA DE CHOCOLATES",
+    "CargaHorariaTeorico": 34,
+    "CargaHorariaPratica": null,
+    "ListaPrequisitos": []
+  },
+  {
+    "Id": 45208,
+    "Codigo": "2601.000.230-2",
+    "Tipo": "OPT",
+    "Descricao": "TECNOLOGIA DE ÓLEOS, GORDURAS E MARGARINAS",
+    "Semestre": 99,
+    "Apelido": "TECNOLOGIA DE ÓLEOS, GORDURAS E MARGARINAS",
+    "CargaHorariaTeorico": 34,
+    "CargaHorariaPratica": null,
+    "ListaPrequisitos": []
+  },
+  {
+    "Id": 45228,
+    "Codigo": "2601.000.247-4",
+    "Tipo": "OPT",
+    "Descricao": "TECNOLOGIA DE OVOS E MEL",
+    "Semestre": 99,
+    "Apelido": "TECNOLOGIA DE OVOS E MEL",
+    "CargaHorariaTeorico": 34,
+    "CargaHorariaPratica": null,
+    "ListaPrequisitos": []
+  },
+  {
+    "Id": 46740,
+    "Codigo": "2601.000.383-8",
+    "Tipo": "OPT",
+    "Descricao": "TECNOLOGIA DE PANIFICAÇÃO",
+    "Semestre": 99,
+    "Apelido": "TECNOLOGIA DE PANIFICAÇÃO",
+    "CargaHorariaTeorico": 68,
+    "CargaHorariaPratica": null,
+    "ListaPrequisitos": []
+  },
+  {
+    "Id": 50395,
+    "Codigo": "2601.000.462-0",
+    "Tipo": "OPT",
+    "Descricao": "TECNOLOGIAS EMERGENTES EM CONSERVAÇÃO DE ALIMENTOS",
+    "Semestre": 99,
+    "Apelido": "TECNOLOGIAS EMERGENTES EM CONSERVAÇÃO DE ALIMENTOS",
+    "CargaHorariaTeorico": 51,
+    "CargaHorariaPratica": null,
+    "ListaPrequisitos": []
+  },
+  {
+    "Id": 50375,
+    "Codigo": "2601.000.442-3",
+    "Tipo": "OPT",
+    "Descricao": "TÓPICOS ESPECIAIS EM CIÊNCIA DE ALIMENTOS I",
+    "Semestre": 99,
+    "Apelido": "TÓPICOS ESPECIAIS EM CIÊNCIA DE ALIMENTOS I",
+    "CargaHorariaTeorico": 34,
+    "CargaHorariaPratica": null,
+    "ListaPrequisitos": []
+  },
+  {
+    "Id": 50381,
+    "Codigo": "2601.000.448-8",
+    "Tipo": "OPT",
+    "Descricao": "TÓPICOS ESPECIAIS EM CIÊNCIA DE ALIMENTOS II",
+    "Semestre": 99,
+    "Apelido": "TÓPICOS ESPECIAIS EM CIÊNCIA DE ALIMENTOS II",
+    "CargaHorariaTeorico": 51,
+    "CargaHorariaPratica": null,
+    "ListaPrequisitos": []
+  },
+  {
+    "Id": 50390,
+    "Codigo": "2601.000.457-7",
+    "Tipo": "OPT",
+    "Descricao": "TÓPICOS ESPECIAIS EM CIÊNCIA DE ALIMENTOS III",
+    "Semestre": 99,
+    "Apelido": "TÓPICOS ESPECIAIS EM CIÊNCIA DE ALIMENTOS III",
+    "CargaHorariaTeorico": 68,
+    "CargaHorariaPratica": null,
+    "ListaPrequisitos": []
+  },
+  {
+    "Id": 45259,
+    "Codigo": "2601.000.274-1",
+    "Tipo": "OPT",
+    "Descricao": "TÓPICOS ESPECIAIS EM ENGENHARIA DE ALIMENTOS I",
+    "Semestre": 99,
+    "Apelido": "TÓPICOS ESPECIAIS EM ENGENHARIA DE ALIMENTOS I",
+    "CargaHorariaTeorico": 34,
+    "CargaHorariaPratica": null,
+    "ListaPrequisitos": []
+  },
+  {
+    "Id": 50392,
+    "Codigo": "2601.000.459-5",
+    "Tipo": "OPT",
+    "Descricao": "TÓPICOS ESPECIAIS EM ENGENHARIA DE ALIMENTOS II",
+    "Semestre": 99,
+    "Apelido": "TÓPICOS ESPECIAIS EM ENGENHARIA DE ALIMENTOS II",
+    "CargaHorariaTeorico": 51,
+    "CargaHorariaPratica": null,
+    "ListaPrequisitos": []
+  },
+  {
+    "Id": 50376,
+    "Codigo": "2601.000.443-2",
+    "Tipo": "OPT",
+    "Descricao": "TÓPICOS ESPECIAIS EM ENGENHARIA DE ALIMENTOS III",
+    "Semestre": 99,
+    "Apelido": "TÓPICOS ESPECIAIS EM ENGENHARIA DE ALIMENTOS III",
+    "CargaHorariaTeorico": 68,
+    "CargaHorariaPratica": null,
+    "ListaPrequisitos": []
+  },
+  {
+    "Id": 50383,
+    "Codigo": "2601.000.450-3",
+    "Tipo": "OPT",
+    "Descricao": "TÓPICOS ESPECIAIS EM SAÚDE E NUTRIÇÃO",
+    "Semestre": 99,
+    "Apelido": "TÓPICOS ESPECIAIS EM SAÚDE E NUTRIÇÃO",
+    "CargaHorariaTeorico": 34,
+    "CargaHorariaPratica": null,
+    "ListaPrequisitos": []
+  },
+  {
+    "Id": 50396,
+    "Codigo": "2601.000.463-9",
+    "Tipo": "OPT",
+    "Descricao": "TÓPICOS ESPECIAIS EM TECNOLOGIA DE ALIMENTOS I",
+    "Semestre": 99,
+    "Apelido": "TÓPICOS ESPECIAIS EM TECNOLOGIA DE ALIMENTOS I",
+    "CargaHorariaTeorico": 34,
+    "CargaHorariaPratica": null,
+    "ListaPrequisitos": []
+  },
+  {
+    "Id": 50365,
+    "Codigo": "2601.000.432-5",
+    "Tipo": "OPT",
+    "Descricao": "TÓPICOS ESPECIAIS EM TECNOLOGIA DE ALIMENTOS II",
+    "Semestre": 99,
+    "Apelido": "TÓPICOS ESPECIAIS EM TECNOLOGIA DE ALIMENTOS II",
+    "CargaHorariaTeorico": 51,
+    "CargaHorariaPratica": null,
+    "ListaPrequisitos": []
+  },
+  {
+    "Id": 50374,
+    "Codigo": "2601.000.441-4",
+    "Tipo": "OPT",
+    "Descricao": "TÓPICOS ESPECIAIS EM TECNOLOGIA DE ALIMENTOS III",
+    "Semestre": 99,
+    "Apelido": "TÓPICOS ESPECIAIS EM TECNOLOGIA DE ALIMENTOS III",
+    "CargaHorariaTeorico": 68,
+    "CargaHorariaPratica": null,
+    "ListaPrequisitos": []
+  },
+  {
+    "Id": 50384,
+    "Codigo": "2601.000.451-2",
+    "Tipo": "OPT",
+    "Descricao": "TÓPICOS ESPECIAIS EM TECNOLOGIA DE CARNES",
+    "Semestre": 99,
+    "Apelido": "TÓPICOS ESPECIAIS EM TECNOLOGIA DE CARNES",
+    "CargaHorariaTeorico": 34,
+    "CargaHorariaPratica": null,
+    "ListaPrequisitos": []
+  },
+  {
+    "Id": 45226,
+    "Codigo": "2601.000.245-6",
+    "Tipo": "OPT",
+    "Descricao": "TOXICOLOGIA DE ALIMENTOS",
+    "Semestre": 99,
+    "Apelido": "TOXICOLOGIA DE ALIMENTOS",
+    "CargaHorariaTeorico": 51,
+    "CargaHorariaPratica": null,
+    "ListaPrequisitos": []
+  }
+]

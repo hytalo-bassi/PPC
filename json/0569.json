@@ -1,0 +1,871 @@
+[
+  {
+    "Id": 51406,
+    "Codigo": "0510.002.045-3",
+    "Tipo": "OBR",
+    "Descricao": "FUNDAMENTOS HISTÓRICOS E EDUCAÇÃO FÍSICA",
+    "Semestre": 1,
+    "Apelido": "FUNDAMENTOS HISTÓRICOS E EDUCAÇÃO FÍSICA",
+    "CargaHorariaTeorico": 51,
+    "CargaHorariaPratica": null,
+    "ListaPrequisitos": []
+  },
+  {
+    "Id": 51411,
+    "Codigo": "0510.002.050-6",
+    "Tipo": "OBR",
+    "Descricao": "METODOLOGIA DO ENSINO DO BASQUETEBOL",
+    "Semestre": 1,
+    "Apelido": "METODOLOGIA DO ENSINO DO BASQUETEBOL",
+    "CargaHorariaTeorico": 68,
+    "CargaHorariaPratica": null,
+    "ListaPrequisitos": []
+  },
+  {
+    "Id": 51394,
+    "Codigo": "0510.002.033-7",
+    "Tipo": "OBR",
+    "Descricao": "METODOLOGIAS DE ENSINO DAS GINÁSTICAS",
+    "Semestre": 1,
+    "Apelido": "METODOLOGIAS DE ENSINO DAS GINÁSTICAS",
+    "CargaHorariaTeorico": 68,
+    "CargaHorariaPratica": null,
+    "ListaPrequisitos": []
+  },
+  {
+    "Id": 51395,
+    "Codigo": "0510.002.034-6",
+    "Tipo": "OBR",
+    "Descricao": "METODOLOGIAS DE ENSINO DAS LUTAS",
+    "Semestre": 1,
+    "Apelido": "METODOLOGIAS DE ENSINO DAS LUTAS",
+    "CargaHorariaTeorico": 68,
+    "CargaHorariaPratica": null,
+    "ListaPrequisitos": []
+  },
+  {
+    "Id": 51409,
+    "Codigo": "0510.002.048-0",
+    "Tipo": "OBR",
+    "Descricao": "METODOLOGIAS DE ENSINO DO VOLEIBOL",
+    "Semestre": 1,
+    "Apelido": "METODOLOGIAS DE ENSINO DO VOLEIBOL",
+    "CargaHorariaTeorico": 68,
+    "CargaHorariaPratica": null,
+    "ListaPrequisitos": []
+  },
+  {
+    "Id": 43556,
+    "Codigo": "0510.000.998-4",
+    "Tipo": "OBR",
+    "Descricao": "POLÍTICAS EDUCACIONAIS",
+    "Semestre": 1,
+    "Apelido": "POLÍTICAS EDUCACIONAIS",
+    "CargaHorariaTeorico": 51,
+    "CargaHorariaPratica": null,
+    "ListaPrequisitos": []
+  },
+  {
+    "Id": 43554,
+    "Codigo": "0510.000.996-6",
+    "Tipo": "OBR",
+    "Descricao": "PSICOLOGIA E EDUCAÇÃO",
+    "Semestre": 1,
+    "Apelido": "PSICOLOGIA E EDUCAÇÃO",
+    "CargaHorariaTeorico": 51,
+    "CargaHorariaPratica": null,
+    "ListaPrequisitos": []
+  },
+  {
+    "Id": 43570,
+    "Codigo": "0510.001.012-5",
+    "Tipo": "OBR",
+    "Descricao": "EDUCAÇÃO ESPECIAL",
+    "Semestre": 2,
+    "Apelido": "EDUCAÇÃO ESPECIAL",
+    "CargaHorariaTeorico": 51,
+    "CargaHorariaPratica": null,
+    "ListaPrequisitos": []
+  },
+  {
+    "Id": 43569,
+    "Codigo": "0510.001.011-6",
+    "Tipo": "OBR",
+    "Descricao": "FUNDAMENTOS DE DIDÁTICA",
+    "Semestre": 2,
+    "Apelido": "FUNDAMENTOS DE DIDÁTICA",
+    "CargaHorariaTeorico": 51,
+    "CargaHorariaPratica": null,
+    "ListaPrequisitos": []
+  },
+  {
+    "Id": 45162,
+    "Codigo": "0510.001.254-0",
+    "Tipo": "OBR",
+    "Descricao": "FUNDAMENTOS FILOSÓFICOS E EDUCAÇÃO FÍSICA",
+    "Semestre": 2,
+    "Apelido": "FUNDAMENTOS FILOSÓFICOS E EDUCAÇÃO FÍSICA",
+    "CargaHorariaTeorico": 51,
+    "CargaHorariaPratica": null,
+    "ListaPrequisitos": []
+  },
+  {
+    "Id": 45136,
+    "Codigo": "0510.001.228-2",
+    "Tipo": "OBR",
+    "Descricao": "JOGO, BRINQUEDO E BRINCADEIRA",
+    "Semestre": 2,
+    "Apelido": "JOGO, BRINQUEDO E BRINCADEIRA",
+    "CargaHorariaTeorico": 68,
+    "CargaHorariaPratica": null,
+    "ListaPrequisitos": []
+  },
+  {
+    "Id": 51396,
+    "Codigo": "0510.002.035-5",
+    "Tipo": "OBR",
+    "Descricao": "METODOLOGIAS DE ENSINO DO ATLETISMO",
+    "Semestre": 2,
+    "Apelido": "METODOLOGIAS DE ENSINO DO ATLETISMO",
+    "CargaHorariaTeorico": 68,
+    "CargaHorariaPratica": null,
+    "ListaPrequisitos": []
+  },
+  {
+    "Id": 51408,
+    "Codigo": "0510.002.047-1",
+    "Tipo": "OBR",
+    "Descricao": "METODOLOGIAS DE ENSINO DO FUTEBOL E FUTSAL",
+    "Semestre": 2,
+    "Apelido": "METODOLOGIAS DE ENSINO DO FUTEBOL E FUTSAL",
+    "CargaHorariaTeorico": 68,
+    "CargaHorariaPratica": null,
+    "ListaPrequisitos": []
+  },
+  {
+    "Id": 51399,
+    "Codigo": "0510.002.038-2",
+    "Tipo": "OBR",
+    "Descricao": "ANATOMIA HUMANA",
+    "Semestre": 3,
+    "Apelido": "ANATOMIA HUMANA",
+    "CargaHorariaTeorico": 51,
+    "CargaHorariaPratica": null,
+    "ListaPrequisitos": []
+  },
+  {
+    "Id": 51384,
+    "Codigo": "0510.002.023-9",
+    "Tipo": "OBR",
+    "Descricao": "APRENDIZAGEM MOTORA",
+    "Semestre": 3,
+    "Apelido": "APRENDIZAGEM MOTORA",
+    "CargaHorariaTeorico": 51,
+    "CargaHorariaPratica": null,
+    "ListaPrequisitos": []
+  },
+  {
+    "Id": 51392,
+    "Codigo": "0510.002.031-9",
+    "Tipo": "OBR",
+    "Descricao": "CRESCIMENTO E DESENVOLVIMENTO HUMANO",
+    "Semestre": 3,
+    "Apelido": "CRESCIMENTO E DESENVOLVIMENTO HUMANO",
+    "CargaHorariaTeorico": 51,
+    "CargaHorariaPratica": null,
+    "ListaPrequisitos": []
+  },
+  {
+    "Id": 45167,
+    "Codigo": "0510.001.259-6",
+    "Tipo": "OBR",
+    "Descricao": "FUNDAMENTOS SOCIOANTROPOLÓGICOS E EDUCAÇÃO FISICA",
+    "Semestre": 3,
+    "Apelido": "FUNDAMENTOS SOCIOANTROPOLÓGICOS E EDUCAÇÃO FISICA",
+    "CargaHorariaTeorico": 68,
+    "CargaHorariaPratica": null,
+    "ListaPrequisitos": []
+  },
+  {
+    "Id": 51398,
+    "Codigo": "0510.002.037-3",
+    "Tipo": "OBR",
+    "Descricao": "INTRODUÇÃO AO TRABALHO ACADÊMICO",
+    "Semestre": 3,
+    "Apelido": "INTRODUÇÃO AO TRABALHO ACADÊMICO",
+    "CargaHorariaTeorico": 51,
+    "CargaHorariaPratica": null,
+    "ListaPrequisitos": []
+  },
+  {
+    "Id": 51391,
+    "Codigo": "0510.002.030-0",
+    "Tipo": "OBR",
+    "Descricao": "METODOLOGIAS DE ENSINO DAS DANÇAS",
+    "Semestre": 3,
+    "Apelido": "METODOLOGIAS DE ENSINO DAS DANÇAS",
+    "CargaHorariaTeorico": 68,
+    "CargaHorariaPratica": null,
+    "ListaPrequisitos": []
+  },
+  {
+    "Id": 51404,
+    "Codigo": "0510.002.043-5",
+    "Tipo": "OBR",
+    "Descricao": "ORGANIZAÇÃO DE EVENTOS NA EDUCAÇÃO FÍSICA",
+    "Semestre": 3,
+    "Apelido": "ORGANIZAÇÃO DE EVENTOS NA EDUCAÇÃO FÍSICA",
+    "CargaHorariaTeorico": 68,
+    "CargaHorariaPratica": null,
+    "ListaPrequisitos": []
+  },
+  {
+    "Id": 51400,
+    "Codigo": "0510.002.039-1",
+    "Tipo": "OBR",
+    "Descricao": "ANATOMIA APLICADA À EDUCAÇÃO FÍSICA ESCOLAR",
+    "Semestre": 4,
+    "Apelido": "ANATOMIA APLICADA À EDUCAÇÃO FÍSICA ESCOLAR",
+    "CargaHorariaTeorico": 51,
+    "CargaHorariaPratica": null,
+    "ListaPrequisitos": []
+  },
+  {
+    "Id": 51414,
+    "Codigo": "0510.002.053-3",
+    "Tipo": "OBR",
+    "Descricao": "EDUCAÇÃO FÍSICA ADAPTADA",
+    "Semestre": 4,
+    "Apelido": "EDUCAÇÃO FÍSICA ADAPTADA",
+    "CargaHorariaTeorico": 68,
+    "CargaHorariaPratica": null,
+    "ListaPrequisitos": []
+  },
+  {
+    "Id": 51385,
+    "Codigo": "0510.002.024-8",
+    "Tipo": "OBR",
+    "Descricao": "EDUCAÇÃO FÍSICA NA EDUCAÇÃO INFANTIL",
+    "Semestre": 4,
+    "Apelido": "EDUCAÇÃO FÍSICA NA EDUCAÇÃO INFANTIL",
+    "CargaHorariaTeorico": 68,
+    "CargaHorariaPratica": null,
+    "ListaPrequisitos": []
+  },
+  {
+    "Id": 45159,
+    "Codigo": "0510.001.251-3",
+    "Tipo": "OBR",
+    "Descricao": "PESQUISAS EM EDUCAÇÃO FÍSICA",
+    "Semestre": 4,
+    "Apelido": "PESQUISAS EM EDUCAÇÃO FÍSICA",
+    "CargaHorariaTeorico": 51,
+    "CargaHorariaPratica": null,
+    "ListaPrequisitos": []
+  },
+  {
+    "Id": 51397,
+    "Codigo": "0510.002.036-4",
+    "Tipo": "OBR",
+    "Descricao": "PRÁTICAS CORPORAIS DE AVENTURA",
+    "Semestre": 4,
+    "Apelido": "PRÁTICAS CORPORAIS DE AVENTURA",
+    "CargaHorariaTeorico": 68,
+    "CargaHorariaPratica": null,
+    "ListaPrequisitos": []
+  },
+  {
+    "Id": 51410,
+    "Codigo": "0510.002.049-0",
+    "Tipo": "OBR",
+    "Descricao": "PREVENÇÃO DE ACIDENTES E SOCORROS DE URGÊNCIA EM EDUCAÇÃO FÍSICA",
+    "Semestre": 4,
+    "Apelido": "PREVENÇÃO DE ACIDENTES E SOCORROS DE URGÊNCIA EM EDUCAÇÃO FÍSICA",
+    "CargaHorariaTeorico": 34,
+    "CargaHorariaPratica": null,
+    "ListaPrequisitos": []
+  },
+  {
+    "Id": 51405,
+    "Codigo": "0510.002.044-4",
+    "Tipo": "OBR",
+    "Descricao": "TEORIAS PEDAGÓGICAS NA EDUCAÇÃO FÍSICA",
+    "Semestre": 4,
+    "Apelido": "TEORIAS PEDAGÓGICAS NA EDUCAÇÃO FÍSICA",
+    "CargaHorariaTeorico": 51,
+    "CargaHorariaPratica": null,
+    "ListaPrequisitos": []
+  },
+  {
+    "Id": 45129,
+    "Codigo": "0510.001.221-9",
+    "Tipo": "OBR",
+    "Descricao": "DIDÁTICA E AVALIAÇÃO EM EDUCAÇÃO FÍSICA",
+    "Semestre": 5,
+    "Apelido": "DIDÁTICA E AVALIAÇÃO EM EDUCAÇÃO FÍSICA",
+    "CargaHorariaTeorico": 68,
+    "CargaHorariaPratica": null,
+    "ListaPrequisitos": []
+  },
+  {
+    "Id": 51401,
+    "Codigo": "0510.002.040-8",
+    "Tipo": "OBR",
+    "Descricao": "EDUCAÇÃO FÍSICA NO ENSINO FUNDAMENTAL - ANOS INICIAIS",
+    "Semestre": 5,
+    "Apelido": "EDUCAÇÃO FÍSICA NO ENSINO FUNDAMENTAL - ANOS INICIAIS",
+    "CargaHorariaTeorico": 51,
+    "CargaHorariaPratica": null,
+    "ListaPrequisitos": []
+  },
+  {
+    "Id": 51386,
+    "Codigo": "0510.002.025-7",
+    "Tipo": "OBR",
+    "Descricao": "ESTÁGIO OBRIGATÓRIO EM EDUCAÇÃO FÍSICA NA EDUCAÇÃO INFANTIL",
+    "Semestre": 5,
+    "Apelido": "ESTÁGIO OBRIGATÓRIO EM EDUCAÇÃO FÍSICA NA EDUCAÇÃO INFANTIL",
+    "CargaHorariaTeorico": 100,
+    "CargaHorariaPratica": null,
+    "ListaPrequisitos": [
+      {
+        "Id": 51385,
+        "Codigo": "0510.002.024-8",
+        "Descricao": "EDUCAÇÃO FÍSICA NA EDUCAÇÃO INFANTIL",
+        "Semestre": "0",
+        "Apelido": "EDUCAÇÃO FÍSICA NA EDUCAÇÃO INFANTIL",
+        "CargaHorariaTeorico": 0,
+        "CargaHorariaPratica": 0,
+        "ListaPrequisitos": []
+      }
+    ]
+  },
+  {
+    "Id": 51403,
+    "Codigo": "0510.002.042-6",
+    "Tipo": "OBR",
+    "Descricao": "ESTATÍSTICA APLICADA À EDUCAÇÃO FÍSICA",
+    "Semestre": 5,
+    "Apelido": "ESTATÍSTICA APLICADA À EDUCAÇÃO FÍSICA",
+    "CargaHorariaTeorico": 51,
+    "CargaHorariaPratica": null,
+    "ListaPrequisitos": []
+  },
+  {
+    "Id": 24634,
+    "Codigo": "0505.000.781-6",
+    "Tipo": "OBR",
+    "Descricao": "FISIOLOGIA HUMANA E DO EXERCÍCIO I",
+    "Semestre": 5,
+    "Apelido": "FISIOLOGIA HUMANA E DO EXERCÍCIO I",
+    "CargaHorariaTeorico": 68,
+    "CargaHorariaPratica": null,
+    "ListaPrequisitos": [
+      {
+        "Id": 51399,
+        "Codigo": "0510.002.038-2",
+        "Descricao": "ANATOMIA HUMANA",
+        "Semestre": "0",
+        "Apelido": "ANATOMIA HUMANA",
+        "CargaHorariaTeorico": 0,
+        "CargaHorariaPratica": 0,
+        "ListaPrequisitos": []
+      }
+    ]
+  },
+  {
+    "Id": 30453,
+    "Codigo": "0505.000.993-2",
+    "Tipo": "OBR",
+    "Descricao": "NUTRIÇÃO E ATIVIDADE FÍSICA",
+    "Semestre": 5,
+    "Apelido": "NUTRIÇÃO E ATIVIDADE FÍSICA",
+    "CargaHorariaTeorico": 34,
+    "CargaHorariaPratica": null,
+    "ListaPrequisitos": []
+  },
+  {
+    "Id": 51390,
+    "Codigo": "0510.002.029-3",
+    "Tipo": "OBR",
+    "Descricao": "EDUCAÇÃO FÍSICA NO ENSINO FUNDAMENTAL - ANOS FINAIS",
+    "Semestre": 6,
+    "Apelido": "EDUCAÇÃO FÍSICA NO ENSINO FUNDAMENTAL - ANOS FINAIS",
+    "CargaHorariaTeorico": 51,
+    "CargaHorariaPratica": null,
+    "ListaPrequisitos": []
+  },
+  {
+    "Id": 51389,
+    "Codigo": "0510.002.028-4",
+    "Tipo": "OBR",
+    "Descricao": "ESTÁGIO OBRIGATÓRIO EM EDUCAÇÃO FÍSICA NO ENSINO FUNDAMENTAL - ANOS INICIAIS",
+    "Semestre": 6,
+    "Apelido": "ESTÁGIO OBRIGATÓRIO EM EDUCAÇÃO FÍSICA NO ENSINO FUNDAMENTAL - ANOS INICIAIS",
+    "CargaHorariaTeorico": 100,
+    "CargaHorariaPratica": null,
+    "ListaPrequisitos": [
+      {
+        "Id": 51401,
+        "Codigo": "0510.002.040-8",
+        "Descricao": "EDUCAÇÃO FÍSICA NO ENSINO FUNDAMENTAL - ANOS INICIAIS",
+        "Semestre": "0",
+        "Apelido": "EDUCAÇÃO FÍSICA NO ENSINO FUNDAMENTAL - ANOS INICIAIS",
+        "CargaHorariaTeorico": 0,
+        "CargaHorariaPratica": 0,
+        "ListaPrequisitos": []
+      }
+    ]
+  },
+  {
+    "Id": 51393,
+    "Codigo": "0510.002.032-8",
+    "Tipo": "OBR",
+    "Descricao": "ESTUDOS DO LAZER",
+    "Semestre": 6,
+    "Apelido": "ESTUDOS DO LAZER",
+    "CargaHorariaTeorico": 68,
+    "CargaHorariaPratica": null,
+    "ListaPrequisitos": []
+  },
+  {
+    "Id": 24641,
+    "Codigo": "0505.000.788-3",
+    "Tipo": "OBR",
+    "Descricao": "FISIOLOGIA HUMANA E DO EXERCÍCIO II",
+    "Semestre": 6,
+    "Apelido": "FISIOLOGIA HUMANA E DO EXERCÍCIO II",
+    "CargaHorariaTeorico": 68,
+    "CargaHorariaPratica": null,
+    "ListaPrequisitos": [
+      {
+        "Id": 24634,
+        "Codigo": "0505.000.781-6",
+        "Descricao": "FISIOLOGIA HUMANA E DO EXERCÍCIO I",
+        "Semestre": "0",
+        "Apelido": "FISIOLOGIA HUMANA E DO EXERCÍCIO I",
+        "CargaHorariaTeorico": 0,
+        "CargaHorariaPratica": 0,
+        "ListaPrequisitos": []
+      }
+    ]
+  },
+  {
+    "Id": 45138,
+    "Codigo": "0510.001.230-8",
+    "Tipo": "OBR",
+    "Descricao": "MEDIDAS E AVALIAÇÃO EM EDUCAÇÃO FÍSICA",
+    "Semestre": 6,
+    "Apelido": "MEDIDAS E AVALIAÇÃO EM EDUCAÇÃO FÍSICA",
+    "CargaHorariaTeorico": 51,
+    "CargaHorariaPratica": null,
+    "ListaPrequisitos": []
+  },
+  {
+    "Id": 34187,
+    "Codigo": "0505.001.037-0",
+    "Tipo": "OBR",
+    "Descricao": "METODOLOGIAS DE PESQUISA CIENTÍFICA",
+    "Semestre": 6,
+    "Apelido": "METODOLOGIAS DE PESQUISA CIENTÍFICA",
+    "CargaHorariaTeorico": 51,
+    "CargaHorariaPratica": null,
+    "ListaPrequisitos": []
+  },
+  {
+    "Id": 51412,
+    "Codigo": "0510.002.051-5",
+    "Tipo": "OBR",
+    "Descricao": "METODOLOGIAS DO ENSINO DO HANDEBOL",
+    "Semestre": 6,
+    "Apelido": "METODOLOGIAS DO ENSINO DO HANDEBOL",
+    "CargaHorariaTeorico": 68,
+    "CargaHorariaPratica": null,
+    "ListaPrequisitos": []
+  },
+  {
+    "Id": 34178,
+    "Codigo": "0505.001.028-0",
+    "Tipo": "OBR",
+    "Descricao": "BIOMECÂNICA DO MOVIMENTO HUMANO",
+    "Semestre": 7,
+    "Apelido": "BIOMECÂNICA DO MOVIMENTO HUMANO",
+    "CargaHorariaTeorico": 51,
+    "CargaHorariaPratica": null,
+    "ListaPrequisitos": [
+      {
+        "Id": 51400,
+        "Codigo": "0510.002.039-1",
+        "Descricao": "ANATOMIA APLICADA À EDUCAÇÃO FÍSICA ESCOLAR",
+        "Semestre": "0",
+        "Apelido": "ANATOMIA APLICADA À EDUCAÇÃO FÍSICA ESCOLAR",
+        "CargaHorariaTeorico": 0,
+        "CargaHorariaPratica": 0,
+        "ListaPrequisitos": []
+      }
+    ]
+  },
+  {
+    "Id": 51402,
+    "Codigo": "0510.002.041-7",
+    "Tipo": "OBR",
+    "Descricao": "EDUCAÇÃO FÍSICA NO ENSINO MÉDIO",
+    "Semestre": 7,
+    "Apelido": "EDUCAÇÃO FÍSICA NO ENSINO MÉDIO",
+    "CargaHorariaTeorico": 68,
+    "CargaHorariaPratica": null,
+    "ListaPrequisitos": []
+  },
+  {
+    "Id": 51388,
+    "Codigo": "0510.002.027-5",
+    "Tipo": "OBR",
+    "Descricao": "ESTÁGIO OBRIGATÓRIO EM EDUCAÇÃO FÍSICA NO ENSINO FUNDAMENTAL - ANOS FINAIS",
+    "Semestre": 7,
+    "Apelido": "ESTÁGIO OBRIGATÓRIO EM EDUCAÇÃO FÍSICA NO ENSINO FUNDAMENTAL - ANOS FINAIS",
+    "CargaHorariaTeorico": 100,
+    "CargaHorariaPratica": null,
+    "ListaPrequisitos": [
+      {
+        "Id": 51390,
+        "Codigo": "0510.002.029-3",
+        "Descricao": "EDUCAÇÃO FÍSICA NO ENSINO FUNDAMENTAL - ANOS FINAIS",
+        "Semestre": "0",
+        "Apelido": "EDUCAÇÃO FÍSICA NO ENSINO FUNDAMENTAL - ANOS FINAIS",
+        "CargaHorariaTeorico": 0,
+        "CargaHorariaPratica": 0,
+        "ListaPrequisitos": []
+      }
+    ]
+  },
+  {
+    "Id": 43573,
+    "Codigo": "0510.001.015-2",
+    "Tipo": "OBR",
+    "Descricao": "ESTUDO DE LIBRAS",
+    "Semestre": 7,
+    "Apelido": "ESTUDO DE LIBRAS",
+    "CargaHorariaTeorico": 51,
+    "CargaHorariaPratica": null,
+    "ListaPrequisitos": []
+  },
+  {
+    "Id": 51413,
+    "Codigo": "0510.002.052-4",
+    "Tipo": "OBR",
+    "Descricao": "PRÁTICA CIENTÍFICA I",
+    "Semestre": 7,
+    "Apelido": "PRÁTICA CIENTÍFICA I",
+    "CargaHorariaTeorico": 51,
+    "CargaHorariaPratica": null,
+    "ListaPrequisitos": [
+      {
+        "Id": 34187,
+        "Codigo": "0505.001.037-0",
+        "Descricao": "METODOLOGIAS DE PESQUISA CIENTÍFICA",
+        "Semestre": "0",
+        "Apelido": "METODOLOGIAS DE PESQUISA CIENTÍFICA",
+        "CargaHorariaTeorico": 0,
+        "CargaHorariaPratica": 0,
+        "ListaPrequisitos": []
+      }
+    ]
+  },
+  {
+    "Id": 51407,
+    "Codigo": "0510.002.046-2",
+    "Tipo": "OBR",
+    "Descricao": "EDUCAÇÃO FÍSICA E PROMOÇÃO DA SAÚDE",
+    "Semestre": 8,
+    "Apelido": "EDUCAÇÃO FÍSICA E PROMOÇÃO DA SAÚDE",
+    "CargaHorariaTeorico": 51,
+    "CargaHorariaPratica": null,
+    "ListaPrequisitos": []
+  },
+  {
+    "Id": 51387,
+    "Codigo": "0510.002.026-6",
+    "Tipo": "OBR",
+    "Descricao": "ESTÁGIO OBRIGATÓRIO EM EDUCAÇÃO FÍSICA NO ENSINO MÉDIO",
+    "Semestre": 8,
+    "Apelido": "ESTÁGIO OBRIGATÓRIO EM EDUCAÇÃO FÍSICA NO ENSINO MÉDIO",
+    "CargaHorariaTeorico": 100,
+    "CargaHorariaPratica": null,
+    "ListaPrequisitos": [
+      {
+        "Id": 51402,
+        "Codigo": "0510.002.041-7",
+        "Descricao": "EDUCAÇÃO FÍSICA NO ENSINO MÉDIO",
+        "Semestre": "0",
+        "Apelido": "EDUCAÇÃO FÍSICA NO ENSINO MÉDIO",
+        "CargaHorariaTeorico": 0,
+        "CargaHorariaPratica": 0,
+        "ListaPrequisitos": []
+      }
+    ]
+  },
+  {
+    "Id": 34194,
+    "Codigo": "0505.001.044-2",
+    "Tipo": "OBR",
+    "Descricao": "METODOLOGIAS DE ENSINO DAS ATIVIDADES AQUÁTICAS",
+    "Semestre": 8,
+    "Apelido": "METODOLOGIAS DE ENSINO DAS ATIVIDADES AQUÁTICAS",
+    "CargaHorariaTeorico": 68,
+    "CargaHorariaPratica": null,
+    "ListaPrequisitos": []
+  },
+  {
+    "Id": 51382,
+    "Codigo": "0510.002.021-0",
+    "Tipo": "OBR",
+    "Descricao": "PRÁTICA CIENTÍFICA II",
+    "Semestre": 8,
+    "Apelido": "PRÁTICA CIENTÍFICA II",
+    "CargaHorariaTeorico": 51,
+    "CargaHorariaPratica": null,
+    "ListaPrequisitos": [
+      {
+        "Id": 51413,
+        "Codigo": "0510.002.052-4",
+        "Descricao": "PRÁTICA CIENTÍFICA I",
+        "Semestre": "0",
+        "Apelido": "PRÁTICA CIENTÍFICA I",
+        "CargaHorariaTeorico": 0,
+        "CargaHorariaPratica": 0,
+        "ListaPrequisitos": []
+      }
+    ]
+  },
+  {
+    "Id": 45168,
+    "Codigo": "0510.001.260-2",
+    "Tipo": "OBR",
+    "Descricao": "TREINAMENTO FÍSICO NA ESCOLA",
+    "Semestre": 8,
+    "Apelido": "TREINAMENTO FÍSICO NA ESCOLA",
+    "CargaHorariaTeorico": 51,
+    "CargaHorariaPratica": null,
+    "ListaPrequisitos": []
+  },
+  {
+    "Id": 45163,
+    "Codigo": "0510.001.255-0",
+    "Tipo": "OPT",
+    "Descricao": "ATIVIDADES FÍSICAS PARA GRUPOS ESPECÍFICOS",
+    "Semestre": 99,
+    "Apelido": "ATIVIDADES FÍSICAS PARA GRUPOS ESPECÍFICOS",
+    "CargaHorariaTeorico": 51,
+    "CargaHorariaPratica": null,
+    "ListaPrequisitos": []
+  },
+  {
+    "Id": 45150,
+    "Codigo": "0510.001.242-4",
+    "Tipo": "OPT",
+    "Descricao": "CAPOEIRA",
+    "Semestre": 99,
+    "Apelido": "CAPOEIRA",
+    "CargaHorariaTeorico": 51,
+    "CargaHorariaPratica": null,
+    "ListaPrequisitos": []
+  },
+  {
+    "Id": 43549,
+    "Codigo": "0510.000.991-0",
+    "Tipo": "OPT",
+    "Descricao": "EDUCAÇÃO DAS RELAÇÕES ÉTNICO-RACIAIS",
+    "Semestre": 99,
+    "Apelido": "EDUCAÇÃO DAS RELAÇÕES ÉTNICO-RACIAIS",
+    "CargaHorariaTeorico": 51,
+    "CargaHorariaPratica": null,
+    "ListaPrequisitos": []
+  },
+  {
+    "Id": 45132,
+    "Codigo": "0510.001.224-6",
+    "Tipo": "OPT",
+    "Descricao": "EDUCAÇÃO DE JOVENS E ADULTOS",
+    "Semestre": 99,
+    "Apelido": "EDUCAÇÃO DE JOVENS E ADULTOS",
+    "CargaHorariaTeorico": 51,
+    "CargaHorariaPratica": null,
+    "ListaPrequisitos": []
+  },
+  {
+    "Id": 45155,
+    "Codigo": "0510.001.247-0",
+    "Tipo": "OPT",
+    "Descricao": "EDUCAÇÃO FÍSICA E CIRCO",
+    "Semestre": 99,
+    "Apelido": "EDUCAÇÃO FÍSICA E CIRCO",
+    "CargaHorariaTeorico": 51,
+    "CargaHorariaPratica": null,
+    "ListaPrequisitos": []
+  },
+  {
+    "Id": 45153,
+    "Codigo": "0510.001.245-1",
+    "Tipo": "OPT",
+    "Descricao": "EDUCAÇÃO FÍSICA, EDUCAÇÃO E FRONTEIRA",
+    "Semestre": 99,
+    "Apelido": "EDUCAÇÃO FÍSICA, EDUCAÇÃO E FRONTEIRA",
+    "CargaHorariaTeorico": 51,
+    "CargaHorariaPratica": null,
+    "ListaPrequisitos": []
+  },
+  {
+    "Id": 45145,
+    "Codigo": "0510.001.237-1",
+    "Tipo": "OPT",
+    "Descricao": "GÊNERO, CORPO E SEXUALIDADE NA EDUCAÇÃO FÍSICA ESCOLAR",
+    "Semestre": 99,
+    "Apelido": "GÊNERO, CORPO E SEXUALIDADE NA EDUCAÇÃO FÍSICA ESCOLAR",
+    "CargaHorariaTeorico": 51,
+    "CargaHorariaPratica": null,
+    "ListaPrequisitos": []
+  },
+  {
+    "Id": 51383,
+    "Codigo": "0510.002.022-0",
+    "Tipo": "OPT",
+    "Descricao": "GESTÃO E POLÍTICA PARA O ESPORTE",
+    "Semestre": 99,
+    "Apelido": "GESTÃO E POLÍTICA PARA O ESPORTE",
+    "CargaHorariaTeorico": 51,
+    "CargaHorariaPratica": null,
+    "ListaPrequisitos": []
+  },
+  {
+    "Id": 45135,
+    "Codigo": "0510.001.227-3",
+    "Tipo": "OPT",
+    "Descricao": "GINÁSTICA DE ACADEMIA",
+    "Semestre": 99,
+    "Apelido": "GINÁSTICA DE ACADEMIA",
+    "CargaHorariaTeorico": 51,
+    "CargaHorariaPratica": null,
+    "ListaPrequisitos": []
+  },
+  {
+    "Id": 45165,
+    "Codigo": "0510.001.257-8",
+    "Tipo": "OPT",
+    "Descricao": "MUSCULAÇÃO",
+    "Semestre": 99,
+    "Apelido": "MUSCULAÇÃO",
+    "CargaHorariaTeorico": 51,
+    "CargaHorariaPratica": null,
+    "ListaPrequisitos": []
+  },
+  {
+    "Id": 43823,
+    "Codigo": "0510.001.027-9",
+    "Tipo": "OPT",
+    "Descricao": "ORGANIZAÇÃO CURRICULAR E GESTÃO DA ESCOLA",
+    "Semestre": 99,
+    "Apelido": "ORGANIZAÇÃO CURRICULAR E GESTÃO DA ESCOLA",
+    "CargaHorariaTeorico": 68,
+    "CargaHorariaPratica": null,
+    "ListaPrequisitos": []
+  },
+  {
+    "Id": 43550,
+    "Codigo": "0510.000.992-0",
+    "Tipo": "OPT",
+    "Descricao": "PRÁTICAS INTEGRADORAS PARA FORMAÇÃO DOCENTE",
+    "Semestre": 99,
+    "Apelido": "PRÁTICAS INTEGRADORAS PARA FORMAÇÃO DOCENTE",
+    "CargaHorariaTeorico": 68,
+    "CargaHorariaPratica": null,
+    "ListaPrequisitos": []
+  },
+  {
+    "Id": 43824,
+    "Codigo": "0510.001.028-8",
+    "Tipo": "OPT",
+    "Descricao": "PROFISSÃO DOCENTE: IDENTIDADE, CARREIRA E DESENVOLVIMENTO PROFISSIONAL",
+    "Semestre": 99,
+    "Apelido": "PROFISSÃO DOCENTE: IDENTIDADE, CARREIRA E DESENVOLVIMENTO PROFISSIONAL",
+    "CargaHorariaTeorico": 68,
+    "CargaHorariaPratica": null,
+    "ListaPrequisitos": []
+  },
+  {
+    "Id": 45141,
+    "Codigo": "0510.001.233-5",
+    "Tipo": "OPT",
+    "Descricao": "PSICOLOGIA DO ESPORTE",
+    "Semestre": 99,
+    "Apelido": "PSICOLOGIA DO ESPORTE",
+    "CargaHorariaTeorico": 51,
+    "CargaHorariaPratica": null,
+    "ListaPrequisitos": []
+  },
+  {
+    "Id": 45131,
+    "Codigo": "0510.001.223-7",
+    "Tipo": "OPT",
+    "Descricao": "RECREAÇÃO",
+    "Semestre": 99,
+    "Apelido": "RECREAÇÃO",
+    "CargaHorariaTeorico": 51,
+    "CargaHorariaPratica": null,
+    "ListaPrequisitos": []
+  },
+  {
+    "Id": 45161,
+    "Codigo": "0510.001.253-1",
+    "Tipo": "OPT",
+    "Descricao": "TÓPICOS ESPECÍFICOS EM EDUCAÇÃO FÍSICA I",
+    "Semestre": 99,
+    "Apelido": "TÓPICOS ESPECÍFICOS EM EDUCAÇÃO FÍSICA I",
+    "CargaHorariaTeorico": 51,
+    "CargaHorariaPratica": null,
+    "ListaPrequisitos": []
+  },
+  {
+    "Id": 45142,
+    "Codigo": "0510.001.234-4",
+    "Tipo": "OPT",
+    "Descricao": "TÓPICOS ESPECÍFICOS EM EDUCAÇÃO FÍSICA II",
+    "Semestre": 99,
+    "Apelido": "TÓPICOS ESPECÍFICOS EM EDUCAÇÃO FÍSICA II",
+    "CargaHorariaTeorico": 51,
+    "CargaHorariaPratica": null,
+    "ListaPrequisitos": []
+  },
+  {
+    "Id": 45143,
+    "Codigo": "0510.001.235-3",
+    "Tipo": "OPT",
+    "Descricao": "TÓPICOS ESPECÍFICOS EM EDUCAÇÃO FÍSICA III",
+    "Semestre": 99,
+    "Apelido": "TÓPICOS ESPECÍFICOS EM EDUCAÇÃO FÍSICA III",
+    "CargaHorariaTeorico": 51,
+    "CargaHorariaPratica": null,
+    "ListaPrequisitos": []
+  },
+  {
+    "Id": 45157,
+    "Codigo": "0510.001.249-8",
+    "Tipo": "OPT",
+    "Descricao": "TÓPICOS ESPECÍFICOS EM EDUCAÇÃO FÍSICA IV",
+    "Semestre": 99,
+    "Apelido": "TÓPICOS ESPECÍFICOS EM EDUCAÇÃO FÍSICA IV",
+    "CargaHorariaTeorico": 51,
+    "CargaHorariaPratica": null,
+    "ListaPrequisitos": []
+  },
+  {
+    "Id": 45128,
+    "Codigo": "0510.001.220-0",
+    "Tipo": "OPT",
+    "Descricao": "TREINAMENTO PERSONALIZADO",
+    "Semestre": 99,
+    "Apelido": "TREINAMENTO PERSONALIZADO",
+    "CargaHorariaTeorico": 51,
+    "CargaHorariaPratica": null,
+    "ListaPrequisitos": []
+  }
+]

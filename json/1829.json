@@ -1,0 +1,846 @@
+[
+  {
+    "Id": 49864,
+    "Codigo": "1803.000.400-4",
+    "Tipo": "OBR",
+    "Descricao": "EDUCAÇÃO ESPECIAL",
+    "Semestre": 1,
+    "Apelido": "EDUCAÇÃO ESPECIAL",
+    "CargaHorariaTeorico": 68,
+    "CargaHorariaPratica": null,
+    "ListaPrequisitos": []
+  },
+  {
+    "Id": 49845,
+    "Codigo": "1803.000.381-1",
+    "Tipo": "OBR",
+    "Descricao": "FILOSOFIA DA EDUCAÇÃO",
+    "Semestre": 1,
+    "Apelido": "FILOSOFIA DA EDUCAÇÃO",
+    "CargaHorariaTeorico": 68,
+    "CargaHorariaPratica": null,
+    "ListaPrequisitos": []
+  },
+  {
+    "Id": 49861,
+    "Codigo": "1803.000.397-4",
+    "Tipo": "OBR",
+    "Descricao": "HISTÓRIA DA EDUCAÇÃO I",
+    "Semestre": 1,
+    "Apelido": "HISTÓRIA DA EDUCAÇÃO I",
+    "CargaHorariaTeorico": 68,
+    "CargaHorariaPratica": null,
+    "ListaPrequisitos": []
+  },
+  {
+    "Id": 52113,
+    "Codigo": "1803.000.455-0",
+    "Tipo": "OBR",
+    "Descricao": "PRÁTICAS PEDAGÓGICAS I",
+    "Semestre": 1,
+    "Apelido": "PRÁTICAS PEDAGÓGICAS I",
+    "CargaHorariaTeorico": 51,
+    "CargaHorariaPratica": null,
+    "ListaPrequisitos": []
+  },
+  {
+    "Id": 49867,
+    "Codigo": "1803.000.403-1",
+    "Tipo": "OBR",
+    "Descricao": "SOCIOLOGIA DA EDUCAÇÃO",
+    "Semestre": 1,
+    "Apelido": "SOCIOLOGIA DA EDUCAÇÃO",
+    "CargaHorariaTeorico": 68,
+    "CargaHorariaPratica": null,
+    "ListaPrequisitos": []
+  },
+  {
+    "Id": 49859,
+    "Codigo": "1803.000.395-6",
+    "Tipo": "OBR",
+    "Descricao": "TRABALHO ACADÊMICO",
+    "Semestre": 1,
+    "Apelido": "TRABALHO ACADÊMICO",
+    "CargaHorariaTeorico": 68,
+    "CargaHorariaPratica": null,
+    "ListaPrequisitos": []
+  },
+  {
+    "Id": 49865,
+    "Codigo": "1803.000.401-3",
+    "Tipo": "OBR",
+    "Descricao": "CURRÍCULO E EDUCAÇÃO",
+    "Semestre": 2,
+    "Apelido": "CURRÍCULO E EDUCAÇÃO",
+    "CargaHorariaTeorico": 68,
+    "CargaHorariaPratica": null,
+    "ListaPrequisitos": []
+  },
+  {
+    "Id": 49860,
+    "Codigo": "1803.000.396-5",
+    "Tipo": "OBR",
+    "Descricao": "DIDÁTICA I",
+    "Semestre": 2,
+    "Apelido": "DIDÁTICA I",
+    "CargaHorariaTeorico": 68,
+    "CargaHorariaPratica": null,
+    "ListaPrequisitos": []
+  },
+  {
+    "Id": 49866,
+    "Codigo": "1803.000.402-2",
+    "Tipo": "OBR",
+    "Descricao": "EDUCAÇÃO E RELAÇÕES ÉTNICO-RACIAIS",
+    "Semestre": 2,
+    "Apelido": "EDUCAÇÃO E RELAÇÕES ÉTNICO-RACIAIS",
+    "CargaHorariaTeorico": 68,
+    "CargaHorariaPratica": null,
+    "ListaPrequisitos": []
+  },
+  {
+    "Id": 49862,
+    "Codigo": "1803.000.398-3",
+    "Tipo": "OBR",
+    "Descricao": "HISTÓRIA DA EDUCAÇÃO II",
+    "Semestre": 2,
+    "Apelido": "HISTÓRIA DA EDUCAÇÃO II",
+    "CargaHorariaTeorico": 68,
+    "CargaHorariaPratica": null,
+    "ListaPrequisitos": [
+      {
+        "Id": 49861,
+        "Codigo": "1803.000.397-4",
+        "Descricao": "HISTÓRIA DA EDUCAÇÃO I",
+        "Semestre": "0",
+        "Apelido": "HISTÓRIA DA EDUCAÇÃO I",
+        "CargaHorariaTeorico": 0,
+        "CargaHorariaPratica": 0,
+        "ListaPrequisitos": []
+      }
+    ]
+  },
+  {
+    "Id": 52105,
+    "Codigo": "1803.000.447-0",
+    "Tipo": "OBR",
+    "Descricao": "PRÁTICAS PEDAGÓGICAS II",
+    "Semestre": 2,
+    "Apelido": "PRÁTICAS PEDAGÓGICAS II",
+    "CargaHorariaTeorico": 51,
+    "CargaHorariaPratica": null,
+    "ListaPrequisitos": []
+  },
+  {
+    "Id": 49863,
+    "Codigo": "1803.000.399-2",
+    "Tipo": "OBR",
+    "Descricao": "PSICOLOGIA DA EDUCAÇÃO",
+    "Semestre": 2,
+    "Apelido": "PSICOLOGIA DA EDUCAÇÃO",
+    "CargaHorariaTeorico": 68,
+    "CargaHorariaPratica": null,
+    "ListaPrequisitos": []
+  },
+  {
+    "Id": 49868,
+    "Codigo": "1803.000.404-0",
+    "Tipo": "OBR",
+    "Descricao": "DIDÁTICA II",
+    "Semestre": 3,
+    "Apelido": "DIDÁTICA II",
+    "CargaHorariaTeorico": 68,
+    "CargaHorariaPratica": null,
+    "ListaPrequisitos": []
+  },
+  {
+    "Id": 49879,
+    "Codigo": "1803.000.415-8",
+    "Tipo": "OBR",
+    "Descricao": "EDUCAÇÃO, MÍDIAS E TECNOLOGIAS",
+    "Semestre": 3,
+    "Apelido": "EDUCAÇÃO, MÍDIAS E TECNOLOGIAS",
+    "CargaHorariaTeorico": 68,
+    "CargaHorariaPratica": null,
+    "ListaPrequisitos": []
+  },
+  {
+    "Id": 52106,
+    "Codigo": "1803.000.448-0",
+    "Tipo": "OBR",
+    "Descricao": "FUNDAMENTOS E METODOLOGIA DA EDUCAÇÃO INFANTIL",
+    "Semestre": 3,
+    "Apelido": "FUNDAMENTOS E METODOLOGIA DA EDUCAÇÃO INFANTIL",
+    "CargaHorariaTeorico": 68,
+    "CargaHorariaPratica": null,
+    "ListaPrequisitos": []
+  },
+  {
+    "Id": 49885,
+    "Codigo": "1803.000.421-0",
+    "Tipo": "OBR",
+    "Descricao": "INFÂNCIA E SOCIEDADE",
+    "Semestre": 3,
+    "Apelido": "INFÂNCIA E SOCIEDADE",
+    "CargaHorariaTeorico": 68,
+    "CargaHorariaPratica": null,
+    "ListaPrequisitos": []
+  },
+  {
+    "Id": 49873,
+    "Codigo": "1803.000.409-6",
+    "Tipo": "OBR",
+    "Descricao": "POLÍTICAS EDUCACIONAIS",
+    "Semestre": 3,
+    "Apelido": "POLÍTICAS EDUCACIONAIS",
+    "CargaHorariaTeorico": 68,
+    "CargaHorariaPratica": null,
+    "ListaPrequisitos": []
+  },
+  {
+    "Id": 49882,
+    "Codigo": "1803.000.418-5",
+    "Tipo": "OBR",
+    "Descricao": "PSICOLOGIA DA APRENDIZAGEM E DO DESENVOLVIMENTO",
+    "Semestre": 3,
+    "Apelido": "PSICOLOGIA DA APRENDIZAGEM E DO DESENVOLVIMENTO",
+    "CargaHorariaTeorico": 68,
+    "CargaHorariaPratica": null,
+    "ListaPrequisitos": []
+  },
+  {
+    "Id": 49876,
+    "Codigo": "1803.000.412-0",
+    "Tipo": "OBR",
+    "Descricao": "ESTÁGIO OBRIGATÓRIO I",
+    "Semestre": 4,
+    "Apelido": "ESTÁGIO OBRIGATÓRIO I",
+    "CargaHorariaTeorico": 100,
+    "CargaHorariaPratica": null,
+    "ListaPrequisitos": [
+      {
+        "Id": 52106,
+        "Codigo": "1803.000.448-0",
+        "Descricao": "FUNDAMENTOS E METODOLOGIA DA EDUCAÇÃO INFANTIL",
+        "Semestre": "0",
+        "Apelido": "FUNDAMENTOS E METODOLOGIA DA EDUCAÇÃO INFANTIL",
+        "CargaHorariaTeorico": 0,
+        "CargaHorariaPratica": 0,
+        "ListaPrequisitos": []
+      }
+    ]
+  },
+  {
+    "Id": 49869,
+    "Codigo": "1803.000.405-0",
+    "Tipo": "OBR",
+    "Descricao": "ESTUDO DE LIBRAS",
+    "Semestre": 4,
+    "Apelido": "ESTUDO DE LIBRAS",
+    "CargaHorariaTeorico": 68,
+    "CargaHorariaPratica": null,
+    "ListaPrequisitos": []
+  },
+  {
+    "Id": 52107,
+    "Codigo": "1803.000.449-9",
+    "Tipo": "OBR",
+    "Descricao": "FUNDAMENTOS E METODOLOGIA DA ALFABETIZAÇÃO E LETRAMENTO",
+    "Semestre": 4,
+    "Apelido": "FUNDAMENTOS E METODOLOGIA DA ALFABETIZAÇÃO E LETRAMENTO",
+    "CargaHorariaTeorico": 68,
+    "CargaHorariaPratica": null,
+    "ListaPrequisitos": []
+  },
+  {
+    "Id": 49875,
+    "Codigo": "1803.000.411-1",
+    "Tipo": "OBR",
+    "Descricao": "GESTÃO ESCOLAR",
+    "Semestre": 4,
+    "Apelido": "GESTÃO ESCOLAR",
+    "CargaHorariaTeorico": 68,
+    "CargaHorariaPratica": null,
+    "ListaPrequisitos": []
+  },
+  {
+    "Id": 49907,
+    "Codigo": "1803.000.443-4",
+    "Tipo": "OBR",
+    "Descricao": "LUDICIDADE E EDUCAÇÃO",
+    "Semestre": 4,
+    "Apelido": "LUDICIDADE E EDUCAÇÃO",
+    "CargaHorariaTeorico": 68,
+    "CargaHorariaPratica": null,
+    "ListaPrequisitos": []
+  },
+  {
+    "Id": 49888,
+    "Codigo": "1803.000.424-7",
+    "Tipo": "OBR",
+    "Descricao": "ESTÁGIO OBRIGATÓRIO EM GESTÃO ESCOLAR",
+    "Semestre": 5,
+    "Apelido": "ESTÁGIO OBRIGATÓRIO EM GESTÃO ESCOLAR",
+    "CargaHorariaTeorico": 68,
+    "CargaHorariaPratica": null,
+    "ListaPrequisitos": []
+  },
+  {
+    "Id": 49886,
+    "Codigo": "1803.000.422-9",
+    "Tipo": "OBR",
+    "Descricao": "ESTÁGIO OBRIGATÓRIO II",
+    "Semestre": 5,
+    "Apelido": "ESTÁGIO OBRIGATÓRIO II",
+    "CargaHorariaTeorico": 100,
+    "CargaHorariaPratica": null,
+    "ListaPrequisitos": [
+      {
+        "Id": 52106,
+        "Codigo": "1803.000.448-0",
+        "Descricao": "FUNDAMENTOS E METODOLOGIA DA EDUCAÇÃO INFANTIL",
+        "Semestre": "0",
+        "Apelido": "FUNDAMENTOS E METODOLOGIA DA EDUCAÇÃO INFANTIL",
+        "CargaHorariaTeorico": 0,
+        "CargaHorariaPratica": 0,
+        "ListaPrequisitos": []
+      }
+    ]
+  },
+  {
+    "Id": 49881,
+    "Codigo": "1803.000.417-6",
+    "Tipo": "OBR",
+    "Descricao": "FUNDAMENTOS E METODOLOGIA DO ENSINO DE LÍNGUA PORTUGUESA",
+    "Semestre": 5,
+    "Apelido": "FUNDAMENTOS E METODOLOGIA DO ENSINO DE LÍNGUA PORTUGUESA",
+    "CargaHorariaTeorico": 68,
+    "CargaHorariaPratica": null,
+    "ListaPrequisitos": []
+  },
+  {
+    "Id": 49883,
+    "Codigo": "1803.000.419-4",
+    "Tipo": "OBR",
+    "Descricao": "FUNDAMENTOS E METODOLOGIA DO ENSINO DE MATEMÁTICA",
+    "Semestre": 5,
+    "Apelido": "FUNDAMENTOS E METODOLOGIA DO ENSINO DE MATEMÁTICA",
+    "CargaHorariaTeorico": 68,
+    "CargaHorariaPratica": null,
+    "ListaPrequisitos": []
+  },
+  {
+    "Id": 49874,
+    "Codigo": "1803.000.410-2",
+    "Tipo": "OBR",
+    "Descricao": "LITERATURA INFANTIL NA ESCOLA",
+    "Semestre": 5,
+    "Apelido": "LITERATURA INFANTIL NA ESCOLA",
+    "CargaHorariaTeorico": 68,
+    "CargaHorariaPratica": null,
+    "ListaPrequisitos": []
+  },
+  {
+    "Id": 49877,
+    "Codigo": "1803.000.413-0",
+    "Tipo": "OBR",
+    "Descricao": "CORPOREIDADE E MOVIMENTO",
+    "Semestre": 6,
+    "Apelido": "CORPOREIDADE E MOVIMENTO",
+    "CargaHorariaTeorico": 68,
+    "CargaHorariaPratica": null,
+    "ListaPrequisitos": []
+  },
+  {
+    "Id": 49890,
+    "Codigo": "1803.000.426-5",
+    "Tipo": "OBR",
+    "Descricao": "ESTÁGIO OBRIGATÓRIO III",
+    "Semestre": 6,
+    "Apelido": "ESTÁGIO OBRIGATÓRIO III",
+    "CargaHorariaTeorico": 100,
+    "CargaHorariaPratica": null,
+    "ListaPrequisitos": [
+      {
+        "Id": 49881,
+        "Codigo": "1803.000.417-6",
+        "Descricao": "FUNDAMENTOS E METODOLOGIA DO ENSINO DE LÍNGUA PORTUGUESA",
+        "Semestre": "0",
+        "Apelido": "FUNDAMENTOS E METODOLOGIA DO ENSINO DE LÍNGUA PORTUGUESA",
+        "CargaHorariaTeorico": 0,
+        "CargaHorariaPratica": 0,
+        "ListaPrequisitos": []
+      },
+      {
+        "Id": 49883,
+        "Codigo": "1803.000.419-4",
+        "Descricao": "FUNDAMENTOS E METODOLOGIA DO ENSINO DE MATEMÁTICA",
+        "Semestre": "0",
+        "Apelido": "FUNDAMENTOS E METODOLOGIA DO ENSINO DE MATEMÁTICA",
+        "CargaHorariaTeorico": 0,
+        "CargaHorariaPratica": 0,
+        "ListaPrequisitos": []
+      }
+    ]
+  },
+  {
+    "Id": 49889,
+    "Codigo": "1803.000.425-6",
+    "Tipo": "OBR",
+    "Descricao": "FUNDAMENTOS E METODOLOGIA DO ENSINO DE CIÊNCIAS",
+    "Semestre": 6,
+    "Apelido": "FUNDAMENTOS E METODOLOGIA DO ENSINO DE CIÊNCIAS",
+    "CargaHorariaTeorico": 68,
+    "CargaHorariaPratica": null,
+    "ListaPrequisitos": []
+  },
+  {
+    "Id": 52115,
+    "Codigo": "1803.000.457-9",
+    "Tipo": "OBR",
+    "Descricao": "FUNDAMENTOS E METODOLOGIA DO ENSINO DE HISTÓRIA E GEOGRAFIA",
+    "Semestre": 6,
+    "Apelido": "FUNDAMENTOS E METODOLOGIA DO ENSINO DE HISTÓRIA E GEOGRAFIA",
+    "CargaHorariaTeorico": 68,
+    "CargaHorariaPratica": null,
+    "ListaPrequisitos": []
+  },
+  {
+    "Id": 52114,
+    "Codigo": "1803.000.456-0",
+    "Tipo": "OBR",
+    "Descricao": "PRÁTICAS PEDAGÓGICAS III",
+    "Semestre": 6,
+    "Apelido": "PRÁTICAS PEDAGÓGICAS III",
+    "CargaHorariaTeorico": 102,
+    "CargaHorariaPratica": null,
+    "ListaPrequisitos": []
+  },
+  {
+    "Id": 49887,
+    "Codigo": "1803.000.423-8",
+    "Tipo": "OBR",
+    "Descricao": "AÇÃO EDUCATIVA EM CONTEXTOS NÃO ESCOLARES",
+    "Semestre": 7,
+    "Apelido": "AÇÃO EDUCATIVA EM CONTEXTOS NÃO ESCOLARES",
+    "CargaHorariaTeorico": 68,
+    "CargaHorariaPratica": null,
+    "ListaPrequisitos": []
+  },
+  {
+    "Id": 49870,
+    "Codigo": "1803.000.406-9",
+    "Tipo": "OBR",
+    "Descricao": "ARTE E EDUCAÇÃO",
+    "Semestre": 7,
+    "Apelido": "ARTE E EDUCAÇÃO",
+    "CargaHorariaTeorico": 68,
+    "CargaHorariaPratica": null,
+    "ListaPrequisitos": []
+  },
+  {
+    "Id": 49910,
+    "Codigo": "1803.000.446-1",
+    "Tipo": "OBR",
+    "Descricao": "EDUCAÇÃO DE JOVENS E ADULTOS",
+    "Semestre": 7,
+    "Apelido": "EDUCAÇÃO DE JOVENS E ADULTOS",
+    "CargaHorariaTeorico": 68,
+    "CargaHorariaPratica": null,
+    "ListaPrequisitos": []
+  },
+  {
+    "Id": 49908,
+    "Codigo": "1803.000.444-3",
+    "Tipo": "OBR",
+    "Descricao": "EDUCAÇÃO, DIVERSIDADE E DIREITOS HUMANOS",
+    "Semestre": 7,
+    "Apelido": "EDUCAÇÃO, DIVERSIDADE E DIREITOS HUMANOS",
+    "CargaHorariaTeorico": 68,
+    "CargaHorariaPratica": null,
+    "ListaPrequisitos": []
+  },
+  {
+    "Id": 49905,
+    "Codigo": "1803.000.441-6",
+    "Tipo": "OBR",
+    "Descricao": "ESTÁGIO OBRIGATÓRIO IV",
+    "Semestre": 7,
+    "Apelido": "ESTÁGIO OBRIGATÓRIO IV",
+    "CargaHorariaTeorico": 100,
+    "CargaHorariaPratica": null,
+    "ListaPrequisitos": [
+      {
+        "Id": 49881,
+        "Codigo": "1803.000.417-6",
+        "Descricao": "FUNDAMENTOS E METODOLOGIA DO ENSINO DE LÍNGUA PORTUGUESA",
+        "Semestre": "0",
+        "Apelido": "FUNDAMENTOS E METODOLOGIA DO ENSINO DE LÍNGUA PORTUGUESA",
+        "CargaHorariaTeorico": 0,
+        "CargaHorariaPratica": 0,
+        "ListaPrequisitos": []
+      },
+      {
+        "Id": 49889,
+        "Codigo": "1803.000.425-6",
+        "Descricao": "FUNDAMENTOS E METODOLOGIA DO ENSINO DE CIÊNCIAS",
+        "Semestre": "0",
+        "Apelido": "FUNDAMENTOS E METODOLOGIA DO ENSINO DE CIÊNCIAS",
+        "CargaHorariaTeorico": 0,
+        "CargaHorariaPratica": 0,
+        "ListaPrequisitos": []
+      },
+      {
+        "Id": 52115,
+        "Codigo": "1803.000.457-9",
+        "Descricao": "FUNDAMENTOS E METODOLOGIA DO ENSINO DE HISTÓRIA E GEOGRAFIA",
+        "Semestre": "0",
+        "Apelido": "FUNDAMENTOS E METODOLOGIA DO ENSINO DE HISTÓRIA E GEOGRAFIA",
+        "CargaHorariaTeorico": 0,
+        "CargaHorariaPratica": 0,
+        "ListaPrequisitos": []
+      }
+    ]
+  },
+  {
+    "Id": 52109,
+    "Codigo": "1803.000.451-4",
+    "Tipo": "OBR",
+    "Descricao": "EDUCAÇÃO INTERCULTURAL",
+    "Semestre": 8,
+    "Apelido": "EDUCAÇÃO INTERCULTURAL",
+    "CargaHorariaTeorico": 68,
+    "CargaHorariaPratica": null,
+    "ListaPrequisitos": []
+  },
+  {
+    "Id": 49897,
+    "Codigo": "1803.000.433-6",
+    "Tipo": "OBR",
+    "Descricao": "LÍNGUA PORTUGUESA COMO SEGUNDA LÍNGUA PARA SURDOS",
+    "Semestre": 8,
+    "Apelido": "LÍNGUA PORTUGUESA COMO SEGUNDA LÍNGUA PARA SURDOS",
+    "CargaHorariaTeorico": 68,
+    "CargaHorariaPratica": null,
+    "ListaPrequisitos": [
+      {
+        "Id": 49869,
+        "Codigo": "1803.000.405-0",
+        "Descricao": "ESTUDO DE LIBRAS",
+        "Semestre": "0",
+        "Apelido": "ESTUDO DE LIBRAS",
+        "CargaHorariaTeorico": 0,
+        "CargaHorariaPratica": 0,
+        "ListaPrequisitos": []
+      }
+    ]
+  },
+  {
+    "Id": 49896,
+    "Codigo": "1803.000.432-7",
+    "Tipo": "OPT",
+    "Descricao": "CULTURA, MULTICULTURALISMO E INTERCULTURALIDADE",
+    "Semestre": 99,
+    "Apelido": "CULTURA, MULTICULTURALISMO E INTERCULTURALIDADE",
+    "CargaHorariaTeorico": 68,
+    "CargaHorariaPratica": null,
+    "ListaPrequisitos": []
+  },
+  {
+    "Id": 52108,
+    "Codigo": "1803.000.450-5",
+    "Tipo": "OPT",
+    "Descricao": "EDUCAÇÃO AMBIENTAL E SUSTENTABILIDADE",
+    "Semestre": 99,
+    "Apelido": "EDUCAÇÃO AMBIENTAL E SUSTENTABILIDADE",
+    "CargaHorariaTeorico": 68,
+    "CargaHorariaPratica": null,
+    "ListaPrequisitos": []
+  },
+  {
+    "Id": 49898,
+    "Codigo": "1803.000.434-5",
+    "Tipo": "OPT",
+    "Descricao": "EDUCAÇÃO ESCOLAR INDÍGENA",
+    "Semestre": 99,
+    "Apelido": "EDUCAÇÃO ESCOLAR INDÍGENA",
+    "CargaHorariaTeorico": 68,
+    "CargaHorariaPratica": null,
+    "ListaPrequisitos": []
+  },
+  {
+    "Id": 49891,
+    "Codigo": "1803.000.427-4",
+    "Tipo": "OPT",
+    "Descricao": "EDUCAÇÃO E SEXUALIDADE",
+    "Semestre": 99,
+    "Apelido": "EDUCAÇÃO E SEXUALIDADE",
+    "CargaHorariaTeorico": 68,
+    "CargaHorariaPratica": null,
+    "ListaPrequisitos": []
+  },
+  {
+    "Id": 52110,
+    "Codigo": "1803.000.452-3",
+    "Tipo": "NAP",
+    "Descricao": "EDUCAÇÃO ESPECIAL E INCLUSÃO ESCOLAR: DESENVOLVIMENTO DE AÇÕES AFIRMATIVAS",
+    "Semestre": 99,
+    "Apelido": "EDUCAÇÃO ESPECIAL E INCLUSÃO ESCOLAR: DESENVOLVIMENTO DE AÇÕES AFIRMATIVAS",
+    "CargaHorariaTeorico": 68,
+    "CargaHorariaPratica": null,
+    "ListaPrequisitos": []
+  },
+  {
+    "Id": 44895,
+    "Codigo": "1803.000.286-0",
+    "Tipo": "NAP",
+    "Descricao": "EDUCAÇÃO, MULTICULTURALISMO E INTERCULTURALIDADE",
+    "Semestre": 99,
+    "Apelido": "EDUCAÇÃO, MULTICULTURALISMO E INTERCULTURALIDADE",
+    "CargaHorariaTeorico": 68,
+    "CargaHorariaPratica": null,
+    "ListaPrequisitos": []
+  },
+  {
+    "Id": 43686,
+    "Codigo": "1991.000.004-3",
+    "Tipo": "OPT",
+    "Descricao": "EMPREENDEDORISMO E INOVAÇÃO",
+    "Semestre": 99,
+    "Apelido": "EMPREENDEDORISMO E INOVAÇÃO",
+    "CargaHorariaTeorico": 68,
+    "CargaHorariaPratica": null,
+    "ListaPrequisitos": []
+  },
+  {
+    "Id": 49853,
+    "Codigo": "1803.000.389-4",
+    "Tipo": "OPT",
+    "Descricao": "PRÁTICA PEDAGÓGICA E FORMAÇÃO DE PROFESSORES: EDUCAÇÃO INCLUSIVA E MULTICULTURAL",
+    "Semestre": 99,
+    "Apelido": "PRÁTICA PEDAGÓGICA E FORMAÇÃO DE PROFESSORES: EDUCAÇÃO INCLUSIVA E MULTICULTURAL",
+    "CargaHorariaTeorico": 102,
+    "CargaHorariaPratica": null,
+    "ListaPrequisitos": []
+  },
+  {
+    "Id": 49852,
+    "Codigo": "1803.000.388-5",
+    "Tipo": "OPT",
+    "Descricao": "PRÁTICA PEDAGÓGICA EM AÇÃO: TÓPICOS ESPECIAIS EM FORMAÇÃO DE PROFESSORES",
+    "Semestre": 99,
+    "Apelido": "PRÁTICA PEDAGÓGICA EM AÇÃO: TÓPICOS ESPECIAIS EM FORMAÇÃO DE PROFESSORES",
+    "CargaHorariaTeorico": 102,
+    "CargaHorariaPratica": null,
+    "ListaPrequisitos": []
+  },
+  {
+    "Id": 49856,
+    "Codigo": "1803.000.392-9",
+    "Tipo": "OPT",
+    "Descricao": "PRÁTICA PEDAGÓGICA EM ALFABETIZAÇÃO E LETRAMENTO",
+    "Semestre": 99,
+    "Apelido": "PRÁTICA PEDAGÓGICA EM ALFABETIZAÇÃO E LETRAMENTO",
+    "CargaHorariaTeorico": 102,
+    "CargaHorariaPratica": null,
+    "ListaPrequisitos": []
+  },
+  {
+    "Id": 49854,
+    "Codigo": "1803.000.390-0",
+    "Tipo": "OPT",
+    "Descricao": "PRÁTICA PEDAGÓGICA EM AMBIENTES NÃO ESCOLARES: A BRINQUEDOTECA COMO ESPAÇO DE FORMAÇÃO",
+    "Semestre": 99,
+    "Apelido": "PRÁTICA PEDAGÓGICA EM AMBIENTES NÃO ESCOLARES: A BRINQUEDOTECA COMO ESPAÇO DE FORMAÇÃO",
+    "CargaHorariaTeorico": 102,
+    "CargaHorariaPratica": null,
+    "ListaPrequisitos": []
+  },
+  {
+    "Id": 49855,
+    "Codigo": "1803.000.391-0",
+    "Tipo": "OPT",
+    "Descricao": "PRÁTICA PEDAGÓGICA EM CONTEXTOS NÃO ESCOLARES",
+    "Semestre": 99,
+    "Apelido": "PRÁTICA PEDAGÓGICA EM CONTEXTOS NÃO ESCOLARES",
+    "CargaHorariaTeorico": 102,
+    "CargaHorariaPratica": null,
+    "ListaPrequisitos": []
+  },
+  {
+    "Id": 49858,
+    "Codigo": "1803.000.394-7",
+    "Tipo": "OPT",
+    "Descricao": "PRÁTICA PEDAGÓGICA EM EDUCAÇÃO ESPECIAL",
+    "Semestre": 99,
+    "Apelido": "PRÁTICA PEDAGÓGICA EM EDUCAÇÃO ESPECIAL",
+    "CargaHorariaTeorico": 102,
+    "CargaHorariaPratica": null,
+    "ListaPrequisitos": []
+  },
+  {
+    "Id": 49844,
+    "Codigo": "1803.000.380-2",
+    "Tipo": "OPT",
+    "Descricao": "PRÁTICA PEDAGÓGICA EM JOGOS, BRINQUEDOS E BRINCADEIRAS: A LUDICIDADE COMO CAMPO DE CONSTRUÇÃO DA APRENDIZAGEM",
+    "Semestre": 99,
+    "Apelido": "PRÁTICA PEDAGÓGICA EM JOGOS, BRINQUEDOS E BRINCADEIRAS: A LUDICIDADE COMO CAMPO DE CONSTRUÇÃO DA APRENDIZAGEM",
+    "CargaHorariaTeorico": 102,
+    "CargaHorariaPratica": null,
+    "ListaPrequisitos": []
+  },
+  {
+    "Id": 49846,
+    "Codigo": "1803.000.382-0",
+    "Tipo": "OPT",
+    "Descricao": "PRÁTICA PEDAGÓGICA E PESQUISA ACADÊMICA: FORMAÇÃO DE PROFESSORES E PROFISSÃO DOCENTE",
+    "Semestre": 99,
+    "Apelido": "PRÁTICA PEDAGÓGICA E PESQUISA ACADÊMICA: FORMAÇÃO DE PROFESSORES E PROFISSÃO DOCENTE",
+    "CargaHorariaTeorico": 102,
+    "CargaHorariaPratica": null,
+    "ListaPrequisitos": []
+  },
+  {
+    "Id": 49851,
+    "Codigo": "1803.000.387-6",
+    "Tipo": "OPT",
+    "Descricao": "PRÁTICA PEDAGÓGICA FRONTEIRIÇA: MULTICULTURALISMO E MULTILINGUISMO",
+    "Semestre": 99,
+    "Apelido": "PRÁTICA PEDAGÓGICA FRONTEIRIÇA: MULTICULTURALISMO E MULTILINGUISMO",
+    "CargaHorariaTeorico": 102,
+    "CargaHorariaPratica": null,
+    "ListaPrequisitos": []
+  },
+  {
+    "Id": 49901,
+    "Codigo": "1803.000.437-2",
+    "Tipo": "OPT",
+    "Descricao": "TÓPICOS EM AFETIVIDADE E EMOÇÕES NO ENSINO E NA APRENDIZAGEM",
+    "Semestre": 99,
+    "Apelido": "TÓPICOS EM AFETIVIDADE E EMOÇÕES NO ENSINO E NA APRENDIZAGEM",
+    "CargaHorariaTeorico": 68,
+    "CargaHorariaPratica": null,
+    "ListaPrequisitos": []
+  },
+  {
+    "Id": 49906,
+    "Codigo": "1803.000.442-5",
+    "Tipo": "OPT",
+    "Descricao": "TÓPICOS EM EDUCAÇÃO ESPECIAL E INCLUSIVA: MARCOS LEGAIS E TEMPORAIS",
+    "Semestre": 99,
+    "Apelido": "TÓPICOS EM EDUCAÇÃO ESPECIAL E INCLUSIVA: MARCOS LEGAIS E TEMPORAIS",
+    "CargaHorariaTeorico": 68,
+    "CargaHorariaPratica": null,
+    "ListaPrequisitos": []
+  },
+  {
+    "Id": 49893,
+    "Codigo": "1803.000.429-2",
+    "Tipo": "OPT",
+    "Descricao": "TÓPICOS EM FORMAÇÃO DE PROFESSORES E FRONTEIRA",
+    "Semestre": 99,
+    "Apelido": "TÓPICOS EM FORMAÇÃO DE PROFESSORES E FRONTEIRA",
+    "CargaHorariaTeorico": 68,
+    "CargaHorariaPratica": null,
+    "ListaPrequisitos": []
+  },
+  {
+    "Id": 49904,
+    "Codigo": "1803.000.440-7",
+    "Tipo": "OPT",
+    "Descricao": "TÓPICOS EM HISTÓRIA DA EDUCAÇÃO BRASILEIRA E ENSINO",
+    "Semestre": 99,
+    "Apelido": "TÓPICOS EM HISTÓRIA DA EDUCAÇÃO BRASILEIRA E ENSINO",
+    "CargaHorariaTeorico": 68,
+    "CargaHorariaPratica": null,
+    "ListaPrequisitos": []
+  },
+  {
+    "Id": 49903,
+    "Codigo": "1803.000.439-0",
+    "Tipo": "OPT",
+    "Descricao": "TÓPICOS EM HISTÓRIA DA EDUCAÇÃO: INSTITUIÇÕES ESCOLARES E PENSAMENTO PEDAGÓGICO",
+    "Semestre": 99,
+    "Apelido": "TÓPICOS EM HISTÓRIA DA EDUCAÇÃO: INSTITUIÇÕES ESCOLARES E PENSAMENTO PEDAGÓGICO",
+    "CargaHorariaTeorico": 68,
+    "CargaHorariaPratica": null,
+    "ListaPrequisitos": []
+  },
+  {
+    "Id": 49899,
+    "Codigo": "1803.000.435-4",
+    "Tipo": "OPT",
+    "Descricao": "TÓPICOS EM METODOLOGIAS ATIVAS E TECNOLOGIAS DIGITAIS",
+    "Semestre": 99,
+    "Apelido": "TÓPICOS EM METODOLOGIAS ATIVAS E TECNOLOGIAS DIGITAIS",
+    "CargaHorariaTeorico": 68,
+    "CargaHorariaPratica": null,
+    "ListaPrequisitos": []
+  },
+  {
+    "Id": 49895,
+    "Codigo": "1803.000.431-8",
+    "Tipo": "OPT",
+    "Descricao": "TÓPICOS EM METODOLOGIAS DO ENSINO DE CIÊNCIAS",
+    "Semestre": 99,
+    "Apelido": "TÓPICOS EM METODOLOGIAS DO ENSINO DE CIÊNCIAS",
+    "CargaHorariaTeorico": 68,
+    "CargaHorariaPratica": null,
+    "ListaPrequisitos": []
+  },
+  {
+    "Id": 49892,
+    "Codigo": "1803.000.428-3",
+    "Tipo": "OPT",
+    "Descricao": "TÓPICOS EM POLÍTICAS EDUCACIONAIS E FRONTEIRA",
+    "Semestre": 99,
+    "Apelido": "TÓPICOS EM POLÍTICAS EDUCACIONAIS E FRONTEIRA",
+    "CargaHorariaTeorico": 68,
+    "CargaHorariaPratica": null,
+    "ListaPrequisitos": []
+  },
+  {
+    "Id": 49900,
+    "Codigo": "1803.000.436-3",
+    "Tipo": "OPT",
+    "Descricao": "TÓPICOS EM PROJETOS EDUCACIONAIS INTERDISCIPLINARES",
+    "Semestre": 99,
+    "Apelido": "TÓPICOS EM PROJETOS EDUCACIONAIS INTERDISCIPLINARES",
+    "CargaHorariaTeorico": 68,
+    "CargaHorariaPratica": null,
+    "ListaPrequisitos": []
+  },
+  {
+    "Id": 49902,
+    "Codigo": "1803.000.438-1",
+    "Tipo": "OPT",
+    "Descricao": "TÓPICOS EM TEORIAS DE ENSINO E DA APRENDIZAGEM",
+    "Semestre": 99,
+    "Apelido": "TÓPICOS EM TEORIAS DE ENSINO E DA APRENDIZAGEM",
+    "CargaHorariaTeorico": 68,
+    "CargaHorariaPratica": null,
+    "ListaPrequisitos": []
+  },
+  {
+    "Id": 52111,
+    "Codigo": "1803.000.453-2",
+    "Tipo": "NAP",
+    "Descricao": "TÓPICOS ESPECIAIS DE ALFABETIZAÇÃO EM CONTEXTOS MULTILÍNGUES",
+    "Semestre": 99,
+    "Apelido": "TÓPICOS ESPECIAIS DE ALFABETIZAÇÃO EM CONTEXTOS MULTILÍNGUES",
+    "CargaHorariaTeorico": 68,
+    "CargaHorariaPratica": null,
+    "ListaPrequisitos": []
+  },
+  {
+    "Id": 52112,
+    "Codigo": "1803.000.454-1",
+    "Tipo": "NAP",
+    "Descricao": "TÓPICOS ESPECIAIS EDUCAÇÃO ESPECIAL INCLUSIVA",
+    "Semestre": 99,
+    "Apelido": "TÓPICOS ESPECIAIS EDUCAÇÃO ESPECIAL INCLUSIVA",
+    "CargaHorariaTeorico": 68,
+    "CargaHorariaPratica": null,
+    "ListaPrequisitos": []
+  }
+]

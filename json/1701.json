@@ -1,0 +1,805 @@
+[
+  {
+    "Id": 45576,
+    "Codigo": "1703.000.256-3",
+    "Tipo": "OBR",
+    "Descricao": "FUNDAMENTOS DA EDUCAÇÃO",
+    "Semestre": 1,
+    "Apelido": "FUNDAMENTOS DA EDUCAÇÃO",
+    "CargaHorariaTeorico": 68,
+    "CargaHorariaPratica": null,
+    "ListaPrequisitos": []
+  },
+  {
+    "Id": 45582,
+    "Codigo": "1703.000.262-5",
+    "Tipo": "OBR",
+    "Descricao": "HISTÓRIA MODERNA E CONTEMPORÂNEA",
+    "Semestre": 1,
+    "Apelido": "HISTÓRIA MODERNA E CONTEMPORÂNEA",
+    "CargaHorariaTeorico": 68,
+    "CargaHorariaPratica": null,
+    "ListaPrequisitos": []
+  },
+  {
+    "Id": 45577,
+    "Codigo": "1703.000.257-2",
+    "Tipo": "OBR",
+    "Descricao": "INTRODUÇÃO À ANTROPOLOGIA",
+    "Semestre": 1,
+    "Apelido": "INTRODUÇÃO À ANTROPOLOGIA",
+    "CargaHorariaTeorico": 68,
+    "CargaHorariaPratica": null,
+    "ListaPrequisitos": []
+  },
+  {
+    "Id": 39704,
+    "Codigo": "1703.000.003-8",
+    "Tipo": "OBR",
+    "Descricao": "INTRODUÇÃO À POLÍTICA",
+    "Semestre": 1,
+    "Apelido": "INTRODUÇÃO À POLÍTICA",
+    "CargaHorariaTeorico": 68,
+    "CargaHorariaPratica": null,
+    "ListaPrequisitos": []
+  },
+  {
+    "Id": 45581,
+    "Codigo": "1703.000.261-6",
+    "Tipo": "OBR",
+    "Descricao": "INTRODUÇÃO À SOCIOLOGIA",
+    "Semestre": 1,
+    "Apelido": "INTRODUÇÃO À SOCIOLOGIA",
+    "CargaHorariaTeorico": 68,
+    "CargaHorariaPratica": null,
+    "ListaPrequisitos": []
+  },
+  {
+    "Id": 39791,
+    "Codigo": "1703.000.089-5",
+    "Tipo": "OBR",
+    "Descricao": "NORMALIZAÇÃO DE TRABALHOS ACADÊMICOS",
+    "Semestre": 2,
+    "Apelido": "NORMALIZAÇÃO DE TRABALHOS ACADÊMICOS",
+    "CargaHorariaTeorico": 68,
+    "CargaHorariaPratica": null,
+    "ListaPrequisitos": []
+  },
+  {
+    "Id": 39707,
+    "Codigo": "1703.000.006-2",
+    "Tipo": "OBR",
+    "Descricao": "SOCIOLOGIA DA EDUCAÇÃO",
+    "Semestre": 2,
+    "Apelido": "SOCIOLOGIA DA EDUCAÇÃO",
+    "CargaHorariaTeorico": 68,
+    "CargaHorariaPratica": null,
+    "ListaPrequisitos": []
+  },
+  {
+    "Id": 45580,
+    "Codigo": "1703.000.260-7",
+    "Tipo": "OBR",
+    "Descricao": "TEORIA ANTROPOLÓGICA I",
+    "Semestre": 2,
+    "Apelido": "TEORIA ANTROPOLÓGICA I",
+    "CargaHorariaTeorico": 68,
+    "CargaHorariaPratica": null,
+    "ListaPrequisitos": []
+  },
+  {
+    "Id": 39710,
+    "Codigo": "1703.000.009-7",
+    "Tipo": "OBR",
+    "Descricao": "TEORIA POLÍTICA I",
+    "Semestre": 2,
+    "Apelido": "TEORIA POLÍTICA I",
+    "CargaHorariaTeorico": 68,
+    "CargaHorariaPratica": null,
+    "ListaPrequisitos": []
+  },
+  {
+    "Id": 45584,
+    "Codigo": "1703.000.264-3",
+    "Tipo": "OBR",
+    "Descricao": "TEORIA SOCIOLÓGICA I",
+    "Semestre": 2,
+    "Apelido": "TEORIA SOCIOLÓGICA I",
+    "CargaHorariaTeorico": 68,
+    "CargaHorariaPratica": null,
+    "ListaPrequisitos": []
+  },
+  {
+    "Id": 45585,
+    "Codigo": "1703.000.265-2",
+    "Tipo": "OBR",
+    "Descricao": "FILOSOFIA DA EDUCAÇÃO",
+    "Semestre": 3,
+    "Apelido": "FILOSOFIA DA EDUCAÇÃO",
+    "CargaHorariaTeorico": 68,
+    "CargaHorariaPratica": null,
+    "ListaPrequisitos": []
+  },
+  {
+    "Id": 44198,
+    "Codigo": "1703.000.187-0",
+    "Tipo": "OBR",
+    "Descricao": "PSICOLOGIA E EDUCAÇÃO",
+    "Semestre": 3,
+    "Apelido": "PSICOLOGIA E EDUCAÇÃO",
+    "CargaHorariaTeorico": 51,
+    "CargaHorariaPratica": null,
+    "ListaPrequisitos": []
+  },
+  {
+    "Id": 39715,
+    "Codigo": "1703.000.013-5",
+    "Tipo": "OBR",
+    "Descricao": "TEORIA ANTROPOLÓGICA II",
+    "Semestre": 3,
+    "Apelido": "TEORIA ANTROPOLÓGICA II",
+    "CargaHorariaTeorico": 68,
+    "CargaHorariaPratica": null,
+    "ListaPrequisitos": []
+  },
+  {
+    "Id": 39716,
+    "Codigo": "1703.000.014-3",
+    "Tipo": "OBR",
+    "Descricao": "TEORIA POLÍTICA II",
+    "Semestre": 3,
+    "Apelido": "TEORIA POLÍTICA II",
+    "CargaHorariaTeorico": 68,
+    "CargaHorariaPratica": null,
+    "ListaPrequisitos": []
+  },
+  {
+    "Id": 39717,
+    "Codigo": "1703.000.015-1",
+    "Tipo": "OBR",
+    "Descricao": "TEORIA SOCIOLÓGICA II",
+    "Semestre": 3,
+    "Apelido": "TEORIA SOCIOLÓGICA II",
+    "CargaHorariaTeorico": 68,
+    "CargaHorariaPratica": null,
+    "ListaPrequisitos": []
+  },
+  {
+    "Id": 44206,
+    "Codigo": "1703.000.195-0",
+    "Tipo": "OBR",
+    "Descricao": "FUNDAMENTOS DE DIDÁTICA",
+    "Semestre": 4,
+    "Apelido": "FUNDAMENTOS DE DIDÁTICA",
+    "CargaHorariaTeorico": 51,
+    "CargaHorariaPratica": null,
+    "ListaPrequisitos": []
+  },
+  {
+    "Id": 44200,
+    "Codigo": "1703.000.189-8",
+    "Tipo": "OBR",
+    "Descricao": "POLÍTICAS EDUCACIONAIS",
+    "Semestre": 4,
+    "Apelido": "POLÍTICAS EDUCACIONAIS",
+    "CargaHorariaTeorico": 51,
+    "CargaHorariaPratica": null,
+    "ListaPrequisitos": []
+  },
+  {
+    "Id": 39720,
+    "Codigo": "1703.000.018-6",
+    "Tipo": "OBR",
+    "Descricao": "TEORIA ANTROPOLÓGICA III",
+    "Semestre": 4,
+    "Apelido": "TEORIA ANTROPOLÓGICA III",
+    "CargaHorariaTeorico": 68,
+    "CargaHorariaPratica": null,
+    "ListaPrequisitos": []
+  },
+  {
+    "Id": 39721,
+    "Codigo": "1703.000.019-4",
+    "Tipo": "OBR",
+    "Descricao": "TEORIA POLÍTICA III",
+    "Semestre": 4,
+    "Apelido": "TEORIA POLÍTICA III",
+    "CargaHorariaTeorico": 68,
+    "CargaHorariaPratica": null,
+    "ListaPrequisitos": []
+  },
+  {
+    "Id": 39722,
+    "Codigo": "1703.000.020-8",
+    "Tipo": "OBR",
+    "Descricao": "TEORIA SOCIOLÓGICA III",
+    "Semestre": 4,
+    "Apelido": "TEORIA SOCIOLÓGICA III",
+    "CargaHorariaTeorico": 68,
+    "CargaHorariaPratica": null,
+    "ListaPrequisitos": []
+  },
+  {
+    "Id": 39723,
+    "Codigo": "1703.000.021-6",
+    "Tipo": "OBR",
+    "Descricao": "ESTÁGIO OBRIGATÓRIO EM CIÊNCIAS SOCIAIS I",
+    "Semestre": 5,
+    "Apelido": "ESTÁGIO OBRIGATÓRIO EM CIÊNCIAS SOCIAIS I",
+    "CargaHorariaTeorico": 90,
+    "CargaHorariaPratica": null,
+    "ListaPrequisitos": [
+      {
+        "Id": 44206,
+        "Codigo": "1703.000.195-0",
+        "Descricao": "FUNDAMENTOS DE DIDÁTICA",
+        "Semestre": "0",
+        "Apelido": "FUNDAMENTOS DE DIDÁTICA",
+        "CargaHorariaTeorico": 0,
+        "CargaHorariaPratica": 0,
+        "ListaPrequisitos": []
+      }
+    ]
+  },
+  {
+    "Id": 39724,
+    "Codigo": "1703.000.022-4",
+    "Tipo": "OBR",
+    "Descricao": "HISTÓRIA DA EDUCAÇÃO E DO ENSINO DE SOCIOLOGIA NO BRASIL",
+    "Semestre": 5,
+    "Apelido": "HISTÓRIA DA EDUCAÇÃO E DO ENSINO DE SOCIOLOGIA NO BRASIL",
+    "CargaHorariaTeorico": 68,
+    "CargaHorariaPratica": null,
+    "ListaPrequisitos": []
+  },
+  {
+    "Id": 45575,
+    "Codigo": "1703.000.255-4",
+    "Tipo": "OBR",
+    "Descricao": "MÉTODOS E TÉCNICAS DE PESQUISA EM CIÊNCIAS SOCIAIS",
+    "Semestre": 5,
+    "Apelido": "MÉTODOS E TÉCNICAS DE PESQUISA EM CIÊNCIAS SOCIAIS",
+    "CargaHorariaTeorico": 68,
+    "CargaHorariaPratica": null,
+    "ListaPrequisitos": []
+  },
+  {
+    "Id": 45579,
+    "Codigo": "1703.000.259-0",
+    "Tipo": "OBR",
+    "Descricao": "PENSAMENTO SOCIAL BRASILEIRO I",
+    "Semestre": 5,
+    "Apelido": "PENSAMENTO SOCIAL BRASILEIRO I",
+    "CargaHorariaTeorico": 68,
+    "CargaHorariaPratica": null,
+    "ListaPrequisitos": []
+  },
+  {
+    "Id": 45583,
+    "Codigo": "1703.000.263-4",
+    "Tipo": "OBR",
+    "Descricao": "EPISTEMOLOGIA",
+    "Semestre": 6,
+    "Apelido": "EPISTEMOLOGIA",
+    "CargaHorariaTeorico": 68,
+    "CargaHorariaPratica": null,
+    "ListaPrequisitos": []
+  },
+  {
+    "Id": 39727,
+    "Codigo": "1703.000.025-9",
+    "Tipo": "OBR",
+    "Descricao": "ESTÁGIO OBRIGATÓRIO EM CIÊNCIAS SOCIAIS II",
+    "Semestre": 6,
+    "Apelido": "ESTÁGIO OBRIGATÓRIO EM CIÊNCIAS SOCIAIS II",
+    "CargaHorariaTeorico": 100,
+    "CargaHorariaPratica": null,
+    "ListaPrequisitos": [
+      {
+        "Id": 39723,
+        "Codigo": "1703.000.021-6",
+        "Descricao": "ESTÁGIO OBRIGATÓRIO EM CIÊNCIAS SOCIAIS I",
+        "Semestre": "0",
+        "Apelido": "ESTÁGIO OBRIGATÓRIO EM CIÊNCIAS SOCIAIS I",
+        "CargaHorariaTeorico": 0,
+        "CargaHorariaPratica": 0,
+        "ListaPrequisitos": []
+      }
+    ]
+  },
+  {
+    "Id": 45578,
+    "Codigo": "1703.000.258-1",
+    "Tipo": "OBR",
+    "Descricao": "MÉTODOS E TÉCNICAS DE ENSINO EM CIÊNCIAS SOCIAIS",
+    "Semestre": 6,
+    "Apelido": "MÉTODOS E TÉCNICAS DE ENSINO EM CIÊNCIAS SOCIAIS",
+    "CargaHorariaTeorico": 68,
+    "CargaHorariaPratica": null,
+    "ListaPrequisitos": []
+  },
+  {
+    "Id": 39730,
+    "Codigo": "1703.000.028-3",
+    "Tipo": "OBR",
+    "Descricao": "PENSAMENTO SOCIAL BRASILEIRO II",
+    "Semestre": 6,
+    "Apelido": "PENSAMENTO SOCIAL BRASILEIRO II",
+    "CargaHorariaTeorico": 68,
+    "CargaHorariaPratica": null,
+    "ListaPrequisitos": []
+  },
+  {
+    "Id": 39731,
+    "Codigo": "1703.000.029-1",
+    "Tipo": "OBR",
+    "Descricao": "SEMINÁRIO DE PESQUISA I",
+    "Semestre": 6,
+    "Apelido": "SEMINÁRIO DE PESQUISA I",
+    "CargaHorariaTeorico": 68,
+    "CargaHorariaPratica": null,
+    "ListaPrequisitos": [
+      {
+        "Id": 45575,
+        "Codigo": "1703.000.255-4",
+        "Descricao": "MÉTODOS E TÉCNICAS DE PESQUISA EM CIÊNCIAS SOCIAIS",
+        "Semestre": "0",
+        "Apelido": "MÉTODOS E TÉCNICAS DE PESQUISA EM CIÊNCIAS SOCIAIS",
+        "CargaHorariaTeorico": 0,
+        "CargaHorariaPratica": 0,
+        "ListaPrequisitos": []
+      }
+    ]
+  },
+  {
+    "Id": 44204,
+    "Codigo": "1703.000.193-1",
+    "Tipo": "OBR",
+    "Descricao": "EDUCAÇÃO ESPECIAL",
+    "Semestre": 7,
+    "Apelido": "EDUCAÇÃO ESPECIAL",
+    "CargaHorariaTeorico": 51,
+    "CargaHorariaPratica": null,
+    "ListaPrequisitos": []
+  },
+  {
+    "Id": 39734,
+    "Codigo": "1703.000.032-1",
+    "Tipo": "OBR",
+    "Descricao": "ESTÁGIO OBRIGATÓRIO EM CIÊNCIAS SOCIAIS III",
+    "Semestre": 7,
+    "Apelido": "ESTÁGIO OBRIGATÓRIO EM CIÊNCIAS SOCIAIS III",
+    "CargaHorariaTeorico": 100,
+    "CargaHorariaPratica": null,
+    "ListaPrequisitos": [
+      {
+        "Id": 39727,
+        "Codigo": "1703.000.025-9",
+        "Descricao": "ESTÁGIO OBRIGATÓRIO EM CIÊNCIAS SOCIAIS II",
+        "Semestre": "0",
+        "Apelido": "ESTÁGIO OBRIGATÓRIO EM CIÊNCIAS SOCIAIS II",
+        "CargaHorariaTeorico": 0,
+        "CargaHorariaPratica": 0,
+        "ListaPrequisitos": []
+      }
+    ]
+  },
+  {
+    "Id": 39732,
+    "Codigo": "1703.000.030-5",
+    "Tipo": "OBR",
+    "Descricao": "ESTATÍSTICA APLICADA ÀS CIÊNCIAS SOCIAIS",
+    "Semestre": 7,
+    "Apelido": "ESTATÍSTICA APLICADA ÀS CIÊNCIAS SOCIAIS",
+    "CargaHorariaTeorico": 34,
+    "CargaHorariaPratica": null,
+    "ListaPrequisitos": []
+  },
+  {
+    "Id": 44209,
+    "Codigo": "1703.000.198-7",
+    "Tipo": "OBR",
+    "Descricao": "ESTUDOS DE LIBRAS",
+    "Semestre": 7,
+    "Apelido": "ESTUDOS DE LIBRAS",
+    "CargaHorariaTeorico": 51,
+    "CargaHorariaPratica": null,
+    "ListaPrequisitos": []
+  },
+  {
+    "Id": 39736,
+    "Codigo": "1703.000.034-8",
+    "Tipo": "OBR",
+    "Descricao": "SEMINÁRIO DE PESQUISA II",
+    "Semestre": 7,
+    "Apelido": "SEMINÁRIO DE PESQUISA II",
+    "CargaHorariaTeorico": 34,
+    "CargaHorariaPratica": null,
+    "ListaPrequisitos": [
+      {
+        "Id": 39731,
+        "Codigo": "1703.000.029-1",
+        "Descricao": "SEMINÁRIO DE PESQUISA I",
+        "Semestre": "0",
+        "Apelido": "SEMINÁRIO DE PESQUISA I",
+        "CargaHorariaTeorico": 0,
+        "CargaHorariaPratica": 0,
+        "ListaPrequisitos": []
+      }
+    ]
+  },
+  {
+    "Id": 44205,
+    "Codigo": "1703.000.194-0",
+    "Tipo": "OBR",
+    "Descricao": "EDUCAÇÃO DAS RELAÇÕES ÉTNICO-RACIAIS",
+    "Semestre": 8,
+    "Apelido": "EDUCAÇÃO DAS RELAÇÕES ÉTNICO-RACIAIS",
+    "CargaHorariaTeorico": 51,
+    "CargaHorariaPratica": null,
+    "ListaPrequisitos": []
+  },
+  {
+    "Id": 39738,
+    "Codigo": "1703.000.036-4",
+    "Tipo": "OBR",
+    "Descricao": "ESTÁGIO OBRIGATÓRIO EM CIÊNCIAS SOCIAIS IV",
+    "Semestre": 8,
+    "Apelido": "ESTÁGIO OBRIGATÓRIO EM CIÊNCIAS SOCIAIS IV",
+    "CargaHorariaTeorico": 110,
+    "CargaHorariaPratica": null,
+    "ListaPrequisitos": [
+      {
+        "Id": 39734,
+        "Codigo": "1703.000.032-1",
+        "Descricao": "ESTÁGIO OBRIGATÓRIO EM CIÊNCIAS SOCIAIS III",
+        "Semestre": "0",
+        "Apelido": "ESTÁGIO OBRIGATÓRIO EM CIÊNCIAS SOCIAIS III",
+        "CargaHorariaTeorico": 0,
+        "CargaHorariaPratica": 0,
+        "ListaPrequisitos": []
+      }
+    ]
+  },
+  {
+    "Id": 44207,
+    "Codigo": "1703.000.196-9",
+    "Tipo": "OBR",
+    "Descricao": "SOCIOLOGIA RURAL",
+    "Semestre": 8,
+    "Apelido": "SOCIOLOGIA RURAL",
+    "CargaHorariaTeorico": 68,
+    "CargaHorariaPratica": null,
+    "ListaPrequisitos": []
+  },
+  {
+    "Id": 39741,
+    "Codigo": "1703.000.039-9",
+    "Tipo": "OPT",
+    "Descricao": "ANÁLISE DE PROCESSOS DE DESENVOLVIMENTO SOCIOECONÔMICO",
+    "Semestre": 99,
+    "Apelido": "ANÁLISE DE PROCESSOS DE DESENVOLVIMENTO SOCIOECONÔMICO",
+    "CargaHorariaTeorico": 68,
+    "CargaHorariaPratica": null,
+    "ListaPrequisitos": []
+  },
+  {
+    "Id": 39742,
+    "Codigo": "1703.000.040-2",
+    "Tipo": "OPT",
+    "Descricao": "ANTROPOLOGIA DA EDUCAÇÃO",
+    "Semestre": 99,
+    "Apelido": "ANTROPOLOGIA DA EDUCAÇÃO",
+    "CargaHorariaTeorico": 68,
+    "CargaHorariaPratica": null,
+    "ListaPrequisitos": []
+  },
+  {
+    "Id": 39743,
+    "Codigo": "1703.000.041-0",
+    "Tipo": "OPT",
+    "Descricao": "ANTROPOLOGIA DAS EMOÇÕES",
+    "Semestre": 99,
+    "Apelido": "ANTROPOLOGIA DAS EMOÇÕES",
+    "CargaHorariaTeorico": 68,
+    "CargaHorariaPratica": null,
+    "ListaPrequisitos": []
+  },
+  {
+    "Id": 39745,
+    "Codigo": "1703.000.043-7",
+    "Tipo": "OPT",
+    "Descricao": "ANTROPOLOGIA E CINEMA",
+    "Semestre": 99,
+    "Apelido": "ANTROPOLOGIA E CINEMA",
+    "CargaHorariaTeorico": 68,
+    "CargaHorariaPratica": null,
+    "ListaPrequisitos": []
+  },
+  {
+    "Id": 39746,
+    "Codigo": "1703.000.044-5",
+    "Tipo": "OPT",
+    "Descricao": "ANTROPOLOGIA URBANA",
+    "Semestre": 99,
+    "Apelido": "ANTROPOLOGIA URBANA",
+    "CargaHorariaTeorico": 68,
+    "CargaHorariaPratica": null,
+    "ListaPrequisitos": []
+  },
+  {
+    "Id": 39747,
+    "Codigo": "1703.000.045-3",
+    "Tipo": "OPT",
+    "Descricao": "CIÊNCIA POLÍTICA APLICADA: INSTITUIÇÕES, TOMADAS DE DECISÃO E NORMATIVIDADE",
+    "Semestre": 99,
+    "Apelido": "CIÊNCIA POLÍTICA APLICADA: INSTITUIÇÕES, TOMADAS DE DECISÃO E NORMATIVIDADE",
+    "CargaHorariaTeorico": 68,
+    "CargaHorariaPratica": null,
+    "ListaPrequisitos": []
+  },
+  {
+    "Id": 39748,
+    "Codigo": "1703.000.046-1",
+    "Tipo": "OPT",
+    "Descricao": "CULTURA E POLÍTICA NO BRASIL CONTEMPORÂNEO",
+    "Semestre": 99,
+    "Apelido": "CULTURA E POLÍTICA NO BRASIL CONTEMPORÂNEO",
+    "CargaHorariaTeorico": 68,
+    "CargaHorariaPratica": null,
+    "ListaPrequisitos": []
+  },
+  {
+    "Id": 39749,
+    "Codigo": "1703.000.047-0",
+    "Tipo": "OPT",
+    "Descricao": "DIREITOS HUMANOS: HISTÓRIA E EVOLUÇÃO",
+    "Semestre": 99,
+    "Apelido": "DIREITOS HUMANOS: HISTÓRIA E EVOLUÇÃO",
+    "CargaHorariaTeorico": 68,
+    "CargaHorariaPratica": null,
+    "ListaPrequisitos": []
+  },
+  {
+    "Id": 39750,
+    "Codigo": "1703.000.048-8",
+    "Tipo": "OPT",
+    "Descricao": "DISCURSO E CLASSES SOCIAIS",
+    "Semestre": 99,
+    "Apelido": "DISCURSO E CLASSES SOCIAIS",
+    "CargaHorariaTeorico": 68,
+    "CargaHorariaPratica": null,
+    "ListaPrequisitos": []
+  },
+  {
+    "Id": 39751,
+    "Codigo": "1703.000.049-6",
+    "Tipo": "OPT",
+    "Descricao": "ECONOMIA POLÍTICA",
+    "Semestre": 99,
+    "Apelido": "ECONOMIA POLÍTICA",
+    "CargaHorariaTeorico": 68,
+    "CargaHorariaPratica": null,
+    "ListaPrequisitos": []
+  },
+  {
+    "Id": 39752,
+    "Codigo": "1703.000.050-0",
+    "Tipo": "OPT",
+    "Descricao": "EDUCAÇÃO AMBIENTAL",
+    "Semestre": 99,
+    "Apelido": "EDUCAÇÃO AMBIENTAL",
+    "CargaHorariaTeorico": 68,
+    "CargaHorariaPratica": null,
+    "ListaPrequisitos": []
+  },
+  {
+    "Id": 44202,
+    "Codigo": "1703.000.191-3",
+    "Tipo": "OPT",
+    "Descricao": "ESTADO E POLÍTICA NO BRASIL CONTEMPORÂNEO",
+    "Semestre": 99,
+    "Apelido": "ESTADO E POLÍTICA NO BRASIL CONTEMPORÂNEO",
+    "CargaHorariaTeorico": 68,
+    "CargaHorariaPratica": null,
+    "ListaPrequisitos": []
+  },
+  {
+    "Id": 39753,
+    "Codigo": "1703.000.051-8",
+    "Tipo": "OPT",
+    "Descricao": "ESTUDOS DIRIGIDOS",
+    "Semestre": 99,
+    "Apelido": "ESTUDOS DIRIGIDOS",
+    "CargaHorariaTeorico": 68,
+    "CargaHorariaPratica": null,
+    "ListaPrequisitos": []
+  },
+  {
+    "Id": 39754,
+    "Codigo": "1703.000.052-6",
+    "Tipo": "OPT",
+    "Descricao": "ETNOLOGIA INDÍGENA",
+    "Semestre": 99,
+    "Apelido": "ETNOLOGIA INDÍGENA",
+    "CargaHorariaTeorico": 68,
+    "CargaHorariaPratica": null,
+    "ListaPrequisitos": []
+  },
+  {
+    "Id": 39757,
+    "Codigo": "1703.000.055-0",
+    "Tipo": "OPT",
+    "Descricao": "GÊNERO E SEXUALIDADES",
+    "Semestre": 99,
+    "Apelido": "GÊNERO E SEXUALIDADES",
+    "CargaHorariaTeorico": 68,
+    "CargaHorariaPratica": null,
+    "ListaPrequisitos": []
+  },
+  {
+    "Id": 39755,
+    "Codigo": "1703.000.053-4",
+    "Tipo": "OPT",
+    "Descricao": "HISTÓRIA DA ÁFRICA CONTEMPORÂNEA",
+    "Semestre": 99,
+    "Apelido": "HISTÓRIA DA ÁFRICA CONTEMPORÂNEA",
+    "CargaHorariaTeorico": 68,
+    "CargaHorariaPratica": null,
+    "ListaPrequisitos": []
+  },
+  {
+    "Id": 39756,
+    "Codigo": "1703.000.054-2",
+    "Tipo": "OPT",
+    "Descricao": "HISTÓRIA REGIONAL",
+    "Semestre": 99,
+    "Apelido": "HISTÓRIA REGIONAL",
+    "CargaHorariaTeorico": 68,
+    "CargaHorariaPratica": null,
+    "ListaPrequisitos": []
+  },
+  {
+    "Id": 39758,
+    "Codigo": "1703.000.056-9",
+    "Tipo": "OPT",
+    "Descricao": "INTRODUÇÃO À GEOGRAFIA HUMANA",
+    "Semestre": 99,
+    "Apelido": "INTRODUÇÃO À GEOGRAFIA HUMANA",
+    "CargaHorariaTeorico": 68,
+    "CargaHorariaPratica": null,
+    "ListaPrequisitos": []
+  },
+  {
+    "Id": 44201,
+    "Codigo": "1703.000.190-4",
+    "Tipo": "OPT",
+    "Descricao": "LÍNGUA PORTUGUESA",
+    "Semestre": 99,
+    "Apelido": "LÍNGUA PORTUGUESA",
+    "CargaHorariaTeorico": 68,
+    "CargaHorariaPratica": null,
+    "ListaPrequisitos": []
+  },
+  {
+    "Id": 44210,
+    "Codigo": "1703.000.199-6",
+    "Tipo": "OPT",
+    "Descricao": "ORGANIZAÇÃO CURRICULAR E GESTÃO DA ESCOLA",
+    "Semestre": 99,
+    "Apelido": "ORGANIZAÇÃO CURRICULAR E GESTÃO DA ESCOLA",
+    "CargaHorariaTeorico": 68,
+    "CargaHorariaPratica": null,
+    "ListaPrequisitos": []
+  },
+  {
+    "Id": 39759,
+    "Codigo": "1703.000.057-7",
+    "Tipo": "OPT",
+    "Descricao": "ORIGEM DO HOMEM E ANTIGAS CIVILIZAÇÕES",
+    "Semestre": 99,
+    "Apelido": "ORIGEM DO HOMEM E ANTIGAS CIVILIZAÇÕES",
+    "CargaHorariaTeorico": 68,
+    "CargaHorariaPratica": null,
+    "ListaPrequisitos": []
+  },
+  {
+    "Id": 44197,
+    "Codigo": "1703.000.186-0",
+    "Tipo": "OPT",
+    "Descricao": "PRÁTICA DE LEITURA E PRODUÇÃO DE TEXTOS",
+    "Semestre": 99,
+    "Apelido": "PRÁTICA DE LEITURA E PRODUÇÃO DE TEXTOS",
+    "CargaHorariaTeorico": 68,
+    "CargaHorariaPratica": null,
+    "ListaPrequisitos": []
+  },
+  {
+    "Id": 44203,
+    "Codigo": "1703.000.192-2",
+    "Tipo": "OPT",
+    "Descricao": "PRÁTICAS INTEGRADORAS PARA FORMAÇÃO DOCENTE",
+    "Semestre": 99,
+    "Apelido": "PRÁTICAS INTEGRADORAS PARA FORMAÇÃO DOCENTE",
+    "CargaHorariaTeorico": 68,
+    "CargaHorariaPratica": null,
+    "ListaPrequisitos": []
+  },
+  {
+    "Id": 44208,
+    "Codigo": "1703.000.197-8",
+    "Tipo": "OPT",
+    "Descricao": "PROFISSÃO DOCENTE: IDENTIDADE, CARREIRA E DESENVOLVIMENTO PROFISSIONAL",
+    "Semestre": 99,
+    "Apelido": "PROFISSÃO DOCENTE: IDENTIDADE, CARREIRA E DESENVOLVIMENTO PROFISSIONAL",
+    "CargaHorariaTeorico": 68,
+    "CargaHorariaPratica": null,
+    "ListaPrequisitos": []
+  },
+  {
+    "Id": 39760,
+    "Codigo": "1703.000.058-5",
+    "Tipo": "OPT",
+    "Descricao": "RELAÇÕES DE GÊNERO E EDUCAÇÃO",
+    "Semestre": 99,
+    "Apelido": "RELAÇÕES DE GÊNERO E EDUCAÇÃO",
+    "CargaHorariaTeorico": 68,
+    "CargaHorariaPratica": null,
+    "ListaPrequisitos": []
+  },
+  {
+    "Id": 44199,
+    "Codigo": "1703.000.188-9",
+    "Tipo": "OPT",
+    "Descricao": "SOCIOLOGIA AMBIENTAL",
+    "Semestre": 99,
+    "Apelido": "SOCIOLOGIA AMBIENTAL",
+    "CargaHorariaTeorico": 68,
+    "CargaHorariaPratica": null,
+    "ListaPrequisitos": []
+  },
+  {
+    "Id": 39761,
+    "Codigo": "1703.000.059-3",
+    "Tipo": "OPT",
+    "Descricao": "SOCIOLOGIA DA CULTURA",
+    "Semestre": 99,
+    "Apelido": "SOCIOLOGIA DA CULTURA",
+    "CargaHorariaTeorico": 68,
+    "CargaHorariaPratica": null,
+    "ListaPrequisitos": []
+  },
+  {
+    "Id": 39764,
+    "Codigo": "1703.000.062-3",
+    "Tipo": "OPT",
+    "Descricao": "SOCIOLOGIA DA RELIGIÃO",
+    "Semestre": 99,
+    "Apelido": "SOCIOLOGIA DA RELIGIÃO",
+    "CargaHorariaTeorico": 68,
+    "CargaHorariaPratica": null,
+    "ListaPrequisitos": []
+  },
+  {
+    "Id": 39762,
+    "Codigo": "1703.000.060-7",
+    "Tipo": "OPT",
+    "Descricao": "SOCIOLOGIA DA VIOLÊNCIA INSTITUCIONAL",
+    "Semestre": 99,
+    "Apelido": "SOCIOLOGIA DA VIOLÊNCIA INSTITUCIONAL",
+    "CargaHorariaTeorico": 68,
+    "CargaHorariaPratica": null,
+    "ListaPrequisitos": []
+  },
+  {
+    "Id": 39763,
+    "Codigo": "1703.000.061-5",
+    "Tipo": "OPT",
+    "Descricao": "SOCIOLOGIA LATINO AMERICANA (ARGENTINA CONTEMPORÂNEA)",
+    "Semestre": 99,
+    "Apelido": "SOCIOLOGIA LATINO AMERICANA (ARGENTINA CONTEMPORÂNEA)",
+    "CargaHorariaTeorico": 68,
+    "CargaHorariaPratica": null,
+    "ListaPrequisitos": []
+  }
+]

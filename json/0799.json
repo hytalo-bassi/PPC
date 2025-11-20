@@ -1,0 +1,1499 @@
+[
+  {
+    "Id": 50572,
+    "Codigo": "0709.002.133-8",
+    "Tipo": "OBR",
+    "Descricao": "DESENHO TÉCNICO",
+    "Semestre": 1,
+    "Apelido": "DESENHO TÉCNICO",
+    "CargaHorariaTeorico": 68,
+    "CargaHorariaPratica": null,
+    "ListaPrequisitos": []
+  },
+  {
+    "Id": 27460,
+    "Codigo": "0708.000.938-4",
+    "Tipo": "OBR",
+    "Descricao": "ECONOMIA",
+    "Semestre": 1,
+    "Apelido": "ECONOMIA",
+    "CargaHorariaTeorico": 68,
+    "CargaHorariaPratica": null,
+    "ListaPrequisitos": []
+  },
+  {
+    "Id": 50557,
+    "Codigo": "0709.002.118-7",
+    "Tipo": "OBR",
+    "Descricao": "FUNDAMENTOS DE MECÂNICA",
+    "Semestre": 1,
+    "Apelido": "FUNDAMENTOS DE MECÂNICA",
+    "CargaHorariaTeorico": 68,
+    "CargaHorariaPratica": null,
+    "ListaPrequisitos": []
+  },
+  {
+    "Id": 25535,
+    "Codigo": "0703.000.806-6",
+    "Tipo": "OBR",
+    "Descricao": "INTRODUÇÃO À ENGENHARIA DE PRODUÇÃO",
+    "Semestre": 1,
+    "Apelido": "INTRODUÇÃO À ENGENHARIA DE PRODUÇÃO",
+    "CargaHorariaTeorico": 34,
+    "CargaHorariaPratica": null,
+    "ListaPrequisitos": []
+  },
+  {
+    "Id": 50585,
+    "Codigo": "0709.002.146-3",
+    "Tipo": "OBR",
+    "Descricao": "MATEMÁTICA ELEMENTAR",
+    "Semestre": 1,
+    "Apelido": "MATEMÁTICA ELEMENTAR",
+    "CargaHorariaTeorico": 68,
+    "CargaHorariaPratica": null,
+    "ListaPrequisitos": []
+  },
+  {
+    "Id": 25536,
+    "Codigo": "0703.000.807-4",
+    "Tipo": "OBR",
+    "Descricao": "QUÍMICA GERAL",
+    "Semestre": 1,
+    "Apelido": "QUÍMICA GERAL",
+    "CargaHorariaTeorico": 68,
+    "CargaHorariaPratica": null,
+    "ListaPrequisitos": []
+  },
+  {
+    "Id": 50558,
+    "Codigo": "0709.002.119-6",
+    "Tipo": "OBR",
+    "Descricao": "VETORES E GEOMETRIA ANALÍTICA",
+    "Semestre": 1,
+    "Apelido": "VETORES E GEOMETRIA ANALÍTICA",
+    "CargaHorariaTeorico": 68,
+    "CargaHorariaPratica": null,
+    "ListaPrequisitos": []
+  },
+  {
+    "Id": 50584,
+    "Codigo": "0709.002.145-4",
+    "Tipo": "OBR",
+    "Descricao": "ÁLGEBRA LINEAR",
+    "Semestre": 2,
+    "Apelido": "ÁLGEBRA LINEAR",
+    "CargaHorariaTeorico": 68,
+    "CargaHorariaPratica": null,
+    "ListaPrequisitos": []
+  },
+  {
+    "Id": 50581,
+    "Codigo": "0709.002.142-7",
+    "Tipo": "OBR",
+    "Descricao": "CÁLCULO I",
+    "Semestre": 2,
+    "Apelido": "CÁLCULO I",
+    "CargaHorariaTeorico": 68,
+    "CargaHorariaPratica": null,
+    "ListaPrequisitos": []
+  },
+  {
+    "Id": 25679,
+    "Codigo": "0708.000.759-4",
+    "Tipo": "OBR",
+    "Descricao": "FUNDAMENTOS DA ADMINISTRAÇÃO",
+    "Semestre": 2,
+    "Apelido": "FUNDAMENTOS DA ADMINISTRAÇÃO",
+    "CargaHorariaTeorico": 34,
+    "CargaHorariaPratica": null,
+    "ListaPrequisitos": []
+  },
+  {
+    "Id": 50597,
+    "Codigo": "0709.002.158-0",
+    "Tipo": "OBR",
+    "Descricao": "FUNDAMENTOS DE TERMODINÂMICA",
+    "Semestre": 2,
+    "Apelido": "FUNDAMENTOS DE TERMODINÂMICA",
+    "CargaHorariaTeorico": 34,
+    "CargaHorariaPratica": null,
+    "ListaPrequisitos": []
+  },
+  {
+    "Id": 50596,
+    "Codigo": "0709.002.157-0",
+    "Tipo": "OBR",
+    "Descricao": "INTRODUÇÃO À CIÊNCIA DA COMPUTAÇÃO",
+    "Semestre": 2,
+    "Apelido": "INTRODUÇÃO À CIÊNCIA DA COMPUTAÇÃO",
+    "CargaHorariaTeorico": 68,
+    "CargaHorariaPratica": null,
+    "ListaPrequisitos": []
+  },
+  {
+    "Id": 50560,
+    "Codigo": "0709.002.121-1",
+    "Tipo": "OBR",
+    "Descricao": "LABORATÓRIO DE MECÂNICA, FLUIDOS E TERMODINÂMICA",
+    "Semestre": 2,
+    "Apelido": "LABORATÓRIO DE MECÂNICA, FLUIDOS E TERMODINÂMICA",
+    "CargaHorariaTeorico": 34,
+    "CargaHorariaPratica": null,
+    "ListaPrequisitos": [
+      {
+        "Id": 50557,
+        "Codigo": "0709.002.118-7",
+        "Descricao": "FUNDAMENTOS DE MECÂNICA",
+        "Semestre": "0",
+        "Apelido": "FUNDAMENTOS DE MECÂNICA",
+        "CargaHorariaTeorico": 0,
+        "CargaHorariaPratica": 0,
+        "ListaPrequisitos": []
+      }
+    ]
+  },
+  {
+    "Id": 25541,
+    "Codigo": "0703.000.812-0",
+    "Tipo": "OBR",
+    "Descricao": "MECÂNICA APLICADA",
+    "Semestre": 2,
+    "Apelido": "MECÂNICA APLICADA",
+    "CargaHorariaTeorico": 68,
+    "CargaHorariaPratica": null,
+    "ListaPrequisitos": [
+      {
+        "Id": 50557,
+        "Codigo": "0709.002.118-7",
+        "Descricao": "FUNDAMENTOS DE MECÂNICA",
+        "Semestre": "0",
+        "Apelido": "FUNDAMENTOS DE MECÂNICA",
+        "CargaHorariaTeorico": 0,
+        "CargaHorariaPratica": 0,
+        "ListaPrequisitos": []
+      }
+    ]
+  },
+  {
+    "Id": 50595,
+    "Codigo": "0709.002.156-1",
+    "Tipo": "OBR",
+    "Descricao": "QUÍMICA GERAL EXPERIMENTAL",
+    "Semestre": 2,
+    "Apelido": "QUÍMICA GERAL EXPERIMENTAL",
+    "CargaHorariaTeorico": 34,
+    "CargaHorariaPratica": null,
+    "ListaPrequisitos": [
+      {
+        "Id": 25536,
+        "Codigo": "0703.000.807-4",
+        "Descricao": "QUÍMICA GERAL",
+        "Semestre": "0",
+        "Apelido": "QUÍMICA GERAL",
+        "CargaHorariaTeorico": 0,
+        "CargaHorariaPratica": 0,
+        "ListaPrequisitos": []
+      }
+    ]
+  },
+  {
+    "Id": 50587,
+    "Codigo": "0709.002.148-1",
+    "Tipo": "OBR",
+    "Descricao": "QUÍMICA TECNOLÓGICA",
+    "Semestre": 2,
+    "Apelido": "QUÍMICA TECNOLÓGICA",
+    "CargaHorariaTeorico": 68,
+    "CargaHorariaPratica": null,
+    "ListaPrequisitos": []
+  },
+  {
+    "Id": 50582,
+    "Codigo": "0709.002.143-6",
+    "Tipo": "OBR",
+    "Descricao": "CÁLCULO II",
+    "Semestre": 3,
+    "Apelido": "CÁLCULO II",
+    "CargaHorariaTeorico": 68,
+    "CargaHorariaPratica": null,
+    "ListaPrequisitos": [
+      {
+        "Id": 50581,
+        "Codigo": "0709.002.142-7",
+        "Descricao": "CÁLCULO I",
+        "Semestre": "0",
+        "Apelido": "CÁLCULO I",
+        "CargaHorariaTeorico": 0,
+        "CargaHorariaPratica": 0,
+        "ListaPrequisitos": []
+      },
+      {
+        "Id": 50585,
+        "Codigo": "0709.002.146-3",
+        "Descricao": "MATEMÁTICA ELEMENTAR",
+        "Semestre": "0",
+        "Apelido": "MATEMÁTICA ELEMENTAR",
+        "CargaHorariaTeorico": 0,
+        "CargaHorariaPratica": 0,
+        "ListaPrequisitos": []
+      }
+    ]
+  },
+  {
+    "Id": 50559,
+    "Codigo": "0709.002.120-2",
+    "Tipo": "OBR",
+    "Descricao": "FUNDAMENTOS DE ELETROMAGNETISMO",
+    "Semestre": 3,
+    "Apelido": "FUNDAMENTOS DE ELETROMAGNETISMO",
+    "CargaHorariaTeorico": 68,
+    "CargaHorariaPratica": null,
+    "ListaPrequisitos": []
+  },
+  {
+    "Id": 50580,
+    "Codigo": "0709.002.141-8",
+    "Tipo": "OBR",
+    "Descricao": "FUNDAMENTOS DE OSCILAÇÕES, ONDAS E FLUIDOS",
+    "Semestre": 3,
+    "Apelido": "FUNDAMENTOS DE OSCILAÇÕES, ONDAS E FLUIDOS",
+    "CargaHorariaTeorico": 34,
+    "CargaHorariaPratica": null,
+    "ListaPrequisitos": []
+  },
+  {
+    "Id": 25680,
+    "Codigo": "0703.000.825-2",
+    "Tipo": "OBR",
+    "Descricao": "MECÂNICA DOS SÓLIDOS I",
+    "Semestre": 3,
+    "Apelido": "MECÂNICA DOS SÓLIDOS I",
+    "CargaHorariaTeorico": 68,
+    "CargaHorariaPratica": null,
+    "ListaPrequisitos": [
+      {
+        "Id": 25541,
+        "Codigo": "0703.000.812-0",
+        "Descricao": "MECÂNICA APLICADA",
+        "Semestre": "0",
+        "Apelido": "MECÂNICA APLICADA",
+        "CargaHorariaTeorico": 0,
+        "CargaHorariaPratica": 0,
+        "ListaPrequisitos": []
+      }
+    ]
+  },
+  {
+    "Id": 50586,
+    "Codigo": "0709.002.147-2",
+    "Tipo": "OBR",
+    "Descricao": "MÉTODOS NUMÉRICOS",
+    "Semestre": 3,
+    "Apelido": "MÉTODOS NUMÉRICOS",
+    "CargaHorariaTeorico": 68,
+    "CargaHorariaPratica": null,
+    "ListaPrequisitos": []
+  },
+  {
+    "Id": 50589,
+    "Codigo": "0709.002.150-7",
+    "Tipo": "OBR",
+    "Descricao": "PROBABILIDADE E ESTATÍSTICA I",
+    "Semestre": 3,
+    "Apelido": "PROBABILIDADE E ESTATÍSTICA I",
+    "CargaHorariaTeorico": 68,
+    "CargaHorariaPratica": null,
+    "ListaPrequisitos": []
+  },
+  {
+    "Id": 50583,
+    "Codigo": "0709.002.144-5",
+    "Tipo": "OBR",
+    "Descricao": "CÁLCULO III",
+    "Semestre": 4,
+    "Apelido": "CÁLCULO III",
+    "CargaHorariaTeorico": 68,
+    "CargaHorariaPratica": null,
+    "ListaPrequisitos": [
+      {
+        "Id": 50581,
+        "Codigo": "0709.002.142-7",
+        "Descricao": "CÁLCULO I",
+        "Semestre": "0",
+        "Apelido": "CÁLCULO I",
+        "CargaHorariaTeorico": 0,
+        "CargaHorariaPratica": 0,
+        "ListaPrequisitos": []
+      },
+      {
+        "Id": 50585,
+        "Codigo": "0709.002.146-3",
+        "Descricao": "MATEMÁTICA ELEMENTAR",
+        "Semestre": "0",
+        "Apelido": "MATEMÁTICA ELEMENTAR",
+        "CargaHorariaTeorico": 0,
+        "CargaHorariaPratica": 0,
+        "ListaPrequisitos": []
+      }
+    ]
+  },
+  {
+    "Id": 50598,
+    "Codigo": "0709.002.159-9",
+    "Tipo": "OBR",
+    "Descricao": "CUSTOS INDUSTRIAIS",
+    "Semestre": 4,
+    "Apelido": "CUSTOS INDUSTRIAIS",
+    "CargaHorariaTeorico": 34,
+    "CargaHorariaPratica": null,
+    "ListaPrequisitos": []
+  },
+  {
+    "Id": 50574,
+    "Codigo": "0709.002.135-6",
+    "Tipo": "OBR",
+    "Descricao": "GESTÃO AMBIENTAL",
+    "Semestre": 4,
+    "Apelido": "GESTÃO AMBIENTAL",
+    "CargaHorariaTeorico": 68,
+    "CargaHorariaPratica": null,
+    "ListaPrequisitos": []
+  },
+  {
+    "Id": 50571,
+    "Codigo": "0709.002.132-9",
+    "Tipo": "OBR",
+    "Descricao": "LABORATÓRIO DE ONDAS E ELETROMAGNETISMO",
+    "Semestre": 4,
+    "Apelido": "LABORATÓRIO DE ONDAS E ELETROMAGNETISMO",
+    "CargaHorariaTeorico": 34,
+    "CargaHorariaPratica": null,
+    "ListaPrequisitos": [
+      {
+        "Id": 50559,
+        "Codigo": "0709.002.120-2",
+        "Descricao": "FUNDAMENTOS DE ELETROMAGNETISMO",
+        "Semestre": "0",
+        "Apelido": "FUNDAMENTOS DE ELETROMAGNETISMO",
+        "CargaHorariaTeorico": 0,
+        "CargaHorariaPratica": 0,
+        "ListaPrequisitos": []
+      }
+    ]
+  },
+  {
+    "Id": 25686,
+    "Codigo": "0703.000.830-9",
+    "Tipo": "OBR",
+    "Descricao": "MECÂNICA DOS SÓLIDOS II",
+    "Semestre": 4,
+    "Apelido": "MECÂNICA DOS SÓLIDOS II",
+    "CargaHorariaTeorico": 68,
+    "CargaHorariaPratica": null,
+    "ListaPrequisitos": [
+      {
+        "Id": 25680,
+        "Codigo": "0703.000.825-2",
+        "Descricao": "MECÂNICA DOS SÓLIDOS I",
+        "Semestre": "0",
+        "Apelido": "MECÂNICA DOS SÓLIDOS I",
+        "CargaHorariaTeorico": 0,
+        "CargaHorariaPratica": 0,
+        "ListaPrequisitos": []
+      }
+    ]
+  },
+  {
+    "Id": 34047,
+    "Codigo": "0708.001.045-5",
+    "Tipo": "OBR",
+    "Descricao": "MERCADOLOGIA",
+    "Semestre": 4,
+    "Apelido": "MERCADOLOGIA",
+    "CargaHorariaTeorico": 68,
+    "CargaHorariaPratica": null,
+    "ListaPrequisitos": []
+  },
+  {
+    "Id": 50573,
+    "Codigo": "0709.002.134-7",
+    "Tipo": "OBR",
+    "Descricao": "METODOLOGIA E REDAÇÃO CIENTÍFICA",
+    "Semestre": 4,
+    "Apelido": "METODOLOGIA E REDAÇÃO CIENTÍFICA",
+    "CargaHorariaTeorico": 34,
+    "CargaHorariaPratica": null,
+    "ListaPrequisitos": [
+      {
+        "Id": 25535,
+        "Codigo": "0703.000.806-6",
+        "Descricao": "INTRODUÇÃO À ENGENHARIA DE PRODUÇÃO",
+        "Semestre": "0",
+        "Apelido": "INTRODUÇÃO À ENGENHARIA DE PRODUÇÃO",
+        "CargaHorariaTeorico": 0,
+        "CargaHorariaPratica": 0,
+        "ListaPrequisitos": []
+      }
+    ]
+  },
+  {
+    "Id": 25687,
+    "Codigo": "0703.000.831-7",
+    "Tipo": "OBR",
+    "Descricao": "PROBABILIDADE E ESTATÍSTICA II",
+    "Semestre": 4,
+    "Apelido": "PROBABILIDADE E ESTATÍSTICA II",
+    "CargaHorariaTeorico": 68,
+    "CargaHorariaPratica": null,
+    "ListaPrequisitos": [
+      {
+        "Id": 50589,
+        "Codigo": "0709.002.150-7",
+        "Descricao": "PROBABILIDADE E ESTATÍSTICA I",
+        "Semestre": "0",
+        "Apelido": "PROBABILIDADE E ESTATÍSTICA I",
+        "CargaHorariaTeorico": 0,
+        "CargaHorariaPratica": 0,
+        "ListaPrequisitos": []
+      }
+    ]
+  },
+  {
+    "Id": 25690,
+    "Codigo": "0703.000.833-3",
+    "Tipo": "OBR",
+    "Descricao": "CIÊNCIA DOS MATERIAIS I",
+    "Semestre": 5,
+    "Apelido": "CIÊNCIA DOS MATERIAIS I",
+    "CargaHorariaTeorico": 68,
+    "CargaHorariaPratica": null,
+    "ListaPrequisitos": [
+      {
+        "Id": 25536,
+        "Codigo": "0703.000.807-4",
+        "Descricao": "QUÍMICA GERAL",
+        "Semestre": "0",
+        "Apelido": "QUÍMICA GERAL",
+        "CargaHorariaTeorico": 0,
+        "CargaHorariaPratica": 0,
+        "ListaPrequisitos": []
+      }
+    ]
+  },
+  {
+    "Id": 50562,
+    "Codigo": "0709.002.123-0",
+    "Tipo": "OBR",
+    "Descricao": "ENGENHARIA ECONÔMICA",
+    "Semestre": 5,
+    "Apelido": "ENGENHARIA ECONÔMICA",
+    "CargaHorariaTeorico": 68,
+    "CargaHorariaPratica": null,
+    "ListaPrequisitos": []
+  },
+  {
+    "Id": 50569,
+    "Codigo": "0709.002.130-0",
+    "Tipo": "OBR",
+    "Descricao": "ERGONOMIA E SEGURANÇA NO TRABALHO",
+    "Semestre": 5,
+    "Apelido": "ERGONOMIA E SEGURANÇA NO TRABALHO",
+    "CargaHorariaTeorico": 68,
+    "CargaHorariaPratica": null,
+    "ListaPrequisitos": []
+  },
+  {
+    "Id": 50590,
+    "Codigo": "0709.002.151-6",
+    "Tipo": "OBR",
+    "Descricao": "ESTRATÉGIA EMPRESARIAL",
+    "Semestre": 5,
+    "Apelido": "ESTRATÉGIA EMPRESARIAL",
+    "CargaHorariaTeorico": 68,
+    "CargaHorariaPratica": null,
+    "ListaPrequisitos": [
+      {
+        "Id": 25679,
+        "Codigo": "0708.000.759-4",
+        "Descricao": "FUNDAMENTOS DA ADMINISTRAÇÃO",
+        "Semestre": "0",
+        "Apelido": "FUNDAMENTOS DA ADMINISTRAÇÃO",
+        "CargaHorariaTeorico": 0,
+        "CargaHorariaPratica": 0,
+        "ListaPrequisitos": []
+      }
+    ]
+  },
+  {
+    "Id": 25693,
+    "Codigo": "0703.000.835-0",
+    "Tipo": "OBR",
+    "Descricao": "FENÔMENOS DE TRANSPORTE I",
+    "Semestre": 5,
+    "Apelido": "FENÔMENOS DE TRANSPORTE I",
+    "CargaHorariaTeorico": 68,
+    "CargaHorariaPratica": null,
+    "ListaPrequisitos": [
+      {
+        "Id": 50557,
+        "Codigo": "0709.002.118-7",
+        "Descricao": "FUNDAMENTOS DE MECÂNICA",
+        "Semestre": "0",
+        "Apelido": "FUNDAMENTOS DE MECÂNICA",
+        "CargaHorariaTeorico": 0,
+        "CargaHorariaPratica": 0,
+        "ListaPrequisitos": []
+      },
+      {
+        "Id": 50582,
+        "Codigo": "0709.002.143-6",
+        "Descricao": "CÁLCULO II",
+        "Semestre": "0",
+        "Apelido": "CÁLCULO II",
+        "CargaHorariaTeorico": 0,
+        "CargaHorariaPratica": 0,
+        "ListaPrequisitos": []
+      }
+    ]
+  },
+  {
+    "Id": 50576,
+    "Codigo": "0709.002.137-4",
+    "Tipo": "OBR",
+    "Descricao": "PESQUISA OPERACIONAL I",
+    "Semestre": 5,
+    "Apelido": "PESQUISA OPERACIONAL I",
+    "CargaHorariaTeorico": 68,
+    "CargaHorariaPratica": null,
+    "ListaPrequisitos": []
+  },
+  {
+    "Id": 25696,
+    "Codigo": "0703.000.836-8",
+    "Tipo": "OBR",
+    "Descricao": "CIÊNCIA DOS MATERIAIS II",
+    "Semestre": 6,
+    "Apelido": "CIÊNCIA DOS MATERIAIS II",
+    "CargaHorariaTeorico": 68,
+    "CargaHorariaPratica": null,
+    "ListaPrequisitos": [
+      {
+        "Id": 25690,
+        "Codigo": "0703.000.833-3",
+        "Descricao": "CIÊNCIA DOS MATERIAIS I",
+        "Semestre": "0",
+        "Apelido": "CIÊNCIA DOS MATERIAIS I",
+        "CargaHorariaTeorico": 0,
+        "CargaHorariaPratica": 0,
+        "ListaPrequisitos": []
+      }
+    ]
+  },
+  {
+    "Id": 50600,
+    "Codigo": "0709.002.161-4",
+    "Tipo": "OBR",
+    "Descricao": "ELETRICIDADE APLICADA",
+    "Semestre": 6,
+    "Apelido": "ELETRICIDADE APLICADA",
+    "CargaHorariaTeorico": 51,
+    "CargaHorariaPratica": null,
+    "ListaPrequisitos": [
+      {
+        "Id": 50559,
+        "Codigo": "0709.002.120-2",
+        "Descricao": "FUNDAMENTOS DE ELETROMAGNETISMO",
+        "Semestre": "0",
+        "Apelido": "FUNDAMENTOS DE ELETROMAGNETISMO",
+        "CargaHorariaTeorico": 0,
+        "CargaHorariaPratica": 0,
+        "ListaPrequisitos": []
+      }
+    ]
+  },
+  {
+    "Id": 25698,
+    "Codigo": "0703.000.838-4",
+    "Tipo": "OBR",
+    "Descricao": "FENÔMENOS DE TRANSPORTE II",
+    "Semestre": 6,
+    "Apelido": "FENÔMENOS DE TRANSPORTE II",
+    "CargaHorariaTeorico": 68,
+    "CargaHorariaPratica": null,
+    "ListaPrequisitos": [
+      {
+        "Id": 25693,
+        "Codigo": "0703.000.835-0",
+        "Descricao": "FENÔMENOS DE TRANSPORTE I",
+        "Semestre": "0",
+        "Apelido": "FENÔMENOS DE TRANSPORTE I",
+        "CargaHorariaTeorico": 0,
+        "CargaHorariaPratica": 0,
+        "ListaPrequisitos": []
+      }
+    ]
+  },
+  {
+    "Id": 50575,
+    "Codigo": "0709.002.136-5",
+    "Tipo": "OBR",
+    "Descricao": "GESTÃO DE PROJETOS",
+    "Semestre": 6,
+    "Apelido": "GESTÃO DE PROJETOS",
+    "CargaHorariaTeorico": 68,
+    "CargaHorariaPratica": null,
+    "ListaPrequisitos": [
+      {
+        "Id": 50590,
+        "Codigo": "0709.002.151-6",
+        "Descricao": "ESTRATÉGIA EMPRESARIAL",
+        "Semestre": "0",
+        "Apelido": "ESTRATÉGIA EMPRESARIAL",
+        "CargaHorariaTeorico": 0,
+        "CargaHorariaPratica": 0,
+        "ListaPrequisitos": []
+      }
+    ]
+  },
+  {
+    "Id": 50577,
+    "Codigo": "0709.002.138-3",
+    "Tipo": "OBR",
+    "Descricao": "PESQUISA OPERACIONAL II",
+    "Semestre": 6,
+    "Apelido": "PESQUISA OPERACIONAL II",
+    "CargaHorariaTeorico": 68,
+    "CargaHorariaPratica": null,
+    "ListaPrequisitos": [
+      {
+        "Id": 50576,
+        "Codigo": "0709.002.137-4",
+        "Descricao": "PESQUISA OPERACIONAL I",
+        "Semestre": "0",
+        "Apelido": "PESQUISA OPERACIONAL I",
+        "CargaHorariaTeorico": 0,
+        "CargaHorariaPratica": 0,
+        "ListaPrequisitos": []
+      }
+    ]
+  },
+  {
+    "Id": 50588,
+    "Codigo": "0709.002.149-0",
+    "Tipo": "OBR",
+    "Descricao": "PROJETO DE SISTEMAS DE PRODUÇÃO",
+    "Semestre": 6,
+    "Apelido": "PROJETO DE SISTEMAS DE PRODUÇÃO",
+    "CargaHorariaTeorico": 51,
+    "CargaHorariaPratica": null,
+    "ListaPrequisitos": [
+      {
+        "Id": 50590,
+        "Codigo": "0709.002.151-6",
+        "Descricao": "ESTRATÉGIA EMPRESARIAL",
+        "Semestre": "0",
+        "Apelido": "ESTRATÉGIA EMPRESARIAL",
+        "CargaHorariaTeorico": 0,
+        "CargaHorariaPratica": 0,
+        "ListaPrequisitos": []
+      },
+      {
+        "Id": 50596,
+        "Codigo": "0709.002.157-0",
+        "Descricao": "INTRODUÇÃO À CIÊNCIA DA COMPUTAÇÃO",
+        "Semestre": "0",
+        "Apelido": "INTRODUÇÃO À CIÊNCIA DA COMPUTAÇÃO",
+        "CargaHorariaTeorico": 0,
+        "CargaHorariaPratica": 0,
+        "ListaPrequisitos": []
+      }
+    ]
+  },
+  {
+    "Id": 50599,
+    "Codigo": "0709.002.160-5",
+    "Tipo": "OBR",
+    "Descricao": "SISTEMAS DE PRODUÇÃO",
+    "Semestre": 6,
+    "Apelido": "SISTEMAS DE PRODUÇÃO",
+    "CargaHorariaTeorico": 34,
+    "CargaHorariaPratica": null,
+    "ListaPrequisitos": [
+      {
+        "Id": 25535,
+        "Codigo": "0703.000.806-6",
+        "Descricao": "INTRODUÇÃO À ENGENHARIA DE PRODUÇÃO",
+        "Semestre": "0",
+        "Apelido": "INTRODUÇÃO À ENGENHARIA DE PRODUÇÃO",
+        "CargaHorariaTeorico": 0,
+        "CargaHorariaPratica": 0,
+        "ListaPrequisitos": []
+      }
+    ]
+  },
+  {
+    "Id": 34050,
+    "Codigo": "0708.001.047-1",
+    "Tipo": "OBR",
+    "Descricao": "TECNOLOGIA E GESTÃO DOS SISTEMAS DE INFORMAÇÃO",
+    "Semestre": 6,
+    "Apelido": "TECNOLOGIA E GESTÃO DOS SISTEMAS DE INFORMAÇÃO",
+    "CargaHorariaTeorico": 34,
+    "CargaHorariaPratica": null,
+    "ListaPrequisitos": []
+  },
+  {
+    "Id": 25702,
+    "Codigo": "0708.000.766-7",
+    "Tipo": "OBR",
+    "Descricao": "AGRONEGÓCIO",
+    "Semestre": 7,
+    "Apelido": "AGRONEGÓCIO",
+    "CargaHorariaTeorico": 34,
+    "CargaHorariaPratica": null,
+    "ListaPrequisitos": []
+  },
+  {
+    "Id": 50565,
+    "Codigo": "0709.002.126-7",
+    "Tipo": "OBR",
+    "Descricao": "ENGENHARIA DE MÉTODOS",
+    "Semestre": 7,
+    "Apelido": "ENGENHARIA DE MÉTODOS",
+    "CargaHorariaTeorico": 68,
+    "CargaHorariaPratica": null,
+    "ListaPrequisitos": [
+      {
+        "Id": 50569,
+        "Codigo": "0709.002.130-0",
+        "Descricao": "ERGONOMIA E SEGURANÇA NO TRABALHO",
+        "Semestre": "0",
+        "Apelido": "ERGONOMIA E SEGURANÇA NO TRABALHO",
+        "CargaHorariaTeorico": 0,
+        "CargaHorariaPratica": 0,
+        "ListaPrequisitos": []
+      }
+    ]
+  },
+  {
+    "Id": 50594,
+    "Codigo": "0709.002.155-2",
+    "Tipo": "OBR",
+    "Descricao": "GESTÃO DE PESSOAS APLICADA À ENGENHARIA DE PRODUÇÃO",
+    "Semestre": 7,
+    "Apelido": "GESTÃO DE PESSOAS APLICADA À ENGENHARIA DE PRODUÇÃO",
+    "CargaHorariaTeorico": 34,
+    "CargaHorariaPratica": null,
+    "ListaPrequisitos": []
+  },
+  {
+    "Id": 34052,
+    "Codigo": "0703.000.984-4",
+    "Tipo": "OBR",
+    "Descricao": "LOGÍSTICA E GESTÃO DA CADEIA DE SUPRIMENTOS",
+    "Semestre": 7,
+    "Apelido": "LOGÍSTICA E GESTÃO DA CADEIA DE SUPRIMENTOS",
+    "CargaHorariaTeorico": 68,
+    "CargaHorariaPratica": null,
+    "ListaPrequisitos": [
+      {
+        "Id": 50599,
+        "Codigo": "0709.002.160-5",
+        "Descricao": "SISTEMAS DE PRODUÇÃO",
+        "Semestre": "0",
+        "Apelido": "SISTEMAS DE PRODUÇÃO",
+        "CargaHorariaTeorico": 0,
+        "CargaHorariaPratica": 0,
+        "ListaPrequisitos": []
+      }
+    ]
+  },
+  {
+    "Id": 25705,
+    "Codigo": "0703.000.841-4",
+    "Tipo": "OBR",
+    "Descricao": "MÉTODOS PARA CONTROLE E MELHORIA DA QUALIDADE",
+    "Semestre": 7,
+    "Apelido": "MÉTODOS PARA CONTROLE E MELHORIA DA QUALIDADE",
+    "CargaHorariaTeorico": 68,
+    "CargaHorariaPratica": null,
+    "ListaPrequisitos": [
+      {
+        "Id": 25687,
+        "Codigo": "0703.000.831-7",
+        "Descricao": "PROBABILIDADE E ESTATÍSTICA II",
+        "Semestre": "0",
+        "Apelido": "PROBABILIDADE E ESTATÍSTICA II",
+        "CargaHorariaTeorico": 0,
+        "CargaHorariaPratica": 0,
+        "ListaPrequisitos": []
+      }
+    ]
+  },
+  {
+    "Id": 50561,
+    "Codigo": "0709.002.122-0",
+    "Tipo": "OBR",
+    "Descricao": "OPERAÇÕES UNITÁRIAS",
+    "Semestre": 7,
+    "Apelido": "OPERAÇÕES UNITÁRIAS",
+    "CargaHorariaTeorico": 68,
+    "CargaHorariaPratica": null,
+    "ListaPrequisitos": [
+      {
+        "Id": 25698,
+        "Codigo": "0703.000.838-4",
+        "Descricao": "FENÔMENOS DE TRANSPORTE II",
+        "Semestre": "0",
+        "Apelido": "FENÔMENOS DE TRANSPORTE II",
+        "CargaHorariaTeorico": 0,
+        "CargaHorariaPratica": 0,
+        "ListaPrequisitos": []
+      }
+    ]
+  },
+  {
+    "Id": 50578,
+    "Codigo": "0709.002.139-2",
+    "Tipo": "OBR",
+    "Descricao": "PLANEJAMENTO E CONTROLE DA PRODUÇÃO I",
+    "Semestre": 7,
+    "Apelido": "PLANEJAMENTO E CONTROLE DA PRODUÇÃO I",
+    "CargaHorariaTeorico": 68,
+    "CargaHorariaPratica": null,
+    "ListaPrequisitos": [
+      {
+        "Id": 50599,
+        "Codigo": "0709.002.160-5",
+        "Descricao": "SISTEMAS DE PRODUÇÃO",
+        "Semestre": "0",
+        "Apelido": "SISTEMAS DE PRODUÇÃO",
+        "CargaHorariaTeorico": 0,
+        "CargaHorariaPratica": 0,
+        "ListaPrequisitos": []
+      }
+    ]
+  },
+  {
+    "Id": 25707,
+    "Codigo": "0703.000.843-0",
+    "Tipo": "OBR",
+    "Descricao": "PROCESSAMENTO INDUSTRIAL DE MATERIAIS I",
+    "Semestre": 7,
+    "Apelido": "PROCESSAMENTO INDUSTRIAL DE MATERIAIS I",
+    "CargaHorariaTeorico": 68,
+    "CargaHorariaPratica": null,
+    "ListaPrequisitos": [
+      {
+        "Id": 25696,
+        "Codigo": "0703.000.836-8",
+        "Descricao": "CIÊNCIA DOS MATERIAIS II",
+        "Semestre": "0",
+        "Apelido": "CIÊNCIA DOS MATERIAIS II",
+        "CargaHorariaTeorico": 0,
+        "CargaHorariaPratica": 0,
+        "ListaPrequisitos": []
+      }
+    ]
+  },
+  {
+    "Id": 34054,
+    "Codigo": "0703.000.986-0",
+    "Tipo": "OBR",
+    "Descricao": "AUTOMAÇÃO INDUSTRIAL",
+    "Semestre": 8,
+    "Apelido": "AUTOMAÇÃO INDUSTRIAL",
+    "CargaHorariaTeorico": 34,
+    "CargaHorariaPratica": null,
+    "ListaPrequisitos": []
+  },
+  {
+    "Id": 43686,
+    "Codigo": "1991.000.004-3",
+    "Tipo": "OBR",
+    "Descricao": "EMPREENDEDORISMO E INOVAÇÃO",
+    "Semestre": 8,
+    "Apelido": "EMPREENDEDORISMO E INOVAÇÃO",
+    "CargaHorariaTeorico": 68,
+    "CargaHorariaPratica": null,
+    "ListaPrequisitos": [
+      {
+        "Id": 34047,
+        "Codigo": "0708.001.045-5",
+        "Descricao": "MERCADOLOGIA",
+        "Semestre": "0",
+        "Apelido": "MERCADOLOGIA",
+        "CargaHorariaTeorico": 0,
+        "CargaHorariaPratica": 0,
+        "ListaPrequisitos": []
+      }
+    ]
+  },
+  {
+    "Id": 25712,
+    "Codigo": "0703.000.846-5",
+    "Tipo": "OBR",
+    "Descricao": "GESTÃO DA QUALIDADE I",
+    "Semestre": 8,
+    "Apelido": "GESTÃO DA QUALIDADE I",
+    "CargaHorariaTeorico": 34,
+    "CargaHorariaPratica": null,
+    "ListaPrequisitos": [
+      {
+        "Id": 50599,
+        "Codigo": "0709.002.160-5",
+        "Descricao": "SISTEMAS DE PRODUÇÃO",
+        "Semestre": "0",
+        "Apelido": "SISTEMAS DE PRODUÇÃO",
+        "CargaHorariaTeorico": 0,
+        "CargaHorariaPratica": 0,
+        "ListaPrequisitos": []
+      }
+    ]
+  },
+  {
+    "Id": 50579,
+    "Codigo": "0709.002.140-9",
+    "Tipo": "OBR",
+    "Descricao": "PLANEJAMENTO E CONTROLE DA PRODUÇÃO II",
+    "Semestre": 8,
+    "Apelido": "PLANEJAMENTO E CONTROLE DA PRODUÇÃO II",
+    "CargaHorariaTeorico": 68,
+    "CargaHorariaPratica": null,
+    "ListaPrequisitos": [
+      {
+        "Id": 50578,
+        "Codigo": "0709.002.139-2",
+        "Descricao": "PLANEJAMENTO E CONTROLE DA PRODUÇÃO I",
+        "Semestre": "0",
+        "Apelido": "PLANEJAMENTO E CONTROLE DA PRODUÇÃO I",
+        "CargaHorariaTeorico": 0,
+        "CargaHorariaPratica": 0,
+        "ListaPrequisitos": []
+      }
+    ]
+  },
+  {
+    "Id": 50592,
+    "Codigo": "0709.002.153-4",
+    "Tipo": "OBR",
+    "Descricao": "PROCESSAMENTO INDUSTRIAL DE MATERIAIS II",
+    "Semestre": 8,
+    "Apelido": "PROCESSAMENTO INDUSTRIAL DE MATERIAIS II",
+    "CargaHorariaTeorico": 34,
+    "CargaHorariaPratica": null,
+    "ListaPrequisitos": [
+      {
+        "Id": 25707,
+        "Codigo": "0703.000.843-0",
+        "Descricao": "PROCESSAMENTO INDUSTRIAL DE MATERIAIS I",
+        "Semestre": "0",
+        "Apelido": "PROCESSAMENTO INDUSTRIAL DE MATERIAIS I",
+        "CargaHorariaTeorico": 0,
+        "CargaHorariaPratica": 0,
+        "ListaPrequisitos": []
+      }
+    ]
+  },
+  {
+    "Id": 26089,
+    "Codigo": "0703.000.851-1",
+    "Tipo": "OBR",
+    "Descricao": "PROCESSAMENTO INDUSTRIAL QUÍMICO",
+    "Semestre": 8,
+    "Apelido": "PROCESSAMENTO INDUSTRIAL QUÍMICO",
+    "CargaHorariaTeorico": 68,
+    "CargaHorariaPratica": null,
+    "ListaPrequisitos": [
+      {
+        "Id": 25698,
+        "Codigo": "0703.000.838-4",
+        "Descricao": "FENÔMENOS DE TRANSPORTE II",
+        "Semestre": "0",
+        "Apelido": "FENÔMENOS DE TRANSPORTE II",
+        "CargaHorariaTeorico": 0,
+        "CargaHorariaPratica": 0,
+        "ListaPrequisitos": []
+      }
+    ]
+  },
+  {
+    "Id": 34056,
+    "Codigo": "0703.000.988-7",
+    "Tipo": "OBR",
+    "Descricao": "PROJETO DE UNIDADES PRODUTIVAS",
+    "Semestre": 8,
+    "Apelido": "PROJETO DE UNIDADES PRODUTIVAS",
+    "CargaHorariaTeorico": 68,
+    "CargaHorariaPratica": null,
+    "ListaPrequisitos": [
+      {
+        "Id": 50572,
+        "Codigo": "0709.002.133-8",
+        "Descricao": "DESENHO TÉCNICO",
+        "Semestre": "0",
+        "Apelido": "DESENHO TÉCNICO",
+        "CargaHorariaTeorico": 0,
+        "CargaHorariaPratica": 0,
+        "ListaPrequisitos": []
+      },
+      {
+        "Id": 50599,
+        "Codigo": "0709.002.160-5",
+        "Descricao": "SISTEMAS DE PRODUÇÃO",
+        "Semestre": "0",
+        "Apelido": "SISTEMAS DE PRODUÇÃO",
+        "CargaHorariaTeorico": 0,
+        "CargaHorariaPratica": 0,
+        "ListaPrequisitos": []
+      }
+    ]
+  },
+  {
+    "Id": 50566,
+    "Codigo": "0709.002.127-6",
+    "Tipo": "OBR",
+    "Descricao": "ESTÁGIO OBRIGATÓRIO I",
+    "Semestre": 9,
+    "Apelido": "ESTÁGIO OBRIGATÓRIO I",
+    "CargaHorariaTeorico": 80,
+    "CargaHorariaPratica": null,
+    "ListaPrequisitos": []
+  },
+  {
+    "Id": 50593,
+    "Codigo": "0709.002.154-3",
+    "Tipo": "OBR",
+    "Descricao": "FUNDAMENTOS PARA ELABORAÇÃO DE TRABALHO CIENTÍFICO",
+    "Semestre": 9,
+    "Apelido": "FUNDAMENTOS PARA ELABORAÇÃO DE TRABALHO CIENTÍFICO",
+    "CargaHorariaTeorico": 34,
+    "CargaHorariaPratica": null,
+    "ListaPrequisitos": [
+      {
+        "Id": 50573,
+        "Codigo": "0709.002.134-7",
+        "Descricao": "METODOLOGIA E REDAÇÃO CIENTÍFICA",
+        "Semestre": "0",
+        "Apelido": "METODOLOGIA E REDAÇÃO CIENTÍFICA",
+        "CargaHorariaTeorico": 0,
+        "CargaHorariaPratica": 0,
+        "ListaPrequisitos": []
+      }
+    ]
+  },
+  {
+    "Id": 50591,
+    "Codigo": "0709.002.152-5",
+    "Tipo": "OBR",
+    "Descricao": "GESTÃO DA QUALIDADE II",
+    "Semestre": 9,
+    "Apelido": "GESTÃO DA QUALIDADE II",
+    "CargaHorariaTeorico": 68,
+    "CargaHorariaPratica": null,
+    "ListaPrequisitos": [
+      {
+        "Id": 25705,
+        "Codigo": "0703.000.841-4",
+        "Descricao": "MÉTODOS PARA CONTROLE E MELHORIA DA QUALIDADE",
+        "Semestre": "0",
+        "Apelido": "MÉTODOS PARA CONTROLE E MELHORIA DA QUALIDADE",
+        "CargaHorariaTeorico": 0,
+        "CargaHorariaPratica": 0,
+        "ListaPrequisitos": []
+      },
+      {
+        "Id": 25712,
+        "Codigo": "0703.000.846-5",
+        "Descricao": "GESTÃO DA QUALIDADE I",
+        "Semestre": "0",
+        "Apelido": "GESTÃO DA QUALIDADE I",
+        "CargaHorariaTeorico": 0,
+        "CargaHorariaPratica": 0,
+        "ListaPrequisitos": []
+      }
+    ]
+  },
+  {
+    "Id": 50563,
+    "Codigo": "0709.002.124-9",
+    "Tipo": "OBR",
+    "Descricao": "PLANEJAMENTO E CONTROLE DA PRODUÇÃO III",
+    "Semestre": 9,
+    "Apelido": "PLANEJAMENTO E CONTROLE DA PRODUÇÃO III",
+    "CargaHorariaTeorico": 68,
+    "CargaHorariaPratica": null,
+    "ListaPrequisitos": [
+      {
+        "Id": 50579,
+        "Codigo": "0709.002.140-9",
+        "Descricao": "PLANEJAMENTO E CONTROLE DA PRODUÇÃO II",
+        "Semestre": "0",
+        "Apelido": "PLANEJAMENTO E CONTROLE DA PRODUÇÃO II",
+        "CargaHorariaTeorico": 0,
+        "CargaHorariaPratica": 0,
+        "ListaPrequisitos": []
+      }
+    ]
+  },
+  {
+    "Id": 50564,
+    "Codigo": "0709.002.125-8",
+    "Tipo": "OBR",
+    "Descricao": "PROJETO E DESENVOLVIMENTO DE PRODUTOS",
+    "Semestre": 9,
+    "Apelido": "PROJETO E DESENVOLVIMENTO DE PRODUTOS",
+    "CargaHorariaTeorico": 68,
+    "CargaHorariaPratica": null,
+    "ListaPrequisitos": [
+      {
+        "Id": 50592,
+        "Codigo": "0709.002.153-4",
+        "Descricao": "PROCESSAMENTO INDUSTRIAL DE MATERIAIS II",
+        "Semestre": "0",
+        "Apelido": "PROCESSAMENTO INDUSTRIAL DE MATERIAIS II",
+        "CargaHorariaTeorico": 0,
+        "CargaHorariaPratica": 0,
+        "ListaPrequisitos": []
+      }
+    ]
+  },
+  {
+    "Id": 50567,
+    "Codigo": "0709.002.128-5",
+    "Tipo": "OBR",
+    "Descricao": "ESTÁGIO OBRIGATÓRIO II",
+    "Semestre": 10,
+    "Apelido": "ESTÁGIO OBRIGATÓRIO II",
+    "CargaHorariaTeorico": 80,
+    "CargaHorariaPratica": null,
+    "ListaPrequisitos": []
+  },
+  {
+    "Id": 34062,
+    "Codigo": "0703.000.994-1",
+    "Tipo": "OPT",
+    "Descricao": "EDUCAÇÃO DAS RELAÇÕES ÉTNICO-RACIAIS NO BRASIL",
+    "Semestre": 99,
+    "Apelido": "EDUCAÇÃO DAS RELAÇÕES ÉTNICO-RACIAIS NO BRASIL",
+    "CargaHorariaTeorico": 34,
+    "CargaHorariaPratica": null,
+    "ListaPrequisitos": []
+  },
+  {
+    "Id": 50568,
+    "Codigo": "0709.002.129-4",
+    "Tipo": "OPT",
+    "Descricao": "EDUCAÇÃO E TERAPIA FINANCEIRA",
+    "Semestre": 99,
+    "Apelido": "EDUCAÇÃO E TERAPIA FINANCEIRA",
+    "CargaHorariaTeorico": 34,
+    "CargaHorariaPratica": null,
+    "ListaPrequisitos": []
+  },
+  {
+    "Id": 25678,
+    "Codigo": "0704.001.438-7",
+    "Tipo": "OPT",
+    "Descricao": "ESTUDO DE LIBRAS",
+    "Semestre": 99,
+    "Apelido": "ESTUDO DE LIBRAS",
+    "CargaHorariaTeorico": 51,
+    "CargaHorariaPratica": null,
+    "ListaPrequisitos": []
+  },
+  {
+    "Id": 50570,
+    "Codigo": "0709.002.131-0",
+    "Tipo": "OPT",
+    "Descricao": "FUNDAMENTOS DE ELETRICIDADE",
+    "Semestre": 99,
+    "Apelido": "FUNDAMENTOS DE ELETRICIDADE",
+    "CargaHorariaTeorico": 34,
+    "CargaHorariaPratica": null,
+    "ListaPrequisitos": []
+  },
+  {
+    "Id": 34063,
+    "Codigo": "0703.000.995-0",
+    "Tipo": "OPT",
+    "Descricao": "GESTÃO DA INOVAÇÃO TECNOLÓGICA",
+    "Semestre": 99,
+    "Apelido": "GESTÃO DA INOVAÇÃO TECNOLÓGICA",
+    "CargaHorariaTeorico": 34,
+    "CargaHorariaPratica": null,
+    "ListaPrequisitos": []
+  },
+  {
+    "Id": 25704,
+    "Codigo": "0708.000.768-3",
+    "Tipo": "OPT",
+    "Descricao": "GESTÃO DE SERVIÇO",
+    "Semestre": 99,
+    "Apelido": "GESTÃO DE SERVIÇO",
+    "CargaHorariaTeorico": 34,
+    "CargaHorariaPratica": null,
+    "ListaPrequisitos": []
+  },
+  {
+    "Id": 25544,
+    "Codigo": "0704.001.437-9",
+    "Tipo": "OPT",
+    "Descricao": "INGLÊS INSTRUMENTAL",
+    "Semestre": 99,
+    "Apelido": "INGLÊS INSTRUMENTAL",
+    "CargaHorariaTeorico": 34,
+    "CargaHorariaPratica": null,
+    "ListaPrequisitos": []
+  },
+  {
+    "Id": 34064,
+    "Codigo": "0703.000.996-8",
+    "Tipo": "OPT",
+    "Descricao": "LABORATÓRIO DE AUTOMAÇÃO",
+    "Semestre": 99,
+    "Apelido": "LABORATÓRIO DE AUTOMAÇÃO",
+    "CargaHorariaTeorico": 34,
+    "CargaHorariaPratica": null,
+    "ListaPrequisitos": [
+      {
+        "Id": 34054,
+        "Codigo": "0703.000.986-0",
+        "Descricao": "AUTOMAÇÃO INDUSTRIAL",
+        "Semestre": "0",
+        "Apelido": "AUTOMAÇÃO INDUSTRIAL",
+        "CargaHorariaTeorico": 0,
+        "CargaHorariaPratica": 0,
+        "ListaPrequisitos": []
+      }
+    ]
+  },
+  {
+    "Id": 34065,
+    "Codigo": "0703.000.997-6",
+    "Tipo": "OPT",
+    "Descricao": "LOGÍSTICA EMPRESARIAL",
+    "Semestre": 99,
+    "Apelido": "LOGÍSTICA EMPRESARIAL",
+    "CargaHorariaTeorico": 34,
+    "CargaHorariaPratica": null,
+    "ListaPrequisitos": [
+      {
+        "Id": 34052,
+        "Codigo": "0703.000.984-4",
+        "Descricao": "LOGÍSTICA E GESTÃO DA CADEIA DE SUPRIMENTOS",
+        "Semestre": "0",
+        "Apelido": "LOGÍSTICA E GESTÃO DA CADEIA DE SUPRIMENTOS",
+        "CargaHorariaTeorico": 0,
+        "CargaHorariaPratica": 0,
+        "ListaPrequisitos": []
+      }
+    ]
+  },
+  {
+    "Id": 34066,
+    "Codigo": "0703.000.998-4",
+    "Tipo": "OPT",
+    "Descricao": "MANUTENÇÃO MECÂNICA",
+    "Semestre": 99,
+    "Apelido": "MANUTENÇÃO MECÂNICA",
+    "CargaHorariaTeorico": 34,
+    "CargaHorariaPratica": null,
+    "ListaPrequisitos": [
+      {
+        "Id": 25541,
+        "Codigo": "0703.000.812-0",
+        "Descricao": "MECÂNICA APLICADA",
+        "Semestre": "0",
+        "Apelido": "MECÂNICA APLICADA",
+        "CargaHorariaTeorico": 0,
+        "CargaHorariaPratica": 0,
+        "ListaPrequisitos": []
+      }
+    ]
+  },
+  {
+    "Id": 34067,
+    "Codigo": "0703.000.999-2",
+    "Tipo": "OPT",
+    "Descricao": "MODELAGEM MATEMÁTICA",
+    "Semestre": 99,
+    "Apelido": "MODELAGEM MATEMÁTICA",
+    "CargaHorariaTeorico": 34,
+    "CargaHorariaPratica": null,
+    "ListaPrequisitos": [
+      {
+        "Id": 50581,
+        "Codigo": "0709.002.142-7",
+        "Descricao": "CÁLCULO I",
+        "Semestre": "0",
+        "Apelido": "CÁLCULO I",
+        "CargaHorariaTeorico": 0,
+        "CargaHorariaPratica": 0,
+        "ListaPrequisitos": []
+      },
+      {
+        "Id": 50582,
+        "Codigo": "0709.002.143-6",
+        "Descricao": "CÁLCULO II",
+        "Semestre": "0",
+        "Apelido": "CÁLCULO II",
+        "CargaHorariaTeorico": 0,
+        "CargaHorariaPratica": 0,
+        "ListaPrequisitos": []
+      }
+    ]
+  },
+  {
+    "Id": 25543,
+    "Codigo": "0704.001.436-0",
+    "Tipo": "OPT",
+    "Descricao": "PORTUGUÊS",
+    "Semestre": 99,
+    "Apelido": "PORTUGUÊS",
+    "CargaHorariaTeorico": 34,
+    "CargaHorariaPratica": null,
+    "ListaPrequisitos": []
+  },
+  {
+    "Id": 34068,
+    "Codigo": "0703.001.000-1",
+    "Tipo": "OPT",
+    "Descricao": "PROCESSO DE FABRICAÇÃO",
+    "Semestre": 99,
+    "Apelido": "PROCESSO DE FABRICAÇÃO",
+    "CargaHorariaTeorico": 34,
+    "CargaHorariaPratica": null,
+    "ListaPrequisitos": [
+      {
+        "Id": 25690,
+        "Codigo": "0703.000.833-3",
+        "Descricao": "CIÊNCIA DOS MATERIAIS I",
+        "Semestre": "0",
+        "Apelido": "CIÊNCIA DOS MATERIAIS I",
+        "CargaHorariaTeorico": 0,
+        "CargaHorariaPratica": 0,
+        "ListaPrequisitos": []
+      },
+      {
+        "Id": 25696,
+        "Codigo": "0703.000.836-8",
+        "Descricao": "CIÊNCIA DOS MATERIAIS II",
+        "Semestre": "0",
+        "Apelido": "CIÊNCIA DOS MATERIAIS II",
+        "CargaHorariaTeorico": 0,
+        "CargaHorariaPratica": 0,
+        "ListaPrequisitos": []
+      }
+    ]
+  },
+  {
+    "Id": 34069,
+    "Codigo": "0703.001.001-0",
+    "Tipo": "OPT",
+    "Descricao": "PRODUÇÃO ENXUTA",
+    "Semestre": 99,
+    "Apelido": "PRODUÇÃO ENXUTA",
+    "CargaHorariaTeorico": 34,
+    "CargaHorariaPratica": null,
+    "ListaPrequisitos": [
+      {
+        "Id": 50599,
+        "Codigo": "0709.002.160-5",
+        "Descricao": "SISTEMAS DE PRODUÇÃO",
+        "Semestre": "0",
+        "Apelido": "SISTEMAS DE PRODUÇÃO",
+        "CargaHorariaTeorico": 0,
+        "CargaHorariaPratica": 0,
+        "ListaPrequisitos": []
+      }
+    ]
+  },
+  {
+    "Id": 34071,
+    "Codigo": "0703.001.003-6",
+    "Tipo": "OPT",
+    "Descricao": "TÓPICOS EM META-HEURÍSTICAS",
+    "Semestre": 99,
+    "Apelido": "TÓPICOS EM META-HEURÍSTICAS",
+    "CargaHorariaTeorico": 34,
+    "CargaHorariaPratica": null,
+    "ListaPrequisitos": [
+      {
+        "Id": 50596,
+        "Codigo": "0709.002.157-0",
+        "Descricao": "INTRODUÇÃO À CIÊNCIA DA COMPUTAÇÃO",
+        "Semestre": "0",
+        "Apelido": "INTRODUÇÃO À CIÊNCIA DA COMPUTAÇÃO",
+        "CargaHorariaTeorico": 0,
+        "CargaHorariaPratica": 0,
+        "ListaPrequisitos": []
+      }
+    ]
+  },
+  {
+    "Id": 34074,
+    "Codigo": "0703.001.006-0",
+    "Tipo": "OPT",
+    "Descricao": "TRATAMENTO DE RESÍDUOS INDUSTRIAIS",
+    "Semestre": 99,
+    "Apelido": "TRATAMENTO DE RESÍDUOS INDUSTRIAIS",
+    "CargaHorariaTeorico": 34,
+    "CargaHorariaPratica": null,
+    "ListaPrequisitos": [
+      {
+        "Id": 25536,
+        "Codigo": "0703.000.807-4",
+        "Descricao": "QUÍMICA GERAL",
+        "Semestre": "0",
+        "Apelido": "QUÍMICA GERAL",
+        "CargaHorariaTeorico": 0,
+        "CargaHorariaPratica": 0,
+        "ListaPrequisitos": []
+      },
+      {
+        "Id": 25698,
+        "Codigo": "0703.000.838-4",
+        "Descricao": "FENÔMENOS DE TRANSPORTE II",
+        "Semestre": "0",
+        "Apelido": "FENÔMENOS DE TRANSPORTE II",
+        "CargaHorariaTeorico": 0,
+        "CargaHorariaPratica": 0,
+        "ListaPrequisitos": []
+      },
+      {
+        "Id": 50587,
+        "Codigo": "0709.002.148-1",
+        "Descricao": "QUÍMICA TECNOLÓGICA",
+        "Semestre": "0",
+        "Apelido": "QUÍMICA TECNOLÓGICA",
+        "CargaHorariaTeorico": 0,
+        "CargaHorariaPratica": 0,
+        "ListaPrequisitos": []
+      }
+    ]
+  },
+  {
+    "Id": 34072,
+    "Codigo": "0703.001.004-4",
+    "Tipo": "OPT",
+    "Descricao": "VIBRAÇÕES",
+    "Semestre": 99,
+    "Apelido": "VIBRAÇÕES",
+    "CargaHorariaTeorico": 34,
+    "CargaHorariaPratica": null,
+    "ListaPrequisitos": [
+      {
+        "Id": 25686,
+        "Codigo": "0703.000.830-9",
+        "Descricao": "MECÂNICA DOS SÓLIDOS II",
+        "Semestre": "0",
+        "Apelido": "MECÂNICA DOS SÓLIDOS II",
+        "CargaHorariaTeorico": 0,
+        "CargaHorariaPratica": 0,
+        "ListaPrequisitos": []
+      }
+    ]
+  }
+]

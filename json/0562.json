@@ -1,0 +1,1250 @@
+[
+  {
+    "Id": 50223,
+    "Codigo": "0510.001.765-4",
+    "Tipo": "OBR",
+    "Descricao": "ANTROPOLOGIA",
+    "Semestre": 1,
+    "Apelido": "ANTROPOLOGIA",
+    "CargaHorariaTeorico": 51,
+    "CargaHorariaPratica": null,
+    "ListaPrequisitos": []
+  },
+  {
+    "Id": 50213,
+    "Codigo": "0510.001.755-6",
+    "Tipo": "OBR",
+    "Descricao": "BASES BIOLÓGICAS DO COMPORTAMENTO",
+    "Semestre": 1,
+    "Apelido": "BASES BIOLÓGICAS DO COMPORTAMENTO",
+    "CargaHorariaTeorico": 68,
+    "CargaHorariaPratica": null,
+    "ListaPrequisitos": []
+  },
+  {
+    "Id": 50210,
+    "Codigo": "0510.001.752-9",
+    "Tipo": "OBR",
+    "Descricao": "FILOSOFIA GERAL",
+    "Semestre": 1,
+    "Apelido": "FILOSOFIA GERAL",
+    "CargaHorariaTeorico": 68,
+    "CargaHorariaPratica": null,
+    "ListaPrequisitos": []
+  },
+  {
+    "Id": 50214,
+    "Codigo": "0510.001.756-5",
+    "Tipo": "OBR",
+    "Descricao": "INTRODUÇÃO À PSICOLOGIA",
+    "Semestre": 1,
+    "Apelido": "INTRODUÇÃO À PSICOLOGIA",
+    "CargaHorariaTeorico": 68,
+    "CargaHorariaPratica": null,
+    "ListaPrequisitos": []
+  },
+  {
+    "Id": 50219,
+    "Codigo": "0510.001.761-8",
+    "Tipo": "OBR",
+    "Descricao": "PSICOLOGIA E ÉTICA PROFISSIONAL",
+    "Semestre": 1,
+    "Apelido": "PSICOLOGIA E ÉTICA PROFISSIONAL",
+    "CargaHorariaTeorico": 68,
+    "CargaHorariaPratica": null,
+    "ListaPrequisitos": []
+  },
+  {
+    "Id": 50211,
+    "Codigo": "0510.001.753-8",
+    "Tipo": "OBR",
+    "Descricao": "SOCIOLOGIA GERAL",
+    "Semestre": 1,
+    "Apelido": "SOCIOLOGIA GERAL",
+    "CargaHorariaTeorico": 68,
+    "CargaHorariaPratica": null,
+    "ListaPrequisitos": []
+  },
+  {
+    "Id": 50212,
+    "Codigo": "0510.001.754-7",
+    "Tipo": "OBR",
+    "Descricao": "ESTATÍSTICA APLICADA À PSICOLOGIA",
+    "Semestre": 2,
+    "Apelido": "ESTATÍSTICA APLICADA À PSICOLOGIA",
+    "CargaHorariaTeorico": 68,
+    "CargaHorariaPratica": null,
+    "ListaPrequisitos": []
+  },
+  {
+    "Id": 50200,
+    "Codigo": "0510.001.742-0",
+    "Tipo": "OBR",
+    "Descricao": "FISIOLOGIA E COMPORTAMENTO",
+    "Semestre": 2,
+    "Apelido": "FISIOLOGIA E COMPORTAMENTO",
+    "CargaHorariaTeorico": 68,
+    "CargaHorariaPratica": null,
+    "ListaPrequisitos": [
+      {
+        "Id": 50213,
+        "Codigo": "0510.001.755-6",
+        "Descricao": "BASES BIOLÓGICAS DO COMPORTAMENTO",
+        "Semestre": "0",
+        "Apelido": "BASES BIOLÓGICAS DO COMPORTAMENTO",
+        "CargaHorariaTeorico": 0,
+        "CargaHorariaPratica": 0,
+        "ListaPrequisitos": []
+      }
+    ]
+  },
+  {
+    "Id": 50218,
+    "Codigo": "0510.001.760-9",
+    "Tipo": "OBR",
+    "Descricao": "MÉTODOS DE PESQUISA EM PSICOLOGIA I",
+    "Semestre": 2,
+    "Apelido": "MÉTODOS DE PESQUISA EM PSICOLOGIA I",
+    "CargaHorariaTeorico": 68,
+    "CargaHorariaPratica": null,
+    "ListaPrequisitos": []
+  },
+  {
+    "Id": 50197,
+    "Codigo": "0510.001.739-6",
+    "Tipo": "OBR",
+    "Descricao": "PSICOLOGIA DO DESENVOLVIMENTO I",
+    "Semestre": 2,
+    "Apelido": "PSICOLOGIA DO DESENVOLVIMENTO I",
+    "CargaHorariaTeorico": 68,
+    "CargaHorariaPratica": null,
+    "ListaPrequisitos": []
+  },
+  {
+    "Id": 50204,
+    "Codigo": "0510.001.746-7",
+    "Tipo": "OBR",
+    "Descricao": "PSICOLOGIA E DIVERSIDADE HUMANA I",
+    "Semestre": 2,
+    "Apelido": "PSICOLOGIA E DIVERSIDADE HUMANA I",
+    "CargaHorariaTeorico": 68,
+    "CargaHorariaPratica": null,
+    "ListaPrequisitos": []
+  },
+  {
+    "Id": 50222,
+    "Codigo": "0510.001.764-5",
+    "Tipo": "OBR",
+    "Descricao": "PSICOLOGIA SOCIAL",
+    "Semestre": 2,
+    "Apelido": "PSICOLOGIA SOCIAL",
+    "CargaHorariaTeorico": 68,
+    "CargaHorariaPratica": null,
+    "ListaPrequisitos": []
+  },
+  {
+    "Id": 50216,
+    "Codigo": "0510.001.758-3",
+    "Tipo": "OBR",
+    "Descricao": "FUNDAMENTOS EPISTEMOLÓGICOS E HISTÓRICOS: ENFOQUE ANALÍTICO COMPORTAMENTAL",
+    "Semestre": 3,
+    "Apelido": "FUNDAMENTOS EPISTEMOLÓGICOS E HISTÓRICOS: ENFOQUE ANALÍTICO COMPORTAMENTAL",
+    "CargaHorariaTeorico": 68,
+    "CargaHorariaPratica": null,
+    "ListaPrequisitos": [
+      {
+        "Id": 50214,
+        "Codigo": "0510.001.756-5",
+        "Descricao": "INTRODUÇÃO À PSICOLOGIA",
+        "Semestre": "0",
+        "Apelido": "INTRODUÇÃO À PSICOLOGIA",
+        "CargaHorariaTeorico": 0,
+        "CargaHorariaPratica": 0,
+        "ListaPrequisitos": []
+      }
+    ]
+  },
+  {
+    "Id": 50178,
+    "Codigo": "0510.001.720-6",
+    "Tipo": "OBR",
+    "Descricao": "FUNDAMENTOS EPISTEMOLÓGICOS E HISTÓRICOS: ENFOQUE HISTÓRICO-CULTURAL",
+    "Semestre": 3,
+    "Apelido": "FUNDAMENTOS EPISTEMOLÓGICOS E HISTÓRICOS: ENFOQUE HISTÓRICO-CULTURAL",
+    "CargaHorariaTeorico": 68,
+    "CargaHorariaPratica": null,
+    "ListaPrequisitos": [
+      {
+        "Id": 50214,
+        "Codigo": "0510.001.756-5",
+        "Descricao": "INTRODUÇÃO À PSICOLOGIA",
+        "Semestre": "0",
+        "Apelido": "INTRODUÇÃO À PSICOLOGIA",
+        "CargaHorariaTeorico": 0,
+        "CargaHorariaPratica": 0,
+        "ListaPrequisitos": []
+      }
+    ]
+  },
+  {
+    "Id": 50177,
+    "Codigo": "0510.001.719-0",
+    "Tipo": "OBR",
+    "Descricao": "FUNDAMENTOS EPISTEMOLÓGICOS E HISTÓRICOS: ENFOQUE PSICANALÍTICO",
+    "Semestre": 3,
+    "Apelido": "FUNDAMENTOS EPISTEMOLÓGICOS E HISTÓRICOS: ENFOQUE PSICANALÍTICO",
+    "CargaHorariaTeorico": 68,
+    "CargaHorariaPratica": null,
+    "ListaPrequisitos": [
+      {
+        "Id": 50214,
+        "Codigo": "0510.001.756-5",
+        "Descricao": "INTRODUÇÃO À PSICOLOGIA",
+        "Semestre": "0",
+        "Apelido": "INTRODUÇÃO À PSICOLOGIA",
+        "CargaHorariaTeorico": 0,
+        "CargaHorariaPratica": 0,
+        "ListaPrequisitos": []
+      }
+    ]
+  },
+  {
+    "Id": 50215,
+    "Codigo": "0510.001.757-4",
+    "Tipo": "OBR",
+    "Descricao": "MÉTODOS DE PESQUISA EM PSICOLOGIA II",
+    "Semestre": 3,
+    "Apelido": "MÉTODOS DE PESQUISA EM PSICOLOGIA II",
+    "CargaHorariaTeorico": 68,
+    "CargaHorariaPratica": null,
+    "ListaPrequisitos": [
+      {
+        "Id": 50218,
+        "Codigo": "0510.001.760-9",
+        "Descricao": "MÉTODOS DE PESQUISA EM PSICOLOGIA I",
+        "Semestre": "0",
+        "Apelido": "MÉTODOS DE PESQUISA EM PSICOLOGIA I",
+        "CargaHorariaTeorico": 0,
+        "CargaHorariaPratica": 0,
+        "ListaPrequisitos": []
+      }
+    ]
+  },
+  {
+    "Id": 50196,
+    "Codigo": "0510.001.738-7",
+    "Tipo": "OBR",
+    "Descricao": "PSICOLOGIA DO DESENVOLVIMENTO II",
+    "Semestre": 3,
+    "Apelido": "PSICOLOGIA DO DESENVOLVIMENTO II",
+    "CargaHorariaTeorico": 68,
+    "CargaHorariaPratica": null,
+    "ListaPrequisitos": [
+      {
+        "Id": 50197,
+        "Codigo": "0510.001.739-6",
+        "Descricao": "PSICOLOGIA DO DESENVOLVIMENTO I",
+        "Semestre": "0",
+        "Apelido": "PSICOLOGIA DO DESENVOLVIMENTO I",
+        "CargaHorariaTeorico": 0,
+        "CargaHorariaPratica": 0,
+        "ListaPrequisitos": []
+      }
+    ]
+  },
+  {
+    "Id": 50207,
+    "Codigo": "0510.001.749-4",
+    "Tipo": "OBR",
+    "Descricao": "PSICOLOGIA E DIVERSIDADE HUMANA II",
+    "Semestre": 3,
+    "Apelido": "PSICOLOGIA E DIVERSIDADE HUMANA II",
+    "CargaHorariaTeorico": 68,
+    "CargaHorariaPratica": null,
+    "ListaPrequisitos": [
+      {
+        "Id": 50204,
+        "Codigo": "0510.001.746-7",
+        "Descricao": "PSICOLOGIA E DIVERSIDADE HUMANA I",
+        "Semestre": "0",
+        "Apelido": "PSICOLOGIA E DIVERSIDADE HUMANA I",
+        "CargaHorariaTeorico": 0,
+        "CargaHorariaPratica": 0,
+        "ListaPrequisitos": []
+      }
+    ]
+  },
+  {
+    "Id": 35947,
+    "Codigo": "0510.000.416-5",
+    "Tipo": "OBR",
+    "Descricao": "PSICOLOGIA E POLÍTICAS PÚBLICAS",
+    "Semestre": 3,
+    "Apelido": "PSICOLOGIA E POLÍTICAS PÚBLICAS",
+    "CargaHorariaTeorico": 68,
+    "CargaHorariaPratica": null,
+    "ListaPrequisitos": []
+  },
+  {
+    "Id": 50221,
+    "Codigo": "0510.001.763-6",
+    "Tipo": "OBR",
+    "Descricao": "ANÁLISE INSTITUCIONAL",
+    "Semestre": 4,
+    "Apelido": "ANÁLISE INSTITUCIONAL",
+    "CargaHorariaTeorico": 51,
+    "CargaHorariaPratica": null,
+    "ListaPrequisitos": []
+  },
+  {
+    "Id": 50217,
+    "Codigo": "0510.001.759-2",
+    "Tipo": "OBR",
+    "Descricao": "FENÔMENOS E PROCESSOS PSICOLÓGICOS: ENFOQUE ANALÍTICO COMPORTAMENTAL I",
+    "Semestre": 4,
+    "Apelido": "FENÔMENOS E PROCESSOS PSICOLÓGICOS: ENFOQUE ANALÍTICO COMPORTAMENTAL I",
+    "CargaHorariaTeorico": 68,
+    "CargaHorariaPratica": null,
+    "ListaPrequisitos": [
+      {
+        "Id": 50216,
+        "Codigo": "0510.001.758-3",
+        "Descricao": "FUNDAMENTOS EPISTEMOLÓGICOS E HISTÓRICOS: ENFOQUE ANALÍTICO COMPORTAMENTAL",
+        "Semestre": "0",
+        "Apelido": "FUNDAMENTOS EPISTEMOLÓGICOS E HISTÓRICOS: ENFOQUE ANALÍTICO COMPORTAMENTAL",
+        "CargaHorariaTeorico": 0,
+        "CargaHorariaPratica": 0,
+        "ListaPrequisitos": []
+      }
+    ]
+  },
+  {
+    "Id": 50181,
+    "Codigo": "0510.001.723-3",
+    "Tipo": "OBR",
+    "Descricao": "FENÔMENOS E PROCESSOS PSICOLÓGICOS: ENFOQUE HISTÓRICO-CULTURAL I",
+    "Semestre": 4,
+    "Apelido": "FENÔMENOS E PROCESSOS PSICOLÓGICOS: ENFOQUE HISTÓRICO-CULTURAL I",
+    "CargaHorariaTeorico": 68,
+    "CargaHorariaPratica": null,
+    "ListaPrequisitos": [
+      {
+        "Id": 50178,
+        "Codigo": "0510.001.720-6",
+        "Descricao": "FUNDAMENTOS EPISTEMOLÓGICOS E HISTÓRICOS: ENFOQUE HISTÓRICO-CULTURAL",
+        "Semestre": "0",
+        "Apelido": "FUNDAMENTOS EPISTEMOLÓGICOS E HISTÓRICOS: ENFOQUE HISTÓRICO-CULTURAL",
+        "CargaHorariaTeorico": 0,
+        "CargaHorariaPratica": 0,
+        "ListaPrequisitos": []
+      }
+    ]
+  },
+  {
+    "Id": 50176,
+    "Codigo": "0510.001.718-0",
+    "Tipo": "OBR",
+    "Descricao": "FENÔMENOS E PROCESSOS PSICOLÓGICOS: ENFOQUE PSICANALÍTICO I",
+    "Semestre": 4,
+    "Apelido": "FENÔMENOS E PROCESSOS PSICOLÓGICOS: ENFOQUE PSICANALÍTICO I",
+    "CargaHorariaTeorico": 68,
+    "CargaHorariaPratica": null,
+    "ListaPrequisitos": [
+      {
+        "Id": 50177,
+        "Codigo": "0510.001.719-0",
+        "Descricao": "FUNDAMENTOS EPISTEMOLÓGICOS E HISTÓRICOS: ENFOQUE PSICANALÍTICO",
+        "Semestre": "0",
+        "Apelido": "FUNDAMENTOS EPISTEMOLÓGICOS E HISTÓRICOS: ENFOQUE PSICANALÍTICO",
+        "CargaHorariaTeorico": 0,
+        "CargaHorariaPratica": 0,
+        "ListaPrequisitos": []
+      }
+    ]
+  },
+  {
+    "Id": 50220,
+    "Codigo": "0510.001.762-7",
+    "Tipo": "OBR",
+    "Descricao": "GENÉTICA HUMANA APLICADA À PSICOLOGIA",
+    "Semestre": 4,
+    "Apelido": "GENÉTICA HUMANA APLICADA À PSICOLOGIA",
+    "CargaHorariaTeorico": 68,
+    "CargaHorariaPratica": null,
+    "ListaPrequisitos": []
+  },
+  {
+    "Id": 50189,
+    "Codigo": "0510.001.731-3",
+    "Tipo": "OBR",
+    "Descricao": "PSICOLOGIA E SAÚDE I",
+    "Semestre": 4,
+    "Apelido": "PSICOLOGIA E SAÚDE I",
+    "CargaHorariaTeorico": 68,
+    "CargaHorariaPratica": null,
+    "ListaPrequisitos": []
+  },
+  {
+    "Id": 35953,
+    "Codigo": "0510.000.422-0",
+    "Tipo": "OBR",
+    "Descricao": "ESTÁGIO OBRIGATÓRIO BÁSICO I",
+    "Semestre": 5,
+    "Apelido": "ESTÁGIO OBRIGATÓRIO BÁSICO I",
+    "CargaHorariaTeorico": 85,
+    "CargaHorariaPratica": null,
+    "ListaPrequisitos": [
+      {
+        "Id": 35947,
+        "Codigo": "0510.000.416-5",
+        "Descricao": "PSICOLOGIA E POLÍTICAS PÚBLICAS",
+        "Semestre": "0",
+        "Apelido": "PSICOLOGIA E POLÍTICAS PÚBLICAS",
+        "CargaHorariaTeorico": 0,
+        "CargaHorariaPratica": 0,
+        "ListaPrequisitos": []
+      }
+    ]
+  },
+  {
+    "Id": 50229,
+    "Codigo": "0510.001.771-6",
+    "Tipo": "OBR",
+    "Descricao": "FENÔMENOS E PROCESSOS PSICOLÓGICOS: ENFOQUE ANALÍTICO COMPORTAMENTAL II",
+    "Semestre": 5,
+    "Apelido": "FENÔMENOS E PROCESSOS PSICOLÓGICOS: ENFOQUE ANALÍTICO COMPORTAMENTAL II",
+    "CargaHorariaTeorico": 68,
+    "CargaHorariaPratica": null,
+    "ListaPrequisitos": [
+      {
+        "Id": 50217,
+        "Codigo": "0510.001.759-2",
+        "Descricao": "FENÔMENOS E PROCESSOS PSICOLÓGICOS: ENFOQUE ANALÍTICO COMPORTAMENTAL I",
+        "Semestre": "0",
+        "Apelido": "FENÔMENOS E PROCESSOS PSICOLÓGICOS: ENFOQUE ANALÍTICO COMPORTAMENTAL I",
+        "CargaHorariaTeorico": 0,
+        "CargaHorariaPratica": 0,
+        "ListaPrequisitos": []
+      }
+    ]
+  },
+  {
+    "Id": 50179,
+    "Codigo": "0510.001.721-5",
+    "Tipo": "OBR",
+    "Descricao": "FENÔMENOS E PROCESSOS PSICOLÓGICOS: ENFOQUE HISTÓRICO-CULTURAL II",
+    "Semestre": 5,
+    "Apelido": "FENÔMENOS E PROCESSOS PSICOLÓGICOS: ENFOQUE HISTÓRICO-CULTURAL II",
+    "CargaHorariaTeorico": 68,
+    "CargaHorariaPratica": null,
+    "ListaPrequisitos": [
+      {
+        "Id": 50181,
+        "Codigo": "0510.001.723-3",
+        "Descricao": "FENÔMENOS E PROCESSOS PSICOLÓGICOS: ENFOQUE HISTÓRICO-CULTURAL I",
+        "Semestre": "0",
+        "Apelido": "FENÔMENOS E PROCESSOS PSICOLÓGICOS: ENFOQUE HISTÓRICO-CULTURAL I",
+        "CargaHorariaTeorico": 0,
+        "CargaHorariaPratica": 0,
+        "ListaPrequisitos": []
+      }
+    ]
+  },
+  {
+    "Id": 50230,
+    "Codigo": "0510.001.772-5",
+    "Tipo": "OBR",
+    "Descricao": "FENÔMENOS E PROCESSOS PSICOLÓGICOS: ENFOQUE PSICANALÍTICO II",
+    "Semestre": 5,
+    "Apelido": "FENÔMENOS E PROCESSOS PSICOLÓGICOS: ENFOQUE PSICANALÍTICO II",
+    "CargaHorariaTeorico": 68,
+    "CargaHorariaPratica": null,
+    "ListaPrequisitos": [
+      {
+        "Id": 50176,
+        "Codigo": "0510.001.718-0",
+        "Descricao": "FENÔMENOS E PROCESSOS PSICOLÓGICOS: ENFOQUE PSICANALÍTICO I",
+        "Semestre": "0",
+        "Apelido": "FENÔMENOS E PROCESSOS PSICOLÓGICOS: ENFOQUE PSICANALÍTICO I",
+        "CargaHorariaTeorico": 0,
+        "CargaHorariaPratica": 0,
+        "ListaPrequisitos": []
+      }
+    ]
+  },
+  {
+    "Id": 50186,
+    "Codigo": "0510.001.728-9",
+    "Tipo": "OBR",
+    "Descricao": "PSICOLOGIA E SAÚDE II",
+    "Semestre": 5,
+    "Apelido": "PSICOLOGIA E SAÚDE II",
+    "CargaHorariaTeorico": 68,
+    "CargaHorariaPratica": null,
+    "ListaPrequisitos": [
+      {
+        "Id": 50189,
+        "Codigo": "0510.001.731-3",
+        "Descricao": "PSICOLOGIA E SAÚDE I",
+        "Semestre": "0",
+        "Apelido": "PSICOLOGIA E SAÚDE I",
+        "CargaHorariaTeorico": 0,
+        "CargaHorariaPratica": 0,
+        "ListaPrequisitos": []
+      }
+    ]
+  },
+  {
+    "Id": 50227,
+    "Codigo": "0510.001.769-0",
+    "Tipo": "OBR",
+    "Descricao": "PSICOLOGIA ESCOLAR E EDUCACIONAL I",
+    "Semestre": 5,
+    "Apelido": "PSICOLOGIA ESCOLAR E EDUCACIONAL I",
+    "CargaHorariaTeorico": 68,
+    "CargaHorariaPratica": null,
+    "ListaPrequisitos": []
+  },
+  {
+    "Id": 50194,
+    "Codigo": "0510.001.736-9",
+    "Tipo": "OBR",
+    "Descricao": "ANÁLISE DO COMPORTAMENTO APLICADA",
+    "Semestre": 6,
+    "Apelido": "ANÁLISE DO COMPORTAMENTO APLICADA",
+    "CargaHorariaTeorico": 34,
+    "CargaHorariaPratica": null,
+    "ListaPrequisitos": [
+      {
+        "Id": 50229,
+        "Codigo": "0510.001.771-6",
+        "Descricao": "FENÔMENOS E PROCESSOS PSICOLÓGICOS: ENFOQUE ANALÍTICO COMPORTAMENTAL II",
+        "Semestre": "0",
+        "Apelido": "FENÔMENOS E PROCESSOS PSICOLÓGICOS: ENFOQUE ANALÍTICO COMPORTAMENTAL II",
+        "CargaHorariaTeorico": 0,
+        "CargaHorariaPratica": 0,
+        "ListaPrequisitos": []
+      }
+    ]
+  },
+  {
+    "Id": 50183,
+    "Codigo": "0510.001.725-1",
+    "Tipo": "OBR",
+    "Descricao": "AVALIAÇÃO PSICOLÓGICA I",
+    "Semestre": 6,
+    "Apelido": "AVALIAÇÃO PSICOLÓGICA I",
+    "CargaHorariaTeorico": 68,
+    "CargaHorariaPratica": null,
+    "ListaPrequisitos": []
+  },
+  {
+    "Id": 35959,
+    "Codigo": "0510.000.428-9",
+    "Tipo": "OBR",
+    "Descricao": "ESTÁGIO OBRIGATÓRIO BÁSICO II",
+    "Semestre": 6,
+    "Apelido": "ESTÁGIO OBRIGATÓRIO BÁSICO II",
+    "CargaHorariaTeorico": 85,
+    "CargaHorariaPratica": null,
+    "ListaPrequisitos": [
+      {
+        "Id": 35953,
+        "Codigo": "0510.000.422-0",
+        "Descricao": "ESTÁGIO OBRIGATÓRIO BÁSICO I",
+        "Semestre": "0",
+        "Apelido": "ESTÁGIO OBRIGATÓRIO BÁSICO I",
+        "CargaHorariaTeorico": 0,
+        "CargaHorariaPratica": 0,
+        "ListaPrequisitos": []
+      }
+    ]
+  },
+  {
+    "Id": 50228,
+    "Codigo": "0510.001.770-7",
+    "Tipo": "OBR",
+    "Descricao": "ORIENTAÇÃO PROFISSIONAL",
+    "Semestre": 6,
+    "Apelido": "ORIENTAÇÃO PROFISSIONAL",
+    "CargaHorariaTeorico": 68,
+    "CargaHorariaPratica": null,
+    "ListaPrequisitos": []
+  },
+  {
+    "Id": 50201,
+    "Codigo": "0510.001.743-0",
+    "Tipo": "OBR",
+    "Descricao": "PSICOLOGIA E NEUROCIÊNCIA",
+    "Semestre": 6,
+    "Apelido": "PSICOLOGIA E NEUROCIÊNCIA",
+    "CargaHorariaTeorico": 51,
+    "CargaHorariaPratica": null,
+    "ListaPrequisitos": []
+  },
+  {
+    "Id": 50226,
+    "Codigo": "0510.001.768-1",
+    "Tipo": "OBR",
+    "Descricao": "PSICOLOGIA ESCOLAR E EDUCACIONAL II",
+    "Semestre": 6,
+    "Apelido": "PSICOLOGIA ESCOLAR E EDUCACIONAL II",
+    "CargaHorariaTeorico": 68,
+    "CargaHorariaPratica": null,
+    "ListaPrequisitos": [
+      {
+        "Id": 50227,
+        "Codigo": "0510.001.769-0",
+        "Descricao": "PSICOLOGIA ESCOLAR E EDUCACIONAL I",
+        "Semestre": "0",
+        "Apelido": "PSICOLOGIA ESCOLAR E EDUCACIONAL I",
+        "CargaHorariaTeorico": 0,
+        "CargaHorariaPratica": 0,
+        "ListaPrequisitos": []
+      }
+    ]
+  },
+  {
+    "Id": 50184,
+    "Codigo": "0510.001.726-0",
+    "Tipo": "OBR",
+    "Descricao": "PSICOPATOLOGIA GERAL I",
+    "Semestre": 6,
+    "Apelido": "PSICOPATOLOGIA GERAL I",
+    "CargaHorariaTeorico": 68,
+    "CargaHorariaPratica": null,
+    "ListaPrequisitos": [
+      {
+        "Id": 50197,
+        "Codigo": "0510.001.739-6",
+        "Descricao": "PSICOLOGIA DO DESENVOLVIMENTO I",
+        "Semestre": "0",
+        "Apelido": "PSICOLOGIA DO DESENVOLVIMENTO I",
+        "CargaHorariaTeorico": 0,
+        "CargaHorariaPratica": 0,
+        "ListaPrequisitos": []
+      }
+    ]
+  },
+  {
+    "Id": 50224,
+    "Codigo": "0510.001.766-3",
+    "Tipo": "OBR",
+    "Descricao": "AVALIAÇÃO PSICOLÓGICA II",
+    "Semestre": 7,
+    "Apelido": "AVALIAÇÃO PSICOLÓGICA II",
+    "CargaHorariaTeorico": 68,
+    "CargaHorariaPratica": null,
+    "ListaPrequisitos": [
+      {
+        "Id": 50183,
+        "Codigo": "0510.001.725-1",
+        "Descricao": "AVALIAÇÃO PSICOLÓGICA I",
+        "Semestre": "0",
+        "Apelido": "AVALIAÇÃO PSICOLÓGICA I",
+        "CargaHorariaTeorico": 0,
+        "CargaHorariaPratica": 0,
+        "ListaPrequisitos": []
+      }
+    ]
+  },
+  {
+    "Id": 35966,
+    "Codigo": "0510.000.435-1",
+    "Tipo": "OBR",
+    "Descricao": "ESTÁGIO OBRIGATÓRIO BÁSICO III",
+    "Semestre": 7,
+    "Apelido": "ESTÁGIO OBRIGATÓRIO BÁSICO III",
+    "CargaHorariaTeorico": 85,
+    "CargaHorariaPratica": null,
+    "ListaPrequisitos": [
+      {
+        "Id": 35959,
+        "Codigo": "0510.000.428-9",
+        "Descricao": "ESTÁGIO OBRIGATÓRIO BÁSICO II",
+        "Semestre": "0",
+        "Apelido": "ESTÁGIO OBRIGATÓRIO BÁSICO II",
+        "CargaHorariaTeorico": 0,
+        "CargaHorariaPratica": 0,
+        "ListaPrequisitos": []
+      }
+    ]
+  },
+  {
+    "Id": 50180,
+    "Codigo": "0510.001.722-4",
+    "Tipo": "OBR",
+    "Descricao": "PSICOLOGIA DO TRABALHO",
+    "Semestre": 7,
+    "Apelido": "PSICOLOGIA DO TRABALHO",
+    "CargaHorariaTeorico": 68,
+    "CargaHorariaPratica": null,
+    "ListaPrequisitos": []
+  },
+  {
+    "Id": 50182,
+    "Codigo": "0510.001.724-2",
+    "Tipo": "OBR",
+    "Descricao": "PSICOPATOLOGIA GERAL II",
+    "Semestre": 7,
+    "Apelido": "PSICOPATOLOGIA GERAL II",
+    "CargaHorariaTeorico": 68,
+    "CargaHorariaPratica": null,
+    "ListaPrequisitos": [
+      {
+        "Id": 50184,
+        "Codigo": "0510.001.726-0",
+        "Descricao": "PSICOPATOLOGIA GERAL I",
+        "Semestre": "0",
+        "Apelido": "PSICOPATOLOGIA GERAL I",
+        "CargaHorariaTeorico": 0,
+        "CargaHorariaPratica": 0,
+        "ListaPrequisitos": []
+      }
+    ]
+  },
+  {
+    "Id": 50187,
+    "Codigo": "0510.001.729-8",
+    "Tipo": "OBR",
+    "Descricao": "TEORIAS E TÉCNICAS PSICOTERÁPICAS: ENFOQUE ANALÍTICO COMPORTAMENTAL",
+    "Semestre": 7,
+    "Apelido": "TEORIAS E TÉCNICAS PSICOTERÁPICAS: ENFOQUE ANALÍTICO COMPORTAMENTAL",
+    "CargaHorariaTeorico": 68,
+    "CargaHorariaPratica": null,
+    "ListaPrequisitos": [
+      {
+        "Id": 50229,
+        "Codigo": "0510.001.771-6",
+        "Descricao": "FENÔMENOS E PROCESSOS PSICOLÓGICOS: ENFOQUE ANALÍTICO COMPORTAMENTAL II",
+        "Semestre": "0",
+        "Apelido": "FENÔMENOS E PROCESSOS PSICOLÓGICOS: ENFOQUE ANALÍTICO COMPORTAMENTAL II",
+        "CargaHorariaTeorico": 0,
+        "CargaHorariaPratica": 0,
+        "ListaPrequisitos": []
+      }
+    ]
+  },
+  {
+    "Id": 50188,
+    "Codigo": "0510.001.730-4",
+    "Tipo": "OBR",
+    "Descricao": "TEORIAS E TÉCNICAS PSICOTERÁPICAS: ENFOQUE PSICANALÍTICO",
+    "Semestre": 7,
+    "Apelido": "TEORIAS E TÉCNICAS PSICOTERÁPICAS: ENFOQUE PSICANALÍTICO",
+    "CargaHorariaTeorico": 68,
+    "CargaHorariaPratica": null,
+    "ListaPrequisitos": [
+      {
+        "Id": 50230,
+        "Codigo": "0510.001.772-5",
+        "Descricao": "FENÔMENOS E PROCESSOS PSICOLÓGICOS: ENFOQUE PSICANALÍTICO II",
+        "Semestre": "0",
+        "Apelido": "FENÔMENOS E PROCESSOS PSICOLÓGICOS: ENFOQUE PSICANALÍTICO II",
+        "CargaHorariaTeorico": 0,
+        "CargaHorariaPratica": 0,
+        "ListaPrequisitos": []
+      }
+    ]
+  },
+  {
+    "Id": 35973,
+    "Codigo": "0510.000.442-4",
+    "Tipo": "OBR",
+    "Descricao": "ESTÁGIO OBRIGATÓRIO BÁSICO IV",
+    "Semestre": 8,
+    "Apelido": "ESTÁGIO OBRIGATÓRIO BÁSICO IV",
+    "CargaHorariaTeorico": 85,
+    "CargaHorariaPratica": null,
+    "ListaPrequisitos": [
+      {
+        "Id": 35966,
+        "Codigo": "0510.000.435-1",
+        "Descricao": "ESTÁGIO OBRIGATÓRIO BÁSICO III",
+        "Semestre": "0",
+        "Apelido": "ESTÁGIO OBRIGATÓRIO BÁSICO III",
+        "CargaHorariaTeorico": 0,
+        "CargaHorariaPratica": 0,
+        "ListaPrequisitos": []
+      }
+    ]
+  },
+  {
+    "Id": 50225,
+    "Codigo": "0510.001.767-2",
+    "Tipo": "OBR",
+    "Descricao": "PSICOLOGIA E PROCESSOS GRUPAIS",
+    "Semestre": 8,
+    "Apelido": "PSICOLOGIA E PROCESSOS GRUPAIS",
+    "CargaHorariaTeorico": 51,
+    "CargaHorariaPratica": null,
+    "ListaPrequisitos": []
+  },
+  {
+    "Id": 50195,
+    "Codigo": "0510.001.737-8",
+    "Tipo": "OBR",
+    "Descricao": "PSICOPATOLOGIA INFANTIL",
+    "Semestre": 8,
+    "Apelido": "PSICOPATOLOGIA INFANTIL",
+    "CargaHorariaTeorico": 51,
+    "CargaHorariaPratica": null,
+    "ListaPrequisitos": [
+      {
+        "Id": 50220,
+        "Codigo": "0510.001.762-7",
+        "Descricao": "GENÉTICA HUMANA APLICADA À PSICOLOGIA",
+        "Semestre": "0",
+        "Apelido": "GENÉTICA HUMANA APLICADA À PSICOLOGIA",
+        "CargaHorariaTeorico": 0,
+        "CargaHorariaPratica": 0,
+        "ListaPrequisitos": []
+      }
+    ]
+  },
+  {
+    "Id": 35972,
+    "Codigo": "0510.000.441-6",
+    "Tipo": "OBR",
+    "Descricao": "SAÚDE MENTAL E TRABALHO",
+    "Semestre": 8,
+    "Apelido": "SAÚDE MENTAL E TRABALHO",
+    "CargaHorariaTeorico": 68,
+    "CargaHorariaPratica": null,
+    "ListaPrequisitos": []
+  },
+  {
+    "Id": 50199,
+    "Codigo": "0510.001.741-1",
+    "Tipo": "OBR",
+    "Descricao": "TÓPICOS AVANÇADOS EM PSICANÁLISE",
+    "Semestre": 8,
+    "Apelido": "TÓPICOS AVANÇADOS EM PSICANÁLISE",
+    "CargaHorariaTeorico": 34,
+    "CargaHorariaPratica": null,
+    "ListaPrequisitos": [
+      {
+        "Id": 50176,
+        "Codigo": "0510.001.718-0",
+        "Descricao": "FENÔMENOS E PROCESSOS PSICOLÓGICOS: ENFOQUE PSICANALÍTICO I",
+        "Semestre": "0",
+        "Apelido": "FENÔMENOS E PROCESSOS PSICOLÓGICOS: ENFOQUE PSICANALÍTICO I",
+        "CargaHorariaTeorico": 0,
+        "CargaHorariaPratica": 0,
+        "ListaPrequisitos": []
+      }
+    ]
+  },
+  {
+    "Id": 50198,
+    "Codigo": "0510.001.740-2",
+    "Tipo": "OBR",
+    "Descricao": "TÓPICOS AVANÇADOS EM PSICOTERAPIA: ENFOQUE ANALÍTICO COMPORTAMENTAL",
+    "Semestre": 8,
+    "Apelido": "TÓPICOS AVANÇADOS EM PSICOTERAPIA: ENFOQUE ANALÍTICO COMPORTAMENTAL",
+    "CargaHorariaTeorico": 51,
+    "CargaHorariaPratica": null,
+    "ListaPrequisitos": [
+      {
+        "Id": 50187,
+        "Codigo": "0510.001.729-8",
+        "Descricao": "TEORIAS E TÉCNICAS PSICOTERÁPICAS: ENFOQUE ANALÍTICO COMPORTAMENTAL",
+        "Semestre": "0",
+        "Apelido": "TEORIAS E TÉCNICAS PSICOTERÁPICAS: ENFOQUE ANALÍTICO COMPORTAMENTAL",
+        "CargaHorariaTeorico": 0,
+        "CargaHorariaPratica": 0,
+        "ListaPrequisitos": []
+      }
+    ]
+  },
+  {
+    "Id": 50185,
+    "Codigo": "0510.001.727-0",
+    "Tipo": "OBR",
+    "Descricao": "TÓPICOS AVANÇADOS EM PSICOTERAPIA: ENFOQUE PSICANALÍTICO",
+    "Semestre": 8,
+    "Apelido": "TÓPICOS AVANÇADOS EM PSICOTERAPIA: ENFOQUE PSICANALÍTICO",
+    "CargaHorariaTeorico": 51,
+    "CargaHorariaPratica": null,
+    "ListaPrequisitos": [
+      {
+        "Id": 50188,
+        "Codigo": "0510.001.730-4",
+        "Descricao": "TEORIAS E TÉCNICAS PSICOTERÁPICAS: ENFOQUE PSICANALÍTICO",
+        "Semestre": "0",
+        "Apelido": "TEORIAS E TÉCNICAS PSICOTERÁPICAS: ENFOQUE PSICANALÍTICO",
+        "CargaHorariaTeorico": 0,
+        "CargaHorariaPratica": 0,
+        "ListaPrequisitos": []
+      }
+    ]
+  },
+  {
+    "Id": 50202,
+    "Codigo": "0510.001.744-9",
+    "Tipo": "NAP",
+    "Descricao": "ESTÁGIO OBRIGATÓRIO EM PSICOLOGIA CLÍNICA E PROMOÇÃO DE SAÚDE I",
+    "Semestre": 9,
+    "Apelido": "ESTÁGIO OBRIGATÓRIO EM PSICOLOGIA CLÍNICA E PROMOÇÃO DE SAÚDE I",
+    "CargaHorariaTeorico": 170,
+    "CargaHorariaPratica": null,
+    "ListaPrequisitos": [
+      {
+        "Id": 35973,
+        "Codigo": "0510.000.442-4",
+        "Descricao": "ESTÁGIO OBRIGATÓRIO BÁSICO IV",
+        "Semestre": "0",
+        "Apelido": "ESTÁGIO OBRIGATÓRIO BÁSICO IV",
+        "CargaHorariaTeorico": 0,
+        "CargaHorariaPratica": 0,
+        "ListaPrequisitos": []
+      },
+      {
+        "Id": 50182,
+        "Codigo": "0510.001.724-2",
+        "Descricao": "PSICOPATOLOGIA GERAL II",
+        "Semestre": "0",
+        "Apelido": "PSICOPATOLOGIA GERAL II",
+        "CargaHorariaTeorico": 0,
+        "CargaHorariaPratica": 0,
+        "ListaPrequisitos": []
+      },
+      {
+        "Id": 50185,
+        "Codigo": "0510.001.727-0",
+        "Descricao": "TÓPICOS AVANÇADOS EM PSICOTERAPIA: ENFOQUE PSICANALÍTICO",
+        "Semestre": "0",
+        "Apelido": "TÓPICOS AVANÇADOS EM PSICOTERAPIA: ENFOQUE PSICANALÍTICO",
+        "CargaHorariaTeorico": 0,
+        "CargaHorariaPratica": 0,
+        "ListaPrequisitos": []
+      },
+      {
+        "Id": 50198,
+        "Codigo": "0510.001.740-2",
+        "Descricao": "TÓPICOS AVANÇADOS EM PSICOTERAPIA: ENFOQUE ANALÍTICO COMPORTAMENTAL",
+        "Semestre": "0",
+        "Apelido": "TÓPICOS AVANÇADOS EM PSICOTERAPIA: ENFOQUE ANALÍTICO COMPORTAMENTAL",
+        "CargaHorariaTeorico": 0,
+        "CargaHorariaPratica": 0,
+        "ListaPrequisitos": []
+      }
+    ]
+  },
+  {
+    "Id": 50205,
+    "Codigo": "0510.001.747-6",
+    "Tipo": "NAP",
+    "Descricao": "ESTÁGIO OBRIGATÓRIO EM PSICOLOGIA ORGANIZACIONAL E DO TRABALHO I",
+    "Semestre": 9,
+    "Apelido": "ESTÁGIO OBRIGATÓRIO EM PSICOLOGIA ORGANIZACIONAL E DO TRABALHO I",
+    "CargaHorariaTeorico": 170,
+    "CargaHorariaPratica": null,
+    "ListaPrequisitos": [
+      {
+        "Id": 35972,
+        "Codigo": "0510.000.441-6",
+        "Descricao": "SAÚDE MENTAL E TRABALHO",
+        "Semestre": "0",
+        "Apelido": "SAÚDE MENTAL E TRABALHO",
+        "CargaHorariaTeorico": 0,
+        "CargaHorariaPratica": 0,
+        "ListaPrequisitos": []
+      },
+      {
+        "Id": 35973,
+        "Codigo": "0510.000.442-4",
+        "Descricao": "ESTÁGIO OBRIGATÓRIO BÁSICO IV",
+        "Semestre": "0",
+        "Apelido": "ESTÁGIO OBRIGATÓRIO BÁSICO IV",
+        "CargaHorariaTeorico": 0,
+        "CargaHorariaPratica": 0,
+        "ListaPrequisitos": []
+      },
+      {
+        "Id": 50180,
+        "Codigo": "0510.001.722-4",
+        "Descricao": "PSICOLOGIA DO TRABALHO",
+        "Semestre": "0",
+        "Apelido": "PSICOLOGIA DO TRABALHO",
+        "CargaHorariaTeorico": 0,
+        "CargaHorariaPratica": 0,
+        "ListaPrequisitos": []
+      },
+      {
+        "Id": 50182,
+        "Codigo": "0510.001.724-2",
+        "Descricao": "PSICOPATOLOGIA GERAL II",
+        "Semestre": "0",
+        "Apelido": "PSICOPATOLOGIA GERAL II",
+        "CargaHorariaTeorico": 0,
+        "CargaHorariaPratica": 0,
+        "ListaPrequisitos": []
+      }
+    ]
+  },
+  {
+    "Id": 50203,
+    "Codigo": "0510.001.745-8",
+    "Tipo": "NAP",
+    "Descricao": "ESTÁGIO OBRIGATÓRIO EM PSICOLOGIA CLÍNICA E PROMOÇÃO DE SAÚDE II",
+    "Semestre": 10,
+    "Apelido": "ESTÁGIO OBRIGATÓRIO EM PSICOLOGIA CLÍNICA E PROMOÇÃO DE SAÚDE II",
+    "CargaHorariaTeorico": 170,
+    "CargaHorariaPratica": null,
+    "ListaPrequisitos": [
+      {
+        "Id": 50202,
+        "Codigo": "0510.001.744-9",
+        "Descricao": "ESTÁGIO OBRIGATÓRIO EM PSICOLOGIA CLÍNICA E PROMOÇÃO DE SAÚDE I",
+        "Semestre": "0",
+        "Apelido": "ESTÁGIO OBRIGATÓRIO EM PSICOLOGIA CLÍNICA E PROMOÇÃO DE SAÚDE I",
+        "CargaHorariaTeorico": 0,
+        "CargaHorariaPratica": 0,
+        "ListaPrequisitos": []
+      }
+    ]
+  },
+  {
+    "Id": 50206,
+    "Codigo": "0510.001.748-5",
+    "Tipo": "NAP",
+    "Descricao": "ESTÁGIO OBRIGATÓRIO EM PSICOLOGIA ORGANIZACIONAL E DO TRABALHO II",
+    "Semestre": 10,
+    "Apelido": "ESTÁGIO OBRIGATÓRIO EM PSICOLOGIA ORGANIZACIONAL E DO TRABALHO II",
+    "CargaHorariaTeorico": 170,
+    "CargaHorariaPratica": null,
+    "ListaPrequisitos": [
+      {
+        "Id": 50205,
+        "Codigo": "0510.001.747-6",
+        "Descricao": "ESTÁGIO OBRIGATÓRIO EM PSICOLOGIA ORGANIZACIONAL E DO TRABALHO I",
+        "Semestre": "0",
+        "Apelido": "ESTÁGIO OBRIGATÓRIO EM PSICOLOGIA ORGANIZACIONAL E DO TRABALHO I",
+        "CargaHorariaTeorico": 0,
+        "CargaHorariaPratica": 0,
+        "ListaPrequisitos": []
+      }
+    ]
+  },
+  {
+    "Id": 43549,
+    "Codigo": "0510.000.991-0",
+    "Tipo": "OPT",
+    "Descricao": "EDUCAÇÃO DAS RELAÇÕES ÉTNICO-RACIAIS",
+    "Semestre": 99,
+    "Apelido": "EDUCAÇÃO DAS RELAÇÕES ÉTNICO-RACIAIS",
+    "CargaHorariaTeorico": 51,
+    "CargaHorariaPratica": null,
+    "ListaPrequisitos": []
+  },
+  {
+    "Id": 50192,
+    "Codigo": "0510.001.734-0",
+    "Tipo": "OPT",
+    "Descricao": "GESTÃO DE PESSOAS",
+    "Semestre": 99,
+    "Apelido": "GESTÃO DE PESSOAS",
+    "CargaHorariaTeorico": 68,
+    "CargaHorariaPratica": null,
+    "ListaPrequisitos": []
+  },
+  {
+    "Id": 35352,
+    "Codigo": "0510.000.063-1",
+    "Tipo": "OPT",
+    "Descricao": "LIBRAS",
+    "Semestre": 99,
+    "Apelido": "LIBRAS",
+    "CargaHorariaTeorico": 51,
+    "CargaHorariaPratica": null,
+    "ListaPrequisitos": []
+  },
+  {
+    "Id": 50193,
+    "Codigo": "0510.001.735-0",
+    "Tipo": "OPT",
+    "Descricao": "PSICOFARMACOLOGIA",
+    "Semestre": 99,
+    "Apelido": "PSICOFARMACOLOGIA",
+    "CargaHorariaTeorico": 68,
+    "CargaHorariaPratica": null,
+    "ListaPrequisitos": []
+  },
+  {
+    "Id": 35923,
+    "Codigo": "0510.000.392-4",
+    "Tipo": "OPT",
+    "Descricao": "PSICOLOGIA AMBIENTAL",
+    "Semestre": 99,
+    "Apelido": "PSICOLOGIA AMBIENTAL",
+    "CargaHorariaTeorico": 51,
+    "CargaHorariaPratica": null,
+    "ListaPrequisitos": []
+  },
+  {
+    "Id": 35921,
+    "Codigo": "0510.000.390-8",
+    "Tipo": "OPT",
+    "Descricao": "PSICOLOGIA DO ESPORTE",
+    "Semestre": 99,
+    "Apelido": "PSICOLOGIA DO ESPORTE",
+    "CargaHorariaTeorico": 51,
+    "CargaHorariaPratica": null,
+    "ListaPrequisitos": []
+  },
+  {
+    "Id": 35922,
+    "Codigo": "0510.000.391-6",
+    "Tipo": "OPT",
+    "Descricao": "PSICOLOGIA DO TRÂNSITO",
+    "Semestre": 99,
+    "Apelido": "PSICOLOGIA DO TRÂNSITO",
+    "CargaHorariaTeorico": 51,
+    "CargaHorariaPratica": null,
+    "ListaPrequisitos": []
+  },
+  {
+    "Id": 50208,
+    "Codigo": "0510.001.750-0",
+    "Tipo": "OPT",
+    "Descricao": "PSICOLOGIA E O SISTEMA ÚNICO DE ASSISTÊNCIA SOCIAL",
+    "Semestre": 99,
+    "Apelido": "PSICOLOGIA E O SISTEMA ÚNICO DE ASSISTÊNCIA SOCIAL",
+    "CargaHorariaTeorico": 51,
+    "CargaHorariaPratica": null,
+    "ListaPrequisitos": []
+  },
+  {
+    "Id": 35919,
+    "Codigo": "0510.000.388-6",
+    "Tipo": "OPT",
+    "Descricao": "PSICOLOGIA HOSPITALAR",
+    "Semestre": 99,
+    "Apelido": "PSICOLOGIA HOSPITALAR",
+    "CargaHorariaTeorico": 51,
+    "CargaHorariaPratica": null,
+    "ListaPrequisitos": []
+  },
+  {
+    "Id": 35917,
+    "Codigo": "0510.000.386-0",
+    "Tipo": "OPT",
+    "Descricao": "PSICOLOGIA JURÍDICA",
+    "Semestre": 99,
+    "Apelido": "PSICOLOGIA JURÍDICA",
+    "CargaHorariaTeorico": 51,
+    "CargaHorariaPratica": null,
+    "ListaPrequisitos": []
+  },
+  {
+    "Id": 50190,
+    "Codigo": "0510.001.732-2",
+    "Tipo": "OPT",
+    "Descricao": "PSICOSSOMÁTICA",
+    "Semestre": 99,
+    "Apelido": "PSICOSSOMÁTICA",
+    "CargaHorariaTeorico": 51,
+    "CargaHorariaPratica": null,
+    "ListaPrequisitos": []
+  },
+  {
+    "Id": 50209,
+    "Codigo": "0510.001.751-0",
+    "Tipo": "OPT",
+    "Descricao": "TEORIAS DE PERSONALIDADE",
+    "Semestre": 99,
+    "Apelido": "TEORIAS DE PERSONALIDADE",
+    "CargaHorariaTeorico": 51,
+    "CargaHorariaPratica": null,
+    "ListaPrequisitos": []
+  },
+  {
+    "Id": 46864,
+    "Codigo": "0510.001.389-8",
+    "Tipo": "OPT",
+    "Descricao": "TÓPICOS AVANÇADOS EM PSICOLOGIA I",
+    "Semestre": 99,
+    "Apelido": "TÓPICOS AVANÇADOS EM PSICOLOGIA I",
+    "CargaHorariaTeorico": 51,
+    "CargaHorariaPratica": null,
+    "ListaPrequisitos": []
+  },
+  {
+    "Id": 46861,
+    "Codigo": "0510.001.386-0",
+    "Tipo": "OPT",
+    "Descricao": "TÓPICOS AVANÇADOS EM PSICOLOGIA II",
+    "Semestre": 99,
+    "Apelido": "TÓPICOS AVANÇADOS EM PSICOLOGIA II",
+    "CargaHorariaTeorico": 51,
+    "CargaHorariaPratica": null,
+    "ListaPrequisitos": []
+  },
+  {
+    "Id": 46870,
+    "Codigo": "0510.001.395-0",
+    "Tipo": "OPT",
+    "Descricao": "TÓPICOS AVANÇADOS EM PSICOLOGIA III",
+    "Semestre": 99,
+    "Apelido": "TÓPICOS AVANÇADOS EM PSICOLOGIA III",
+    "CargaHorariaTeorico": 51,
+    "CargaHorariaPratica": null,
+    "ListaPrequisitos": []
+  },
+  {
+    "Id": 46860,
+    "Codigo": "0510.001.385-1",
+    "Tipo": "OPT",
+    "Descricao": "TÓPICOS AVANÇADOS EM PSICOLOGIA IV",
+    "Semestre": 99,
+    "Apelido": "TÓPICOS AVANÇADOS EM PSICOLOGIA IV",
+    "CargaHorariaTeorico": 51,
+    "CargaHorariaPratica": null,
+    "ListaPrequisitos": []
+  },
+  {
+    "Id": 46862,
+    "Codigo": "0510.001.387-0",
+    "Tipo": "OPT",
+    "Descricao": "TÓPICOS AVANÇADOS EM PSICOLOGIA V",
+    "Semestre": 99,
+    "Apelido": "TÓPICOS AVANÇADOS EM PSICOLOGIA V",
+    "CargaHorariaTeorico": 51,
+    "CargaHorariaPratica": null,
+    "ListaPrequisitos": []
+  },
+  {
+    "Id": 46863,
+    "Codigo": "0510.001.388-9",
+    "Tipo": "OPT",
+    "Descricao": "TÓPICOS AVANÇADOS EM PSICOLOGIA VI",
+    "Semestre": 99,
+    "Apelido": "TÓPICOS AVANÇADOS EM PSICOLOGIA VI",
+    "CargaHorariaTeorico": 51,
+    "CargaHorariaPratica": null,
+    "ListaPrequisitos": []
+  },
+  {
+    "Id": 46865,
+    "Codigo": "0510.001.390-4",
+    "Tipo": "OPT",
+    "Descricao": "TÓPICOS AVANÇADOS EM PSICOLOGIA VII",
+    "Semestre": 99,
+    "Apelido": "TÓPICOS AVANÇADOS EM PSICOLOGIA VII",
+    "CargaHorariaTeorico": 51,
+    "CargaHorariaPratica": null,
+    "ListaPrequisitos": []
+  },
+  {
+    "Id": 50191,
+    "Codigo": "0510.001.733-1",
+    "Tipo": "OPT",
+    "Descricao": "TÓPICOS AVANÇADOS EM PSICOLOGIA VIII",
+    "Semestre": 99,
+    "Apelido": "TÓPICOS AVANÇADOS EM PSICOLOGIA VIII",
+    "CargaHorariaTeorico": 68,
+    "CargaHorariaPratica": null,
+    "ListaPrequisitos": []
+  }
+]

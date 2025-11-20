@@ -1,0 +1,1980 @@
+[
+  {
+    "Id": 48791,
+    "Codigo": "1919.000.459-3",
+    "Tipo": "OBR",
+    "Descricao": "ALGORITMOS E PROGRAMAÇÃO",
+    "Semestre": 1,
+    "Apelido": "ALGORITMOS E PROGRAMAÇÃO",
+    "CargaHorariaTeorico": 51,
+    "CargaHorariaPratica": null,
+    "ListaPrequisitos": []
+  },
+  {
+    "Id": 48016,
+    "Codigo": "2201.000.197-0",
+    "Tipo": "OBR",
+    "Descricao": "CÁLCULO I",
+    "Semestre": 1,
+    "Apelido": "CÁLCULO I",
+    "CargaHorariaTeorico": 68,
+    "CargaHorariaPratica": null,
+    "ListaPrequisitos": []
+  },
+  {
+    "Id": 50150,
+    "Codigo": "2101.001.420-6",
+    "Tipo": "OBR",
+    "Descricao": "CIÊNCIA E TECNOLOGIA DOS MATERIAIS",
+    "Semestre": 1,
+    "Apelido": "CIÊNCIA E TECNOLOGIA DOS MATERIAIS",
+    "CargaHorariaTeorico": 34,
+    "CargaHorariaPratica": null,
+    "ListaPrequisitos": []
+  },
+  {
+    "Id": 48034,
+    "Codigo": "2401.000.260-3",
+    "Tipo": "OBR",
+    "Descricao": "FUNDAMENTOS DE MECÂNICA",
+    "Semestre": 1,
+    "Apelido": "FUNDAMENTOS DE MECÂNICA",
+    "CargaHorariaTeorico": 68,
+    "CargaHorariaPratica": null,
+    "ListaPrequisitos": []
+  },
+  {
+    "Id": 36913,
+    "Codigo": "2101.000.979-8",
+    "Tipo": "OBR",
+    "Descricao": "INTRODUÇÃO A ENGENHARIA ELÉTRICA",
+    "Semestre": 1,
+    "Apelido": "INTRODUÇÃO A ENGENHARIA ELÉTRICA",
+    "CargaHorariaTeorico": 34,
+    "CargaHorariaPratica": null,
+    "ListaPrequisitos": []
+  },
+  {
+    "Id": 50156,
+    "Codigo": "2301.000.406-1",
+    "Tipo": "OBR",
+    "Descricao": "QUÍMICA GERAL",
+    "Semestre": 1,
+    "Apelido": "QUÍMICA GERAL",
+    "CargaHorariaTeorico": 34,
+    "CargaHorariaPratica": null,
+    "ListaPrequisitos": []
+  },
+  {
+    "Id": 49467,
+    "Codigo": "2301.000.405-2",
+    "Tipo": "OBR",
+    "Descricao": "QUÍMICA GERAL EXPERIMENTAL",
+    "Semestre": 1,
+    "Apelido": "QUÍMICA GERAL EXPERIMENTAL",
+    "CargaHorariaTeorico": 34,
+    "CargaHorariaPratica": null,
+    "ListaPrequisitos": []
+  },
+  {
+    "Id": 48008,
+    "Codigo": "2201.000.195-2",
+    "Tipo": "OBR",
+    "Descricao": "VETORES E GEOMETRIA ANALÍTICA",
+    "Semestre": 1,
+    "Apelido": "VETORES E GEOMETRIA ANALÍTICA",
+    "CargaHorariaTeorico": 68,
+    "CargaHorariaPratica": null,
+    "ListaPrequisitos": []
+  },
+  {
+    "Id": 48330,
+    "Codigo": "2201.000.202-9",
+    "Tipo": "OBR",
+    "Descricao": "ÁLGEBRA LINEAR",
+    "Semestre": 2,
+    "Apelido": "ÁLGEBRA LINEAR",
+    "CargaHorariaTeorico": 68,
+    "CargaHorariaPratica": null,
+    "ListaPrequisitos": []
+  },
+  {
+    "Id": 48017,
+    "Codigo": "2201.000.198-0",
+    "Tipo": "OBR",
+    "Descricao": "CÁLCULO II",
+    "Semestre": 2,
+    "Apelido": "CÁLCULO II",
+    "CargaHorariaTeorico": 68,
+    "CargaHorariaPratica": null,
+    "ListaPrequisitos": [
+      {
+        "Id": 48016,
+        "Codigo": "2201.000.197-0",
+        "Descricao": "CÁLCULO I",
+        "Semestre": "0",
+        "Apelido": "CÁLCULO I",
+        "CargaHorariaTeorico": 0,
+        "CargaHorariaPratica": 0,
+        "ListaPrequisitos": []
+      }
+    ]
+  },
+  {
+    "Id": 48809,
+    "Codigo": "2101.001.407-3",
+    "Tipo": "OBR",
+    "Descricao": "DESENHO TÉCNICO",
+    "Semestre": 2,
+    "Apelido": "DESENHO TÉCNICO",
+    "CargaHorariaTeorico": 68,
+    "CargaHorariaPratica": null,
+    "ListaPrequisitos": []
+  },
+  {
+    "Id": 48719,
+    "Codigo": "2401.000.286-4",
+    "Tipo": "OBR",
+    "Descricao": "FUNDAMENTOS DE OSCILAÇÕES, ONDAS E FLUIDOS",
+    "Semestre": 2,
+    "Apelido": "FUNDAMENTOS DE OSCILAÇÕES, ONDAS E FLUIDOS",
+    "CargaHorariaTeorico": 34,
+    "CargaHorariaPratica": null,
+    "ListaPrequisitos": []
+  },
+  {
+    "Id": 50487,
+    "Codigo": "2101.001.448-5",
+    "Tipo": "OBR",
+    "Descricao": "INTRODUÇÃO AOS MATERIAIS ELÉTRICOS",
+    "Semestre": 2,
+    "Apelido": "INTRODUÇÃO AOS MATERIAIS ELÉTRICOS",
+    "CargaHorariaTeorico": 34,
+    "CargaHorariaPratica": null,
+    "ListaPrequisitos": []
+  },
+  {
+    "Id": 48723,
+    "Codigo": "2401.000.287-3",
+    "Tipo": "OBR",
+    "Descricao": "LABORATÓRIO DE MECÂNICA, FLUIDOS E TERMODINÂMICA",
+    "Semestre": 2,
+    "Apelido": "LABORATÓRIO DE MECÂNICA, FLUIDOS E TERMODINÂMICA",
+    "CargaHorariaTeorico": 34,
+    "CargaHorariaPratica": null,
+    "ListaPrequisitos": [
+      {
+        "Id": 48034,
+        "Codigo": "2401.000.260-3",
+        "Descricao": "FUNDAMENTOS DE MECÂNICA",
+        "Semestre": "0",
+        "Apelido": "FUNDAMENTOS DE MECÂNICA",
+        "CargaHorariaTeorico": 0,
+        "CargaHorariaPratica": 0,
+        "ListaPrequisitos": []
+      }
+    ]
+  },
+  {
+    "Id": 46513,
+    "Codigo": "2101.001.402-8",
+    "Tipo": "OBR",
+    "Descricao": "LEGISLAÇÃO, ÉTICA PROFISSIONAL E CIDADANIA",
+    "Semestre": 2,
+    "Apelido": "LEGISLAÇÃO, ÉTICA PROFISSIONAL E CIDADANIA",
+    "CargaHorariaTeorico": 34,
+    "CargaHorariaPratica": null,
+    "ListaPrequisitos": []
+  },
+  {
+    "Id": 48318,
+    "Codigo": "2201.000.201-0",
+    "Tipo": "OBR",
+    "Descricao": "CÁLCULO III",
+    "Semestre": 3,
+    "Apelido": "CÁLCULO III",
+    "CargaHorariaTeorico": 68,
+    "CargaHorariaPratica": null,
+    "ListaPrequisitos": [
+      {
+        "Id": 48017,
+        "Codigo": "2201.000.198-0",
+        "Descricao": "CÁLCULO II",
+        "Semestre": "0",
+        "Apelido": "CÁLCULO II",
+        "CargaHorariaTeorico": 0,
+        "CargaHorariaPratica": 0,
+        "ListaPrequisitos": []
+      }
+    ]
+  },
+  {
+    "Id": 31586,
+    "Codigo": "2101.000.077-4",
+    "Tipo": "OBR",
+    "Descricao": "CIÊNCIAS DO AMBIENTE",
+    "Semestre": 3,
+    "Apelido": "CIÊNCIAS DO AMBIENTE",
+    "CargaHorariaTeorico": 34,
+    "CargaHorariaPratica": null,
+    "ListaPrequisitos": []
+  },
+  {
+    "Id": 50489,
+    "Codigo": "2101.001.450-0",
+    "Tipo": "OBR",
+    "Descricao": "CIRCUITOS DIGITAIS I",
+    "Semestre": 3,
+    "Apelido": "CIRCUITOS DIGITAIS I",
+    "CargaHorariaTeorico": 51,
+    "CargaHorariaPratica": null,
+    "ListaPrequisitos": []
+  },
+  {
+    "Id": 48032,
+    "Codigo": "2401.000.258-8",
+    "Tipo": "OBR",
+    "Descricao": "FUNDAMENTOS DE ELETROMAGNETISMO",
+    "Semestre": 3,
+    "Apelido": "FUNDAMENTOS DE ELETROMAGNETISMO",
+    "CargaHorariaTeorico": 68,
+    "CargaHorariaPratica": null,
+    "ListaPrequisitos": []
+  },
+  {
+    "Id": 50488,
+    "Codigo": "2101.001.449-4",
+    "Tipo": "OBR",
+    "Descricao": "FUNDAMENTOS DE FENÔMENOS DOS TRANSPORTES",
+    "Semestre": 3,
+    "Apelido": "FUNDAMENTOS DE FENÔMENOS DOS TRANSPORTES",
+    "CargaHorariaTeorico": 51,
+    "CargaHorariaPratica": null,
+    "ListaPrequisitos": [
+      {
+        "Id": 48719,
+        "Codigo": "2401.000.286-4",
+        "Descricao": "FUNDAMENTOS DE OSCILAÇÕES, ONDAS E FLUIDOS",
+        "Semestre": "0",
+        "Apelido": "FUNDAMENTOS DE OSCILAÇÕES, ONDAS E FLUIDOS",
+        "CargaHorariaTeorico": 0,
+        "CargaHorariaPratica": 0,
+        "ListaPrequisitos": []
+      }
+    ]
+  },
+  {
+    "Id": 50169,
+    "Codigo": "2401.000.308-4",
+    "Tipo": "OBR",
+    "Descricao": "MECÂNICA GERAL",
+    "Semestre": 3,
+    "Apelido": "MECÂNICA GERAL",
+    "CargaHorariaTeorico": 34,
+    "CargaHorariaPratica": null,
+    "ListaPrequisitos": [
+      {
+        "Id": 48034,
+        "Codigo": "2401.000.260-3",
+        "Descricao": "FUNDAMENTOS DE MECÂNICA",
+        "Semestre": "0",
+        "Apelido": "FUNDAMENTOS DE MECÂNICA",
+        "CargaHorariaTeorico": 0,
+        "CargaHorariaPratica": 0,
+        "ListaPrequisitos": []
+      }
+    ]
+  },
+  {
+    "Id": 36917,
+    "Codigo": "2101.000.982-8",
+    "Tipo": "OBR",
+    "Descricao": "MEDIDAS ELÉTRICAS",
+    "Semestre": 3,
+    "Apelido": "MEDIDAS ELÉTRICAS",
+    "CargaHorariaTeorico": 51,
+    "CargaHorariaPratica": null,
+    "ListaPrequisitos": []
+  },
+  {
+    "Id": 46475,
+    "Codigo": "2101.001.365-7",
+    "Tipo": "OBR",
+    "Descricao": "METODOLOGIA E REDAÇÃO CIENTÍFICA",
+    "Semestre": 3,
+    "Apelido": "METODOLOGIA E REDAÇÃO CIENTÍFICA",
+    "CargaHorariaTeorico": 34,
+    "CargaHorariaPratica": null,
+    "ListaPrequisitos": []
+  },
+  {
+    "Id": 36918,
+    "Codigo": "2101.000.983-6",
+    "Tipo": "OBR",
+    "Descricao": "CIRCUITOS ELÉTRICOS I",
+    "Semestre": 4,
+    "Apelido": "CIRCUITOS ELÉTRICOS I",
+    "CargaHorariaTeorico": 68,
+    "CargaHorariaPratica": null,
+    "ListaPrequisitos": [
+      {
+        "Id": 36917,
+        "Codigo": "2101.000.982-8",
+        "Descricao": "MEDIDAS ELÉTRICAS",
+        "Semestre": "0",
+        "Apelido": "MEDIDAS ELÉTRICAS",
+        "CargaHorariaTeorico": 0,
+        "CargaHorariaPratica": 0,
+        "ListaPrequisitos": []
+      }
+    ]
+  },
+  {
+    "Id": 48018,
+    "Codigo": "2201.000.199-9",
+    "Tipo": "OBR",
+    "Descricao": "EQUAÇÕES DIFERENCIAIS ORDINÁRIAS",
+    "Semestre": 4,
+    "Apelido": "EQUAÇÕES DIFERENCIAIS ORDINÁRIAS",
+    "CargaHorariaTeorico": 34,
+    "CargaHorariaPratica": null,
+    "ListaPrequisitos": [
+      {
+        "Id": 48318,
+        "Codigo": "2201.000.201-0",
+        "Descricao": "CÁLCULO III",
+        "Semestre": "0",
+        "Apelido": "CÁLCULO III",
+        "CargaHorariaTeorico": 0,
+        "CargaHorariaPratica": 0,
+        "ListaPrequisitos": []
+      }
+    ]
+  },
+  {
+    "Id": 48812,
+    "Codigo": "2401.000.290-8",
+    "Tipo": "OBR",
+    "Descricao": "LABORATÓRIO DE ONDAS E ELETRICIDADE E MAGNETISMO",
+    "Semestre": 4,
+    "Apelido": "LABORATÓRIO DE ONDAS E ELETRICIDADE E MAGNETISMO",
+    "CargaHorariaTeorico": 34,
+    "CargaHorariaPratica": null,
+    "ListaPrequisitos": [
+      {
+        "Id": 48032,
+        "Codigo": "2401.000.258-8",
+        "Descricao": "FUNDAMENTOS DE ELETROMAGNETISMO",
+        "Semestre": "0",
+        "Apelido": "FUNDAMENTOS DE ELETROMAGNETISMO",
+        "CargaHorariaTeorico": 0,
+        "CargaHorariaPratica": 0,
+        "ListaPrequisitos": []
+      }
+    ]
+  },
+  {
+    "Id": 34320,
+    "Codigo": "2101.000.823-6",
+    "Tipo": "OBR",
+    "Descricao": "MECÂNICA DOS SÓLIDOS",
+    "Semestre": 4,
+    "Apelido": "MECÂNICA DOS SÓLIDOS",
+    "CargaHorariaTeorico": 51,
+    "CargaHorariaPratica": null,
+    "ListaPrequisitos": [
+      {
+        "Id": 50169,
+        "Codigo": "2401.000.308-4",
+        "Descricao": "MECÂNICA GERAL",
+        "Semestre": "0",
+        "Apelido": "MECÂNICA GERAL",
+        "CargaHorariaTeorico": 0,
+        "CargaHorariaPratica": 0,
+        "ListaPrequisitos": []
+      }
+    ]
+  },
+  {
+    "Id": 48582,
+    "Codigo": "2201.000.204-7",
+    "Tipo": "OBR",
+    "Descricao": "MÉTODOS NUMÉRICOS",
+    "Semestre": 4,
+    "Apelido": "MÉTODOS NUMÉRICOS",
+    "CargaHorariaTeorico": 68,
+    "CargaHorariaPratica": null,
+    "ListaPrequisitos": [
+      {
+        "Id": 48318,
+        "Codigo": "2201.000.201-0",
+        "Descricao": "CÁLCULO III",
+        "Semestre": "0",
+        "Apelido": "CÁLCULO III",
+        "CargaHorariaTeorico": 0,
+        "CargaHorariaPratica": 0,
+        "ListaPrequisitos": []
+      }
+    ]
+  },
+  {
+    "Id": 48009,
+    "Codigo": "2201.000.196-1",
+    "Tipo": "OBR",
+    "Descricao": "PROBABILIDADE E ESTATÍSTICA",
+    "Semestre": 4,
+    "Apelido": "PROBABILIDADE E ESTATÍSTICA",
+    "CargaHorariaTeorico": 68,
+    "CargaHorariaPratica": null,
+    "ListaPrequisitos": []
+  },
+  {
+    "Id": 50486,
+    "Codigo": "2101.001.447-6",
+    "Tipo": "OBR",
+    "Descricao": "PROCESSAMENTO DE SINAIS",
+    "Semestre": 4,
+    "Apelido": "PROCESSAMENTO DE SINAIS",
+    "CargaHorariaTeorico": 68,
+    "CargaHorariaPratica": null,
+    "ListaPrequisitos": [
+      {
+        "Id": 48318,
+        "Codigo": "2201.000.201-0",
+        "Descricao": "CÁLCULO III",
+        "Semestre": "0",
+        "Apelido": "CÁLCULO III",
+        "CargaHorariaTeorico": 0,
+        "CargaHorariaPratica": 0,
+        "ListaPrequisitos": []
+      }
+    ]
+  },
+  {
+    "Id": 36923,
+    "Codigo": "2101.000.988-7",
+    "Tipo": "OBR",
+    "Descricao": "ANÁLISE DE SISTEMAS DINÂMICOS",
+    "Semestre": 5,
+    "Apelido": "ANÁLISE DE SISTEMAS DINÂMICOS",
+    "CargaHorariaTeorico": 68,
+    "CargaHorariaPratica": null,
+    "ListaPrequisitos": [
+      {
+        "Id": 48018,
+        "Codigo": "2201.000.199-9",
+        "Descricao": "EQUAÇÕES DIFERENCIAIS ORDINÁRIAS",
+        "Semestre": "0",
+        "Apelido": "EQUAÇÕES DIFERENCIAIS ORDINÁRIAS",
+        "CargaHorariaTeorico": 0,
+        "CargaHorariaPratica": 0,
+        "ListaPrequisitos": []
+      }
+    ]
+  },
+  {
+    "Id": 36920,
+    "Codigo": "2101.000.985-2",
+    "Tipo": "OBR",
+    "Descricao": "CIRCUITOS DIGITAIS II",
+    "Semestre": 5,
+    "Apelido": "CIRCUITOS DIGITAIS II",
+    "CargaHorariaTeorico": 51,
+    "CargaHorariaPratica": null,
+    "ListaPrequisitos": [
+      {
+        "Id": 50489,
+        "Codigo": "2101.001.450-0",
+        "Descricao": "CIRCUITOS DIGITAIS I",
+        "Semestre": "0",
+        "Apelido": "CIRCUITOS DIGITAIS I",
+        "CargaHorariaTeorico": 0,
+        "CargaHorariaPratica": 0,
+        "ListaPrequisitos": []
+      }
+    ]
+  },
+  {
+    "Id": 50497,
+    "Codigo": "2101.001.458-3",
+    "Tipo": "OBR",
+    "Descricao": "CIRCUITOS ELÉTRICOS II",
+    "Semestre": 5,
+    "Apelido": "CIRCUITOS ELÉTRICOS II",
+    "CargaHorariaTeorico": 68,
+    "CargaHorariaPratica": null,
+    "ListaPrequisitos": [
+      {
+        "Id": 36918,
+        "Codigo": "2101.000.983-6",
+        "Descricao": "CIRCUITOS ELÉTRICOS I",
+        "Semestre": "0",
+        "Apelido": "CIRCUITOS ELÉTRICOS I",
+        "CargaHorariaTeorico": 0,
+        "CargaHorariaPratica": 0,
+        "ListaPrequisitos": []
+      }
+    ]
+  },
+  {
+    "Id": 50483,
+    "Codigo": "2101.001.444-9",
+    "Tipo": "OBR",
+    "Descricao": "CIRCUITOS ELETROMAGNÉTICOS",
+    "Semestre": 5,
+    "Apelido": "CIRCUITOS ELETROMAGNÉTICOS",
+    "CargaHorariaTeorico": 68,
+    "CargaHorariaPratica": null,
+    "ListaPrequisitos": [
+      {
+        "Id": 48032,
+        "Codigo": "2401.000.258-8",
+        "Descricao": "FUNDAMENTOS DE ELETROMAGNETISMO",
+        "Semestre": "0",
+        "Apelido": "FUNDAMENTOS DE ELETROMAGNETISMO",
+        "CargaHorariaTeorico": 0,
+        "CargaHorariaPratica": 0,
+        "ListaPrequisitos": []
+      }
+    ]
+  },
+  {
+    "Id": 50493,
+    "Codigo": "2101.001.454-7",
+    "Tipo": "OBR",
+    "Descricao": "ELETRÔNICA I",
+    "Semestre": 5,
+    "Apelido": "ELETRÔNICA I",
+    "CargaHorariaTeorico": 51,
+    "CargaHorariaPratica": null,
+    "ListaPrequisitos": [
+      {
+        "Id": 36918,
+        "Codigo": "2101.000.983-6",
+        "Descricao": "CIRCUITOS ELÉTRICOS I",
+        "Semestre": "0",
+        "Apelido": "CIRCUITOS ELÉTRICOS I",
+        "CargaHorariaTeorico": 0,
+        "CargaHorariaPratica": 0,
+        "ListaPrequisitos": []
+      }
+    ]
+  },
+  {
+    "Id": 36921,
+    "Codigo": "2101.000.986-0",
+    "Tipo": "OBR",
+    "Descricao": "PRINCÍPIOS DE COMUNICAÇÃO",
+    "Semestre": 5,
+    "Apelido": "PRINCÍPIOS DE COMUNICAÇÃO",
+    "CargaHorariaTeorico": 51,
+    "CargaHorariaPratica": null,
+    "ListaPrequisitos": [
+      {
+        "Id": 50486,
+        "Codigo": "2101.001.447-6",
+        "Descricao": "PROCESSAMENTO DE SINAIS",
+        "Semestre": "0",
+        "Apelido": "PROCESSAMENTO DE SINAIS",
+        "CargaHorariaTeorico": 0,
+        "CargaHorariaPratica": 0,
+        "ListaPrequisitos": []
+      }
+    ]
+  },
+  {
+    "Id": 36924,
+    "Codigo": "2101.000.989-5",
+    "Tipo": "OBR",
+    "Descricao": "TELEFONIA",
+    "Semestre": 5,
+    "Apelido": "TELEFONIA",
+    "CargaHorariaTeorico": 34,
+    "CargaHorariaPratica": null,
+    "ListaPrequisitos": []
+  },
+  {
+    "Id": 36931,
+    "Codigo": "2101.000.996-8",
+    "Tipo": "OBR",
+    "Descricao": "CONVERSÃO ELETROMECÂNICA DE ENERGIA",
+    "Semestre": 6,
+    "Apelido": "CONVERSÃO ELETROMECÂNICA DE ENERGIA",
+    "CargaHorariaTeorico": 51,
+    "CargaHorariaPratica": null,
+    "ListaPrequisitos": [
+      {
+        "Id": 50483,
+        "Codigo": "2101.001.444-9",
+        "Descricao": "CIRCUITOS ELETROMAGNÉTICOS",
+        "Semestre": "0",
+        "Apelido": "CIRCUITOS ELETROMAGNÉTICOS",
+        "CargaHorariaTeorico": 0,
+        "CargaHorariaPratica": 0,
+        "ListaPrequisitos": []
+      }
+    ]
+  },
+  {
+    "Id": 36927,
+    "Codigo": "2101.000.992-5",
+    "Tipo": "OBR",
+    "Descricao": "ELETRÔNICA DE POTÊNCIA I",
+    "Semestre": 6,
+    "Apelido": "ELETRÔNICA DE POTÊNCIA I",
+    "CargaHorariaTeorico": 51,
+    "CargaHorariaPratica": null,
+    "ListaPrequisitos": [
+      {
+        "Id": 50497,
+        "Codigo": "2101.001.458-3",
+        "Descricao": "CIRCUITOS ELÉTRICOS II",
+        "Semestre": "0",
+        "Apelido": "CIRCUITOS ELÉTRICOS II",
+        "CargaHorariaTeorico": 0,
+        "CargaHorariaPratica": 0,
+        "ListaPrequisitos": []
+      }
+    ]
+  },
+  {
+    "Id": 50492,
+    "Codigo": "2101.001.453-8",
+    "Tipo": "OBR",
+    "Descricao": "ELETRÔNICA II",
+    "Semestre": 6,
+    "Apelido": "ELETRÔNICA II",
+    "CargaHorariaTeorico": 51,
+    "CargaHorariaPratica": null,
+    "ListaPrequisitos": [
+      {
+        "Id": 50493,
+        "Codigo": "2101.001.454-7",
+        "Descricao": "ELETRÔNICA I",
+        "Semestre": "0",
+        "Apelido": "ELETRÔNICA I",
+        "CargaHorariaTeorico": 0,
+        "CargaHorariaPratica": 0,
+        "ListaPrequisitos": []
+      }
+    ]
+  },
+  {
+    "Id": 50495,
+    "Codigo": "2101.001.456-5",
+    "Tipo": "OBR",
+    "Descricao": "INSTALAÇÕES ELÉTRICAS PREDIAIS",
+    "Semestre": 6,
+    "Apelido": "INSTALAÇÕES ELÉTRICAS PREDIAIS",
+    "CargaHorariaTeorico": 68,
+    "CargaHorariaPratica": null,
+    "ListaPrequisitos": [
+      {
+        "Id": 50497,
+        "Codigo": "2101.001.458-3",
+        "Descricao": "CIRCUITOS ELÉTRICOS II",
+        "Semestre": "0",
+        "Apelido": "CIRCUITOS ELÉTRICOS II",
+        "CargaHorariaTeorico": 0,
+        "CargaHorariaPratica": 0,
+        "ListaPrequisitos": []
+      }
+    ]
+  },
+  {
+    "Id": 36928,
+    "Codigo": "2101.000.993-3",
+    "Tipo": "OBR",
+    "Descricao": "ONDAS E ANTENAS",
+    "Semestre": 6,
+    "Apelido": "ONDAS E ANTENAS",
+    "CargaHorariaTeorico": 51,
+    "CargaHorariaPratica": null,
+    "ListaPrequisitos": [
+      {
+        "Id": 36921,
+        "Codigo": "2101.000.986-0",
+        "Descricao": "PRINCÍPIOS DE COMUNICAÇÃO",
+        "Semestre": "0",
+        "Apelido": "PRINCÍPIOS DE COMUNICAÇÃO",
+        "CargaHorariaTeorico": 0,
+        "CargaHorariaPratica": 0,
+        "ListaPrequisitos": []
+      }
+    ]
+  },
+  {
+    "Id": 50494,
+    "Codigo": "2101.001.455-6",
+    "Tipo": "OBR",
+    "Descricao": "SISTEMAS DE CONTROLE CLÁSSICO",
+    "Semestre": 6,
+    "Apelido": "SISTEMAS DE CONTROLE CLÁSSICO",
+    "CargaHorariaTeorico": 68,
+    "CargaHorariaPratica": null,
+    "ListaPrequisitos": [
+      {
+        "Id": 36923,
+        "Codigo": "2101.000.988-7",
+        "Descricao": "ANÁLISE DE SISTEMAS DINÂMICOS",
+        "Semestre": "0",
+        "Apelido": "ANÁLISE DE SISTEMAS DINÂMICOS",
+        "CargaHorariaTeorico": 0,
+        "CargaHorariaPratica": 0,
+        "ListaPrequisitos": []
+      }
+    ]
+  },
+  {
+    "Id": 36930,
+    "Codigo": "2101.000.995-0",
+    "Tipo": "OBR",
+    "Descricao": "TRANSFORMADORES",
+    "Semestre": 6,
+    "Apelido": "TRANSFORMADORES",
+    "CargaHorariaTeorico": 51,
+    "CargaHorariaPratica": null,
+    "ListaPrequisitos": [
+      {
+        "Id": 50483,
+        "Codigo": "2101.001.444-9",
+        "Descricao": "CIRCUITOS ELETROMAGNÉTICOS",
+        "Semestre": "0",
+        "Apelido": "CIRCUITOS ELETROMAGNÉTICOS",
+        "CargaHorariaTeorico": 0,
+        "CargaHorariaPratica": 0,
+        "ListaPrequisitos": []
+      }
+    ]
+  },
+  {
+    "Id": 36934,
+    "Codigo": "2101.000.999-2",
+    "Tipo": "OBR",
+    "Descricao": "DISTRIBUIÇÃO DE ENERGIA ELÉTRICA",
+    "Semestre": 7,
+    "Apelido": "DISTRIBUIÇÃO DE ENERGIA ELÉTRICA",
+    "CargaHorariaTeorico": 51,
+    "CargaHorariaPratica": null,
+    "ListaPrequisitos": [
+      {
+        "Id": 50497,
+        "Codigo": "2101.001.458-3",
+        "Descricao": "CIRCUITOS ELÉTRICOS II",
+        "Semestre": "0",
+        "Apelido": "CIRCUITOS ELÉTRICOS II",
+        "CargaHorariaTeorico": 0,
+        "CargaHorariaPratica": 0,
+        "ListaPrequisitos": []
+      }
+    ]
+  },
+  {
+    "Id": 36935,
+    "Codigo": "2101.001.000-1",
+    "Tipo": "OBR",
+    "Descricao": "ELETRÔNICA DE POTÊNCIA II",
+    "Semestre": 7,
+    "Apelido": "ELETRÔNICA DE POTÊNCIA II",
+    "CargaHorariaTeorico": 51,
+    "CargaHorariaPratica": null,
+    "ListaPrequisitos": [
+      {
+        "Id": 36927,
+        "Codigo": "2101.000.992-5",
+        "Descricao": "ELETRÔNICA DE POTÊNCIA I",
+        "Semestre": "0",
+        "Apelido": "ELETRÔNICA DE POTÊNCIA I",
+        "CargaHorariaTeorico": 0,
+        "CargaHorariaPratica": 0,
+        "ListaPrequisitos": []
+      }
+    ]
+  },
+  {
+    "Id": 36936,
+    "Codigo": "2101.001.001-0",
+    "Tipo": "OBR",
+    "Descricao": "INSTALAÇÕES ELÉTRICAS INDUSTRIAIS I",
+    "Semestre": 7,
+    "Apelido": "INSTALAÇÕES ELÉTRICAS INDUSTRIAIS I",
+    "CargaHorariaTeorico": 68,
+    "CargaHorariaPratica": null,
+    "ListaPrequisitos": [
+      {
+        "Id": 50495,
+        "Codigo": "2101.001.456-5",
+        "Descricao": "INSTALAÇÕES ELÉTRICAS PREDIAIS",
+        "Semestre": "0",
+        "Apelido": "INSTALAÇÕES ELÉTRICAS PREDIAIS",
+        "CargaHorariaTeorico": 0,
+        "CargaHorariaPratica": 0,
+        "ListaPrequisitos": []
+      }
+    ]
+  },
+  {
+    "Id": 36937,
+    "Codigo": "2101.001.002-8",
+    "Tipo": "OBR",
+    "Descricao": "MÁQUINAS ASSÍNCRONAS",
+    "Semestre": 7,
+    "Apelido": "MÁQUINAS ASSÍNCRONAS",
+    "CargaHorariaTeorico": 51,
+    "CargaHorariaPratica": null,
+    "ListaPrequisitos": [
+      {
+        "Id": 36930,
+        "Codigo": "2101.000.995-0",
+        "Descricao": "TRANSFORMADORES",
+        "Semestre": "0",
+        "Apelido": "TRANSFORMADORES",
+        "CargaHorariaTeorico": 0,
+        "CargaHorariaPratica": 0,
+        "ListaPrequisitos": []
+      }
+    ]
+  },
+  {
+    "Id": 36933,
+    "Codigo": "2101.000.998-4",
+    "Tipo": "OBR",
+    "Descricao": "MICROCONTROLADORES",
+    "Semestre": 7,
+    "Apelido": "MICROCONTROLADORES",
+    "CargaHorariaTeorico": 51,
+    "CargaHorariaPratica": null,
+    "ListaPrequisitos": [
+      {
+        "Id": 36920,
+        "Codigo": "2101.000.985-2",
+        "Descricao": "CIRCUITOS DIGITAIS II",
+        "Semestre": "0",
+        "Apelido": "CIRCUITOS DIGITAIS II",
+        "CargaHorariaTeorico": 0,
+        "CargaHorariaPratica": 0,
+        "ListaPrequisitos": []
+      }
+    ]
+  },
+  {
+    "Id": 50490,
+    "Codigo": "2101.001.451-0",
+    "Tipo": "OBR",
+    "Descricao": "SISTEMAS DE CONTROLE MODERNO",
+    "Semestre": 7,
+    "Apelido": "SISTEMAS DE CONTROLE MODERNO",
+    "CargaHorariaTeorico": 34,
+    "CargaHorariaPratica": null,
+    "ListaPrequisitos": [
+      {
+        "Id": 50494,
+        "Codigo": "2101.001.455-6",
+        "Descricao": "SISTEMAS DE CONTROLE CLÁSSICO",
+        "Semestre": "0",
+        "Apelido": "SISTEMAS DE CONTROLE CLÁSSICO",
+        "CargaHorariaTeorico": 0,
+        "CargaHorariaPratica": 0,
+        "ListaPrequisitos": []
+      }
+    ]
+  },
+  {
+    "Id": 36938,
+    "Codigo": "2101.001.003-6",
+    "Tipo": "OBR",
+    "Descricao": "TRANSMISSÃO DE ENERGIA ELÉTRICA",
+    "Semestre": 7,
+    "Apelido": "TRANSMISSÃO DE ENERGIA ELÉTRICA",
+    "CargaHorariaTeorico": 68,
+    "CargaHorariaPratica": null,
+    "ListaPrequisitos": [
+      {
+        "Id": 50497,
+        "Codigo": "2101.001.458-3",
+        "Descricao": "CIRCUITOS ELÉTRICOS II",
+        "Semestre": "0",
+        "Apelido": "CIRCUITOS ELÉTRICOS II",
+        "CargaHorariaTeorico": 0,
+        "CargaHorariaPratica": 0,
+        "ListaPrequisitos": []
+      }
+    ]
+  },
+  {
+    "Id": 36939,
+    "Codigo": "2101.001.004-4",
+    "Tipo": "OBR",
+    "Descricao": "ANÁLISE DE FLUXO DE POTÊNCIA",
+    "Semestre": 8,
+    "Apelido": "ANÁLISE DE FLUXO DE POTÊNCIA",
+    "CargaHorariaTeorico": 68,
+    "CargaHorariaPratica": null,
+    "ListaPrequisitos": [
+      {
+        "Id": 36938,
+        "Codigo": "2101.001.003-6",
+        "Descricao": "TRANSMISSÃO DE ENERGIA ELÉTRICA",
+        "Semestre": "0",
+        "Apelido": "TRANSMISSÃO DE ENERGIA ELÉTRICA",
+        "CargaHorariaTeorico": 0,
+        "CargaHorariaPratica": 0,
+        "ListaPrequisitos": []
+      }
+    ]
+  },
+  {
+    "Id": 50147,
+    "Codigo": "2101.001.417-1",
+    "Tipo": "OBR",
+    "Descricao": "ANÁLISE ECONÔMICA DE PROJETOS",
+    "Semestre": 8,
+    "Apelido": "ANÁLISE ECONÔMICA DE PROJETOS",
+    "CargaHorariaTeorico": 34,
+    "CargaHorariaPratica": null,
+    "ListaPrequisitos": [
+      {
+        "Id": 48009,
+        "Codigo": "2201.000.196-1",
+        "Descricao": "PROBABILIDADE E ESTATÍSTICA",
+        "Semestre": "0",
+        "Apelido": "PROBABILIDADE E ESTATÍSTICA",
+        "CargaHorariaTeorico": 0,
+        "CargaHorariaPratica": 0,
+        "ListaPrequisitos": []
+      }
+    ]
+  },
+  {
+    "Id": 36944,
+    "Codigo": "2101.001.009-5",
+    "Tipo": "OBR",
+    "Descricao": "CIRCUITOS ELETRÔNICOS APLICADOS",
+    "Semestre": 8,
+    "Apelido": "CIRCUITOS ELETRÔNICOS APLICADOS",
+    "CargaHorariaTeorico": 34,
+    "CargaHorariaPratica": null,
+    "ListaPrequisitos": [
+      {
+        "Id": 50492,
+        "Codigo": "2101.001.453-8",
+        "Descricao": "ELETRÔNICA II",
+        "Semestre": "0",
+        "Apelido": "ELETRÔNICA II",
+        "CargaHorariaTeorico": 0,
+        "CargaHorariaPratica": 0,
+        "ListaPrequisitos": []
+      }
+    ]
+  },
+  {
+    "Id": 36940,
+    "Codigo": "2101.001.005-2",
+    "Tipo": "OBR",
+    "Descricao": "INSTALAÇÕES ELÉTRICAS INDUSTRIAIS II",
+    "Semestre": 8,
+    "Apelido": "INSTALAÇÕES ELÉTRICAS INDUSTRIAIS II",
+    "CargaHorariaTeorico": 51,
+    "CargaHorariaPratica": null,
+    "ListaPrequisitos": [
+      {
+        "Id": 36936,
+        "Codigo": "2101.001.001-0",
+        "Descricao": "INSTALAÇÕES ELÉTRICAS INDUSTRIAIS I",
+        "Semestre": "0",
+        "Apelido": "INSTALAÇÕES ELÉTRICAS INDUSTRIAIS I",
+        "CargaHorariaTeorico": 0,
+        "CargaHorariaPratica": 0,
+        "ListaPrequisitos": []
+      }
+    ]
+  },
+  {
+    "Id": 36941,
+    "Codigo": "2101.001.006-0",
+    "Tipo": "OBR",
+    "Descricao": "INSTRUMENTAÇÃO INDUSTRIAL",
+    "Semestre": 8,
+    "Apelido": "INSTRUMENTAÇÃO INDUSTRIAL",
+    "CargaHorariaTeorico": 51,
+    "CargaHorariaPratica": null,
+    "ListaPrequisitos": [
+      {
+        "Id": 50492,
+        "Codigo": "2101.001.453-8",
+        "Descricao": "ELETRÔNICA II",
+        "Semestre": "0",
+        "Apelido": "ELETRÔNICA II",
+        "CargaHorariaTeorico": 0,
+        "CargaHorariaPratica": 0,
+        "ListaPrequisitos": []
+      }
+    ]
+  },
+  {
+    "Id": 36942,
+    "Codigo": "2101.001.007-9",
+    "Tipo": "OBR",
+    "Descricao": "MÁQUINAS SÍNCRONAS",
+    "Semestre": 8,
+    "Apelido": "MÁQUINAS SÍNCRONAS",
+    "CargaHorariaTeorico": 51,
+    "CargaHorariaPratica": null,
+    "ListaPrequisitos": [
+      {
+        "Id": 36931,
+        "Codigo": "2101.000.996-8",
+        "Descricao": "CONVERSÃO ELETROMECÂNICA DE ENERGIA",
+        "Semestre": "0",
+        "Apelido": "CONVERSÃO ELETROMECÂNICA DE ENERGIA",
+        "CargaHorariaTeorico": 0,
+        "CargaHorariaPratica": 0,
+        "ListaPrequisitos": []
+      },
+      {
+        "Id": 36937,
+        "Codigo": "2101.001.002-8",
+        "Descricao": "MÁQUINAS ASSÍNCRONAS",
+        "Semestre": "0",
+        "Apelido": "MÁQUINAS ASSÍNCRONAS",
+        "CargaHorariaTeorico": 0,
+        "CargaHorariaPratica": 0,
+        "ListaPrequisitos": []
+      }
+    ]
+  },
+  {
+    "Id": 36948,
+    "Codigo": "2101.001.013-3",
+    "Tipo": "OBR",
+    "Descricao": "ACIONAMENTOS ELETRÔNICOS DE MOTORES",
+    "Semestre": 9,
+    "Apelido": "ACIONAMENTOS ELETRÔNICOS DE MOTORES",
+    "CargaHorariaTeorico": 51,
+    "CargaHorariaPratica": null,
+    "ListaPrequisitos": [
+      {
+        "Id": 36935,
+        "Codigo": "2101.001.000-1",
+        "Descricao": "ELETRÔNICA DE POTÊNCIA II",
+        "Semestre": "0",
+        "Apelido": "ELETRÔNICA DE POTÊNCIA II",
+        "CargaHorariaTeorico": 0,
+        "CargaHorariaPratica": 0,
+        "ListaPrequisitos": []
+      },
+      {
+        "Id": 36937,
+        "Codigo": "2101.001.002-8",
+        "Descricao": "MÁQUINAS ASSÍNCRONAS",
+        "Semestre": "0",
+        "Apelido": "MÁQUINAS ASSÍNCRONAS",
+        "CargaHorariaTeorico": 0,
+        "CargaHorariaPratica": 0,
+        "ListaPrequisitos": []
+      }
+    ]
+  },
+  {
+    "Id": 36946,
+    "Codigo": "2101.001.011-7",
+    "Tipo": "OBR",
+    "Descricao": "ANÁLISE DE SISTEMAS DE POTÊNCIA",
+    "Semestre": 9,
+    "Apelido": "ANÁLISE DE SISTEMAS DE POTÊNCIA",
+    "CargaHorariaTeorico": 68,
+    "CargaHorariaPratica": null,
+    "ListaPrequisitos": [
+      {
+        "Id": 36938,
+        "Codigo": "2101.001.003-6",
+        "Descricao": "TRANSMISSÃO DE ENERGIA ELÉTRICA",
+        "Semestre": "0",
+        "Apelido": "TRANSMISSÃO DE ENERGIA ELÉTRICA",
+        "CargaHorariaTeorico": 0,
+        "CargaHorariaPratica": 0,
+        "ListaPrequisitos": []
+      }
+    ]
+  },
+  {
+    "Id": 31741,
+    "Codigo": "2101.000.222-0",
+    "Tipo": "OBR",
+    "Descricao": "CONTROLADORES LÓGICOS PROGRAMÁVEIS",
+    "Semestre": 9,
+    "Apelido": "CONTROLADORES LÓGICOS PROGRAMÁVEIS",
+    "CargaHorariaTeorico": 51,
+    "CargaHorariaPratica": null,
+    "ListaPrequisitos": [
+      {
+        "Id": 36936,
+        "Codigo": "2101.001.001-0",
+        "Descricao": "INSTALAÇÕES ELÉTRICAS INDUSTRIAIS I",
+        "Semestre": "0",
+        "Apelido": "INSTALAÇÕES ELÉTRICAS INDUSTRIAIS I",
+        "CargaHorariaTeorico": 0,
+        "CargaHorariaPratica": 0,
+        "ListaPrequisitos": []
+      }
+    ]
+  },
+  {
+    "Id": 40522,
+    "Codigo": "2101.001.288-8",
+    "Tipo": "OBR",
+    "Descricao": "EFICIÊNCIA E GESTÃO ENERGÉTICA",
+    "Semestre": 9,
+    "Apelido": "EFICIÊNCIA E GESTÃO ENERGÉTICA",
+    "CargaHorariaTeorico": 51,
+    "CargaHorariaPratica": null,
+    "ListaPrequisitos": [
+      {
+        "Id": 50497,
+        "Codigo": "2101.001.458-3",
+        "Descricao": "CIRCUITOS ELÉTRICOS II",
+        "Semestre": "0",
+        "Apelido": "CIRCUITOS ELÉTRICOS II",
+        "CargaHorariaTeorico": 0,
+        "CargaHorariaPratica": 0,
+        "ListaPrequisitos": []
+      }
+    ]
+  },
+  {
+    "Id": 36951,
+    "Codigo": "2101.001.016-8",
+    "Tipo": "OBR",
+    "Descricao": "PROTEÇÃO DE SISTEMAS ELÉTRICOS DE POTÊNCIA",
+    "Semestre": 9,
+    "Apelido": "PROTEÇÃO DE SISTEMAS ELÉTRICOS DE POTÊNCIA",
+    "CargaHorariaTeorico": 51,
+    "CargaHorariaPratica": null,
+    "ListaPrequisitos": [
+      {
+        "Id": 36938,
+        "Codigo": "2101.001.003-6",
+        "Descricao": "TRANSMISSÃO DE ENERGIA ELÉTRICA",
+        "Semestre": "0",
+        "Apelido": "TRANSMISSÃO DE ENERGIA ELÉTRICA",
+        "CargaHorariaTeorico": 0,
+        "CargaHorariaPratica": 0,
+        "ListaPrequisitos": []
+      }
+    ]
+  },
+  {
+    "Id": 36954,
+    "Codigo": "2101.001.019-2",
+    "Tipo": "OBR",
+    "Descricao": "ESTÁGIO OBRIGATÓRIO",
+    "Semestre": 10,
+    "Apelido": "ESTÁGIO OBRIGATÓRIO",
+    "CargaHorariaTeorico": 170,
+    "CargaHorariaPratica": null,
+    "ListaPrequisitos": [
+      {
+        "Id": 36936,
+        "Codigo": "2101.001.001-0",
+        "Descricao": "INSTALAÇÕES ELÉTRICAS INDUSTRIAIS I",
+        "Semestre": "0",
+        "Apelido": "INSTALAÇÕES ELÉTRICAS INDUSTRIAIS I",
+        "CargaHorariaTeorico": 0,
+        "CargaHorariaPratica": 0,
+        "ListaPrequisitos": []
+      }
+    ]
+  },
+  {
+    "Id": 46511,
+    "Codigo": "2101.001.400-0",
+    "Tipo": "OBR",
+    "Descricao": "FUNDAMENTOS DE ADMINISTRAÇÃO",
+    "Semestre": 10,
+    "Apelido": "FUNDAMENTOS DE ADMINISTRAÇÃO",
+    "CargaHorariaTeorico": 34,
+    "CargaHorariaPratica": null,
+    "ListaPrequisitos": []
+  },
+  {
+    "Id": 46512,
+    "Codigo": "2101.001.401-9",
+    "Tipo": "OBR",
+    "Descricao": "FUNDAMENTOS DE ECONOMIA",
+    "Semestre": 10,
+    "Apelido": "FUNDAMENTOS DE ECONOMIA",
+    "CargaHorariaTeorico": 34,
+    "CargaHorariaPratica": null,
+    "ListaPrequisitos": []
+  },
+  {
+    "Id": 36895,
+    "Codigo": "2101.000.962-3",
+    "Tipo": "OPT",
+    "Descricao": "ARQUITETURA DE COMPUTADORES DIGITAIS",
+    "Semestre": 99,
+    "Apelido": "ARQUITETURA DE COMPUTADORES DIGITAIS",
+    "CargaHorariaTeorico": 51,
+    "CargaHorariaPratica": null,
+    "ListaPrequisitos": [
+      {
+        "Id": 36920,
+        "Codigo": "2101.000.985-2",
+        "Descricao": "CIRCUITOS DIGITAIS II",
+        "Semestre": "0",
+        "Apelido": "CIRCUITOS DIGITAIS II",
+        "CargaHorariaTeorico": 0,
+        "CargaHorariaPratica": 0,
+        "ListaPrequisitos": []
+      }
+    ]
+  },
+  {
+    "Id": 42910,
+    "Codigo": "2501.000.107-2",
+    "Tipo": "OPT",
+    "Descricao": "COMPORTAMENTO ORGANIZACIONAL",
+    "Semestre": 99,
+    "Apelido": "COMPORTAMENTO ORGANIZACIONAL",
+    "CargaHorariaTeorico": 68,
+    "CargaHorariaPratica": null,
+    "ListaPrequisitos": []
+  },
+  {
+    "Id": 36896,
+    "Codigo": "2101.000.963-1",
+    "Tipo": "OPT",
+    "Descricao": "CONTROLE DIGITAL",
+    "Semestre": 99,
+    "Apelido": "CONTROLE DIGITAL",
+    "CargaHorariaTeorico": 34,
+    "CargaHorariaPratica": null,
+    "ListaPrequisitos": [
+      {
+        "Id": 50494,
+        "Codigo": "2101.001.455-6",
+        "Descricao": "SISTEMAS DE CONTROLE CLÁSSICO",
+        "Semestre": "0",
+        "Apelido": "SISTEMAS DE CONTROLE CLÁSSICO",
+        "CargaHorariaTeorico": 0,
+        "CargaHorariaPratica": 0,
+        "ListaPrequisitos": []
+      }
+    ]
+  },
+  {
+    "Id": 34016,
+    "Codigo": "2101.000.791-4",
+    "Tipo": "OPT",
+    "Descricao": "DESENHO TÉCNICO PARA ENGENHARIA",
+    "Semestre": 99,
+    "Apelido": "DESENHO TÉCNICO PARA ENGENHARIA",
+    "CargaHorariaTeorico": 51,
+    "CargaHorariaPratica": null,
+    "ListaPrequisitos": [
+      {
+        "Id": 48809,
+        "Codigo": "2101.001.407-3",
+        "Descricao": "DESENHO TÉCNICO",
+        "Semestre": "0",
+        "Apelido": "DESENHO TÉCNICO",
+        "CargaHorariaTeorico": 0,
+        "CargaHorariaPratica": 0,
+        "ListaPrequisitos": []
+      }
+    ]
+  },
+  {
+    "Id": 42909,
+    "Codigo": "3101.000.285-5",
+    "Tipo": "OPT",
+    "Descricao": "EDUCAÇÃO, CIDADANIA E DIREITOS HUMANOS",
+    "Semestre": 99,
+    "Apelido": "EDUCAÇÃO, CIDADANIA E DIREITOS HUMANOS",
+    "CargaHorariaTeorico": 68,
+    "CargaHorariaPratica": null,
+    "ListaPrequisitos": []
+  },
+  {
+    "Id": 41760,
+    "Codigo": "3001.000.004-8",
+    "Tipo": "OPT",
+    "Descricao": "EDUCAÇÃO DAS RELAÇÕES ÉTNICO-RACIAIS",
+    "Semestre": 99,
+    "Apelido": "EDUCAÇÃO DAS RELAÇÕES ÉTNICO-RACIAIS",
+    "CargaHorariaTeorico": 34,
+    "CargaHorariaPratica": null,
+    "ListaPrequisitos": []
+  },
+  {
+    "Id": 50496,
+    "Codigo": "2101.001.457-4",
+    "Tipo": "OPT",
+    "Descricao": "ELABORAÇÃO DE RELATÓRIO TÉCNICO",
+    "Semestre": 99,
+    "Apelido": "ELABORAÇÃO DE RELATÓRIO TÉCNICO",
+    "CargaHorariaTeorico": 34,
+    "CargaHorariaPratica": null,
+    "ListaPrequisitos": []
+  },
+  {
+    "Id": 40545,
+    "Codigo": "2101.001.310-8",
+    "Tipo": "OPT",
+    "Descricao": "EMPREENDEDORISMO",
+    "Semestre": 99,
+    "Apelido": "EMPREENDEDORISMO",
+    "CargaHorariaTeorico": 68,
+    "CargaHorariaPratica": null,
+    "ListaPrequisitos": []
+  },
+  {
+    "Id": 43686,
+    "Codigo": "1991.000.004-3",
+    "Tipo": "OPT",
+    "Descricao": "EMPREENDEDORISMO E INOVAÇÃO",
+    "Semestre": 99,
+    "Apelido": "EMPREENDEDORISMO E INOVAÇÃO",
+    "CargaHorariaTeorico": 68,
+    "CargaHorariaPratica": null,
+    "ListaPrequisitos": []
+  },
+  {
+    "Id": 41756,
+    "Codigo": "3101.000.095-0",
+    "Tipo": "OPT",
+    "Descricao": "ESTUDO DE LIBRAS",
+    "Semestre": 99,
+    "Apelido": "ESTUDO DE LIBRAS",
+    "CargaHorariaTeorico": 51,
+    "CargaHorariaPratica": null,
+    "ListaPrequisitos": []
+  },
+  {
+    "Id": 40523,
+    "Codigo": "2101.001.289-6",
+    "Tipo": "OPT",
+    "Descricao": "FONTES DE ENERGIAS RENOVÁVEIS",
+    "Semestre": 99,
+    "Apelido": "FONTES DE ENERGIAS RENOVÁVEIS",
+    "CargaHorariaTeorico": 51,
+    "CargaHorariaPratica": null,
+    "ListaPrequisitos": [
+      {
+        "Id": 50497,
+        "Codigo": "2101.001.458-3",
+        "Descricao": "CIRCUITOS ELÉTRICOS II",
+        "Semestre": "0",
+        "Apelido": "CIRCUITOS ELÉTRICOS II",
+        "CargaHorariaTeorico": 0,
+        "CargaHorariaPratica": 0,
+        "ListaPrequisitos": []
+      }
+    ]
+  },
+  {
+    "Id": 40524,
+    "Codigo": "2101.001.290-0",
+    "Tipo": "OPT",
+    "Descricao": "GERAÇÃO DISTRIBUÍDA",
+    "Semestre": 99,
+    "Apelido": "GERAÇÃO DISTRIBUÍDA",
+    "CargaHorariaTeorico": 51,
+    "CargaHorariaPratica": null,
+    "ListaPrequisitos": [
+      {
+        "Id": 50497,
+        "Codigo": "2101.001.458-3",
+        "Descricao": "CIRCUITOS ELÉTRICOS II",
+        "Semestre": "0",
+        "Apelido": "CIRCUITOS ELÉTRICOS II",
+        "CargaHorariaTeorico": 0,
+        "CargaHorariaPratica": 0,
+        "ListaPrequisitos": []
+      }
+    ]
+  },
+  {
+    "Id": 40525,
+    "Codigo": "2101.001.291-8",
+    "Tipo": "OPT",
+    "Descricao": "INFRAESTRUTURA DE REDES COMPUTACIONAIS",
+    "Semestre": 99,
+    "Apelido": "INFRAESTRUTURA DE REDES COMPUTACIONAIS",
+    "CargaHorariaTeorico": 68,
+    "CargaHorariaPratica": null,
+    "ListaPrequisitos": [
+      {
+        "Id": 50495,
+        "Codigo": "2101.001.456-5",
+        "Descricao": "INSTALAÇÕES ELÉTRICAS PREDIAIS",
+        "Semestre": "0",
+        "Apelido": "INSTALAÇÕES ELÉTRICAS PREDIAIS",
+        "CargaHorariaTeorico": 0,
+        "CargaHorariaPratica": 0,
+        "ListaPrequisitos": []
+      }
+    ]
+  },
+  {
+    "Id": 36906,
+    "Codigo": "2101.000.973-9",
+    "Tipo": "OPT",
+    "Descricao": "INGLÊS TÉCNICO",
+    "Semestre": 99,
+    "Apelido": "INGLÊS TÉCNICO",
+    "CargaHorariaTeorico": 34,
+    "CargaHorariaPratica": null,
+    "ListaPrequisitos": []
+  },
+  {
+    "Id": 50491,
+    "Codigo": "2101.001.452-9",
+    "Tipo": "OPT",
+    "Descricao": "INTRODUÇÃO AO PROJETO DE SISTEMAS FOTOVOLTAICOS ISOLADOS E CONECTADOS À REDE ELÉTRICA",
+    "Semestre": 99,
+    "Apelido": "INTRODUÇÃO AO PROJETO DE SISTEMAS FOTOVOLTAICOS ISOLADOS E CONECTADOS À REDE ELÉTRICA",
+    "CargaHorariaTeorico": 34,
+    "CargaHorariaPratica": null,
+    "ListaPrequisitos": [
+      {
+        "Id": 50497,
+        "Codigo": "2101.001.458-3",
+        "Descricao": "CIRCUITOS ELÉTRICOS II",
+        "Semestre": "0",
+        "Apelido": "CIRCUITOS ELÉTRICOS II",
+        "CargaHorariaTeorico": 0,
+        "CargaHorariaPratica": 0,
+        "ListaPrequisitos": []
+      }
+    ]
+  },
+  {
+    "Id": 40538,
+    "Codigo": "2101.001.304-3",
+    "Tipo": "OPT",
+    "Descricao": "INTRODUÇÃO À ROBÓTICA",
+    "Semestre": 99,
+    "Apelido": "INTRODUÇÃO À ROBÓTICA",
+    "CargaHorariaTeorico": 51,
+    "CargaHorariaPratica": null,
+    "ListaPrequisitos": []
+  },
+  {
+    "Id": 42911,
+    "Codigo": "3001.000.307-1",
+    "Tipo": "OPT",
+    "Descricao": "INTRODUÇÃO ÀS CIÊNCIAS SOCIAIS E POLÍTICAS",
+    "Semestre": 99,
+    "Apelido": "INTRODUÇÃO ÀS CIÊNCIAS SOCIAIS E POLÍTICAS",
+    "CargaHorariaTeorico": 68,
+    "CargaHorariaPratica": null,
+    "ListaPrequisitos": []
+  },
+  {
+    "Id": 36890,
+    "Codigo": "2101.000.957-7",
+    "Tipo": "OPT",
+    "Descricao": "INTRODUÇÃO À TEORIA DE DINÂMICA DE SISTEMAS",
+    "Semestre": 99,
+    "Apelido": "INTRODUÇÃO À TEORIA DE DINÂMICA DE SISTEMAS",
+    "CargaHorariaTeorico": 51,
+    "CargaHorariaPratica": null,
+    "ListaPrequisitos": []
+  },
+  {
+    "Id": 40526,
+    "Codigo": "2101.001.292-6",
+    "Tipo": "OPT",
+    "Descricao": "MANUTENÇÃO ELÉTRICA INDUSTRIAL",
+    "Semestre": 99,
+    "Apelido": "MANUTENÇÃO ELÉTRICA INDUSTRIAL",
+    "CargaHorariaTeorico": 51,
+    "CargaHorariaPratica": null,
+    "ListaPrequisitos": [
+      {
+        "Id": 36936,
+        "Codigo": "2101.001.001-0",
+        "Descricao": "INSTALAÇÕES ELÉTRICAS INDUSTRIAIS I",
+        "Semestre": "0",
+        "Apelido": "INSTALAÇÕES ELÉTRICAS INDUSTRIAIS I",
+        "CargaHorariaTeorico": 0,
+        "CargaHorariaPratica": 0,
+        "ListaPrequisitos": []
+      }
+    ]
+  },
+  {
+    "Id": 40527,
+    "Codigo": "2101.001.293-4",
+    "Tipo": "OPT",
+    "Descricao": "MÁQUINAS DE FLUXO E APROVEITAMENTO HIDROELÉTRICO",
+    "Semestre": 99,
+    "Apelido": "MÁQUINAS DE FLUXO E APROVEITAMENTO HIDROELÉTRICO",
+    "CargaHorariaTeorico": 51,
+    "CargaHorariaPratica": null,
+    "ListaPrequisitos": [
+      {
+        "Id": 50488,
+        "Codigo": "2101.001.449-4",
+        "Descricao": "FUNDAMENTOS DE FENÔMENOS DOS TRANSPORTES",
+        "Semestre": "0",
+        "Apelido": "FUNDAMENTOS DE FENÔMENOS DOS TRANSPORTES",
+        "CargaHorariaTeorico": 0,
+        "CargaHorariaPratica": 0,
+        "ListaPrequisitos": []
+      }
+    ]
+  },
+  {
+    "Id": 40547,
+    "Codigo": "2101.001.311-6",
+    "Tipo": "OPT",
+    "Descricao": "PESQUISA OPERACIONAL I",
+    "Semestre": 99,
+    "Apelido": "PESQUISA OPERACIONAL I",
+    "CargaHorariaTeorico": 68,
+    "CargaHorariaPratica": null,
+    "ListaPrequisitos": []
+  },
+  {
+    "Id": 40548,
+    "Codigo": "2101.001.312-4",
+    "Tipo": "OPT",
+    "Descricao": "PESQUISA OPERACIONAL II",
+    "Semestre": 99,
+    "Apelido": "PESQUISA OPERACIONAL II",
+    "CargaHorariaTeorico": 68,
+    "CargaHorariaPratica": null,
+    "ListaPrequisitos": [
+      {
+        "Id": 40547,
+        "Codigo": "2101.001.311-6",
+        "Descricao": "PESQUISA OPERACIONAL I",
+        "Semestre": "0",
+        "Apelido": "PESQUISA OPERACIONAL I",
+        "CargaHorariaTeorico": 0,
+        "CargaHorariaPratica": 0,
+        "ListaPrequisitos": []
+      }
+    ]
+  },
+  {
+    "Id": 40529,
+    "Codigo": "2101.001.295-0",
+    "Tipo": "OPT",
+    "Descricao": "PLANEJAMENTO DE SISTEMAS ELÉTRICOS",
+    "Semestre": 99,
+    "Apelido": "PLANEJAMENTO DE SISTEMAS ELÉTRICOS",
+    "CargaHorariaTeorico": 51,
+    "CargaHorariaPratica": null,
+    "ListaPrequisitos": [
+      {
+        "Id": 50497,
+        "Codigo": "2101.001.458-3",
+        "Descricao": "CIRCUITOS ELÉTRICOS II",
+        "Semestre": "0",
+        "Apelido": "CIRCUITOS ELÉTRICOS II",
+        "CargaHorariaTeorico": 0,
+        "CargaHorariaPratica": 0,
+        "ListaPrequisitos": []
+      }
+    ]
+  },
+  {
+    "Id": 50485,
+    "Codigo": "2101.001.446-7",
+    "Tipo": "OPT",
+    "Descricao": "PROCESSAMENTO DIGITAL DE SINAIS",
+    "Semestre": 99,
+    "Apelido": "PROCESSAMENTO DIGITAL DE SINAIS",
+    "CargaHorariaTeorico": 34,
+    "CargaHorariaPratica": null,
+    "ListaPrequisitos": [
+      {
+        "Id": 50486,
+        "Codigo": "2101.001.447-6",
+        "Descricao": "PROCESSAMENTO DE SINAIS",
+        "Semestre": "0",
+        "Apelido": "PROCESSAMENTO DE SINAIS",
+        "CargaHorariaTeorico": 0,
+        "CargaHorariaPratica": 0,
+        "ListaPrequisitos": []
+      }
+    ]
+  },
+  {
+    "Id": 40539,
+    "Codigo": "2101.001.305-1",
+    "Tipo": "OPT",
+    "Descricao": "PROJETO COM MICROCONTROLADORES",
+    "Semestre": 99,
+    "Apelido": "PROJETO COM MICROCONTROLADORES",
+    "CargaHorariaTeorico": 51,
+    "CargaHorariaPratica": null,
+    "ListaPrequisitos": [
+      {
+        "Id": 36933,
+        "Codigo": "2101.000.998-4",
+        "Descricao": "MICROCONTROLADORES",
+        "Semestre": "0",
+        "Apelido": "MICROCONTROLADORES",
+        "CargaHorariaTeorico": 0,
+        "CargaHorariaPratica": 0,
+        "ListaPrequisitos": []
+      }
+    ]
+  },
+  {
+    "Id": 50484,
+    "Codigo": "2101.001.445-8",
+    "Tipo": "OPT",
+    "Descricao": "PROJETO INTEGRADOR",
+    "Semestre": 99,
+    "Apelido": "PROJETO INTEGRADOR",
+    "CargaHorariaTeorico": 34,
+    "CargaHorariaPratica": null,
+    "ListaPrequisitos": [
+      {
+        "Id": 50494,
+        "Codigo": "2101.001.455-6",
+        "Descricao": "SISTEMAS DE CONTROLE CLÁSSICO",
+        "Semestre": "0",
+        "Apelido": "SISTEMAS DE CONTROLE CLÁSSICO",
+        "CargaHorariaTeorico": 0,
+        "CargaHorariaPratica": 0,
+        "ListaPrequisitos": []
+      }
+    ]
+  },
+  {
+    "Id": 36900,
+    "Codigo": "2101.000.967-4",
+    "Tipo": "OPT",
+    "Descricao": "PROJETOS DE CIRCUITOS DIGITAIS",
+    "Semestre": 99,
+    "Apelido": "PROJETOS DE CIRCUITOS DIGITAIS",
+    "CargaHorariaTeorico": 51,
+    "CargaHorariaPratica": null,
+    "ListaPrequisitos": [
+      {
+        "Id": 36920,
+        "Codigo": "2101.000.985-2",
+        "Descricao": "CIRCUITOS DIGITAIS II",
+        "Semestre": "0",
+        "Apelido": "CIRCUITOS DIGITAIS II",
+        "CargaHorariaTeorico": 0,
+        "CargaHorariaPratica": 0,
+        "ListaPrequisitos": []
+      }
+    ]
+  },
+  {
+    "Id": 36901,
+    "Codigo": "2101.000.968-2",
+    "Tipo": "OPT",
+    "Descricao": "PROJETOS DE CIRCUITOS INTEGRADOS",
+    "Semestre": 99,
+    "Apelido": "PROJETOS DE CIRCUITOS INTEGRADOS",
+    "CargaHorariaTeorico": 51,
+    "CargaHorariaPratica": null,
+    "ListaPrequisitos": [
+      {
+        "Id": 50492,
+        "Codigo": "2101.001.453-8",
+        "Descricao": "ELETRÔNICA II",
+        "Semestre": "0",
+        "Apelido": "ELETRÔNICA II",
+        "CargaHorariaTeorico": 0,
+        "CargaHorariaPratica": 0,
+        "ListaPrequisitos": []
+      }
+    ]
+  },
+  {
+    "Id": 40530,
+    "Codigo": "2101.001.296-9",
+    "Tipo": "OPT",
+    "Descricao": "QUALIDADE DE ENERGIA ELÉTRICA",
+    "Semestre": 99,
+    "Apelido": "QUALIDADE DE ENERGIA ELÉTRICA",
+    "CargaHorariaTeorico": 51,
+    "CargaHorariaPratica": null,
+    "ListaPrequisitos": [
+      {
+        "Id": 50497,
+        "Codigo": "2101.001.458-3",
+        "Descricao": "CIRCUITOS ELÉTRICOS II",
+        "Semestre": "0",
+        "Apelido": "CIRCUITOS ELÉTRICOS II",
+        "CargaHorariaTeorico": 0,
+        "CargaHorariaPratica": 0,
+        "ListaPrequisitos": []
+      }
+    ]
+  },
+  {
+    "Id": 34033,
+    "Codigo": "2101.000.804-0",
+    "Tipo": "OPT",
+    "Descricao": "SEGURANÇA DO TRABALHO",
+    "Semestre": 99,
+    "Apelido": "SEGURANÇA DO TRABALHO",
+    "CargaHorariaTeorico": 34,
+    "CargaHorariaPratica": null,
+    "ListaPrequisitos": []
+  },
+  {
+    "Id": 40531,
+    "Codigo": "2101.001.297-7",
+    "Tipo": "OPT",
+    "Descricao": "SISTEMAS DE ENERGIA ININTERRUPTA",
+    "Semestre": 99,
+    "Apelido": "SISTEMAS DE ENERGIA ININTERRUPTA",
+    "CargaHorariaTeorico": 68,
+    "CargaHorariaPratica": null,
+    "ListaPrequisitos": [
+      {
+        "Id": 36927,
+        "Codigo": "2101.000.992-5",
+        "Descricao": "ELETRÔNICA DE POTÊNCIA I",
+        "Semestre": "0",
+        "Apelido": "ELETRÔNICA DE POTÊNCIA I",
+        "CargaHorariaTeorico": 0,
+        "CargaHorariaPratica": 0,
+        "ListaPrequisitos": []
+      }
+    ]
+  },
+  {
+    "Id": 37065,
+    "Codigo": "1919.000.352-0",
+    "Tipo": "OPT",
+    "Descricao": "SOCIEDADE E AMBIENTE",
+    "Semestre": 99,
+    "Apelido": "SOCIEDADE E AMBIENTE",
+    "CargaHorariaTeorico": 34,
+    "CargaHorariaPratica": null,
+    "ListaPrequisitos": []
+  },
+  {
+    "Id": 43548,
+    "Codigo": "2401.000.221-6",
+    "Tipo": "OPT",
+    "Descricao": "TERMODINÂMICA",
+    "Semestre": 99,
+    "Apelido": "TERMODINÂMICA",
+    "CargaHorariaTeorico": 34,
+    "CargaHorariaPratica": null,
+    "ListaPrequisitos": []
+  },
+  {
+    "Id": 40540,
+    "Codigo": "2101.001.306-0",
+    "Tipo": "OPT",
+    "Descricao": "TÓPICOS EM ELETRÔNICA DE POTÊNCIA I",
+    "Semestre": 99,
+    "Apelido": "TÓPICOS EM ELETRÔNICA DE POTÊNCIA I",
+    "CargaHorariaTeorico": 51,
+    "CargaHorariaPratica": null,
+    "ListaPrequisitos": [
+      {
+        "Id": 36927,
+        "Codigo": "2101.000.992-5",
+        "Descricao": "ELETRÔNICA DE POTÊNCIA I",
+        "Semestre": "0",
+        "Apelido": "ELETRÔNICA DE POTÊNCIA I",
+        "CargaHorariaTeorico": 0,
+        "CargaHorariaPratica": 0,
+        "ListaPrequisitos": []
+      }
+    ]
+  },
+  {
+    "Id": 40541,
+    "Codigo": "2101.001.307-8",
+    "Tipo": "OPT",
+    "Descricao": "TÓPICOS EM ELETRÔNICA DE POTÊNCIA II",
+    "Semestre": 99,
+    "Apelido": "TÓPICOS EM ELETRÔNICA DE POTÊNCIA II",
+    "CargaHorariaTeorico": 51,
+    "CargaHorariaPratica": null,
+    "ListaPrequisitos": [
+      {
+        "Id": 36935,
+        "Codigo": "2101.001.000-1",
+        "Descricao": "ELETRÔNICA DE POTÊNCIA II",
+        "Semestre": "0",
+        "Apelido": "ELETRÔNICA DE POTÊNCIA II",
+        "CargaHorariaTeorico": 0,
+        "CargaHorariaPratica": 0,
+        "ListaPrequisitos": []
+      }
+    ]
+  },
+  {
+    "Id": 40532,
+    "Codigo": "2101.001.298-5",
+    "Tipo": "OPT",
+    "Descricao": "TÓPICOS EM ELETROTÉCNICA I",
+    "Semestre": 99,
+    "Apelido": "TÓPICOS EM ELETROTÉCNICA I",
+    "CargaHorariaTeorico": 51,
+    "CargaHorariaPratica": null,
+    "ListaPrequisitos": [
+      {
+        "Id": 36937,
+        "Codigo": "2101.001.002-8",
+        "Descricao": "MÁQUINAS ASSÍNCRONAS",
+        "Semestre": "0",
+        "Apelido": "MÁQUINAS ASSÍNCRONAS",
+        "CargaHorariaTeorico": 0,
+        "CargaHorariaPratica": 0,
+        "ListaPrequisitos": []
+      }
+    ]
+  },
+  {
+    "Id": 40533,
+    "Codigo": "2101.001.299-3",
+    "Tipo": "OPT",
+    "Descricao": "TÓPICOS EM ELETROTÉCNICA II",
+    "Semestre": 99,
+    "Apelido": "TÓPICOS EM ELETROTÉCNICA II",
+    "CargaHorariaTeorico": 51,
+    "CargaHorariaPratica": null,
+    "ListaPrequisitos": [
+      {
+        "Id": 31741,
+        "Codigo": "2101.000.222-0",
+        "Descricao": "CONTROLADORES LÓGICOS PROGRAMÁVEIS",
+        "Semestre": "0",
+        "Apelido": "CONTROLADORES LÓGICOS PROGRAMÁVEIS",
+        "CargaHorariaTeorico": 0,
+        "CargaHorariaPratica": 0,
+        "ListaPrequisitos": []
+      }
+    ]
+  },
+  {
+    "Id": 40542,
+    "Codigo": "2101.001.308-6",
+    "Tipo": "OPT",
+    "Descricao": "TÓPICOS EM INTELIGÊNCIA ARTIFICIAL I",
+    "Semestre": 99,
+    "Apelido": "TÓPICOS EM INTELIGÊNCIA ARTIFICIAL I",
+    "CargaHorariaTeorico": 51,
+    "CargaHorariaPratica": null,
+    "ListaPrequisitos": []
+  },
+  {
+    "Id": 40543,
+    "Codigo": "2101.001.309-4",
+    "Tipo": "OPT",
+    "Descricao": "TÓPICOS EM INTELIGÊNCIA ARTIFICIAL II",
+    "Semestre": 99,
+    "Apelido": "TÓPICOS EM INTELIGÊNCIA ARTIFICIAL II",
+    "CargaHorariaTeorico": 51,
+    "CargaHorariaPratica": null,
+    "ListaPrequisitos": []
+  },
+  {
+    "Id": 40534,
+    "Codigo": "2101.001.300-0",
+    "Tipo": "OPT",
+    "Descricao": "TÓPICOS EM SISTEMAS ELÉTRICOS DE POTÊNCIA I",
+    "Semestre": 99,
+    "Apelido": "TÓPICOS EM SISTEMAS ELÉTRICOS DE POTÊNCIA I",
+    "CargaHorariaTeorico": 51,
+    "CargaHorariaPratica": null,
+    "ListaPrequisitos": [
+      {
+        "Id": 36934,
+        "Codigo": "2101.000.999-2",
+        "Descricao": "DISTRIBUIÇÃO DE ENERGIA ELÉTRICA",
+        "Semestre": "0",
+        "Apelido": "DISTRIBUIÇÃO DE ENERGIA ELÉTRICA",
+        "CargaHorariaTeorico": 0,
+        "CargaHorariaPratica": 0,
+        "ListaPrequisitos": []
+      }
+    ]
+  },
+  {
+    "Id": 40535,
+    "Codigo": "2101.001.301-9",
+    "Tipo": "OPT",
+    "Descricao": "TÓPICOS EM SISTEMAS ELÉTRICOS DE POTÊNCIA II",
+    "Semestre": 99,
+    "Apelido": "TÓPICOS EM SISTEMAS ELÉTRICOS DE POTÊNCIA II",
+    "CargaHorariaTeorico": 51,
+    "CargaHorariaPratica": null,
+    "ListaPrequisitos": [
+      {
+        "Id": 36938,
+        "Codigo": "2101.001.003-6",
+        "Descricao": "TRANSMISSÃO DE ENERGIA ELÉTRICA",
+        "Semestre": "0",
+        "Apelido": "TRANSMISSÃO DE ENERGIA ELÉTRICA",
+        "CargaHorariaTeorico": 0,
+        "CargaHorariaPratica": 0,
+        "ListaPrequisitos": []
+      }
+    ]
+  },
+  {
+    "Id": 40536,
+    "Codigo": "2101.001.302-7",
+    "Tipo": "OPT",
+    "Descricao": "TÓPICOS EM SMART GRID I",
+    "Semestre": 99,
+    "Apelido": "TÓPICOS EM SMART GRID I",
+    "CargaHorariaTeorico": 51,
+    "CargaHorariaPratica": null,
+    "ListaPrequisitos": [
+      {
+        "Id": 50483,
+        "Codigo": "2101.001.444-9",
+        "Descricao": "CIRCUITOS ELETROMAGNÉTICOS",
+        "Semestre": "0",
+        "Apelido": "CIRCUITOS ELETROMAGNÉTICOS",
+        "CargaHorariaTeorico": 0,
+        "CargaHorariaPratica": 0,
+        "ListaPrequisitos": []
+      }
+    ]
+  },
+  {
+    "Id": 40537,
+    "Codigo": "2101.001.303-5",
+    "Tipo": "OPT",
+    "Descricao": "TÓPICOS EM SMART GRID II",
+    "Semestre": 99,
+    "Apelido": "TÓPICOS EM SMART GRID II",
+    "CargaHorariaTeorico": 51,
+    "CargaHorariaPratica": null,
+    "ListaPrequisitos": [
+      {
+        "Id": 50497,
+        "Codigo": "2101.001.458-3",
+        "Descricao": "CIRCUITOS ELÉTRICOS II",
+        "Semestre": "0",
+        "Apelido": "CIRCUITOS ELÉTRICOS II",
+        "CargaHorariaTeorico": 0,
+        "CargaHorariaPratica": 0,
+        "ListaPrequisitos": []
+      }
+    ]
+  },
+  {
+    "Id": 31858,
+    "Codigo": "2101.000.336-6",
+    "Tipo": "OPT",
+    "Descricao": "TOPOGRAFIA",
+    "Semestre": 99,
+    "Apelido": "TOPOGRAFIA",
+    "CargaHorariaTeorico": 68,
+    "CargaHorariaPratica": null,
+    "ListaPrequisitos": []
+  }
+]

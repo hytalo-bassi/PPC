@@ -1,0 +1,1624 @@
+[
+  {
+    "Id": 41610,
+    "Codigo": "2701.000.214-8",
+    "Tipo": "OBR",
+    "Descricao": "ANATOMIA GERAL E ODONTOLÓGICA I",
+    "Semestre": 1,
+    "Apelido": "ANATOMIA GERAL E ODONTOLÓGICA I",
+    "CargaHorariaTeorico": 85,
+    "CargaHorariaPratica": null,
+    "ListaPrequisitos": []
+  },
+  {
+    "Id": 45283,
+    "Codigo": "2701.000.296-8",
+    "Tipo": "OBR",
+    "Descricao": "BIOLOGIA GERAL",
+    "Semestre": 1,
+    "Apelido": "BIOLOGIA GERAL",
+    "CargaHorariaTeorico": 51,
+    "CargaHorariaPratica": null,
+    "ListaPrequisitos": []
+  },
+  {
+    "Id": 41627,
+    "Codigo": "2701.000.229-6",
+    "Tipo": "OBR",
+    "Descricao": "BIOQUIMICA GERAL E BUCAL I",
+    "Semestre": 1,
+    "Apelido": "BIOQUIMICA GERAL E BUCAL I",
+    "CargaHorariaTeorico": 34,
+    "CargaHorariaPratica": null,
+    "ListaPrequisitos": []
+  },
+  {
+    "Id": 41635,
+    "Codigo": "2701.000.236-9",
+    "Tipo": "OBR",
+    "Descricao": "HISTOLOGIA BÁSICA",
+    "Semestre": 1,
+    "Apelido": "HISTOLOGIA BÁSICA",
+    "CargaHorariaTeorico": 68,
+    "CargaHorariaPratica": null,
+    "ListaPrequisitos": []
+  },
+  {
+    "Id": 51790,
+    "Codigo": "1104.000.137-1",
+    "Tipo": "OBR",
+    "Descricao": "ODONTOLOGIA EM SAÚDE COLETIVA I",
+    "Semestre": 1,
+    "Apelido": "ODONTOLOGIA EM SAÚDE COLETIVA I",
+    "CargaHorariaTeorico": 34,
+    "CargaHorariaPratica": null,
+    "ListaPrequisitos": []
+  },
+  {
+    "Id": 51778,
+    "Codigo": "3001.000.730-7",
+    "Tipo": "OBR",
+    "Descricao": "PRINCÍPIOS DE SOCIOLOGIA",
+    "Semestre": 1,
+    "Apelido": "PRINCÍPIOS DE SOCIOLOGIA",
+    "CargaHorariaTeorico": 34,
+    "CargaHorariaPratica": null,
+    "ListaPrequisitos": []
+  },
+  {
+    "Id": 41614,
+    "Codigo": "2701.000.217-2",
+    "Tipo": "OBR",
+    "Descricao": "ANATOMIA GERAL E ODONTOLÓGICA II",
+    "Semestre": 2,
+    "Apelido": "ANATOMIA GERAL E ODONTOLÓGICA II",
+    "CargaHorariaTeorico": 102,
+    "CargaHorariaPratica": null,
+    "ListaPrequisitos": []
+  },
+  {
+    "Id": 41628,
+    "Codigo": "2701.000.230-0",
+    "Tipo": "OBR",
+    "Descricao": "BIOQUÍMICA GERAL E BUCAL II",
+    "Semestre": 2,
+    "Apelido": "BIOQUÍMICA GERAL E BUCAL II",
+    "CargaHorariaTeorico": 51,
+    "CargaHorariaPratica": null,
+    "ListaPrequisitos": [
+      {
+        "Id": 41627,
+        "Codigo": "2701.000.229-6",
+        "Descricao": "BIOQUIMICA GERAL E BUCAL I",
+        "Semestre": "0",
+        "Apelido": "BIOQUIMICA GERAL E BUCAL I",
+        "CargaHorariaTeorico": 0,
+        "CargaHorariaPratica": 0,
+        "ListaPrequisitos": []
+      }
+    ]
+  },
+  {
+    "Id": 41617,
+    "Codigo": "2701.000.220-2",
+    "Tipo": "OBR",
+    "Descricao": "FISIOLOGIA",
+    "Semestre": 2,
+    "Apelido": "FISIOLOGIA",
+    "CargaHorariaTeorico": 51,
+    "CargaHorariaPratica": null,
+    "ListaPrequisitos": []
+  },
+  {
+    "Id": 45288,
+    "Codigo": "2701.000.297-7",
+    "Tipo": "OBR",
+    "Descricao": "HISTOLOGIA BUCAL E DE SISTEMAS",
+    "Semestre": 2,
+    "Apelido": "HISTOLOGIA BUCAL E DE SISTEMAS",
+    "CargaHorariaTeorico": 51,
+    "CargaHorariaPratica": null,
+    "ListaPrequisitos": [
+      {
+        "Id": 41635,
+        "Codigo": "2701.000.236-9",
+        "Descricao": "HISTOLOGIA BÁSICA",
+        "Semestre": "0",
+        "Apelido": "HISTOLOGIA BÁSICA",
+        "CargaHorariaTeorico": 0,
+        "CargaHorariaPratica": 0,
+        "ListaPrequisitos": []
+      }
+    ]
+  },
+  {
+    "Id": 45300,
+    "Codigo": "2701.000.298-6",
+    "Tipo": "OBR",
+    "Descricao": "IMUNOLOGIA",
+    "Semestre": 2,
+    "Apelido": "IMUNOLOGIA",
+    "CargaHorariaTeorico": 51,
+    "CargaHorariaPratica": null,
+    "ListaPrequisitos": [
+      {
+        "Id": 45283,
+        "Codigo": "2701.000.296-8",
+        "Descricao": "BIOLOGIA GERAL",
+        "Semestre": "0",
+        "Apelido": "BIOLOGIA GERAL",
+        "CargaHorariaTeorico": 0,
+        "CargaHorariaPratica": 0,
+        "ListaPrequisitos": []
+      }
+    ]
+  },
+  {
+    "Id": 51791,
+    "Codigo": "1104.000.138-0",
+    "Tipo": "OBR",
+    "Descricao": "INTRODUÇÃO À ODONTOLOGIA",
+    "Semestre": 2,
+    "Apelido": "INTRODUÇÃO À ODONTOLOGIA",
+    "CargaHorariaTeorico": 85,
+    "CargaHorariaPratica": null,
+    "ListaPrequisitos": []
+  },
+  {
+    "Id": 45198,
+    "Codigo": "2701.000.293-0",
+    "Tipo": "OBR",
+    "Descricao": "MICROBIOLOGIA",
+    "Semestre": 2,
+    "Apelido": "MICROBIOLOGIA",
+    "CargaHorariaTeorico": 34,
+    "CargaHorariaPratica": null,
+    "ListaPrequisitos": []
+  },
+  {
+    "Id": 41612,
+    "Codigo": "2801.000.089-5",
+    "Tipo": "OBR",
+    "Descricao": "EPIDEMIOLOGIA E BIOESTATÍSTICA",
+    "Semestre": 3,
+    "Apelido": "EPIDEMIOLOGIA E BIOESTATÍSTICA",
+    "CargaHorariaTeorico": 34,
+    "CargaHorariaPratica": null,
+    "ListaPrequisitos": []
+  },
+  {
+    "Id": 45860,
+    "Codigo": "1104.000.122-8",
+    "Tipo": "OBR",
+    "Descricao": "ÉTICA E BIOÉTICA",
+    "Semestre": 3,
+    "Apelido": "ÉTICA E BIOÉTICA",
+    "CargaHorariaTeorico": 51,
+    "CargaHorariaPratica": null,
+    "ListaPrequisitos": []
+  },
+  {
+    "Id": 45862,
+    "Codigo": "2601.000.334-6",
+    "Tipo": "OBR",
+    "Descricao": "FARMACOLOGIA",
+    "Semestre": 3,
+    "Apelido": "FARMACOLOGIA",
+    "CargaHorariaTeorico": 51,
+    "CargaHorariaPratica": null,
+    "ListaPrequisitos": [
+      {
+        "Id": 41617,
+        "Codigo": "2701.000.220-2",
+        "Descricao": "FISIOLOGIA",
+        "Semestre": "0",
+        "Apelido": "FISIOLOGIA",
+        "CargaHorariaTeorico": 0,
+        "CargaHorariaPratica": 0,
+        "ListaPrequisitos": []
+      }
+    ]
+  },
+  {
+    "Id": 45271,
+    "Codigo": "2701.000.295-9",
+    "Tipo": "OBR",
+    "Descricao": "MICROBIOLOGIA ORAL",
+    "Semestre": 3,
+    "Apelido": "MICROBIOLOGIA ORAL",
+    "CargaHorariaTeorico": 51,
+    "CargaHorariaPratica": null,
+    "ListaPrequisitos": [
+      {
+        "Id": 45198,
+        "Codigo": "2701.000.293-0",
+        "Descricao": "MICROBIOLOGIA",
+        "Semestre": "0",
+        "Apelido": "MICROBIOLOGIA",
+        "CargaHorariaTeorico": 0,
+        "CargaHorariaPratica": 0,
+        "ListaPrequisitos": []
+      }
+    ]
+  },
+  {
+    "Id": 51787,
+    "Codigo": "1104.000.134-4",
+    "Tipo": "OBR",
+    "Descricao": "ODONTOLOGIA EM SAÚDE COLETIVA II",
+    "Semestre": 3,
+    "Apelido": "ODONTOLOGIA EM SAÚDE COLETIVA II",
+    "CargaHorariaTeorico": 51,
+    "CargaHorariaPratica": null,
+    "ListaPrequisitos": [
+      {
+        "Id": 51790,
+        "Codigo": "1104.000.137-1",
+        "Descricao": "ODONTOLOGIA EM SAÚDE COLETIVA I",
+        "Semestre": "0",
+        "Apelido": "ODONTOLOGIA EM SAÚDE COLETIVA I",
+        "CargaHorariaTeorico": 0,
+        "CargaHorariaPratica": 0,
+        "ListaPrequisitos": []
+      }
+    ]
+  },
+  {
+    "Id": 41620,
+    "Codigo": "2701.000.223-7",
+    "Tipo": "OBR",
+    "Descricao": "PATOLOGIA GERAL",
+    "Semestre": 3,
+    "Apelido": "PATOLOGIA GERAL",
+    "CargaHorariaTeorico": 51,
+    "CargaHorariaPratica": null,
+    "ListaPrequisitos": [
+      {
+        "Id": 45288,
+        "Codigo": "2701.000.297-7",
+        "Descricao": "HISTOLOGIA BUCAL E DE SISTEMAS",
+        "Semestre": "0",
+        "Apelido": "HISTOLOGIA BUCAL E DE SISTEMAS",
+        "CargaHorariaTeorico": 0,
+        "CargaHorariaPratica": 0,
+        "ListaPrequisitos": []
+      }
+    ]
+  },
+  {
+    "Id": 42899,
+    "Codigo": "3001.000.297-0",
+    "Tipo": "OBR",
+    "Descricao": "PSICOLOGIA APLICADA À ODONTOLOGIA",
+    "Semestre": 3,
+    "Apelido": "PSICOLOGIA APLICADA À ODONTOLOGIA",
+    "CargaHorariaTeorico": 34,
+    "CargaHorariaPratica": null,
+    "ListaPrequisitos": []
+  },
+  {
+    "Id": 51799,
+    "Codigo": "1104.000.146-0",
+    "Tipo": "OBR",
+    "Descricao": "BIOMATERIAIS I",
+    "Semestre": 4,
+    "Apelido": "BIOMATERIAIS I",
+    "CargaHorariaTeorico": 51,
+    "CargaHorariaPratica": null,
+    "ListaPrequisitos": [
+      {
+        "Id": 41614,
+        "Codigo": "2701.000.217-2",
+        "Descricao": "ANATOMIA GERAL E ODONTOLÓGICA II",
+        "Semestre": "0",
+        "Apelido": "ANATOMIA GERAL E ODONTOLÓGICA II",
+        "CargaHorariaTeorico": 0,
+        "CargaHorariaPratica": 0,
+        "ListaPrequisitos": []
+      }
+    ]
+  },
+  {
+    "Id": 37695,
+    "Codigo": "1104.000.007-4",
+    "Tipo": "OBR",
+    "Descricao": "CARIOLOGIA",
+    "Semestre": 4,
+    "Apelido": "CARIOLOGIA",
+    "CargaHorariaTeorico": 51,
+    "CargaHorariaPratica": null,
+    "ListaPrequisitos": [
+      {
+        "Id": 41628,
+        "Codigo": "2701.000.230-0",
+        "Descricao": "BIOQUÍMICA GERAL E BUCAL II",
+        "Semestre": "0",
+        "Apelido": "BIOQUÍMICA GERAL E BUCAL II",
+        "CargaHorariaTeorico": 0,
+        "CargaHorariaPratica": 0,
+        "ListaPrequisitos": []
+      },
+      {
+        "Id": 45271,
+        "Codigo": "2701.000.295-9",
+        "Descricao": "MICROBIOLOGIA ORAL",
+        "Semestre": "0",
+        "Apelido": "MICROBIOLOGIA ORAL",
+        "CargaHorariaTeorico": 0,
+        "CargaHorariaPratica": 0,
+        "ListaPrequisitos": []
+      },
+      {
+        "Id": 45288,
+        "Codigo": "2701.000.297-7",
+        "Descricao": "HISTOLOGIA BUCAL E DE SISTEMAS",
+        "Semestre": "0",
+        "Apelido": "HISTOLOGIA BUCAL E DE SISTEMAS",
+        "CargaHorariaTeorico": 0,
+        "CargaHorariaPratica": 0,
+        "ListaPrequisitos": []
+      }
+    ]
+  },
+  {
+    "Id": 51795,
+    "Codigo": "1104.000.142-4",
+    "Tipo": "OBR",
+    "Descricao": "DENTÍSTICA PRÉ-CLÍNICA I",
+    "Semestre": 4,
+    "Apelido": "DENTÍSTICA PRÉ-CLÍNICA I",
+    "CargaHorariaTeorico": 85,
+    "CargaHorariaPratica": null,
+    "ListaPrequisitos": [
+      {
+        "Id": 41614,
+        "Codigo": "2701.000.217-2",
+        "Descricao": "ANATOMIA GERAL E ODONTOLÓGICA II",
+        "Semestre": "0",
+        "Apelido": "ANATOMIA GERAL E ODONTOLÓGICA II",
+        "CargaHorariaTeorico": 0,
+        "CargaHorariaPratica": 0,
+        "ListaPrequisitos": []
+      },
+      {
+        "Id": 45288,
+        "Codigo": "2701.000.297-7",
+        "Descricao": "HISTOLOGIA BUCAL E DE SISTEMAS",
+        "Semestre": "0",
+        "Apelido": "HISTOLOGIA BUCAL E DE SISTEMAS",
+        "CargaHorariaTeorico": 0,
+        "CargaHorariaPratica": 0,
+        "ListaPrequisitos": []
+      }
+    ]
+  },
+  {
+    "Id": 51792,
+    "Codigo": "1104.000.139-0",
+    "Tipo": "OBR",
+    "Descricao": "ESTOMATOLOGIA I",
+    "Semestre": 4,
+    "Apelido": "ESTOMATOLOGIA I",
+    "CargaHorariaTeorico": 68,
+    "CargaHorariaPratica": null,
+    "ListaPrequisitos": [
+      {
+        "Id": 41610,
+        "Codigo": "2701.000.214-8",
+        "Descricao": "ANATOMIA GERAL E ODONTOLÓGICA I",
+        "Semestre": "0",
+        "Apelido": "ANATOMIA GERAL E ODONTOLÓGICA I",
+        "CargaHorariaTeorico": 0,
+        "CargaHorariaPratica": 0,
+        "ListaPrequisitos": []
+      },
+      {
+        "Id": 41614,
+        "Codigo": "2701.000.217-2",
+        "Descricao": "ANATOMIA GERAL E ODONTOLÓGICA II",
+        "Semestre": "0",
+        "Apelido": "ANATOMIA GERAL E ODONTOLÓGICA II",
+        "CargaHorariaTeorico": 0,
+        "CargaHorariaPratica": 0,
+        "ListaPrequisitos": []
+      },
+      {
+        "Id": 51791,
+        "Codigo": "1104.000.138-0",
+        "Descricao": "INTRODUÇÃO À ODONTOLOGIA",
+        "Semestre": "0",
+        "Apelido": "INTRODUÇÃO À ODONTOLOGIA",
+        "CargaHorariaTeorico": 0,
+        "CargaHorariaPratica": 0,
+        "ListaPrequisitos": []
+      }
+    ]
+  },
+  {
+    "Id": 51783,
+    "Codigo": "1104.000.130-8",
+    "Tipo": "OBR",
+    "Descricao": "OCLUSÃO",
+    "Semestre": 4,
+    "Apelido": "OCLUSÃO",
+    "CargaHorariaTeorico": 68,
+    "CargaHorariaPratica": null,
+    "ListaPrequisitos": [
+      {
+        "Id": 41614,
+        "Codigo": "2701.000.217-2",
+        "Descricao": "ANATOMIA GERAL E ODONTOLÓGICA II",
+        "Semestre": "0",
+        "Apelido": "ANATOMIA GERAL E ODONTOLÓGICA II",
+        "CargaHorariaTeorico": 0,
+        "CargaHorariaPratica": 0,
+        "ListaPrequisitos": []
+      }
+    ]
+  },
+  {
+    "Id": 51781,
+    "Codigo": "1104.000.128-2",
+    "Tipo": "OBR",
+    "Descricao": "PATOLOGIA ORAL E MAXILOFACIAL",
+    "Semestre": 4,
+    "Apelido": "PATOLOGIA ORAL E MAXILOFACIAL",
+    "CargaHorariaTeorico": 85,
+    "CargaHorariaPratica": null,
+    "ListaPrequisitos": [
+      {
+        "Id": 41620,
+        "Codigo": "2701.000.223-7",
+        "Descricao": "PATOLOGIA GERAL",
+        "Semestre": "0",
+        "Apelido": "PATOLOGIA GERAL",
+        "CargaHorariaTeorico": 0,
+        "CargaHorariaPratica": 0,
+        "ListaPrequisitos": []
+      },
+      {
+        "Id": 45300,
+        "Codigo": "2701.000.298-6",
+        "Descricao": "IMUNOLOGIA",
+        "Semestre": "0",
+        "Apelido": "IMUNOLOGIA",
+        "CargaHorariaTeorico": 0,
+        "CargaHorariaPratica": 0,
+        "ListaPrequisitos": []
+      }
+    ]
+  },
+  {
+    "Id": 51779,
+    "Codigo": "1104.000.126-4",
+    "Tipo": "OBR",
+    "Descricao": "RADIOLOGIA I",
+    "Semestre": 4,
+    "Apelido": "RADIOLOGIA I",
+    "CargaHorariaTeorico": 51,
+    "CargaHorariaPratica": null,
+    "ListaPrequisitos": [
+      {
+        "Id": 41614,
+        "Codigo": "2701.000.217-2",
+        "Descricao": "ANATOMIA GERAL E ODONTOLÓGICA II",
+        "Semestre": "0",
+        "Apelido": "ANATOMIA GERAL E ODONTOLÓGICA II",
+        "CargaHorariaTeorico": 0,
+        "CargaHorariaPratica": 0,
+        "ListaPrequisitos": []
+      }
+    ]
+  },
+  {
+    "Id": 45294,
+    "Codigo": "1104.000.113-9",
+    "Tipo": "OBR",
+    "Descricao": "ANESTESIOLOGIA E TERAPÊUTICA",
+    "Semestre": 5,
+    "Apelido": "ANESTESIOLOGIA E TERAPÊUTICA",
+    "CargaHorariaTeorico": 51,
+    "CargaHorariaPratica": null,
+    "ListaPrequisitos": [
+      {
+        "Id": 41614,
+        "Codigo": "2701.000.217-2",
+        "Descricao": "ANATOMIA GERAL E ODONTOLÓGICA II",
+        "Semestre": "0",
+        "Apelido": "ANATOMIA GERAL E ODONTOLÓGICA II",
+        "CargaHorariaTeorico": 0,
+        "CargaHorariaPratica": 0,
+        "ListaPrequisitos": []
+      },
+      {
+        "Id": 45862,
+        "Codigo": "2601.000.334-6",
+        "Descricao": "FARMACOLOGIA",
+        "Semestre": "0",
+        "Apelido": "FARMACOLOGIA",
+        "CargaHorariaTeorico": 0,
+        "CargaHorariaPratica": 0,
+        "ListaPrequisitos": []
+      }
+    ]
+  },
+  {
+    "Id": 51786,
+    "Codigo": "1104.000.133-5",
+    "Tipo": "OBR",
+    "Descricao": "BIOMATERIAIS II",
+    "Semestre": 5,
+    "Apelido": "BIOMATERIAIS II",
+    "CargaHorariaTeorico": 51,
+    "CargaHorariaPratica": null,
+    "ListaPrequisitos": [
+      {
+        "Id": 51799,
+        "Codigo": "1104.000.146-0",
+        "Descricao": "BIOMATERIAIS I",
+        "Semestre": "0",
+        "Apelido": "BIOMATERIAIS I",
+        "CargaHorariaTeorico": 0,
+        "CargaHorariaPratica": 0,
+        "ListaPrequisitos": []
+      }
+    ]
+  },
+  {
+    "Id": 51793,
+    "Codigo": "1104.000.140-6",
+    "Tipo": "OBR",
+    "Descricao": "DENTÍSTICA PRÉ-CLÍNICA II",
+    "Semestre": 5,
+    "Apelido": "DENTÍSTICA PRÉ-CLÍNICA II",
+    "CargaHorariaTeorico": 68,
+    "CargaHorariaPratica": null,
+    "ListaPrequisitos": [
+      {
+        "Id": 51795,
+        "Codigo": "1104.000.142-4",
+        "Descricao": "DENTÍSTICA PRÉ-CLÍNICA I",
+        "Semestre": "0",
+        "Apelido": "DENTÍSTICA PRÉ-CLÍNICA I",
+        "CargaHorariaTeorico": 0,
+        "CargaHorariaPratica": 0,
+        "ListaPrequisitos": []
+      }
+    ]
+  },
+  {
+    "Id": 51798,
+    "Codigo": "1104.000.145-1",
+    "Tipo": "OBR",
+    "Descricao": "ERGONOMIA E BIOSSEGURANÇA EM ODONTOLOGIA",
+    "Semestre": 5,
+    "Apelido": "ERGONOMIA E BIOSSEGURANÇA EM ODONTOLOGIA",
+    "CargaHorariaTeorico": 34,
+    "CargaHorariaPratica": null,
+    "ListaPrequisitos": []
+  },
+  {
+    "Id": 45297,
+    "Codigo": "1104.000.116-6",
+    "Tipo": "OBR",
+    "Descricao": "ESTÁGIO OBRIGATÓRIO EM SAÚDE DA COMUNIDADE",
+    "Semestre": 5,
+    "Apelido": "ESTÁGIO OBRIGATÓRIO EM SAÚDE DA COMUNIDADE",
+    "CargaHorariaTeorico": 68,
+    "CargaHorariaPratica": null,
+    "ListaPrequisitos": [
+      {
+        "Id": 51787,
+        "Codigo": "1104.000.134-4",
+        "Descricao": "ODONTOLOGIA EM SAÚDE COLETIVA II",
+        "Semestre": "0",
+        "Apelido": "ODONTOLOGIA EM SAÚDE COLETIVA II",
+        "CargaHorariaTeorico": 0,
+        "CargaHorariaPratica": 0,
+        "ListaPrequisitos": []
+      }
+    ]
+  },
+  {
+    "Id": 51784,
+    "Codigo": "1104.000.131-7",
+    "Tipo": "OBR",
+    "Descricao": "ESTOMATOLOGIA II",
+    "Semestre": 5,
+    "Apelido": "ESTOMATOLOGIA II",
+    "CargaHorariaTeorico": 68,
+    "CargaHorariaPratica": null,
+    "ListaPrequisitos": [
+      {
+        "Id": 37695,
+        "Codigo": "1104.000.007-4",
+        "Descricao": "CARIOLOGIA",
+        "Semestre": "0",
+        "Apelido": "CARIOLOGIA",
+        "CargaHorariaTeorico": 0,
+        "CargaHorariaPratica": 0,
+        "ListaPrequisitos": []
+      },
+      {
+        "Id": 51792,
+        "Codigo": "1104.000.139-0",
+        "Descricao": "ESTOMATOLOGIA I",
+        "Semestre": "0",
+        "Apelido": "ESTOMATOLOGIA I",
+        "CargaHorariaTeorico": 0,
+        "CargaHorariaPratica": 0,
+        "ListaPrequisitos": []
+      }
+    ]
+  },
+  {
+    "Id": 51794,
+    "Codigo": "1104.000.141-5",
+    "Tipo": "OBR",
+    "Descricao": "LABORATÓRIO DE ENDODONTIA",
+    "Semestre": 5,
+    "Apelido": "LABORATÓRIO DE ENDODONTIA",
+    "CargaHorariaTeorico": 51,
+    "CargaHorariaPratica": null,
+    "ListaPrequisitos": [
+      {
+        "Id": 51779,
+        "Codigo": "1104.000.126-4",
+        "Descricao": "RADIOLOGIA I",
+        "Semestre": "0",
+        "Apelido": "RADIOLOGIA I",
+        "CargaHorariaTeorico": 0,
+        "CargaHorariaPratica": 0,
+        "ListaPrequisitos": []
+      }
+    ]
+  },
+  {
+    "Id": 51796,
+    "Codigo": "1104.000.143-3",
+    "Tipo": "OBR",
+    "Descricao": "PERIODONTIA PRÉ-CLÍNICA",
+    "Semestre": 5,
+    "Apelido": "PERIODONTIA PRÉ-CLÍNICA",
+    "CargaHorariaTeorico": 34,
+    "CargaHorariaPratica": null,
+    "ListaPrequisitos": [
+      {
+        "Id": 41614,
+        "Codigo": "2701.000.217-2",
+        "Descricao": "ANATOMIA GERAL E ODONTOLÓGICA II",
+        "Semestre": "0",
+        "Apelido": "ANATOMIA GERAL E ODONTOLÓGICA II",
+        "CargaHorariaTeorico": 0,
+        "CargaHorariaPratica": 0,
+        "ListaPrequisitos": []
+      },
+      {
+        "Id": 51781,
+        "Codigo": "1104.000.128-2",
+        "Descricao": "PATOLOGIA ORAL E MAXILOFACIAL",
+        "Semestre": "0",
+        "Apelido": "PATOLOGIA ORAL E MAXILOFACIAL",
+        "CargaHorariaTeorico": 0,
+        "CargaHorariaPratica": 0,
+        "ListaPrequisitos": []
+      }
+    ]
+  },
+  {
+    "Id": 51797,
+    "Codigo": "1104.000.144-2",
+    "Tipo": "OBR",
+    "Descricao": "RADIOLOGIA II",
+    "Semestre": 5,
+    "Apelido": "RADIOLOGIA II",
+    "CargaHorariaTeorico": 51,
+    "CargaHorariaPratica": null,
+    "ListaPrequisitos": [
+      {
+        "Id": 51779,
+        "Codigo": "1104.000.126-4",
+        "Descricao": "RADIOLOGIA I",
+        "Semestre": "0",
+        "Apelido": "RADIOLOGIA I",
+        "CargaHorariaTeorico": 0,
+        "CargaHorariaPratica": 0,
+        "ListaPrequisitos": []
+      },
+      {
+        "Id": 51781,
+        "Codigo": "1104.000.128-2",
+        "Descricao": "PATOLOGIA ORAL E MAXILOFACIAL",
+        "Semestre": "0",
+        "Apelido": "PATOLOGIA ORAL E MAXILOFACIAL",
+        "CargaHorariaTeorico": 0,
+        "CargaHorariaPratica": 0,
+        "ListaPrequisitos": []
+      }
+    ]
+  },
+  {
+    "Id": 51803,
+    "Codigo": "1104.000.150-4",
+    "Tipo": "OBR",
+    "Descricao": "CLÍNICA INTEGRADA I (FASE DE ADEQUAÇÃO I)",
+    "Semestre": 6,
+    "Apelido": "CLÍNICA INTEGRADA I (FASE DE ADEQUAÇÃO I)",
+    "CargaHorariaTeorico": 340,
+    "CargaHorariaPratica": null,
+    "ListaPrequisitos": [
+      {
+        "Id": 42899,
+        "Codigo": "3001.000.297-0",
+        "Descricao": "PSICOLOGIA APLICADA À ODONTOLOGIA",
+        "Semestre": "0",
+        "Apelido": "PSICOLOGIA APLICADA À ODONTOLOGIA",
+        "CargaHorariaTeorico": 0,
+        "CargaHorariaPratica": 0,
+        "ListaPrequisitos": []
+      },
+      {
+        "Id": 45294,
+        "Codigo": "1104.000.113-9",
+        "Descricao": "ANESTESIOLOGIA E TERAPÊUTICA",
+        "Semestre": "0",
+        "Apelido": "ANESTESIOLOGIA E TERAPÊUTICA",
+        "CargaHorariaTeorico": 0,
+        "CargaHorariaPratica": 0,
+        "ListaPrequisitos": []
+      },
+      {
+        "Id": 45297,
+        "Codigo": "1104.000.116-6",
+        "Descricao": "ESTÁGIO OBRIGATÓRIO EM SAÚDE DA COMUNIDADE",
+        "Semestre": "0",
+        "Apelido": "ESTÁGIO OBRIGATÓRIO EM SAÚDE DA COMUNIDADE",
+        "CargaHorariaTeorico": 0,
+        "CargaHorariaPratica": 0,
+        "ListaPrequisitos": []
+      },
+      {
+        "Id": 45860,
+        "Codigo": "1104.000.122-8",
+        "Descricao": "ÉTICA E BIOÉTICA",
+        "Semestre": "0",
+        "Apelido": "ÉTICA E BIOÉTICA",
+        "CargaHorariaTeorico": 0,
+        "CargaHorariaPratica": 0,
+        "ListaPrequisitos": []
+      },
+      {
+        "Id": 51778,
+        "Codigo": "3001.000.730-7",
+        "Descricao": "PRINCÍPIOS DE SOCIOLOGIA",
+        "Semestre": "0",
+        "Apelido": "PRINCÍPIOS DE SOCIOLOGIA",
+        "CargaHorariaTeorico": 0,
+        "CargaHorariaPratica": 0,
+        "ListaPrequisitos": []
+      },
+      {
+        "Id": 51784,
+        "Codigo": "1104.000.131-7",
+        "Descricao": "ESTOMATOLOGIA II",
+        "Semestre": "0",
+        "Apelido": "ESTOMATOLOGIA II",
+        "CargaHorariaTeorico": 0,
+        "CargaHorariaPratica": 0,
+        "ListaPrequisitos": []
+      },
+      {
+        "Id": 51786,
+        "Codigo": "1104.000.133-5",
+        "Descricao": "BIOMATERIAIS II",
+        "Semestre": "0",
+        "Apelido": "BIOMATERIAIS II",
+        "CargaHorariaTeorico": 0,
+        "CargaHorariaPratica": 0,
+        "ListaPrequisitos": []
+      },
+      {
+        "Id": 51793,
+        "Codigo": "1104.000.140-6",
+        "Descricao": "DENTÍSTICA PRÉ-CLÍNICA II",
+        "Semestre": "0",
+        "Apelido": "DENTÍSTICA PRÉ-CLÍNICA II",
+        "CargaHorariaTeorico": 0,
+        "CargaHorariaPratica": 0,
+        "ListaPrequisitos": []
+      },
+      {
+        "Id": 51794,
+        "Codigo": "1104.000.141-5",
+        "Descricao": "LABORATÓRIO DE ENDODONTIA",
+        "Semestre": "0",
+        "Apelido": "LABORATÓRIO DE ENDODONTIA",
+        "CargaHorariaTeorico": 0,
+        "CargaHorariaPratica": 0,
+        "ListaPrequisitos": []
+      },
+      {
+        "Id": 51796,
+        "Codigo": "1104.000.143-3",
+        "Descricao": "PERIODONTIA PRÉ-CLÍNICA",
+        "Semestre": "0",
+        "Apelido": "PERIODONTIA PRÉ-CLÍNICA",
+        "CargaHorariaTeorico": 0,
+        "CargaHorariaPratica": 0,
+        "ListaPrequisitos": []
+      },
+      {
+        "Id": 51797,
+        "Codigo": "1104.000.144-2",
+        "Descricao": "RADIOLOGIA II",
+        "Semestre": "0",
+        "Apelido": "RADIOLOGIA II",
+        "CargaHorariaTeorico": 0,
+        "CargaHorariaPratica": 0,
+        "ListaPrequisitos": []
+      },
+      {
+        "Id": 51798,
+        "Codigo": "1104.000.145-1",
+        "Descricao": "ERGONOMIA E BIOSSEGURANÇA EM ODONTOLOGIA",
+        "Semestre": "0",
+        "Apelido": "ERGONOMIA E BIOSSEGURANÇA EM ODONTOLOGIA",
+        "CargaHorariaTeorico": 0,
+        "CargaHorariaPratica": 0,
+        "ListaPrequisitos": []
+      }
+    ]
+  },
+  {
+    "Id": 51804,
+    "Codigo": "1104.000.151-3",
+    "Tipo": "OBR",
+    "Descricao": "METODOLOGIA CIENTÍFICA I",
+    "Semestre": 6,
+    "Apelido": "METODOLOGIA CIENTÍFICA I",
+    "CargaHorariaTeorico": 51,
+    "CargaHorariaPratica": null,
+    "ListaPrequisitos": []
+  },
+  {
+    "Id": 37713,
+    "Codigo": "1104.000.024-4",
+    "Tipo": "OBR",
+    "Descricao": "ORTODONTIA PREVENTIVA E PRINCÍPIOS DE ORTODONTIA INTERCEPTATIVA I",
+    "Semestre": 6,
+    "Apelido": "ORTODONTIA PREVENTIVA E PRINCÍPIOS DE ORTODONTIA INTERCEPTATIVA I",
+    "CargaHorariaTeorico": 68,
+    "CargaHorariaPratica": null,
+    "ListaPrequisitos": [
+      {
+        "Id": 51797,
+        "Codigo": "1104.000.144-2",
+        "Descricao": "RADIOLOGIA II",
+        "Semestre": "0",
+        "Apelido": "RADIOLOGIA II",
+        "CargaHorariaTeorico": 0,
+        "CargaHorariaPratica": 0,
+        "ListaPrequisitos": []
+      }
+    ]
+  },
+  {
+    "Id": 51809,
+    "Codigo": "1104.000.156-9",
+    "Tipo": "OBR",
+    "Descricao": "CLÍNICA INTEGRADA II (FASE DE ADEQUAÇÃO II )",
+    "Semestre": 7,
+    "Apelido": "CLÍNICA INTEGRADA II (FASE DE ADEQUAÇÃO II )",
+    "CargaHorariaTeorico": 323,
+    "CargaHorariaPratica": null,
+    "ListaPrequisitos": [
+      {
+        "Id": 51803,
+        "Codigo": "1104.000.150-4",
+        "Descricao": "CLÍNICA INTEGRADA I (FASE DE ADEQUAÇÃO I)",
+        "Semestre": "0",
+        "Apelido": "CLÍNICA INTEGRADA I (FASE DE ADEQUAÇÃO I)",
+        "CargaHorariaTeorico": 0,
+        "CargaHorariaPratica": 0,
+        "ListaPrequisitos": []
+      }
+    ]
+  },
+  {
+    "Id": 51806,
+    "Codigo": "1104.000.153-1",
+    "Tipo": "OBR",
+    "Descricao": "LABORATÓRIO DE PRÓTESES",
+    "Semestre": 7,
+    "Apelido": "LABORATÓRIO DE PRÓTESES",
+    "CargaHorariaTeorico": 51,
+    "CargaHorariaPratica": null,
+    "ListaPrequisitos": [
+      {
+        "Id": 51803,
+        "Codigo": "1104.000.150-4",
+        "Descricao": "CLÍNICA INTEGRADA I (FASE DE ADEQUAÇÃO I)",
+        "Semestre": "0",
+        "Apelido": "CLÍNICA INTEGRADA I (FASE DE ADEQUAÇÃO I)",
+        "CargaHorariaTeorico": 0,
+        "CargaHorariaPratica": 0,
+        "ListaPrequisitos": []
+      }
+    ]
+  },
+  {
+    "Id": 51807,
+    "Codigo": "1104.000.154-0",
+    "Tipo": "OBR",
+    "Descricao": "METODOLOGIA CIENTÍFICA II",
+    "Semestre": 7,
+    "Apelido": "METODOLOGIA CIENTÍFICA II",
+    "CargaHorariaTeorico": 34,
+    "CargaHorariaPratica": null,
+    "ListaPrequisitos": [
+      {
+        "Id": 41612,
+        "Codigo": "2801.000.089-5",
+        "Descricao": "EPIDEMIOLOGIA E BIOESTATÍSTICA",
+        "Semestre": "0",
+        "Apelido": "EPIDEMIOLOGIA E BIOESTATÍSTICA",
+        "CargaHorariaTeorico": 0,
+        "CargaHorariaPratica": 0,
+        "ListaPrequisitos": []
+      },
+      {
+        "Id": 51804,
+        "Codigo": "1104.000.151-3",
+        "Descricao": "METODOLOGIA CIENTÍFICA I",
+        "Semestre": "0",
+        "Apelido": "METODOLOGIA CIENTÍFICA I",
+        "CargaHorariaTeorico": 0,
+        "CargaHorariaPratica": 0,
+        "ListaPrequisitos": []
+      }
+    ]
+  },
+  {
+    "Id": 39409,
+    "Codigo": "1104.000.069-4",
+    "Tipo": "OBR",
+    "Descricao": "ORTODONTIA PREVENTIVA E PRINCÍPIOS DE ORTODONTIA INTERCEPTATIVA II",
+    "Semestre": 7,
+    "Apelido": "ORTODONTIA PREVENTIVA E PRINCÍPIOS DE ORTODONTIA INTERCEPTATIVA II",
+    "CargaHorariaTeorico": 68,
+    "CargaHorariaPratica": null,
+    "ListaPrequisitos": [
+      {
+        "Id": 37713,
+        "Codigo": "1104.000.024-4",
+        "Descricao": "ORTODONTIA PREVENTIVA E PRINCÍPIOS DE ORTODONTIA INTERCEPTATIVA I",
+        "Semestre": "0",
+        "Apelido": "ORTODONTIA PREVENTIVA E PRINCÍPIOS DE ORTODONTIA INTERCEPTATIVA I",
+        "CargaHorariaTeorico": 0,
+        "CargaHorariaPratica": 0,
+        "ListaPrequisitos": []
+      },
+      {
+        "Id": 51783,
+        "Codigo": "1104.000.130-8",
+        "Descricao": "OCLUSÃO",
+        "Semestre": "0",
+        "Apelido": "OCLUSÃO",
+        "CargaHorariaTeorico": 0,
+        "CargaHorariaPratica": 0,
+        "ListaPrequisitos": []
+      },
+      {
+        "Id": 51784,
+        "Codigo": "1104.000.131-7",
+        "Descricao": "ESTOMATOLOGIA II",
+        "Semestre": "0",
+        "Apelido": "ESTOMATOLOGIA II",
+        "CargaHorariaTeorico": 0,
+        "CargaHorariaPratica": 0,
+        "ListaPrequisitos": []
+      },
+      {
+        "Id": 51797,
+        "Codigo": "1104.000.144-2",
+        "Descricao": "RADIOLOGIA II",
+        "Semestre": "0",
+        "Apelido": "RADIOLOGIA II",
+        "CargaHorariaTeorico": 0,
+        "CargaHorariaPratica": 0,
+        "ListaPrequisitos": []
+      }
+    ]
+  },
+  {
+    "Id": 51814,
+    "Codigo": "1104.000.161-1",
+    "Tipo": "OBR",
+    "Descricao": "ESTÁGIO OBRIGATÓRIO EM CLÍNICA INTEGRADA I (FASE DE REABILITAÇÃO I)",
+    "Semestre": 8,
+    "Apelido": "ESTÁGIO OBRIGATÓRIO EM CLÍNICA INTEGRADA I (FASE DE REABILITAÇÃO I)",
+    "CargaHorariaTeorico": 272,
+    "CargaHorariaPratica": null,
+    "ListaPrequisitos": [
+      {
+        "Id": 51806,
+        "Codigo": "1104.000.153-1",
+        "Descricao": "LABORATÓRIO DE PRÓTESES",
+        "Semestre": "0",
+        "Apelido": "LABORATÓRIO DE PRÓTESES",
+        "CargaHorariaTeorico": 0,
+        "CargaHorariaPratica": 0,
+        "ListaPrequisitos": []
+      },
+      {
+        "Id": 51809,
+        "Codigo": "1104.000.156-9",
+        "Descricao": "CLÍNICA INTEGRADA II (FASE DE ADEQUAÇÃO II )",
+        "Semestre": "0",
+        "Apelido": "CLÍNICA INTEGRADA II (FASE DE ADEQUAÇÃO II )",
+        "CargaHorariaTeorico": 0,
+        "CargaHorariaPratica": 0,
+        "ListaPrequisitos": []
+      }
+    ]
+  },
+  {
+    "Id": 51801,
+    "Codigo": "1104.000.148-9",
+    "Tipo": "OBR",
+    "Descricao": "ODONTOGERIATRIA E PRINCÍPIOS DE IMPLANTODONTIA ORAL",
+    "Semestre": 8,
+    "Apelido": "ODONTOGERIATRIA E PRINCÍPIOS DE IMPLANTODONTIA ORAL",
+    "CargaHorariaTeorico": 34,
+    "CargaHorariaPratica": null,
+    "ListaPrequisitos": [
+      {
+        "Id": 51809,
+        "Codigo": "1104.000.156-9",
+        "Descricao": "CLÍNICA INTEGRADA II (FASE DE ADEQUAÇÃO II )",
+        "Semestre": "0",
+        "Apelido": "CLÍNICA INTEGRADA II (FASE DE ADEQUAÇÃO II )",
+        "CargaHorariaTeorico": 0,
+        "CargaHorariaPratica": 0,
+        "ListaPrequisitos": []
+      }
+    ]
+  },
+  {
+    "Id": 51800,
+    "Codigo": "1104.000.147-0",
+    "Tipo": "OBR",
+    "Descricao": "ODONTOLOGIA LEGAL E DO TRABALHO",
+    "Semestre": 8,
+    "Apelido": "ODONTOLOGIA LEGAL E DO TRABALHO",
+    "CargaHorariaTeorico": 51,
+    "CargaHorariaPratica": null,
+    "ListaPrequisitos": [
+      {
+        "Id": 51809,
+        "Codigo": "1104.000.156-9",
+        "Descricao": "CLÍNICA INTEGRADA II (FASE DE ADEQUAÇÃO II )",
+        "Semestre": "0",
+        "Apelido": "CLÍNICA INTEGRADA II (FASE DE ADEQUAÇÃO II )",
+        "CargaHorariaTeorico": 0,
+        "CargaHorariaPratica": 0,
+        "ListaPrequisitos": []
+      }
+    ]
+  },
+  {
+    "Id": 45298,
+    "Codigo": "1104.000.117-5",
+    "Tipo": "OBR",
+    "Descricao": "ESTÁGIO OBRIGATÓRIO EM CLINICA DE ODONTOLOGIA DE SAÚDE COLETIVA I",
+    "Semestre": 9,
+    "Apelido": "ESTÁGIO OBRIGATÓRIO EM CLINICA DE ODONTOLOGIA DE SAÚDE COLETIVA I",
+    "CargaHorariaTeorico": 68,
+    "CargaHorariaPratica": null,
+    "ListaPrequisitos": [
+      {
+        "Id": 51814,
+        "Codigo": "1104.000.161-1",
+        "Descricao": "ESTÁGIO OBRIGATÓRIO EM CLÍNICA INTEGRADA I (FASE DE REABILITAÇÃO I)",
+        "Semestre": "0",
+        "Apelido": "ESTÁGIO OBRIGATÓRIO EM CLÍNICA INTEGRADA I (FASE DE REABILITAÇÃO I)",
+        "CargaHorariaTeorico": 0,
+        "CargaHorariaPratica": 0,
+        "ListaPrequisitos": []
+      }
+    ]
+  },
+  {
+    "Id": 51810,
+    "Codigo": "1104.000.157-8",
+    "Tipo": "OBR",
+    "Descricao": "ESTÁGIO OBRIGATÓRIO EM CLÍNICA INTEGRADA II (FASE DE REABILITAÇÃO II )",
+    "Semestre": 9,
+    "Apelido": "ESTÁGIO OBRIGATÓRIO EM CLÍNICA INTEGRADA II (FASE DE REABILITAÇÃO II )",
+    "CargaHorariaTeorico": 306,
+    "CargaHorariaPratica": null,
+    "ListaPrequisitos": [
+      {
+        "Id": 51814,
+        "Codigo": "1104.000.161-1",
+        "Descricao": "ESTÁGIO OBRIGATÓRIO EM CLÍNICA INTEGRADA I (FASE DE REABILITAÇÃO I)",
+        "Semestre": "0",
+        "Apelido": "ESTÁGIO OBRIGATÓRIO EM CLÍNICA INTEGRADA I (FASE DE REABILITAÇÃO I)",
+        "CargaHorariaTeorico": 0,
+        "CargaHorariaPratica": 0,
+        "ListaPrequisitos": []
+      }
+    ]
+  },
+  {
+    "Id": 51805,
+    "Codigo": "1104.000.152-2",
+    "Tipo": "OBR",
+    "Descricao": "ODONTOLOGIA INCLUSIVA PARA PESSOAS COM DEFICIÊNCIAS E DOENÇAS SISTÊMICAS",
+    "Semestre": 9,
+    "Apelido": "ODONTOLOGIA INCLUSIVA PARA PESSOAS COM DEFICIÊNCIAS E DOENÇAS SISTÊMICAS",
+    "CargaHorariaTeorico": 102,
+    "CargaHorariaPratica": null,
+    "ListaPrequisitos": [
+      {
+        "Id": 51814,
+        "Codigo": "1104.000.161-1",
+        "Descricao": "ESTÁGIO OBRIGATÓRIO EM CLÍNICA INTEGRADA I (FASE DE REABILITAÇÃO I)",
+        "Semestre": "0",
+        "Apelido": "ESTÁGIO OBRIGATÓRIO EM CLÍNICA INTEGRADA I (FASE DE REABILITAÇÃO I)",
+        "CargaHorariaTeorico": 0,
+        "CargaHorariaPratica": 0,
+        "ListaPrequisitos": []
+      }
+    ]
+  },
+  {
+    "Id": 51782,
+    "Codigo": "1104.000.129-1",
+    "Tipo": "OBR",
+    "Descricao": "ODONTOPEDIATRIA",
+    "Semestre": 9,
+    "Apelido": "ODONTOPEDIATRIA",
+    "CargaHorariaTeorico": 102,
+    "CargaHorariaPratica": null,
+    "ListaPrequisitos": [
+      {
+        "Id": 51814,
+        "Codigo": "1104.000.161-1",
+        "Descricao": "ESTÁGIO OBRIGATÓRIO EM CLÍNICA INTEGRADA I (FASE DE REABILITAÇÃO I)",
+        "Semestre": "0",
+        "Apelido": "ESTÁGIO OBRIGATÓRIO EM CLÍNICA INTEGRADA I (FASE DE REABILITAÇÃO I)",
+        "CargaHorariaTeorico": 0,
+        "CargaHorariaPratica": 0,
+        "ListaPrequisitos": []
+      }
+    ]
+  },
+  {
+    "Id": 45281,
+    "Codigo": "1104.000.102-1",
+    "Tipo": "OBR",
+    "Descricao": "ESTÁGIO OBRIGATÓRIO EM CLINICA DE ODONTOLOGIA DE SAÚDE COLETIVA II",
+    "Semestre": 10,
+    "Apelido": "ESTÁGIO OBRIGATÓRIO EM CLINICA DE ODONTOLOGIA DE SAÚDE COLETIVA II",
+    "CargaHorariaTeorico": 68,
+    "CargaHorariaPratica": null,
+    "ListaPrequisitos": [
+      {
+        "Id": 45298,
+        "Codigo": "1104.000.117-5",
+        "Descricao": "ESTÁGIO OBRIGATÓRIO EM CLINICA DE ODONTOLOGIA DE SAÚDE COLETIVA I",
+        "Semestre": "0",
+        "Apelido": "ESTÁGIO OBRIGATÓRIO EM CLINICA DE ODONTOLOGIA DE SAÚDE COLETIVA I",
+        "CargaHorariaTeorico": 0,
+        "CargaHorariaPratica": 0,
+        "ListaPrequisitos": []
+      }
+    ]
+  },
+  {
+    "Id": 51789,
+    "Codigo": "1104.000.136-2",
+    "Tipo": "OBR",
+    "Descricao": "ESTÁGIO OBRIGATÓRIO EM CLÍNICA INFANTIL",
+    "Semestre": 10,
+    "Apelido": "ESTÁGIO OBRIGATÓRIO EM CLÍNICA INFANTIL",
+    "CargaHorariaTeorico": 68,
+    "CargaHorariaPratica": null,
+    "ListaPrequisitos": [
+      {
+        "Id": 51782,
+        "Codigo": "1104.000.129-1",
+        "Descricao": "ODONTOPEDIATRIA",
+        "Semestre": "0",
+        "Apelido": "ODONTOPEDIATRIA",
+        "CargaHorariaTeorico": 0,
+        "CargaHorariaPratica": 0,
+        "ListaPrequisitos": []
+      }
+    ]
+  },
+  {
+    "Id": 51811,
+    "Codigo": "1104.000.158-7",
+    "Tipo": "OBR",
+    "Descricao": "ESTÁGIO OBRIGATÓRIO EM CLÍNICA INTEGRADA III (ALTA COMPLEXIDADE)",
+    "Semestre": 10,
+    "Apelido": "ESTÁGIO OBRIGATÓRIO EM CLÍNICA INTEGRADA III (ALTA COMPLEXIDADE)",
+    "CargaHorariaTeorico": 136,
+    "CargaHorariaPratica": null,
+    "ListaPrequisitos": [
+      {
+        "Id": 39409,
+        "Codigo": "1104.000.069-4",
+        "Descricao": "ORTODONTIA PREVENTIVA E PRINCÍPIOS DE ORTODONTIA INTERCEPTATIVA II",
+        "Semestre": "0",
+        "Apelido": "ORTODONTIA PREVENTIVA E PRINCÍPIOS DE ORTODONTIA INTERCEPTATIVA II",
+        "CargaHorariaTeorico": 0,
+        "CargaHorariaPratica": 0,
+        "ListaPrequisitos": []
+      },
+      {
+        "Id": 51810,
+        "Codigo": "1104.000.157-8",
+        "Descricao": "ESTÁGIO OBRIGATÓRIO EM CLÍNICA INTEGRADA II (FASE DE REABILITAÇÃO II )",
+        "Semestre": "0",
+        "Apelido": "ESTÁGIO OBRIGATÓRIO EM CLÍNICA INTEGRADA II (FASE DE REABILITAÇÃO II )",
+        "CargaHorariaTeorico": 0,
+        "CargaHorariaPratica": 0,
+        "ListaPrequisitos": []
+      }
+    ]
+  },
+  {
+    "Id": 51802,
+    "Codigo": "1104.000.149-8",
+    "Tipo": "OBR",
+    "Descricao": "ESTÁGIO OBRIGATÓRIO EM ODONTOLOGIA INCLUSIVA PARA PESSOAS COM DEFICIÊNCIAS E DOENÇAS SISTÊMICAS",
+    "Semestre": 10,
+    "Apelido": "ESTÁGIO OBRIGATÓRIO EM ODONTOLOGIA INCLUSIVA PARA PESSOAS COM DEFICIÊNCIAS E DOENÇAS SISTÊMICAS",
+    "CargaHorariaTeorico": 51,
+    "CargaHorariaPratica": null,
+    "ListaPrequisitos": [
+      {
+        "Id": 51805,
+        "Codigo": "1104.000.152-2",
+        "Descricao": "ODONTOLOGIA INCLUSIVA PARA PESSOAS COM DEFICIÊNCIAS E DOENÇAS SISTÊMICAS",
+        "Semestre": "0",
+        "Apelido": "ODONTOLOGIA INCLUSIVA PARA PESSOAS COM DEFICIÊNCIAS E DOENÇAS SISTÊMICAS",
+        "CargaHorariaTeorico": 0,
+        "CargaHorariaPratica": 0,
+        "ListaPrequisitos": []
+      }
+    ]
+  },
+  {
+    "Id": 51785,
+    "Codigo": "1104.000.132-6",
+    "Tipo": "OBR",
+    "Descricao": "ESTÁGIO OBRIGATÓRIO EM ODONTOLOGIA PARA BEBÊS",
+    "Semestre": 10,
+    "Apelido": "ESTÁGIO OBRIGATÓRIO EM ODONTOLOGIA PARA BEBÊS",
+    "CargaHorariaTeorico": 51,
+    "CargaHorariaPratica": null,
+    "ListaPrequisitos": [
+      {
+        "Id": 51782,
+        "Codigo": "1104.000.129-1",
+        "Descricao": "ODONTOPEDIATRIA",
+        "Semestre": "0",
+        "Apelido": "ODONTOPEDIATRIA",
+        "CargaHorariaTeorico": 0,
+        "CargaHorariaPratica": 0,
+        "ListaPrequisitos": []
+      }
+    ]
+  },
+  {
+    "Id": 51780,
+    "Codigo": "1104.000.127-3",
+    "Tipo": "OPT",
+    "Descricao": "ABORDAGEM CLÍNICA AO TRAUMATISMO DENTAL",
+    "Semestre": 99,
+    "Apelido": "ABORDAGEM CLÍNICA AO TRAUMATISMO DENTAL",
+    "CargaHorariaTeorico": 34,
+    "CargaHorariaPratica": null,
+    "ListaPrequisitos": [
+      {
+        "Id": 37713,
+        "Codigo": "1104.000.024-4",
+        "Descricao": "ORTODONTIA PREVENTIVA E PRINCÍPIOS DE ORTODONTIA INTERCEPTATIVA I",
+        "Semestre": "0",
+        "Apelido": "ORTODONTIA PREVENTIVA E PRINCÍPIOS DE ORTODONTIA INTERCEPTATIVA I",
+        "CargaHorariaTeorico": 0,
+        "CargaHorariaPratica": 0,
+        "ListaPrequisitos": []
+      },
+      {
+        "Id": 51803,
+        "Codigo": "1104.000.150-4",
+        "Descricao": "CLÍNICA INTEGRADA I (FASE DE ADEQUAÇÃO I)",
+        "Semestre": "0",
+        "Apelido": "CLÍNICA INTEGRADA I (FASE DE ADEQUAÇÃO I)",
+        "CargaHorariaTeorico": 0,
+        "CargaHorariaPratica": 0,
+        "ListaPrequisitos": []
+      }
+    ]
+  },
+  {
+    "Id": 41623,
+    "Codigo": "2601.000.185-2",
+    "Tipo": "OPT",
+    "Descricao": "BIOFÍSICA",
+    "Semestre": 99,
+    "Apelido": "BIOFÍSICA",
+    "CargaHorariaTeorico": 34,
+    "CargaHorariaPratica": null,
+    "ListaPrequisitos": []
+  },
+  {
+    "Id": 31586,
+    "Codigo": "2101.000.077-4",
+    "Tipo": "OPT",
+    "Descricao": "CIÊNCIAS DO AMBIENTE",
+    "Semestre": 99,
+    "Apelido": "CIÊNCIAS DO AMBIENTE",
+    "CargaHorariaTeorico": 34,
+    "CargaHorariaPratica": null,
+    "ListaPrequisitos": []
+  },
+  {
+    "Id": 51813,
+    "Codigo": "1104.000.160-2",
+    "Tipo": "OPT",
+    "Descricao": "CIRURGIA AVANÇADA",
+    "Semestre": 99,
+    "Apelido": "CIRURGIA AVANÇADA",
+    "CargaHorariaTeorico": 51,
+    "CargaHorariaPratica": null,
+    "ListaPrequisitos": [
+      {
+        "Id": 51814,
+        "Codigo": "1104.000.161-1",
+        "Descricao": "ESTÁGIO OBRIGATÓRIO EM CLÍNICA INTEGRADA I (FASE DE REABILITAÇÃO I)",
+        "Semestre": "0",
+        "Apelido": "ESTÁGIO OBRIGATÓRIO EM CLÍNICA INTEGRADA I (FASE DE REABILITAÇÃO I)",
+        "CargaHorariaTeorico": 0,
+        "CargaHorariaPratica": 0,
+        "ListaPrequisitos": []
+      }
+    ]
+  },
+  {
+    "Id": 51812,
+    "Codigo": "1104.000.159-6",
+    "Tipo": "OPT",
+    "Descricao": "DENTÍSTICA AVANÇADA",
+    "Semestre": 99,
+    "Apelido": "DENTÍSTICA AVANÇADA",
+    "CargaHorariaTeorico": 51,
+    "CargaHorariaPratica": null,
+    "ListaPrequisitos": [
+      {
+        "Id": 51810,
+        "Codigo": "1104.000.157-8",
+        "Descricao": "ESTÁGIO OBRIGATÓRIO EM CLÍNICA INTEGRADA II (FASE DE REABILITAÇÃO II )",
+        "Semestre": "0",
+        "Apelido": "ESTÁGIO OBRIGATÓRIO EM CLÍNICA INTEGRADA II (FASE DE REABILITAÇÃO II )",
+        "CargaHorariaTeorico": 0,
+        "CargaHorariaPratica": 0,
+        "ListaPrequisitos": []
+      }
+    ]
+  },
+  {
+    "Id": 51808,
+    "Codigo": "1104.000.155-0",
+    "Tipo": "OPT",
+    "Descricao": "DOR OROFACIAL E DISFUNÇÃO TEMPOROMANDIBULAR",
+    "Semestre": 99,
+    "Apelido": "DOR OROFACIAL E DISFUNÇÃO TEMPOROMANDIBULAR",
+    "CargaHorariaTeorico": 34,
+    "CargaHorariaPratica": null,
+    "ListaPrequisitos": [
+      {
+        "Id": 51783,
+        "Codigo": "1104.000.130-8",
+        "Descricao": "OCLUSÃO",
+        "Semestre": "0",
+        "Apelido": "OCLUSÃO",
+        "CargaHorariaTeorico": 0,
+        "CargaHorariaPratica": 0,
+        "ListaPrequisitos": []
+      }
+    ]
+  },
+  {
+    "Id": 41760,
+    "Codigo": "3001.000.004-8",
+    "Tipo": "OPT",
+    "Descricao": "EDUCAÇÃO DAS RELAÇÕES ÉTNICO-RACIAIS",
+    "Semestre": 99,
+    "Apelido": "EDUCAÇÃO DAS RELAÇÕES ÉTNICO-RACIAIS",
+    "CargaHorariaTeorico": 34,
+    "CargaHorariaPratica": null,
+    "ListaPrequisitos": []
+  },
+  {
+    "Id": 45293,
+    "Codigo": "1104.000.112-0",
+    "Tipo": "OPT",
+    "Descricao": "ELABORAÇÃO DE ARTIGO CIENTÍFICO",
+    "Semestre": 99,
+    "Apelido": "ELABORAÇÃO DE ARTIGO CIENTÍFICO",
+    "CargaHorariaTeorico": 34,
+    "CargaHorariaPratica": null,
+    "ListaPrequisitos": []
+  },
+  {
+    "Id": 41624,
+    "Codigo": "2701.000.226-1",
+    "Tipo": "OPT",
+    "Descricao": "ELABORAÇÃO DE TRABALHO CIENTÍFICO",
+    "Semestre": 99,
+    "Apelido": "ELABORAÇÃO DE TRABALHO CIENTÍFICO",
+    "CargaHorariaTeorico": 34,
+    "CargaHorariaPratica": null,
+    "ListaPrequisitos": []
+  },
+  {
+    "Id": 45292,
+    "Codigo": "1104.000.111-0",
+    "Tipo": "OPT",
+    "Descricao": "EMPREENDEDORISMO NA ODONTOLOGIA",
+    "Semestre": 99,
+    "Apelido": "EMPREENDEDORISMO NA ODONTOLOGIA",
+    "CargaHorariaTeorico": 51,
+    "CargaHorariaPratica": null,
+    "ListaPrequisitos": []
+  },
+  {
+    "Id": 45279,
+    "Codigo": "1104.000.100-3",
+    "Tipo": "OPT",
+    "Descricao": "ENDODONTIA AUTOMATIZADA",
+    "Semestre": 99,
+    "Apelido": "ENDODONTIA AUTOMATIZADA",
+    "CargaHorariaTeorico": 51,
+    "CargaHorariaPratica": null,
+    "ListaPrequisitos": [
+      {
+        "Id": 51809,
+        "Codigo": "1104.000.156-9",
+        "Descricao": "CLÍNICA INTEGRADA II (FASE DE ADEQUAÇÃO II )",
+        "Semestre": "0",
+        "Apelido": "CLÍNICA INTEGRADA II (FASE DE ADEQUAÇÃO II )",
+        "CargaHorariaTeorico": 0,
+        "CargaHorariaPratica": 0,
+        "ListaPrequisitos": []
+      }
+    ]
+  },
+  {
+    "Id": 42895,
+    "Codigo": "3101.000.284-7",
+    "Tipo": "OPT",
+    "Descricao": "ESTUDO DE LIBRAS",
+    "Semestre": 99,
+    "Apelido": "ESTUDO DE LIBRAS",
+    "CargaHorariaTeorico": 34,
+    "CargaHorariaPratica": null,
+    "ListaPrequisitos": []
+  },
+  {
+    "Id": 45861,
+    "Codigo": "2601.000.333-7",
+    "Tipo": "OPT",
+    "Descricao": "FARMACOLOGIA E TERAPÊUTICA AVANÇADA",
+    "Semestre": 99,
+    "Apelido": "FARMACOLOGIA E TERAPÊUTICA AVANÇADA",
+    "CargaHorariaTeorico": 51,
+    "CargaHorariaPratica": null,
+    "ListaPrequisitos": [
+      {
+        "Id": 45862,
+        "Codigo": "2601.000.334-6",
+        "Descricao": "FARMACOLOGIA",
+        "Semestre": "0",
+        "Apelido": "FARMACOLOGIA",
+        "CargaHorariaTeorico": 0,
+        "CargaHorariaPratica": 0,
+        "ListaPrequisitos": []
+      }
+    ]
+  },
+  {
+    "Id": 40956,
+    "Codigo": "1104.000.090-2",
+    "Tipo": "OPT",
+    "Descricao": "INTRODUÇÃO À METODOLOGIA CIENTÍFICA",
+    "Semestre": 99,
+    "Apelido": "INTRODUÇÃO À METODOLOGIA CIENTÍFICA",
+    "CargaHorariaTeorico": 34,
+    "CargaHorariaPratica": null,
+    "ListaPrequisitos": []
+  },
+  {
+    "Id": 51788,
+    "Codigo": "1104.000.135-3",
+    "Tipo": "OPT",
+    "Descricao": "ODONTOLOGIA HOSPITALAR",
+    "Semestre": 99,
+    "Apelido": "ODONTOLOGIA HOSPITALAR",
+    "CargaHorariaTeorico": 34,
+    "CargaHorariaPratica": null,
+    "ListaPrequisitos": [
+      {
+        "Id": 51809,
+        "Codigo": "1104.000.156-9",
+        "Descricao": "CLÍNICA INTEGRADA II (FASE DE ADEQUAÇÃO II )",
+        "Semestre": "0",
+        "Apelido": "CLÍNICA INTEGRADA II (FASE DE ADEQUAÇÃO II )",
+        "CargaHorariaTeorico": 0,
+        "CargaHorariaPratica": 0,
+        "ListaPrequisitos": []
+      }
+    ]
+  },
+  {
+    "Id": 45301,
+    "Codigo": "1104.000.119-3",
+    "Tipo": "OPT",
+    "Descricao": "SEMINÁRIOS CLÍNICOS INTEGRADOS",
+    "Semestre": 99,
+    "Apelido": "SEMINÁRIOS CLÍNICOS INTEGRADOS",
+    "CargaHorariaTeorico": 51,
+    "CargaHorariaPratica": null,
+    "ListaPrequisitos": [
+      {
+        "Id": 51809,
+        "Codigo": "1104.000.156-9",
+        "Descricao": "CLÍNICA INTEGRADA II (FASE DE ADEQUAÇÃO II )",
+        "Semestre": "0",
+        "Apelido": "CLÍNICA INTEGRADA II (FASE DE ADEQUAÇÃO II )",
+        "CargaHorariaTeorico": 0,
+        "CargaHorariaPratica": 0,
+        "ListaPrequisitos": []
+      }
+    ]
+  },
+  {
+    "Id": 45859,
+    "Codigo": "1104.000.121-9",
+    "Tipo": "OPT",
+    "Descricao": "TÓPICOS ESPECIAIS EM ODONTOLOGIA I",
+    "Semestre": 99,
+    "Apelido": "TÓPICOS ESPECIAIS EM ODONTOLOGIA I",
+    "CargaHorariaTeorico": 34,
+    "CargaHorariaPratica": null,
+    "ListaPrequisitos": []
+  },
+  {
+    "Id": 45863,
+    "Codigo": "1104.000.123-7",
+    "Tipo": "OPT",
+    "Descricao": "TÓPICOS ESPECIAIS EM ODONTOLOGIA II",
+    "Semestre": 99,
+    "Apelido": "TÓPICOS ESPECIAIS EM ODONTOLOGIA II",
+    "CargaHorariaTeorico": 34,
+    "CargaHorariaPratica": null,
+    "ListaPrequisitos": []
+  },
+  {
+    "Id": 45865,
+    "Codigo": "1104.000.125-5",
+    "Tipo": "OPT",
+    "Descricao": "TÓPICOS ESPECIAIS EM ODONTOLOGIA III",
+    "Semestre": 99,
+    "Apelido": "TÓPICOS ESPECIAIS EM ODONTOLOGIA III",
+    "CargaHorariaTeorico": 34,
+    "CargaHorariaPratica": null,
+    "ListaPrequisitos": []
+  }
+]

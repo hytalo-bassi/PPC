@@ -1,0 +1,937 @@
+[
+  {
+    "Id": 35182,
+    "Codigo": "0709.000.243-9",
+    "Tipo": "OBR",
+    "Descricao": "EDUCAÇÃO ESPECIAL",
+    "Semestre": 1,
+    "Apelido": "EDUCAÇÃO ESPECIAL",
+    "CargaHorariaTeorico": 51,
+    "CargaHorariaPratica": null,
+    "ListaPrequisitos": []
+  },
+  {
+    "Id": 50534,
+    "Codigo": "0709.002.095-8",
+    "Tipo": "OBR",
+    "Descricao": "ELEMENTOS PARA O ENSINO DE NÚMEROS E OPERAÇÕES",
+    "Semestre": 1,
+    "Apelido": "ELEMENTOS PARA O ENSINO DE NÚMEROS E OPERAÇÕES",
+    "CargaHorariaTeorico": 68,
+    "CargaHorariaPratica": null,
+    "ListaPrequisitos": []
+  },
+  {
+    "Id": 50130,
+    "Codigo": "0709.002.051-9",
+    "Tipo": "OBR",
+    "Descricao": "ESTUDO DE LIBRAS",
+    "Semestre": 1,
+    "Apelido": "ESTUDO DE LIBRAS",
+    "CargaHorariaTeorico": 51,
+    "CargaHorariaPratica": null,
+    "ListaPrequisitos": []
+  },
+  {
+    "Id": 50547,
+    "Codigo": "0709.002.108-9",
+    "Tipo": "OBR",
+    "Descricao": "FUNDAMENTOS PARA O ENSINO DE GEOMETRIA, GRANDEZAS E MEDIDAS",
+    "Semestre": 1,
+    "Apelido": "FUNDAMENTOS PARA O ENSINO DE GEOMETRIA, GRANDEZAS E MEDIDAS",
+    "CargaHorariaTeorico": 68,
+    "CargaHorariaPratica": null,
+    "ListaPrequisitos": []
+  },
+  {
+    "Id": 50546,
+    "Codigo": "0709.002.107-0",
+    "Tipo": "OBR",
+    "Descricao": "RACIOCÍNIO LÓGICO NA EDUCAÇÃO BÁSICA",
+    "Semestre": 1,
+    "Apelido": "RACIOCÍNIO LÓGICO NA EDUCAÇÃO BÁSICA",
+    "CargaHorariaTeorico": 68,
+    "CargaHorariaPratica": null,
+    "ListaPrequisitos": []
+  },
+  {
+    "Id": 50533,
+    "Codigo": "0709.002.094-9",
+    "Tipo": "OBR",
+    "Descricao": "ÁLGEBRA NA EDUCAÇÃO BÁSICA",
+    "Semestre": 2,
+    "Apelido": "ÁLGEBRA NA EDUCAÇÃO BÁSICA",
+    "CargaHorariaTeorico": 68,
+    "CargaHorariaPratica": null,
+    "ListaPrequisitos": []
+  },
+  {
+    "Id": 35198,
+    "Codigo": "0709.000.259-5",
+    "Tipo": "OBR",
+    "Descricao": "FUNDAMENTOS DE DIDÁTICA",
+    "Semestre": 2,
+    "Apelido": "FUNDAMENTOS DE DIDÁTICA",
+    "CargaHorariaTeorico": 51,
+    "CargaHorariaPratica": null,
+    "ListaPrequisitos": []
+  },
+  {
+    "Id": 50551,
+    "Codigo": "0709.002.112-2",
+    "Tipo": "OBR",
+    "Descricao": "FUNDAMENTOS E METODOLOGIAS PARA O ENSINO DE FUNÇÕES",
+    "Semestre": 2,
+    "Apelido": "FUNDAMENTOS E METODOLOGIAS PARA O ENSINO DE FUNÇÕES",
+    "CargaHorariaTeorico": 68,
+    "CargaHorariaPratica": null,
+    "ListaPrequisitos": []
+  },
+  {
+    "Id": 50549,
+    "Codigo": "0709.002.110-4",
+    "Tipo": "OBR",
+    "Descricao": "FUNDAMENTOS HISTÓRICOS, SOCIOLÓGICOS E FILOSÓFICOS DA EDUCAÇÃO",
+    "Semestre": 2,
+    "Apelido": "FUNDAMENTOS HISTÓRICOS, SOCIOLÓGICOS E FILOSÓFICOS DA EDUCAÇÃO",
+    "CargaHorariaTeorico": 51,
+    "CargaHorariaPratica": null,
+    "ListaPrequisitos": []
+  },
+  {
+    "Id": 50543,
+    "Codigo": "0709.002.104-2",
+    "Tipo": "OBR",
+    "Descricao": "PRÁTICA DE ENSINO DE MATEMÁTICA A",
+    "Semestre": 2,
+    "Apelido": "PRÁTICA DE ENSINO DE MATEMÁTICA A",
+    "CargaHorariaTeorico": 68,
+    "CargaHorariaPratica": null,
+    "ListaPrequisitos": []
+  },
+  {
+    "Id": 50539,
+    "Codigo": "0709.002.100-6",
+    "Tipo": "OBR",
+    "Descricao": "CÁLCULO I",
+    "Semestre": 3,
+    "Apelido": "CÁLCULO I",
+    "CargaHorariaTeorico": 68,
+    "CargaHorariaPratica": null,
+    "ListaPrequisitos": [
+      {
+        "Id": 50551,
+        "Codigo": "0709.002.112-2",
+        "Descricao": "FUNDAMENTOS E METODOLOGIAS PARA O ENSINO DE FUNÇÕES",
+        "Semestre": "0",
+        "Apelido": "FUNDAMENTOS E METODOLOGIAS PARA O ENSINO DE FUNÇÕES",
+        "CargaHorariaTeorico": 0,
+        "CargaHorariaPratica": 0,
+        "ListaPrequisitos": []
+      }
+    ]
+  },
+  {
+    "Id": 50550,
+    "Codigo": "0709.002.111-3",
+    "Tipo": "OBR",
+    "Descricao": "DESENVOLVIMENTO PROFISSIONAL DOCENTE",
+    "Semestre": 3,
+    "Apelido": "DESENVOLVIMENTO PROFISSIONAL DOCENTE",
+    "CargaHorariaTeorico": 34,
+    "CargaHorariaPratica": null,
+    "ListaPrequisitos": []
+  },
+  {
+    "Id": 50535,
+    "Codigo": "0709.002.096-7",
+    "Tipo": "OBR",
+    "Descricao": "ESTRUTURAS ALGÉBRICAS I",
+    "Semestre": 3,
+    "Apelido": "ESTRUTURAS ALGÉBRICAS I",
+    "CargaHorariaTeorico": 68,
+    "CargaHorariaPratica": null,
+    "ListaPrequisitos": [
+      {
+        "Id": 50533,
+        "Codigo": "0709.002.094-9",
+        "Descricao": "ÁLGEBRA NA EDUCAÇÃO BÁSICA",
+        "Semestre": "0",
+        "Apelido": "ÁLGEBRA NA EDUCAÇÃO BÁSICA",
+        "CargaHorariaTeorico": 0,
+        "CargaHorariaPratica": 0,
+        "ListaPrequisitos": []
+      }
+    ]
+  },
+  {
+    "Id": 50555,
+    "Codigo": "0709.002.116-9",
+    "Tipo": "OBR",
+    "Descricao": "LÓGICA MATEMÁTICA",
+    "Semestre": 3,
+    "Apelido": "LÓGICA MATEMÁTICA",
+    "CargaHorariaTeorico": 68,
+    "CargaHorariaPratica": null,
+    "ListaPrequisitos": []
+  },
+  {
+    "Id": 39194,
+    "Codigo": "0709.000.748-1",
+    "Tipo": "OBR",
+    "Descricao": "POLÍTICAS EDUCACIONAIS",
+    "Semestre": 3,
+    "Apelido": "POLÍTICAS EDUCACIONAIS",
+    "CargaHorariaTeorico": 51,
+    "CargaHorariaPratica": null,
+    "ListaPrequisitos": []
+  },
+  {
+    "Id": 35195,
+    "Codigo": "0709.000.256-0",
+    "Tipo": "OBR",
+    "Descricao": "VETORES E GEOMETRIA ANALÍTICA I",
+    "Semestre": 3,
+    "Apelido": "VETORES E GEOMETRIA ANALÍTICA I",
+    "CargaHorariaTeorico": 68,
+    "CargaHorariaPratica": null,
+    "ListaPrequisitos": []
+  },
+  {
+    "Id": 35197,
+    "Codigo": "0709.000.258-7",
+    "Tipo": "OBR",
+    "Descricao": "CÁLCULO II",
+    "Semestre": 4,
+    "Apelido": "CÁLCULO II",
+    "CargaHorariaTeorico": 68,
+    "CargaHorariaPratica": null,
+    "ListaPrequisitos": [
+      {
+        "Id": 50539,
+        "Codigo": "0709.002.100-6",
+        "Descricao": "CÁLCULO I",
+        "Semestre": "0",
+        "Apelido": "CÁLCULO I",
+        "CargaHorariaTeorico": 0,
+        "CargaHorariaPratica": 0,
+        "ListaPrequisitos": []
+      }
+    ]
+  },
+  {
+    "Id": 50538,
+    "Codigo": "0709.002.099-4",
+    "Tipo": "OBR",
+    "Descricao": "ESTRUTURAS ALGÉBRICAS II",
+    "Semestre": 4,
+    "Apelido": "ESTRUTURAS ALGÉBRICAS II",
+    "CargaHorariaTeorico": 68,
+    "CargaHorariaPratica": null,
+    "ListaPrequisitos": [
+      {
+        "Id": 50535,
+        "Codigo": "0709.002.096-7",
+        "Descricao": "ESTRUTURAS ALGÉBRICAS I",
+        "Semestre": "0",
+        "Apelido": "ESTRUTURAS ALGÉBRICAS I",
+        "CargaHorariaTeorico": 0,
+        "CargaHorariaPratica": 0,
+        "ListaPrequisitos": []
+      }
+    ]
+  },
+  {
+    "Id": 50553,
+    "Codigo": "0709.002.114-0",
+    "Tipo": "OBR",
+    "Descricao": "LEITURA E PRODUÇÃO DE TEXTOS",
+    "Semestre": 4,
+    "Apelido": "LEITURA E PRODUÇÃO DE TEXTOS",
+    "CargaHorariaTeorico": 68,
+    "CargaHorariaPratica": null,
+    "ListaPrequisitos": []
+  },
+  {
+    "Id": 50527,
+    "Codigo": "0709.002.088-7",
+    "Tipo": "OBR",
+    "Descricao": "PRÁTICA DE ENSINO DE MATEMÁTICA B",
+    "Semestre": 4,
+    "Apelido": "PRÁTICA DE ENSINO DE MATEMÁTICA B",
+    "CargaHorariaTeorico": 68,
+    "CargaHorariaPratica": null,
+    "ListaPrequisitos": []
+  },
+  {
+    "Id": 50554,
+    "Codigo": "0709.002.115-0",
+    "Tipo": "OBR",
+    "Descricao": "TECNOLOGIAS DIGITAIS E O ENSINO DE MATEMÁTICA",
+    "Semestre": 4,
+    "Apelido": "TECNOLOGIAS DIGITAIS E O ENSINO DE MATEMÁTICA",
+    "CargaHorariaTeorico": 68,
+    "CargaHorariaPratica": null,
+    "ListaPrequisitos": []
+  },
+  {
+    "Id": 35200,
+    "Codigo": "0709.000.261-7",
+    "Tipo": "OBR",
+    "Descricao": "VETORES E GEOMETRIA ANALÍTICA II",
+    "Semestre": 4,
+    "Apelido": "VETORES E GEOMETRIA ANALÍTICA II",
+    "CargaHorariaTeorico": 68,
+    "CargaHorariaPratica": null,
+    "ListaPrequisitos": [
+      {
+        "Id": 35195,
+        "Codigo": "0709.000.256-0",
+        "Descricao": "VETORES E GEOMETRIA ANALÍTICA I",
+        "Semestre": "0",
+        "Apelido": "VETORES E GEOMETRIA ANALÍTICA I",
+        "CargaHorariaTeorico": 0,
+        "CargaHorariaPratica": 0,
+        "ListaPrequisitos": []
+      }
+    ]
+  },
+  {
+    "Id": 35201,
+    "Codigo": "0709.000.262-5",
+    "Tipo": "OBR",
+    "Descricao": "ÁLGEBRA LINEAR I",
+    "Semestre": 5,
+    "Apelido": "ÁLGEBRA LINEAR I",
+    "CargaHorariaTeorico": 68,
+    "CargaHorariaPratica": null,
+    "ListaPrequisitos": []
+  },
+  {
+    "Id": 35202,
+    "Codigo": "0709.000.263-3",
+    "Tipo": "OBR",
+    "Descricao": "CÁLCULO III",
+    "Semestre": 5,
+    "Apelido": "CÁLCULO III",
+    "CargaHorariaTeorico": 68,
+    "CargaHorariaPratica": null,
+    "ListaPrequisitos": [
+      {
+        "Id": 35197,
+        "Codigo": "0709.000.258-7",
+        "Descricao": "CÁLCULO II",
+        "Semestre": "0",
+        "Apelido": "CÁLCULO II",
+        "CargaHorariaTeorico": 0,
+        "CargaHorariaPratica": 0,
+        "ListaPrequisitos": []
+      }
+    ]
+  },
+  {
+    "Id": 50529,
+    "Codigo": "0709.002.090-2",
+    "Tipo": "OBR",
+    "Descricao": "ESTÁGIO OBRIGATÓRIO I",
+    "Semestre": 5,
+    "Apelido": "ESTÁGIO OBRIGATÓRIO I",
+    "CargaHorariaTeorico": 100,
+    "CargaHorariaPratica": null,
+    "ListaPrequisitos": []
+  },
+  {
+    "Id": 35214,
+    "Codigo": "0709.000.275-7",
+    "Tipo": "OBR",
+    "Descricao": "FÍSICA GERAL I",
+    "Semestre": 5,
+    "Apelido": "FÍSICA GERAL I",
+    "CargaHorariaTeorico": 68,
+    "CargaHorariaPratica": null,
+    "ListaPrequisitos": [
+      {
+        "Id": 35197,
+        "Codigo": "0709.000.258-7",
+        "Descricao": "CÁLCULO II",
+        "Semestre": "0",
+        "Apelido": "CÁLCULO II",
+        "CargaHorariaTeorico": 0,
+        "CargaHorariaPratica": 0,
+        "ListaPrequisitos": []
+      }
+    ]
+  },
+  {
+    "Id": 35204,
+    "Codigo": "0709.000.265-0",
+    "Tipo": "OBR",
+    "Descricao": "GEOMETRIA I",
+    "Semestre": 5,
+    "Apelido": "GEOMETRIA I",
+    "CargaHorariaTeorico": 68,
+    "CargaHorariaPratica": null,
+    "ListaPrequisitos": []
+  },
+  {
+    "Id": 50542,
+    "Codigo": "0709.002.103-3",
+    "Tipo": "OBR",
+    "Descricao": "PRÁTICA DE ENSINO DE MATEMÁTICA C",
+    "Semestre": 5,
+    "Apelido": "PRÁTICA DE ENSINO DE MATEMÁTICA C",
+    "CargaHorariaTeorico": 68,
+    "CargaHorariaPratica": null,
+    "ListaPrequisitos": []
+  },
+  {
+    "Id": 35208,
+    "Codigo": "0709.000.269-2",
+    "Tipo": "OBR",
+    "Descricao": "CÁLCULO IV",
+    "Semestre": 6,
+    "Apelido": "CÁLCULO IV",
+    "CargaHorariaTeorico": 68,
+    "CargaHorariaPratica": null,
+    "ListaPrequisitos": [
+      {
+        "Id": 35202,
+        "Codigo": "0709.000.263-3",
+        "Descricao": "CÁLCULO III",
+        "Semestre": "0",
+        "Apelido": "CÁLCULO III",
+        "CargaHorariaTeorico": 0,
+        "CargaHorariaPratica": 0,
+        "ListaPrequisitos": []
+      }
+    ]
+  },
+  {
+    "Id": 50556,
+    "Codigo": "0709.002.117-8",
+    "Tipo": "OBR",
+    "Descricao": "ESTÁGIO OBRIGATÓRIO II",
+    "Semestre": 6,
+    "Apelido": "ESTÁGIO OBRIGATÓRIO II",
+    "CargaHorariaTeorico": 100,
+    "CargaHorariaPratica": null,
+    "ListaPrequisitos": []
+  },
+  {
+    "Id": 35220,
+    "Codigo": "0709.000.281-1",
+    "Tipo": "OBR",
+    "Descricao": "FÍSICA GERAL II",
+    "Semestre": 6,
+    "Apelido": "FÍSICA GERAL II",
+    "CargaHorariaTeorico": 68,
+    "CargaHorariaPratica": null,
+    "ListaPrequisitos": [
+      {
+        "Id": 35214,
+        "Codigo": "0709.000.275-7",
+        "Descricao": "FÍSICA GERAL I",
+        "Semestre": "0",
+        "Apelido": "FÍSICA GERAL I",
+        "CargaHorariaTeorico": 0,
+        "CargaHorariaPratica": 0,
+        "ListaPrequisitos": []
+      }
+    ]
+  },
+  {
+    "Id": 50545,
+    "Codigo": "0709.002.106-0",
+    "Tipo": "OBR",
+    "Descricao": "GEOMETRIA II",
+    "Semestre": 6,
+    "Apelido": "GEOMETRIA II",
+    "CargaHorariaTeorico": 68,
+    "CargaHorariaPratica": null,
+    "ListaPrequisitos": [
+      {
+        "Id": 35204,
+        "Codigo": "0709.000.265-0",
+        "Descricao": "GEOMETRIA I",
+        "Semestre": "0",
+        "Apelido": "GEOMETRIA I",
+        "CargaHorariaTeorico": 0,
+        "CargaHorariaPratica": 0,
+        "ListaPrequisitos": []
+      }
+    ]
+  },
+  {
+    "Id": 50544,
+    "Codigo": "0709.002.105-1",
+    "Tipo": "OBR",
+    "Descricao": "MATEMÁTICA DISCRETA",
+    "Semestre": 6,
+    "Apelido": "MATEMÁTICA DISCRETA",
+    "CargaHorariaTeorico": 68,
+    "CargaHorariaPratica": null,
+    "ListaPrequisitos": []
+  },
+  {
+    "Id": 50541,
+    "Codigo": "0709.002.102-4",
+    "Tipo": "OBR",
+    "Descricao": "PRÁTICA DE ENSINO DE MATEMÁTICA D",
+    "Semestre": 6,
+    "Apelido": "PRÁTICA DE ENSINO DE MATEMÁTICA D",
+    "CargaHorariaTeorico": 68,
+    "CargaHorariaPratica": null,
+    "ListaPrequisitos": []
+  },
+  {
+    "Id": 43783,
+    "Codigo": "0709.001.095-1",
+    "Tipo": "OBR",
+    "Descricao": "PSICOLOGIA E EDUCAÇÃO",
+    "Semestre": 6,
+    "Apelido": "PSICOLOGIA E EDUCAÇÃO",
+    "CargaHorariaTeorico": 51,
+    "CargaHorariaPratica": null,
+    "ListaPrequisitos": []
+  },
+  {
+    "Id": 35218,
+    "Codigo": "0709.000.279-0",
+    "Tipo": "OBR",
+    "Descricao": "EQUAÇÕES DIFERENCIAIS ORDINÁRIAS",
+    "Semestre": 7,
+    "Apelido": "EQUAÇÕES DIFERENCIAIS ORDINÁRIAS",
+    "CargaHorariaTeorico": 68,
+    "CargaHorariaPratica": null,
+    "ListaPrequisitos": []
+  },
+  {
+    "Id": 50536,
+    "Codigo": "0709.002.097-6",
+    "Tipo": "OBR",
+    "Descricao": "ESTÁGIO OBRIGATÓRIO III",
+    "Semestre": 7,
+    "Apelido": "ESTÁGIO OBRIGATÓRIO III",
+    "CargaHorariaTeorico": 100,
+    "CargaHorariaPratica": null,
+    "ListaPrequisitos": []
+  },
+  {
+    "Id": 50540,
+    "Codigo": "0709.002.101-5",
+    "Tipo": "OBR",
+    "Descricao": "HISTÓRIA DA MATEMÁTICA",
+    "Semestre": 7,
+    "Apelido": "HISTÓRIA DA MATEMÁTICA",
+    "CargaHorariaTeorico": 68,
+    "CargaHorariaPratica": null,
+    "ListaPrequisitos": []
+  },
+  {
+    "Id": 50528,
+    "Codigo": "0709.002.089-6",
+    "Tipo": "OBR",
+    "Descricao": "INTRODUÇÃO À ANÁLISE REAL",
+    "Semestre": 7,
+    "Apelido": "INTRODUÇÃO À ANÁLISE REAL",
+    "CargaHorariaTeorico": 68,
+    "CargaHorariaPratica": null,
+    "ListaPrequisitos": []
+  },
+  {
+    "Id": 50531,
+    "Codigo": "0709.002.092-0",
+    "Tipo": "OBR",
+    "Descricao": "PRÁTICA DE ENSINO DE MATEMÁTICA E",
+    "Semestre": 7,
+    "Apelido": "PRÁTICA DE ENSINO DE MATEMÁTICA E",
+    "CargaHorariaTeorico": 68,
+    "CargaHorariaPratica": null,
+    "ListaPrequisitos": []
+  },
+  {
+    "Id": 35203,
+    "Codigo": "0709.000.264-1",
+    "Tipo": "OBR",
+    "Descricao": "CÁLCULO NUMÉRICO",
+    "Semestre": 8,
+    "Apelido": "CÁLCULO NUMÉRICO",
+    "CargaHorariaTeorico": 68,
+    "CargaHorariaPratica": null,
+    "ListaPrequisitos": []
+  },
+  {
+    "Id": 50552,
+    "Codigo": "0709.002.113-1",
+    "Tipo": "OBR",
+    "Descricao": "CONCEITOS PARA O ENSINO DE PROBABILIDADE E ESTATÍSTICA",
+    "Semestre": 8,
+    "Apelido": "CONCEITOS PARA O ENSINO DE PROBABILIDADE E ESTATÍSTICA",
+    "CargaHorariaTeorico": 68,
+    "CargaHorariaPratica": null,
+    "ListaPrequisitos": []
+  },
+  {
+    "Id": 50530,
+    "Codigo": "0709.002.091-1",
+    "Tipo": "OBR",
+    "Descricao": "ESTÁGIO OBRIGATÓRIO IV",
+    "Semestre": 8,
+    "Apelido": "ESTÁGIO OBRIGATÓRIO IV",
+    "CargaHorariaTeorico": 100,
+    "CargaHorariaPratica": null,
+    "ListaPrequisitos": []
+  },
+  {
+    "Id": 44068,
+    "Codigo": "0709.001.139-6",
+    "Tipo": "OBR",
+    "Descricao": "MATEMÁTICA FINANCEIRA",
+    "Semestre": 8,
+    "Apelido": "MATEMÁTICA FINANCEIRA",
+    "CargaHorariaTeorico": 68,
+    "CargaHorariaPratica": null,
+    "ListaPrequisitos": []
+  },
+  {
+    "Id": 50537,
+    "Codigo": "0709.002.098-5",
+    "Tipo": "OBR",
+    "Descricao": "ORGANIZAÇÃO CURRICULAR E GESTÃO DA ESCOLA",
+    "Semestre": 8,
+    "Apelido": "ORGANIZAÇÃO CURRICULAR E GESTÃO DA ESCOLA",
+    "CargaHorariaTeorico": 68,
+    "CargaHorariaPratica": null,
+    "ListaPrequisitos": []
+  },
+  {
+    "Id": 50532,
+    "Codigo": "0709.002.093-0",
+    "Tipo": "OBR",
+    "Descricao": "PRÁTICA DE ENSINO DE MATEMÁTICA F",
+    "Semestre": 8,
+    "Apelido": "PRÁTICA DE ENSINO DE MATEMÁTICA F",
+    "CargaHorariaTeorico": 68,
+    "CargaHorariaPratica": null,
+    "ListaPrequisitos": []
+  },
+  {
+    "Id": 35207,
+    "Codigo": "0709.000.268-4",
+    "Tipo": "OPT",
+    "Descricao": "ÁLGEBRA LINEAR II",
+    "Semestre": 99,
+    "Apelido": "ÁLGEBRA LINEAR II",
+    "CargaHorariaTeorico": 68,
+    "CargaHorariaPratica": null,
+    "ListaPrequisitos": [
+      {
+        "Id": 35201,
+        "Codigo": "0709.000.262-5",
+        "Descricao": "ÁLGEBRA LINEAR I",
+        "Semestre": "0",
+        "Apelido": "ÁLGEBRA LINEAR I",
+        "CargaHorariaTeorico": 0,
+        "CargaHorariaPratica": 0,
+        "ListaPrequisitos": []
+      }
+    ]
+  },
+  {
+    "Id": 44060,
+    "Codigo": "0709.001.131-3",
+    "Tipo": "OPT",
+    "Descricao": "ÁLGEBRA LINEAR III",
+    "Semestre": 99,
+    "Apelido": "ÁLGEBRA LINEAR III",
+    "CargaHorariaTeorico": 68,
+    "CargaHorariaPratica": null,
+    "ListaPrequisitos": []
+  },
+  {
+    "Id": 44061,
+    "Codigo": "0709.001.132-2",
+    "Tipo": "OPT",
+    "Descricao": "ANÁLISE REAL",
+    "Semestre": 99,
+    "Apelido": "ANÁLISE REAL",
+    "CargaHorariaTeorico": 68,
+    "CargaHorariaPratica": null,
+    "ListaPrequisitos": []
+  },
+  {
+    "Id": 44062,
+    "Codigo": "0709.001.133-1",
+    "Tipo": "OPT",
+    "Descricao": "DESENHO GEOMÉTRICO",
+    "Semestre": 99,
+    "Apelido": "DESENHO GEOMÉTRICO",
+    "CargaHorariaTeorico": 68,
+    "CargaHorariaPratica": null,
+    "ListaPrequisitos": []
+  },
+  {
+    "Id": 36551,
+    "Codigo": "0709.000.533-0",
+    "Tipo": "OPT",
+    "Descricao": "EDUCAÇÃO, CIDADANIA E DIREITOS HUMANOS",
+    "Semestre": 99,
+    "Apelido": "EDUCAÇÃO, CIDADANIA E DIREITOS HUMANOS",
+    "CargaHorariaTeorico": 68,
+    "CargaHorariaPratica": null,
+    "ListaPrequisitos": []
+  },
+  {
+    "Id": 47783,
+    "Codigo": "0709.001.730-8",
+    "Tipo": "OPT",
+    "Descricao": "EMPREENDEDORISMO, INOVAÇÃO E SUSTENTABILIDADE",
+    "Semestre": 99,
+    "Apelido": "EMPREENDEDORISMO, INOVAÇÃO E SUSTENTABILIDADE",
+    "CargaHorariaTeorico": 68,
+    "CargaHorariaPratica": null,
+    "ListaPrequisitos": []
+  },
+  {
+    "Id": 44059,
+    "Codigo": "0709.001.130-4",
+    "Tipo": "OPT",
+    "Descricao": "ESPAÇOS MÉTRICOS",
+    "Semestre": 99,
+    "Apelido": "ESPAÇOS MÉTRICOS",
+    "CargaHorariaTeorico": 68,
+    "CargaHorariaPratica": null,
+    "ListaPrequisitos": []
+  },
+  {
+    "Id": 50548,
+    "Codigo": "0709.002.109-8",
+    "Tipo": "OPT",
+    "Descricao": "ESTRUTURAS ALGÉBRICAS III",
+    "Semestre": 99,
+    "Apelido": "ESTRUTURAS ALGÉBRICAS III",
+    "CargaHorariaTeorico": 68,
+    "CargaHorariaPratica": null,
+    "ListaPrequisitos": []
+  },
+  {
+    "Id": 24402,
+    "Codigo": "0703.000.713-2",
+    "Tipo": "OPT",
+    "Descricao": "FÍSICA III",
+    "Semestre": 99,
+    "Apelido": "FÍSICA III",
+    "CargaHorariaTeorico": 68,
+    "CargaHorariaPratica": null,
+    "ListaPrequisitos": []
+  },
+  {
+    "Id": 25684,
+    "Codigo": "0703.000.828-7",
+    "Tipo": "OPT",
+    "Descricao": "FÍSICA IV",
+    "Semestre": 99,
+    "Apelido": "FÍSICA IV",
+    "CargaHorariaTeorico": 34,
+    "CargaHorariaPratica": null,
+    "ListaPrequisitos": []
+  },
+  {
+    "Id": 44058,
+    "Codigo": "0709.001.129-8",
+    "Tipo": "OPT",
+    "Descricao": "GEOMETRIA DIFERENCIAL",
+    "Semestre": 99,
+    "Apelido": "GEOMETRIA DIFERENCIAL",
+    "CargaHorariaTeorico": 68,
+    "CargaHorariaPratica": null,
+    "ListaPrequisitos": []
+  },
+  {
+    "Id": 44065,
+    "Codigo": "0709.001.136-9",
+    "Tipo": "OPT",
+    "Descricao": "HISTÓRIA E FILOSOFIA DA MATEMÁTICA",
+    "Semestre": 99,
+    "Apelido": "HISTÓRIA E FILOSOFIA DA MATEMÁTICA",
+    "CargaHorariaTeorico": 68,
+    "CargaHorariaPratica": null,
+    "ListaPrequisitos": []
+  },
+  {
+    "Id": 44052,
+    "Codigo": "0709.001.123-3",
+    "Tipo": "OPT",
+    "Descricao": "INFORMÁTICA APLICADA AO ENSINO",
+    "Semestre": 99,
+    "Apelido": "INFORMÁTICA APLICADA AO ENSINO",
+    "CargaHorariaTeorico": 68,
+    "CargaHorariaPratica": null,
+    "ListaPrequisitos": []
+  },
+  {
+    "Id": 44064,
+    "Codigo": "0709.001.135-0",
+    "Tipo": "OPT",
+    "Descricao": "INTRODUÇÃO À ANÁLISE NUMÉRICA",
+    "Semestre": 99,
+    "Apelido": "INTRODUÇÃO À ANÁLISE NUMÉRICA",
+    "CargaHorariaTeorico": 68,
+    "CargaHorariaPratica": null,
+    "ListaPrequisitos": []
+  },
+  {
+    "Id": 35212,
+    "Codigo": "0709.000.273-0",
+    "Tipo": "OPT",
+    "Descricao": "INTRODUÇÃO À CIÊNCIA DA COMPUTAÇÃO",
+    "Semestre": 99,
+    "Apelido": "INTRODUÇÃO À CIÊNCIA DA COMPUTAÇÃO",
+    "CargaHorariaTeorico": 68,
+    "CargaHorariaPratica": null,
+    "ListaPrequisitos": []
+  },
+  {
+    "Id": 44069,
+    "Codigo": "0709.001.140-2",
+    "Tipo": "OPT",
+    "Descricao": "MATRIZES SISTEMAS LINEARES E POLINÔMIOS",
+    "Semestre": 99,
+    "Apelido": "MATRIZES SISTEMAS LINEARES E POLINÔMIOS",
+    "CargaHorariaTeorico": 68,
+    "CargaHorariaPratica": null,
+    "ListaPrequisitos": []
+  },
+  {
+    "Id": 35217,
+    "Codigo": "0709.000.278-1",
+    "Tipo": "OPT",
+    "Descricao": "PRÁTICA DE ENSINO DE MATEMÁTICA V",
+    "Semestre": 99,
+    "Apelido": "PRÁTICA DE ENSINO DE MATEMÁTICA V",
+    "CargaHorariaTeorico": 68,
+    "CargaHorariaPratica": null,
+    "ListaPrequisitos": []
+  },
+  {
+    "Id": 35221,
+    "Codigo": "0709.000.282-0",
+    "Tipo": "OPT",
+    "Descricao": "PRÁTICA DE ENSINO DE MATEMÁTICA VI",
+    "Semestre": 99,
+    "Apelido": "PRÁTICA DE ENSINO DE MATEMÁTICA VI",
+    "CargaHorariaTeorico": 68,
+    "CargaHorariaPratica": null,
+    "ListaPrequisitos": []
+  },
+  {
+    "Id": 44049,
+    "Codigo": "0709.001.120-6",
+    "Tipo": "OPT",
+    "Descricao": "PRÁTICAS INTEGRADORAS PARA FORMAÇÃO DOCENTE",
+    "Semestre": 99,
+    "Apelido": "PRÁTICAS INTEGRADORAS PARA FORMAÇÃO DOCENTE",
+    "CargaHorariaTeorico": 68,
+    "CargaHorariaPratica": null,
+    "ListaPrequisitos": []
+  },
+  {
+    "Id": 35205,
+    "Codigo": "0709.000.266-8",
+    "Tipo": "OPT",
+    "Descricao": "PROBABILIDADE E ESTATÍSTICA",
+    "Semestre": 99,
+    "Apelido": "PROBABILIDADE E ESTATÍSTICA",
+    "CargaHorariaTeorico": 68,
+    "CargaHorariaPratica": null,
+    "ListaPrequisitos": [
+      {
+        "Id": 35197,
+        "Codigo": "0709.000.258-7",
+        "Descricao": "CÁLCULO II",
+        "Semestre": "0",
+        "Apelido": "CÁLCULO II",
+        "CargaHorariaTeorico": 0,
+        "CargaHorariaPratica": 0,
+        "ListaPrequisitos": []
+      }
+    ]
+  },
+  {
+    "Id": 44055,
+    "Codigo": "0709.001.126-0",
+    "Tipo": "OPT",
+    "Descricao": "PROBLEMAS MATEMÁTICOS NO ENSINO APRENDIZAGEM",
+    "Semestre": 99,
+    "Apelido": "PROBLEMAS MATEMÁTICOS NO ENSINO APRENDIZAGEM",
+    "CargaHorariaTeorico": 68,
+    "CargaHorariaPratica": null,
+    "ListaPrequisitos": []
+  },
+  {
+    "Id": 43777,
+    "Codigo": "0709.001.089-0",
+    "Tipo": "OPT",
+    "Descricao": "PROFISSÃO DOCENTE: IDENTIDADE, CARREIRA E DESENVOLVIMENTO PROFISSIONAL",
+    "Semestre": 99,
+    "Apelido": "PROFISSÃO DOCENTE: IDENTIDADE, CARREIRA E DESENVOLVIMENTO PROFISSIONAL",
+    "CargaHorariaTeorico": 68,
+    "CargaHorariaPratica": null,
+    "ListaPrequisitos": []
+  },
+  {
+    "Id": 44056,
+    "Codigo": "0709.001.127-0",
+    "Tipo": "OPT",
+    "Descricao": "PROGRAMAÇÃO LINEAR",
+    "Semestre": 99,
+    "Apelido": "PROGRAMAÇÃO LINEAR",
+    "CargaHorariaTeorico": 68,
+    "CargaHorariaPratica": null,
+    "ListaPrequisitos": []
+  },
+  {
+    "Id": 44050,
+    "Codigo": "0709.001.121-5",
+    "Tipo": "OPT",
+    "Descricao": "PROJETOS DE ALGORITMOS",
+    "Semestre": 99,
+    "Apelido": "PROJETOS DE ALGORITMOS",
+    "CargaHorariaTeorico": 68,
+    "CargaHorariaPratica": null,
+    "ListaPrequisitos": []
+  },
+  {
+    "Id": 44054,
+    "Codigo": "0709.001.125-1",
+    "Tipo": "OPT",
+    "Descricao": "TEORIA DOS NÚMEROS",
+    "Semestre": 99,
+    "Apelido": "TEORIA DOS NÚMEROS",
+    "CargaHorariaTeorico": 68,
+    "CargaHorariaPratica": null,
+    "ListaPrequisitos": []
+  },
+  {
+    "Id": 35193,
+    "Codigo": "0709.000.254-4",
+    "Tipo": "OPT",
+    "Descricao": "TRIGONOMETRIA E NÚMEROS COMPLEXOS",
+    "Semestre": 99,
+    "Apelido": "TRIGONOMETRIA E NÚMEROS COMPLEXOS",
+    "CargaHorariaTeorico": 68,
+    "CargaHorariaPratica": null,
+    "ListaPrequisitos": []
+  },
+  {
+    "Id": 44053,
+    "Codigo": "0709.001.124-2",
+    "Tipo": "OPT",
+    "Descricao": "VARIÁVEIS COMPLEXAS",
+    "Semestre": 99,
+    "Apelido": "VARIÁVEIS COMPLEXAS",
+    "CargaHorariaTeorico": 68,
+    "CargaHorariaPratica": null,
+    "ListaPrequisitos": []
+  }
+]

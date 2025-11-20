@@ -1,0 +1,1244 @@
+[
+  {
+    "Id": 48103,
+    "Codigo": "0904.000.517-0",
+    "Tipo": "OBR",
+    "Descricao": "BASES BIOLÓGICAS DO COMPORTAMENTO",
+    "Semestre": 1,
+    "Apelido": "BASES BIOLÓGICAS DO COMPORTAMENTO",
+    "CargaHorariaTeorico": 68,
+    "CargaHorariaPratica": null,
+    "ListaPrequisitos": []
+  },
+  {
+    "Id": 48104,
+    "Codigo": "0904.000.518-9",
+    "Tipo": "OBR",
+    "Descricao": "ESTATÍSTICA APLICADA À PSICOLOGIA",
+    "Semestre": 1,
+    "Apelido": "ESTATÍSTICA APLICADA À PSICOLOGIA",
+    "CargaHorariaTeorico": 68,
+    "CargaHorariaPratica": null,
+    "ListaPrequisitos": []
+  },
+  {
+    "Id": 48101,
+    "Codigo": "0904.000.515-1",
+    "Tipo": "OBR",
+    "Descricao": "FILOSOFIA GERAL",
+    "Semestre": 1,
+    "Apelido": "FILOSOFIA GERAL",
+    "CargaHorariaTeorico": 68,
+    "CargaHorariaPratica": null,
+    "ListaPrequisitos": []
+  },
+  {
+    "Id": 48141,
+    "Codigo": "0904.000.555-4",
+    "Tipo": "OBR",
+    "Descricao": "INTRODUÇÃO À PSICOLOGIA",
+    "Semestre": 1,
+    "Apelido": "INTRODUÇÃO À PSICOLOGIA",
+    "CargaHorariaTeorico": 68,
+    "CargaHorariaPratica": null,
+    "ListaPrequisitos": []
+  },
+  {
+    "Id": 48122,
+    "Codigo": "0904.000.536-7",
+    "Tipo": "OBR",
+    "Descricao": "LEITURA E PRODUÇÃO DE TEXTOS",
+    "Semestre": 1,
+    "Apelido": "LEITURA E PRODUÇÃO DE TEXTOS",
+    "CargaHorariaTeorico": 68,
+    "CargaHorariaPratica": null,
+    "ListaPrequisitos": []
+  },
+  {
+    "Id": 48105,
+    "Codigo": "0904.000.519-8",
+    "Tipo": "OBR",
+    "Descricao": "MÉTODOS DE PESQUISA EM PSICOLOGIA I",
+    "Semestre": 1,
+    "Apelido": "MÉTODOS DE PESQUISA EM PSICOLOGIA I",
+    "CargaHorariaTeorico": 68,
+    "CargaHorariaPratica": null,
+    "ListaPrequisitos": []
+  },
+  {
+    "Id": 48096,
+    "Codigo": "0904.000.510-6",
+    "Tipo": "OBR",
+    "Descricao": "SOCIOLOGIA GERAL",
+    "Semestre": 1,
+    "Apelido": "SOCIOLOGIA GERAL",
+    "CargaHorariaTeorico": 68,
+    "CargaHorariaPratica": null,
+    "ListaPrequisitos": []
+  },
+  {
+    "Id": 48118,
+    "Codigo": "0904.000.532-0",
+    "Tipo": "OBR",
+    "Descricao": "ANTROPOLOGIA",
+    "Semestre": 2,
+    "Apelido": "ANTROPOLOGIA",
+    "CargaHorariaTeorico": 68,
+    "CargaHorariaPratica": null,
+    "ListaPrequisitos": []
+  },
+  {
+    "Id": 48113,
+    "Codigo": "0904.000.527-8",
+    "Tipo": "OBR",
+    "Descricao": "FUNDAMENTOS EPISTEMOLÓGICOS E HISTÓRICOS: ENFOQUE ANALÍTICO COMPORTAMENTAL",
+    "Semestre": 2,
+    "Apelido": "FUNDAMENTOS EPISTEMOLÓGICOS E HISTÓRICOS: ENFOQUE ANALÍTICO COMPORTAMENTAL",
+    "CargaHorariaTeorico": 68,
+    "CargaHorariaPratica": null,
+    "ListaPrequisitos": []
+  },
+  {
+    "Id": 48106,
+    "Codigo": "0904.000.520-4",
+    "Tipo": "OBR",
+    "Descricao": "FUNDAMENTOS EPISTEMOLÓGICOS E HISTÓRICOS: ENFOQUE HISTÓRICO-CULTURAL",
+    "Semestre": 2,
+    "Apelido": "FUNDAMENTOS EPISTEMOLÓGICOS E HISTÓRICOS: ENFOQUE HISTÓRICO-CULTURAL",
+    "CargaHorariaTeorico": 68,
+    "CargaHorariaPratica": null,
+    "ListaPrequisitos": []
+  },
+  {
+    "Id": 48107,
+    "Codigo": "0904.000.521-3",
+    "Tipo": "OBR",
+    "Descricao": "FUNDAMENTOS EPISTEMOLÓGICOS E HISTÓRICOS: ENFOQUE PSICANALÍTICO",
+    "Semestre": 2,
+    "Apelido": "FUNDAMENTOS EPISTEMOLÓGICOS E HISTÓRICOS: ENFOQUE PSICANALÍTICO",
+    "CargaHorariaTeorico": 68,
+    "CargaHorariaPratica": null,
+    "ListaPrequisitos": []
+  },
+  {
+    "Id": 48121,
+    "Codigo": "0904.000.535-8",
+    "Tipo": "OBR",
+    "Descricao": "GENÉTICA HUMANA APLICADA À PSICOLOGIA",
+    "Semestre": 2,
+    "Apelido": "GENÉTICA HUMANA APLICADA À PSICOLOGIA",
+    "CargaHorariaTeorico": 68,
+    "CargaHorariaPratica": null,
+    "ListaPrequisitos": []
+  },
+  {
+    "Id": 48095,
+    "Codigo": "0904.000.509-0",
+    "Tipo": "OBR",
+    "Descricao": "MÉTODOS DE PESQUISA EM PSICOLOGIA II",
+    "Semestre": 2,
+    "Apelido": "MÉTODOS DE PESQUISA EM PSICOLOGIA II",
+    "CargaHorariaTeorico": 68,
+    "CargaHorariaPratica": null,
+    "ListaPrequisitos": [
+      {
+        "Id": 48105,
+        "Codigo": "0904.000.519-8",
+        "Descricao": "MÉTODOS DE PESQUISA EM PSICOLOGIA I",
+        "Semestre": "0",
+        "Apelido": "MÉTODOS DE PESQUISA EM PSICOLOGIA I",
+        "CargaHorariaTeorico": 0,
+        "CargaHorariaPratica": 0,
+        "ListaPrequisitos": []
+      }
+    ]
+  },
+  {
+    "Id": 48085,
+    "Codigo": "0904.000.499-6",
+    "Tipo": "OBR",
+    "Descricao": "PSICOLOGIA E ÉTICA PROFISSIONAL",
+    "Semestre": 2,
+    "Apelido": "PSICOLOGIA E ÉTICA PROFISSIONAL",
+    "CargaHorariaTeorico": 68,
+    "CargaHorariaPratica": null,
+    "ListaPrequisitos": []
+  },
+  {
+    "Id": 34593,
+    "Codigo": "0904.000.059-5",
+    "Tipo": "OBR",
+    "Descricao": "AVALIAÇÃO PSICOLÓGICA I",
+    "Semestre": 3,
+    "Apelido": "AVALIAÇÃO PSICOLÓGICA I",
+    "CargaHorariaTeorico": 68,
+    "CargaHorariaPratica": null,
+    "ListaPrequisitos": []
+  },
+  {
+    "Id": 48142,
+    "Codigo": "0904.000.556-3",
+    "Tipo": "OBR",
+    "Descricao": "FENÔMENOS E PROCESSOS PSICOLÓGICOS: ENFOQUE ANALÍTICO COMPORTAMENTAL I",
+    "Semestre": 3,
+    "Apelido": "FENÔMENOS E PROCESSOS PSICOLÓGICOS: ENFOQUE ANALÍTICO COMPORTAMENTAL I",
+    "CargaHorariaTeorico": 68,
+    "CargaHorariaPratica": null,
+    "ListaPrequisitos": [
+      {
+        "Id": 48113,
+        "Codigo": "0904.000.527-8",
+        "Descricao": "FUNDAMENTOS EPISTEMOLÓGICOS E HISTÓRICOS: ENFOQUE ANALÍTICO COMPORTAMENTAL",
+        "Semestre": "0",
+        "Apelido": "FUNDAMENTOS EPISTEMOLÓGICOS E HISTÓRICOS: ENFOQUE ANALÍTICO COMPORTAMENTAL",
+        "CargaHorariaTeorico": 0,
+        "CargaHorariaPratica": 0,
+        "ListaPrequisitos": []
+      }
+    ]
+  },
+  {
+    "Id": 48087,
+    "Codigo": "0904.000.501-7",
+    "Tipo": "OBR",
+    "Descricao": "FENÔMENOS E PROCESSOS PSICOLÓGICOS: ENFOQUE HISTÓRICO-CULTURAL I",
+    "Semestre": 3,
+    "Apelido": "FENÔMENOS E PROCESSOS PSICOLÓGICOS: ENFOQUE HISTÓRICO-CULTURAL I",
+    "CargaHorariaTeorico": 68,
+    "CargaHorariaPratica": null,
+    "ListaPrequisitos": [
+      {
+        "Id": 48106,
+        "Codigo": "0904.000.520-4",
+        "Descricao": "FUNDAMENTOS EPISTEMOLÓGICOS E HISTÓRICOS: ENFOQUE HISTÓRICO-CULTURAL",
+        "Semestre": "0",
+        "Apelido": "FUNDAMENTOS EPISTEMOLÓGICOS E HISTÓRICOS: ENFOQUE HISTÓRICO-CULTURAL",
+        "CargaHorariaTeorico": 0,
+        "CargaHorariaPratica": 0,
+        "ListaPrequisitos": []
+      }
+    ]
+  },
+  {
+    "Id": 48088,
+    "Codigo": "0904.000.502-6",
+    "Tipo": "OBR",
+    "Descricao": "FENÔMENOS E PROCESSOS PSICOLÓGICOS: ENFOQUE PSICANALÍTICO I",
+    "Semestre": 3,
+    "Apelido": "FENÔMENOS E PROCESSOS PSICOLÓGICOS: ENFOQUE PSICANALÍTICO I",
+    "CargaHorariaTeorico": 68,
+    "CargaHorariaPratica": null,
+    "ListaPrequisitos": [
+      {
+        "Id": 48107,
+        "Codigo": "0904.000.521-3",
+        "Descricao": "FUNDAMENTOS EPISTEMOLÓGICOS E HISTÓRICOS: ENFOQUE PSICANALÍTICO",
+        "Semestre": "0",
+        "Apelido": "FUNDAMENTOS EPISTEMOLÓGICOS E HISTÓRICOS: ENFOQUE PSICANALÍTICO",
+        "CargaHorariaTeorico": 0,
+        "CargaHorariaPratica": 0,
+        "ListaPrequisitos": []
+      }
+    ]
+  },
+  {
+    "Id": 48119,
+    "Codigo": "0904.000.533-0",
+    "Tipo": "OBR",
+    "Descricao": "PSICOLOGIA DO DESENVOLVIMENTO I",
+    "Semestre": 3,
+    "Apelido": "PSICOLOGIA DO DESENVOLVIMENTO I",
+    "CargaHorariaTeorico": 68,
+    "CargaHorariaPratica": null,
+    "ListaPrequisitos": []
+  },
+  {
+    "Id": 48112,
+    "Codigo": "0904.000.526-9",
+    "Tipo": "OBR",
+    "Descricao": "PSICOLOGIA E DIVERSIDADE HUMANA I",
+    "Semestre": 3,
+    "Apelido": "PSICOLOGIA E DIVERSIDADE HUMANA I",
+    "CargaHorariaTeorico": 68,
+    "CargaHorariaPratica": null,
+    "ListaPrequisitos": []
+  },
+  {
+    "Id": 48086,
+    "Codigo": "0904.000.500-8",
+    "Tipo": "OBR",
+    "Descricao": "PSICOLOGIA SOCIAL",
+    "Semestre": 3,
+    "Apelido": "PSICOLOGIA SOCIAL",
+    "CargaHorariaTeorico": 68,
+    "CargaHorariaPratica": null,
+    "ListaPrequisitos": []
+  },
+  {
+    "Id": 48108,
+    "Codigo": "0904.000.522-2",
+    "Tipo": "OBR",
+    "Descricao": "AVALIAÇÃO PSICOLÓGICA II",
+    "Semestre": 4,
+    "Apelido": "AVALIAÇÃO PSICOLÓGICA II",
+    "CargaHorariaTeorico": 68,
+    "CargaHorariaPratica": null,
+    "ListaPrequisitos": [
+      {
+        "Id": 34593,
+        "Codigo": "0904.000.059-5",
+        "Descricao": "AVALIAÇÃO PSICOLÓGICA I",
+        "Semestre": "0",
+        "Apelido": "AVALIAÇÃO PSICOLÓGICA I",
+        "CargaHorariaTeorico": 0,
+        "CargaHorariaPratica": 0,
+        "ListaPrequisitos": []
+      }
+    ]
+  },
+  {
+    "Id": 48123,
+    "Codigo": "0904.000.537-6",
+    "Tipo": "OBR",
+    "Descricao": "FENÔMENOS E PROCESSOS PSICOLÓGICOS: ENFOQUE ANALÍTICO COMPORTAMENTAL II",
+    "Semestre": 4,
+    "Apelido": "FENÔMENOS E PROCESSOS PSICOLÓGICOS: ENFOQUE ANALÍTICO COMPORTAMENTAL II",
+    "CargaHorariaTeorico": 68,
+    "CargaHorariaPratica": null,
+    "ListaPrequisitos": [
+      {
+        "Id": 48142,
+        "Codigo": "0904.000.556-3",
+        "Descricao": "FENÔMENOS E PROCESSOS PSICOLÓGICOS: ENFOQUE ANALÍTICO COMPORTAMENTAL I",
+        "Semestre": "0",
+        "Apelido": "FENÔMENOS E PROCESSOS PSICOLÓGICOS: ENFOQUE ANALÍTICO COMPORTAMENTAL I",
+        "CargaHorariaTeorico": 0,
+        "CargaHorariaPratica": 0,
+        "ListaPrequisitos": []
+      }
+    ]
+  },
+  {
+    "Id": 48111,
+    "Codigo": "0904.000.525-0",
+    "Tipo": "OBR",
+    "Descricao": "FENÔMENOS E PROCESSOS PSICOLÓGICOS: ENFOQUE HISTÓRICO-CULTURAL II",
+    "Semestre": 4,
+    "Apelido": "FENÔMENOS E PROCESSOS PSICOLÓGICOS: ENFOQUE HISTÓRICO-CULTURAL II",
+    "CargaHorariaTeorico": 68,
+    "CargaHorariaPratica": null,
+    "ListaPrequisitos": [
+      {
+        "Id": 48087,
+        "Codigo": "0904.000.501-7",
+        "Descricao": "FENÔMENOS E PROCESSOS PSICOLÓGICOS: ENFOQUE HISTÓRICO-CULTURAL I",
+        "Semestre": "0",
+        "Apelido": "FENÔMENOS E PROCESSOS PSICOLÓGICOS: ENFOQUE HISTÓRICO-CULTURAL I",
+        "CargaHorariaTeorico": 0,
+        "CargaHorariaPratica": 0,
+        "ListaPrequisitos": []
+      }
+    ]
+  },
+  {
+    "Id": 48109,
+    "Codigo": "0904.000.523-1",
+    "Tipo": "OBR",
+    "Descricao": "FENÔMENOS E PROCESSOS PSICOLÓGICOS: ENFOQUE PSICANALÍTICO II",
+    "Semestre": 4,
+    "Apelido": "FENÔMENOS E PROCESSOS PSICOLÓGICOS: ENFOQUE PSICANALÍTICO II",
+    "CargaHorariaTeorico": 68,
+    "CargaHorariaPratica": null,
+    "ListaPrequisitos": [
+      {
+        "Id": 48088,
+        "Codigo": "0904.000.502-6",
+        "Descricao": "FENÔMENOS E PROCESSOS PSICOLÓGICOS: ENFOQUE PSICANALÍTICO I",
+        "Semestre": "0",
+        "Apelido": "FENÔMENOS E PROCESSOS PSICOLÓGICOS: ENFOQUE PSICANALÍTICO I",
+        "CargaHorariaTeorico": 0,
+        "CargaHorariaPratica": 0,
+        "ListaPrequisitos": []
+      }
+    ]
+  },
+  {
+    "Id": 48120,
+    "Codigo": "0904.000.534-9",
+    "Tipo": "OBR",
+    "Descricao": "PSICOLOGIA DO DESENVOLVIMENTO II",
+    "Semestre": 4,
+    "Apelido": "PSICOLOGIA DO DESENVOLVIMENTO II",
+    "CargaHorariaTeorico": 68,
+    "CargaHorariaPratica": null,
+    "ListaPrequisitos": [
+      {
+        "Id": 48119,
+        "Codigo": "0904.000.533-0",
+        "Descricao": "PSICOLOGIA DO DESENVOLVIMENTO I",
+        "Semestre": "0",
+        "Apelido": "PSICOLOGIA DO DESENVOLVIMENTO I",
+        "CargaHorariaTeorico": 0,
+        "CargaHorariaPratica": 0,
+        "ListaPrequisitos": []
+      }
+    ]
+  },
+  {
+    "Id": 48110,
+    "Codigo": "0904.000.524-0",
+    "Tipo": "OBR",
+    "Descricao": "PSICOLOGIA E DIVERSIDADE HUMANA II",
+    "Semestre": 4,
+    "Apelido": "PSICOLOGIA E DIVERSIDADE HUMANA II",
+    "CargaHorariaTeorico": 68,
+    "CargaHorariaPratica": null,
+    "ListaPrequisitos": [
+      {
+        "Id": 48112,
+        "Codigo": "0904.000.526-9",
+        "Descricao": "PSICOLOGIA E DIVERSIDADE HUMANA I",
+        "Semestre": "0",
+        "Apelido": "PSICOLOGIA E DIVERSIDADE HUMANA I",
+        "CargaHorariaTeorico": 0,
+        "CargaHorariaPratica": 0,
+        "ListaPrequisitos": []
+      }
+    ]
+  },
+  {
+    "Id": 48146,
+    "Codigo": "0904.000.560-7",
+    "Tipo": "OBR",
+    "Descricao": "PSICOLOGIA SOCIAL II",
+    "Semestre": 4,
+    "Apelido": "PSICOLOGIA SOCIAL II",
+    "CargaHorariaTeorico": 68,
+    "CargaHorariaPratica": null,
+    "ListaPrequisitos": [
+      {
+        "Id": 48086,
+        "Codigo": "0904.000.500-8",
+        "Descricao": "PSICOLOGIA SOCIAL",
+        "Semestre": "0",
+        "Apelido": "PSICOLOGIA SOCIAL",
+        "CargaHorariaTeorico": 0,
+        "CargaHorariaPratica": 0,
+        "ListaPrequisitos": []
+      }
+    ]
+  },
+  {
+    "Id": 48098,
+    "Codigo": "0904.000.512-4",
+    "Tipo": "OBR",
+    "Descricao": "ESTÁGIO OBRIGATÓRIO BÁSICO EM PSICOLOGIA IA",
+    "Semestre": 5,
+    "Apelido": "ESTÁGIO OBRIGATÓRIO BÁSICO EM PSICOLOGIA IA",
+    "CargaHorariaTeorico": 68,
+    "CargaHorariaPratica": null,
+    "ListaPrequisitos": [
+      {
+        "Id": 48095,
+        "Codigo": "0904.000.509-0",
+        "Descricao": "MÉTODOS DE PESQUISA EM PSICOLOGIA II",
+        "Semestre": "0",
+        "Apelido": "MÉTODOS DE PESQUISA EM PSICOLOGIA II",
+        "CargaHorariaTeorico": 0,
+        "CargaHorariaPratica": 0,
+        "ListaPrequisitos": []
+      }
+    ]
+  },
+  {
+    "Id": 48116,
+    "Codigo": "0904.000.530-2",
+    "Tipo": "OBR",
+    "Descricao": "PSICOLOGIA DO TRABALHO",
+    "Semestre": 5,
+    "Apelido": "PSICOLOGIA DO TRABALHO",
+    "CargaHorariaTeorico": 68,
+    "CargaHorariaPratica": null,
+    "ListaPrequisitos": []
+  },
+  {
+    "Id": 48125,
+    "Codigo": "0904.000.539-4",
+    "Tipo": "OBR",
+    "Descricao": "PSICOLOGIA E SAÚDE I",
+    "Semestre": 5,
+    "Apelido": "PSICOLOGIA E SAÚDE I",
+    "CargaHorariaTeorico": 68,
+    "CargaHorariaPratica": null,
+    "ListaPrequisitos": []
+  },
+  {
+    "Id": 48117,
+    "Codigo": "0904.000.531-1",
+    "Tipo": "OBR",
+    "Descricao": "PSICOLOGIA ESCOLAR E EDUCACIONAL I",
+    "Semestre": 5,
+    "Apelido": "PSICOLOGIA ESCOLAR E EDUCACIONAL I",
+    "CargaHorariaTeorico": 68,
+    "CargaHorariaPratica": null,
+    "ListaPrequisitos": []
+  },
+  {
+    "Id": 48124,
+    "Codigo": "0904.000.538-5",
+    "Tipo": "OBR",
+    "Descricao": "PSICOPATOLOGIA GERAL I",
+    "Semestre": 5,
+    "Apelido": "PSICOPATOLOGIA GERAL I",
+    "CargaHorariaTeorico": 68,
+    "CargaHorariaPratica": null,
+    "ListaPrequisitos": []
+  },
+  {
+    "Id": 48147,
+    "Codigo": "0904.000.561-6",
+    "Tipo": "OBR",
+    "Descricao": "TEORIAS E TÉCNICAS PSICOTERÁPICAS - ENFOQUE PSICANALÍTICO",
+    "Semestre": 5,
+    "Apelido": "TEORIAS E TÉCNICAS PSICOTERÁPICAS - ENFOQUE PSICANALÍTICO",
+    "CargaHorariaTeorico": 68,
+    "CargaHorariaPratica": null,
+    "ListaPrequisitos": [
+      {
+        "Id": 48109,
+        "Codigo": "0904.000.523-1",
+        "Descricao": "FENÔMENOS E PROCESSOS PSICOLÓGICOS: ENFOQUE PSICANALÍTICO II",
+        "Semestre": "0",
+        "Apelido": "FENÔMENOS E PROCESSOS PSICOLÓGICOS: ENFOQUE PSICANALÍTICO II",
+        "CargaHorariaTeorico": 0,
+        "CargaHorariaPratica": 0,
+        "ListaPrequisitos": []
+      }
+    ]
+  },
+  {
+    "Id": 48102,
+    "Codigo": "0904.000.516-0",
+    "Tipo": "OBR",
+    "Descricao": "ESTÁGIO OBRIGATÓRIO BÁSICO EM PSICOLOGIA IIA",
+    "Semestre": 6,
+    "Apelido": "ESTÁGIO OBRIGATÓRIO BÁSICO EM PSICOLOGIA IIA",
+    "CargaHorariaTeorico": 68,
+    "CargaHorariaPratica": null,
+    "ListaPrequisitos": [
+      {
+        "Id": 48098,
+        "Codigo": "0904.000.512-4",
+        "Descricao": "ESTÁGIO OBRIGATÓRIO BÁSICO EM PSICOLOGIA IA",
+        "Semestre": "0",
+        "Apelido": "ESTÁGIO OBRIGATÓRIO BÁSICO EM PSICOLOGIA IA",
+        "CargaHorariaTeorico": 0,
+        "CargaHorariaPratica": 0,
+        "ListaPrequisitos": []
+      }
+    ]
+  },
+  {
+    "Id": 48127,
+    "Codigo": "0904.000.541-0",
+    "Tipo": "OBR",
+    "Descricao": "PSICOLOGIA DO TRABALHO E DAS ORGANIZAÇÕES",
+    "Semestre": 6,
+    "Apelido": "PSICOLOGIA DO TRABALHO E DAS ORGANIZAÇÕES",
+    "CargaHorariaTeorico": 68,
+    "CargaHorariaPratica": null,
+    "ListaPrequisitos": [
+      {
+        "Id": 48116,
+        "Codigo": "0904.000.530-2",
+        "Descricao": "PSICOLOGIA DO TRABALHO",
+        "Semestre": "0",
+        "Apelido": "PSICOLOGIA DO TRABALHO",
+        "CargaHorariaTeorico": 0,
+        "CargaHorariaPratica": 0,
+        "ListaPrequisitos": []
+      }
+    ]
+  },
+  {
+    "Id": 48100,
+    "Codigo": "0904.000.514-2",
+    "Tipo": "OBR",
+    "Descricao": "PSICOLOGIA E SAÚDE II",
+    "Semestre": 6,
+    "Apelido": "PSICOLOGIA E SAÚDE II",
+    "CargaHorariaTeorico": 68,
+    "CargaHorariaPratica": null,
+    "ListaPrequisitos": [
+      {
+        "Id": 48125,
+        "Codigo": "0904.000.539-4",
+        "Descricao": "PSICOLOGIA E SAÚDE I",
+        "Semestre": "0",
+        "Apelido": "PSICOLOGIA E SAÚDE I",
+        "CargaHorariaTeorico": 0,
+        "CargaHorariaPratica": 0,
+        "ListaPrequisitos": []
+      }
+    ]
+  },
+  {
+    "Id": 48114,
+    "Codigo": "0904.000.528-7",
+    "Tipo": "OBR",
+    "Descricao": "PSICOLOGIA ESCOLAR E EDUCACIONAL II",
+    "Semestre": 6,
+    "Apelido": "PSICOLOGIA ESCOLAR E EDUCACIONAL II",
+    "CargaHorariaTeorico": 68,
+    "CargaHorariaPratica": null,
+    "ListaPrequisitos": [
+      {
+        "Id": 48117,
+        "Codigo": "0904.000.531-1",
+        "Descricao": "PSICOLOGIA ESCOLAR E EDUCACIONAL I",
+        "Semestre": "0",
+        "Apelido": "PSICOLOGIA ESCOLAR E EDUCACIONAL I",
+        "CargaHorariaTeorico": 0,
+        "CargaHorariaPratica": 0,
+        "ListaPrequisitos": []
+      }
+    ]
+  },
+  {
+    "Id": 48126,
+    "Codigo": "0904.000.540-0",
+    "Tipo": "OBR",
+    "Descricao": "PSICOPATOLOGIA GERAL II",
+    "Semestre": 6,
+    "Apelido": "PSICOPATOLOGIA GERAL II",
+    "CargaHorariaTeorico": 68,
+    "CargaHorariaPratica": null,
+    "ListaPrequisitos": [
+      {
+        "Id": 48124,
+        "Codigo": "0904.000.538-5",
+        "Descricao": "PSICOPATOLOGIA GERAL I",
+        "Semestre": "0",
+        "Apelido": "PSICOPATOLOGIA GERAL I",
+        "CargaHorariaTeorico": 0,
+        "CargaHorariaPratica": 0,
+        "ListaPrequisitos": []
+      }
+    ]
+  },
+  {
+    "Id": 48131,
+    "Codigo": "0904.000.545-6",
+    "Tipo": "OBR",
+    "Descricao": "TEORIAS E TÉCNICAS PSICOTERÁPICAS: ENFOQUE ANALÍTICO COMPORTAMENTAL",
+    "Semestre": 6,
+    "Apelido": "TEORIAS E TÉCNICAS PSICOTERÁPICAS: ENFOQUE ANALÍTICO COMPORTAMENTAL",
+    "CargaHorariaTeorico": 68,
+    "CargaHorariaPratica": null,
+    "ListaPrequisitos": [
+      {
+        "Id": 48123,
+        "Codigo": "0904.000.537-6",
+        "Descricao": "FENÔMENOS E PROCESSOS PSICOLÓGICOS: ENFOQUE ANALÍTICO COMPORTAMENTAL II",
+        "Semestre": "0",
+        "Apelido": "FENÔMENOS E PROCESSOS PSICOLÓGICOS: ENFOQUE ANALÍTICO COMPORTAMENTAL II",
+        "CargaHorariaTeorico": 0,
+        "CargaHorariaPratica": 0,
+        "ListaPrequisitos": []
+      }
+    ]
+  },
+  {
+    "Id": 48128,
+    "Codigo": "0904.000.542-9",
+    "Tipo": "OBR",
+    "Descricao": "ESTÁGIO OBRIGATÓRIO BÁSICO EM PSICOLOGIA IB",
+    "Semestre": 7,
+    "Apelido": "ESTÁGIO OBRIGATÓRIO BÁSICO EM PSICOLOGIA IB",
+    "CargaHorariaTeorico": 68,
+    "CargaHorariaPratica": null,
+    "ListaPrequisitos": [
+      {
+        "Id": 48102,
+        "Codigo": "0904.000.516-0",
+        "Descricao": "ESTÁGIO OBRIGATÓRIO BÁSICO EM PSICOLOGIA IIA",
+        "Semestre": "0",
+        "Apelido": "ESTÁGIO OBRIGATÓRIO BÁSICO EM PSICOLOGIA IIA",
+        "CargaHorariaTeorico": 0,
+        "CargaHorariaPratica": 0,
+        "ListaPrequisitos": []
+      }
+    ]
+  },
+  {
+    "Id": 48099,
+    "Codigo": "0904.000.513-3",
+    "Tipo": "NAP",
+    "Descricao": "ESTÁGIO OBRIGATÓRIO IA: ÊNFASE EM PSICOLOGIA E PROCESSOS DE SAÚDE",
+    "Semestre": 7,
+    "Apelido": "ESTÁGIO OBRIGATÓRIO IA: ÊNFASE EM PSICOLOGIA E PROCESSOS DE SAÚDE",
+    "CargaHorariaTeorico": 136,
+    "CargaHorariaPratica": null,
+    "ListaPrequisitos": [
+      {
+        "Id": 48100,
+        "Codigo": "0904.000.514-2",
+        "Descricao": "PSICOLOGIA E SAÚDE II",
+        "Semestre": "0",
+        "Apelido": "PSICOLOGIA E SAÚDE II",
+        "CargaHorariaTeorico": 0,
+        "CargaHorariaPratica": 0,
+        "ListaPrequisitos": []
+      },
+      {
+        "Id": 48108,
+        "Codigo": "0904.000.522-2",
+        "Descricao": "AVALIAÇÃO PSICOLÓGICA II",
+        "Semestre": "0",
+        "Apelido": "AVALIAÇÃO PSICOLÓGICA II",
+        "CargaHorariaTeorico": 0,
+        "CargaHorariaPratica": 0,
+        "ListaPrequisitos": []
+      },
+      {
+        "Id": 48126,
+        "Codigo": "0904.000.540-0",
+        "Descricao": "PSICOPATOLOGIA GERAL II",
+        "Semestre": "0",
+        "Apelido": "PSICOPATOLOGIA GERAL II",
+        "CargaHorariaTeorico": 0,
+        "CargaHorariaPratica": 0,
+        "ListaPrequisitos": []
+      }
+    ]
+  },
+  {
+    "Id": 48129,
+    "Codigo": "0904.000.543-8",
+    "Tipo": "NAP",
+    "Descricao": "ESTÁGIO OBRIGATÓRIO IA: ÊNFASE EM PSICOLOGIA E PROCESSOS EDUCATIVOS, DE PROTEÇÃO SOCIAL E DE DESENVOLVIMENTO",
+    "Semestre": 7,
+    "Apelido": "ESTÁGIO OBRIGATÓRIO IA: ÊNFASE EM PSICOLOGIA E PROCESSOS EDUCATIVOS, DE PROTEÇÃO SOCIAL E DE DESENVOLVIMENTO",
+    "CargaHorariaTeorico": 136,
+    "CargaHorariaPratica": null,
+    "ListaPrequisitos": [
+      {
+        "Id": 48108,
+        "Codigo": "0904.000.522-2",
+        "Descricao": "AVALIAÇÃO PSICOLÓGICA II",
+        "Semestre": "0",
+        "Apelido": "AVALIAÇÃO PSICOLÓGICA II",
+        "CargaHorariaTeorico": 0,
+        "CargaHorariaPratica": 0,
+        "ListaPrequisitos": []
+      },
+      {
+        "Id": 48114,
+        "Codigo": "0904.000.528-7",
+        "Descricao": "PSICOLOGIA ESCOLAR E EDUCACIONAL II",
+        "Semestre": "0",
+        "Apelido": "PSICOLOGIA ESCOLAR E EDUCACIONAL II",
+        "CargaHorariaTeorico": 0,
+        "CargaHorariaPratica": 0,
+        "ListaPrequisitos": []
+      },
+      {
+        "Id": 48127,
+        "Codigo": "0904.000.541-0",
+        "Descricao": "PSICOLOGIA DO TRABALHO E DAS ORGANIZAÇÕES",
+        "Semestre": "0",
+        "Apelido": "PSICOLOGIA DO TRABALHO E DAS ORGANIZAÇÕES",
+        "CargaHorariaTeorico": 0,
+        "CargaHorariaPratica": 0,
+        "ListaPrequisitos": []
+      },
+      {
+        "Id": 48146,
+        "Codigo": "0904.000.560-7",
+        "Descricao": "PSICOLOGIA SOCIAL II",
+        "Semestre": "0",
+        "Apelido": "PSICOLOGIA SOCIAL II",
+        "CargaHorariaTeorico": 0,
+        "CargaHorariaPratica": 0,
+        "ListaPrequisitos": []
+      }
+    ]
+  },
+  {
+    "Id": 48115,
+    "Codigo": "0904.000.529-6",
+    "Tipo": "OBR",
+    "Descricao": "ORIENTAÇÃO PROFISSIONAL",
+    "Semestre": 7,
+    "Apelido": "ORIENTAÇÃO PROFISSIONAL",
+    "CargaHorariaTeorico": 68,
+    "CargaHorariaPratica": null,
+    "ListaPrequisitos": []
+  },
+  {
+    "Id": 48133,
+    "Codigo": "0904.000.547-4",
+    "Tipo": "OBR",
+    "Descricao": "PSICOLOGIA E PROCESSOS GRUPAIS",
+    "Semestre": 7,
+    "Apelido": "PSICOLOGIA E PROCESSOS GRUPAIS",
+    "CargaHorariaTeorico": 68,
+    "CargaHorariaPratica": null,
+    "ListaPrequisitos": []
+  },
+  {
+    "Id": 48093,
+    "Codigo": "0904.000.507-1",
+    "Tipo": "OBR",
+    "Descricao": "ESTÁGIO OBRIGATÓRIO BÁSICO EM PSICOLOGIA IIB",
+    "Semestre": 8,
+    "Apelido": "ESTÁGIO OBRIGATÓRIO BÁSICO EM PSICOLOGIA IIB",
+    "CargaHorariaTeorico": 68,
+    "CargaHorariaPratica": null,
+    "ListaPrequisitos": [
+      {
+        "Id": 48128,
+        "Codigo": "0904.000.542-9",
+        "Descricao": "ESTÁGIO OBRIGATÓRIO BÁSICO EM PSICOLOGIA IB",
+        "Semestre": "0",
+        "Apelido": "ESTÁGIO OBRIGATÓRIO BÁSICO EM PSICOLOGIA IB",
+        "CargaHorariaTeorico": 0,
+        "CargaHorariaPratica": 0,
+        "ListaPrequisitos": []
+      }
+    ]
+  },
+  {
+    "Id": 48134,
+    "Codigo": "0904.000.548-3",
+    "Tipo": "NAP",
+    "Descricao": "ESTÁGIO OBRIGATÓRIO IIA: ÊNFASE EM PSICOLOGIA E PROCESSOS DE SAÚDE",
+    "Semestre": 8,
+    "Apelido": "ESTÁGIO OBRIGATÓRIO IIA: ÊNFASE EM PSICOLOGIA E PROCESSOS DE SAÚDE",
+    "CargaHorariaTeorico": 136,
+    "CargaHorariaPratica": null,
+    "ListaPrequisitos": [
+      {
+        "Id": 48099,
+        "Codigo": "0904.000.513-3",
+        "Descricao": "ESTÁGIO OBRIGATÓRIO IA: ÊNFASE EM PSICOLOGIA E PROCESSOS DE SAÚDE",
+        "Semestre": "0",
+        "Apelido": "ESTÁGIO OBRIGATÓRIO IA: ÊNFASE EM PSICOLOGIA E PROCESSOS DE SAÚDE",
+        "CargaHorariaTeorico": 0,
+        "CargaHorariaPratica": 0,
+        "ListaPrequisitos": []
+      }
+    ]
+  },
+  {
+    "Id": 48144,
+    "Codigo": "0904.000.558-1",
+    "Tipo": "NAP",
+    "Descricao": "ESTÁGIO OBRIGATÓRIO IIA: ÊNFASE EM PSICOLOGIA E PROCESSOS EDUCATIVOS, DE PROTEÇÃO SOCIAL E DE DESENVOLVIMENTO",
+    "Semestre": 8,
+    "Apelido": "ESTÁGIO OBRIGATÓRIO IIA: ÊNFASE EM PSICOLOGIA E PROCESSOS EDUCATIVOS, DE PROTEÇÃO SOCIAL E DE DESENVOLVIMENTO",
+    "CargaHorariaTeorico": 136,
+    "CargaHorariaPratica": null,
+    "ListaPrequisitos": [
+      {
+        "Id": 48129,
+        "Codigo": "0904.000.543-8",
+        "Descricao": "ESTÁGIO OBRIGATÓRIO IA: ÊNFASE EM PSICOLOGIA E PROCESSOS EDUCATIVOS, DE PROTEÇÃO SOCIAL E DE DESENVOLVIMENTO",
+        "Semestre": "0",
+        "Apelido": "ESTÁGIO OBRIGATÓRIO IA: ÊNFASE EM PSICOLOGIA E PROCESSOS EDUCATIVOS, DE PROTEÇÃO SOCIAL E DE DESENVOLVIMENTO",
+        "CargaHorariaTeorico": 0,
+        "CargaHorariaPratica": 0,
+        "ListaPrequisitos": []
+      }
+    ]
+  },
+  {
+    "Id": 48132,
+    "Codigo": "0904.000.546-5",
+    "Tipo": "NAP",
+    "Descricao": "ESTÁGIO OBRIGATÓRIO IB: ÊNFASE EM PSICOLOGIA E PROCESSOS DE SAÚDE",
+    "Semestre": 9,
+    "Apelido": "ESTÁGIO OBRIGATÓRIO IB: ÊNFASE EM PSICOLOGIA E PROCESSOS DE SAÚDE",
+    "CargaHorariaTeorico": 136,
+    "CargaHorariaPratica": null,
+    "ListaPrequisitos": [
+      {
+        "Id": 48100,
+        "Codigo": "0904.000.514-2",
+        "Descricao": "PSICOLOGIA E SAÚDE II",
+        "Semestre": "0",
+        "Apelido": "PSICOLOGIA E SAÚDE II",
+        "CargaHorariaTeorico": 0,
+        "CargaHorariaPratica": 0,
+        "ListaPrequisitos": []
+      },
+      {
+        "Id": 48108,
+        "Codigo": "0904.000.522-2",
+        "Descricao": "AVALIAÇÃO PSICOLÓGICA II",
+        "Semestre": "0",
+        "Apelido": "AVALIAÇÃO PSICOLÓGICA II",
+        "CargaHorariaTeorico": 0,
+        "CargaHorariaPratica": 0,
+        "ListaPrequisitos": []
+      },
+      {
+        "Id": 48126,
+        "Codigo": "0904.000.540-0",
+        "Descricao": "PSICOPATOLOGIA GERAL II",
+        "Semestre": "0",
+        "Apelido": "PSICOPATOLOGIA GERAL II",
+        "CargaHorariaTeorico": 0,
+        "CargaHorariaPratica": 0,
+        "ListaPrequisitos": []
+      },
+      {
+        "Id": 48131,
+        "Codigo": "0904.000.545-6",
+        "Descricao": "TEORIAS E TÉCNICAS PSICOTERÁPICAS: ENFOQUE ANALÍTICO COMPORTAMENTAL",
+        "Semestre": "0",
+        "Apelido": "TEORIAS E TÉCNICAS PSICOTERÁPICAS: ENFOQUE ANALÍTICO COMPORTAMENTAL",
+        "CargaHorariaTeorico": 0,
+        "CargaHorariaPratica": 0,
+        "ListaPrequisitos": []
+      },
+      {
+        "Id": 48147,
+        "Codigo": "0904.000.561-6",
+        "Descricao": "TEORIAS E TÉCNICAS PSICOTERÁPICAS - ENFOQUE PSICANALÍTICO",
+        "Semestre": "0",
+        "Apelido": "TEORIAS E TÉCNICAS PSICOTERÁPICAS - ENFOQUE PSICANALÍTICO",
+        "CargaHorariaTeorico": 0,
+        "CargaHorariaPratica": 0,
+        "ListaPrequisitos": []
+      }
+    ]
+  },
+  {
+    "Id": 48130,
+    "Codigo": "0904.000.544-7",
+    "Tipo": "NAP",
+    "Descricao": "ESTÁGIO OBRIGATÓRIO IB: ÊNFASE EM PSICOLOGIA E PROCESSOS EDUCATIVOS, DE PROTEÇÃO SOCIAL E DE DESENVOLVIMENTO",
+    "Semestre": 9,
+    "Apelido": "ESTÁGIO OBRIGATÓRIO IB: ÊNFASE EM PSICOLOGIA E PROCESSOS EDUCATIVOS, DE PROTEÇÃO SOCIAL E DE DESENVOLVIMENTO",
+    "CargaHorariaTeorico": 136,
+    "CargaHorariaPratica": null,
+    "ListaPrequisitos": [
+      {
+        "Id": 48108,
+        "Codigo": "0904.000.522-2",
+        "Descricao": "AVALIAÇÃO PSICOLÓGICA II",
+        "Semestre": "0",
+        "Apelido": "AVALIAÇÃO PSICOLÓGICA II",
+        "CargaHorariaTeorico": 0,
+        "CargaHorariaPratica": 0,
+        "ListaPrequisitos": []
+      },
+      {
+        "Id": 48114,
+        "Codigo": "0904.000.528-7",
+        "Descricao": "PSICOLOGIA ESCOLAR E EDUCACIONAL II",
+        "Semestre": "0",
+        "Apelido": "PSICOLOGIA ESCOLAR E EDUCACIONAL II",
+        "CargaHorariaTeorico": 0,
+        "CargaHorariaPratica": 0,
+        "ListaPrequisitos": []
+      },
+      {
+        "Id": 48127,
+        "Codigo": "0904.000.541-0",
+        "Descricao": "PSICOLOGIA DO TRABALHO E DAS ORGANIZAÇÕES",
+        "Semestre": "0",
+        "Apelido": "PSICOLOGIA DO TRABALHO E DAS ORGANIZAÇÕES",
+        "CargaHorariaTeorico": 0,
+        "CargaHorariaPratica": 0,
+        "ListaPrequisitos": []
+      },
+      {
+        "Id": 48146,
+        "Codigo": "0904.000.560-7",
+        "Descricao": "PSICOLOGIA SOCIAL II",
+        "Semestre": "0",
+        "Apelido": "PSICOLOGIA SOCIAL II",
+        "CargaHorariaTeorico": 0,
+        "CargaHorariaPratica": 0,
+        "ListaPrequisitos": []
+      }
+    ]
+  },
+  {
+    "Id": 48143,
+    "Codigo": "0904.000.557-2",
+    "Tipo": "NAP",
+    "Descricao": "ESTÁGIO OBRIGATÓRIO IIB: ÊNFASE EM PSICOLOGIA E PROCESSOS DE SAÚDE",
+    "Semestre": 10,
+    "Apelido": "ESTÁGIO OBRIGATÓRIO IIB: ÊNFASE EM PSICOLOGIA E PROCESSOS DE SAÚDE",
+    "CargaHorariaTeorico": 136,
+    "CargaHorariaPratica": null,
+    "ListaPrequisitos": [
+      {
+        "Id": 48132,
+        "Codigo": "0904.000.546-5",
+        "Descricao": "ESTÁGIO OBRIGATÓRIO IB: ÊNFASE EM PSICOLOGIA E PROCESSOS DE SAÚDE",
+        "Semestre": "0",
+        "Apelido": "ESTÁGIO OBRIGATÓRIO IB: ÊNFASE EM PSICOLOGIA E PROCESSOS DE SAÚDE",
+        "CargaHorariaTeorico": 0,
+        "CargaHorariaPratica": 0,
+        "ListaPrequisitos": []
+      }
+    ]
+  },
+  {
+    "Id": 48145,
+    "Codigo": "0904.000.559-0",
+    "Tipo": "NAP",
+    "Descricao": "ESTÁGIO OBRIGATÓRIO IIB: ÊNFASE EM PSICOLOGIA E PROCESSOS EDUCATIVOS, DE PROTEÇÃO SOCIAL E DE DESENVOLVIMENTO",
+    "Semestre": 10,
+    "Apelido": "ESTÁGIO OBRIGATÓRIO IIB: ÊNFASE EM PSICOLOGIA E PROCESSOS EDUCATIVOS, DE PROTEÇÃO SOCIAL E DE DESENVOLVIMENTO",
+    "CargaHorariaTeorico": 136,
+    "CargaHorariaPratica": null,
+    "ListaPrequisitos": [
+      {
+        "Id": 48130,
+        "Codigo": "0904.000.544-7",
+        "Descricao": "ESTÁGIO OBRIGATÓRIO IB: ÊNFASE EM PSICOLOGIA E PROCESSOS EDUCATIVOS, DE PROTEÇÃO SOCIAL E DE DESENVOLVIMENTO",
+        "Semestre": "0",
+        "Apelido": "ESTÁGIO OBRIGATÓRIO IB: ÊNFASE EM PSICOLOGIA E PROCESSOS EDUCATIVOS, DE PROTEÇÃO SOCIAL E DE DESENVOLVIMENTO",
+        "CargaHorariaTeorico": 0,
+        "CargaHorariaPratica": 0,
+        "ListaPrequisitos": []
+      }
+    ]
+  },
+  {
+    "Id": 48089,
+    "Codigo": "0904.000.503-5",
+    "Tipo": "OPT",
+    "Descricao": "ANÁLISE DO COMPORTAMENTO APLICADA",
+    "Semestre": 99,
+    "Apelido": "ANÁLISE DO COMPORTAMENTO APLICADA",
+    "CargaHorariaTeorico": 68,
+    "CargaHorariaPratica": null,
+    "ListaPrequisitos": []
+  },
+  {
+    "Id": 42995,
+    "Codigo": "0904.000.197-4",
+    "Tipo": "OPT",
+    "Descricao": "DIREITOS HUMANOS E PSICOLOGIA",
+    "Semestre": 99,
+    "Apelido": "DIREITOS HUMANOS E PSICOLOGIA",
+    "CargaHorariaTeorico": 68,
+    "CargaHorariaPratica": null,
+    "ListaPrequisitos": []
+  },
+  {
+    "Id": 42994,
+    "Codigo": "0904.000.196-6",
+    "Tipo": "OPT",
+    "Descricao": "EDUCAÇÃO PARA AS RELAÇÕES ÉTNICO RACIAIS",
+    "Semestre": 99,
+    "Apelido": "EDUCAÇÃO PARA AS RELAÇÕES ÉTNICO RACIAIS",
+    "CargaHorariaTeorico": 68,
+    "CargaHorariaPratica": null,
+    "ListaPrequisitos": []
+  },
+  {
+    "Id": 34638,
+    "Codigo": "0904.000.104-4",
+    "Tipo": "OPT",
+    "Descricao": "ESTUDO DE LIBRAS",
+    "Semestre": 99,
+    "Apelido": "ESTUDO DE LIBRAS",
+    "CargaHorariaTeorico": 68,
+    "CargaHorariaPratica": null,
+    "ListaPrequisitos": []
+  },
+  {
+    "Id": 34640,
+    "Codigo": "0904.000.106-0",
+    "Tipo": "OPT",
+    "Descricao": "INTERVENÇÃO PSICOPEDAGÓGICA",
+    "Semestre": 99,
+    "Apelido": "INTERVENÇÃO PSICOPEDAGÓGICA",
+    "CargaHorariaTeorico": 68,
+    "CargaHorariaPratica": null,
+    "ListaPrequisitos": []
+  },
+  {
+    "Id": 34641,
+    "Codigo": "0904.000.107-9",
+    "Tipo": "OPT",
+    "Descricao": "LUDOTERAPIA",
+    "Semestre": 99,
+    "Apelido": "LUDOTERAPIA",
+    "CargaHorariaTeorico": 68,
+    "CargaHorariaPratica": null,
+    "ListaPrequisitos": []
+  },
+  {
+    "Id": 34644,
+    "Codigo": "0904.000.110-9",
+    "Tipo": "OPT",
+    "Descricao": "PSICOFARMACOLOGIA",
+    "Semestre": 99,
+    "Apelido": "PSICOFARMACOLOGIA",
+    "CargaHorariaTeorico": 68,
+    "CargaHorariaPratica": null,
+    "ListaPrequisitos": []
+  },
+  {
+    "Id": 48136,
+    "Codigo": "0904.000.550-9",
+    "Tipo": "OPT",
+    "Descricao": "PSICOLOGIA AMBIENTAL",
+    "Semestre": 99,
+    "Apelido": "PSICOLOGIA AMBIENTAL",
+    "CargaHorariaTeorico": 68,
+    "CargaHorariaPratica": null,
+    "ListaPrequisitos": []
+  },
+  {
+    "Id": 34650,
+    "Codigo": "0904.000.116-8",
+    "Tipo": "OPT",
+    "Descricao": "PSICOLOGIA E O SISTEMA ÚNICO DE ASSISTÊNCIA SOCIAL",
+    "Semestre": 99,
+    "Apelido": "PSICOLOGIA E O SISTEMA ÚNICO DE ASSISTÊNCIA SOCIAL",
+    "CargaHorariaTeorico": 68,
+    "CargaHorariaPratica": null,
+    "ListaPrequisitos": []
+  },
+  {
+    "Id": 34655,
+    "Codigo": "0904.000.121-4",
+    "Tipo": "OPT",
+    "Descricao": "SEMINÁRIO EM FENÔMENOS E PROCESSOS PSICOLÓGICOS",
+    "Semestre": 99,
+    "Apelido": "SEMINÁRIO EM FENÔMENOS E PROCESSOS PSICOLÓGICOS",
+    "CargaHorariaTeorico": 68,
+    "CargaHorariaPratica": null,
+    "ListaPrequisitos": []
+  },
+  {
+    "Id": 34656,
+    "Codigo": "0904.000.122-2",
+    "Tipo": "OPT",
+    "Descricao": "SEMINÁRIO EM FUNDAMENTOS EPISTEMOLÓGICOS E HISTÓRICOS",
+    "Semestre": 99,
+    "Apelido": "SEMINÁRIO EM FUNDAMENTOS EPISTEMOLÓGICOS E HISTÓRICOS",
+    "CargaHorariaTeorico": 68,
+    "CargaHorariaPratica": null,
+    "ListaPrequisitos": []
+  },
+  {
+    "Id": 48139,
+    "Codigo": "0904.000.553-6",
+    "Tipo": "OPT",
+    "Descricao": "SEMINÁRIOS EM AVALIAÇÃO PSICOLÓGICA",
+    "Semestre": 99,
+    "Apelido": "SEMINÁRIOS EM AVALIAÇÃO PSICOLÓGICA",
+    "CargaHorariaTeorico": 68,
+    "CargaHorariaPratica": null,
+    "ListaPrequisitos": []
+  },
+  {
+    "Id": 48092,
+    "Codigo": "0904.000.506-2",
+    "Tipo": "OPT",
+    "Descricao": "SEMINÁRIOS EM BASES BIOLÓGICAS DO COMPORTAMENTO",
+    "Semestre": 99,
+    "Apelido": "SEMINÁRIOS EM BASES BIOLÓGICAS DO COMPORTAMENTO",
+    "CargaHorariaTeorico": 68,
+    "CargaHorariaPratica": null,
+    "ListaPrequisitos": []
+  },
+  {
+    "Id": 48140,
+    "Codigo": "0904.000.554-5",
+    "Tipo": "OPT",
+    "Descricao": "SEMINÁRIOS EM DESENVOLVIMENTO HUMANO",
+    "Semestre": 99,
+    "Apelido": "SEMINÁRIOS EM DESENVOLVIMENTO HUMANO",
+    "CargaHorariaTeorico": 68,
+    "CargaHorariaPratica": null,
+    "ListaPrequisitos": []
+  },
+  {
+    "Id": 48091,
+    "Codigo": "0904.000.505-3",
+    "Tipo": "OPT",
+    "Descricao": "SEMINÁRIOS EM PROCESSOS PSICOLÓGICOS BÁSICOS",
+    "Semestre": 99,
+    "Apelido": "SEMINÁRIOS EM PROCESSOS PSICOLÓGICOS BÁSICOS",
+    "CargaHorariaTeorico": 68,
+    "CargaHorariaPratica": null,
+    "ListaPrequisitos": []
+  },
+  {
+    "Id": 48097,
+    "Codigo": "0904.000.511-5",
+    "Tipo": "OPT",
+    "Descricao": "SEMINÁRIOS EM PSICOLOGIA CLÍNICA",
+    "Semestre": 99,
+    "Apelido": "SEMINÁRIOS EM PSICOLOGIA CLÍNICA",
+    "CargaHorariaTeorico": 68,
+    "CargaHorariaPratica": null,
+    "ListaPrequisitos": []
+  },
+  {
+    "Id": 48138,
+    "Codigo": "0904.000.552-7",
+    "Tipo": "OPT",
+    "Descricao": "SEMINÁRIOS EM PSICOLOGIA DO TRABALHO E DAS ORGANIZAÇÕES",
+    "Semestre": 99,
+    "Apelido": "SEMINÁRIOS EM PSICOLOGIA DO TRABALHO E DAS ORGANIZAÇÕES",
+    "CargaHorariaTeorico": 68,
+    "CargaHorariaPratica": null,
+    "ListaPrequisitos": []
+  },
+  {
+    "Id": 48135,
+    "Codigo": "0904.000.549-2",
+    "Tipo": "OPT",
+    "Descricao": "SEMINÁRIOS EM PSICOLOGIA E SAÚDE",
+    "Semestre": 99,
+    "Apelido": "SEMINÁRIOS EM PSICOLOGIA E SAÚDE",
+    "CargaHorariaTeorico": 68,
+    "CargaHorariaPratica": null,
+    "ListaPrequisitos": []
+  },
+  {
+    "Id": 48094,
+    "Codigo": "0904.000.508-0",
+    "Tipo": "OPT",
+    "Descricao": "SEMINÁRIOS EM PSICOLOGIA ESCOLAR E EDUCACIONAL",
+    "Semestre": 99,
+    "Apelido": "SEMINÁRIOS EM PSICOLOGIA ESCOLAR E EDUCACIONAL",
+    "CargaHorariaTeorico": 68,
+    "CargaHorariaPratica": null,
+    "ListaPrequisitos": []
+  },
+  {
+    "Id": 48137,
+    "Codigo": "0904.000.551-8",
+    "Tipo": "OPT",
+    "Descricao": "SEMINÁRIOS EM PSICOLOGIA SOCIAL",
+    "Semestre": 99,
+    "Apelido": "SEMINÁRIOS EM PSICOLOGIA SOCIAL",
+    "CargaHorariaTeorico": 68,
+    "CargaHorariaPratica": null,
+    "ListaPrequisitos": []
+  },
+  {
+    "Id": 48090,
+    "Codigo": "0904.000.504-4",
+    "Tipo": "OPT",
+    "Descricao": "TÓPICOS AVANÇADOS EM TÉCNICAS PSICOTERÁPICAS ANALÍTICO COMPORTAMENTAIS",
+    "Semestre": 99,
+    "Apelido": "TÓPICOS AVANÇADOS EM TÉCNICAS PSICOTERÁPICAS ANALÍTICO COMPORTAMENTAIS",
+    "CargaHorariaTeorico": 68,
+    "CargaHorariaPratica": null,
+    "ListaPrequisitos": []
+  }
+]

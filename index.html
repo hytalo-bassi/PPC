@@ -4,6 +4,7 @@
         <meta charset="utf-8">
         <title>PPC</title>
         <meta name="viewport" content="width=device-width,initial-scale=1">
+        <script src="https://cdn.jsdelivr.net/npm/@tailwindcss/browser@4"></script>
         <script type="importmap">
           {
             "imports": {
@@ -15,38 +16,30 @@
     </head>
     
     <body>
-        <div id="app">
-            <header>
-            <div class="Header_Content"><h1 class="Titulo">Quadro de Semestralização e Pré-Requisitos</h1></div>
-            <div class="Header_Content"id="Options">
-                <label>
-                    <input type="checkbox" name="bt" id="CH_preview">
-                    <span></span>
-                    <h1>Pré-visualizar Carga Horária</h1>
-                </label>
-                <label>
-                    <input type="checkbox" name="bt" id="SUB_preview">
-                    <span></span>
-                    <h1>Pré-visualizar Legenda</h1>
-                </label>
-            </div>
-            <div class="Quadro">
-                <div id="Semestres">
-                    <div class="Semestre" v-for="i in numero_semestres">
-                        <div class="Split">{{ i }}</div>
-                        <div class="column-items-around">
-                            <div class="Disciplina" v-for="(discipline) in getDisciplinesBySemester(i - 1)" :key="discipline.id_curso">
-                                <h1>{{ discipline.apelido }}</h1>
-                                <p class="CH">CH: {{ discipline.carga_horaria }} horas</p>
-                                <div class="Espace"><div class="Matematica"></div></div>
-                            </div>
+        <div id="app" class="bg-linear-65 from-blue-400 to-rose-500 w-full h-full px-24 overflow-auto">
+            <header class="text-center w-full pb-12">
+                <div class="Header_Content"><h1 class="text-4xl font-semibold">Quadro de Semestralização e Pré-Requisitos</h1></div>
+            </header>
+            <div class="flex flex-row space-x-12 overflow-x-scroll">
+                <div class="flex-1" v-for="i in numero_semestres">
+                    <div class="rounded-full text-center border border-white/50 bg-black/20 h-6 mb-2">
+                        <span class="text-sm">{{ i }}</span>
+                    </div>
+                    <div class="flex justify-around flex-col h-full">
+                        <div 
+                            class="discipline"
+                            v-for="(discipline) in getDisciplinesBySemester(i - 1)"
+                            :ref="el => setDisciplineRef(el, discipline.id_curso)"
+                            :key="discipline.id_curso">
+
+                            <h1 class="font-semibold text-[12px]/[12px] first-letter:uppercase">{{ discipline.apelido }}</h1>
+                            <p class="hidden">CH: {{ discipline.carga_horaria }} horas</p>
                         </div>
                     </div>
                 </div>
             </div>
-        </header>
 
-        <div class="Line"></div>
+            <div class="Line"></div>
         </div>
         <script type="module">
           import { createApp } from 'vue'
@@ -54,285 +47,5 @@
 
           createApp(App).mount('#app')
         </script>
-<!--    
-        <header>
-            <div class="Header_Content"><h1 class="Titulo">Quadro de Semestralização e Pré-Requisitos</h1></div>
-            <div class="Header_Content"id="Options">
-                <label>
-                    <input type="checkbox" name="bt" id="CH_preview">
-                    <span></span>
-                    <h1>Pré-visualizar Carga Horária</h1>
-                </label>
-                <label>
-                    <input type="checkbox" name="bt" id="SUB_preview">
-                    <span></span>
-                    <h1>Pré-visualizar Legenda</h1>
-                </label>
-            </div>
-            
-        </header>
-
-        <div class="Line"></div>
-
-        <div id="Quadro">
-
-            <div id="Splits">
-                <div class="Split">1</div>
-                <div class="Split">2</div>
-                <div class="Split">3</div>
-                <div class="Split">4</div>
-                <div class="Split">5</div>
-                <div class="Split">6</div>
-                <div class="Split">7</div>
-            </div>
-
-            <div id="Semestres">
-
-                <div id="Semestre_1" class="Semestre">
-                    <div class="Disciplina">
-                        <h1>Cálculo I</h1>
-                        <p class="CH">CH: 68 horas</p>
-                        <div class="Espace"><div class="Matematica"></div></div>
-                    </div>
-                    <div class="Disciplina">
-                        <h1>Vetores e Geometria Analítica</h1>
-                        <p class="CH">CH: 68 horas</p>
-                        <div class="Espace"><div class="Matematica"></div></div>
-                    </div>
-                    <div class="Disciplina">
-                        <h1>Algoritmos e Progamação I</h1>
-                        <p class="CH">CH: 102 horas</p>
-                        <div class="Espace"><div class="Programacao"></div></div>
-                    </div>
-                    <div class="Disciplina">
-                        <h1>Introdução à Computação</h1>
-                        <p class="CH">CH: 34 horas</p>
-                        <div class="Espace"><div class="Programacao"></div></div>
-                    </div>
-                    <div class="Disciplina">
-                        <h1>Computação e Sociedade</h1>
-                        <p class="CH">CH: 34 horas</p>
-                        <div class="Espace"><div class="Humanas"></div></div>
-                    </div>
-                </div>
-
-                <div id="Semestre_2" class="Semestre">
-                    <div class="Disciplina Requisita">
-                        <h1>Cálculo II</h1>
-                        <p class="CH">CH: 68 horas</p>
-                        <div class="Espace"><div class="Matematica"></div></div>
-                    </div>
-                    <div class="Disciplina Requisita">
-                        <h1>Sequências e Séries</h1>
-                        <p class="CH">CH: 34 horas</p>
-                        <div class="Espace"><div class="Matematica"></div></div>
-                    </div>
-                    <div class="Disciplina Requisita">
-                        <h1>Algoritmos e Progamação II</h1>
-                        <p class="CH">CH: 102 horas</p>
-                        <div class="Espace"><div class="Programacao"></div></div>
-                    </div>
-                    <div class="Disciplina">
-                        <h1>Fundamentos da Teoria da Computação</h1>
-                        <p class="CH">CH: 68 horas</p>
-                        <div class="Espace"><div class="Programacao"></div></div>
-                    </div>
-                    <div class="Disciplina">
-                        <h1>Sistemas Digitais</h1>
-                        <p class="CH">CH: 68 horas</p>
-                        <div class="Espace"><div class="Sistemas"></div></div>
-                    </div>
-                </div>
-
-                <div id="Semestre_3" class="Semestre">
-                    <div class="Disciplina">
-                        <h1>Álgebra Linear</h1>
-                        <p class="CH">CH: 68 horas</p>
-                        <div class="Espace"><div class="Matematica"></div></div>
-                    </div>
-                    <div class="Disciplina Requisita">
-                        <h1>Linguagens Formais e Autômatos</h1>
-                        <p class="CH">CH: 68 horas</p>
-                        <div class="Espace"><div class="Programacao"></div></div>
-                    </div>
-                    <div class="Disciplina Requisita">
-                        <h1>Linguagem de Programação Orientada a Objetos</h1>
-                        <p class="CH">CH: 68 horas</p>
-                        <div class="Espace"><div class="Programacao"></div></div>
-                    </div>
-                    <div class="Disciplina Requisita">
-                        <h1>Estruturas de Dados</h1>
-                        <p class="CH">CH: 68 horas</p>
-                        <div class="Espace"><div class="Sistemas"></div></div>
-                    </div>
-                    <div class="Disciplina">
-                        <h1>Banco de Dados</h1>
-                        <p class="CH">CH: 68 horas</p>
-                        <div class="Espace"><div class="Sistemas"></div></div>
-                    </div>
-                </div>
-
-                <div id="Semestre_4" class="Semestre">
-                    <div class="Disciplina">
-                        <h1>Probabilidade e Estatística</h1>
-                        <p class="CH">CH: 68 horas</p>
-                        <div class="Espace"><div class="Matematica"></div></div>
-                    </div>
-                    <div class="Disciplina Requisita">
-                        <h1>Teoria dos Grafos e seus Algoritmos</h1>
-                        <p class="CH">CH: 68 horas</p>
-                        <div class="Espace"><div class="Programacao"></div></div>
-                    </div>
-                    <div class="Disciplina Requisita">
-                        <h1>Projeto e Análise de Algoritmos I</h1>
-                        <p class="CH">CH: 68 horas</p>
-                        <div class="Espace"><div class="Programacao"></div></div>
-                    </div>
-                    <div class="Disciplina Requisita">
-                        <h1>Arquitetura de Computadores I</h1>
-                        <p class="CH">CH: 68 horas</p>
-                        <div class="Espace"><div class="Sistemas"></div></div>
-                    </div>
-                    <div class="Disciplina">
-                        <h1>Engenharia de Software</h1>
-                        <p class="CH">CH: 68 horas</p>
-                        <div class="Espace"><div class="Sistemas"></div></div>
-                    </div>
-                </div>
-
-                <div id="Semestre_5" class="Semestre">
-                    <div class="Disciplina">
-                        <h1>Métodos Numéricos</h1>
-                        <p class="CH">CH: 68 horas</p>
-                        <div class="Espace"><div class="Matematica"></div></div>
-                    </div>
-                    <div class="Disciplina Requisita">
-                        <h1>Inteligência Artificial</h1>
-                        <p class="CH">CH: 68 horas</p>
-                        <div class="Espace"><div class="Programacao"></div></div>
-                    </div>
-                    <div class="Disciplina Requisita">
-                        <h1>Compiladores I</h1>
-                        <p class="CH">CH: 68 horas</p>
-                        <div class="Espace"><div class="Sistemas"></div></div>
-                    </div>
-                    <div class="Disciplina Requisita">
-                        <h1>Arquitetura de Computadores II</h1>
-                        <p class="CH">CH: 68 horas</p>
-                        <div class="Espace"><div class="Sistemas"></div></div>
-                    </div>
-                    <div class="Disciplina Requisita">
-                        <h1>Sistemas Operacionais</h1>
-                        <p class="CH">CH: 68 horas</p>
-                        <div class="Espace"><div class="Sistemas"></div></div>
-                    </div>
-                </div>
-
-                <div id="Semestre_6" class="Semestre">
-                    <div class="Disciplina Requisita">
-                        <h1>Programação Paralela</h1>
-                        <p class="CH">CH: 68 horas</p>
-                        <div class="Espace"><div class="Programacao"></div></div>
-                    </div>
-                    <div class="Disciplina Requisita">
-                        <h1>Computação Gráfica</h1>
-                        <p class="CH">CH: 68 horas</p>
-                        <div class="Espace"><div class="Programacao"></div></div>
-                    </div>
-                    <div class="Disciplina Requisita">
-                        <h1>Análise e Projeto de Software Orientado a Objetos</h1>
-                        <p class="CH">CH: 68 horas</p>
-                        <div class="Espace"><div class="Sistemas"></div></div>
-                    </div>
-                    <div class="Disciplina Requisita">
-                        <h1>Redes de Computadores</h1>
-                        <p class="CH">CH: 68 horas</p>
-                        <div class="Espace"><div class="Sistemas"></div></div>
-                    </div>
-                </div>
-
-                <div id="Semestre_7" class="Semestre">
-                    <div class="Disciplina Requisita">
-                        <h1>Sistemas Distribuídos</h1>
-                        <p class="CH">CH: 68 horas</p>
-                        <div class="Espace"><div class="Sistemas"></div></div>
-                    </div>
-                </div>
-
-            </div>
-
-            <div id="Legenda">
-                <div class="Card">
-                    <div class="Dot Hum"></div>
-                    <p>Humanas</p>
-                </div>
-                <div class="Card">
-                    <div class="Dot Mat"></div>
-                    <p>Matemática e Estatística</p>
-                </div>
-                <div class="Card">
-                    <div class="Dot Prog"></div>
-                    <p>Algoritmos e Programação</p>
-                </div>
-                <div class="Card">
-                    <div class="Dot Sys"></div>
-                    <p>Sistemas de Computação</p>
-                </div>
-                <div class="Card">
-                    <div class="Dot Req"></div>
-                    <p>Possuem Requisitos</p>
-                </div>
-            </div>
-        
-        </div>   
-    
-        <div id="Componentes">
-            <div>
-                <h1 class="Titulo">COMPONENTES CURRICULARES NÃO DISCIPLINARES</h1>
-            </div>
-            <div class="Line"></div>
-            <div id="Disciplinares">
-                <div class="CCD">
-                    <h1>Disciplinas Complementares Optativas</h1>
-                    <p>CH: 272 horas</p>
-                    <button class="BT_CCD">Sobre</button>
-                </div>
-                <div class="CCD">
-                    <h1>Atividades Complementares</h1>
-                    <p>CH: 146 horas</p>
-                    <button class="BT_CCD">Sobre</button>
-                </div>
-                <div class="CCD">
-                    <h1>Atividades<br>de<br>Extensão</h1>
-                    <p>CH: 320 horas</p>
-                    <button class="BT_CCD">Sobre</button>
-                </div>
-                <div class="CCD">
-                    <h1>Estágio Obrigatório</h1>
-                    <p>CH: 320 horas</p>
-                    <button class="BT_CCD">Sobre</button>
-                </div>
-                <div class="CCD">
-                    <h1>Trabalho de Conclusão de Curso</h1>
-                    <p>CH: 136 horas</p>
-                    <button class="BT_CCD">Sobre</button>
-                </div>
-            </div>
-        </div>
-
-        <dialog id="Info_Disciplina">
-            <div></div>
-            <div></div>
-            <div></div>
-            <div></div>
-        </dialog>
-
-        <dialog id="Info_CCD">
-            <div><h1>Titulo</h1></div>
-            <div>Info do Componente Currícular não Disciplinar</div>
-            <button>Fechar</button>
-        </dialog>
-
-        <script src="PPC.js"></script> -->
     </body>
  </html>

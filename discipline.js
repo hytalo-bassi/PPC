@@ -5,7 +5,7 @@ export const TipoCurso = Object.freeze({
 
 export class Discipline {
   constructor(apelido, carga_horaria, id_curso, tipo, semestre, pre_requisitos, requisitoDe) {
-    this.apelido = apelido;
+    this.apelido = apelido.toLowerCase();
     this.carga_horaria = carga_horaria;
 
     this.id_curso = id_curso;

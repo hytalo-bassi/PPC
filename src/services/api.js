@@ -1,7 +1,7 @@
-import { Discipline, TipoCurso } from "./discipline.js";
+import { Discipline, TipoCurso } from "../models/discipline.js";
 
 async function load_json(code) {
-  const res = await fetch(`/json/${code}.json`);
+  const res = await fetch(`/data/${code}.json`);
   const data = res.json();
   return data;
 }

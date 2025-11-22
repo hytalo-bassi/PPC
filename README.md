@@ -26,11 +26,12 @@ Após executar o comando, acesse `http://localhost:8000` no seu navegador.
 Para fazer o download dos dados mais recentes dos cursos:
 
 ```bash
-python script/data_scraper.py
+npm run dev
 ```
 
 ## Tecnologias Utilizadas
 
 - HTML/CSS/JavaScript
-- Vue.js
+- Vue.js + Vite
+- Tailwind CSS
 - Python (para coleta de dados)

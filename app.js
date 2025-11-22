@@ -1,38 +1,45 @@
-import { ref } from 'vue'
-import { Discipline } from './discipline.js';
+import { ref, onMounted, computed } from 'vue'
+import { getDisciplines } from './api.js';
 
 export default {
   setup() {
-    const numero_semestres = ref(9);
-    const semesters = [[
-      new Discipline("Prog1", 108),
-      new Discipline("VGA", 64)
-    ],[
-      new Discipline("FTC", 64)
-    ]]
-
+    const semesters = ref([]);
+    const disciplinesRefs = ref({});
+    
+    async function loadDisciplines(code) {
+      return await getDisciplines(code);
+    }
+    
     const getDisciplinesBySemester = function (semester) {
-      if (semester < semesters.length)
-        return semesters[semester];
+      if (semester < semesters.value.length)
+        return semesters.value[semester];
       return [];
     }
 
-    return { numero_semestres, getDisciplinesBySemester };
+    const setDisciplineRef = function (el, key) {
+      if (el)
+        disciplinesRefs.value[key] = el;
+    }
+    
+    function getElement(id) {
+      return disciplinesRefs.value[id];  
+    }
+
+    const focusDiscipline = function(discipline) {
+      const el = getElement(discipline.id);
+    }
+
+    onMounted(async () => {
+      semesters.value = await loadDisciplines('1905');
+    });
+    
+    const numero_semestres = computed(() => semesters.value.length);
+    
+    return { 
+      numero_semestres,
+      setDisciplineRef, 
+      getDisciplinesBySemester,
+      semesters
+    };
   }
 }
-
-// Observacao: para conseguir os dados do curso, troque codigo pelo seu codigo do curso:
-// curl 'https://graduacao.ufms.br/portal/matriz/get-pre-requisitos/<codigo>' \
-//   -H 'User-Agent: Mozilla/5.0 (X11; Linux x86_64; rv:142.0) Gecko/20100101 Firefox/142.0' \
-//   -H 'Accept: application/json' \
-//   -H 'Accept-Language: en-US,en;q=0.5' \
-//   -H 'Accept-Encoding: gzip, deflate, br, zstd' \
-//   -H 'X-Requested-With: XMLHttpRequest' \
-//   -H 'Sec-GPC: 1' \
-//   -H 'Connection: keep-alive' \
-//   -H 'Referer: https://graduacao.ufms.br/cursos/<codigo>/matriz' \
-//   -H 'Sec-Fetch-Dest: empty' \
-//   -H 'Sec-Fetch-Mode: cors' \
-//   -H 'Sec-Fetch-Site: same-origin' \
-//   -H 'Pragma: no-cache' \
-//   -H 'Cache-Control: no-cache'

@@ -2,43 +2,17 @@
 @import "tailwindcss";
 
 body {
-    font-family: 'Poppins', sans-serif;
-    width: 100vw;
-    height: 100vh;
-    color: white;
-    overflow: auto;
+  @apply w-screen h-screen text-[white] overflow-auto;
+  font-family: "Poppins", sans-serif;
 }
-
 .discipline {
-    /* rounded-lg text-center px-2 overflow-hidden border border-white/50 bg-black/20 h-22 flex flex-col justify-center */
-    display: flex;
-    flex-direction: column;
-    justify-content: center;
-    overflow: hidden;
-    border-radius: 0.5rem;
-    border-width: 1px;
-    border-color: rgb(255,255,255,0.5);
-    background-color: rgb(0,0,0,0.2);
-    padding-left: 0.5rem;
-    padding-right: 0.5rem;
-    text-align: center;
-    height: 58px;
+  @apply flex flex-col justify-center overflow-hidden border bg-[rgb(0,0,0,0.2)] text-center h-[58px] px-2 rounded-lg border-[rgb(255,255,255,0.5)];
+  /* rounded-lg text-center px-2 overflow-hidden border border-white/50 bg-black/20 h-22 flex flex-col justify-center */
+}
+.discipline-focused {
+  @apply flex flex-col justify-center overflow-hidden border bg-[rgb(0,0,0,0.2)] h-[82px] text-center px-2 rounded-lg border-[rgb(255,255,255,0.5)];
 }
 
-.discipline-focused {
-    display: flex;
-    flex-direction: column;
-    justify-content: center;
-    overflow: hidden;
-    border-radius: 0.5rem;
-    border-width: 1px;
-    border-color: rgb(255,255,255,0.5);
-    background-color: rgb(0,0,0,0.2);
-    padding-left: 0.5rem;
-    height: 82px;
-    padding-right: 0.5rem;
-    text-align: center;
-}
 /*
 *{
     text-align: center;

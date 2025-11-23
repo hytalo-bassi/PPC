@@ -1,0 +1,1089 @@
+[
+  {
+    "Id": 49093,
+    "Codigo": "0510.001.570-2",
+    "Tipo": "OBR",
+    "Descricao": "EDUCAÇÃO ESPECIAL",
+    "Semestre": 1,
+    "Apelido": "EDUCAÇÃO ESPECIAL",
+    "CargaHorariaTeorico": 68,
+    "CargaHorariaPratica": null,
+    "ListaPrequisitos": []
+  },
+  {
+    "Id": 49094,
+    "Codigo": "0510.001.571-1",
+    "Tipo": "OBR",
+    "Descricao": "FILOSOFIA DA EDUCAÇÃO",
+    "Semestre": 1,
+    "Apelido": "FILOSOFIA DA EDUCAÇÃO",
+    "CargaHorariaTeorico": 68,
+    "CargaHorariaPratica": null,
+    "ListaPrequisitos": []
+  },
+  {
+    "Id": 49089,
+    "Codigo": "0510.001.566-9",
+    "Tipo": "OBR",
+    "Descricao": "HISTÓRIA DA EDUCAÇÃO I",
+    "Semestre": 1,
+    "Apelido": "HISTÓRIA DA EDUCAÇÃO I",
+    "CargaHorariaTeorico": 68,
+    "CargaHorariaPratica": null,
+    "ListaPrequisitos": []
+  },
+  {
+    "Id": 49111,
+    "Codigo": "0510.001.588-3",
+    "Tipo": "OBR",
+    "Descricao": "INFÂNCIA E SOCIEDADE",
+    "Semestre": 1,
+    "Apelido": "INFÂNCIA E SOCIEDADE",
+    "CargaHorariaTeorico": 68,
+    "CargaHorariaPratica": null,
+    "ListaPrequisitos": []
+  },
+  {
+    "Id": 49079,
+    "Codigo": "0510.001.556-0",
+    "Tipo": "OBR",
+    "Descricao": "PSICOLOGIA DA EDUCAÇÃO",
+    "Semestre": 1,
+    "Apelido": "PSICOLOGIA DA EDUCAÇÃO",
+    "CargaHorariaTeorico": 68,
+    "CargaHorariaPratica": null,
+    "ListaPrequisitos": []
+  },
+  {
+    "Id": 49105,
+    "Codigo": "0510.001.582-9",
+    "Tipo": "OBR",
+    "Descricao": "TRABALHO ACADÊMICO",
+    "Semestre": 1,
+    "Apelido": "TRABALHO ACADÊMICO",
+    "CargaHorariaTeorico": 68,
+    "CargaHorariaPratica": null,
+    "ListaPrequisitos": []
+  },
+  {
+    "Id": 49090,
+    "Codigo": "0510.001.567-8",
+    "Tipo": "OBR",
+    "Descricao": "EDUCAÇÃO E RELAÇÕES ÉTNICO-RACIAIS",
+    "Semestre": 2,
+    "Apelido": "EDUCAÇÃO E RELAÇÕES ÉTNICO-RACIAIS",
+    "CargaHorariaTeorico": 68,
+    "CargaHorariaPratica": null,
+    "ListaPrequisitos": []
+  },
+  {
+    "Id": 49122,
+    "Codigo": "0510.001.599-0",
+    "Tipo": "OBR",
+    "Descricao": "ESTUDOS APROFUNDADOS EM EDUCAÇÃO ESPECIAL",
+    "Semestre": 2,
+    "Apelido": "ESTUDOS APROFUNDADOS EM EDUCAÇÃO ESPECIAL",
+    "CargaHorariaTeorico": 68,
+    "CargaHorariaPratica": null,
+    "ListaPrequisitos": [
+      {
+        "Id": 49093,
+        "Codigo": "0510.001.570-2",
+        "Descricao": "EDUCAÇÃO ESPECIAL",
+        "Semestre": "0",
+        "Apelido": "EDUCAÇÃO ESPECIAL",
+        "CargaHorariaTeorico": 0,
+        "CargaHorariaPratica": 0,
+        "ListaPrequisitos": []
+      }
+    ]
+  },
+  {
+    "Id": 49100,
+    "Codigo": "0510.001.577-6",
+    "Tipo": "OBR",
+    "Descricao": "HISTÓRIA DA EDUCAÇÃO II",
+    "Semestre": 2,
+    "Apelido": "HISTÓRIA DA EDUCAÇÃO II",
+    "CargaHorariaTeorico": 68,
+    "CargaHorariaPratica": null,
+    "ListaPrequisitos": []
+  },
+  {
+    "Id": 49101,
+    "Codigo": "0510.001.578-5",
+    "Tipo": "OBR",
+    "Descricao": "POLÍTICAS EDUCACIONAIS",
+    "Semestre": 2,
+    "Apelido": "POLÍTICAS EDUCACIONAIS",
+    "CargaHorariaTeorico": 68,
+    "CargaHorariaPratica": null,
+    "ListaPrequisitos": []
+  },
+  {
+    "Id": 49075,
+    "Codigo": "0510.001.552-4",
+    "Tipo": "OBR",
+    "Descricao": "PSICOLOGIA DO DESENVOLVIMENTO E DA APRENDIZAGEM",
+    "Semestre": 2,
+    "Apelido": "PSICOLOGIA DO DESENVOLVIMENTO E DA APRENDIZAGEM",
+    "CargaHorariaTeorico": 68,
+    "CargaHorariaPratica": null,
+    "ListaPrequisitos": [
+      {
+        "Id": 49079,
+        "Codigo": "0510.001.556-0",
+        "Descricao": "PSICOLOGIA DA EDUCAÇÃO",
+        "Semestre": "0",
+        "Apelido": "PSICOLOGIA DA EDUCAÇÃO",
+        "CargaHorariaTeorico": 0,
+        "CargaHorariaPratica": 0,
+        "ListaPrequisitos": []
+      }
+    ]
+  },
+  {
+    "Id": 49103,
+    "Codigo": "0510.001.580-0",
+    "Tipo": "OBR",
+    "Descricao": "SOCIOLOGIA DA EDUCAÇÃO",
+    "Semestre": 2,
+    "Apelido": "SOCIOLOGIA DA EDUCAÇÃO",
+    "CargaHorariaTeorico": 68,
+    "CargaHorariaPratica": null,
+    "ListaPrequisitos": []
+  },
+  {
+    "Id": 49087,
+    "Codigo": "0510.001.564-0",
+    "Tipo": "OBR",
+    "Descricao": "DIDÁTICA I",
+    "Semestre": 3,
+    "Apelido": "DIDÁTICA I",
+    "CargaHorariaTeorico": 68,
+    "CargaHorariaPratica": null,
+    "ListaPrequisitos": []
+  },
+  {
+    "Id": 49109,
+    "Codigo": "0510.001.586-5",
+    "Tipo": "OBR",
+    "Descricao": "EDUCAÇÃO, MÍDIAS E TECNOLOGIAS",
+    "Semestre": 3,
+    "Apelido": "EDUCAÇÃO, MÍDIAS E TECNOLOGIAS",
+    "CargaHorariaTeorico": 68,
+    "CargaHorariaPratica": null,
+    "ListaPrequisitos": []
+  },
+  {
+    "Id": 49110,
+    "Codigo": "0510.001.587-4",
+    "Tipo": "OBR",
+    "Descricao": "ESTUDO DE LIBRAS",
+    "Semestre": 3,
+    "Apelido": "ESTUDO DE LIBRAS",
+    "CargaHorariaTeorico": 68,
+    "CargaHorariaPratica": null,
+    "ListaPrequisitos": []
+  },
+  {
+    "Id": 49151,
+    "Codigo": "0510.001.628-1",
+    "Tipo": "OBR",
+    "Descricao": "FUNDAMENTOS DA EDUCAÇÃO INFANTIL",
+    "Semestre": 3,
+    "Apelido": "FUNDAMENTOS DA EDUCAÇÃO INFANTIL",
+    "CargaHorariaTeorico": 51,
+    "CargaHorariaPratica": null,
+    "ListaPrequisitos": []
+  },
+  {
+    "Id": 49095,
+    "Codigo": "0510.001.572-0",
+    "Tipo": "OBR",
+    "Descricao": "LITERATURA E EDUCAÇÃO",
+    "Semestre": 3,
+    "Apelido": "LITERATURA E EDUCAÇÃO",
+    "CargaHorariaTeorico": 51,
+    "CargaHorariaPratica": null,
+    "ListaPrequisitos": []
+  },
+  {
+    "Id": 49088,
+    "Codigo": "0510.001.565-0",
+    "Tipo": "OBR",
+    "Descricao": "PESQUISA EM EDUCAÇÃO I",
+    "Semestre": 3,
+    "Apelido": "PESQUISA EM EDUCAÇÃO I",
+    "CargaHorariaTeorico": 51,
+    "CargaHorariaPratica": null,
+    "ListaPrequisitos": []
+  },
+  {
+    "Id": 49086,
+    "Codigo": "0510.001.563-1",
+    "Tipo": "OBR",
+    "Descricao": "CURRÍCULO E EDUCAÇÃO",
+    "Semestre": 4,
+    "Apelido": "CURRÍCULO E EDUCAÇÃO",
+    "CargaHorariaTeorico": 68,
+    "CargaHorariaPratica": null,
+    "ListaPrequisitos": []
+  },
+  {
+    "Id": 49108,
+    "Codigo": "0510.001.585-6",
+    "Tipo": "OBR",
+    "Descricao": "DIDÁTICA II",
+    "Semestre": 4,
+    "Apelido": "DIDÁTICA II",
+    "CargaHorariaTeorico": 68,
+    "CargaHorariaPratica": null,
+    "ListaPrequisitos": [
+      {
+        "Id": 49087,
+        "Codigo": "0510.001.564-0",
+        "Descricao": "DIDÁTICA I",
+        "Semestre": "0",
+        "Apelido": "DIDÁTICA I",
+        "CargaHorariaTeorico": 0,
+        "CargaHorariaPratica": 0,
+        "ListaPrequisitos": []
+      }
+    ]
+  },
+  {
+    "Id": 49098,
+    "Codigo": "0510.001.575-8",
+    "Tipo": "OBR",
+    "Descricao": "GESTÃO ESCOLAR",
+    "Semestre": 4,
+    "Apelido": "GESTÃO ESCOLAR",
+    "CargaHorariaTeorico": 68,
+    "CargaHorariaPratica": null,
+    "ListaPrequisitos": []
+  },
+  {
+    "Id": 49113,
+    "Codigo": "0510.001.590-9",
+    "Tipo": "OBR",
+    "Descricao": "LUDICIDADE E EDUCAÇÃO",
+    "Semestre": 4,
+    "Apelido": "LUDICIDADE E EDUCAÇÃO",
+    "CargaHorariaTeorico": 68,
+    "CargaHorariaPratica": null,
+    "ListaPrequisitos": []
+  },
+  {
+    "Id": 49128,
+    "Codigo": "0510.001.605-8",
+    "Tipo": "OBR",
+    "Descricao": "ORGANIZAÇÃO DO TRABALHO PEDAGÓGICO NA EDUCAÇÃO INFANTIL",
+    "Semestre": 4,
+    "Apelido": "ORGANIZAÇÃO DO TRABALHO PEDAGÓGICO NA EDUCAÇÃO INFANTIL",
+    "CargaHorariaTeorico": 51,
+    "CargaHorariaPratica": null,
+    "ListaPrequisitos": []
+  },
+  {
+    "Id": 49104,
+    "Codigo": "0510.001.581-0",
+    "Tipo": "OBR",
+    "Descricao": "PRÁTICA EM EDUCAÇÃO ESPECIAL",
+    "Semestre": 4,
+    "Apelido": "PRÁTICA EM EDUCAÇÃO ESPECIAL",
+    "CargaHorariaTeorico": 68,
+    "CargaHorariaPratica": null,
+    "ListaPrequisitos": [
+      {
+        "Id": 49122,
+        "Codigo": "0510.001.599-0",
+        "Descricao": "ESTUDOS APROFUNDADOS EM EDUCAÇÃO ESPECIAL",
+        "Semestre": "0",
+        "Apelido": "ESTUDOS APROFUNDADOS EM EDUCAÇÃO ESPECIAL",
+        "CargaHorariaTeorico": 0,
+        "CargaHorariaPratica": 0,
+        "ListaPrequisitos": []
+      }
+    ]
+  },
+  {
+    "Id": 49076,
+    "Codigo": "0510.001.553-3",
+    "Tipo": "OBR",
+    "Descricao": "ARTE E EDUCAÇÃO",
+    "Semestre": 5,
+    "Apelido": "ARTE E EDUCAÇÃO",
+    "CargaHorariaTeorico": 68,
+    "CargaHorariaPratica": null,
+    "ListaPrequisitos": []
+  },
+  {
+    "Id": 49102,
+    "Codigo": "0510.001.579-4",
+    "Tipo": "OBR",
+    "Descricao": "ESTÁGIO OBRIGATÓRIO III",
+    "Semestre": 5,
+    "Apelido": "ESTÁGIO OBRIGATÓRIO III",
+    "CargaHorariaTeorico": 100,
+    "CargaHorariaPratica": null,
+    "ListaPrequisitos": [
+      {
+        "Id": 49108,
+        "Codigo": "0510.001.585-6",
+        "Descricao": "DIDÁTICA II",
+        "Semestre": "0",
+        "Apelido": "DIDÁTICA II",
+        "CargaHorariaTeorico": 0,
+        "CargaHorariaPratica": 0,
+        "ListaPrequisitos": []
+      }
+    ]
+  },
+  {
+    "Id": 49124,
+    "Codigo": "0510.001.601-1",
+    "Tipo": "OBR",
+    "Descricao": "FUNDAMENTOS E METODOLOGIA DO ENSINO DE CIÊNCIAS",
+    "Semestre": 5,
+    "Apelido": "FUNDAMENTOS E METODOLOGIA DO ENSINO DE CIÊNCIAS",
+    "CargaHorariaTeorico": 68,
+    "CargaHorariaPratica": null,
+    "ListaPrequisitos": []
+  },
+  {
+    "Id": 49125,
+    "Codigo": "0510.001.602-0",
+    "Tipo": "OBR",
+    "Descricao": "FUNDAMENTOS E METODOLOGIA DO ENSINO DE GEOGRAFIA",
+    "Semestre": 5,
+    "Apelido": "FUNDAMENTOS E METODOLOGIA DO ENSINO DE GEOGRAFIA",
+    "CargaHorariaTeorico": 68,
+    "CargaHorariaPratica": null,
+    "ListaPrequisitos": []
+  },
+  {
+    "Id": 49080,
+    "Codigo": "0510.001.557-0",
+    "Tipo": "OBR",
+    "Descricao": "FUNDAMENTOS E METODOLOGIA DO ENSINO DE LÍNGUA PORTUGUESA",
+    "Semestre": 5,
+    "Apelido": "FUNDAMENTOS E METODOLOGIA DO ENSINO DE LÍNGUA PORTUGUESA",
+    "CargaHorariaTeorico": 68,
+    "CargaHorariaPratica": null,
+    "ListaPrequisitos": []
+  },
+  {
+    "Id": 49127,
+    "Codigo": "0510.001.604-9",
+    "Tipo": "OBR",
+    "Descricao": "PRÁTICA EM GESTÃO, CURRÍCULO E TRABALHO PEDAGÓGICO",
+    "Semestre": 5,
+    "Apelido": "PRÁTICA EM GESTÃO, CURRÍCULO E TRABALHO PEDAGÓGICO",
+    "CargaHorariaTeorico": 68,
+    "CargaHorariaPratica": null,
+    "ListaPrequisitos": [
+      {
+        "Id": 49086,
+        "Codigo": "0510.001.563-1",
+        "Descricao": "CURRÍCULO E EDUCAÇÃO",
+        "Semestre": "0",
+        "Apelido": "CURRÍCULO E EDUCAÇÃO",
+        "CargaHorariaTeorico": 0,
+        "CargaHorariaPratica": 0,
+        "ListaPrequisitos": []
+      },
+      {
+        "Id": 49098,
+        "Codigo": "0510.001.575-8",
+        "Descricao": "GESTÃO ESCOLAR",
+        "Semestre": "0",
+        "Apelido": "GESTÃO ESCOLAR",
+        "CargaHorariaTeorico": 0,
+        "CargaHorariaPratica": 0,
+        "ListaPrequisitos": []
+      }
+    ]
+  },
+  {
+    "Id": 49078,
+    "Codigo": "0510.001.555-1",
+    "Tipo": "OBR",
+    "Descricao": "ESTÁGIO OBRIGATÓRIO IV",
+    "Semestre": 6,
+    "Apelido": "ESTÁGIO OBRIGATÓRIO IV",
+    "CargaHorariaTeorico": 100,
+    "CargaHorariaPratica": null,
+    "ListaPrequisitos": [
+      {
+        "Id": 49108,
+        "Codigo": "0510.001.585-6",
+        "Descricao": "DIDÁTICA II",
+        "Semestre": "0",
+        "Apelido": "DIDÁTICA II",
+        "CargaHorariaTeorico": 0,
+        "CargaHorariaPratica": 0,
+        "ListaPrequisitos": []
+      }
+    ]
+  },
+  {
+    "Id": 49123,
+    "Codigo": "0510.001.600-2",
+    "Tipo": "OBR",
+    "Descricao": "FUNDAMENTOS E METODOLOGIA DA ALFABETIZAÇÃO",
+    "Semestre": 6,
+    "Apelido": "FUNDAMENTOS E METODOLOGIA DA ALFABETIZAÇÃO",
+    "CargaHorariaTeorico": 68,
+    "CargaHorariaPratica": null,
+    "ListaPrequisitos": []
+  },
+  {
+    "Id": 49126,
+    "Codigo": "0510.001.603-0",
+    "Tipo": "OBR",
+    "Descricao": "FUNDAMENTOS E METODOLOGIA DO ENSINO DE HISTÓRIA",
+    "Semestre": 6,
+    "Apelido": "FUNDAMENTOS E METODOLOGIA DO ENSINO DE HISTÓRIA",
+    "CargaHorariaTeorico": 68,
+    "CargaHorariaPratica": null,
+    "ListaPrequisitos": []
+  },
+  {
+    "Id": 49129,
+    "Codigo": "0510.001.606-7",
+    "Tipo": "OBR",
+    "Descricao": "FUNDAMENTOS E METODOLOGIA DO ENSINO DE MATEMÁTICA",
+    "Semestre": 6,
+    "Apelido": "FUNDAMENTOS E METODOLOGIA DO ENSINO DE MATEMÁTICA",
+    "CargaHorariaTeorico": 68,
+    "CargaHorariaPratica": null,
+    "ListaPrequisitos": []
+  },
+  {
+    "Id": 49096,
+    "Codigo": "0510.001.573-0",
+    "Tipo": "OBR",
+    "Descricao": "PESQUISA EM EDUCAÇÃO II",
+    "Semestre": 6,
+    "Apelido": "PESQUISA EM EDUCAÇÃO II",
+    "CargaHorariaTeorico": 51,
+    "CargaHorariaPratica": null,
+    "ListaPrequisitos": [
+      {
+        "Id": 49088,
+        "Codigo": "0510.001.565-0",
+        "Descricao": "PESQUISA EM EDUCAÇÃO I",
+        "Semestre": "0",
+        "Apelido": "PESQUISA EM EDUCAÇÃO I",
+        "CargaHorariaTeorico": 0,
+        "CargaHorariaPratica": 0,
+        "ListaPrequisitos": []
+      }
+    ]
+  },
+  {
+    "Id": 49106,
+    "Codigo": "0510.001.583-8",
+    "Tipo": "OBR",
+    "Descricao": "PRÁTICA EM EDUCAÇÃO NA PRIMEIRA INFÂNCIA",
+    "Semestre": 6,
+    "Apelido": "PRÁTICA EM EDUCAÇÃO NA PRIMEIRA INFÂNCIA",
+    "CargaHorariaTeorico": 68,
+    "CargaHorariaPratica": null,
+    "ListaPrequisitos": [
+      {
+        "Id": 49108,
+        "Codigo": "0510.001.585-6",
+        "Descricao": "DIDÁTICA II",
+        "Semestre": "0",
+        "Apelido": "DIDÁTICA II",
+        "CargaHorariaTeorico": 0,
+        "CargaHorariaPratica": 0,
+        "ListaPrequisitos": []
+      }
+    ]
+  },
+  {
+    "Id": 49118,
+    "Codigo": "0510.001.595-4",
+    "Tipo": "OBR",
+    "Descricao": "EDUCAÇÃO DE JOVENS E ADULTOS",
+    "Semestre": 7,
+    "Apelido": "EDUCAÇÃO DE JOVENS E ADULTOS",
+    "CargaHorariaTeorico": 68,
+    "CargaHorariaPratica": null,
+    "ListaPrequisitos": []
+  },
+  {
+    "Id": 49119,
+    "Codigo": "0510.001.596-3",
+    "Tipo": "OBR",
+    "Descricao": "EDUCAÇÃO SOCIAL E EM CONTEXTOS NÃO ESCOLARES",
+    "Semestre": 7,
+    "Apelido": "EDUCAÇÃO SOCIAL E EM CONTEXTOS NÃO ESCOLARES",
+    "CargaHorariaTeorico": 68,
+    "CargaHorariaPratica": null,
+    "ListaPrequisitos": []
+  },
+  {
+    "Id": 49091,
+    "Codigo": "0510.001.568-7",
+    "Tipo": "OBR",
+    "Descricao": "ESTÁGIO OBRIGATÓRIO I",
+    "Semestre": 7,
+    "Apelido": "ESTÁGIO OBRIGATÓRIO I",
+    "CargaHorariaTeorico": 100,
+    "CargaHorariaPratica": null,
+    "ListaPrequisitos": [
+      {
+        "Id": 49108,
+        "Codigo": "0510.001.585-6",
+        "Descricao": "DIDÁTICA II",
+        "Semestre": "0",
+        "Apelido": "DIDÁTICA II",
+        "CargaHorariaTeorico": 0,
+        "CargaHorariaPratica": 0,
+        "ListaPrequisitos": []
+      }
+    ]
+  },
+  {
+    "Id": 49150,
+    "Codigo": "0510.001.627-2",
+    "Tipo": "OBR",
+    "Descricao": "FUNDAMENTOS E METODOLOGIA DO ENSINO DE ARTES",
+    "Semestre": 7,
+    "Apelido": "FUNDAMENTOS E METODOLOGIA DO ENSINO DE ARTES",
+    "CargaHorariaTeorico": 68,
+    "CargaHorariaPratica": null,
+    "ListaPrequisitos": []
+  },
+  {
+    "Id": 49107,
+    "Codigo": "0510.001.584-7",
+    "Tipo": "OBR",
+    "Descricao": "PRÁTICA EM ALFABETIZAÇÃO",
+    "Semestre": 7,
+    "Apelido": "PRÁTICA EM ALFABETIZAÇÃO",
+    "CargaHorariaTeorico": 68,
+    "CargaHorariaPratica": null,
+    "ListaPrequisitos": [
+      {
+        "Id": 49123,
+        "Codigo": "0510.001.600-2",
+        "Descricao": "FUNDAMENTOS E METODOLOGIA DA ALFABETIZAÇÃO",
+        "Semestre": "0",
+        "Apelido": "FUNDAMENTOS E METODOLOGIA DA ALFABETIZAÇÃO",
+        "CargaHorariaTeorico": 0,
+        "CargaHorariaPratica": 0,
+        "ListaPrequisitos": []
+      }
+    ]
+  },
+  {
+    "Id": 49116,
+    "Codigo": "0510.001.593-6",
+    "Tipo": "OBR",
+    "Descricao": "AVALIAÇÃO DA EDUCAÇÃO",
+    "Semestre": 8,
+    "Apelido": "AVALIAÇÃO DA EDUCAÇÃO",
+    "CargaHorariaTeorico": 51,
+    "CargaHorariaPratica": null,
+    "ListaPrequisitos": []
+  },
+  {
+    "Id": 49099,
+    "Codigo": "0510.001.576-7",
+    "Tipo": "OBR",
+    "Descricao": "ESTÁGIO OBRIGATÓRIO II",
+    "Semestre": 8,
+    "Apelido": "ESTÁGIO OBRIGATÓRIO II",
+    "CargaHorariaTeorico": 100,
+    "CargaHorariaPratica": null,
+    "ListaPrequisitos": [
+      {
+        "Id": 49108,
+        "Codigo": "0510.001.585-6",
+        "Descricao": "DIDÁTICA II",
+        "Semestre": "0",
+        "Apelido": "DIDÁTICA II",
+        "CargaHorariaTeorico": 0,
+        "CargaHorariaPratica": 0,
+        "ListaPrequisitos": []
+      }
+    ]
+  },
+  {
+    "Id": 49130,
+    "Codigo": "0510.001.607-6",
+    "Tipo": "OBR",
+    "Descricao": "LÍNGUA PORTUGUESA COMO SEGUNDA LÍNGUA PARA SURDOS",
+    "Semestre": 8,
+    "Apelido": "LÍNGUA PORTUGUESA COMO SEGUNDA LÍNGUA PARA SURDOS",
+    "CargaHorariaTeorico": 34,
+    "CargaHorariaPratica": null,
+    "ListaPrequisitos": []
+  },
+  {
+    "Id": 49147,
+    "Codigo": "0510.001.624-5",
+    "Tipo": "OBR",
+    "Descricao": "PRÁTICA EM EDUCAÇÃO DE JOVENS E ADULTOS, EDUCAÇÃO SOCIAL E CONTEXTOS NÃO ESCOLARES",
+    "Semestre": 8,
+    "Apelido": "PRÁTICA EM EDUCAÇÃO DE JOVENS E ADULTOS, EDUCAÇÃO SOCIAL E CONTEXTOS NÃO ESCOLARES",
+    "CargaHorariaTeorico": 68,
+    "CargaHorariaPratica": null,
+    "ListaPrequisitos": [
+      {
+        "Id": 49118,
+        "Codigo": "0510.001.595-4",
+        "Descricao": "EDUCAÇÃO DE JOVENS E ADULTOS",
+        "Semestre": "0",
+        "Apelido": "EDUCAÇÃO DE JOVENS E ADULTOS",
+        "CargaHorariaTeorico": 0,
+        "CargaHorariaPratica": 0,
+        "ListaPrequisitos": []
+      },
+      {
+        "Id": 49119,
+        "Codigo": "0510.001.596-3",
+        "Descricao": "EDUCAÇÃO SOCIAL E EM CONTEXTOS NÃO ESCOLARES",
+        "Semestre": "0",
+        "Apelido": "EDUCAÇÃO SOCIAL E EM CONTEXTOS NÃO ESCOLARES",
+        "CargaHorariaTeorico": 0,
+        "CargaHorariaPratica": 0,
+        "ListaPrequisitos": []
+      }
+    ]
+  },
+  {
+    "Id": 49155,
+    "Codigo": "0510.001.632-5",
+    "Tipo": "OBR",
+    "Descricao": "SEMINÁRIO DE PESQUISA",
+    "Semestre": 8,
+    "Apelido": "SEMINÁRIO DE PESQUISA",
+    "CargaHorariaTeorico": 34,
+    "CargaHorariaPratica": null,
+    "ListaPrequisitos": [
+      {
+        "Id": 49096,
+        "Codigo": "0510.001.573-0",
+        "Descricao": "PESQUISA EM EDUCAÇÃO II",
+        "Semestre": "0",
+        "Apelido": "PESQUISA EM EDUCAÇÃO II",
+        "CargaHorariaTeorico": 0,
+        "CargaHorariaPratica": 0,
+        "ListaPrequisitos": []
+      }
+    ]
+  },
+  {
+    "Id": 49143,
+    "Codigo": "0510.001.620-9",
+    "Tipo": "OPT",
+    "Descricao": "ALFABETIZAÇÃO E LETRAMENTO DIGITAL",
+    "Semestre": 99,
+    "Apelido": "ALFABETIZAÇÃO E LETRAMENTO DIGITAL",
+    "CargaHorariaTeorico": 34,
+    "CargaHorariaPratica": null,
+    "ListaPrequisitos": []
+  },
+  {
+    "Id": 49081,
+    "Codigo": "0510.001.558-9",
+    "Tipo": "OPT",
+    "Descricao": "ALTAS HABILIDADES/SUPERDOTAÇÃO EM SALA DE AULA: ESTRATÉGIAS DE IDENTIFICAÇÃO",
+    "Semestre": 99,
+    "Apelido": "ALTAS HABILIDADES/SUPERDOTAÇÃO EM SALA DE AULA: ESTRATÉGIAS DE IDENTIFICAÇÃO",
+    "CargaHorariaTeorico": 34,
+    "CargaHorariaPratica": null,
+    "ListaPrequisitos": []
+  },
+  {
+    "Id": 49082,
+    "Codigo": "0510.001.559-8",
+    "Tipo": "OPT",
+    "Descricao": "BOURDIEU E A EDUCAÇÃO",
+    "Semestre": 99,
+    "Apelido": "BOURDIEU E A EDUCAÇÃO",
+    "CargaHorariaTeorico": 34,
+    "CargaHorariaPratica": null,
+    "ListaPrequisitos": []
+  },
+  {
+    "Id": 49145,
+    "Codigo": "0510.001.622-7",
+    "Tipo": "OPT",
+    "Descricao": "BRINQUEDOTECA",
+    "Semestre": 99,
+    "Apelido": "BRINQUEDOTECA",
+    "CargaHorariaTeorico": 34,
+    "CargaHorariaPratica": null,
+    "ListaPrequisitos": []
+  },
+  {
+    "Id": 49097,
+    "Codigo": "0510.001.574-9",
+    "Tipo": "OPT",
+    "Descricao": "CONFECÇÃO DE MATERIAIS ADAPTADOS",
+    "Semestre": 99,
+    "Apelido": "CONFECÇÃO DE MATERIAIS ADAPTADOS",
+    "CargaHorariaTeorico": 34,
+    "CargaHorariaPratica": null,
+    "ListaPrequisitos": []
+  },
+  {
+    "Id": 49152,
+    "Codigo": "0510.001.629-0",
+    "Tipo": "OPT",
+    "Descricao": "CULTURA ESCOLAR",
+    "Semestre": 99,
+    "Apelido": "CULTURA ESCOLAR",
+    "CargaHorariaTeorico": 34,
+    "CargaHorariaPratica": null,
+    "ListaPrequisitos": []
+  },
+  {
+    "Id": 49115,
+    "Codigo": "0510.001.592-7",
+    "Tipo": "OPT",
+    "Descricao": "EDUCAÇÃO AMBIENTAL",
+    "Semestre": 99,
+    "Apelido": "EDUCAÇÃO AMBIENTAL",
+    "CargaHorariaTeorico": 34,
+    "CargaHorariaPratica": null,
+    "ListaPrequisitos": []
+  },
+  {
+    "Id": 49154,
+    "Codigo": "0510.001.631-6",
+    "Tipo": "OPT",
+    "Descricao": "EDUCAÇÃO ANTIRRACISTA E PREVENÇÃO DE VIOLÊNCIA",
+    "Semestre": 99,
+    "Apelido": "EDUCAÇÃO ANTIRRACISTA E PREVENÇÃO DE VIOLÊNCIA",
+    "CargaHorariaTeorico": 34,
+    "CargaHorariaPratica": null,
+    "ListaPrequisitos": []
+  },
+  {
+    "Id": 49144,
+    "Codigo": "0510.001.621-8",
+    "Tipo": "OPT",
+    "Descricao": "EDUCAÇÃO EM DIREITOS HUMANOS",
+    "Semestre": 99,
+    "Apelido": "EDUCAÇÃO EM DIREITOS HUMANOS",
+    "CargaHorariaTeorico": 34,
+    "CargaHorariaPratica": null,
+    "ListaPrequisitos": []
+  },
+  {
+    "Id": 49142,
+    "Codigo": "0510.001.619-2",
+    "Tipo": "OPT",
+    "Descricao": "EDUCAÇÃO INTEGRAL/EM TEMPO INTEGRAL",
+    "Semestre": 99,
+    "Apelido": "EDUCAÇÃO INTEGRAL/EM TEMPO INTEGRAL",
+    "CargaHorariaTeorico": 34,
+    "CargaHorariaPratica": null,
+    "ListaPrequisitos": []
+  },
+  {
+    "Id": 49117,
+    "Codigo": "0510.001.594-5",
+    "Tipo": "OPT",
+    "Descricao": "ESTUDOS DE PAULO FREIRE",
+    "Semestre": 99,
+    "Apelido": "ESTUDOS DE PAULO FREIRE",
+    "CargaHorariaTeorico": 34,
+    "CargaHorariaPratica": null,
+    "ListaPrequisitos": []
+  },
+  {
+    "Id": 49157,
+    "Codigo": "0510.001.634-3",
+    "Tipo": "OPT",
+    "Descricao": "ÉTICA NA FORMAÇÃO E NO TRABALHO DOCENTE",
+    "Semestre": 99,
+    "Apelido": "ÉTICA NA FORMAÇÃO E NO TRABALHO DOCENTE",
+    "CargaHorariaTeorico": 34,
+    "CargaHorariaPratica": null,
+    "ListaPrequisitos": []
+  },
+  {
+    "Id": 49153,
+    "Codigo": "0510.001.630-7",
+    "Tipo": "OPT",
+    "Descricao": "EXPRESSÕES VISUAIS NA EDUCAÇÃO",
+    "Semestre": 99,
+    "Apelido": "EXPRESSÕES VISUAIS NA EDUCAÇÃO",
+    "CargaHorariaTeorico": 34,
+    "CargaHorariaPratica": null,
+    "ListaPrequisitos": []
+  },
+  {
+    "Id": 49136,
+    "Codigo": "0510.001.613-8",
+    "Tipo": "OPT",
+    "Descricao": "FEMINISMO DIALÓGICO E PREVENÇÃO DE VIOLÊNCIA",
+    "Semestre": 99,
+    "Apelido": "FEMINISMO DIALÓGICO E PREVENÇÃO DE VIOLÊNCIA",
+    "CargaHorariaTeorico": 34,
+    "CargaHorariaPratica": null,
+    "ListaPrequisitos": []
+  },
+  {
+    "Id": 49131,
+    "Codigo": "0510.001.608-5",
+    "Tipo": "OPT",
+    "Descricao": "JOGOS NA ALFABETIZAÇÃO E LETRAMENTO",
+    "Semestre": 99,
+    "Apelido": "JOGOS NA ALFABETIZAÇÃO E LETRAMENTO",
+    "CargaHorariaTeorico": 34,
+    "CargaHorariaPratica": null,
+    "ListaPrequisitos": []
+  },
+  {
+    "Id": 49139,
+    "Codigo": "0510.001.616-5",
+    "Tipo": "OPT",
+    "Descricao": "JOGOS TEATRAIS E EDUCAÇÃO",
+    "Semestre": 99,
+    "Apelido": "JOGOS TEATRAIS E EDUCAÇÃO",
+    "CargaHorariaTeorico": 34,
+    "CargaHorariaPratica": null,
+    "ListaPrequisitos": []
+  },
+  {
+    "Id": 49112,
+    "Codigo": "0510.001.589-2",
+    "Tipo": "OPT",
+    "Descricao": "LEITURA E PRODUÇÃO DE TEXTOS EM EDUCAÇÃO",
+    "Semestre": 99,
+    "Apelido": "LEITURA E PRODUÇÃO DE TEXTOS EM EDUCAÇÃO",
+    "CargaHorariaTeorico": 34,
+    "CargaHorariaPratica": null,
+    "ListaPrequisitos": []
+  },
+  {
+    "Id": 49114,
+    "Codigo": "0510.001.591-8",
+    "Tipo": "OPT",
+    "Descricao": "MATEMÁTICA APLICADA À EDUCAÇÃO",
+    "Semestre": 99,
+    "Apelido": "MATEMÁTICA APLICADA À EDUCAÇÃO",
+    "CargaHorariaTeorico": 34,
+    "CargaHorariaPratica": null,
+    "ListaPrequisitos": []
+  },
+  {
+    "Id": 49084,
+    "Codigo": "0510.001.561-3",
+    "Tipo": "OPT",
+    "Descricao": "MATERIAIS E RECURSOS PEDAGÓGICOS NA ESCOLA",
+    "Semestre": 99,
+    "Apelido": "MATERIAIS E RECURSOS PEDAGÓGICOS NA ESCOLA",
+    "CargaHorariaTeorico": 34,
+    "CargaHorariaPratica": null,
+    "ListaPrequisitos": []
+  },
+  {
+    "Id": 49146,
+    "Codigo": "0510.001.623-6",
+    "Tipo": "OPT",
+    "Descricao": "METODOLOGIAS ATIVAS",
+    "Semestre": 99,
+    "Apelido": "METODOLOGIAS ATIVAS",
+    "CargaHorariaTeorico": 34,
+    "CargaHorariaPratica": null,
+    "ListaPrequisitos": []
+  },
+  {
+    "Id": 49140,
+    "Codigo": "0510.001.617-4",
+    "Tipo": "OPT",
+    "Descricao": "MOVIMENTO E MÚSICA NA EDUCAÇÃO",
+    "Semestre": 99,
+    "Apelido": "MOVIMENTO E MÚSICA NA EDUCAÇÃO",
+    "CargaHorariaTeorico": 34,
+    "CargaHorariaPratica": null,
+    "ListaPrequisitos": []
+  },
+  {
+    "Id": 49083,
+    "Codigo": "0510.001.560-4",
+    "Tipo": "NAP",
+    "Descricao": "NÚCLEO DE APROFUNDAMENTO EM EDUCAÇÃO DO CAMPO",
+    "Semestre": 99,
+    "Apelido": "NÚCLEO DE APROFUNDAMENTO EM EDUCAÇÃO DO CAMPO",
+    "CargaHorariaTeorico": 68,
+    "CargaHorariaPratica": null,
+    "ListaPrequisitos": []
+  },
+  {
+    "Id": 49120,
+    "Codigo": "0510.001.597-2",
+    "Tipo": "NAP",
+    "Descricao": "NÚCLEO DE APROFUNDAMENTO EM EDUCAÇÃO E FRONTEIRA",
+    "Semestre": 99,
+    "Apelido": "NÚCLEO DE APROFUNDAMENTO EM EDUCAÇÃO E FRONTEIRA",
+    "CargaHorariaTeorico": 68,
+    "CargaHorariaPratica": null,
+    "ListaPrequisitos": []
+  },
+  {
+    "Id": 49121,
+    "Codigo": "0510.001.598-1",
+    "Tipo": "NAP",
+    "Descricao": "NÚCLEO DE APROFUNDAMENTO EM EDUCAÇÃO E GÊNERO",
+    "Semestre": 99,
+    "Apelido": "NÚCLEO DE APROFUNDAMENTO EM EDUCAÇÃO E GÊNERO",
+    "CargaHorariaTeorico": 68,
+    "CargaHorariaPratica": null,
+    "ListaPrequisitos": []
+  },
+  {
+    "Id": 49138,
+    "Codigo": "0510.001.615-6",
+    "Tipo": "OPT",
+    "Descricao": "PRÁTICA EM EDUCAÇÃO DO CAMPO",
+    "Semestre": 99,
+    "Apelido": "PRÁTICA EM EDUCAÇÃO DO CAMPO",
+    "CargaHorariaTeorico": 34,
+    "CargaHorariaPratica": null,
+    "ListaPrequisitos": []
+  },
+  {
+    "Id": 49133,
+    "Codigo": "0510.001.610-0",
+    "Tipo": "OPT",
+    "Descricao": "PRÁTICA EM EDUCAÇÃO INTEGRAL",
+    "Semestre": 99,
+    "Apelido": "PRÁTICA EM EDUCAÇÃO INTEGRAL",
+    "CargaHorariaTeorico": 34,
+    "CargaHorariaPratica": null,
+    "ListaPrequisitos": []
+  },
+  {
+    "Id": 49148,
+    "Codigo": "0510.001.625-4",
+    "Tipo": "OPT",
+    "Descricao": "PRÁTICAS INTEGRADORAS DE EXTENSÃO PARA A FORMAÇÃO DOCENTE I",
+    "Semestre": 99,
+    "Apelido": "PRÁTICAS INTEGRADORAS DE EXTENSÃO PARA A FORMAÇÃO DOCENTE I",
+    "CargaHorariaTeorico": 68,
+    "CargaHorariaPratica": null,
+    "ListaPrequisitos": []
+  },
+  {
+    "Id": 49149,
+    "Codigo": "0510.001.626-3",
+    "Tipo": "OPT",
+    "Descricao": "PRÁTICAS INTEGRADORAS DE EXTENSÃO PARA A FORMAÇÃO DOCENTE II",
+    "Semestre": 99,
+    "Apelido": "PRÁTICAS INTEGRADORAS DE EXTENSÃO PARA A FORMAÇÃO DOCENTE II",
+    "CargaHorariaTeorico": 68,
+    "CargaHorariaPratica": null,
+    "ListaPrequisitos": []
+  },
+  {
+    "Id": 49132,
+    "Codigo": "0510.001.609-4",
+    "Tipo": "OPT",
+    "Descricao": "PRÁTICAS INTEGRADORAS DE EXTENSÃO PARA A FORMAÇÃO DOCENTE III",
+    "Semestre": 99,
+    "Apelido": "PRÁTICAS INTEGRADORAS DE EXTENSÃO PARA A FORMAÇÃO DOCENTE III",
+    "CargaHorariaTeorico": 68,
+    "CargaHorariaPratica": null,
+    "ListaPrequisitos": []
+  },
+  {
+    "Id": 49137,
+    "Codigo": "0510.001.614-7",
+    "Tipo": "OPT",
+    "Descricao": "PRÁTICAS INTEGRADORAS DE EXTENSÃO PARA A FORMAÇÃO DOCENTE IV",
+    "Semestre": 99,
+    "Apelido": "PRÁTICAS INTEGRADORAS DE EXTENSÃO PARA A FORMAÇÃO DOCENTE IV",
+    "CargaHorariaTeorico": 68,
+    "CargaHorariaPratica": null,
+    "ListaPrequisitos": []
+  },
+  {
+    "Id": 49156,
+    "Codigo": "0510.001.633-4",
+    "Tipo": "OPT",
+    "Descricao": "PRÁTICAS INTEGRADORAS DE EXTENSÃO PARA A FORMAÇÃO DOCENTE V",
+    "Semestre": 99,
+    "Apelido": "PRÁTICAS INTEGRADORAS DE EXTENSÃO PARA A FORMAÇÃO DOCENTE V",
+    "CargaHorariaTeorico": 68,
+    "CargaHorariaPratica": null,
+    "ListaPrequisitos": []
+  },
+  {
+    "Id": 49077,
+    "Codigo": "0510.001.554-2",
+    "Tipo": "OPT",
+    "Descricao": "PRÁTICAS INTEGRADORAS DE EXTENSÃO PARA A FORMAÇÃO DOCENTE VI",
+    "Semestre": 99,
+    "Apelido": "PRÁTICAS INTEGRADORAS DE EXTENSÃO PARA A FORMAÇÃO DOCENTE VI",
+    "CargaHorariaTeorico": 68,
+    "CargaHorariaPratica": null,
+    "ListaPrequisitos": []
+  },
+  {
+    "Id": 49134,
+    "Codigo": "0510.001.611-0",
+    "Tipo": "OPT",
+    "Descricao": "PRÁTICAS PEDAGÓGICAS E AS TECNOLOGIAS DIGITAIS NA ALFABETIZAÇÃO",
+    "Semestre": 99,
+    "Apelido": "PRÁTICAS PEDAGÓGICAS E AS TECNOLOGIAS DIGITAIS NA ALFABETIZAÇÃO",
+    "CargaHorariaTeorico": 34,
+    "CargaHorariaPratica": null,
+    "ListaPrequisitos": []
+  },
+  {
+    "Id": 49092,
+    "Codigo": "0510.001.569-6",
+    "Tipo": "OPT",
+    "Descricao": "PROCESSOS CRIATIVOS E ESTÉTICOS NA FORMAÇÃO PEDAGÓGICA",
+    "Semestre": 99,
+    "Apelido": "PROCESSOS CRIATIVOS E ESTÉTICOS NA FORMAÇÃO PEDAGÓGICA",
+    "CargaHorariaTeorico": 34,
+    "CargaHorariaPratica": null,
+    "ListaPrequisitos": []
+  },
+  {
+    "Id": 49141,
+    "Codigo": "0510.001.618-3",
+    "Tipo": "OPT",
+    "Descricao": "PROFISSÃO DOCENTE: IDENTIDADE E DESENVOLVIMENTO PROFISSIONAL",
+    "Semestre": 99,
+    "Apelido": "PROFISSÃO DOCENTE: IDENTIDADE E DESENVOLVIMENTO PROFISSIONAL",
+    "CargaHorariaTeorico": 34,
+    "CargaHorariaPratica": null,
+    "ListaPrequisitos": []
+  },
+  {
+    "Id": 49085,
+    "Codigo": "0510.001.562-2",
+    "Tipo": "OPT",
+    "Descricao": "TÓPICOS ESPECIAIS EM EDUCAÇÃO PARA A DIVERSIDADE",
+    "Semestre": 99,
+    "Apelido": "TÓPICOS ESPECIAIS EM EDUCAÇÃO PARA A DIVERSIDADE",
+    "CargaHorariaTeorico": 34,
+    "CargaHorariaPratica": null,
+    "ListaPrequisitos": []
+  },
+  {
+    "Id": 49135,
+    "Codigo": "0510.001.612-9",
+    "Tipo": "OPT",
+    "Descricao": "TRANSTORNOS DE APRENDIZAGEM",
+    "Semestre": 99,
+    "Apelido": "TRANSTORNOS DE APRENDIZAGEM",
+    "CargaHorariaTeorico": 34,
+    "CargaHorariaPratica": null,
+    "ListaPrequisitos": []
+  }
+]

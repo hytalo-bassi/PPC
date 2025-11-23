@@ -1,0 +1,1179 @@
+[
+  {
+    "Id": 49352,
+    "Codigo": "0709.001.837-9",
+    "Tipo": "OBR",
+    "Descricao": "EDUCAÇÃO E RELAÇÕES ÉTNICO-RACIAIS",
+    "Semestre": 1,
+    "Apelido": "EDUCAÇÃO E RELAÇÕES ÉTNICO-RACIAIS",
+    "CargaHorariaTeorico": 68,
+    "CargaHorariaPratica": null,
+    "ListaPrequisitos": []
+  },
+  {
+    "Id": 49348,
+    "Codigo": "0709.001.833-2",
+    "Tipo": "OBR",
+    "Descricao": "FILOSOFIA DA EDUCAÇÃO",
+    "Semestre": 1,
+    "Apelido": "FILOSOFIA DA EDUCAÇÃO",
+    "CargaHorariaTeorico": 68,
+    "CargaHorariaPratica": null,
+    "ListaPrequisitos": []
+  },
+  {
+    "Id": 49349,
+    "Codigo": "0709.001.834-1",
+    "Tipo": "OBR",
+    "Descricao": "HISTÓRIA DA EDUCAÇÃO I",
+    "Semestre": 1,
+    "Apelido": "HISTÓRIA DA EDUCAÇÃO I",
+    "CargaHorariaTeorico": 68,
+    "CargaHorariaPratica": null,
+    "ListaPrequisitos": []
+  },
+  {
+    "Id": 49350,
+    "Codigo": "0709.001.835-0",
+    "Tipo": "OBR",
+    "Descricao": "SOCIOLOGIA DA EDUCAÇÃO",
+    "Semestre": 1,
+    "Apelido": "SOCIOLOGIA DA EDUCAÇÃO",
+    "CargaHorariaTeorico": 68,
+    "CargaHorariaPratica": null,
+    "ListaPrequisitos": []
+  },
+  {
+    "Id": 49354,
+    "Codigo": "0709.001.839-7",
+    "Tipo": "OBR",
+    "Descricao": "TRABALHO ACADÊMICO",
+    "Semestre": 1,
+    "Apelido": "TRABALHO ACADÊMICO",
+    "CargaHorariaTeorico": 68,
+    "CargaHorariaPratica": null,
+    "ListaPrequisitos": []
+  },
+  {
+    "Id": 49353,
+    "Codigo": "0709.001.838-8",
+    "Tipo": "OBR",
+    "Descricao": "HISTÓRIA DA EDUCAÇÃO II",
+    "Semestre": 2,
+    "Apelido": "HISTÓRIA DA EDUCAÇÃO II",
+    "CargaHorariaTeorico": 68,
+    "CargaHorariaPratica": null,
+    "ListaPrequisitos": [
+      {
+        "Id": 49349,
+        "Codigo": "0709.001.834-1",
+        "Descricao": "HISTÓRIA DA EDUCAÇÃO I",
+        "Semestre": "0",
+        "Apelido": "HISTÓRIA DA EDUCAÇÃO I",
+        "CargaHorariaTeorico": 0,
+        "CargaHorariaPratica": 0,
+        "ListaPrequisitos": []
+      }
+    ]
+  },
+  {
+    "Id": 49355,
+    "Codigo": "0709.001.840-3",
+    "Tipo": "OBR",
+    "Descricao": "POLÍTICAS EDUCACIONAIS",
+    "Semestre": 2,
+    "Apelido": "POLÍTICAS EDUCACIONAIS",
+    "CargaHorariaTeorico": 68,
+    "CargaHorariaPratica": null,
+    "ListaPrequisitos": []
+  },
+  {
+    "Id": 49395,
+    "Codigo": "0709.001.880-6",
+    "Tipo": "OBR",
+    "Descricao": "PRÁTICA EM INSTITUIÇÕES NÃO-ESCOLARES",
+    "Semestre": 2,
+    "Apelido": "PRÁTICA EM INSTITUIÇÕES NÃO-ESCOLARES",
+    "CargaHorariaTeorico": 34,
+    "CargaHorariaPratica": null,
+    "ListaPrequisitos": []
+  },
+  {
+    "Id": 49378,
+    "Codigo": "0709.001.863-7",
+    "Tipo": "OBR",
+    "Descricao": "PSICOLOGIA DA EDUCAÇÃO",
+    "Semestre": 2,
+    "Apelido": "PSICOLOGIA DA EDUCAÇÃO",
+    "CargaHorariaTeorico": 68,
+    "CargaHorariaPratica": null,
+    "ListaPrequisitos": []
+  },
+  {
+    "Id": 49396,
+    "Codigo": "0709.001.881-5",
+    "Tipo": "OBR",
+    "Descricao": "TÓPICOS FILOSÓFICOS APLICADOS À EDUCAÇÃO",
+    "Semestre": 2,
+    "Apelido": "TÓPICOS FILOSÓFICOS APLICADOS À EDUCAÇÃO",
+    "CargaHorariaTeorico": 68,
+    "CargaHorariaPratica": null,
+    "ListaPrequisitos": [
+      {
+        "Id": 49348,
+        "Codigo": "0709.001.833-2",
+        "Descricao": "FILOSOFIA DA EDUCAÇÃO",
+        "Semestre": "0",
+        "Apelido": "FILOSOFIA DA EDUCAÇÃO",
+        "CargaHorariaTeorico": 0,
+        "CargaHorariaPratica": 0,
+        "ListaPrequisitos": []
+      }
+    ]
+  },
+  {
+    "Id": 49399,
+    "Codigo": "0709.001.884-2",
+    "Tipo": "OBR",
+    "Descricao": "TÓPICOS SOCIOLÓGICOS APLICADOS À EDUCAÇÃO",
+    "Semestre": 2,
+    "Apelido": "TÓPICOS SOCIOLÓGICOS APLICADOS À EDUCAÇÃO",
+    "CargaHorariaTeorico": 68,
+    "CargaHorariaPratica": null,
+    "ListaPrequisitos": [
+      {
+        "Id": 49350,
+        "Codigo": "0709.001.835-0",
+        "Descricao": "SOCIOLOGIA DA EDUCAÇÃO",
+        "Semestre": "0",
+        "Apelido": "SOCIOLOGIA DA EDUCAÇÃO",
+        "CargaHorariaTeorico": 0,
+        "CargaHorariaPratica": 0,
+        "ListaPrequisitos": []
+      }
+    ]
+  },
+  {
+    "Id": 49366,
+    "Codigo": "0709.001.851-0",
+    "Tipo": "OBR",
+    "Descricao": "ABORDAGEM PSICOLÓGICA DO DESENVOLVIMENTO E DA APRENDIZAGEM",
+    "Semestre": 3,
+    "Apelido": "ABORDAGEM PSICOLÓGICA DO DESENVOLVIMENTO E DA APRENDIZAGEM",
+    "CargaHorariaTeorico": 68,
+    "CargaHorariaPratica": null,
+    "ListaPrequisitos": [
+      {
+        "Id": 49378,
+        "Codigo": "0709.001.863-7",
+        "Descricao": "PSICOLOGIA DA EDUCAÇÃO",
+        "Semestre": "0",
+        "Apelido": "PSICOLOGIA DA EDUCAÇÃO",
+        "CargaHorariaTeorico": 0,
+        "CargaHorariaPratica": 0,
+        "ListaPrequisitos": []
+      }
+    ]
+  },
+  {
+    "Id": 49351,
+    "Codigo": "0709.001.836-0",
+    "Tipo": "OBR",
+    "Descricao": "DIDÁTICA I",
+    "Semestre": 3,
+    "Apelido": "DIDÁTICA I",
+    "CargaHorariaTeorico": 68,
+    "CargaHorariaPratica": null,
+    "ListaPrequisitos": [
+      {
+        "Id": 49378,
+        "Codigo": "0709.001.863-7",
+        "Descricao": "PSICOLOGIA DA EDUCAÇÃO",
+        "Semestre": "0",
+        "Apelido": "PSICOLOGIA DA EDUCAÇÃO",
+        "CargaHorariaTeorico": 0,
+        "CargaHorariaPratica": 0,
+        "ListaPrequisitos": []
+      }
+    ]
+  },
+  {
+    "Id": 49356,
+    "Codigo": "0709.001.841-2",
+    "Tipo": "OBR",
+    "Descricao": "EDUCAÇÃO ESPECIAL",
+    "Semestre": 3,
+    "Apelido": "EDUCAÇÃO ESPECIAL",
+    "CargaHorariaTeorico": 68,
+    "CargaHorariaPratica": null,
+    "ListaPrequisitos": []
+  },
+  {
+    "Id": 49360,
+    "Codigo": "0709.001.845-9",
+    "Tipo": "OBR",
+    "Descricao": "INFÂNCIA E SOCIEDADE",
+    "Semestre": 3,
+    "Apelido": "INFÂNCIA E SOCIEDADE",
+    "CargaHorariaTeorico": 68,
+    "CargaHorariaPratica": null,
+    "ListaPrequisitos": []
+  },
+  {
+    "Id": 49391,
+    "Codigo": "0709.001.876-2",
+    "Tipo": "OBR",
+    "Descricao": "PRÁTICA EM EDUCAÇÃO DE JOVENS E ADULTOS",
+    "Semestre": 3,
+    "Apelido": "PRÁTICA EM EDUCAÇÃO DE JOVENS E ADULTOS",
+    "CargaHorariaTeorico": 34,
+    "CargaHorariaPratica": null,
+    "ListaPrequisitos": []
+  },
+  {
+    "Id": 49358,
+    "Codigo": "0709.001.843-0",
+    "Tipo": "OBR",
+    "Descricao": "TRABALHO DOCENTE EM ESPAÇOS NÃO ESCOLARES",
+    "Semestre": 3,
+    "Apelido": "TRABALHO DOCENTE EM ESPAÇOS NÃO ESCOLARES",
+    "CargaHorariaTeorico": 51,
+    "CargaHorariaPratica": null,
+    "ListaPrequisitos": []
+  },
+  {
+    "Id": 49365,
+    "Codigo": "0709.001.850-1",
+    "Tipo": "OBR",
+    "Descricao": "CURRÍCULO E EDUCAÇÃO",
+    "Semestre": 4,
+    "Apelido": "CURRÍCULO E EDUCAÇÃO",
+    "CargaHorariaTeorico": 68,
+    "CargaHorariaPratica": null,
+    "ListaPrequisitos": []
+  },
+  {
+    "Id": 49388,
+    "Codigo": "0709.001.873-5",
+    "Tipo": "OBR",
+    "Descricao": "DIDÁTICA II",
+    "Semestre": 4,
+    "Apelido": "DIDÁTICA II",
+    "CargaHorariaTeorico": 68,
+    "CargaHorariaPratica": null,
+    "ListaPrequisitos": [
+      {
+        "Id": 49351,
+        "Codigo": "0709.001.836-0",
+        "Descricao": "DIDÁTICA I",
+        "Semestre": "0",
+        "Apelido": "DIDÁTICA I",
+        "CargaHorariaTeorico": 0,
+        "CargaHorariaPratica": 0,
+        "ListaPrequisitos": []
+      }
+    ]
+  },
+  {
+    "Id": 49328,
+    "Codigo": "0709.001.813-6",
+    "Tipo": "OBR",
+    "Descricao": "EDUCAÇÃO DE JOVENS E ADULTOS",
+    "Semestre": 4,
+    "Apelido": "EDUCAÇÃO DE JOVENS E ADULTOS",
+    "CargaHorariaTeorico": 68,
+    "CargaHorariaPratica": null,
+    "ListaPrequisitos": []
+  },
+  {
+    "Id": 49389,
+    "Codigo": "0709.001.874-4",
+    "Tipo": "OBR",
+    "Descricao": "ESTÁGIO OBRIGATÓRIO I",
+    "Semestre": 4,
+    "Apelido": "ESTÁGIO OBRIGATÓRIO I",
+    "CargaHorariaTeorico": 100,
+    "CargaHorariaPratica": null,
+    "ListaPrequisitos": [
+      {
+        "Id": 49351,
+        "Codigo": "0709.001.836-0",
+        "Descricao": "DIDÁTICA I",
+        "Semestre": "0",
+        "Apelido": "DIDÁTICA I",
+        "CargaHorariaTeorico": 0,
+        "CargaHorariaPratica": 0,
+        "ListaPrequisitos": []
+      }
+    ]
+  },
+  {
+    "Id": 49364,
+    "Codigo": "0709.001.849-5",
+    "Tipo": "OBR",
+    "Descricao": "GESTÃO ESCOLAR",
+    "Semestre": 4,
+    "Apelido": "GESTÃO ESCOLAR",
+    "CargaHorariaTeorico": 68,
+    "CargaHorariaPratica": null,
+    "ListaPrequisitos": []
+  },
+  {
+    "Id": 49392,
+    "Codigo": "0709.001.877-1",
+    "Tipo": "OBR",
+    "Descricao": "PRESSUPOSTOS TEÓRICOS E PRÁTICOS EM INFÂNCIA E LETRAMENTO",
+    "Semestre": 4,
+    "Apelido": "PRESSUPOSTOS TEÓRICOS E PRÁTICOS EM INFÂNCIA E LETRAMENTO",
+    "CargaHorariaTeorico": 68,
+    "CargaHorariaPratica": null,
+    "ListaPrequisitos": []
+  },
+  {
+    "Id": 49325,
+    "Codigo": "0709.001.810-9",
+    "Tipo": "OBR",
+    "Descricao": "ESTÁGIO OBRIGATÓRIO II",
+    "Semestre": 5,
+    "Apelido": "ESTÁGIO OBRIGATÓRIO II",
+    "CargaHorariaTeorico": 100,
+    "CargaHorariaPratica": null,
+    "ListaPrequisitos": [
+      {
+        "Id": 49351,
+        "Codigo": "0709.001.836-0",
+        "Descricao": "DIDÁTICA I",
+        "Semestre": "0",
+        "Apelido": "DIDÁTICA I",
+        "CargaHorariaTeorico": 0,
+        "CargaHorariaPratica": 0,
+        "ListaPrequisitos": []
+      }
+    ]
+  },
+  {
+    "Id": 49367,
+    "Codigo": "0709.001.852-0",
+    "Tipo": "OBR",
+    "Descricao": "PESQUISA EM EDUCAÇÃO I",
+    "Semestre": 5,
+    "Apelido": "PESQUISA EM EDUCAÇÃO I",
+    "CargaHorariaTeorico": 51,
+    "CargaHorariaPratica": null,
+    "ListaPrequisitos": []
+  },
+  {
+    "Id": 49326,
+    "Codigo": "0709.001.811-8",
+    "Tipo": "OBR",
+    "Descricao": "PRÁTICA DE ALFABETIZAÇÃO",
+    "Semestre": 5,
+    "Apelido": "PRÁTICA DE ALFABETIZAÇÃO",
+    "CargaHorariaTeorico": 51,
+    "CargaHorariaPratica": null,
+    "ListaPrequisitos": []
+  },
+  {
+    "Id": 49374,
+    "Codigo": "0709.001.859-3",
+    "Tipo": "OBR",
+    "Descricao": "PRESSUPOSTOS TEÓRICOS E PRÁTICOS DO ENSINO DE CIÊNCIAS PARA A EDUCAÇÃO DA INFÂNCIA",
+    "Semestre": 5,
+    "Apelido": "PRESSUPOSTOS TEÓRICOS E PRÁTICOS DO ENSINO DE CIÊNCIAS PARA A EDUCAÇÃO DA INFÂNCIA",
+    "CargaHorariaTeorico": 68,
+    "CargaHorariaPratica": null,
+    "ListaPrequisitos": []
+  },
+  {
+    "Id": 49357,
+    "Codigo": "0709.001.842-1",
+    "Tipo": "OBR",
+    "Descricao": "PRESSUPOSTOS TEÓRICOS E PRÁTICOS DO ENSINO DE MATEMÁTICA PARA A EDUCAÇÃO DA INFÂNCIA",
+    "Semestre": 5,
+    "Apelido": "PRESSUPOSTOS TEÓRICOS E PRÁTICOS DO ENSINO DE MATEMÁTICA PARA A EDUCAÇÃO DA INFÂNCIA",
+    "CargaHorariaTeorico": 68,
+    "CargaHorariaPratica": null,
+    "ListaPrequisitos": []
+  },
+  {
+    "Id": 49368,
+    "Codigo": "0709.001.853-9",
+    "Tipo": "OBR",
+    "Descricao": "PRESSUPOSTOS TEÓRICOS E PRÁTICOS EM ALFABETIZAÇÃO",
+    "Semestre": 5,
+    "Apelido": "PRESSUPOSTOS TEÓRICOS E PRÁTICOS EM ALFABETIZAÇÃO",
+    "CargaHorariaTeorico": 68,
+    "CargaHorariaPratica": null,
+    "ListaPrequisitos": []
+  },
+  {
+    "Id": 49363,
+    "Codigo": "0709.001.848-6",
+    "Tipo": "OBR",
+    "Descricao": "ESTÁGIO OBRIGATÓRIO III",
+    "Semestre": 6,
+    "Apelido": "ESTÁGIO OBRIGATÓRIO III",
+    "CargaHorariaTeorico": 100,
+    "CargaHorariaPratica": null,
+    "ListaPrequisitos": [
+      {
+        "Id": 49351,
+        "Codigo": "0709.001.836-0",
+        "Descricao": "DIDÁTICA I",
+        "Semestre": "0",
+        "Apelido": "DIDÁTICA I",
+        "CargaHorariaTeorico": 0,
+        "CargaHorariaPratica": 0,
+        "ListaPrequisitos": []
+      }
+    ]
+  },
+  {
+    "Id": 49393,
+    "Codigo": "0709.001.878-0",
+    "Tipo": "OBR",
+    "Descricao": "FUNDAMENTOS E PRÁTICAS DE EDUCAÇÃO DA PRIMEIRA INFÂNCIA",
+    "Semestre": 6,
+    "Apelido": "FUNDAMENTOS E PRÁTICAS DE EDUCAÇÃO DA PRIMEIRA INFÂNCIA",
+    "CargaHorariaTeorico": 68,
+    "CargaHorariaPratica": null,
+    "ListaPrequisitos": []
+  },
+  {
+    "Id": 49397,
+    "Codigo": "0709.001.882-4",
+    "Tipo": "OBR",
+    "Descricao": "PESQUISA EM EDUCAÇÃO II",
+    "Semestre": 6,
+    "Apelido": "PESQUISA EM EDUCAÇÃO II",
+    "CargaHorariaTeorico": 68,
+    "CargaHorariaPratica": null,
+    "ListaPrequisitos": [
+      {
+        "Id": 49367,
+        "Codigo": "0709.001.852-0",
+        "Descricao": "PESQUISA EM EDUCAÇÃO I",
+        "Semestre": "0",
+        "Apelido": "PESQUISA EM EDUCAÇÃO I",
+        "CargaHorariaTeorico": 0,
+        "CargaHorariaPratica": 0,
+        "ListaPrequisitos": []
+      }
+    ]
+  },
+  {
+    "Id": 49370,
+    "Codigo": "0709.001.855-7",
+    "Tipo": "OBR",
+    "Descricao": "PRÁTICA DE MATEMÁTICA PARA A EDUCAÇÃO DA INFÂNCIA",
+    "Semestre": 6,
+    "Apelido": "PRÁTICA DE MATEMÁTICA PARA A EDUCAÇÃO DA INFÂNCIA",
+    "CargaHorariaTeorico": 68,
+    "CargaHorariaPratica": null,
+    "ListaPrequisitos": [
+      {
+        "Id": 49357,
+        "Codigo": "0709.001.842-1",
+        "Descricao": "PRESSUPOSTOS TEÓRICOS E PRÁTICOS DO ENSINO DE MATEMÁTICA PARA A EDUCAÇÃO DA INFÂNCIA",
+        "Semestre": "0",
+        "Apelido": "PRESSUPOSTOS TEÓRICOS E PRÁTICOS DO ENSINO DE MATEMÁTICA PARA A EDUCAÇÃO DA INFÂNCIA",
+        "CargaHorariaTeorico": 0,
+        "CargaHorariaPratica": 0,
+        "ListaPrequisitos": []
+      }
+    ]
+  },
+  {
+    "Id": 49361,
+    "Codigo": "0709.001.846-8",
+    "Tipo": "OBR",
+    "Descricao": "PRÁTICA EM EDUCAÇÃO INCLUSIVA",
+    "Semestre": 6,
+    "Apelido": "PRÁTICA EM EDUCAÇÃO INCLUSIVA",
+    "CargaHorariaTeorico": 51,
+    "CargaHorariaPratica": null,
+    "ListaPrequisitos": []
+  },
+  {
+    "Id": 49362,
+    "Codigo": "0709.001.847-7",
+    "Tipo": "OBR",
+    "Descricao": "PRESSUPOSTOS TEÓRICOS E PRÁTICOS DE LÍNGUA PORTUGUESA PARA A EDUCAÇÃO DA INFÂNCIA",
+    "Semestre": 6,
+    "Apelido": "PRESSUPOSTOS TEÓRICOS E PRÁTICOS DE LÍNGUA PORTUGUESA PARA A EDUCAÇÃO DA INFÂNCIA",
+    "CargaHorariaTeorico": 68,
+    "CargaHorariaPratica": null,
+    "ListaPrequisitos": []
+  },
+  {
+    "Id": 49359,
+    "Codigo": "0709.001.844-0",
+    "Tipo": "OBR",
+    "Descricao": "EDUCAÇÃO, MÍDIAS E TECNOLOGIAS",
+    "Semestre": 7,
+    "Apelido": "EDUCAÇÃO, MÍDIAS E TECNOLOGIAS",
+    "CargaHorariaTeorico": 68,
+    "CargaHorariaPratica": null,
+    "ListaPrequisitos": [
+      {
+        "Id": 49388,
+        "Codigo": "0709.001.873-5",
+        "Descricao": "DIDÁTICA II",
+        "Semestre": "0",
+        "Apelido": "DIDÁTICA II",
+        "CargaHorariaTeorico": 0,
+        "CargaHorariaPratica": 0,
+        "ListaPrequisitos": []
+      }
+    ]
+  },
+  {
+    "Id": 49390,
+    "Codigo": "0709.001.875-3",
+    "Tipo": "OBR",
+    "Descricao": "ESTÁGIO OBRIGATÓRIO IV",
+    "Semestre": 7,
+    "Apelido": "ESTÁGIO OBRIGATÓRIO IV",
+    "CargaHorariaTeorico": 100,
+    "CargaHorariaPratica": null,
+    "ListaPrequisitos": [
+      {
+        "Id": 49351,
+        "Codigo": "0709.001.836-0",
+        "Descricao": "DIDÁTICA I",
+        "Semestre": "0",
+        "Apelido": "DIDÁTICA I",
+        "CargaHorariaTeorico": 0,
+        "CargaHorariaPratica": 0,
+        "ListaPrequisitos": []
+      }
+    ]
+  },
+  {
+    "Id": 49372,
+    "Codigo": "0709.001.857-5",
+    "Tipo": "OBR",
+    "Descricao": "LUDICIDADE E EDUCAÇÃO",
+    "Semestre": 7,
+    "Apelido": "LUDICIDADE E EDUCAÇÃO",
+    "CargaHorariaTeorico": 68,
+    "CargaHorariaPratica": null,
+    "ListaPrequisitos": []
+  },
+  {
+    "Id": 47241,
+    "Codigo": "0709.001.647-2",
+    "Tipo": "OBR",
+    "Descricao": "PRÁTICA CIENTÍFICA I",
+    "Semestre": 7,
+    "Apelido": "PRÁTICA CIENTÍFICA I",
+    "CargaHorariaTeorico": 34,
+    "CargaHorariaPratica": null,
+    "ListaPrequisitos": [
+      {
+        "Id": 49397,
+        "Codigo": "0709.001.882-4",
+        "Descricao": "PESQUISA EM EDUCAÇÃO II",
+        "Semestre": "0",
+        "Apelido": "PESQUISA EM EDUCAÇÃO II",
+        "CargaHorariaTeorico": 0,
+        "CargaHorariaPratica": 0,
+        "ListaPrequisitos": []
+      }
+    ]
+  },
+  {
+    "Id": 49327,
+    "Codigo": "0709.001.812-7",
+    "Tipo": "OBR",
+    "Descricao": "PRÁTICA NA EDUCAÇÃO DA PRIMEIRA INFÂNCIA",
+    "Semestre": 7,
+    "Apelido": "PRÁTICA NA EDUCAÇÃO DA PRIMEIRA INFÂNCIA",
+    "CargaHorariaTeorico": 51,
+    "CargaHorariaPratica": null,
+    "ListaPrequisitos": [
+      {
+        "Id": 49393,
+        "Codigo": "0709.001.878-0",
+        "Descricao": "FUNDAMENTOS E PRÁTICAS DE EDUCAÇÃO DA PRIMEIRA INFÂNCIA",
+        "Semestre": "0",
+        "Apelido": "FUNDAMENTOS E PRÁTICAS DE EDUCAÇÃO DA PRIMEIRA INFÂNCIA",
+        "CargaHorariaTeorico": 0,
+        "CargaHorariaPratica": 0,
+        "ListaPrequisitos": []
+      }
+    ]
+  },
+  {
+    "Id": 49373,
+    "Codigo": "0709.001.858-4",
+    "Tipo": "OBR",
+    "Descricao": "PRESSUPOSTOS TEÓRICOS E PRÁTICOS DO ENSINO DE GEOGRAFIA PARA A EDUCAÇÃO DA INFÂNCIA",
+    "Semestre": 7,
+    "Apelido": "PRESSUPOSTOS TEÓRICOS E PRÁTICOS DO ENSINO DE GEOGRAFIA PARA A EDUCAÇÃO DA INFÂNCIA",
+    "CargaHorariaTeorico": 68,
+    "CargaHorariaPratica": null,
+    "ListaPrequisitos": []
+  },
+  {
+    "Id": 49375,
+    "Codigo": "0709.001.860-0",
+    "Tipo": "OBR",
+    "Descricao": "PRESSUPOSTOS TEÓRICOS E PRÁTICOS DO ENSINO DE HISTÓRIA PARA A EDUCAÇÃO DA INFÂNCIA",
+    "Semestre": 7,
+    "Apelido": "PRESSUPOSTOS TEÓRICOS E PRÁTICOS DO ENSINO DE HISTÓRIA PARA A EDUCAÇÃO DA INFÂNCIA",
+    "CargaHorariaTeorico": 68,
+    "CargaHorariaPratica": null,
+    "ListaPrequisitos": []
+  },
+  {
+    "Id": 49329,
+    "Codigo": "0709.001.814-5",
+    "Tipo": "OBR",
+    "Descricao": "ESTÁGIO OBRIGATÓRIO V",
+    "Semestre": 8,
+    "Apelido": "ESTÁGIO OBRIGATÓRIO V",
+    "CargaHorariaTeorico": 34,
+    "CargaHorariaPratica": null,
+    "ListaPrequisitos": []
+  },
+  {
+    "Id": 49376,
+    "Codigo": "0709.001.861-9",
+    "Tipo": "OBR",
+    "Descricao": "ESTUDO DE LIBRAS",
+    "Semestre": 8,
+    "Apelido": "ESTUDO DE LIBRAS",
+    "CargaHorariaTeorico": 68,
+    "CargaHorariaPratica": null,
+    "ListaPrequisitos": []
+  },
+  {
+    "Id": 49398,
+    "Codigo": "0709.001.883-3",
+    "Tipo": "OBR",
+    "Descricao": "LÍNGUA PORTUGUESA COMO SEGUNDA LÍNGUA PARA SURDOS",
+    "Semestre": 8,
+    "Apelido": "LÍNGUA PORTUGUESA COMO SEGUNDA LÍNGUA PARA SURDOS",
+    "CargaHorariaTeorico": 34,
+    "CargaHorariaPratica": null,
+    "ListaPrequisitos": []
+  },
+  {
+    "Id": 49379,
+    "Codigo": "0709.001.864-6",
+    "Tipo": "OBR",
+    "Descricao": "LITERATURA INFANTOJUVENIL",
+    "Semestre": 8,
+    "Apelido": "LITERATURA INFANTOJUVENIL",
+    "CargaHorariaTeorico": 68,
+    "CargaHorariaPratica": null,
+    "ListaPrequisitos": []
+  },
+  {
+    "Id": 47242,
+    "Codigo": "0709.001.648-1",
+    "Tipo": "OBR",
+    "Descricao": "PRÁTICA CIENTÍFICA II",
+    "Semestre": 8,
+    "Apelido": "PRÁTICA CIENTÍFICA II",
+    "CargaHorariaTeorico": 34,
+    "CargaHorariaPratica": null,
+    "ListaPrequisitos": [
+      {
+        "Id": 47241,
+        "Codigo": "0709.001.647-2",
+        "Descricao": "PRÁTICA CIENTÍFICA I",
+        "Semestre": "0",
+        "Apelido": "PRÁTICA CIENTÍFICA I",
+        "CargaHorariaTeorico": 0,
+        "CargaHorariaPratica": 0,
+        "ListaPrequisitos": []
+      }
+    ]
+  },
+  {
+    "Id": 49371,
+    "Codigo": "0709.001.856-6",
+    "Tipo": "OBR",
+    "Descricao": "PRÁTICA DE LÍNGUA PORTUGUESA PARA A EDUCAÇÃO DA INFÂNCIA",
+    "Semestre": 8,
+    "Apelido": "PRÁTICA DE LÍNGUA PORTUGUESA PARA A EDUCAÇÃO DA INFÂNCIA",
+    "CargaHorariaTeorico": 51,
+    "CargaHorariaPratica": null,
+    "ListaPrequisitos": [
+      {
+        "Id": 49362,
+        "Codigo": "0709.001.847-7",
+        "Descricao": "PRESSUPOSTOS TEÓRICOS E PRÁTICOS DE LÍNGUA PORTUGUESA PARA A EDUCAÇÃO DA INFÂNCIA",
+        "Semestre": "0",
+        "Apelido": "PRESSUPOSTOS TEÓRICOS E PRÁTICOS DE LÍNGUA PORTUGUESA PARA A EDUCAÇÃO DA INFÂNCIA",
+        "CargaHorariaTeorico": 0,
+        "CargaHorariaPratica": 0,
+        "ListaPrequisitos": []
+      }
+    ]
+  },
+  {
+    "Id": 49330,
+    "Codigo": "0709.001.815-4",
+    "Tipo": "OPT",
+    "Descricao": "AFETIVIDADE E APRENDIZAGEM",
+    "Semestre": 99,
+    "Apelido": "AFETIVIDADE E APRENDIZAGEM",
+    "CargaHorariaTeorico": 34,
+    "CargaHorariaPratica": null,
+    "ListaPrequisitos": []
+  },
+  {
+    "Id": 49394,
+    "Codigo": "0709.001.879-0",
+    "Tipo": "OPT",
+    "Descricao": "ARTE E EDUCAÇÃO",
+    "Semestre": 99,
+    "Apelido": "ARTE E EDUCAÇÃO",
+    "CargaHorariaTeorico": 34,
+    "CargaHorariaPratica": null,
+    "ListaPrequisitos": []
+  },
+  {
+    "Id": 49339,
+    "Codigo": "0709.001.824-3",
+    "Tipo": "OPT",
+    "Descricao": "CONHECIMENTOS E SABERES SOBRE PRÁTICAS EDUCATIVAS COM BEBÊS",
+    "Semestre": 99,
+    "Apelido": "CONHECIMENTOS E SABERES SOBRE PRÁTICAS EDUCATIVAS COM BEBÊS",
+    "CargaHorariaTeorico": 34,
+    "CargaHorariaPratica": null,
+    "ListaPrequisitos": []
+  },
+  {
+    "Id": 49332,
+    "Codigo": "0709.001.817-2",
+    "Tipo": "OPT",
+    "Descricao": "DESENVOLVIMENTO DO PENSAMENTO NA INFÂNCIA",
+    "Semestre": 99,
+    "Apelido": "DESENVOLVIMENTO DO PENSAMENTO NA INFÂNCIA",
+    "CargaHorariaTeorico": 34,
+    "CargaHorariaPratica": null,
+    "ListaPrequisitos": []
+  },
+  {
+    "Id": 44999,
+    "Codigo": "0709.001.245-5",
+    "Tipo": "NAP",
+    "Descricao": "DIDÁTICA E AVALIAÇÃO DA APRENDIZAGEM",
+    "Semestre": 99,
+    "Apelido": "DIDÁTICA E AVALIAÇÃO DA APRENDIZAGEM",
+    "CargaHorariaTeorico": 34,
+    "CargaHorariaPratica": null,
+    "ListaPrequisitos": []
+  },
+  {
+    "Id": 49340,
+    "Codigo": "0709.001.825-2",
+    "Tipo": "OPT",
+    "Descricao": "DIFERENTES ABORDAGENS PARA EDUCAÇÃO DE BEBÊS",
+    "Semestre": 99,
+    "Apelido": "DIFERENTES ABORDAGENS PARA EDUCAÇÃO DE BEBÊS",
+    "CargaHorariaTeorico": 34,
+    "CargaHorariaPratica": null,
+    "ListaPrequisitos": []
+  },
+  {
+    "Id": 45009,
+    "Codigo": "0709.001.255-3",
+    "Tipo": "OPT",
+    "Descricao": "DIFICULDADE ACENTUADA DE APRENDIZAGEM E MEDICALIZAÇÃO",
+    "Semestre": 99,
+    "Apelido": "DIFICULDADE ACENTUADA DE APRENDIZAGEM E MEDICALIZAÇÃO",
+    "CargaHorariaTeorico": 34,
+    "CargaHorariaPratica": null,
+    "ListaPrequisitos": []
+  },
+  {
+    "Id": 49380,
+    "Codigo": "0709.001.865-5",
+    "Tipo": "OPT",
+    "Descricao": "DIREITOS HUMANOS E DIVERSIDADE",
+    "Semestre": 99,
+    "Apelido": "DIREITOS HUMANOS E DIVERSIDADE",
+    "CargaHorariaTeorico": 34,
+    "CargaHorariaPratica": null,
+    "ListaPrequisitos": []
+  },
+  {
+    "Id": 45010,
+    "Codigo": "0709.001.256-2",
+    "Tipo": "OPT",
+    "Descricao": "EDUCAÇÃO, DIVERSIDADE E PRÁTICAS PEDAGÓGICAS",
+    "Semestre": 99,
+    "Apelido": "EDUCAÇÃO, DIVERSIDADE E PRÁTICAS PEDAGÓGICAS",
+    "CargaHorariaTeorico": 34,
+    "CargaHorariaPratica": null,
+    "ListaPrequisitos": []
+  },
+  {
+    "Id": 49369,
+    "Codigo": "0709.001.854-8",
+    "Tipo": "OPT",
+    "Descricao": "EDUCAÇÃO EMPREENDEDORA",
+    "Semestre": 99,
+    "Apelido": "EDUCAÇÃO EMPREENDEDORA",
+    "CargaHorariaTeorico": 34,
+    "CargaHorariaPratica": null,
+    "ListaPrequisitos": []
+  },
+  {
+    "Id": 49346,
+    "Codigo": "0709.001.831-4",
+    "Tipo": "OPT",
+    "Descricao": "EDUCAÇÃO MATEMÁTICA PARA A APRENDIZAGEM E DESENVOLVIMENTO INFANTIL",
+    "Semestre": 99,
+    "Apelido": "EDUCAÇÃO MATEMÁTICA PARA A APRENDIZAGEM E DESENVOLVIMENTO INFANTIL",
+    "CargaHorariaTeorico": 34,
+    "CargaHorariaPratica": null,
+    "ListaPrequisitos": []
+  },
+  {
+    "Id": 49331,
+    "Codigo": "0709.001.816-3",
+    "Tipo": "OPT",
+    "Descricao": "FORMAÇÃO, IDENTIDADE, PROFISSIONALIZAÇÃO E ATUAÇÃO DOCENTE",
+    "Semestre": 99,
+    "Apelido": "FORMAÇÃO, IDENTIDADE, PROFISSIONALIZAÇÃO E ATUAÇÃO DOCENTE",
+    "CargaHorariaTeorico": 34,
+    "CargaHorariaPratica": null,
+    "ListaPrequisitos": []
+  },
+  {
+    "Id": 45000,
+    "Codigo": "0709.001.246-4",
+    "Tipo": "NAP",
+    "Descricao": "GESTÃO DA AVALIAÇÃO EDUCACIONAL NA ESCOLA",
+    "Semestre": 99,
+    "Apelido": "GESTÃO DA AVALIAÇÃO EDUCACIONAL NA ESCOLA",
+    "CargaHorariaTeorico": 34,
+    "CargaHorariaPratica": null,
+    "ListaPrequisitos": []
+  },
+  {
+    "Id": 45002,
+    "Codigo": "0709.001.248-2",
+    "Tipo": "NAP",
+    "Descricao": "GESTÃO DAS POLÍTICAS EDUCACIONAIS NA ESCOLA",
+    "Semestre": 99,
+    "Apelido": "GESTÃO DAS POLÍTICAS EDUCACIONAIS NA ESCOLA",
+    "CargaHorariaTeorico": 34,
+    "CargaHorariaPratica": null,
+    "ListaPrequisitos": []
+  },
+  {
+    "Id": 49334,
+    "Codigo": "0709.001.819-0",
+    "Tipo": "OPT",
+    "Descricao": "GESTÃO DE POLÍTICAS EDUCACIONAIS E CONSELHOS DE EDUCAÇÃO",
+    "Semestre": 99,
+    "Apelido": "GESTÃO DE POLÍTICAS EDUCACIONAIS E CONSELHOS DE EDUCAÇÃO",
+    "CargaHorariaTeorico": 34,
+    "CargaHorariaPratica": null,
+    "ListaPrequisitos": []
+  },
+  {
+    "Id": 49337,
+    "Codigo": "0709.001.822-5",
+    "Tipo": "OPT",
+    "Descricao": "GESTÃO PEDAGÓGICA E PLANEJAMENTO",
+    "Semestre": 99,
+    "Apelido": "GESTÃO PEDAGÓGICA E PLANEJAMENTO",
+    "CargaHorariaTeorico": 34,
+    "CargaHorariaPratica": null,
+    "ListaPrequisitos": []
+  },
+  {
+    "Id": 49344,
+    "Codigo": "0709.001.829-9",
+    "Tipo": "OPT",
+    "Descricao": "HISTÓRIA DA ESCOLA PRIMÁRIA NO BRASIL",
+    "Semestre": 99,
+    "Apelido": "HISTÓRIA DA ESCOLA PRIMÁRIA NO BRASIL",
+    "CargaHorariaTeorico": 34,
+    "CargaHorariaPratica": null,
+    "ListaPrequisitos": []
+  },
+  {
+    "Id": 49347,
+    "Codigo": "0709.001.832-3",
+    "Tipo": "OPT",
+    "Descricao": "INFÂNCIA E DIREITOS",
+    "Semestre": 99,
+    "Apelido": "INFÂNCIA E DIREITOS",
+    "CargaHorariaTeorico": 34,
+    "CargaHorariaPratica": null,
+    "ListaPrequisitos": []
+  },
+  {
+    "Id": 49341,
+    "Codigo": "0709.001.826-1",
+    "Tipo": "OPT",
+    "Descricao": "INTELECTUAIS BRASILEIROS E ESCOLA PÚBLICA NO BRASIL REPUBLICANO",
+    "Semestre": 99,
+    "Apelido": "INTELECTUAIS BRASILEIROS E ESCOLA PÚBLICA NO BRASIL REPUBLICANO",
+    "CargaHorariaTeorico": 34,
+    "CargaHorariaPratica": null,
+    "ListaPrequisitos": []
+  },
+  {
+    "Id": 49345,
+    "Codigo": "0709.001.830-5",
+    "Tipo": "OPT",
+    "Descricao": "LEITURA E PRODUÇÃO DE TEXTOS EM EDUCAÇÃO",
+    "Semestre": 99,
+    "Apelido": "LEITURA E PRODUÇÃO DE TEXTOS EM EDUCAÇÃO",
+    "CargaHorariaTeorico": 34,
+    "CargaHorariaPratica": null,
+    "ListaPrequisitos": []
+  },
+  {
+    "Id": 49377,
+    "Codigo": "0709.001.862-8",
+    "Tipo": "OPT",
+    "Descricao": "MATEMÁTICA APLICADA À EDUCAÇÃO",
+    "Semestre": 99,
+    "Apelido": "MATEMÁTICA APLICADA À EDUCAÇÃO",
+    "CargaHorariaTeorico": 34,
+    "CargaHorariaPratica": null,
+    "ListaPrequisitos": [
+      {
+        "Id": 49355,
+        "Codigo": "0709.001.840-3",
+        "Descricao": "POLÍTICAS EDUCACIONAIS",
+        "Semestre": "0",
+        "Apelido": "POLÍTICAS EDUCACIONAIS",
+        "CargaHorariaTeorico": 0,
+        "CargaHorariaPratica": 0,
+        "ListaPrequisitos": []
+      }
+    ]
+  },
+  {
+    "Id": 49342,
+    "Codigo": "0709.001.827-0",
+    "Tipo": "OPT",
+    "Descricao": "MEMÓRIAS ESCOLARES, FORMAÇÃO E CONSTRUÇÃO DE IDENTIDADES DOCENTES",
+    "Semestre": 99,
+    "Apelido": "MEMÓRIAS ESCOLARES, FORMAÇÃO E CONSTRUÇÃO DE IDENTIDADES DOCENTES",
+    "CargaHorariaTeorico": 34,
+    "CargaHorariaPratica": null,
+    "ListaPrequisitos": []
+  },
+  {
+    "Id": 45020,
+    "Codigo": "0709.001.266-0",
+    "Tipo": "OPT",
+    "Descricao": "ORGANIZAÇÃO DO TRABALHO PEDAGÓGICO NA EDUCAÇÃO INFANTIL",
+    "Semestre": 99,
+    "Apelido": "ORGANIZAÇÃO DO TRABALHO PEDAGÓGICO NA EDUCAÇÃO INFANTIL",
+    "CargaHorariaTeorico": 34,
+    "CargaHorariaPratica": null,
+    "ListaPrequisitos": []
+  },
+  {
+    "Id": 45015,
+    "Codigo": "0709.001.261-5",
+    "Tipo": "OPT",
+    "Descricao": "PAULO FREIRE: A REALIDADE EDUCACIONAL, O DISCURSO PEDAGÓGICO E A EDUCAÇÃO LIBERTADORA/HUMANIZADORA",
+    "Semestre": 99,
+    "Apelido": "PAULO FREIRE: A REALIDADE EDUCACIONAL, O DISCURSO PEDAGÓGICO E A EDUCAÇÃO LIBERTADORA/HUMANIZADORA",
+    "CargaHorariaTeorico": 34,
+    "CargaHorariaPratica": null,
+    "ListaPrequisitos": []
+  },
+  {
+    "Id": 49381,
+    "Codigo": "0709.001.866-4",
+    "Tipo": "OPT",
+    "Descricao": "PEDAGOGIA UNIVERSITÁRIA, DIDÁTICA E FORMAÇÃO DE PROFESSORES",
+    "Semestre": 99,
+    "Apelido": "PEDAGOGIA UNIVERSITÁRIA, DIDÁTICA E FORMAÇÃO DE PROFESSORES",
+    "CargaHorariaTeorico": 34,
+    "CargaHorariaPratica": null,
+    "ListaPrequisitos": []
+  },
+  {
+    "Id": 49336,
+    "Codigo": "0709.001.821-6",
+    "Tipo": "OPT",
+    "Descricao": "POLÍTICAS E AVALIAÇÃO EDUCACIONAL: PROCESSOS E PRINCÍPIOS",
+    "Semestre": 99,
+    "Apelido": "POLÍTICAS E AVALIAÇÃO EDUCACIONAL: PROCESSOS E PRINCÍPIOS",
+    "CargaHorariaTeorico": 34,
+    "CargaHorariaPratica": null,
+    "ListaPrequisitos": []
+  },
+  {
+    "Id": 49384,
+    "Codigo": "0709.001.869-1",
+    "Tipo": "OPT",
+    "Descricao": "REPRESENTAÇÕES, REGISTROS INFANTIS E SEUS CONHECIMENTOS",
+    "Semestre": 99,
+    "Apelido": "REPRESENTAÇÕES, REGISTROS INFANTIS E SEUS CONHECIMENTOS",
+    "CargaHorariaTeorico": 34,
+    "CargaHorariaPratica": null,
+    "ListaPrequisitos": []
+  },
+  {
+    "Id": 49333,
+    "Codigo": "0709.001.818-1",
+    "Tipo": "OPT",
+    "Descricao": "SISTEMAS DE ENSINO NO BRASIL E AS REFORMAS EDUCACIONAIS",
+    "Semestre": 99,
+    "Apelido": "SISTEMAS DE ENSINO NO BRASIL E AS REFORMAS EDUCACIONAIS",
+    "CargaHorariaTeorico": 34,
+    "CargaHorariaPratica": null,
+    "ListaPrequisitos": []
+  },
+  {
+    "Id": 49338,
+    "Codigo": "0709.001.823-4",
+    "Tipo": "OPT",
+    "Descricao": "TENDÊNCIAS DE ENSINO EM EDUCAÇÃO MATEMÁTICA",
+    "Semestre": 99,
+    "Apelido": "TENDÊNCIAS DE ENSINO EM EDUCAÇÃO MATEMÁTICA",
+    "CargaHorariaTeorico": 34,
+    "CargaHorariaPratica": null,
+    "ListaPrequisitos": []
+  },
+  {
+    "Id": 45001,
+    "Codigo": "0709.001.247-3",
+    "Tipo": "NAP",
+    "Descricao": "TÓPICOS EM EDUCAÇÃO DA INFÂNCIA E CONCEPÇÕES PEDAGÓGICAS",
+    "Semestre": 99,
+    "Apelido": "TÓPICOS EM EDUCAÇÃO DA INFÂNCIA E CONCEPÇÕES PEDAGÓGICAS",
+    "CargaHorariaTeorico": 34,
+    "CargaHorariaPratica": null,
+    "ListaPrequisitos": []
+  },
+  {
+    "Id": 51817,
+    "Codigo": "0709.002.309-2",
+    "Tipo": "OPT",
+    "Descricao": "TÓPICOS ESPECIAIS DE EXTENSÃO CURRICULARIZADA I",
+    "Semestre": 99,
+    "Apelido": "TÓPICOS ESPECIAIS DE EXTENSÃO CURRICULARIZADA I",
+    "CargaHorariaTeorico": 68,
+    "CargaHorariaPratica": null,
+    "ListaPrequisitos": []
+  },
+  {
+    "Id": 51818,
+    "Codigo": "0709.002.310-9",
+    "Tipo": "OPT",
+    "Descricao": "TÓPICOS ESPECIAIS DE EXTENSÃO CURRICULARIZADA II",
+    "Semestre": 99,
+    "Apelido": "TÓPICOS ESPECIAIS DE EXTENSÃO CURRICULARIZADA II",
+    "CargaHorariaTeorico": 68,
+    "CargaHorariaPratica": null,
+    "ListaPrequisitos": []
+  },
+  {
+    "Id": 51819,
+    "Codigo": "0709.002.311-8",
+    "Tipo": "OPT",
+    "Descricao": "TÓPICOS ESPECIAIS DE EXTENSÃO CURRICULARIZADA III",
+    "Semestre": 99,
+    "Apelido": "TÓPICOS ESPECIAIS DE EXTENSÃO CURRICULARIZADA III",
+    "CargaHorariaTeorico": 68,
+    "CargaHorariaPratica": null,
+    "ListaPrequisitos": []
+  },
+  {
+    "Id": 49387,
+    "Codigo": "0709.001.872-6",
+    "Tipo": "OPT",
+    "Descricao": "TÓPICOS ESPECIAIS EM DIDÁTICA",
+    "Semestre": 99,
+    "Apelido": "TÓPICOS ESPECIAIS EM DIDÁTICA",
+    "CargaHorariaTeorico": 34,
+    "CargaHorariaPratica": null,
+    "ListaPrequisitos": []
+  },
+  {
+    "Id": 49386,
+    "Codigo": "0709.001.871-7",
+    "Tipo": "OPT",
+    "Descricao": "TÓPICOS ESPECIAIS EM EDUCAÇÃO ESCOLAR I",
+    "Semestre": 99,
+    "Apelido": "TÓPICOS ESPECIAIS EM EDUCAÇÃO ESCOLAR I",
+    "CargaHorariaTeorico": 34,
+    "CargaHorariaPratica": null,
+    "ListaPrequisitos": []
+  },
+  {
+    "Id": 49385,
+    "Codigo": "0709.001.870-8",
+    "Tipo": "OPT",
+    "Descricao": "TÓPICOS ESPECIAIS EM EDUCAÇÃO ESCOLAR II",
+    "Semestre": 99,
+    "Apelido": "TÓPICOS ESPECIAIS EM EDUCAÇÃO ESCOLAR II",
+    "CargaHorariaTeorico": 34,
+    "CargaHorariaPratica": null,
+    "ListaPrequisitos": []
+  },
+  {
+    "Id": 49382,
+    "Codigo": "0709.001.867-3",
+    "Tipo": "OPT",
+    "Descricao": "TÓPICOS ESPECIAIS EM EDUCAÇÃO NÃO ESCOLAR",
+    "Semestre": 99,
+    "Apelido": "TÓPICOS ESPECIAIS EM EDUCAÇÃO NÃO ESCOLAR",
+    "CargaHorariaTeorico": 34,
+    "CargaHorariaPratica": null,
+    "ListaPrequisitos": []
+  },
+  {
+    "Id": 49383,
+    "Codigo": "0709.001.868-2",
+    "Tipo": "OPT",
+    "Descricao": "TÓPICOS ESPECIAIS EM HISTÓRIA DO ENSINO DE LEITURA E ESCRITA NO BRASIL",
+    "Semestre": 99,
+    "Apelido": "TÓPICOS ESPECIAIS EM HISTÓRIA DO ENSINO DE LEITURA E ESCRITA NO BRASIL",
+    "CargaHorariaTeorico": 34,
+    "CargaHorariaPratica": null,
+    "ListaPrequisitos": []
+  },
+  {
+    "Id": 49343,
+    "Codigo": "0709.001.828-0",
+    "Tipo": "OPT",
+    "Descricao": "TÓPICOS ESPECIAIS EM LEITURA E FORMAÇÃO DO LEITOR",
+    "Semestre": 99,
+    "Apelido": "TÓPICOS ESPECIAIS EM LEITURA E FORMAÇÃO DO LEITOR",
+    "CargaHorariaTeorico": 34,
+    "CargaHorariaPratica": null,
+    "ListaPrequisitos": []
+  },
+  {
+    "Id": 49335,
+    "Codigo": "0709.001.820-7",
+    "Tipo": "OPT",
+    "Descricao": "TÓPICOS ESPECIAIS EM SOCIOLOGIA DA INFÂNCIA",
+    "Semestre": 99,
+    "Apelido": "TÓPICOS ESPECIAIS EM SOCIOLOGIA DA INFÂNCIA",
+    "CargaHorariaTeorico": 34,
+    "CargaHorariaPratica": null,
+    "ListaPrequisitos": []
+  },
+  {
+    "Id": 45024,
+    "Codigo": "0709.001.270-4",
+    "Tipo": "OPT",
+    "Descricao": "TRABALHO E EDUCAÇÃO",
+    "Semestre": 99,
+    "Apelido": "TRABALHO E EDUCAÇÃO",
+    "CargaHorariaTeorico": 34,
+    "CargaHorariaPratica": null,
+    "ListaPrequisitos": []
+  }
+]

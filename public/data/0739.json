@@ -1,0 +1,2989 @@
+[
+  {
+    "Id": 51427,
+    "Codigo": "0709.002.226-4",
+    "Tipo": "OBR",
+    "Descricao": "CIÊNCIA POLÍTICA E TEORIA GERAL DO ESTADO",
+    "Semestre": 1,
+    "Apelido": "CIÊNCIA POLÍTICA E TEORIA GERAL DO ESTADO",
+    "CargaHorariaTeorico": 68,
+    "CargaHorariaPratica": null,
+    "ListaPrequisitos": []
+  },
+  {
+    "Id": 51436,
+    "Codigo": "0709.002.235-3",
+    "Tipo": "OBR",
+    "Descricao": "FILOSOFIA GERAL E JURÍDICA",
+    "Semestre": 1,
+    "Apelido": "FILOSOFIA GERAL E JURÍDICA",
+    "CargaHorariaTeorico": 68,
+    "CargaHorariaPratica": null,
+    "ListaPrequisitos": []
+  },
+  {
+    "Id": 51429,
+    "Codigo": "0709.002.228-2",
+    "Tipo": "OBR",
+    "Descricao": "HISTÓRIA DO DIREITO",
+    "Semestre": 1,
+    "Apelido": "HISTÓRIA DO DIREITO",
+    "CargaHorariaTeorico": 68,
+    "CargaHorariaPratica": null,
+    "ListaPrequisitos": []
+  },
+  {
+    "Id": 51445,
+    "Codigo": "0709.002.244-2",
+    "Tipo": "OBR",
+    "Descricao": "INTRODUÇÃO À METODOLOGIA DA PESQUISA",
+    "Semestre": 1,
+    "Apelido": "INTRODUÇÃO À METODOLOGIA DA PESQUISA",
+    "CargaHorariaTeorico": 34,
+    "CargaHorariaPratica": null,
+    "ListaPrequisitos": []
+  },
+  {
+    "Id": 47042,
+    "Codigo": "0709.001.491-4",
+    "Tipo": "OBR",
+    "Descricao": "LINGUAGEM JURÍDICA",
+    "Semestre": 1,
+    "Apelido": "LINGUAGEM JURÍDICA",
+    "CargaHorariaTeorico": 34,
+    "CargaHorariaPratica": null,
+    "ListaPrequisitos": []
+  },
+  {
+    "Id": 51426,
+    "Codigo": "0709.002.225-5",
+    "Tipo": "OBR",
+    "Descricao": "TEORIA DO DIREITO",
+    "Semestre": 1,
+    "Apelido": "TEORIA DO DIREITO",
+    "CargaHorariaTeorico": 68,
+    "CargaHorariaPratica": null,
+    "ListaPrequisitos": []
+  },
+  {
+    "Id": 51420,
+    "Codigo": "0709.002.219-3",
+    "Tipo": "OBR",
+    "Descricao": "ATIVIDADES INTEGRATIVAS DE EXTENSÃO I",
+    "Semestre": 2,
+    "Apelido": "ATIVIDADES INTEGRATIVAS DE EXTENSÃO I",
+    "CargaHorariaTeorico": 34,
+    "CargaHorariaPratica": null,
+    "ListaPrequisitos": []
+  },
+  {
+    "Id": 51428,
+    "Codigo": "0709.002.227-3",
+    "Tipo": "OBR",
+    "Descricao": "DIREITO CONSTITUCIONAL I",
+    "Semestre": 2,
+    "Apelido": "DIREITO CONSTITUCIONAL I",
+    "CargaHorariaTeorico": 68,
+    "CargaHorariaPratica": null,
+    "ListaPrequisitos": []
+  },
+  {
+    "Id": 51418,
+    "Codigo": "0709.002.217-5",
+    "Tipo": "OBR",
+    "Descricao": "DIREITO PENAL - PARTE GERAL I",
+    "Semestre": 2,
+    "Apelido": "DIREITO PENAL - PARTE GERAL I",
+    "CargaHorariaTeorico": 68,
+    "CargaHorariaPratica": null,
+    "ListaPrequisitos": []
+  },
+  {
+    "Id": 51452,
+    "Codigo": "0709.002.251-3",
+    "Tipo": "OBR",
+    "Descricao": "ECONOMIA POLÍTICA",
+    "Semestre": 2,
+    "Apelido": "ECONOMIA POLÍTICA",
+    "CargaHorariaTeorico": 34,
+    "CargaHorariaPratica": null,
+    "ListaPrequisitos": []
+  },
+  {
+    "Id": 51454,
+    "Codigo": "0709.002.253-1",
+    "Tipo": "OBR",
+    "Descricao": "PSICOLOGIA APLICADA AO DIREITO",
+    "Semestre": 2,
+    "Apelido": "PSICOLOGIA APLICADA AO DIREITO",
+    "CargaHorariaTeorico": 34,
+    "CargaHorariaPratica": null,
+    "ListaPrequisitos": []
+  },
+  {
+    "Id": 34491,
+    "Codigo": "0709.000.006-1",
+    "Tipo": "OBR",
+    "Descricao": "SOCIOLOGIA JURÍDICA",
+    "Semestre": 2,
+    "Apelido": "SOCIOLOGIA JURÍDICA",
+    "CargaHorariaTeorico": 68,
+    "CargaHorariaPratica": null,
+    "ListaPrequisitos": []
+  },
+  {
+    "Id": 47051,
+    "Codigo": "0709.001.500-9",
+    "Tipo": "OBR",
+    "Descricao": "TEORIA DO DIREITO PRIVADO I",
+    "Semestre": 2,
+    "Apelido": "TEORIA DO DIREITO PRIVADO I",
+    "CargaHorariaTeorico": 68,
+    "CargaHorariaPratica": null,
+    "ListaPrequisitos": []
+  },
+  {
+    "Id": 47036,
+    "Codigo": "0709.001.485-2",
+    "Tipo": "OBR",
+    "Descricao": "ANTROPOLOGIA JURÍDICA",
+    "Semestre": 3,
+    "Apelido": "ANTROPOLOGIA JURÍDICA",
+    "CargaHorariaTeorico": 68,
+    "CargaHorariaPratica": null,
+    "ListaPrequisitos": []
+  },
+  {
+    "Id": 51467,
+    "Codigo": "0709.002.266-7",
+    "Tipo": "OBR",
+    "Descricao": "ATIVIDADES INTEGRATIVAS DE EXTENSÃO II",
+    "Semestre": 3,
+    "Apelido": "ATIVIDADES INTEGRATIVAS DE EXTENSÃO II",
+    "CargaHorariaTeorico": 34,
+    "CargaHorariaPratica": null,
+    "ListaPrequisitos": []
+  },
+  {
+    "Id": 51424,
+    "Codigo": "0709.002.223-7",
+    "Tipo": "OBR",
+    "Descricao": "DIREITO CONSTITUCIONAL II - DIREITOS FUNDAMENTAIS, SOCIAIS E POLÍTICOS",
+    "Semestre": 3,
+    "Apelido": "DIREITO CONSTITUCIONAL II - DIREITOS FUNDAMENTAIS, SOCIAIS E POLÍTICOS",
+    "CargaHorariaTeorico": 68,
+    "CargaHorariaPratica": null,
+    "ListaPrequisitos": [
+      {
+        "Id": 51428,
+        "Codigo": "0709.002.227-3",
+        "Descricao": "DIREITO CONSTITUCIONAL I",
+        "Semestre": "0",
+        "Apelido": "DIREITO CONSTITUCIONAL I",
+        "CargaHorariaTeorico": 0,
+        "CargaHorariaPratica": 0,
+        "ListaPrequisitos": []
+      }
+    ]
+  },
+  {
+    "Id": 34545,
+    "Codigo": "0709.000.060-6",
+    "Tipo": "OBR",
+    "Descricao": "DIREITO INTERNACIONAL PÚBLICO",
+    "Semestre": 3,
+    "Apelido": "DIREITO INTERNACIONAL PÚBLICO",
+    "CargaHorariaTeorico": 68,
+    "CargaHorariaPratica": null,
+    "ListaPrequisitos": [
+      {
+        "Id": 51427,
+        "Codigo": "0709.002.226-4",
+        "Descricao": "CIÊNCIA POLÍTICA E TEORIA GERAL DO ESTADO",
+        "Semestre": "0",
+        "Apelido": "CIÊNCIA POLÍTICA E TEORIA GERAL DO ESTADO",
+        "CargaHorariaTeorico": 0,
+        "CargaHorariaPratica": 0,
+        "ListaPrequisitos": []
+      }
+    ]
+  },
+  {
+    "Id": 51466,
+    "Codigo": "0709.002.265-8",
+    "Tipo": "OBR",
+    "Descricao": "DIREITO PENAL - PARTE GERAL II",
+    "Semestre": 3,
+    "Apelido": "DIREITO PENAL - PARTE GERAL II",
+    "CargaHorariaTeorico": 68,
+    "CargaHorariaPratica": null,
+    "ListaPrequisitos": [
+      {
+        "Id": 51418,
+        "Codigo": "0709.002.217-5",
+        "Descricao": "DIREITO PENAL - PARTE GERAL I",
+        "Semestre": "0",
+        "Apelido": "DIREITO PENAL - PARTE GERAL I",
+        "CargaHorariaTeorico": 0,
+        "CargaHorariaPratica": 0,
+        "ListaPrequisitos": []
+      }
+    ]
+  },
+  {
+    "Id": 47075,
+    "Codigo": "0709.001.524-1",
+    "Tipo": "OBR",
+    "Descricao": "TEORIA DO DIREITO PRIVADO II",
+    "Semestre": 3,
+    "Apelido": "TEORIA DO DIREITO PRIVADO II",
+    "CargaHorariaTeorico": 68,
+    "CargaHorariaPratica": null,
+    "ListaPrequisitos": [
+      {
+        "Id": 47051,
+        "Codigo": "0709.001.500-9",
+        "Descricao": "TEORIA DO DIREITO PRIVADO I",
+        "Semestre": "0",
+        "Apelido": "TEORIA DO DIREITO PRIVADO I",
+        "CargaHorariaTeorico": 0,
+        "CargaHorariaPratica": 0,
+        "ListaPrequisitos": []
+      }
+    ]
+  },
+  {
+    "Id": 52155,
+    "Codigo": "0709.002.325-2",
+    "Tipo": "OBR",
+    "Descricao": "DIREITO CONSTITUCIONAL III - DO ESTADO",
+    "Semestre": 4,
+    "Apelido": "DIREITO CONSTITUCIONAL III - DO ESTADO",
+    "CargaHorariaTeorico": 68,
+    "CargaHorariaPratica": null,
+    "ListaPrequisitos": []
+  },
+  {
+    "Id": 51463,
+    "Codigo": "0709.002.262-0",
+    "Tipo": "OBR",
+    "Descricao": "DIREITO DAS OBRIGAÇÕES",
+    "Semestre": 4,
+    "Apelido": "DIREITO DAS OBRIGAÇÕES",
+    "CargaHorariaTeorico": 68,
+    "CargaHorariaPratica": null,
+    "ListaPrequisitos": [
+      {
+        "Id": 47075,
+        "Codigo": "0709.001.524-1",
+        "Descricao": "TEORIA DO DIREITO PRIVADO II",
+        "Semestre": "0",
+        "Apelido": "TEORIA DO DIREITO PRIVADO II",
+        "CargaHorariaTeorico": 0,
+        "CargaHorariaPratica": 0,
+        "ListaPrequisitos": []
+      }
+    ]
+  },
+  {
+    "Id": 51457,
+    "Codigo": "0709.002.256-9",
+    "Tipo": "OBR",
+    "Descricao": "DIREITO DO TRABALHO I",
+    "Semestre": 4,
+    "Apelido": "DIREITO DO TRABALHO I",
+    "CargaHorariaTeorico": 68,
+    "CargaHorariaPratica": null,
+    "ListaPrequisitos": []
+  },
+  {
+    "Id": 52157,
+    "Codigo": "0709.002.327-0",
+    "Tipo": "OBR",
+    "Descricao": "DIREITO PENAL - PARTE ESPECIAL I",
+    "Semestre": 4,
+    "Apelido": "DIREITO PENAL - PARTE ESPECIAL I",
+    "CargaHorariaTeorico": 68,
+    "CargaHorariaPratica": null,
+    "ListaPrequisitos": [
+      {
+        "Id": 51466,
+        "Codigo": "0709.002.265-8",
+        "Descricao": "DIREITO PENAL - PARTE GERAL II",
+        "Semestre": "0",
+        "Apelido": "DIREITO PENAL - PARTE GERAL II",
+        "CargaHorariaTeorico": 0,
+        "CargaHorariaPratica": 0,
+        "ListaPrequisitos": []
+      }
+    ]
+  },
+  {
+    "Id": 51450,
+    "Codigo": "0709.002.249-8",
+    "Tipo": "OBR",
+    "Descricao": "TUTELA DE CONHECIMENTO - TEORIA GERAL DO DIREITO PROCESSUAL CIVIL",
+    "Semestre": 4,
+    "Apelido": "TUTELA DE CONHECIMENTO - TEORIA GERAL DO DIREITO PROCESSUAL CIVIL",
+    "CargaHorariaTeorico": 68,
+    "CargaHorariaPratica": null,
+    "ListaPrequisitos": []
+  },
+  {
+    "Id": 51458,
+    "Codigo": "0709.002.257-8",
+    "Tipo": "OBR",
+    "Descricao": "DIREITO CONSTITUCIONAL IV - DOS PODERES",
+    "Semestre": 5,
+    "Apelido": "DIREITO CONSTITUCIONAL IV - DOS PODERES",
+    "CargaHorariaTeorico": 68,
+    "CargaHorariaPratica": null,
+    "ListaPrequisitos": [
+      {
+        "Id": 51428,
+        "Codigo": "0709.002.227-3",
+        "Descricao": "DIREITO CONSTITUCIONAL I",
+        "Semestre": "0",
+        "Apelido": "DIREITO CONSTITUCIONAL I",
+        "CargaHorariaTeorico": 0,
+        "CargaHorariaPratica": 0,
+        "ListaPrequisitos": []
+      }
+    ]
+  },
+  {
+    "Id": 51455,
+    "Codigo": "0709.002.254-0",
+    "Tipo": "OBR",
+    "Descricao": "DIREITO CONTRATUAL",
+    "Semestre": 5,
+    "Apelido": "DIREITO CONTRATUAL",
+    "CargaHorariaTeorico": 68,
+    "CargaHorariaPratica": null,
+    "ListaPrequisitos": [
+      {
+        "Id": 51463,
+        "Codigo": "0709.002.262-0",
+        "Descricao": "DIREITO DAS OBRIGAÇÕES",
+        "Semestre": "0",
+        "Apelido": "DIREITO DAS OBRIGAÇÕES",
+        "CargaHorariaTeorico": 0,
+        "CargaHorariaPratica": 0,
+        "ListaPrequisitos": []
+      }
+    ]
+  },
+  {
+    "Id": 51444,
+    "Codigo": "0709.002.243-3",
+    "Tipo": "OBR",
+    "Descricao": "DIREITO DO TRABALHO II",
+    "Semestre": 5,
+    "Apelido": "DIREITO DO TRABALHO II",
+    "CargaHorariaTeorico": 68,
+    "CargaHorariaPratica": null,
+    "ListaPrequisitos": [
+      {
+        "Id": 51457,
+        "Codigo": "0709.002.256-9",
+        "Descricao": "DIREITO DO TRABALHO I",
+        "Semestre": "0",
+        "Apelido": "DIREITO DO TRABALHO I",
+        "CargaHorariaTeorico": 0,
+        "CargaHorariaPratica": 0,
+        "ListaPrequisitos": []
+      }
+    ]
+  },
+  {
+    "Id": 47072,
+    "Codigo": "0709.001.521-4",
+    "Tipo": "OBR",
+    "Descricao": "DIREITO PENAL - PARTE ESPECIAL II",
+    "Semestre": 5,
+    "Apelido": "DIREITO PENAL - PARTE ESPECIAL II",
+    "CargaHorariaTeorico": 68,
+    "CargaHorariaPratica": null,
+    "ListaPrequisitos": [
+      {
+        "Id": 52157,
+        "Codigo": "0709.002.327-0",
+        "Descricao": "DIREITO PENAL - PARTE ESPECIAL I",
+        "Semestre": "0",
+        "Apelido": "DIREITO PENAL - PARTE ESPECIAL I",
+        "CargaHorariaTeorico": 0,
+        "CargaHorariaPratica": 0,
+        "ListaPrequisitos": []
+      }
+    ]
+  },
+  {
+    "Id": 51421,
+    "Codigo": "0709.002.220-0",
+    "Tipo": "OBR",
+    "Descricao": "TUTELA DE CONHECIMENTO",
+    "Semestre": 5,
+    "Apelido": "TUTELA DE CONHECIMENTO",
+    "CargaHorariaTeorico": 68,
+    "CargaHorariaPratica": null,
+    "ListaPrequisitos": [
+      {
+        "Id": 51450,
+        "Codigo": "0709.002.249-8",
+        "Descricao": "TUTELA DE CONHECIMENTO - TEORIA GERAL DO DIREITO PROCESSUAL CIVIL",
+        "Semestre": "0",
+        "Apelido": "TUTELA DE CONHECIMENTO - TEORIA GERAL DO DIREITO PROCESSUAL CIVIL",
+        "CargaHorariaTeorico": 0,
+        "CargaHorariaPratica": 0,
+        "ListaPrequisitos": []
+      }
+    ]
+  },
+  {
+    "Id": 51433,
+    "Codigo": "0709.002.232-6",
+    "Tipo": "OBR",
+    "Descricao": "DIREITO PROCESSUAL DO TRABALHO",
+    "Semestre": 6,
+    "Apelido": "DIREITO PROCESSUAL DO TRABALHO",
+    "CargaHorariaTeorico": 68,
+    "CargaHorariaPratica": null,
+    "ListaPrequisitos": [
+      {
+        "Id": 51450,
+        "Codigo": "0709.002.249-8",
+        "Descricao": "TUTELA DE CONHECIMENTO - TEORIA GERAL DO DIREITO PROCESSUAL CIVIL",
+        "Semestre": "0",
+        "Apelido": "TUTELA DE CONHECIMENTO - TEORIA GERAL DO DIREITO PROCESSUAL CIVIL",
+        "CargaHorariaTeorico": 0,
+        "CargaHorariaPratica": 0,
+        "ListaPrequisitos": []
+      }
+    ]
+  },
+  {
+    "Id": 51437,
+    "Codigo": "0709.002.236-2",
+    "Tipo": "OBR",
+    "Descricao": "DIREITO PROCESSUAL PENAL I",
+    "Semestre": 6,
+    "Apelido": "DIREITO PROCESSUAL PENAL I",
+    "CargaHorariaTeorico": 68,
+    "CargaHorariaPratica": null,
+    "ListaPrequisitos": [
+      {
+        "Id": 51450,
+        "Codigo": "0709.002.249-8",
+        "Descricao": "TUTELA DE CONHECIMENTO - TEORIA GERAL DO DIREITO PROCESSUAL CIVIL",
+        "Semestre": "0",
+        "Apelido": "TUTELA DE CONHECIMENTO - TEORIA GERAL DO DIREITO PROCESSUAL CIVIL",
+        "CargaHorariaTeorico": 0,
+        "CargaHorariaPratica": 0,
+        "ListaPrequisitos": []
+      }
+    ]
+  },
+  {
+    "Id": 52156,
+    "Codigo": "0709.002.326-1",
+    "Tipo": "OBR",
+    "Descricao": "DIREITOS HUMANOS",
+    "Semestre": 6,
+    "Apelido": "DIREITOS HUMANOS",
+    "CargaHorariaTeorico": 68,
+    "CargaHorariaPratica": null,
+    "ListaPrequisitos": [
+      {
+        "Id": 34545,
+        "Codigo": "0709.000.060-6",
+        "Descricao": "DIREITO INTERNACIONAL PÚBLICO",
+        "Semestre": "0",
+        "Apelido": "DIREITO INTERNACIONAL PÚBLICO",
+        "CargaHorariaTeorico": 0,
+        "CargaHorariaPratica": 0,
+        "ListaPrequisitos": []
+      }
+    ]
+  },
+  {
+    "Id": 46996,
+    "Codigo": "0709.001.445-0",
+    "Tipo": "OBR",
+    "Descricao": "RESPONSABILIDADE CIVIL",
+    "Semestre": 6,
+    "Apelido": "RESPONSABILIDADE CIVIL",
+    "CargaHorariaTeorico": 68,
+    "CargaHorariaPratica": null,
+    "ListaPrequisitos": [
+      {
+        "Id": 51463,
+        "Codigo": "0709.002.262-0",
+        "Descricao": "DIREITO DAS OBRIGAÇÕES",
+        "Semestre": "0",
+        "Apelido": "DIREITO DAS OBRIGAÇÕES",
+        "CargaHorariaTeorico": 0,
+        "CargaHorariaPratica": 0,
+        "ListaPrequisitos": []
+      }
+    ]
+  },
+  {
+    "Id": 51422,
+    "Codigo": "0709.002.221-9",
+    "Tipo": "OBR",
+    "Descricao": "TUTELA RECURSAL",
+    "Semestre": 6,
+    "Apelido": "TUTELA RECURSAL",
+    "CargaHorariaTeorico": 68,
+    "CargaHorariaPratica": null,
+    "ListaPrequisitos": [
+      {
+        "Id": 51421,
+        "Codigo": "0709.002.220-0",
+        "Descricao": "TUTELA DE CONHECIMENTO",
+        "Semestre": "0",
+        "Apelido": "TUTELA DE CONHECIMENTO",
+        "CargaHorariaTeorico": 0,
+        "CargaHorariaPratica": 0,
+        "ListaPrequisitos": []
+      }
+    ]
+  },
+  {
+    "Id": 51464,
+    "Codigo": "0709.002.263-0",
+    "Tipo": "OBR",
+    "Descricao": "DIREITO DAS COISAS",
+    "Semestre": 7,
+    "Apelido": "DIREITO DAS COISAS",
+    "CargaHorariaTeorico": 68,
+    "CargaHorariaPratica": null,
+    "ListaPrequisitos": [
+      {
+        "Id": 47075,
+        "Codigo": "0709.001.524-1",
+        "Descricao": "TEORIA DO DIREITO PRIVADO II",
+        "Semestre": "0",
+        "Apelido": "TEORIA DO DIREITO PRIVADO II",
+        "CargaHorariaTeorico": 0,
+        "CargaHorariaPratica": 0,
+        "ListaPrequisitos": []
+      }
+    ]
+  },
+  {
+    "Id": 46993,
+    "Codigo": "0709.001.442-2",
+    "Tipo": "OBR",
+    "Descricao": "DIREITO EMPRESARIAL I",
+    "Semestre": 7,
+    "Apelido": "DIREITO EMPRESARIAL I",
+    "CargaHorariaTeorico": 34,
+    "CargaHorariaPratica": null,
+    "ListaPrequisitos": [
+      {
+        "Id": 47051,
+        "Codigo": "0709.001.500-9",
+        "Descricao": "TEORIA DO DIREITO PRIVADO I",
+        "Semestre": "0",
+        "Apelido": "TEORIA DO DIREITO PRIVADO I",
+        "CargaHorariaTeorico": 0,
+        "CargaHorariaPratica": 0,
+        "ListaPrequisitos": []
+      }
+    ]
+  },
+  {
+    "Id": 51417,
+    "Codigo": "0709.002.216-6",
+    "Tipo": "OBR",
+    "Descricao": "DIREITO PROCESSUAL CONSTITUCIONAL",
+    "Semestre": 7,
+    "Apelido": "DIREITO PROCESSUAL CONSTITUCIONAL",
+    "CargaHorariaTeorico": 34,
+    "CargaHorariaPratica": null,
+    "ListaPrequisitos": [
+      {
+        "Id": 51458,
+        "Codigo": "0709.002.257-8",
+        "Descricao": "DIREITO CONSTITUCIONAL IV - DOS PODERES",
+        "Semestre": "0",
+        "Apelido": "DIREITO CONSTITUCIONAL IV - DOS PODERES",
+        "CargaHorariaTeorico": 0,
+        "CargaHorariaPratica": 0,
+        "ListaPrequisitos": []
+      }
+    ]
+  },
+  {
+    "Id": 51423,
+    "Codigo": "0709.002.222-8",
+    "Tipo": "OBR",
+    "Descricao": "DIREITO PROCESSUAL PENAL II",
+    "Semestre": 7,
+    "Apelido": "DIREITO PROCESSUAL PENAL II",
+    "CargaHorariaTeorico": 68,
+    "CargaHorariaPratica": null,
+    "ListaPrequisitos": [
+      {
+        "Id": 51437,
+        "Codigo": "0709.002.236-2",
+        "Descricao": "DIREITO PROCESSUAL PENAL I",
+        "Semestre": "0",
+        "Apelido": "DIREITO PROCESSUAL PENAL I",
+        "CargaHorariaTeorico": 0,
+        "CargaHorariaPratica": 0,
+        "ListaPrequisitos": []
+      }
+    ]
+  },
+  {
+    "Id": 52150,
+    "Codigo": "0709.002.320-7",
+    "Tipo": "OBR",
+    "Descricao": "ESTÁGIO OBRIGATÓRIO - PRÁTICA REAL I",
+    "Semestre": 7,
+    "Apelido": "ESTÁGIO OBRIGATÓRIO - PRÁTICA REAL I",
+    "CargaHorariaTeorico": 34,
+    "CargaHorariaPratica": null,
+    "ListaPrequisitos": [
+      {
+        "Id": 51421,
+        "Codigo": "0709.002.220-0",
+        "Descricao": "TUTELA DE CONHECIMENTO",
+        "Semestre": "0",
+        "Apelido": "TUTELA DE CONHECIMENTO",
+        "CargaHorariaTeorico": 0,
+        "CargaHorariaPratica": 0,
+        "ListaPrequisitos": []
+      }
+    ]
+  },
+  {
+    "Id": 46990,
+    "Codigo": "0709.001.439-8",
+    "Tipo": "OBR",
+    "Descricao": "ESTÁGIO OBRIGATÓRIO - PRÁTICA SIMULADA I",
+    "Semestre": 7,
+    "Apelido": "ESTÁGIO OBRIGATÓRIO - PRÁTICA SIMULADA I",
+    "CargaHorariaTeorico": 34,
+    "CargaHorariaPratica": null,
+    "ListaPrequisitos": [
+      {
+        "Id": 51421,
+        "Codigo": "0709.002.220-0",
+        "Descricao": "TUTELA DE CONHECIMENTO",
+        "Semestre": "0",
+        "Apelido": "TUTELA DE CONHECIMENTO",
+        "CargaHorariaTeorico": 0,
+        "CargaHorariaPratica": 0,
+        "ListaPrequisitos": []
+      }
+    ]
+  },
+  {
+    "Id": 47078,
+    "Codigo": "0709.001.527-9",
+    "Tipo": "OBR",
+    "Descricao": "FORMAS CONSENSUAIS DE SOLUÇÃO DE CONFLITOS",
+    "Semestre": 7,
+    "Apelido": "FORMAS CONSENSUAIS DE SOLUÇÃO DE CONFLITOS",
+    "CargaHorariaTeorico": 34,
+    "CargaHorariaPratica": null,
+    "ListaPrequisitos": []
+  },
+  {
+    "Id": 51443,
+    "Codigo": "0709.002.242-4",
+    "Tipo": "OBR",
+    "Descricao": "TUTELA EXECUTIVA",
+    "Semestre": 7,
+    "Apelido": "TUTELA EXECUTIVA",
+    "CargaHorariaTeorico": 68,
+    "CargaHorariaPratica": null,
+    "ListaPrequisitos": [
+      {
+        "Id": 51421,
+        "Codigo": "0709.002.220-0",
+        "Descricao": "TUTELA DE CONHECIMENTO",
+        "Semestre": "0",
+        "Apelido": "TUTELA DE CONHECIMENTO",
+        "CargaHorariaTeorico": 0,
+        "CargaHorariaPratica": 0,
+        "ListaPrequisitos": []
+      }
+    ]
+  },
+  {
+    "Id": 51438,
+    "Codigo": "0709.002.237-1",
+    "Tipo": "OBR",
+    "Descricao": "DIREITO ADMINISTRATIVO I",
+    "Semestre": 8,
+    "Apelido": "DIREITO ADMINISTRATIVO I",
+    "CargaHorariaTeorico": 68,
+    "CargaHorariaPratica": null,
+    "ListaPrequisitos": [
+      {
+        "Id": 52155,
+        "Codigo": "0709.002.325-2",
+        "Descricao": "DIREITO CONSTITUCIONAL III - DO ESTADO",
+        "Semestre": "0",
+        "Apelido": "DIREITO CONSTITUCIONAL III - DO ESTADO",
+        "CargaHorariaTeorico": 0,
+        "CargaHorariaPratica": 0,
+        "ListaPrequisitos": []
+      }
+    ]
+  },
+  {
+    "Id": 51461,
+    "Codigo": "0709.002.260-2",
+    "Tipo": "OBR",
+    "Descricao": "DIREITO DE FAMÍLIA",
+    "Semestre": 8,
+    "Apelido": "DIREITO DE FAMÍLIA",
+    "CargaHorariaTeorico": 68,
+    "CargaHorariaPratica": null,
+    "ListaPrequisitos": [
+      {
+        "Id": 47075,
+        "Codigo": "0709.001.524-1",
+        "Descricao": "TEORIA DO DIREITO PRIVADO II",
+        "Semestre": "0",
+        "Apelido": "TEORIA DO DIREITO PRIVADO II",
+        "CargaHorariaTeorico": 0,
+        "CargaHorariaPratica": 0,
+        "ListaPrequisitos": []
+      }
+    ]
+  },
+  {
+    "Id": 34540,
+    "Codigo": "0709.000.055-0",
+    "Tipo": "OBR",
+    "Descricao": "DIREITO EMPRESARIAL II",
+    "Semestre": 8,
+    "Apelido": "DIREITO EMPRESARIAL II",
+    "CargaHorariaTeorico": 68,
+    "CargaHorariaPratica": null,
+    "ListaPrequisitos": [
+      {
+        "Id": 46993,
+        "Codigo": "0709.001.442-2",
+        "Descricao": "DIREITO EMPRESARIAL I",
+        "Semestre": "0",
+        "Apelido": "DIREITO EMPRESARIAL I",
+        "CargaHorariaTeorico": 0,
+        "CargaHorariaPratica": 0,
+        "ListaPrequisitos": []
+      }
+    ]
+  },
+  {
+    "Id": 51419,
+    "Codigo": "0709.002.218-4",
+    "Tipo": "OBR",
+    "Descricao": "DIREITO PROCESSUAL PENAL III",
+    "Semestre": 8,
+    "Apelido": "DIREITO PROCESSUAL PENAL III",
+    "CargaHorariaTeorico": 34,
+    "CargaHorariaPratica": null,
+    "ListaPrequisitos": [
+      {
+        "Id": 51423,
+        "Codigo": "0709.002.222-8",
+        "Descricao": "DIREITO PROCESSUAL PENAL II",
+        "Semestre": "0",
+        "Apelido": "DIREITO PROCESSUAL PENAL II",
+        "CargaHorariaTeorico": 0,
+        "CargaHorariaPratica": 0,
+        "ListaPrequisitos": []
+      }
+    ]
+  },
+  {
+    "Id": 52149,
+    "Codigo": "0709.002.319-0",
+    "Tipo": "OBR",
+    "Descricao": "ESTÁGIO OBRIGATÓRIO - PRÁTICA REAL II",
+    "Semestre": 8,
+    "Apelido": "ESTÁGIO OBRIGATÓRIO - PRÁTICA REAL II",
+    "CargaHorariaTeorico": 34,
+    "CargaHorariaPratica": null,
+    "ListaPrequisitos": [
+      {
+        "Id": 51421,
+        "Codigo": "0709.002.220-0",
+        "Descricao": "TUTELA DE CONHECIMENTO",
+        "Semestre": "0",
+        "Apelido": "TUTELA DE CONHECIMENTO",
+        "CargaHorariaTeorico": 0,
+        "CargaHorariaPratica": 0,
+        "ListaPrequisitos": []
+      }
+    ]
+  },
+  {
+    "Id": 52148,
+    "Codigo": "0709.002.318-1",
+    "Tipo": "OBR",
+    "Descricao": "ESTÁGIO OBRIGATÓRIO - PRÁTICA SIMULADA II",
+    "Semestre": 8,
+    "Apelido": "ESTÁGIO OBRIGATÓRIO - PRÁTICA SIMULADA II",
+    "CargaHorariaTeorico": 34,
+    "CargaHorariaPratica": null,
+    "ListaPrequisitos": [
+      {
+        "Id": 51444,
+        "Codigo": "0709.002.243-3",
+        "Descricao": "DIREITO DO TRABALHO II",
+        "Semestre": "0",
+        "Apelido": "DIREITO DO TRABALHO II",
+        "CargaHorariaTeorico": 0,
+        "CargaHorariaPratica": 0,
+        "ListaPrequisitos": []
+      }
+    ]
+  },
+  {
+    "Id": 51449,
+    "Codigo": "0709.002.248-9",
+    "Tipo": "OBR",
+    "Descricao": "TUTELA DE CONHECIMENTO - TUTELAS PROVISÓRIAS E PROCEDIMENTOS ESPECIAIS",
+    "Semestre": 8,
+    "Apelido": "TUTELA DE CONHECIMENTO - TUTELAS PROVISÓRIAS E PROCEDIMENTOS ESPECIAIS",
+    "CargaHorariaTeorico": 68,
+    "CargaHorariaPratica": null,
+    "ListaPrequisitos": [
+      {
+        "Id": 51421,
+        "Codigo": "0709.002.220-0",
+        "Descricao": "TUTELA DE CONHECIMENTO",
+        "Semestre": "0",
+        "Apelido": "TUTELA DE CONHECIMENTO",
+        "CargaHorariaTeorico": 0,
+        "CargaHorariaPratica": 0,
+        "ListaPrequisitos": []
+      }
+    ]
+  },
+  {
+    "Id": 51442,
+    "Codigo": "0709.002.241-5",
+    "Tipo": "OBR",
+    "Descricao": "ATIVIDADES INTEGRATIVAS DE EXTENSÃO III",
+    "Semestre": 9,
+    "Apelido": "ATIVIDADES INTEGRATIVAS DE EXTENSÃO III",
+    "CargaHorariaTeorico": 34,
+    "CargaHorariaPratica": null,
+    "ListaPrequisitos": []
+  },
+  {
+    "Id": 51440,
+    "Codigo": "0709.002.239-0",
+    "Tipo": "OBR",
+    "Descricao": "DIREITO ADMINISTRATIVO II",
+    "Semestre": 9,
+    "Apelido": "DIREITO ADMINISTRATIVO II",
+    "CargaHorariaTeorico": 68,
+    "CargaHorariaPratica": null,
+    "ListaPrequisitos": [
+      {
+        "Id": 51438,
+        "Codigo": "0709.002.237-1",
+        "Descricao": "DIREITO ADMINISTRATIVO I",
+        "Semestre": "0",
+        "Apelido": "DIREITO ADMINISTRATIVO I",
+        "CargaHorariaTeorico": 0,
+        "CargaHorariaPratica": 0,
+        "ListaPrequisitos": []
+      }
+    ]
+  },
+  {
+    "Id": 51462,
+    "Codigo": "0709.002.261-1",
+    "Tipo": "OBR",
+    "Descricao": "DIREITO DIGITAL E TECNOLÓGICO",
+    "Semestre": 9,
+    "Apelido": "DIREITO DIGITAL E TECNOLÓGICO",
+    "CargaHorariaTeorico": 34,
+    "CargaHorariaPratica": null,
+    "ListaPrequisitos": [
+      {
+        "Id": 47075,
+        "Codigo": "0709.001.524-1",
+        "Descricao": "TEORIA DO DIREITO PRIVADO II",
+        "Semestre": "0",
+        "Apelido": "TEORIA DO DIREITO PRIVADO II",
+        "CargaHorariaTeorico": 0,
+        "CargaHorariaPratica": 0,
+        "ListaPrequisitos": []
+      }
+    ]
+  },
+  {
+    "Id": 51425,
+    "Codigo": "0709.002.224-6",
+    "Tipo": "OBR",
+    "Descricao": "DIREITO DO CONSUMIDOR",
+    "Semestre": 9,
+    "Apelido": "DIREITO DO CONSUMIDOR",
+    "CargaHorariaTeorico": 34,
+    "CargaHorariaPratica": null,
+    "ListaPrequisitos": [
+      {
+        "Id": 51463,
+        "Codigo": "0709.002.262-0",
+        "Descricao": "DIREITO DAS OBRIGAÇÕES",
+        "Semestre": "0",
+        "Apelido": "DIREITO DAS OBRIGAÇÕES",
+        "CargaHorariaTeorico": 0,
+        "CargaHorariaPratica": 0,
+        "ListaPrequisitos": []
+      }
+    ]
+  },
+  {
+    "Id": 34544,
+    "Codigo": "0709.000.059-2",
+    "Tipo": "OBR",
+    "Descricao": "DIREITO EMPRESARIAL III",
+    "Semestre": 9,
+    "Apelido": "DIREITO EMPRESARIAL III",
+    "CargaHorariaTeorico": 68,
+    "CargaHorariaPratica": null,
+    "ListaPrequisitos": [
+      {
+        "Id": 46993,
+        "Codigo": "0709.001.442-2",
+        "Descricao": "DIREITO EMPRESARIAL I",
+        "Semestre": "0",
+        "Apelido": "DIREITO EMPRESARIAL I",
+        "CargaHorariaTeorico": 0,
+        "CargaHorariaPratica": 0,
+        "ListaPrequisitos": []
+      }
+    ]
+  },
+  {
+    "Id": 34548,
+    "Codigo": "0709.000.063-0",
+    "Tipo": "OBR",
+    "Descricao": "DIREITO INTERNACIONAL PRIVADO",
+    "Semestre": 9,
+    "Apelido": "DIREITO INTERNACIONAL PRIVADO",
+    "CargaHorariaTeorico": 68,
+    "CargaHorariaPratica": null,
+    "ListaPrequisitos": [
+      {
+        "Id": 34545,
+        "Codigo": "0709.000.060-6",
+        "Descricao": "DIREITO INTERNACIONAL PÚBLICO",
+        "Semestre": "0",
+        "Apelido": "DIREITO INTERNACIONAL PÚBLICO",
+        "CargaHorariaTeorico": 0,
+        "CargaHorariaPratica": 0,
+        "ListaPrequisitos": []
+      }
+    ]
+  },
+  {
+    "Id": 51416,
+    "Codigo": "0709.002.215-7",
+    "Tipo": "OBR",
+    "Descricao": "DIREITO TRIBUTÁRIO I",
+    "Semestre": 9,
+    "Apelido": "DIREITO TRIBUTÁRIO I",
+    "CargaHorariaTeorico": 68,
+    "CargaHorariaPratica": null,
+    "ListaPrequisitos": [
+      {
+        "Id": 51438,
+        "Codigo": "0709.002.237-1",
+        "Descricao": "DIREITO ADMINISTRATIVO I",
+        "Semestre": "0",
+        "Apelido": "DIREITO ADMINISTRATIVO I",
+        "CargaHorariaTeorico": 0,
+        "CargaHorariaPratica": 0,
+        "ListaPrequisitos": []
+      }
+    ]
+  },
+  {
+    "Id": 52151,
+    "Codigo": "0709.002.321-6",
+    "Tipo": "OBR",
+    "Descricao": "ESTÁGIO OBRIGATÓRIO - PRÁTICA REAL III",
+    "Semestre": 9,
+    "Apelido": "ESTÁGIO OBRIGATÓRIO - PRÁTICA REAL III",
+    "CargaHorariaTeorico": 34,
+    "CargaHorariaPratica": null,
+    "ListaPrequisitos": [
+      {
+        "Id": 52150,
+        "Codigo": "0709.002.320-7",
+        "Descricao": "ESTÁGIO OBRIGATÓRIO - PRÁTICA REAL I",
+        "Semestre": "0",
+        "Apelido": "ESTÁGIO OBRIGATÓRIO - PRÁTICA REAL I",
+        "CargaHorariaTeorico": 0,
+        "CargaHorariaPratica": 0,
+        "ListaPrequisitos": []
+      }
+    ]
+  },
+  {
+    "Id": 52147,
+    "Codigo": "0709.002.317-2",
+    "Tipo": "OBR",
+    "Descricao": "ATIVIDADES INTEGRATIVA DE EXTENSÃO IV",
+    "Semestre": 10,
+    "Apelido": "ATIVIDADES INTEGRATIVA DE EXTENSÃO IV",
+    "CargaHorariaTeorico": 34,
+    "CargaHorariaPratica": null,
+    "ListaPrequisitos": []
+  },
+  {
+    "Id": 51439,
+    "Codigo": "0709.002.238-0",
+    "Tipo": "OBR",
+    "Descricao": "DIREITO AMBIENTAL",
+    "Semestre": 10,
+    "Apelido": "DIREITO AMBIENTAL",
+    "CargaHorariaTeorico": 68,
+    "CargaHorariaPratica": null,
+    "ListaPrequisitos": [
+      {
+        "Id": 51438,
+        "Codigo": "0709.002.237-1",
+        "Descricao": "DIREITO ADMINISTRATIVO I",
+        "Semestre": "0",
+        "Apelido": "DIREITO ADMINISTRATIVO I",
+        "CargaHorariaTeorico": 0,
+        "CargaHorariaPratica": 0,
+        "ListaPrequisitos": []
+      }
+    ]
+  },
+  {
+    "Id": 51459,
+    "Codigo": "0709.002.258-7",
+    "Tipo": "OBR",
+    "Descricao": "DIREITO DAS SUCESSÕES",
+    "Semestre": 10,
+    "Apelido": "DIREITO DAS SUCESSÕES",
+    "CargaHorariaTeorico": 68,
+    "CargaHorariaPratica": null,
+    "ListaPrequisitos": [
+      {
+        "Id": 51461,
+        "Codigo": "0709.002.260-2",
+        "Descricao": "DIREITO DE FAMÍLIA",
+        "Semestre": "0",
+        "Apelido": "DIREITO DE FAMÍLIA",
+        "CargaHorariaTeorico": 0,
+        "CargaHorariaPratica": 0,
+        "ListaPrequisitos": []
+      }
+    ]
+  },
+  {
+    "Id": 51451,
+    "Codigo": "0709.002.250-4",
+    "Tipo": "OBR",
+    "Descricao": "DIREITO FINANCEIRO",
+    "Semestre": 10,
+    "Apelido": "DIREITO FINANCEIRO",
+    "CargaHorariaTeorico": 34,
+    "CargaHorariaPratica": null,
+    "ListaPrequisitos": [
+      {
+        "Id": 51452,
+        "Codigo": "0709.002.251-3",
+        "Descricao": "ECONOMIA POLÍTICA",
+        "Semestre": "0",
+        "Apelido": "ECONOMIA POLÍTICA",
+        "CargaHorariaTeorico": 0,
+        "CargaHorariaPratica": 0,
+        "ListaPrequisitos": []
+      }
+    ]
+  },
+  {
+    "Id": 51446,
+    "Codigo": "0709.002.245-1",
+    "Tipo": "OBR",
+    "Descricao": "DIREITO PREVIDENCIÁRIO E SEGURIDADE SOCIAL",
+    "Semestre": 10,
+    "Apelido": "DIREITO PREVIDENCIÁRIO E SEGURIDADE SOCIAL",
+    "CargaHorariaTeorico": 68,
+    "CargaHorariaPratica": null,
+    "ListaPrequisitos": [
+      {
+        "Id": 51452,
+        "Codigo": "0709.002.251-3",
+        "Descricao": "ECONOMIA POLÍTICA",
+        "Semestre": "0",
+        "Apelido": "ECONOMIA POLÍTICA",
+        "CargaHorariaTeorico": 0,
+        "CargaHorariaPratica": 0,
+        "ListaPrequisitos": []
+      },
+      {
+        "Id": 51458,
+        "Codigo": "0709.002.257-8",
+        "Descricao": "DIREITO CONSTITUCIONAL IV - DOS PODERES",
+        "Semestre": "0",
+        "Apelido": "DIREITO CONSTITUCIONAL IV - DOS PODERES",
+        "CargaHorariaTeorico": 0,
+        "CargaHorariaPratica": 0,
+        "ListaPrequisitos": []
+      }
+    ]
+  },
+  {
+    "Id": 51453,
+    "Codigo": "0709.002.252-2",
+    "Tipo": "OBR",
+    "Descricao": "DIREITO TRIBUTÁRIO II",
+    "Semestre": 10,
+    "Apelido": "DIREITO TRIBUTÁRIO II",
+    "CargaHorariaTeorico": 68,
+    "CargaHorariaPratica": null,
+    "ListaPrequisitos": [
+      {
+        "Id": 51416,
+        "Codigo": "0709.002.215-7",
+        "Descricao": "DIREITO TRIBUTÁRIO I",
+        "Semestre": "0",
+        "Apelido": "DIREITO TRIBUTÁRIO I",
+        "CargaHorariaTeorico": 0,
+        "CargaHorariaPratica": 0,
+        "ListaPrequisitos": []
+      }
+    ]
+  },
+  {
+    "Id": 52152,
+    "Codigo": "0709.002.322-5",
+    "Tipo": "OBR",
+    "Descricao": "ESTÁGIO OBRIGATÓRIO - PRÁTICA REAL IV",
+    "Semestre": 10,
+    "Apelido": "ESTÁGIO OBRIGATÓRIO - PRÁTICA REAL IV",
+    "CargaHorariaTeorico": 34,
+    "CargaHorariaPratica": null,
+    "ListaPrequisitos": [
+      {
+        "Id": 52149,
+        "Codigo": "0709.002.319-0",
+        "Descricao": "ESTÁGIO OBRIGATÓRIO - PRÁTICA REAL II",
+        "Semestre": "0",
+        "Apelido": "ESTÁGIO OBRIGATÓRIO - PRÁTICA REAL II",
+        "CargaHorariaTeorico": 0,
+        "CargaHorariaPratica": 0,
+        "ListaPrequisitos": []
+      }
+    ]
+  },
+  {
+    "Id": 51441,
+    "Codigo": "0709.002.240-6",
+    "Tipo": "OBR",
+    "Descricao": "ÉTICA PROFISSIONAL",
+    "Semestre": 10,
+    "Apelido": "ÉTICA PROFISSIONAL",
+    "CargaHorariaTeorico": 34,
+    "CargaHorariaPratica": null,
+    "ListaPrequisitos": []
+  },
+  {
+    "Id": 47003,
+    "Codigo": "0709.001.452-0",
+    "Tipo": "OPT",
+    "Descricao": "ACESSO À JUSTIÇA",
+    "Semestre": 99,
+    "Apelido": "ACESSO À JUSTIÇA",
+    "CargaHorariaTeorico": 34,
+    "CargaHorariaPratica": null,
+    "ListaPrequisitos": []
+  },
+  {
+    "Id": 47000,
+    "Codigo": "0709.001.449-6",
+    "Tipo": "OPT",
+    "Descricao": "ADMINISTRAÇÃO APLICADA AO DIREITO",
+    "Semestre": 99,
+    "Apelido": "ADMINISTRAÇÃO APLICADA AO DIREITO",
+    "CargaHorariaTeorico": 34,
+    "CargaHorariaPratica": null,
+    "ListaPrequisitos": []
+  },
+  {
+    "Id": 51435,
+    "Codigo": "0709.002.234-4",
+    "Tipo": "OPT",
+    "Descricao": "ANÁLISE DE CENÁRIOS ECONÔMICOS E EDUCAÇÃO FINANCEIRA",
+    "Semestre": 99,
+    "Apelido": "ANÁLISE DE CENÁRIOS ECONÔMICOS E EDUCAÇÃO FINANCEIRA",
+    "CargaHorariaTeorico": 34,
+    "CargaHorariaPratica": null,
+    "ListaPrequisitos": [
+      {
+        "Id": 51452,
+        "Codigo": "0709.002.251-3",
+        "Descricao": "ECONOMIA POLÍTICA",
+        "Semestre": "0",
+        "Apelido": "ECONOMIA POLÍTICA",
+        "CargaHorariaTeorico": 0,
+        "CargaHorariaPratica": 0,
+        "ListaPrequisitos": []
+      }
+    ]
+  },
+  {
+    "Id": 47065,
+    "Codigo": "0709.001.514-3",
+    "Tipo": "OPT",
+    "Descricao": "ANÁLISE ECONÔMICA DO DIREITO",
+    "Semestre": 99,
+    "Apelido": "ANÁLISE ECONÔMICA DO DIREITO",
+    "CargaHorariaTeorico": 34,
+    "CargaHorariaPratica": null,
+    "ListaPrequisitos": [
+      {
+        "Id": 51452,
+        "Codigo": "0709.002.251-3",
+        "Descricao": "ECONOMIA POLÍTICA",
+        "Semestre": "0",
+        "Apelido": "ECONOMIA POLÍTICA",
+        "CargaHorariaTeorico": 0,
+        "CargaHorariaPratica": 0,
+        "ListaPrequisitos": []
+      }
+    ]
+  },
+  {
+    "Id": 47004,
+    "Codigo": "0709.001.453-0",
+    "Tipo": "OPT",
+    "Descricao": "ARBITRAGEM",
+    "Semestre": 99,
+    "Apelido": "ARBITRAGEM",
+    "CargaHorariaTeorico": 34,
+    "CargaHorariaPratica": null,
+    "ListaPrequisitos": []
+  },
+  {
+    "Id": 34553,
+    "Codigo": "0709.000.068-1",
+    "Tipo": "OPT",
+    "Descricao": "BIODIREITO E BIOÉTICA",
+    "Semestre": 99,
+    "Apelido": "BIODIREITO E BIOÉTICA",
+    "CargaHorariaTeorico": 34,
+    "CargaHorariaPratica": null,
+    "ListaPrequisitos": [
+      {
+        "Id": 51436,
+        "Codigo": "0709.002.235-3",
+        "Descricao": "FILOSOFIA GERAL E JURÍDICA",
+        "Semestre": "0",
+        "Apelido": "FILOSOFIA GERAL E JURÍDICA",
+        "CargaHorariaTeorico": 0,
+        "CargaHorariaPratica": 0,
+        "ListaPrequisitos": []
+      }
+    ]
+  },
+  {
+    "Id": 47082,
+    "Codigo": "0709.001.531-2",
+    "Tipo": "OPT",
+    "Descricao": "CONFLITOS SOCIOAMBIENTAIS",
+    "Semestre": 99,
+    "Apelido": "CONFLITOS SOCIOAMBIENTAIS",
+    "CargaHorariaTeorico": 68,
+    "CargaHorariaPratica": null,
+    "ListaPrequisitos": []
+  },
+  {
+    "Id": 47079,
+    "Codigo": "0709.001.528-8",
+    "Tipo": "OPT",
+    "Descricao": "CONTROLE JUDICIAL DA ADMINISTRAÇÃO PÚBLICA",
+    "Semestre": 99,
+    "Apelido": "CONTROLE JUDICIAL DA ADMINISTRAÇÃO PÚBLICA",
+    "CargaHorariaTeorico": 68,
+    "CargaHorariaPratica": null,
+    "ListaPrequisitos": [
+      {
+        "Id": 51417,
+        "Codigo": "0709.002.216-6",
+        "Descricao": "DIREITO PROCESSUAL CONSTITUCIONAL",
+        "Semestre": "0",
+        "Apelido": "DIREITO PROCESSUAL CONSTITUCIONAL",
+        "CargaHorariaTeorico": 0,
+        "CargaHorariaPratica": 0,
+        "ListaPrequisitos": []
+      },
+      {
+        "Id": 51440,
+        "Codigo": "0709.002.239-0",
+        "Descricao": "DIREITO ADMINISTRATIVO II",
+        "Semestre": "0",
+        "Apelido": "DIREITO ADMINISTRATIVO II",
+        "CargaHorariaTeorico": 0,
+        "CargaHorariaPratica": 0,
+        "ListaPrequisitos": []
+      }
+    ]
+  },
+  {
+    "Id": 46995,
+    "Codigo": "0709.001.444-0",
+    "Tipo": "OPT",
+    "Descricao": "CRIMINOLOGIA",
+    "Semestre": 99,
+    "Apelido": "CRIMINOLOGIA",
+    "CargaHorariaTeorico": 34,
+    "CargaHorariaPratica": null,
+    "ListaPrequisitos": []
+  },
+  {
+    "Id": 47086,
+    "Codigo": "0709.001.535-9",
+    "Tipo": "OPT",
+    "Descricao": "DEFICIÊNCIA, DIREITO E INCLUSÃO",
+    "Semestre": 99,
+    "Apelido": "DEFICIÊNCIA, DIREITO E INCLUSÃO",
+    "CargaHorariaTeorico": 34,
+    "CargaHorariaPratica": null,
+    "ListaPrequisitos": []
+  },
+  {
+    "Id": 34555,
+    "Codigo": "0709.000.070-3",
+    "Tipo": "OPT",
+    "Descricao": "DIREITO AGRÁRIO",
+    "Semestre": 99,
+    "Apelido": "DIREITO AGRÁRIO",
+    "CargaHorariaTeorico": 34,
+    "CargaHorariaPratica": null,
+    "ListaPrequisitos": []
+  },
+  {
+    "Id": 47026,
+    "Codigo": "0709.001.475-4",
+    "Tipo": "OPT",
+    "Descricao": "DIREITO CIVIL E LITERATURA",
+    "Semestre": 99,
+    "Apelido": "DIREITO CIVIL E LITERATURA",
+    "CargaHorariaTeorico": 34,
+    "CargaHorariaPratica": null,
+    "ListaPrequisitos": []
+  },
+  {
+    "Id": 34556,
+    "Codigo": "0709.000.071-1",
+    "Tipo": "OPT",
+    "Descricao": "DIREITO COMUNITÁRIO",
+    "Semestre": 99,
+    "Apelido": "DIREITO COMUNITÁRIO",
+    "CargaHorariaTeorico": 34,
+    "CargaHorariaPratica": null,
+    "ListaPrequisitos": [
+      {
+        "Id": 34545,
+        "Codigo": "0709.000.060-6",
+        "Descricao": "DIREITO INTERNACIONAL PÚBLICO",
+        "Semestre": "0",
+        "Apelido": "DIREITO INTERNACIONAL PÚBLICO",
+        "CargaHorariaTeorico": 0,
+        "CargaHorariaPratica": 0,
+        "ListaPrequisitos": []
+      }
+    ]
+  },
+  {
+    "Id": 47057,
+    "Codigo": "0709.001.506-3",
+    "Tipo": "OPT",
+    "Descricao": "DIREITO CONDOMINIAL",
+    "Semestre": 99,
+    "Apelido": "DIREITO CONDOMINIAL",
+    "CargaHorariaTeorico": 34,
+    "CargaHorariaPratica": null,
+    "ListaPrequisitos": [
+      {
+        "Id": 51464,
+        "Codigo": "0709.002.263-0",
+        "Descricao": "DIREITO DAS COISAS",
+        "Semestre": "0",
+        "Apelido": "DIREITO DAS COISAS",
+        "CargaHorariaTeorico": 0,
+        "CargaHorariaPratica": 0,
+        "ListaPrequisitos": []
+      }
+    ]
+  },
+  {
+    "Id": 51415,
+    "Codigo": "0709.002.214-8",
+    "Tipo": "OPT",
+    "Descricao": "DIREITO CONSTITUCIONAL COMPARADO",
+    "Semestre": 99,
+    "Apelido": "DIREITO CONSTITUCIONAL COMPARADO",
+    "CargaHorariaTeorico": 68,
+    "CargaHorariaPratica": null,
+    "ListaPrequisitos": [
+      {
+        "Id": 51427,
+        "Codigo": "0709.002.226-4",
+        "Descricao": "CIÊNCIA POLÍTICA E TEORIA GERAL DO ESTADO",
+        "Semestre": "0",
+        "Apelido": "CIÊNCIA POLÍTICA E TEORIA GERAL DO ESTADO",
+        "CargaHorariaTeorico": 0,
+        "CargaHorariaPratica": 0,
+        "ListaPrequisitos": []
+      }
+    ]
+  },
+  {
+    "Id": 47009,
+    "Codigo": "0709.001.458-5",
+    "Tipo": "OPT",
+    "Descricao": "DIREITO CONSTITUCIONAL E LITERATURA",
+    "Semestre": 99,
+    "Apelido": "DIREITO CONSTITUCIONAL E LITERATURA",
+    "CargaHorariaTeorico": 34,
+    "CargaHorariaPratica": null,
+    "ListaPrequisitos": []
+  },
+  {
+    "Id": 47022,
+    "Codigo": "0709.001.471-8",
+    "Tipo": "OPT",
+    "Descricao": "DIREITO CONSTITUCIONAL SUBNACIONAL",
+    "Semestre": 99,
+    "Apelido": "DIREITO CONSTITUCIONAL SUBNACIONAL",
+    "CargaHorariaTeorico": 34,
+    "CargaHorariaPratica": null,
+    "ListaPrequisitos": []
+  },
+  {
+    "Id": 34557,
+    "Codigo": "0709.000.072-0",
+    "Tipo": "OPT",
+    "Descricao": "DIREITO DA CRIANÇA E DO ADOLESCENTE",
+    "Semestre": 99,
+    "Apelido": "DIREITO DA CRIANÇA E DO ADOLESCENTE",
+    "CargaHorariaTeorico": 34,
+    "CargaHorariaPratica": null,
+    "ListaPrequisitos": []
+  },
+  {
+    "Id": 47088,
+    "Codigo": "0709.001.537-7",
+    "Tipo": "OPT",
+    "Descricao": "DIREITO DA PESSOA IDOSA",
+    "Semestre": 99,
+    "Apelido": "DIREITO DA PESSOA IDOSA",
+    "CargaHorariaTeorico": 34,
+    "CargaHorariaPratica": null,
+    "ListaPrequisitos": []
+  },
+  {
+    "Id": 47017,
+    "Codigo": "0709.001.466-5",
+    "Tipo": "OPT",
+    "Descricao": "DIREITO DA PROPRIEDADE INTELECTUAL",
+    "Semestre": 99,
+    "Apelido": "DIREITO DA PROPRIEDADE INTELECTUAL",
+    "CargaHorariaTeorico": 34,
+    "CargaHorariaPratica": null,
+    "ListaPrequisitos": []
+  },
+  {
+    "Id": 47012,
+    "Codigo": "0709.001.461-0",
+    "Tipo": "OPT",
+    "Descricao": "DIREITO DAS ÁGUAS",
+    "Semestre": 99,
+    "Apelido": "DIREITO DAS ÁGUAS",
+    "CargaHorariaTeorico": 34,
+    "CargaHorariaPratica": null,
+    "ListaPrequisitos": [
+      {
+        "Id": 51464,
+        "Codigo": "0709.002.263-0",
+        "Descricao": "DIREITO DAS COISAS",
+        "Semestre": "0",
+        "Apelido": "DIREITO DAS COISAS",
+        "CargaHorariaTeorico": 0,
+        "CargaHorariaPratica": 0,
+        "ListaPrequisitos": []
+      }
+    ]
+  },
+  {
+    "Id": 34558,
+    "Codigo": "0709.000.073-8",
+    "Tipo": "OPT",
+    "Descricao": "DIREITO DAS ORGANIZAÇÕES INTERNACIONAIS",
+    "Semestre": 99,
+    "Apelido": "DIREITO DAS ORGANIZAÇÕES INTERNACIONAIS",
+    "CargaHorariaTeorico": 34,
+    "CargaHorariaPratica": null,
+    "ListaPrequisitos": [
+      {
+        "Id": 34545,
+        "Codigo": "0709.000.060-6",
+        "Descricao": "DIREITO INTERNACIONAL PÚBLICO",
+        "Semestre": "0",
+        "Apelido": "DIREITO INTERNACIONAL PÚBLICO",
+        "CargaHorariaTeorico": 0,
+        "CargaHorariaPratica": 0,
+        "ListaPrequisitos": []
+      }
+    ]
+  },
+  {
+    "Id": 47005,
+    "Codigo": "0709.001.454-9",
+    "Tipo": "OPT",
+    "Descricao": "DIREITO DESPORTIVO",
+    "Semestre": 99,
+    "Apelido": "DIREITO DESPORTIVO",
+    "CargaHorariaTeorico": 34,
+    "CargaHorariaPratica": null,
+    "ListaPrequisitos": []
+  },
+  {
+    "Id": 47019,
+    "Codigo": "0709.001.468-3",
+    "Tipo": "OPT",
+    "Descricao": "DIREITO DE TRÂNSITO",
+    "Semestre": 99,
+    "Apelido": "DIREITO DE TRÂNSITO",
+    "CargaHorariaTeorico": 34,
+    "CargaHorariaPratica": null,
+    "ListaPrequisitos": []
+  },
+  {
+    "Id": 47016,
+    "Codigo": "0709.001.465-6",
+    "Tipo": "OPT",
+    "Descricao": "DIREITO DE VIZINHANÇA",
+    "Semestre": 99,
+    "Apelido": "DIREITO DE VIZINHANÇA",
+    "CargaHorariaTeorico": 34,
+    "CargaHorariaPratica": null,
+    "ListaPrequisitos": [
+      {
+        "Id": 51464,
+        "Codigo": "0709.002.263-0",
+        "Descricao": "DIREITO DAS COISAS",
+        "Semestre": "0",
+        "Apelido": "DIREITO DAS COISAS",
+        "CargaHorariaTeorico": 0,
+        "CargaHorariaPratica": 0,
+        "ListaPrequisitos": []
+      }
+    ]
+  },
+  {
+    "Id": 34559,
+    "Codigo": "0709.000.074-6",
+    "Tipo": "OPT",
+    "Descricao": "DIREITO DIGITAL E PROCESSO JUDICIAL ELETRÔNICO",
+    "Semestre": 99,
+    "Apelido": "DIREITO DIGITAL E PROCESSO JUDICIAL ELETRÔNICO",
+    "CargaHorariaTeorico": 34,
+    "CargaHorariaPratica": null,
+    "ListaPrequisitos": []
+  },
+  {
+    "Id": 47063,
+    "Codigo": "0709.001.512-5",
+    "Tipo": "OPT",
+    "Descricao": "DIREITO DOS ANIMAIS",
+    "Semestre": 99,
+    "Apelido": "DIREITO DOS ANIMAIS",
+    "CargaHorariaTeorico": 34,
+    "CargaHorariaPratica": null,
+    "ListaPrequisitos": []
+  },
+  {
+    "Id": 47030,
+    "Codigo": "0709.001.479-0",
+    "Tipo": "OPT",
+    "Descricao": "DIREITO DOS POVOS",
+    "Semestre": 99,
+    "Apelido": "DIREITO DOS POVOS",
+    "CargaHorariaTeorico": 34,
+    "CargaHorariaPratica": null,
+    "ListaPrequisitos": []
+  },
+  {
+    "Id": 47032,
+    "Codigo": "0709.001.481-6",
+    "Tipo": "OPT",
+    "Descricao": "DIREITO E CIDADE",
+    "Semestre": 99,
+    "Apelido": "DIREITO E CIDADE",
+    "CargaHorariaTeorico": 34,
+    "CargaHorariaPratica": null,
+    "ListaPrequisitos": []
+  },
+  {
+    "Id": 47033,
+    "Codigo": "0709.001.482-5",
+    "Tipo": "OPT",
+    "Descricao": "DIREITO ECONOMICO E CONCORRENCIAL",
+    "Semestre": 99,
+    "Apelido": "DIREITO ECONOMICO E CONCORRENCIAL",
+    "CargaHorariaTeorico": 34,
+    "CargaHorariaPratica": null,
+    "ListaPrequisitos": []
+  },
+  {
+    "Id": 52153,
+    "Codigo": "0709.002.323-4",
+    "Tipo": "OPT",
+    "Descricao": "DIREITO E DESENVOLVIMENTO",
+    "Semestre": 99,
+    "Apelido": "DIREITO E DESENVOLVIMENTO",
+    "CargaHorariaTeorico": 34,
+    "CargaHorariaPratica": null,
+    "ListaPrequisitos": []
+  },
+  {
+    "Id": 47038,
+    "Codigo": "0709.001.487-0",
+    "Tipo": "OPT",
+    "Descricao": "DIREITO E EDUCAÇÃO",
+    "Semestre": 99,
+    "Apelido": "DIREITO E EDUCAÇÃO",
+    "CargaHorariaTeorico": 34,
+    "CargaHorariaPratica": null,
+    "ListaPrequisitos": []
+  },
+  {
+    "Id": 47041,
+    "Codigo": "0709.001.490-5",
+    "Tipo": "OPT",
+    "Descricao": "DIREITO E ESTADO",
+    "Semestre": 99,
+    "Apelido": "DIREITO E ESTADO",
+    "CargaHorariaTeorico": 68,
+    "CargaHorariaPratica": null,
+    "ListaPrequisitos": [
+      {
+        "Id": 51427,
+        "Codigo": "0709.002.226-4",
+        "Descricao": "CIÊNCIA POLÍTICA E TEORIA GERAL DO ESTADO",
+        "Semestre": "0",
+        "Apelido": "CIÊNCIA POLÍTICA E TEORIA GERAL DO ESTADO",
+        "CargaHorariaTeorico": 0,
+        "CargaHorariaPratica": 0,
+        "ListaPrequisitos": []
+      }
+    ]
+  },
+  {
+    "Id": 51460,
+    "Codigo": "0709.002.259-6",
+    "Tipo": "OPT",
+    "Descricao": "DIREITO E HANNAH ARENDT: O CASO EICHMANN",
+    "Semestre": 99,
+    "Apelido": "DIREITO E HANNAH ARENDT: O CASO EICHMANN",
+    "CargaHorariaTeorico": 68,
+    "CargaHorariaPratica": null,
+    "ListaPrequisitos": []
+  },
+  {
+    "Id": 47044,
+    "Codigo": "0709.001.493-2",
+    "Tipo": "OPT",
+    "Descricao": "DIREITO ELEITORAL",
+    "Semestre": 99,
+    "Apelido": "DIREITO ELEITORAL",
+    "CargaHorariaTeorico": 68,
+    "CargaHorariaPratica": null,
+    "ListaPrequisitos": [
+      {
+        "Id": 51424,
+        "Codigo": "0709.002.223-7",
+        "Descricao": "DIREITO CONSTITUCIONAL II - DIREITOS FUNDAMENTAIS, SOCIAIS E POLÍTICOS",
+        "Semestre": "0",
+        "Apelido": "DIREITO CONSTITUCIONAL II - DIREITOS FUNDAMENTAIS, SOCIAIS E POLÍTICOS",
+        "CargaHorariaTeorico": 0,
+        "CargaHorariaPratica": 0,
+        "ListaPrequisitos": []
+      }
+    ]
+  },
+  {
+    "Id": 52154,
+    "Codigo": "0709.002.324-3",
+    "Tipo": "OPT",
+    "Descricao": "DIREITO E LITERATURA",
+    "Semestre": 99,
+    "Apelido": "DIREITO E LITERATURA",
+    "CargaHorariaTeorico": 68,
+    "CargaHorariaPratica": null,
+    "ListaPrequisitos": []
+  },
+  {
+    "Id": 47084,
+    "Codigo": "0709.001.533-0",
+    "Tipo": "OPT",
+    "Descricao": "DIREITO E PODER",
+    "Semestre": 99,
+    "Apelido": "DIREITO E PODER",
+    "CargaHorariaTeorico": 68,
+    "CargaHorariaPratica": null,
+    "ListaPrequisitos": [
+      {
+        "Id": 51427,
+        "Codigo": "0709.002.226-4",
+        "Descricao": "CIÊNCIA POLÍTICA E TEORIA GERAL DO ESTADO",
+        "Semestre": "0",
+        "Apelido": "CIÊNCIA POLÍTICA E TEORIA GERAL DO ESTADO",
+        "CargaHorariaTeorico": 0,
+        "CargaHorariaPratica": 0,
+        "ListaPrequisitos": []
+      }
+    ]
+  },
+  {
+    "Id": 47001,
+    "Codigo": "0709.001.450-2",
+    "Tipo": "OPT",
+    "Descricao": "DIREITO E SAÚDE",
+    "Semestre": 99,
+    "Apelido": "DIREITO E SAÚDE",
+    "CargaHorariaTeorico": 34,
+    "CargaHorariaPratica": null,
+    "ListaPrequisitos": []
+  },
+  {
+    "Id": 47011,
+    "Codigo": "0709.001.460-0",
+    "Tipo": "OPT",
+    "Descricao": "DIREITO IMOBILIÁRIO",
+    "Semestre": 99,
+    "Apelido": "DIREITO IMOBILIÁRIO",
+    "CargaHorariaTeorico": 34,
+    "CargaHorariaPratica": null,
+    "ListaPrequisitos": []
+  },
+  {
+    "Id": 34563,
+    "Codigo": "0709.000.078-9",
+    "Tipo": "OPT",
+    "Descricao": "DIREITO INTERNACIONAL HUMANITÁRIO",
+    "Semestre": 99,
+    "Apelido": "DIREITO INTERNACIONAL HUMANITÁRIO",
+    "CargaHorariaTeorico": 34,
+    "CargaHorariaPratica": null,
+    "ListaPrequisitos": [
+      {
+        "Id": 34545,
+        "Codigo": "0709.000.060-6",
+        "Descricao": "DIREITO INTERNACIONAL PÚBLICO",
+        "Semestre": "0",
+        "Apelido": "DIREITO INTERNACIONAL PÚBLICO",
+        "CargaHorariaTeorico": 0,
+        "CargaHorariaPratica": 0,
+        "ListaPrequisitos": []
+      }
+    ]
+  },
+  {
+    "Id": 47013,
+    "Codigo": "0709.001.462-9",
+    "Tipo": "OPT",
+    "Descricao": "DIREITO PORTUÁRIO",
+    "Semestre": 99,
+    "Apelido": "DIREITO PORTUÁRIO",
+    "CargaHorariaTeorico": 34,
+    "CargaHorariaPratica": null,
+    "ListaPrequisitos": []
+  },
+  {
+    "Id": 47018,
+    "Codigo": "0709.001.467-4",
+    "Tipo": "OPT",
+    "Descricao": "DIREITO PROCESSUAL TRIBUTÁRIO",
+    "Semestre": 99,
+    "Apelido": "DIREITO PROCESSUAL TRIBUTÁRIO",
+    "CargaHorariaTeorico": 34,
+    "CargaHorariaPratica": null,
+    "ListaPrequisitos": [
+      {
+        "Id": 51440,
+        "Codigo": "0709.002.239-0",
+        "Descricao": "DIREITO ADMINISTRATIVO II",
+        "Semestre": "0",
+        "Apelido": "DIREITO ADMINISTRATIVO II",
+        "CargaHorariaTeorico": 0,
+        "CargaHorariaPratica": 0,
+        "ListaPrequisitos": []
+      }
+    ]
+  },
+  {
+    "Id": 47081,
+    "Codigo": "0709.001.530-3",
+    "Tipo": "OPT",
+    "Descricao": "DIRETO CIVIL E LITERATURA",
+    "Semestre": 99,
+    "Apelido": "DIRETO CIVIL E LITERATURA",
+    "CargaHorariaTeorico": 34,
+    "CargaHorariaPratica": null,
+    "ListaPrequisitos": []
+  },
+  {
+    "Id": 47073,
+    "Codigo": "0709.001.522-3",
+    "Tipo": "OPT",
+    "Descricao": "EDUCAÇÃO DAS RELAÇÕES ÉTNICO-RACIAIS",
+    "Semestre": 99,
+    "Apelido": "EDUCAÇÃO DAS RELAÇÕES ÉTNICO-RACIAIS",
+    "CargaHorariaTeorico": 34,
+    "CargaHorariaPratica": null,
+    "ListaPrequisitos": []
+  },
+  {
+    "Id": 47040,
+    "Codigo": "0709.001.489-9",
+    "Tipo": "OPT",
+    "Descricao": "EDUCAÇÃO EM DIREITOS HUMANOS",
+    "Semestre": 99,
+    "Apelido": "EDUCAÇÃO EM DIREITOS HUMANOS",
+    "CargaHorariaTeorico": 34,
+    "CargaHorariaPratica": null,
+    "ListaPrequisitos": []
+  },
+  {
+    "Id": 47052,
+    "Codigo": "0709.001.501-8",
+    "Tipo": "OPT",
+    "Descricao": "EDUCAÇÃO ESPECIAL",
+    "Semestre": 99,
+    "Apelido": "EDUCAÇÃO ESPECIAL",
+    "CargaHorariaTeorico": 51,
+    "CargaHorariaPratica": null,
+    "ListaPrequisitos": []
+  },
+  {
+    "Id": 43686,
+    "Codigo": "1991.000.004-3",
+    "Tipo": "OPT",
+    "Descricao": "EMPREENDEDORISMO E INOVAÇÃO",
+    "Semestre": 99,
+    "Apelido": "EMPREENDEDORISMO E INOVAÇÃO",
+    "CargaHorariaTeorico": 68,
+    "CargaHorariaPratica": null,
+    "ListaPrequisitos": []
+  },
+  {
+    "Id": 47045,
+    "Codigo": "0709.001.494-1",
+    "Tipo": "OPT",
+    "Descricao": "ESTATÍSTICA APLICADA AO DIREITO - JURIMETRIA",
+    "Semestre": 99,
+    "Apelido": "ESTATÍSTICA APLICADA AO DIREITO - JURIMETRIA",
+    "CargaHorariaTeorico": 34,
+    "CargaHorariaPratica": null,
+    "ListaPrequisitos": [
+      {
+        "Id": 51445,
+        "Codigo": "0709.002.244-2",
+        "Descricao": "INTRODUÇÃO À METODOLOGIA DA PESQUISA",
+        "Semestre": "0",
+        "Apelido": "INTRODUÇÃO À METODOLOGIA DA PESQUISA",
+        "CargaHorariaTeorico": 0,
+        "CargaHorariaPratica": 0,
+        "ListaPrequisitos": []
+      }
+    ]
+  },
+  {
+    "Id": 25678,
+    "Codigo": "0704.001.438-7",
+    "Tipo": "OPT",
+    "Descricao": "ESTUDO DE LIBRAS",
+    "Semestre": 99,
+    "Apelido": "ESTUDO DE LIBRAS",
+    "CargaHorariaTeorico": 51,
+    "CargaHorariaPratica": null,
+    "ListaPrequisitos": []
+  },
+  {
+    "Id": 47014,
+    "Codigo": "0709.001.463-8",
+    "Tipo": "OPT",
+    "Descricao": "EXECUÇÃO PENAL",
+    "Semestre": 99,
+    "Apelido": "EXECUÇÃO PENAL",
+    "CargaHorariaTeorico": 34,
+    "CargaHorariaPratica": null,
+    "ListaPrequisitos": [
+      {
+        "Id": 51419,
+        "Codigo": "0709.002.218-4",
+        "Descricao": "DIREITO PROCESSUAL PENAL III",
+        "Semestre": "0",
+        "Apelido": "DIREITO PROCESSUAL PENAL III",
+        "CargaHorariaTeorico": 0,
+        "CargaHorariaPratica": 0,
+        "ListaPrequisitos": []
+      }
+    ]
+  },
+  {
+    "Id": 47089,
+    "Codigo": "0709.001.538-6",
+    "Tipo": "OPT",
+    "Descricao": "GÊNERO, DIREITOS HUMANOS E SOCIEDADE",
+    "Semestre": 99,
+    "Apelido": "GÊNERO, DIREITOS HUMANOS E SOCIEDADE",
+    "CargaHorariaTeorico": 34,
+    "CargaHorariaPratica": null,
+    "ListaPrequisitos": []
+  },
+  {
+    "Id": 47020,
+    "Codigo": "0709.001.469-2",
+    "Tipo": "OPT",
+    "Descricao": "HERMENÊUTICA CONSTITUCIONAL",
+    "Semestre": 99,
+    "Apelido": "HERMENÊUTICA CONSTITUCIONAL",
+    "CargaHorariaTeorico": 68,
+    "CargaHorariaPratica": null,
+    "ListaPrequisitos": [
+      {
+        "Id": 51428,
+        "Codigo": "0709.002.227-3",
+        "Descricao": "DIREITO CONSTITUCIONAL I",
+        "Semestre": "0",
+        "Apelido": "DIREITO CONSTITUCIONAL I",
+        "CargaHorariaTeorico": 0,
+        "CargaHorariaPratica": 0,
+        "ListaPrequisitos": []
+      }
+    ]
+  },
+  {
+    "Id": 47083,
+    "Codigo": "0709.001.532-1",
+    "Tipo": "OPT",
+    "Descricao": "HERMENÊUTICA JURÍDICA",
+    "Semestre": 99,
+    "Apelido": "HERMENÊUTICA JURÍDICA",
+    "CargaHorariaTeorico": 68,
+    "CargaHorariaPratica": null,
+    "ListaPrequisitos": [
+      {
+        "Id": 51426,
+        "Codigo": "0709.002.225-5",
+        "Descricao": "TEORIA DO DIREITO",
+        "Semestre": "0",
+        "Apelido": "TEORIA DO DIREITO",
+        "CargaHorariaTeorico": 0,
+        "CargaHorariaPratica": 0,
+        "ListaPrequisitos": []
+      }
+    ]
+  },
+  {
+    "Id": 51456,
+    "Codigo": "0709.002.255-0",
+    "Tipo": "OPT",
+    "Descricao": "HISTÓRIA CONSTITUCIONAL",
+    "Semestre": 99,
+    "Apelido": "HISTÓRIA CONSTITUCIONAL",
+    "CargaHorariaTeorico": 34,
+    "CargaHorariaPratica": null,
+    "ListaPrequisitos": [
+      {
+        "Id": 51428,
+        "Codigo": "0709.002.227-3",
+        "Descricao": "DIREITO CONSTITUCIONAL I",
+        "Semestre": "0",
+        "Apelido": "DIREITO CONSTITUCIONAL I",
+        "CargaHorariaTeorico": 0,
+        "CargaHorariaPratica": 0,
+        "ListaPrequisitos": []
+      }
+    ]
+  },
+  {
+    "Id": 47031,
+    "Codigo": "0709.001.480-7",
+    "Tipo": "OPT",
+    "Descricao": "JUIZADOS ESPECIAIS",
+    "Semestre": 99,
+    "Apelido": "JUIZADOS ESPECIAIS",
+    "CargaHorariaTeorico": 34,
+    "CargaHorariaPratica": null,
+    "ListaPrequisitos": [
+      {
+        "Id": 51421,
+        "Codigo": "0709.002.220-0",
+        "Descricao": "TUTELA DE CONHECIMENTO",
+        "Semestre": "0",
+        "Apelido": "TUTELA DE CONHECIMENTO",
+        "CargaHorariaTeorico": 0,
+        "CargaHorariaPratica": 0,
+        "ListaPrequisitos": []
+      }
+    ]
+  },
+  {
+    "Id": 47029,
+    "Codigo": "0709.001.478-1",
+    "Tipo": "OPT",
+    "Descricao": "LEGISLAÇÃO ESPECIAL PENAL",
+    "Semestre": 99,
+    "Apelido": "LEGISLAÇÃO ESPECIAL PENAL",
+    "CargaHorariaTeorico": 68,
+    "CargaHorariaPratica": null,
+    "ListaPrequisitos": [
+      {
+        "Id": 51466,
+        "Codigo": "0709.002.265-8",
+        "Descricao": "DIREITO PENAL - PARTE GERAL II",
+        "Semestre": "0",
+        "Apelido": "DIREITO PENAL - PARTE GERAL II",
+        "CargaHorariaTeorico": 0,
+        "CargaHorariaPratica": 0,
+        "ListaPrequisitos": []
+      }
+    ]
+  },
+  {
+    "Id": 46989,
+    "Codigo": "0709.001.438-9",
+    "Tipo": "OPT",
+    "Descricao": "MEDICINA FORENSE",
+    "Semestre": 99,
+    "Apelido": "MEDICINA FORENSE",
+    "CargaHorariaTeorico": 34,
+    "CargaHorariaPratica": null,
+    "ListaPrequisitos": []
+  },
+  {
+    "Id": 46975,
+    "Codigo": "0709.001.424-4",
+    "Tipo": "OPT",
+    "Descricao": "PROCESSO ADMINISTRATIVO",
+    "Semestre": 99,
+    "Apelido": "PROCESSO ADMINISTRATIVO",
+    "CargaHorariaTeorico": 34,
+    "CargaHorariaPratica": null,
+    "ListaPrequisitos": [
+      {
+        "Id": 51440,
+        "Codigo": "0709.002.239-0",
+        "Descricao": "DIREITO ADMINISTRATIVO II",
+        "Semestre": "0",
+        "Apelido": "DIREITO ADMINISTRATIVO II",
+        "CargaHorariaTeorico": 0,
+        "CargaHorariaPratica": 0,
+        "ListaPrequisitos": []
+      }
+    ]
+  },
+  {
+    "Id": 51448,
+    "Codigo": "0709.002.247-0",
+    "Tipo": "OPT",
+    "Descricao": "RESPONSABILIDADE CIVIL E SAÚDE",
+    "Semestre": 99,
+    "Apelido": "RESPONSABILIDADE CIVIL E SAÚDE",
+    "CargaHorariaTeorico": 34,
+    "CargaHorariaPratica": null,
+    "ListaPrequisitos": [
+      {
+        "Id": 46996,
+        "Codigo": "0709.001.445-0",
+        "Descricao": "RESPONSABILIDADE CIVIL",
+        "Semestre": "0",
+        "Apelido": "RESPONSABILIDADE CIVIL",
+        "CargaHorariaTeorico": 0,
+        "CargaHorariaPratica": 0,
+        "ListaPrequisitos": []
+      }
+    ]
+  },
+  {
+    "Id": 34569,
+    "Codigo": "0709.000.084-3",
+    "Tipo": "OPT",
+    "Descricao": "TÓPICOS DE JURISPRUDÊNCIA DO STF",
+    "Semestre": 99,
+    "Apelido": "TÓPICOS DE JURISPRUDÊNCIA DO STF",
+    "CargaHorariaTeorico": 68,
+    "CargaHorariaPratica": null,
+    "ListaPrequisitos": [
+      {
+        "Id": 51417,
+        "Codigo": "0709.002.216-6",
+        "Descricao": "DIREITO PROCESSUAL CONSTITUCIONAL",
+        "Semestre": "0",
+        "Apelido": "DIREITO PROCESSUAL CONSTITUCIONAL",
+        "CargaHorariaTeorico": 0,
+        "CargaHorariaPratica": 0,
+        "ListaPrequisitos": []
+      }
+    ]
+  },
+  {
+    "Id": 34570,
+    "Codigo": "0709.000.085-1",
+    "Tipo": "OPT",
+    "Descricao": "TÓPICOS DE JURISPRUDÊNCIA DO STJ",
+    "Semestre": 99,
+    "Apelido": "TÓPICOS DE JURISPRUDÊNCIA DO STJ",
+    "CargaHorariaTeorico": 68,
+    "CargaHorariaPratica": null,
+    "ListaPrequisitos": [
+      {
+        "Id": 51419,
+        "Codigo": "0709.002.218-4",
+        "Descricao": "DIREITO PROCESSUAL PENAL III",
+        "Semestre": "0",
+        "Apelido": "DIREITO PROCESSUAL PENAL III",
+        "CargaHorariaTeorico": 0,
+        "CargaHorariaPratica": 0,
+        "ListaPrequisitos": []
+      },
+      {
+        "Id": 51421,
+        "Codigo": "0709.002.220-0",
+        "Descricao": "TUTELA DE CONHECIMENTO",
+        "Semestre": "0",
+        "Apelido": "TUTELA DE CONHECIMENTO",
+        "CargaHorariaTeorico": 0,
+        "CargaHorariaPratica": 0,
+        "ListaPrequisitos": []
+      }
+    ]
+  },
+  {
+    "Id": 46980,
+    "Codigo": "0709.001.429-0",
+    "Tipo": "OPT",
+    "Descricao": "TÓPICOS ESPECIAIS DE ANTROPOLOGIA JURÍDICA",
+    "Semestre": 99,
+    "Apelido": "TÓPICOS ESPECIAIS DE ANTROPOLOGIA JURÍDICA",
+    "CargaHorariaTeorico": 34,
+    "CargaHorariaPratica": null,
+    "ListaPrequisitos": [
+      {
+        "Id": 47036,
+        "Codigo": "0709.001.485-2",
+        "Descricao": "ANTROPOLOGIA JURÍDICA",
+        "Semestre": "0",
+        "Apelido": "ANTROPOLOGIA JURÍDICA",
+        "CargaHorariaTeorico": 0,
+        "CargaHorariaPratica": 0,
+        "ListaPrequisitos": []
+      }
+    ]
+  },
+  {
+    "Id": 47066,
+    "Codigo": "0709.001.515-2",
+    "Tipo": "OPT",
+    "Descricao": "TÓPICOS ESPECIAIS DE DIREITO ADMINISTRATIVO",
+    "Semestre": 99,
+    "Apelido": "TÓPICOS ESPECIAIS DE DIREITO ADMINISTRATIVO",
+    "CargaHorariaTeorico": 34,
+    "CargaHorariaPratica": null,
+    "ListaPrequisitos": [
+      {
+        "Id": 51438,
+        "Codigo": "0709.002.237-1",
+        "Descricao": "DIREITO ADMINISTRATIVO I",
+        "Semestre": "0",
+        "Apelido": "DIREITO ADMINISTRATIVO I",
+        "CargaHorariaTeorico": 0,
+        "CargaHorariaPratica": 0,
+        "ListaPrequisitos": []
+      }
+    ]
+  },
+  {
+    "Id": 46992,
+    "Codigo": "0709.001.441-3",
+    "Tipo": "OPT",
+    "Descricao": "TÓPICOS ESPECIAIS DE DIREITO AMBIENTAL",
+    "Semestre": 99,
+    "Apelido": "TÓPICOS ESPECIAIS DE DIREITO AMBIENTAL",
+    "CargaHorariaTeorico": 34,
+    "CargaHorariaPratica": null,
+    "ListaPrequisitos": []
+  },
+  {
+    "Id": 47061,
+    "Codigo": "0709.001.510-7",
+    "Tipo": "OPT",
+    "Descricao": "TÓPICOS ESPECIAIS DE DIREITO CONSTITUCIONAL",
+    "Semestre": 99,
+    "Apelido": "TÓPICOS ESPECIAIS DE DIREITO CONSTITUCIONAL",
+    "CargaHorariaTeorico": 34,
+    "CargaHorariaPratica": null,
+    "ListaPrequisitos": [
+      {
+        "Id": 51428,
+        "Codigo": "0709.002.227-3",
+        "Descricao": "DIREITO CONSTITUCIONAL I",
+        "Semestre": "0",
+        "Apelido": "DIREITO CONSTITUCIONAL I",
+        "CargaHorariaTeorico": 0,
+        "CargaHorariaPratica": 0,
+        "ListaPrequisitos": []
+      }
+    ]
+  },
+  {
+    "Id": 46976,
+    "Codigo": "0709.001.425-3",
+    "Tipo": "OPT",
+    "Descricao": "TÓPICOS ESPECIAIS DE DIREITO CONTRATUAL",
+    "Semestre": 99,
+    "Apelido": "TÓPICOS ESPECIAIS DE DIREITO CONTRATUAL",
+    "CargaHorariaTeorico": 34,
+    "CargaHorariaPratica": null,
+    "ListaPrequisitos": [
+      {
+        "Id": 47075,
+        "Codigo": "0709.001.524-1",
+        "Descricao": "TEORIA DO DIREITO PRIVADO II",
+        "Semestre": "0",
+        "Apelido": "TEORIA DO DIREITO PRIVADO II",
+        "CargaHorariaTeorico": 0,
+        "CargaHorariaPratica": 0,
+        "ListaPrequisitos": []
+      }
+    ]
+  },
+  {
+    "Id": 47067,
+    "Codigo": "0709.001.516-1",
+    "Tipo": "OPT",
+    "Descricao": "TÓPICOS ESPECIAIS DE DIREITO DAS OBRIGAÇÕES",
+    "Semestre": 99,
+    "Apelido": "TÓPICOS ESPECIAIS DE DIREITO DAS OBRIGAÇÕES",
+    "CargaHorariaTeorico": 34,
+    "CargaHorariaPratica": null,
+    "ListaPrequisitos": [
+      {
+        "Id": 47075,
+        "Codigo": "0709.001.524-1",
+        "Descricao": "TEORIA DO DIREITO PRIVADO II",
+        "Semestre": "0",
+        "Apelido": "TEORIA DO DIREITO PRIVADO II",
+        "CargaHorariaTeorico": 0,
+        "CargaHorariaPratica": 0,
+        "ListaPrequisitos": []
+      }
+    ]
+  },
+  {
+    "Id": 46977,
+    "Codigo": "0709.001.426-2",
+    "Tipo": "OPT",
+    "Descricao": "TÓPICOS ESPECIAIS DE DIREITO DAS SUCESSÕES",
+    "Semestre": 99,
+    "Apelido": "TÓPICOS ESPECIAIS DE DIREITO DAS SUCESSÕES",
+    "CargaHorariaTeorico": 34,
+    "CargaHorariaPratica": null,
+    "ListaPrequisitos": [
+      {
+        "Id": 51461,
+        "Codigo": "0709.002.260-2",
+        "Descricao": "DIREITO DE FAMÍLIA",
+        "Semestre": "0",
+        "Apelido": "DIREITO DE FAMÍLIA",
+        "CargaHorariaTeorico": 0,
+        "CargaHorariaPratica": 0,
+        "ListaPrequisitos": []
+      }
+    ]
+  },
+  {
+    "Id": 34572,
+    "Codigo": "0709.000.087-8",
+    "Tipo": "OPT",
+    "Descricao": "TÓPICOS ESPECIAIS DE DIREITO DE FAMILIA",
+    "Semestre": 99,
+    "Apelido": "TÓPICOS ESPECIAIS DE DIREITO DE FAMILIA",
+    "CargaHorariaTeorico": 34,
+    "CargaHorariaPratica": null,
+    "ListaPrequisitos": [
+      {
+        "Id": 51461,
+        "Codigo": "0709.002.260-2",
+        "Descricao": "DIREITO DE FAMÍLIA",
+        "Semestre": "0",
+        "Apelido": "DIREITO DE FAMÍLIA",
+        "CargaHorariaTeorico": 0,
+        "CargaHorariaPratica": 0,
+        "ListaPrequisitos": []
+      }
+    ]
+  },
+  {
+    "Id": 47076,
+    "Codigo": "0709.001.525-0",
+    "Tipo": "OPT",
+    "Descricao": "TÓPICOS ESPECIAIS DE DIREITO DIGITAL E TECNOLÓGICO",
+    "Semestre": 99,
+    "Apelido": "TÓPICOS ESPECIAIS DE DIREITO DIGITAL E TECNOLÓGICO",
+    "CargaHorariaTeorico": 34,
+    "CargaHorariaPratica": null,
+    "ListaPrequisitos": [
+      {
+        "Id": 51463,
+        "Codigo": "0709.002.262-0",
+        "Descricao": "DIREITO DAS OBRIGAÇÕES",
+        "Semestre": "0",
+        "Apelido": "DIREITO DAS OBRIGAÇÕES",
+        "CargaHorariaTeorico": 0,
+        "CargaHorariaPratica": 0,
+        "ListaPrequisitos": []
+      }
+    ]
+  },
+  {
+    "Id": 47090,
+    "Codigo": "0709.001.539-5",
+    "Tipo": "OPT",
+    "Descricao": "TÓPICOS ESPECIAIS DE DIREITO DO TRABALHO",
+    "Semestre": 99,
+    "Apelido": "TÓPICOS ESPECIAIS DE DIREITO DO TRABALHO",
+    "CargaHorariaTeorico": 34,
+    "CargaHorariaPratica": null,
+    "ListaPrequisitos": [
+      {
+        "Id": 51457,
+        "Codigo": "0709.002.256-9",
+        "Descricao": "DIREITO DO TRABALHO I",
+        "Semestre": "0",
+        "Apelido": "DIREITO DO TRABALHO I",
+        "CargaHorariaTeorico": 0,
+        "CargaHorariaPratica": 0,
+        "ListaPrequisitos": []
+      }
+    ]
+  },
+  {
+    "Id": 34573,
+    "Codigo": "0709.000.088-6",
+    "Tipo": "OPT",
+    "Descricao": "TÓPICOS ESPECIAIS DE DIREITO EMPRESARIAL",
+    "Semestre": 99,
+    "Apelido": "TÓPICOS ESPECIAIS DE DIREITO EMPRESARIAL",
+    "CargaHorariaTeorico": 34,
+    "CargaHorariaPratica": null,
+    "ListaPrequisitos": [
+      {
+        "Id": 46993,
+        "Codigo": "0709.001.442-2",
+        "Descricao": "DIREITO EMPRESARIAL I",
+        "Semestre": "0",
+        "Apelido": "DIREITO EMPRESARIAL I",
+        "CargaHorariaTeorico": 0,
+        "CargaHorariaPratica": 0,
+        "ListaPrequisitos": []
+      }
+    ]
+  },
+  {
+    "Id": 47054,
+    "Codigo": "0709.001.503-6",
+    "Tipo": "OPT",
+    "Descricao": "TÓPICOS ESPECIAIS DE DIREITO E POLÍTICA",
+    "Semestre": 99,
+    "Apelido": "TÓPICOS ESPECIAIS DE DIREITO E POLÍTICA",
+    "CargaHorariaTeorico": 34,
+    "CargaHorariaPratica": null,
+    "ListaPrequisitos": [
+      {
+        "Id": 51427,
+        "Codigo": "0709.002.226-4",
+        "Descricao": "CIÊNCIA POLÍTICA E TEORIA GERAL DO ESTADO",
+        "Semestre": "0",
+        "Apelido": "CIÊNCIA POLÍTICA E TEORIA GERAL DO ESTADO",
+        "CargaHorariaTeorico": 0,
+        "CargaHorariaPratica": 0,
+        "ListaPrequisitos": []
+      }
+    ]
+  },
+  {
+    "Id": 46983,
+    "Codigo": "0709.001.432-4",
+    "Tipo": "OPT",
+    "Descricao": "TÓPICOS ESPECIAIS DE DIREITO INTERNACIONAL PRIVADO",
+    "Semestre": 99,
+    "Apelido": "TÓPICOS ESPECIAIS DE DIREITO INTERNACIONAL PRIVADO",
+    "CargaHorariaTeorico": 34,
+    "CargaHorariaPratica": null,
+    "ListaPrequisitos": [
+      {
+        "Id": 47075,
+        "Codigo": "0709.001.524-1",
+        "Descricao": "TEORIA DO DIREITO PRIVADO II",
+        "Semestre": "0",
+        "Apelido": "TEORIA DO DIREITO PRIVADO II",
+        "CargaHorariaTeorico": 0,
+        "CargaHorariaPratica": 0,
+        "ListaPrequisitos": []
+      }
+    ]
+  },
+  {
+    "Id": 46991,
+    "Codigo": "0709.001.440-4",
+    "Tipo": "OPT",
+    "Descricao": "TÓPICOS ESPECIAIS DE DIREITO INTERNACIONAL PÚBLICO",
+    "Semestre": 99,
+    "Apelido": "TÓPICOS ESPECIAIS DE DIREITO INTERNACIONAL PÚBLICO",
+    "CargaHorariaTeorico": 34,
+    "CargaHorariaPratica": null,
+    "ListaPrequisitos": [
+      {
+        "Id": 34545,
+        "Codigo": "0709.000.060-6",
+        "Descricao": "DIREITO INTERNACIONAL PÚBLICO",
+        "Semestre": "0",
+        "Apelido": "DIREITO INTERNACIONAL PÚBLICO",
+        "CargaHorariaTeorico": 0,
+        "CargaHorariaPratica": 0,
+        "ListaPrequisitos": []
+      },
+      {
+        "Id": 51428,
+        "Codigo": "0709.002.227-3",
+        "Descricao": "DIREITO CONSTITUCIONAL I",
+        "Semestre": "0",
+        "Apelido": "DIREITO CONSTITUCIONAL I",
+        "CargaHorariaTeorico": 0,
+        "CargaHorariaPratica": 0,
+        "ListaPrequisitos": []
+      }
+    ]
+  },
+  {
+    "Id": 34574,
+    "Codigo": "0709.000.089-4",
+    "Tipo": "OPT",
+    "Descricao": "TÓPICOS ESPECIAIS DE DIREITO PENAL",
+    "Semestre": 99,
+    "Apelido": "TÓPICOS ESPECIAIS DE DIREITO PENAL",
+    "CargaHorariaTeorico": 34,
+    "CargaHorariaPratica": null,
+    "ListaPrequisitos": [
+      {
+        "Id": 51466,
+        "Codigo": "0709.002.265-8",
+        "Descricao": "DIREITO PENAL - PARTE GERAL II",
+        "Semestre": "0",
+        "Apelido": "DIREITO PENAL - PARTE GERAL II",
+        "CargaHorariaTeorico": 0,
+        "CargaHorariaPratica": 0,
+        "ListaPrequisitos": []
+      }
+    ]
+  },
+  {
+    "Id": 47046,
+    "Codigo": "0709.001.495-0",
+    "Tipo": "OPT",
+    "Descricao": "TÓPICOS ESPECIAIS DE DIREITO PROCESSUAL CIVIL",
+    "Semestre": 99,
+    "Apelido": "TÓPICOS ESPECIAIS DE DIREITO PROCESSUAL CIVIL",
+    "CargaHorariaTeorico": 68,
+    "CargaHorariaPratica": null,
+    "ListaPrequisitos": [
+      {
+        "Id": 51421,
+        "Codigo": "0709.002.220-0",
+        "Descricao": "TUTELA DE CONHECIMENTO",
+        "Semestre": "0",
+        "Apelido": "TUTELA DE CONHECIMENTO",
+        "CargaHorariaTeorico": 0,
+        "CargaHorariaPratica": 0,
+        "ListaPrequisitos": []
+      }
+    ]
+  },
+  {
+    "Id": 46985,
+    "Codigo": "0709.001.434-2",
+    "Tipo": "OPT",
+    "Descricao": "TÓPICOS ESPECIAIS DE DIREITO PROCESSUAL CIVIL COMPARADO",
+    "Semestre": 99,
+    "Apelido": "TÓPICOS ESPECIAIS DE DIREITO PROCESSUAL CIVIL COMPARADO",
+    "CargaHorariaTeorico": 34,
+    "CargaHorariaPratica": null,
+    "ListaPrequisitos": [
+      {
+        "Id": 51421,
+        "Codigo": "0709.002.220-0",
+        "Descricao": "TUTELA DE CONHECIMENTO",
+        "Semestre": "0",
+        "Apelido": "TUTELA DE CONHECIMENTO",
+        "CargaHorariaTeorico": 0,
+        "CargaHorariaPratica": 0,
+        "ListaPrequisitos": []
+      }
+    ]
+  },
+  {
+    "Id": 46984,
+    "Codigo": "0709.001.433-3",
+    "Tipo": "OPT",
+    "Descricao": "TÓPICOS ESPECIAIS DE DIREITO PROCESSUAL DO TRABALHO",
+    "Semestre": 99,
+    "Apelido": "TÓPICOS ESPECIAIS DE DIREITO PROCESSUAL DO TRABALHO",
+    "CargaHorariaTeorico": 34,
+    "CargaHorariaPratica": null,
+    "ListaPrequisitos": [
+      {
+        "Id": 51433,
+        "Codigo": "0709.002.232-6",
+        "Descricao": "DIREITO PROCESSUAL DO TRABALHO",
+        "Semestre": "0",
+        "Apelido": "DIREITO PROCESSUAL DO TRABALHO",
+        "CargaHorariaTeorico": 0,
+        "CargaHorariaPratica": 0,
+        "ListaPrequisitos": []
+      }
+    ]
+  },
+  {
+    "Id": 46978,
+    "Codigo": "0709.001.427-1",
+    "Tipo": "OPT",
+    "Descricao": "TÓPICOS ESPECIAIS DE DIREITO PROCESSUAL EMPRESARIAL",
+    "Semestre": 99,
+    "Apelido": "TÓPICOS ESPECIAIS DE DIREITO PROCESSUAL EMPRESARIAL",
+    "CargaHorariaTeorico": 34,
+    "CargaHorariaPratica": null,
+    "ListaPrequisitos": [
+      {
+        "Id": 51422,
+        "Codigo": "0709.002.221-9",
+        "Descricao": "TUTELA RECURSAL",
+        "Semestre": "0",
+        "Apelido": "TUTELA RECURSAL",
+        "CargaHorariaTeorico": 0,
+        "CargaHorariaPratica": 0,
+        "ListaPrequisitos": []
+      }
+    ]
+  },
+  {
+    "Id": 46987,
+    "Codigo": "0709.001.436-0",
+    "Tipo": "OPT",
+    "Descricao": "TÓPICOS ESPECIAIS DE DIREITO PROCESSUAL PENAL",
+    "Semestre": 99,
+    "Apelido": "TÓPICOS ESPECIAIS DE DIREITO PROCESSUAL PENAL",
+    "CargaHorariaTeorico": 34,
+    "CargaHorariaPratica": null,
+    "ListaPrequisitos": [
+      {
+        "Id": 51437,
+        "Codigo": "0709.002.236-2",
+        "Descricao": "DIREITO PROCESSUAL PENAL I",
+        "Semestre": "0",
+        "Apelido": "DIREITO PROCESSUAL PENAL I",
+        "CargaHorariaTeorico": 0,
+        "CargaHorariaPratica": 0,
+        "ListaPrequisitos": []
+      }
+    ]
+  },
+  {
+    "Id": 46986,
+    "Codigo": "0709.001.435-1",
+    "Tipo": "OPT",
+    "Descricao": "TÓPICOS ESPECIAIS DE DIREITOS HUMANOS",
+    "Semestre": 99,
+    "Apelido": "TÓPICOS ESPECIAIS DE DIREITOS HUMANOS",
+    "CargaHorariaTeorico": 34,
+    "CargaHorariaPratica": null,
+    "ListaPrequisitos": [
+      {
+        "Id": 52156,
+        "Codigo": "0709.002.326-1",
+        "Descricao": "DIREITOS HUMANOS",
+        "Semestre": "0",
+        "Apelido": "DIREITOS HUMANOS",
+        "CargaHorariaTeorico": 0,
+        "CargaHorariaPratica": 0,
+        "ListaPrequisitos": []
+      }
+    ]
+  },
+  {
+    "Id": 34576,
+    "Codigo": "0709.000.091-6",
+    "Tipo": "OPT",
+    "Descricao": "TÓPICOS ESPECIAIS DE DIREITOS REAIS",
+    "Semestre": 99,
+    "Apelido": "TÓPICOS ESPECIAIS DE DIREITOS REAIS",
+    "CargaHorariaTeorico": 34,
+    "CargaHorariaPratica": null,
+    "ListaPrequisitos": [
+      {
+        "Id": 51464,
+        "Codigo": "0709.002.263-0",
+        "Descricao": "DIREITO DAS COISAS",
+        "Semestre": "0",
+        "Apelido": "DIREITO DAS COISAS",
+        "CargaHorariaTeorico": 0,
+        "CargaHorariaPratica": 0,
+        "ListaPrequisitos": []
+      }
+    ]
+  },
+  {
+    "Id": 47043,
+    "Codigo": "0709.001.492-3",
+    "Tipo": "OPT",
+    "Descricao": "TÓPICOS ESPECIAIS DE DIREITOS SOCIAIS",
+    "Semestre": 99,
+    "Apelido": "TÓPICOS ESPECIAIS DE DIREITOS SOCIAIS",
+    "CargaHorariaTeorico": 34,
+    "CargaHorariaPratica": null,
+    "ListaPrequisitos": [
+      {
+        "Id": 51424,
+        "Codigo": "0709.002.223-7",
+        "Descricao": "DIREITO CONSTITUCIONAL II - DIREITOS FUNDAMENTAIS, SOCIAIS E POLÍTICOS",
+        "Semestre": "0",
+        "Apelido": "DIREITO CONSTITUCIONAL II - DIREITOS FUNDAMENTAIS, SOCIAIS E POLÍTICOS",
+        "CargaHorariaTeorico": 0,
+        "CargaHorariaPratica": 0,
+        "ListaPrequisitos": []
+      }
+    ]
+  },
+  {
+    "Id": 47021,
+    "Codigo": "0709.001.470-9",
+    "Tipo": "OPT",
+    "Descricao": "TÓPICOS ESPECIAIS DE DIREITO TRIBUTÁRIO",
+    "Semestre": 99,
+    "Apelido": "TÓPICOS ESPECIAIS DE DIREITO TRIBUTÁRIO",
+    "CargaHorariaTeorico": 34,
+    "CargaHorariaPratica": null,
+    "ListaPrequisitos": [
+      {
+        "Id": 51438,
+        "Codigo": "0709.002.237-1",
+        "Descricao": "DIREITO ADMINISTRATIVO I",
+        "Semestre": "0",
+        "Apelido": "DIREITO ADMINISTRATIVO I",
+        "CargaHorariaTeorico": 0,
+        "CargaHorariaPratica": 0,
+        "ListaPrequisitos": []
+      }
+    ]
+  },
+  {
+    "Id": 47025,
+    "Codigo": "0709.001.474-5",
+    "Tipo": "OPT",
+    "Descricao": "TÓPICOS ESPECIAIS DE FILOSOFIA DO DIREITO",
+    "Semestre": 99,
+    "Apelido": "TÓPICOS ESPECIAIS DE FILOSOFIA DO DIREITO",
+    "CargaHorariaTeorico": 34,
+    "CargaHorariaPratica": null,
+    "ListaPrequisitos": [
+      {
+        "Id": 51436,
+        "Codigo": "0709.002.235-3",
+        "Descricao": "FILOSOFIA GERAL E JURÍDICA",
+        "Semestre": "0",
+        "Apelido": "FILOSOFIA GERAL E JURÍDICA",
+        "CargaHorariaTeorico": 0,
+        "CargaHorariaPratica": 0,
+        "ListaPrequisitos": []
+      }
+    ]
+  },
+  {
+    "Id": 46998,
+    "Codigo": "0709.001.447-8",
+    "Tipo": "OPT",
+    "Descricao": "TÓPICOS ESPECIAIS DE HISTÓRIA DO DIREITO",
+    "Semestre": 99,
+    "Apelido": "TÓPICOS ESPECIAIS DE HISTÓRIA DO DIREITO",
+    "CargaHorariaTeorico": 34,
+    "CargaHorariaPratica": null,
+    "ListaPrequisitos": [
+      {
+        "Id": 51429,
+        "Codigo": "0709.002.228-2",
+        "Descricao": "HISTÓRIA DO DIREITO",
+        "Semestre": "0",
+        "Apelido": "HISTÓRIA DO DIREITO",
+        "CargaHorariaTeorico": 0,
+        "CargaHorariaPratica": 0,
+        "ListaPrequisitos": []
+      }
+    ]
+  },
+  {
+    "Id": 47068,
+    "Codigo": "0709.001.517-0",
+    "Tipo": "OPT",
+    "Descricao": "TÓPICOS ESPECIAIS DE JURISDIÇÃO CONSTITUCIONAL",
+    "Semestre": 99,
+    "Apelido": "TÓPICOS ESPECIAIS DE JURISDIÇÃO CONSTITUCIONAL",
+    "CargaHorariaTeorico": 34,
+    "CargaHorariaPratica": null,
+    "ListaPrequisitos": [
+      {
+        "Id": 51417,
+        "Codigo": "0709.002.216-6",
+        "Descricao": "DIREITO PROCESSUAL CONSTITUCIONAL",
+        "Semestre": "0",
+        "Apelido": "DIREITO PROCESSUAL CONSTITUCIONAL",
+        "CargaHorariaTeorico": 0,
+        "CargaHorariaPratica": 0,
+        "ListaPrequisitos": []
+      }
+    ]
+  },
+  {
+    "Id": 47074,
+    "Codigo": "0709.001.523-2",
+    "Tipo": "OPT",
+    "Descricao": "TÓPICOS ESPECIAIS DE METODOLOGIA DA PESQUISA EM DIREITO",
+    "Semestre": 99,
+    "Apelido": "TÓPICOS ESPECIAIS DE METODOLOGIA DA PESQUISA EM DIREITO",
+    "CargaHorariaTeorico": 34,
+    "CargaHorariaPratica": null,
+    "ListaPrequisitos": [
+      {
+        "Id": 51445,
+        "Codigo": "0709.002.244-2",
+        "Descricao": "INTRODUÇÃO À METODOLOGIA DA PESQUISA",
+        "Semestre": "0",
+        "Apelido": "INTRODUÇÃO À METODOLOGIA DA PESQUISA",
+        "CargaHorariaTeorico": 0,
+        "CargaHorariaPratica": 0,
+        "ListaPrequisitos": []
+      }
+    ]
+  },
+  {
+    "Id": 47071,
+    "Codigo": "0709.001.520-5",
+    "Tipo": "OPT",
+    "Descricao": "TÓPICOS ESPECIAIS DE PROCESSO COLETIVO",
+    "Semestre": 99,
+    "Apelido": "TÓPICOS ESPECIAIS DE PROCESSO COLETIVO",
+    "CargaHorariaTeorico": 34,
+    "CargaHorariaPratica": null,
+    "ListaPrequisitos": [
+      {
+        "Id": 51422,
+        "Codigo": "0709.002.221-9",
+        "Descricao": "TUTELA RECURSAL",
+        "Semestre": "0",
+        "Apelido": "TUTELA RECURSAL",
+        "CargaHorariaTeorico": 0,
+        "CargaHorariaPratica": 0,
+        "ListaPrequisitos": []
+      }
+    ]
+  },
+  {
+    "Id": 47087,
+    "Codigo": "0709.001.536-8",
+    "Tipo": "OPT",
+    "Descricao": "TOPICOS ESPECIAIS DE PROCESSO E DEMOCRACIA",
+    "Semestre": 99,
+    "Apelido": "TOPICOS ESPECIAIS DE PROCESSO E DEMOCRACIA",
+    "CargaHorariaTeorico": 34,
+    "CargaHorariaPratica": null,
+    "ListaPrequisitos": [
+      {
+        "Id": 51421,
+        "Codigo": "0709.002.220-0",
+        "Descricao": "TUTELA DE CONHECIMENTO",
+        "Semestre": "0",
+        "Apelido": "TUTELA DE CONHECIMENTO",
+        "CargaHorariaTeorico": 0,
+        "CargaHorariaPratica": 0,
+        "ListaPrequisitos": []
+      },
+      {
+        "Id": 51423,
+        "Codigo": "0709.002.222-8",
+        "Descricao": "DIREITO PROCESSUAL PENAL II",
+        "Semestre": "0",
+        "Apelido": "DIREITO PROCESSUAL PENAL II",
+        "CargaHorariaTeorico": 0,
+        "CargaHorariaPratica": 0,
+        "ListaPrequisitos": []
+      }
+    ]
+  },
+  {
+    "Id": 46981,
+    "Codigo": "0709.001.430-6",
+    "Tipo": "OPT",
+    "Descricao": "TÓPICOS ESPECIAIS DE PSICOLOGIA APLICADA AO DIREITO",
+    "Semestre": 99,
+    "Apelido": "TÓPICOS ESPECIAIS DE PSICOLOGIA APLICADA AO DIREITO",
+    "CargaHorariaTeorico": 34,
+    "CargaHorariaPratica": null,
+    "ListaPrequisitos": [
+      {
+        "Id": 51454,
+        "Codigo": "0709.002.253-1",
+        "Descricao": "PSICOLOGIA APLICADA AO DIREITO",
+        "Semestre": "0",
+        "Apelido": "PSICOLOGIA APLICADA AO DIREITO",
+        "CargaHorariaTeorico": 0,
+        "CargaHorariaPratica": 0,
+        "ListaPrequisitos": []
+      }
+    ]
+  },
+  {
+    "Id": 47023,
+    "Codigo": "0709.001.472-7",
+    "Tipo": "OPT",
+    "Descricao": "TÓPICOS ESPECIAIS DE RESPONSABILIDADE CIVIL",
+    "Semestre": 99,
+    "Apelido": "TÓPICOS ESPECIAIS DE RESPONSABILIDADE CIVIL",
+    "CargaHorariaTeorico": 34,
+    "CargaHorariaPratica": null,
+    "ListaPrequisitos": [
+      {
+        "Id": 47075,
+        "Codigo": "0709.001.524-1",
+        "Descricao": "TEORIA DO DIREITO PRIVADO II",
+        "Semestre": "0",
+        "Apelido": "TEORIA DO DIREITO PRIVADO II",
+        "CargaHorariaTeorico": 0,
+        "CargaHorariaPratica": 0,
+        "ListaPrequisitos": []
+      }
+    ]
+  },
+  {
+    "Id": 47024,
+    "Codigo": "0709.001.473-6",
+    "Tipo": "OPT",
+    "Descricao": "TÓPICOS ESPECIAIS DE SOCIOLOGIA JURÍDICA",
+    "Semestre": 99,
+    "Apelido": "TÓPICOS ESPECIAIS DE SOCIOLOGIA JURÍDICA",
+    "CargaHorariaTeorico": 34,
+    "CargaHorariaPratica": null,
+    "ListaPrequisitos": [
+      {
+        "Id": 34491,
+        "Codigo": "0709.000.006-1",
+        "Descricao": "SOCIOLOGIA JURÍDICA",
+        "Semestre": "0",
+        "Apelido": "SOCIOLOGIA JURÍDICA",
+        "CargaHorariaTeorico": 0,
+        "CargaHorariaPratica": 0,
+        "ListaPrequisitos": []
+      }
+    ]
+  },
+  {
+    "Id": 46979,
+    "Codigo": "0709.001.428-0",
+    "Tipo": "OPT",
+    "Descricao": "TÓPICOS ESPECIAIS DE TEORIA DO DIREITO",
+    "Semestre": 99,
+    "Apelido": "TÓPICOS ESPECIAIS DE TEORIA DO DIREITO",
+    "CargaHorariaTeorico": 34,
+    "CargaHorariaPratica": null,
+    "ListaPrequisitos": [
+      {
+        "Id": 51426,
+        "Codigo": "0709.002.225-5",
+        "Descricao": "TEORIA DO DIREITO",
+        "Semestre": "0",
+        "Apelido": "TEORIA DO DIREITO",
+        "CargaHorariaTeorico": 0,
+        "CargaHorariaPratica": 0,
+        "ListaPrequisitos": []
+      }
+    ]
+  },
+  {
+    "Id": 47069,
+    "Codigo": "0709.001.518-0",
+    "Tipo": "OPT",
+    "Descricao": "TÓPICOS ESPECIAIS EM FORMAS CONSENSUAIS DE SOLUÇÃO DE CONFLITOS",
+    "Semestre": 99,
+    "Apelido": "TÓPICOS ESPECIAIS EM FORMAS CONSENSUAIS DE SOLUÇÃO DE CONFLITOS",
+    "CargaHorariaTeorico": 34,
+    "CargaHorariaPratica": null,
+    "ListaPrequisitos": [
+      {
+        "Id": 47078,
+        "Codigo": "0709.001.527-9",
+        "Descricao": "FORMAS CONSENSUAIS DE SOLUÇÃO DE CONFLITOS",
+        "Semestre": "0",
+        "Apelido": "FORMAS CONSENSUAIS DE SOLUÇÃO DE CONFLITOS",
+        "CargaHorariaTeorico": 0,
+        "CargaHorariaPratica": 0,
+        "ListaPrequisitos": []
+      }
+    ]
+  },
+  {
+    "Id": 47070,
+    "Codigo": "0709.001.519-9",
+    "Tipo": "OPT",
+    "Descricao": "TÓPICOS ESPECIAIS EM NOVAS RELAÇÕES PRIVADAS",
+    "Semestre": 99,
+    "Apelido": "TÓPICOS ESPECIAIS EM NOVAS RELAÇÕES PRIVADAS",
+    "CargaHorariaTeorico": 34,
+    "CargaHorariaPratica": null,
+    "ListaPrequisitos": [
+      {
+        "Id": 47075,
+        "Codigo": "0709.001.524-1",
+        "Descricao": "TEORIA DO DIREITO PRIVADO II",
+        "Semestre": "0",
+        "Apelido": "TEORIA DO DIREITO PRIVADO II",
+        "CargaHorariaTeorico": 0,
+        "CargaHorariaPratica": 0,
+        "ListaPrequisitos": []
+      }
+    ]
+  },
+  {
+    "Id": 51434,
+    "Codigo": "0709.002.233-5",
+    "Tipo": "OPT",
+    "Descricao": "TUTELA DOS DIREITOS HUMANOS NO SISTEMA INTERAMERICANO",
+    "Semestre": 99,
+    "Apelido": "TUTELA DOS DIREITOS HUMANOS NO SISTEMA INTERAMERICANO",
+    "CargaHorariaTeorico": 68,
+    "CargaHorariaPratica": null,
+    "ListaPrequisitos": []
+  }
+]

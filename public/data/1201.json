@@ -1,0 +1,3380 @@
+[
+  {
+    "Id": 41632,
+    "Codigo": "2701.000.233-4",
+    "Tipo": "OBR",
+    "Descricao": "ANATOMIA DOS ANIMAIS DOMÉSTICOS I",
+    "Semestre": 1,
+    "Apelido": "ANATOMIA DOS ANIMAIS DOMÉSTICOS I",
+    "CargaHorariaTeorico": 102,
+    "CargaHorariaPratica": null,
+    "ListaPrequisitos": []
+  },
+  {
+    "Id": 41633,
+    "Codigo": "2701.000.234-2",
+    "Tipo": "OBR",
+    "Descricao": "BIOQUÍMICA VETERINÁRIA I",
+    "Semestre": 1,
+    "Apelido": "BIOQUÍMICA VETERINÁRIA I",
+    "CargaHorariaTeorico": 51,
+    "CargaHorariaPratica": null,
+    "ListaPrequisitos": []
+  },
+  {
+    "Id": 47858,
+    "Codigo": "2701.000.324-0",
+    "Tipo": "OBR",
+    "Descricao": "EMBRIOLOGIA VETERINÁRIA",
+    "Semestre": 1,
+    "Apelido": "EMBRIOLOGIA VETERINÁRIA",
+    "CargaHorariaTeorico": 51,
+    "CargaHorariaPratica": null,
+    "ListaPrequisitos": []
+  },
+  {
+    "Id": 36843,
+    "Codigo": "1203.000.129-7",
+    "Tipo": "OBR",
+    "Descricao": "GENÉTICA VETERINÁRIA",
+    "Semestre": 1,
+    "Apelido": "GENÉTICA VETERINÁRIA",
+    "CargaHorariaTeorico": 51,
+    "CargaHorariaPratica": null,
+    "ListaPrequisitos": []
+  },
+  {
+    "Id": 47838,
+    "Codigo": "2701.000.319-7",
+    "Tipo": "OBR",
+    "Descricao": "HISTOLOGIA BÁSICA",
+    "Semestre": 1,
+    "Apelido": "HISTOLOGIA BÁSICA",
+    "CargaHorariaTeorico": 51,
+    "CargaHorariaPratica": null,
+    "ListaPrequisitos": []
+  },
+  {
+    "Id": 47817,
+    "Codigo": "1203.000.191-4",
+    "Tipo": "OBR",
+    "Descricao": "INTRODUÇÃO À MEDICINA VETERINÁRIA",
+    "Semestre": 1,
+    "Apelido": "INTRODUÇÃO À MEDICINA VETERINÁRIA",
+    "CargaHorariaTeorico": 34,
+    "CargaHorariaPratica": null,
+    "ListaPrequisitos": []
+  },
+  {
+    "Id": 41636,
+    "Codigo": "2701.000.237-7",
+    "Tipo": "OBR",
+    "Descricao": "ANATOMIA DOS ANIMAIS DOMÉSTICOS II",
+    "Semestre": 2,
+    "Apelido": "ANATOMIA DOS ANIMAIS DOMÉSTICOS II",
+    "CargaHorariaTeorico": 102,
+    "CargaHorariaPratica": null,
+    "ListaPrequisitos": [
+      {
+        "Id": 41632,
+        "Codigo": "2701.000.233-4",
+        "Descricao": "ANATOMIA DOS ANIMAIS DOMÉSTICOS I",
+        "Semestre": "0",
+        "Apelido": "ANATOMIA DOS ANIMAIS DOMÉSTICOS I",
+        "CargaHorariaTeorico": 0,
+        "CargaHorariaPratica": 0,
+        "ListaPrequisitos": []
+      }
+    ]
+  },
+  {
+    "Id": 47818,
+    "Codigo": "1203.000.192-3",
+    "Tipo": "OBR",
+    "Descricao": "BIOESTATÍSTICA E EXPERIMENTAÇÃO",
+    "Semestre": 2,
+    "Apelido": "BIOESTATÍSTICA E EXPERIMENTAÇÃO",
+    "CargaHorariaTeorico": 51,
+    "CargaHorariaPratica": null,
+    "ListaPrequisitos": []
+  },
+  {
+    "Id": 41637,
+    "Codigo": "2701.000.238-5",
+    "Tipo": "OBR",
+    "Descricao": "BIOQUÍMICA VETERINÁRIA II",
+    "Semestre": 2,
+    "Apelido": "BIOQUÍMICA VETERINÁRIA II",
+    "CargaHorariaTeorico": 34,
+    "CargaHorariaPratica": null,
+    "ListaPrequisitos": [
+      {
+        "Id": 41633,
+        "Codigo": "2701.000.234-2",
+        "Descricao": "BIOQUÍMICA VETERINÁRIA I",
+        "Semestre": "0",
+        "Apelido": "BIOQUÍMICA VETERINÁRIA I",
+        "CargaHorariaTeorico": 0,
+        "CargaHorariaPratica": 0,
+        "ListaPrequisitos": []
+      }
+    ]
+  },
+  {
+    "Id": 47841,
+    "Codigo": "2701.000.320-3",
+    "Tipo": "OBR",
+    "Descricao": "FISIOLOGIA VETERINÁRIA I",
+    "Semestre": 2,
+    "Apelido": "FISIOLOGIA VETERINÁRIA I",
+    "CargaHorariaTeorico": 68,
+    "CargaHorariaPratica": null,
+    "ListaPrequisitos": [
+      {
+        "Id": 41632,
+        "Codigo": "2701.000.233-4",
+        "Descricao": "ANATOMIA DOS ANIMAIS DOMÉSTICOS I",
+        "Semestre": "0",
+        "Apelido": "ANATOMIA DOS ANIMAIS DOMÉSTICOS I",
+        "CargaHorariaTeorico": 0,
+        "CargaHorariaPratica": 0,
+        "ListaPrequisitos": []
+      }
+    ]
+  },
+  {
+    "Id": 47862,
+    "Codigo": "2701.000.325-9",
+    "Tipo": "OBR",
+    "Descricao": "HISTOLOGIA DOS ANIMAIS DOMÉSTICOS",
+    "Semestre": 2,
+    "Apelido": "HISTOLOGIA DOS ANIMAIS DOMÉSTICOS",
+    "CargaHorariaTeorico": 51,
+    "CargaHorariaPratica": null,
+    "ListaPrequisitos": [
+      {
+        "Id": 47838,
+        "Codigo": "2701.000.319-7",
+        "Descricao": "HISTOLOGIA BÁSICA",
+        "Semestre": "0",
+        "Apelido": "HISTOLOGIA BÁSICA",
+        "CargaHorariaTeorico": 0,
+        "CargaHorariaPratica": 0,
+        "ListaPrequisitos": []
+      }
+    ]
+  },
+  {
+    "Id": 47816,
+    "Codigo": "1203.000.190-5",
+    "Tipo": "OBR",
+    "Descricao": "SOCIEDADE, MEIO AMBIENTE E SUSTENTABILIDADE",
+    "Semestre": 2,
+    "Apelido": "SOCIEDADE, MEIO AMBIENTE E SUSTENTABILIDADE",
+    "CargaHorariaTeorico": 34,
+    "CargaHorariaPratica": null,
+    "ListaPrequisitos": []
+  },
+  {
+    "Id": 36884,
+    "Codigo": "1203.000.157-2",
+    "Tipo": "OBR",
+    "Descricao": "DEONTOLOGIA VETERINÁRIA E MEDICINA VETERINÁRIA LEGAL",
+    "Semestre": 3,
+    "Apelido": "DEONTOLOGIA VETERINÁRIA E MEDICINA VETERINÁRIA LEGAL",
+    "CargaHorariaTeorico": 34,
+    "CargaHorariaPratica": null,
+    "ListaPrequisitos": []
+  },
+  {
+    "Id": 47815,
+    "Codigo": "1203.000.189-9",
+    "Tipo": "OBR",
+    "Descricao": "EXTENSÃO E COMUNICAÇÃO NAS CIÊNCIAS VETERINÁRIAS",
+    "Semestre": 3,
+    "Apelido": "EXTENSÃO E COMUNICAÇÃO NAS CIÊNCIAS VETERINÁRIAS",
+    "CargaHorariaTeorico": 34,
+    "CargaHorariaPratica": null,
+    "ListaPrequisitos": []
+  },
+  {
+    "Id": 41643,
+    "Codigo": "2601.000.193-3",
+    "Tipo": "OBR",
+    "Descricao": "FARMACOLOGIA VETERINÁRIA",
+    "Semestre": 3,
+    "Apelido": "FARMACOLOGIA VETERINÁRIA",
+    "CargaHorariaTeorico": 68,
+    "CargaHorariaPratica": null,
+    "ListaPrequisitos": [
+      {
+        "Id": 47841,
+        "Codigo": "2701.000.320-3",
+        "Descricao": "FISIOLOGIA VETERINÁRIA I",
+        "Semestre": "0",
+        "Apelido": "FISIOLOGIA VETERINÁRIA I",
+        "CargaHorariaTeorico": 0,
+        "CargaHorariaPratica": 0,
+        "ListaPrequisitos": []
+      }
+    ]
+  },
+  {
+    "Id": 47829,
+    "Codigo": "2701.000.317-9",
+    "Tipo": "OBR",
+    "Descricao": "FISIOLOGIA VETERINÁRIA II",
+    "Semestre": 3,
+    "Apelido": "FISIOLOGIA VETERINÁRIA II",
+    "CargaHorariaTeorico": 68,
+    "CargaHorariaPratica": null,
+    "ListaPrequisitos": [
+      {
+        "Id": 47841,
+        "Codigo": "2701.000.320-3",
+        "Descricao": "FISIOLOGIA VETERINÁRIA I",
+        "Semestre": "0",
+        "Apelido": "FISIOLOGIA VETERINÁRIA I",
+        "CargaHorariaTeorico": 0,
+        "CargaHorariaPratica": 0,
+        "ListaPrequisitos": []
+      }
+    ]
+  },
+  {
+    "Id": 47830,
+    "Codigo": "2701.000.318-8",
+    "Tipo": "OBR",
+    "Descricao": "IMUNOLOGIA VETERINÁRIA",
+    "Semestre": 3,
+    "Apelido": "IMUNOLOGIA VETERINÁRIA",
+    "CargaHorariaTeorico": 68,
+    "CargaHorariaPratica": null,
+    "ListaPrequisitos": []
+  },
+  {
+    "Id": 47847,
+    "Codigo": "2701.000.323-0",
+    "Tipo": "OBR",
+    "Descricao": "MICROBIOLOGIA VETERINÁRIA I",
+    "Semestre": 3,
+    "Apelido": "MICROBIOLOGIA VETERINÁRIA I",
+    "CargaHorariaTeorico": 51,
+    "CargaHorariaPratica": null,
+    "ListaPrequisitos": []
+  },
+  {
+    "Id": 47846,
+    "Codigo": "2701.000.322-1",
+    "Tipo": "OBR",
+    "Descricao": "PARASITOLOGIA VETERINÁRIA I",
+    "Semestre": 3,
+    "Apelido": "PARASITOLOGIA VETERINÁRIA I",
+    "CargaHorariaTeorico": 51,
+    "CargaHorariaPratica": null,
+    "ListaPrequisitos": []
+  },
+  {
+    "Id": 36858,
+    "Codigo": "1203.000.132-7",
+    "Tipo": "OBR",
+    "Descricao": "AGROSTOLOGIA E CONSERVAÇÃO DE SOLOS",
+    "Semestre": 4,
+    "Apelido": "AGROSTOLOGIA E CONSERVAÇÃO DE SOLOS",
+    "CargaHorariaTeorico": 51,
+    "CargaHorariaPratica": null,
+    "ListaPrequisitos": []
+  },
+  {
+    "Id": 36853,
+    "Codigo": "1203.000.131-9",
+    "Tipo": "OBR",
+    "Descricao": "ALIMENTAÇÃO E NUTRIÇÃO ANIMAL",
+    "Semestre": 4,
+    "Apelido": "ALIMENTAÇÃO E NUTRIÇÃO ANIMAL",
+    "CargaHorariaTeorico": 51,
+    "CargaHorariaPratica": null,
+    "ListaPrequisitos": [
+      {
+        "Id": 47829,
+        "Codigo": "2701.000.317-9",
+        "Descricao": "FISIOLOGIA VETERINÁRIA II",
+        "Semestre": "0",
+        "Apelido": "FISIOLOGIA VETERINÁRIA II",
+        "CargaHorariaTeorico": 0,
+        "CargaHorariaPratica": 0,
+        "ListaPrequisitos": []
+      }
+    ]
+  },
+  {
+    "Id": 36868,
+    "Codigo": "1203.000.142-4",
+    "Tipo": "OBR",
+    "Descricao": "ETOLOGIA E BEM-ESTAR ANIMAL",
+    "Semestre": 4,
+    "Apelido": "ETOLOGIA E BEM-ESTAR ANIMAL",
+    "CargaHorariaTeorico": 34,
+    "CargaHorariaPratica": null,
+    "ListaPrequisitos": []
+  },
+  {
+    "Id": 36870,
+    "Codigo": "1203.000.144-0",
+    "Tipo": "OBR",
+    "Descricao": "MELHORAMENTO GENÉTICO ANIMAL",
+    "Semestre": 4,
+    "Apelido": "MELHORAMENTO GENÉTICO ANIMAL",
+    "CargaHorariaTeorico": 51,
+    "CargaHorariaPratica": null,
+    "ListaPrequisitos": [
+      {
+        "Id": 36843,
+        "Codigo": "1203.000.129-7",
+        "Descricao": "GENÉTICA VETERINÁRIA",
+        "Semestre": "0",
+        "Apelido": "GENÉTICA VETERINÁRIA",
+        "CargaHorariaTeorico": 0,
+        "CargaHorariaPratica": 0,
+        "ListaPrequisitos": []
+      }
+    ]
+  },
+  {
+    "Id": 41644,
+    "Codigo": "2701.000.245-8",
+    "Tipo": "OBR",
+    "Descricao": "MICROBIOLOGIA VETERINÁRIA II",
+    "Semestre": 4,
+    "Apelido": "MICROBIOLOGIA VETERINÁRIA II",
+    "CargaHorariaTeorico": 51,
+    "CargaHorariaPratica": null,
+    "ListaPrequisitos": []
+  },
+  {
+    "Id": 47811,
+    "Codigo": "2701.000.315-0",
+    "Tipo": "OBR",
+    "Descricao": "PARASITOLOGIA VETERINÁRIA II",
+    "Semestre": 4,
+    "Apelido": "PARASITOLOGIA VETERINÁRIA II",
+    "CargaHorariaTeorico": 51,
+    "CargaHorariaPratica": null,
+    "ListaPrequisitos": [
+      {
+        "Id": 47846,
+        "Codigo": "2701.000.322-1",
+        "Descricao": "PARASITOLOGIA VETERINÁRIA I",
+        "Semestre": "0",
+        "Apelido": "PARASITOLOGIA VETERINÁRIA I",
+        "CargaHorariaTeorico": 0,
+        "CargaHorariaPratica": 0,
+        "ListaPrequisitos": []
+      }
+    ]
+  },
+  {
+    "Id": 47814,
+    "Codigo": "2701.000.316-0",
+    "Tipo": "OBR",
+    "Descricao": "PATOLOGIA GERAL",
+    "Semestre": 4,
+    "Apelido": "PATOLOGIA GERAL",
+    "CargaHorariaTeorico": 51,
+    "CargaHorariaPratica": null,
+    "ListaPrequisitos": [
+      {
+        "Id": 47862,
+        "Codigo": "2701.000.325-9",
+        "Descricao": "HISTOLOGIA DOS ANIMAIS DOMÉSTICOS",
+        "Semestre": "0",
+        "Apelido": "HISTOLOGIA DOS ANIMAIS DOMÉSTICOS",
+        "CargaHorariaTeorico": 0,
+        "CargaHorariaPratica": 0,
+        "ListaPrequisitos": []
+      }
+    ]
+  },
+  {
+    "Id": 36422,
+    "Codigo": "1203.000.069-0",
+    "Tipo": "OBR",
+    "Descricao": "PRINCÍPIOS DE ADMINISTRAÇÃO",
+    "Semestre": 4,
+    "Apelido": "PRINCÍPIOS DE ADMINISTRAÇÃO",
+    "CargaHorariaTeorico": 51,
+    "CargaHorariaPratica": null,
+    "ListaPrequisitos": []
+  },
+  {
+    "Id": 36423,
+    "Codigo": "1203.000.070-3",
+    "Tipo": "OBR",
+    "Descricao": "PRINCÍPIOS DE ECONOMIA",
+    "Semestre": 4,
+    "Apelido": "PRINCÍPIOS DE ECONOMIA",
+    "CargaHorariaTeorico": 51,
+    "CargaHorariaPratica": null,
+    "ListaPrequisitos": []
+  },
+  {
+    "Id": 36866,
+    "Codigo": "1203.000.140-8",
+    "Tipo": "OBR",
+    "Descricao": "DOENÇAS INFECCIOSAS I",
+    "Semestre": 5,
+    "Apelido": "DOENÇAS INFECCIOSAS I",
+    "CargaHorariaTeorico": 51,
+    "CargaHorariaPratica": null,
+    "ListaPrequisitos": [
+      {
+        "Id": 47847,
+        "Codigo": "2701.000.323-0",
+        "Descricao": "MICROBIOLOGIA VETERINÁRIA I",
+        "Semestre": "0",
+        "Apelido": "MICROBIOLOGIA VETERINÁRIA I",
+        "CargaHorariaTeorico": 0,
+        "CargaHorariaPratica": 0,
+        "ListaPrequisitos": []
+      }
+    ]
+  },
+  {
+    "Id": 47801,
+    "Codigo": "1203.000.177-2",
+    "Tipo": "OBR",
+    "Descricao": "EPIDEMIOLOGIA",
+    "Semestre": 5,
+    "Apelido": "EPIDEMIOLOGIA",
+    "CargaHorariaTeorico": 51,
+    "CargaHorariaPratica": null,
+    "ListaPrequisitos": [
+      {
+        "Id": 47818,
+        "Codigo": "1203.000.192-3",
+        "Descricao": "BIOESTATÍSTICA E EXPERIMENTAÇÃO",
+        "Semestre": "0",
+        "Apelido": "BIOESTATÍSTICA E EXPERIMENTAÇÃO",
+        "CargaHorariaTeorico": 0,
+        "CargaHorariaPratica": 0,
+        "ListaPrequisitos": []
+      }
+    ]
+  },
+  {
+    "Id": 47863,
+    "Codigo": "1203.000.226-0",
+    "Tipo": "OBR",
+    "Descricao": "PATOLOGIA CLÍNICA VETERINÁRIA",
+    "Semestre": 5,
+    "Apelido": "PATOLOGIA CLÍNICA VETERINÁRIA",
+    "CargaHorariaTeorico": 68,
+    "CargaHorariaPratica": null,
+    "ListaPrequisitos": [
+      {
+        "Id": 47829,
+        "Codigo": "2701.000.317-9",
+        "Descricao": "FISIOLOGIA VETERINÁRIA II",
+        "Semestre": "0",
+        "Apelido": "FISIOLOGIA VETERINÁRIA II",
+        "CargaHorariaTeorico": 0,
+        "CargaHorariaPratica": 0,
+        "ListaPrequisitos": []
+      }
+    ]
+  },
+  {
+    "Id": 47852,
+    "Codigo": "1203.000.217-0",
+    "Tipo": "OBR",
+    "Descricao": "PATOLOGIA ESPECIAL VETERINÁRIA",
+    "Semestre": 5,
+    "Apelido": "PATOLOGIA ESPECIAL VETERINÁRIA",
+    "CargaHorariaTeorico": 102,
+    "CargaHorariaPratica": null,
+    "ListaPrequisitos": [
+      {
+        "Id": 47814,
+        "Codigo": "2701.000.316-0",
+        "Descricao": "PATOLOGIA GERAL",
+        "Semestre": "0",
+        "Apelido": "PATOLOGIA GERAL",
+        "CargaHorariaTeorico": 0,
+        "CargaHorariaPratica": 0,
+        "ListaPrequisitos": []
+      }
+    ]
+  },
+  {
+    "Id": 47833,
+    "Codigo": "1203.000.203-6",
+    "Tipo": "OBR",
+    "Descricao": "PRODUÇÃO ANIMAL I",
+    "Semestre": 5,
+    "Apelido": "PRODUÇÃO ANIMAL I",
+    "CargaHorariaTeorico": 68,
+    "CargaHorariaPratica": null,
+    "ListaPrequisitos": [
+      {
+        "Id": 36853,
+        "Codigo": "1203.000.131-9",
+        "Descricao": "ALIMENTAÇÃO E NUTRIÇÃO ANIMAL",
+        "Semestre": "0",
+        "Apelido": "ALIMENTAÇÃO E NUTRIÇÃO ANIMAL",
+        "CargaHorariaTeorico": 0,
+        "CargaHorariaPratica": 0,
+        "ListaPrequisitos": []
+      }
+    ]
+  },
+  {
+    "Id": 36863,
+    "Codigo": "1203.000.137-8",
+    "Tipo": "OBR",
+    "Descricao": "SEMIOLOGIA VETERINÁRIA",
+    "Semestre": 5,
+    "Apelido": "SEMIOLOGIA VETERINÁRIA",
+    "CargaHorariaTeorico": 85,
+    "CargaHorariaPratica": null,
+    "ListaPrequisitos": [
+      {
+        "Id": 41636,
+        "Codigo": "2701.000.237-7",
+        "Descricao": "ANATOMIA DOS ANIMAIS DOMÉSTICOS II",
+        "Semestre": "0",
+        "Apelido": "ANATOMIA DOS ANIMAIS DOMÉSTICOS II",
+        "CargaHorariaTeorico": 0,
+        "CargaHorariaPratica": 0,
+        "ListaPrequisitos": []
+      },
+      {
+        "Id": 47829,
+        "Codigo": "2701.000.317-9",
+        "Descricao": "FISIOLOGIA VETERINÁRIA II",
+        "Semestre": "0",
+        "Apelido": "FISIOLOGIA VETERINÁRIA II",
+        "CargaHorariaTeorico": 0,
+        "CargaHorariaPratica": 0,
+        "ListaPrequisitos": []
+      }
+    ]
+  },
+  {
+    "Id": 36860,
+    "Codigo": "1203.000.134-3",
+    "Tipo": "OBR",
+    "Descricao": "ANESTESIOLOGIA VETERINÁRIA",
+    "Semestre": 6,
+    "Apelido": "ANESTESIOLOGIA VETERINÁRIA",
+    "CargaHorariaTeorico": 85,
+    "CargaHorariaPratica": null,
+    "ListaPrequisitos": [
+      {
+        "Id": 41643,
+        "Codigo": "2601.000.193-3",
+        "Descricao": "FARMACOLOGIA VETERINÁRIA",
+        "Semestre": "0",
+        "Apelido": "FARMACOLOGIA VETERINÁRIA",
+        "CargaHorariaTeorico": 0,
+        "CargaHorariaPratica": 0,
+        "ListaPrequisitos": []
+      }
+    ]
+  },
+  {
+    "Id": 36867,
+    "Codigo": "1203.000.141-6",
+    "Tipo": "OBR",
+    "Descricao": "DIAGNÓSTICO POR IMAGEM",
+    "Semestre": 6,
+    "Apelido": "DIAGNÓSTICO POR IMAGEM",
+    "CargaHorariaTeorico": 68,
+    "CargaHorariaPratica": null,
+    "ListaPrequisitos": [
+      {
+        "Id": 41636,
+        "Codigo": "2701.000.237-7",
+        "Descricao": "ANATOMIA DOS ANIMAIS DOMÉSTICOS II",
+        "Semestre": "0",
+        "Apelido": "ANATOMIA DOS ANIMAIS DOMÉSTICOS II",
+        "CargaHorariaTeorico": 0,
+        "CargaHorariaPratica": 0,
+        "ListaPrequisitos": []
+      }
+    ]
+  },
+  {
+    "Id": 47864,
+    "Codigo": "1203.000.227-9",
+    "Tipo": "OBR",
+    "Descricao": "DOENÇAS PARASITÁRIAS",
+    "Semestre": 6,
+    "Apelido": "DOENÇAS PARASITÁRIAS",
+    "CargaHorariaTeorico": 68,
+    "CargaHorariaPratica": null,
+    "ListaPrequisitos": [
+      {
+        "Id": 47811,
+        "Codigo": "2701.000.315-0",
+        "Descricao": "PARASITOLOGIA VETERINÁRIA II",
+        "Semestre": "0",
+        "Apelido": "PARASITOLOGIA VETERINÁRIA II",
+        "CargaHorariaTeorico": 0,
+        "CargaHorariaPratica": 0,
+        "ListaPrequisitos": []
+      }
+    ]
+  },
+  {
+    "Id": 47789,
+    "Codigo": "1203.000.165-6",
+    "Tipo": "OBR",
+    "Descricao": "INSPEÇÃO E TECNOLOGIA DE CARNES E DERIVADOS",
+    "Semestre": 6,
+    "Apelido": "INSPEÇÃO E TECNOLOGIA DE CARNES E DERIVADOS",
+    "CargaHorariaTeorico": 68,
+    "CargaHorariaPratica": null,
+    "ListaPrequisitos": [
+      {
+        "Id": 41633,
+        "Codigo": "2701.000.234-2",
+        "Descricao": "BIOQUÍMICA VETERINÁRIA I",
+        "Semestre": "0",
+        "Apelido": "BIOQUÍMICA VETERINÁRIA I",
+        "CargaHorariaTeorico": 0,
+        "CargaHorariaPratica": 0,
+        "ListaPrequisitos": []
+      },
+      {
+        "Id": 47847,
+        "Codigo": "2701.000.323-0",
+        "Descricao": "MICROBIOLOGIA VETERINÁRIA I",
+        "Semestre": "0",
+        "Apelido": "MICROBIOLOGIA VETERINÁRIA I",
+        "CargaHorariaTeorico": 0,
+        "CargaHorariaPratica": 0,
+        "ListaPrequisitos": []
+      }
+    ]
+  },
+  {
+    "Id": 47851,
+    "Codigo": "1203.000.216-1",
+    "Tipo": "OBR",
+    "Descricao": "PRODUÇÃO ANIMAL II",
+    "Semestre": 6,
+    "Apelido": "PRODUÇÃO ANIMAL II",
+    "CargaHorariaTeorico": 102,
+    "CargaHorariaPratica": null,
+    "ListaPrequisitos": [
+      {
+        "Id": 36853,
+        "Codigo": "1203.000.131-9",
+        "Descricao": "ALIMENTAÇÃO E NUTRIÇÃO ANIMAL",
+        "Semestre": "0",
+        "Apelido": "ALIMENTAÇÃO E NUTRIÇÃO ANIMAL",
+        "CargaHorariaTeorico": 0,
+        "CargaHorariaPratica": 0,
+        "ListaPrequisitos": []
+      },
+      {
+        "Id": 36858,
+        "Codigo": "1203.000.132-7",
+        "Descricao": "AGROSTOLOGIA E CONSERVAÇÃO DE SOLOS",
+        "Semestre": "0",
+        "Apelido": "AGROSTOLOGIA E CONSERVAÇÃO DE SOLOS",
+        "CargaHorariaTeorico": 0,
+        "CargaHorariaPratica": 0,
+        "ListaPrequisitos": []
+      },
+      {
+        "Id": 36870,
+        "Codigo": "1203.000.144-0",
+        "Descricao": "MELHORAMENTO GENÉTICO ANIMAL",
+        "Semestre": "0",
+        "Apelido": "MELHORAMENTO GENÉTICO ANIMAL",
+        "CargaHorariaTeorico": 0,
+        "CargaHorariaPratica": 0,
+        "ListaPrequisitos": []
+      }
+    ]
+  },
+  {
+    "Id": 47813,
+    "Codigo": "1203.000.188-0",
+    "Tipo": "OBR",
+    "Descricao": "SAÚDE PÚBLICA",
+    "Semestre": 6,
+    "Apelido": "SAÚDE PÚBLICA",
+    "CargaHorariaTeorico": 51,
+    "CargaHorariaPratica": null,
+    "ListaPrequisitos": []
+  },
+  {
+    "Id": 36871,
+    "Codigo": "1203.000.145-9",
+    "Tipo": "OBR",
+    "Descricao": "TÉCNICA CIRÚRGICA VETERINÁRIA",
+    "Semestre": 6,
+    "Apelido": "TÉCNICA CIRÚRGICA VETERINÁRIA",
+    "CargaHorariaTeorico": 85,
+    "CargaHorariaPratica": null,
+    "ListaPrequisitos": [
+      {
+        "Id": 36863,
+        "Codigo": "1203.000.137-8",
+        "Descricao": "SEMIOLOGIA VETERINÁRIA",
+        "Semestre": "0",
+        "Apelido": "SEMIOLOGIA VETERINÁRIA",
+        "CargaHorariaTeorico": 0,
+        "CargaHorariaPratica": 0,
+        "ListaPrequisitos": []
+      }
+    ]
+  },
+  {
+    "Id": 36872,
+    "Codigo": "1203.000.146-7",
+    "Tipo": "OBR",
+    "Descricao": "CLÍNICA CIRÚRGICA VETERINÁRIA",
+    "Semestre": 7,
+    "Apelido": "CLÍNICA CIRÚRGICA VETERINÁRIA",
+    "CargaHorariaTeorico": 102,
+    "CargaHorariaPratica": null,
+    "ListaPrequisitos": [
+      {
+        "Id": 36871,
+        "Codigo": "1203.000.145-9",
+        "Descricao": "TÉCNICA CIRÚRGICA VETERINÁRIA",
+        "Semestre": "0",
+        "Apelido": "TÉCNICA CIRÚRGICA VETERINÁRIA",
+        "CargaHorariaTeorico": 0,
+        "CargaHorariaPratica": 0,
+        "ListaPrequisitos": []
+      }
+    ]
+  },
+  {
+    "Id": 47853,
+    "Codigo": "1203.000.218-0",
+    "Tipo": "OBR",
+    "Descricao": "CLÍNICA MÉDICA E TERAPÊUTICA DE PEQUENOS ANIMAIS I",
+    "Semestre": 7,
+    "Apelido": "CLÍNICA MÉDICA E TERAPÊUTICA DE PEQUENOS ANIMAIS I",
+    "CargaHorariaTeorico": 85,
+    "CargaHorariaPratica": null,
+    "ListaPrequisitos": [
+      {
+        "Id": 36863,
+        "Codigo": "1203.000.137-8",
+        "Descricao": "SEMIOLOGIA VETERINÁRIA",
+        "Semestre": "0",
+        "Apelido": "SEMIOLOGIA VETERINÁRIA",
+        "CargaHorariaTeorico": 0,
+        "CargaHorariaPratica": 0,
+        "ListaPrequisitos": []
+      },
+      {
+        "Id": 36867,
+        "Codigo": "1203.000.141-6",
+        "Descricao": "DIAGNÓSTICO POR IMAGEM",
+        "Semestre": "0",
+        "Apelido": "DIAGNÓSTICO POR IMAGEM",
+        "CargaHorariaTeorico": 0,
+        "CargaHorariaPratica": 0,
+        "ListaPrequisitos": []
+      },
+      {
+        "Id": 41643,
+        "Codigo": "2601.000.193-3",
+        "Descricao": "FARMACOLOGIA VETERINÁRIA",
+        "Semestre": "0",
+        "Apelido": "FARMACOLOGIA VETERINÁRIA",
+        "CargaHorariaTeorico": 0,
+        "CargaHorariaPratica": 0,
+        "ListaPrequisitos": []
+      },
+      {
+        "Id": 47863,
+        "Codigo": "1203.000.226-0",
+        "Descricao": "PATOLOGIA CLÍNICA VETERINÁRIA",
+        "Semestre": "0",
+        "Apelido": "PATOLOGIA CLÍNICA VETERINÁRIA",
+        "CargaHorariaTeorico": 0,
+        "CargaHorariaPratica": 0,
+        "ListaPrequisitos": []
+      }
+    ]
+  },
+  {
+    "Id": 47854,
+    "Codigo": "1203.000.219-9",
+    "Tipo": "OBR",
+    "Descricao": "DOENÇAS INFECCIOSAS II",
+    "Semestre": 7,
+    "Apelido": "DOENÇAS INFECCIOSAS II",
+    "CargaHorariaTeorico": 51,
+    "CargaHorariaPratica": null,
+    "ListaPrequisitos": [
+      {
+        "Id": 41644,
+        "Codigo": "2701.000.245-8",
+        "Descricao": "MICROBIOLOGIA VETERINÁRIA II",
+        "Semestre": "0",
+        "Apelido": "MICROBIOLOGIA VETERINÁRIA II",
+        "CargaHorariaTeorico": 0,
+        "CargaHorariaPratica": 0,
+        "ListaPrequisitos": []
+      }
+    ]
+  },
+  {
+    "Id": 47794,
+    "Codigo": "1203.000.170-9",
+    "Tipo": "OBR",
+    "Descricao": "GINECOLOGIA E BIOTECNOLOGIA DA FÊMEA",
+    "Semestre": 7,
+    "Apelido": "GINECOLOGIA E BIOTECNOLOGIA DA FÊMEA",
+    "CargaHorariaTeorico": 102,
+    "CargaHorariaPratica": null,
+    "ListaPrequisitos": [
+      {
+        "Id": 36863,
+        "Codigo": "1203.000.137-8",
+        "Descricao": "SEMIOLOGIA VETERINÁRIA",
+        "Semestre": "0",
+        "Apelido": "SEMIOLOGIA VETERINÁRIA",
+        "CargaHorariaTeorico": 0,
+        "CargaHorariaPratica": 0,
+        "ListaPrequisitos": []
+      },
+      {
+        "Id": 47852,
+        "Codigo": "1203.000.217-0",
+        "Descricao": "PATOLOGIA ESPECIAL VETERINÁRIA",
+        "Semestre": "0",
+        "Apelido": "PATOLOGIA ESPECIAL VETERINÁRIA",
+        "CargaHorariaTeorico": 0,
+        "CargaHorariaPratica": 0,
+        "ListaPrequisitos": []
+      }
+    ]
+  },
+  {
+    "Id": 47827,
+    "Codigo": "2601.000.405-8",
+    "Tipo": "OBR",
+    "Descricao": "INSPEÇÃO E TECNOLOGIA DE LEITES E DERIVADOS",
+    "Semestre": 7,
+    "Apelido": "INSPEÇÃO E TECNOLOGIA DE LEITES E DERIVADOS",
+    "CargaHorariaTeorico": 68,
+    "CargaHorariaPratica": null,
+    "ListaPrequisitos": [
+      {
+        "Id": 41633,
+        "Codigo": "2701.000.234-2",
+        "Descricao": "BIOQUÍMICA VETERINÁRIA I",
+        "Semestre": "0",
+        "Apelido": "BIOQUÍMICA VETERINÁRIA I",
+        "CargaHorariaTeorico": 0,
+        "CargaHorariaPratica": 0,
+        "ListaPrequisitos": []
+      },
+      {
+        "Id": 47847,
+        "Codigo": "2701.000.323-0",
+        "Descricao": "MICROBIOLOGIA VETERINÁRIA I",
+        "Semestre": "0",
+        "Apelido": "MICROBIOLOGIA VETERINÁRIA I",
+        "CargaHorariaTeorico": 0,
+        "CargaHorariaPratica": 0,
+        "ListaPrequisitos": []
+      }
+    ]
+  },
+  {
+    "Id": 47855,
+    "Codigo": "1203.000.220-5",
+    "Tipo": "OBR",
+    "Descricao": "OBSTETRÍCIA VETERINÁRIA",
+    "Semestre": 7,
+    "Apelido": "OBSTETRÍCIA VETERINÁRIA",
+    "CargaHorariaTeorico": 85,
+    "CargaHorariaPratica": null,
+    "ListaPrequisitos": [
+      {
+        "Id": 36867,
+        "Codigo": "1203.000.141-6",
+        "Descricao": "DIAGNÓSTICO POR IMAGEM",
+        "Semestre": "0",
+        "Apelido": "DIAGNÓSTICO POR IMAGEM",
+        "CargaHorariaTeorico": 0,
+        "CargaHorariaPratica": 0,
+        "ListaPrequisitos": []
+      },
+      {
+        "Id": 36871,
+        "Codigo": "1203.000.145-9",
+        "Descricao": "TÉCNICA CIRÚRGICA VETERINÁRIA",
+        "Semestre": "0",
+        "Apelido": "TÉCNICA CIRÚRGICA VETERINÁRIA",
+        "CargaHorariaTeorico": 0,
+        "CargaHorariaPratica": 0,
+        "ListaPrequisitos": []
+      }
+    ]
+  },
+  {
+    "Id": 47845,
+    "Codigo": "1203.000.212-5",
+    "Tipo": "OBR",
+    "Descricao": "ANDROLOGIA E BIOTECNOLOGIA DO MACHO",
+    "Semestre": 8,
+    "Apelido": "ANDROLOGIA E BIOTECNOLOGIA DO MACHO",
+    "CargaHorariaTeorico": 102,
+    "CargaHorariaPratica": null,
+    "ListaPrequisitos": [
+      {
+        "Id": 36863,
+        "Codigo": "1203.000.137-8",
+        "Descricao": "SEMIOLOGIA VETERINÁRIA",
+        "Semestre": "0",
+        "Apelido": "SEMIOLOGIA VETERINÁRIA",
+        "CargaHorariaTeorico": 0,
+        "CargaHorariaPratica": 0,
+        "ListaPrequisitos": []
+      },
+      {
+        "Id": 47852,
+        "Codigo": "1203.000.217-0",
+        "Descricao": "PATOLOGIA ESPECIAL VETERINÁRIA",
+        "Semestre": "0",
+        "Apelido": "PATOLOGIA ESPECIAL VETERINÁRIA",
+        "CargaHorariaTeorico": 0,
+        "CargaHorariaPratica": 0,
+        "ListaPrequisitos": []
+      }
+    ]
+  },
+  {
+    "Id": 47831,
+    "Codigo": "1203.000.201-8",
+    "Tipo": "OBR",
+    "Descricao": "CLÍNICA MÉDICA E TERAPÊUTICA DE EQUIDEOS",
+    "Semestre": 8,
+    "Apelido": "CLÍNICA MÉDICA E TERAPÊUTICA DE EQUIDEOS",
+    "CargaHorariaTeorico": 102,
+    "CargaHorariaPratica": null,
+    "ListaPrequisitos": [
+      {
+        "Id": 36863,
+        "Codigo": "1203.000.137-8",
+        "Descricao": "SEMIOLOGIA VETERINÁRIA",
+        "Semestre": "0",
+        "Apelido": "SEMIOLOGIA VETERINÁRIA",
+        "CargaHorariaTeorico": 0,
+        "CargaHorariaPratica": 0,
+        "ListaPrequisitos": []
+      },
+      {
+        "Id": 36866,
+        "Codigo": "1203.000.140-8",
+        "Descricao": "DOENÇAS INFECCIOSAS I",
+        "Semestre": "0",
+        "Apelido": "DOENÇAS INFECCIOSAS I",
+        "CargaHorariaTeorico": 0,
+        "CargaHorariaPratica": 0,
+        "ListaPrequisitos": []
+      },
+      {
+        "Id": 36867,
+        "Codigo": "1203.000.141-6",
+        "Descricao": "DIAGNÓSTICO POR IMAGEM",
+        "Semestre": "0",
+        "Apelido": "DIAGNÓSTICO POR IMAGEM",
+        "CargaHorariaTeorico": 0,
+        "CargaHorariaPratica": 0,
+        "ListaPrequisitos": []
+      },
+      {
+        "Id": 47854,
+        "Codigo": "1203.000.219-9",
+        "Descricao": "DOENÇAS INFECCIOSAS II",
+        "Semestre": "0",
+        "Apelido": "DOENÇAS INFECCIOSAS II",
+        "CargaHorariaTeorico": 0,
+        "CargaHorariaPratica": 0,
+        "ListaPrequisitos": []
+      },
+      {
+        "Id": 47863,
+        "Codigo": "1203.000.226-0",
+        "Descricao": "PATOLOGIA CLÍNICA VETERINÁRIA",
+        "Semestre": "0",
+        "Apelido": "PATOLOGIA CLÍNICA VETERINÁRIA",
+        "CargaHorariaTeorico": 0,
+        "CargaHorariaPratica": 0,
+        "ListaPrequisitos": []
+      },
+      {
+        "Id": 47864,
+        "Codigo": "1203.000.227-9",
+        "Descricao": "DOENÇAS PARASITÁRIAS",
+        "Semestre": "0",
+        "Apelido": "DOENÇAS PARASITÁRIAS",
+        "CargaHorariaTeorico": 0,
+        "CargaHorariaPratica": 0,
+        "ListaPrequisitos": []
+      }
+    ]
+  },
+  {
+    "Id": 47857,
+    "Codigo": "1203.000.222-3",
+    "Tipo": "OBR",
+    "Descricao": "CLÍNICA MÉDICA E TERAPÊUTICA DE PEQUENOS ANIMAIS II",
+    "Semestre": 8,
+    "Apelido": "CLÍNICA MÉDICA E TERAPÊUTICA DE PEQUENOS ANIMAIS II",
+    "CargaHorariaTeorico": 85,
+    "CargaHorariaPratica": null,
+    "ListaPrequisitos": [
+      {
+        "Id": 47853,
+        "Codigo": "1203.000.218-0",
+        "Descricao": "CLÍNICA MÉDICA E TERAPÊUTICA DE PEQUENOS ANIMAIS I",
+        "Semestre": "0",
+        "Apelido": "CLÍNICA MÉDICA E TERAPÊUTICA DE PEQUENOS ANIMAIS I",
+        "CargaHorariaTeorico": 0,
+        "CargaHorariaPratica": 0,
+        "ListaPrequisitos": []
+      },
+      {
+        "Id": 47854,
+        "Codigo": "1203.000.219-9",
+        "Descricao": "DOENÇAS INFECCIOSAS II",
+        "Semestre": "0",
+        "Apelido": "DOENÇAS INFECCIOSAS II",
+        "CargaHorariaTeorico": 0,
+        "CargaHorariaPratica": 0,
+        "ListaPrequisitos": []
+      },
+      {
+        "Id": 47864,
+        "Codigo": "1203.000.227-9",
+        "Descricao": "DOENÇAS PARASITÁRIAS",
+        "Semestre": "0",
+        "Apelido": "DOENÇAS PARASITÁRIAS",
+        "CargaHorariaTeorico": 0,
+        "CargaHorariaPratica": 0,
+        "ListaPrequisitos": []
+      }
+    ]
+  },
+  {
+    "Id": 47786,
+    "Codigo": "1203.000.162-9",
+    "Tipo": "OBR",
+    "Descricao": "CLÍNICA MÉDICA E TERAPÊUTICA DE RUMINANTES",
+    "Semestre": 8,
+    "Apelido": "CLÍNICA MÉDICA E TERAPÊUTICA DE RUMINANTES",
+    "CargaHorariaTeorico": 102,
+    "CargaHorariaPratica": null,
+    "ListaPrequisitos": [
+      {
+        "Id": 36863,
+        "Codigo": "1203.000.137-8",
+        "Descricao": "SEMIOLOGIA VETERINÁRIA",
+        "Semestre": "0",
+        "Apelido": "SEMIOLOGIA VETERINÁRIA",
+        "CargaHorariaTeorico": 0,
+        "CargaHorariaPratica": 0,
+        "ListaPrequisitos": []
+      },
+      {
+        "Id": 36866,
+        "Codigo": "1203.000.140-8",
+        "Descricao": "DOENÇAS INFECCIOSAS I",
+        "Semestre": "0",
+        "Apelido": "DOENÇAS INFECCIOSAS I",
+        "CargaHorariaTeorico": 0,
+        "CargaHorariaPratica": 0,
+        "ListaPrequisitos": []
+      },
+      {
+        "Id": 47854,
+        "Codigo": "1203.000.219-9",
+        "Descricao": "DOENÇAS INFECCIOSAS II",
+        "Semestre": "0",
+        "Apelido": "DOENÇAS INFECCIOSAS II",
+        "CargaHorariaTeorico": 0,
+        "CargaHorariaPratica": 0,
+        "ListaPrequisitos": []
+      },
+      {
+        "Id": 47863,
+        "Codigo": "1203.000.226-0",
+        "Descricao": "PATOLOGIA CLÍNICA VETERINÁRIA",
+        "Semestre": "0",
+        "Apelido": "PATOLOGIA CLÍNICA VETERINÁRIA",
+        "CargaHorariaTeorico": 0,
+        "CargaHorariaPratica": 0,
+        "ListaPrequisitos": []
+      },
+      {
+        "Id": 47864,
+        "Codigo": "1203.000.227-9",
+        "Descricao": "DOENÇAS PARASITÁRIAS",
+        "Semestre": "0",
+        "Apelido": "DOENÇAS PARASITÁRIAS",
+        "CargaHorariaTeorico": 0,
+        "CargaHorariaPratica": 0,
+        "ListaPrequisitos": []
+      }
+    ]
+  },
+  {
+    "Id": 47832,
+    "Codigo": "1203.000.202-7",
+    "Tipo": "OBR",
+    "Descricao": "INSPEÇÃO E TECNOLOGIA DE OVOS, MEL E PESCADOS",
+    "Semestre": 8,
+    "Apelido": "INSPEÇÃO E TECNOLOGIA DE OVOS, MEL E PESCADOS",
+    "CargaHorariaTeorico": 34,
+    "CargaHorariaPratica": null,
+    "ListaPrequisitos": [
+      {
+        "Id": 41633,
+        "Codigo": "2701.000.234-2",
+        "Descricao": "BIOQUÍMICA VETERINÁRIA I",
+        "Semestre": "0",
+        "Apelido": "BIOQUÍMICA VETERINÁRIA I",
+        "CargaHorariaTeorico": 0,
+        "CargaHorariaPratica": 0,
+        "ListaPrequisitos": []
+      },
+      {
+        "Id": 47847,
+        "Codigo": "2701.000.323-0",
+        "Descricao": "MICROBIOLOGIA VETERINÁRIA I",
+        "Semestre": "0",
+        "Apelido": "MICROBIOLOGIA VETERINÁRIA I",
+        "CargaHorariaTeorico": 0,
+        "CargaHorariaPratica": 0,
+        "ListaPrequisitos": []
+      }
+    ]
+  },
+  {
+    "Id": 36885,
+    "Codigo": "1203.000.158-0",
+    "Tipo": "OBR",
+    "Descricao": "ZOONOSES",
+    "Semestre": 8,
+    "Apelido": "ZOONOSES",
+    "CargaHorariaTeorico": 34,
+    "CargaHorariaPratica": null,
+    "ListaPrequisitos": [
+      {
+        "Id": 36866,
+        "Codigo": "1203.000.140-8",
+        "Descricao": "DOENÇAS INFECCIOSAS I",
+        "Semestre": "0",
+        "Apelido": "DOENÇAS INFECCIOSAS I",
+        "CargaHorariaTeorico": 0,
+        "CargaHorariaPratica": 0,
+        "ListaPrequisitos": []
+      },
+      {
+        "Id": 47854,
+        "Codigo": "1203.000.219-9",
+        "Descricao": "DOENÇAS INFECCIOSAS II",
+        "Semestre": "0",
+        "Apelido": "DOENÇAS INFECCIOSAS II",
+        "CargaHorariaTeorico": 0,
+        "CargaHorariaPratica": 0,
+        "ListaPrequisitos": []
+      },
+      {
+        "Id": 47864,
+        "Codigo": "1203.000.227-9",
+        "Descricao": "DOENÇAS PARASITÁRIAS",
+        "Semestre": "0",
+        "Apelido": "DOENÇAS PARASITÁRIAS",
+        "CargaHorariaTeorico": 0,
+        "CargaHorariaPratica": 0,
+        "ListaPrequisitos": []
+      }
+    ]
+  },
+  {
+    "Id": 47843,
+    "Codigo": "1203.000.210-7",
+    "Tipo": "OBR",
+    "Descricao": "ESTÁGIO OBRIGATÓRIO INTENSIVO EM CIRURGIA, ANESTESIOLOGIA E OBSTETRÍCIA",
+    "Semestre": 9,
+    "Apelido": "ESTÁGIO OBRIGATÓRIO INTENSIVO EM CIRURGIA, ANESTESIOLOGIA E OBSTETRÍCIA",
+    "CargaHorariaTeorico": 34,
+    "CargaHorariaPratica": null,
+    "ListaPrequisitos": [
+      {
+        "Id": 36885,
+        "Codigo": "1203.000.158-0",
+        "Descricao": "ZOONOSES",
+        "Semestre": "0",
+        "Apelido": "ZOONOSES",
+        "CargaHorariaTeorico": 0,
+        "CargaHorariaPratica": 0,
+        "ListaPrequisitos": []
+      },
+      {
+        "Id": 47786,
+        "Codigo": "1203.000.162-9",
+        "Descricao": "CLÍNICA MÉDICA E TERAPÊUTICA DE RUMINANTES",
+        "Semestre": "0",
+        "Apelido": "CLÍNICA MÉDICA E TERAPÊUTICA DE RUMINANTES",
+        "CargaHorariaTeorico": 0,
+        "CargaHorariaPratica": 0,
+        "ListaPrequisitos": []
+      },
+      {
+        "Id": 47831,
+        "Codigo": "1203.000.201-8",
+        "Descricao": "CLÍNICA MÉDICA E TERAPÊUTICA DE EQUIDEOS",
+        "Semestre": "0",
+        "Apelido": "CLÍNICA MÉDICA E TERAPÊUTICA DE EQUIDEOS",
+        "CargaHorariaTeorico": 0,
+        "CargaHorariaPratica": 0,
+        "ListaPrequisitos": []
+      },
+      {
+        "Id": 47832,
+        "Codigo": "1203.000.202-7",
+        "Descricao": "INSPEÇÃO E TECNOLOGIA DE OVOS, MEL E PESCADOS",
+        "Semestre": "0",
+        "Apelido": "INSPEÇÃO E TECNOLOGIA DE OVOS, MEL E PESCADOS",
+        "CargaHorariaTeorico": 0,
+        "CargaHorariaPratica": 0,
+        "ListaPrequisitos": []
+      },
+      {
+        "Id": 47845,
+        "Codigo": "1203.000.212-5",
+        "Descricao": "ANDROLOGIA E BIOTECNOLOGIA DO MACHO",
+        "Semestre": "0",
+        "Apelido": "ANDROLOGIA E BIOTECNOLOGIA DO MACHO",
+        "CargaHorariaTeorico": 0,
+        "CargaHorariaPratica": 0,
+        "ListaPrequisitos": []
+      },
+      {
+        "Id": 47857,
+        "Codigo": "1203.000.222-3",
+        "Descricao": "CLÍNICA MÉDICA E TERAPÊUTICA DE PEQUENOS ANIMAIS II",
+        "Semestre": "0",
+        "Apelido": "CLÍNICA MÉDICA E TERAPÊUTICA DE PEQUENOS ANIMAIS II",
+        "CargaHorariaTeorico": 0,
+        "CargaHorariaPratica": 0,
+        "ListaPrequisitos": []
+      }
+    ]
+  },
+  {
+    "Id": 47820,
+    "Codigo": "1203.000.194-1",
+    "Tipo": "OBR",
+    "Descricao": "ESTÁGIO OBRIGATÓRIO INTENSIVO EM CLÍNICA MÉDICA DE GRANDES ANIMAIS",
+    "Semestre": 9,
+    "Apelido": "ESTÁGIO OBRIGATÓRIO INTENSIVO EM CLÍNICA MÉDICA DE GRANDES ANIMAIS",
+    "CargaHorariaTeorico": 34,
+    "CargaHorariaPratica": null,
+    "ListaPrequisitos": [
+      {
+        "Id": 36885,
+        "Codigo": "1203.000.158-0",
+        "Descricao": "ZOONOSES",
+        "Semestre": "0",
+        "Apelido": "ZOONOSES",
+        "CargaHorariaTeorico": 0,
+        "CargaHorariaPratica": 0,
+        "ListaPrequisitos": []
+      },
+      {
+        "Id": 47786,
+        "Codigo": "1203.000.162-9",
+        "Descricao": "CLÍNICA MÉDICA E TERAPÊUTICA DE RUMINANTES",
+        "Semestre": "0",
+        "Apelido": "CLÍNICA MÉDICA E TERAPÊUTICA DE RUMINANTES",
+        "CargaHorariaTeorico": 0,
+        "CargaHorariaPratica": 0,
+        "ListaPrequisitos": []
+      },
+      {
+        "Id": 47831,
+        "Codigo": "1203.000.201-8",
+        "Descricao": "CLÍNICA MÉDICA E TERAPÊUTICA DE EQUIDEOS",
+        "Semestre": "0",
+        "Apelido": "CLÍNICA MÉDICA E TERAPÊUTICA DE EQUIDEOS",
+        "CargaHorariaTeorico": 0,
+        "CargaHorariaPratica": 0,
+        "ListaPrequisitos": []
+      },
+      {
+        "Id": 47832,
+        "Codigo": "1203.000.202-7",
+        "Descricao": "INSPEÇÃO E TECNOLOGIA DE OVOS, MEL E PESCADOS",
+        "Semestre": "0",
+        "Apelido": "INSPEÇÃO E TECNOLOGIA DE OVOS, MEL E PESCADOS",
+        "CargaHorariaTeorico": 0,
+        "CargaHorariaPratica": 0,
+        "ListaPrequisitos": []
+      },
+      {
+        "Id": 47845,
+        "Codigo": "1203.000.212-5",
+        "Descricao": "ANDROLOGIA E BIOTECNOLOGIA DO MACHO",
+        "Semestre": "0",
+        "Apelido": "ANDROLOGIA E BIOTECNOLOGIA DO MACHO",
+        "CargaHorariaTeorico": 0,
+        "CargaHorariaPratica": 0,
+        "ListaPrequisitos": []
+      },
+      {
+        "Id": 47857,
+        "Codigo": "1203.000.222-3",
+        "Descricao": "CLÍNICA MÉDICA E TERAPÊUTICA DE PEQUENOS ANIMAIS II",
+        "Semestre": "0",
+        "Apelido": "CLÍNICA MÉDICA E TERAPÊUTICA DE PEQUENOS ANIMAIS II",
+        "CargaHorariaTeorico": 0,
+        "CargaHorariaPratica": 0,
+        "ListaPrequisitos": []
+      }
+    ]
+  },
+  {
+    "Id": 47822,
+    "Codigo": "1203.000.196-0",
+    "Tipo": "OBR",
+    "Descricao": "ESTÁGIO OBRIGATÓRIO INTENSIVO EM CLÍNICA MEDICA DE PEQUENOS ANIMAIS E ANIMAIS SILVESTRES",
+    "Semestre": 9,
+    "Apelido": "ESTÁGIO OBRIGATÓRIO INTENSIVO EM CLÍNICA MEDICA DE PEQUENOS ANIMAIS E ANIMAIS SILVESTRES",
+    "CargaHorariaTeorico": 34,
+    "CargaHorariaPratica": null,
+    "ListaPrequisitos": [
+      {
+        "Id": 36885,
+        "Codigo": "1203.000.158-0",
+        "Descricao": "ZOONOSES",
+        "Semestre": "0",
+        "Apelido": "ZOONOSES",
+        "CargaHorariaTeorico": 0,
+        "CargaHorariaPratica": 0,
+        "ListaPrequisitos": []
+      },
+      {
+        "Id": 47789,
+        "Codigo": "1203.000.165-6",
+        "Descricao": "INSPEÇÃO E TECNOLOGIA DE CARNES E DERIVADOS",
+        "Semestre": "0",
+        "Apelido": "INSPEÇÃO E TECNOLOGIA DE CARNES E DERIVADOS",
+        "CargaHorariaTeorico": 0,
+        "CargaHorariaPratica": 0,
+        "ListaPrequisitos": []
+      },
+      {
+        "Id": 47831,
+        "Codigo": "1203.000.201-8",
+        "Descricao": "CLÍNICA MÉDICA E TERAPÊUTICA DE EQUIDEOS",
+        "Semestre": "0",
+        "Apelido": "CLÍNICA MÉDICA E TERAPÊUTICA DE EQUIDEOS",
+        "CargaHorariaTeorico": 0,
+        "CargaHorariaPratica": 0,
+        "ListaPrequisitos": []
+      },
+      {
+        "Id": 47832,
+        "Codigo": "1203.000.202-7",
+        "Descricao": "INSPEÇÃO E TECNOLOGIA DE OVOS, MEL E PESCADOS",
+        "Semestre": "0",
+        "Apelido": "INSPEÇÃO E TECNOLOGIA DE OVOS, MEL E PESCADOS",
+        "CargaHorariaTeorico": 0,
+        "CargaHorariaPratica": 0,
+        "ListaPrequisitos": []
+      },
+      {
+        "Id": 47845,
+        "Codigo": "1203.000.212-5",
+        "Descricao": "ANDROLOGIA E BIOTECNOLOGIA DO MACHO",
+        "Semestre": "0",
+        "Apelido": "ANDROLOGIA E BIOTECNOLOGIA DO MACHO",
+        "CargaHorariaTeorico": 0,
+        "CargaHorariaPratica": 0,
+        "ListaPrequisitos": []
+      },
+      {
+        "Id": 47857,
+        "Codigo": "1203.000.222-3",
+        "Descricao": "CLÍNICA MÉDICA E TERAPÊUTICA DE PEQUENOS ANIMAIS II",
+        "Semestre": "0",
+        "Apelido": "CLÍNICA MÉDICA E TERAPÊUTICA DE PEQUENOS ANIMAIS II",
+        "CargaHorariaTeorico": 0,
+        "CargaHorariaPratica": 0,
+        "ListaPrequisitos": []
+      }
+    ]
+  },
+  {
+    "Id": 47824,
+    "Codigo": "1203.000.198-8",
+    "Tipo": "OBR",
+    "Descricao": "ESTÁGIO OBRIGATÓRIO INTENSIVO EM DIAGNÓSTICO LABORATORIAL DE PATÓGENOS",
+    "Semestre": 9,
+    "Apelido": "ESTÁGIO OBRIGATÓRIO INTENSIVO EM DIAGNÓSTICO LABORATORIAL DE PATÓGENOS",
+    "CargaHorariaTeorico": 34,
+    "CargaHorariaPratica": null,
+    "ListaPrequisitos": [
+      {
+        "Id": 36885,
+        "Codigo": "1203.000.158-0",
+        "Descricao": "ZOONOSES",
+        "Semestre": "0",
+        "Apelido": "ZOONOSES",
+        "CargaHorariaTeorico": 0,
+        "CargaHorariaPratica": 0,
+        "ListaPrequisitos": []
+      },
+      {
+        "Id": 47786,
+        "Codigo": "1203.000.162-9",
+        "Descricao": "CLÍNICA MÉDICA E TERAPÊUTICA DE RUMINANTES",
+        "Semestre": "0",
+        "Apelido": "CLÍNICA MÉDICA E TERAPÊUTICA DE RUMINANTES",
+        "CargaHorariaTeorico": 0,
+        "CargaHorariaPratica": 0,
+        "ListaPrequisitos": []
+      },
+      {
+        "Id": 47831,
+        "Codigo": "1203.000.201-8",
+        "Descricao": "CLÍNICA MÉDICA E TERAPÊUTICA DE EQUIDEOS",
+        "Semestre": "0",
+        "Apelido": "CLÍNICA MÉDICA E TERAPÊUTICA DE EQUIDEOS",
+        "CargaHorariaTeorico": 0,
+        "CargaHorariaPratica": 0,
+        "ListaPrequisitos": []
+      },
+      {
+        "Id": 47832,
+        "Codigo": "1203.000.202-7",
+        "Descricao": "INSPEÇÃO E TECNOLOGIA DE OVOS, MEL E PESCADOS",
+        "Semestre": "0",
+        "Apelido": "INSPEÇÃO E TECNOLOGIA DE OVOS, MEL E PESCADOS",
+        "CargaHorariaTeorico": 0,
+        "CargaHorariaPratica": 0,
+        "ListaPrequisitos": []
+      },
+      {
+        "Id": 47845,
+        "Codigo": "1203.000.212-5",
+        "Descricao": "ANDROLOGIA E BIOTECNOLOGIA DO MACHO",
+        "Semestre": "0",
+        "Apelido": "ANDROLOGIA E BIOTECNOLOGIA DO MACHO",
+        "CargaHorariaTeorico": 0,
+        "CargaHorariaPratica": 0,
+        "ListaPrequisitos": []
+      },
+      {
+        "Id": 47857,
+        "Codigo": "1203.000.222-3",
+        "Descricao": "CLÍNICA MÉDICA E TERAPÊUTICA DE PEQUENOS ANIMAIS II",
+        "Semestre": "0",
+        "Apelido": "CLÍNICA MÉDICA E TERAPÊUTICA DE PEQUENOS ANIMAIS II",
+        "CargaHorariaTeorico": 0,
+        "CargaHorariaPratica": 0,
+        "ListaPrequisitos": []
+      }
+    ]
+  },
+  {
+    "Id": 47797,
+    "Codigo": "1203.000.173-6",
+    "Tipo": "OBR",
+    "Descricao": "ESTÁGIO OBRIGATÓRIO INTENSIVO EM DIAGNÓSTICO POR IMAGEM",
+    "Semestre": 9,
+    "Apelido": "ESTÁGIO OBRIGATÓRIO INTENSIVO EM DIAGNÓSTICO POR IMAGEM",
+    "CargaHorariaTeorico": 34,
+    "CargaHorariaPratica": null,
+    "ListaPrequisitos": [
+      {
+        "Id": 36885,
+        "Codigo": "1203.000.158-0",
+        "Descricao": "ZOONOSES",
+        "Semestre": "0",
+        "Apelido": "ZOONOSES",
+        "CargaHorariaTeorico": 0,
+        "CargaHorariaPratica": 0,
+        "ListaPrequisitos": []
+      },
+      {
+        "Id": 47786,
+        "Codigo": "1203.000.162-9",
+        "Descricao": "CLÍNICA MÉDICA E TERAPÊUTICA DE RUMINANTES",
+        "Semestre": "0",
+        "Apelido": "CLÍNICA MÉDICA E TERAPÊUTICA DE RUMINANTES",
+        "CargaHorariaTeorico": 0,
+        "CargaHorariaPratica": 0,
+        "ListaPrequisitos": []
+      },
+      {
+        "Id": 47831,
+        "Codigo": "1203.000.201-8",
+        "Descricao": "CLÍNICA MÉDICA E TERAPÊUTICA DE EQUIDEOS",
+        "Semestre": "0",
+        "Apelido": "CLÍNICA MÉDICA E TERAPÊUTICA DE EQUIDEOS",
+        "CargaHorariaTeorico": 0,
+        "CargaHorariaPratica": 0,
+        "ListaPrequisitos": []
+      },
+      {
+        "Id": 47832,
+        "Codigo": "1203.000.202-7",
+        "Descricao": "INSPEÇÃO E TECNOLOGIA DE OVOS, MEL E PESCADOS",
+        "Semestre": "0",
+        "Apelido": "INSPEÇÃO E TECNOLOGIA DE OVOS, MEL E PESCADOS",
+        "CargaHorariaTeorico": 0,
+        "CargaHorariaPratica": 0,
+        "ListaPrequisitos": []
+      },
+      {
+        "Id": 47845,
+        "Codigo": "1203.000.212-5",
+        "Descricao": "ANDROLOGIA E BIOTECNOLOGIA DO MACHO",
+        "Semestre": "0",
+        "Apelido": "ANDROLOGIA E BIOTECNOLOGIA DO MACHO",
+        "CargaHorariaTeorico": 0,
+        "CargaHorariaPratica": 0,
+        "ListaPrequisitos": []
+      },
+      {
+        "Id": 47857,
+        "Codigo": "1203.000.222-3",
+        "Descricao": "CLÍNICA MÉDICA E TERAPÊUTICA DE PEQUENOS ANIMAIS II",
+        "Semestre": "0",
+        "Apelido": "CLÍNICA MÉDICA E TERAPÊUTICA DE PEQUENOS ANIMAIS II",
+        "CargaHorariaTeorico": 0,
+        "CargaHorariaPratica": 0,
+        "ListaPrequisitos": []
+      }
+    ]
+  },
+  {
+    "Id": 47798,
+    "Codigo": "1203.000.174-5",
+    "Tipo": "OBR",
+    "Descricao": "ESTÁGIO OBRIGATÓRIO INTENSIVO EM INSPEÇÃO E TECNOLOGIA DE ALIMENTOS",
+    "Semestre": 9,
+    "Apelido": "ESTÁGIO OBRIGATÓRIO INTENSIVO EM INSPEÇÃO E TECNOLOGIA DE ALIMENTOS",
+    "CargaHorariaTeorico": 34,
+    "CargaHorariaPratica": null,
+    "ListaPrequisitos": [
+      {
+        "Id": 36885,
+        "Codigo": "1203.000.158-0",
+        "Descricao": "ZOONOSES",
+        "Semestre": "0",
+        "Apelido": "ZOONOSES",
+        "CargaHorariaTeorico": 0,
+        "CargaHorariaPratica": 0,
+        "ListaPrequisitos": []
+      },
+      {
+        "Id": 47786,
+        "Codigo": "1203.000.162-9",
+        "Descricao": "CLÍNICA MÉDICA E TERAPÊUTICA DE RUMINANTES",
+        "Semestre": "0",
+        "Apelido": "CLÍNICA MÉDICA E TERAPÊUTICA DE RUMINANTES",
+        "CargaHorariaTeorico": 0,
+        "CargaHorariaPratica": 0,
+        "ListaPrequisitos": []
+      },
+      {
+        "Id": 47831,
+        "Codigo": "1203.000.201-8",
+        "Descricao": "CLÍNICA MÉDICA E TERAPÊUTICA DE EQUIDEOS",
+        "Semestre": "0",
+        "Apelido": "CLÍNICA MÉDICA E TERAPÊUTICA DE EQUIDEOS",
+        "CargaHorariaTeorico": 0,
+        "CargaHorariaPratica": 0,
+        "ListaPrequisitos": []
+      },
+      {
+        "Id": 47832,
+        "Codigo": "1203.000.202-7",
+        "Descricao": "INSPEÇÃO E TECNOLOGIA DE OVOS, MEL E PESCADOS",
+        "Semestre": "0",
+        "Apelido": "INSPEÇÃO E TECNOLOGIA DE OVOS, MEL E PESCADOS",
+        "CargaHorariaTeorico": 0,
+        "CargaHorariaPratica": 0,
+        "ListaPrequisitos": []
+      },
+      {
+        "Id": 47845,
+        "Codigo": "1203.000.212-5",
+        "Descricao": "ANDROLOGIA E BIOTECNOLOGIA DO MACHO",
+        "Semestre": "0",
+        "Apelido": "ANDROLOGIA E BIOTECNOLOGIA DO MACHO",
+        "CargaHorariaTeorico": 0,
+        "CargaHorariaPratica": 0,
+        "ListaPrequisitos": []
+      },
+      {
+        "Id": 47857,
+        "Codigo": "1203.000.222-3",
+        "Descricao": "CLÍNICA MÉDICA E TERAPÊUTICA DE PEQUENOS ANIMAIS II",
+        "Semestre": "0",
+        "Apelido": "CLÍNICA MÉDICA E TERAPÊUTICA DE PEQUENOS ANIMAIS II",
+        "CargaHorariaTeorico": 0,
+        "CargaHorariaPratica": 0,
+        "ListaPrequisitos": []
+      }
+    ]
+  },
+  {
+    "Id": 47799,
+    "Codigo": "1203.000.175-4",
+    "Tipo": "OBR",
+    "Descricao": "ESTÁGIO OBRIGATÓRIO INTENSIVO EM PATOLOGIA ESPECIAL VETERINÁRIA",
+    "Semestre": 9,
+    "Apelido": "ESTÁGIO OBRIGATÓRIO INTENSIVO EM PATOLOGIA ESPECIAL VETERINÁRIA",
+    "CargaHorariaTeorico": 34,
+    "CargaHorariaPratica": null,
+    "ListaPrequisitos": [
+      {
+        "Id": 36885,
+        "Codigo": "1203.000.158-0",
+        "Descricao": "ZOONOSES",
+        "Semestre": "0",
+        "Apelido": "ZOONOSES",
+        "CargaHorariaTeorico": 0,
+        "CargaHorariaPratica": 0,
+        "ListaPrequisitos": []
+      },
+      {
+        "Id": 47786,
+        "Codigo": "1203.000.162-9",
+        "Descricao": "CLÍNICA MÉDICA E TERAPÊUTICA DE RUMINANTES",
+        "Semestre": "0",
+        "Apelido": "CLÍNICA MÉDICA E TERAPÊUTICA DE RUMINANTES",
+        "CargaHorariaTeorico": 0,
+        "CargaHorariaPratica": 0,
+        "ListaPrequisitos": []
+      },
+      {
+        "Id": 47831,
+        "Codigo": "1203.000.201-8",
+        "Descricao": "CLÍNICA MÉDICA E TERAPÊUTICA DE EQUIDEOS",
+        "Semestre": "0",
+        "Apelido": "CLÍNICA MÉDICA E TERAPÊUTICA DE EQUIDEOS",
+        "CargaHorariaTeorico": 0,
+        "CargaHorariaPratica": 0,
+        "ListaPrequisitos": []
+      },
+      {
+        "Id": 47832,
+        "Codigo": "1203.000.202-7",
+        "Descricao": "INSPEÇÃO E TECNOLOGIA DE OVOS, MEL E PESCADOS",
+        "Semestre": "0",
+        "Apelido": "INSPEÇÃO E TECNOLOGIA DE OVOS, MEL E PESCADOS",
+        "CargaHorariaTeorico": 0,
+        "CargaHorariaPratica": 0,
+        "ListaPrequisitos": []
+      },
+      {
+        "Id": 47845,
+        "Codigo": "1203.000.212-5",
+        "Descricao": "ANDROLOGIA E BIOTECNOLOGIA DO MACHO",
+        "Semestre": "0",
+        "Apelido": "ANDROLOGIA E BIOTECNOLOGIA DO MACHO",
+        "CargaHorariaTeorico": 0,
+        "CargaHorariaPratica": 0,
+        "ListaPrequisitos": []
+      },
+      {
+        "Id": 47857,
+        "Codigo": "1203.000.222-3",
+        "Descricao": "CLÍNICA MÉDICA E TERAPÊUTICA DE PEQUENOS ANIMAIS II",
+        "Semestre": "0",
+        "Apelido": "CLÍNICA MÉDICA E TERAPÊUTICA DE PEQUENOS ANIMAIS II",
+        "CargaHorariaTeorico": 0,
+        "CargaHorariaPratica": 0,
+        "ListaPrequisitos": []
+      }
+    ]
+  },
+  {
+    "Id": 47800,
+    "Codigo": "1203.000.176-3",
+    "Tipo": "OBR",
+    "Descricao": "ESTÁGIO OBRIGATÓRIO INTENSIVO EM PRODUÇÃO ANIMAL",
+    "Semestre": 9,
+    "Apelido": "ESTÁGIO OBRIGATÓRIO INTENSIVO EM PRODUÇÃO ANIMAL",
+    "CargaHorariaTeorico": 34,
+    "CargaHorariaPratica": null,
+    "ListaPrequisitos": [
+      {
+        "Id": 36885,
+        "Codigo": "1203.000.158-0",
+        "Descricao": "ZOONOSES",
+        "Semestre": "0",
+        "Apelido": "ZOONOSES",
+        "CargaHorariaTeorico": 0,
+        "CargaHorariaPratica": 0,
+        "ListaPrequisitos": []
+      },
+      {
+        "Id": 47786,
+        "Codigo": "1203.000.162-9",
+        "Descricao": "CLÍNICA MÉDICA E TERAPÊUTICA DE RUMINANTES",
+        "Semestre": "0",
+        "Apelido": "CLÍNICA MÉDICA E TERAPÊUTICA DE RUMINANTES",
+        "CargaHorariaTeorico": 0,
+        "CargaHorariaPratica": 0,
+        "ListaPrequisitos": []
+      },
+      {
+        "Id": 47831,
+        "Codigo": "1203.000.201-8",
+        "Descricao": "CLÍNICA MÉDICA E TERAPÊUTICA DE EQUIDEOS",
+        "Semestre": "0",
+        "Apelido": "CLÍNICA MÉDICA E TERAPÊUTICA DE EQUIDEOS",
+        "CargaHorariaTeorico": 0,
+        "CargaHorariaPratica": 0,
+        "ListaPrequisitos": []
+      },
+      {
+        "Id": 47832,
+        "Codigo": "1203.000.202-7",
+        "Descricao": "INSPEÇÃO E TECNOLOGIA DE OVOS, MEL E PESCADOS",
+        "Semestre": "0",
+        "Apelido": "INSPEÇÃO E TECNOLOGIA DE OVOS, MEL E PESCADOS",
+        "CargaHorariaTeorico": 0,
+        "CargaHorariaPratica": 0,
+        "ListaPrequisitos": []
+      },
+      {
+        "Id": 47845,
+        "Codigo": "1203.000.212-5",
+        "Descricao": "ANDROLOGIA E BIOTECNOLOGIA DO MACHO",
+        "Semestre": "0",
+        "Apelido": "ANDROLOGIA E BIOTECNOLOGIA DO MACHO",
+        "CargaHorariaTeorico": 0,
+        "CargaHorariaPratica": 0,
+        "ListaPrequisitos": []
+      },
+      {
+        "Id": 47857,
+        "Codigo": "1203.000.222-3",
+        "Descricao": "CLÍNICA MÉDICA E TERAPÊUTICA DE PEQUENOS ANIMAIS II",
+        "Semestre": "0",
+        "Apelido": "CLÍNICA MÉDICA E TERAPÊUTICA DE PEQUENOS ANIMAIS II",
+        "CargaHorariaTeorico": 0,
+        "CargaHorariaPratica": 0,
+        "ListaPrequisitos": []
+      }
+    ]
+  },
+  {
+    "Id": 47834,
+    "Codigo": "1203.000.204-5",
+    "Tipo": "OBR",
+    "Descricao": "ESTÁGIO OBRIGATÓRIO INTENSIVO EM REPRODUÇÃO ANIMAL",
+    "Semestre": 9,
+    "Apelido": "ESTÁGIO OBRIGATÓRIO INTENSIVO EM REPRODUÇÃO ANIMAL",
+    "CargaHorariaTeorico": 34,
+    "CargaHorariaPratica": null,
+    "ListaPrequisitos": [
+      {
+        "Id": 36885,
+        "Codigo": "1203.000.158-0",
+        "Descricao": "ZOONOSES",
+        "Semestre": "0",
+        "Apelido": "ZOONOSES",
+        "CargaHorariaTeorico": 0,
+        "CargaHorariaPratica": 0,
+        "ListaPrequisitos": []
+      },
+      {
+        "Id": 47786,
+        "Codigo": "1203.000.162-9",
+        "Descricao": "CLÍNICA MÉDICA E TERAPÊUTICA DE RUMINANTES",
+        "Semestre": "0",
+        "Apelido": "CLÍNICA MÉDICA E TERAPÊUTICA DE RUMINANTES",
+        "CargaHorariaTeorico": 0,
+        "CargaHorariaPratica": 0,
+        "ListaPrequisitos": []
+      },
+      {
+        "Id": 47831,
+        "Codigo": "1203.000.201-8",
+        "Descricao": "CLÍNICA MÉDICA E TERAPÊUTICA DE EQUIDEOS",
+        "Semestre": "0",
+        "Apelido": "CLÍNICA MÉDICA E TERAPÊUTICA DE EQUIDEOS",
+        "CargaHorariaTeorico": 0,
+        "CargaHorariaPratica": 0,
+        "ListaPrequisitos": []
+      },
+      {
+        "Id": 47832,
+        "Codigo": "1203.000.202-7",
+        "Descricao": "INSPEÇÃO E TECNOLOGIA DE OVOS, MEL E PESCADOS",
+        "Semestre": "0",
+        "Apelido": "INSPEÇÃO E TECNOLOGIA DE OVOS, MEL E PESCADOS",
+        "CargaHorariaTeorico": 0,
+        "CargaHorariaPratica": 0,
+        "ListaPrequisitos": []
+      },
+      {
+        "Id": 47845,
+        "Codigo": "1203.000.212-5",
+        "Descricao": "ANDROLOGIA E BIOTECNOLOGIA DO MACHO",
+        "Semestre": "0",
+        "Apelido": "ANDROLOGIA E BIOTECNOLOGIA DO MACHO",
+        "CargaHorariaTeorico": 0,
+        "CargaHorariaPratica": 0,
+        "ListaPrequisitos": []
+      },
+      {
+        "Id": 47857,
+        "Codigo": "1203.000.222-3",
+        "Descricao": "CLÍNICA MÉDICA E TERAPÊUTICA DE PEQUENOS ANIMAIS II",
+        "Semestre": "0",
+        "Apelido": "CLÍNICA MÉDICA E TERAPÊUTICA DE PEQUENOS ANIMAIS II",
+        "CargaHorariaTeorico": 0,
+        "CargaHorariaPratica": 0,
+        "ListaPrequisitos": []
+      }
+    ]
+  },
+  {
+    "Id": 47826,
+    "Codigo": "1203.000.199-7",
+    "Tipo": "OBR",
+    "Descricao": "ESTÁGIO OBRIGATÓRIO INTENSIVO EM SAÚDE PÚBLICA",
+    "Semestre": 9,
+    "Apelido": "ESTÁGIO OBRIGATÓRIO INTENSIVO EM SAÚDE PÚBLICA",
+    "CargaHorariaTeorico": 34,
+    "CargaHorariaPratica": null,
+    "ListaPrequisitos": [
+      {
+        "Id": 36885,
+        "Codigo": "1203.000.158-0",
+        "Descricao": "ZOONOSES",
+        "Semestre": "0",
+        "Apelido": "ZOONOSES",
+        "CargaHorariaTeorico": 0,
+        "CargaHorariaPratica": 0,
+        "ListaPrequisitos": []
+      },
+      {
+        "Id": 47786,
+        "Codigo": "1203.000.162-9",
+        "Descricao": "CLÍNICA MÉDICA E TERAPÊUTICA DE RUMINANTES",
+        "Semestre": "0",
+        "Apelido": "CLÍNICA MÉDICA E TERAPÊUTICA DE RUMINANTES",
+        "CargaHorariaTeorico": 0,
+        "CargaHorariaPratica": 0,
+        "ListaPrequisitos": []
+      },
+      {
+        "Id": 47831,
+        "Codigo": "1203.000.201-8",
+        "Descricao": "CLÍNICA MÉDICA E TERAPÊUTICA DE EQUIDEOS",
+        "Semestre": "0",
+        "Apelido": "CLÍNICA MÉDICA E TERAPÊUTICA DE EQUIDEOS",
+        "CargaHorariaTeorico": 0,
+        "CargaHorariaPratica": 0,
+        "ListaPrequisitos": []
+      },
+      {
+        "Id": 47832,
+        "Codigo": "1203.000.202-7",
+        "Descricao": "INSPEÇÃO E TECNOLOGIA DE OVOS, MEL E PESCADOS",
+        "Semestre": "0",
+        "Apelido": "INSPEÇÃO E TECNOLOGIA DE OVOS, MEL E PESCADOS",
+        "CargaHorariaTeorico": 0,
+        "CargaHorariaPratica": 0,
+        "ListaPrequisitos": []
+      },
+      {
+        "Id": 47845,
+        "Codigo": "1203.000.212-5",
+        "Descricao": "ANDROLOGIA E BIOTECNOLOGIA DO MACHO",
+        "Semestre": "0",
+        "Apelido": "ANDROLOGIA E BIOTECNOLOGIA DO MACHO",
+        "CargaHorariaTeorico": 0,
+        "CargaHorariaPratica": 0,
+        "ListaPrequisitos": []
+      },
+      {
+        "Id": 47857,
+        "Codigo": "1203.000.222-3",
+        "Descricao": "CLÍNICA MÉDICA E TERAPÊUTICA DE PEQUENOS ANIMAIS II",
+        "Semestre": "0",
+        "Apelido": "CLÍNICA MÉDICA E TERAPÊUTICA DE PEQUENOS ANIMAIS II",
+        "CargaHorariaTeorico": 0,
+        "CargaHorariaPratica": 0,
+        "ListaPrequisitos": []
+      }
+    ]
+  },
+  {
+    "Id": 47812,
+    "Codigo": "1203.000.187-0",
+    "Tipo": "OBR",
+    "Descricao": "ESTÁGIO OBRIGATÓRIO",
+    "Semestre": 10,
+    "Apelido": "ESTÁGIO OBRIGATÓRIO",
+    "CargaHorariaTeorico": 300,
+    "CargaHorariaPratica": null,
+    "ListaPrequisitos": [
+      {
+        "Id": 47797,
+        "Codigo": "1203.000.173-6",
+        "Descricao": "ESTÁGIO OBRIGATÓRIO INTENSIVO EM DIAGNÓSTICO POR IMAGEM",
+        "Semestre": "0",
+        "Apelido": "ESTÁGIO OBRIGATÓRIO INTENSIVO EM DIAGNÓSTICO POR IMAGEM",
+        "CargaHorariaTeorico": 0,
+        "CargaHorariaPratica": 0,
+        "ListaPrequisitos": []
+      },
+      {
+        "Id": 47798,
+        "Codigo": "1203.000.174-5",
+        "Descricao": "ESTÁGIO OBRIGATÓRIO INTENSIVO EM INSPEÇÃO E TECNOLOGIA DE ALIMENTOS",
+        "Semestre": "0",
+        "Apelido": "ESTÁGIO OBRIGATÓRIO INTENSIVO EM INSPEÇÃO E TECNOLOGIA DE ALIMENTOS",
+        "CargaHorariaTeorico": 0,
+        "CargaHorariaPratica": 0,
+        "ListaPrequisitos": []
+      },
+      {
+        "Id": 47799,
+        "Codigo": "1203.000.175-4",
+        "Descricao": "ESTÁGIO OBRIGATÓRIO INTENSIVO EM PATOLOGIA ESPECIAL VETERINÁRIA",
+        "Semestre": "0",
+        "Apelido": "ESTÁGIO OBRIGATÓRIO INTENSIVO EM PATOLOGIA ESPECIAL VETERINÁRIA",
+        "CargaHorariaTeorico": 0,
+        "CargaHorariaPratica": 0,
+        "ListaPrequisitos": []
+      },
+      {
+        "Id": 47800,
+        "Codigo": "1203.000.176-3",
+        "Descricao": "ESTÁGIO OBRIGATÓRIO INTENSIVO EM PRODUÇÃO ANIMAL",
+        "Semestre": "0",
+        "Apelido": "ESTÁGIO OBRIGATÓRIO INTENSIVO EM PRODUÇÃO ANIMAL",
+        "CargaHorariaTeorico": 0,
+        "CargaHorariaPratica": 0,
+        "ListaPrequisitos": []
+      },
+      {
+        "Id": 47820,
+        "Codigo": "1203.000.194-1",
+        "Descricao": "ESTÁGIO OBRIGATÓRIO INTENSIVO EM CLÍNICA MÉDICA DE GRANDES ANIMAIS",
+        "Semestre": "0",
+        "Apelido": "ESTÁGIO OBRIGATÓRIO INTENSIVO EM CLÍNICA MÉDICA DE GRANDES ANIMAIS",
+        "CargaHorariaTeorico": 0,
+        "CargaHorariaPratica": 0,
+        "ListaPrequisitos": []
+      },
+      {
+        "Id": 47822,
+        "Codigo": "1203.000.196-0",
+        "Descricao": "ESTÁGIO OBRIGATÓRIO INTENSIVO EM CLÍNICA MEDICA DE PEQUENOS ANIMAIS E ANIMAIS SILVESTRES",
+        "Semestre": "0",
+        "Apelido": "ESTÁGIO OBRIGATÓRIO INTENSIVO EM CLÍNICA MEDICA DE PEQUENOS ANIMAIS E ANIMAIS SILVESTRES",
+        "CargaHorariaTeorico": 0,
+        "CargaHorariaPratica": 0,
+        "ListaPrequisitos": []
+      },
+      {
+        "Id": 47824,
+        "Codigo": "1203.000.198-8",
+        "Descricao": "ESTÁGIO OBRIGATÓRIO INTENSIVO EM DIAGNÓSTICO LABORATORIAL DE PATÓGENOS",
+        "Semestre": "0",
+        "Apelido": "ESTÁGIO OBRIGATÓRIO INTENSIVO EM DIAGNÓSTICO LABORATORIAL DE PATÓGENOS",
+        "CargaHorariaTeorico": 0,
+        "CargaHorariaPratica": 0,
+        "ListaPrequisitos": []
+      },
+      {
+        "Id": 47826,
+        "Codigo": "1203.000.199-7",
+        "Descricao": "ESTÁGIO OBRIGATÓRIO INTENSIVO EM SAÚDE PÚBLICA",
+        "Semestre": "0",
+        "Apelido": "ESTÁGIO OBRIGATÓRIO INTENSIVO EM SAÚDE PÚBLICA",
+        "CargaHorariaTeorico": 0,
+        "CargaHorariaPratica": 0,
+        "ListaPrequisitos": []
+      },
+      {
+        "Id": 47834,
+        "Codigo": "1203.000.204-5",
+        "Descricao": "ESTÁGIO OBRIGATÓRIO INTENSIVO EM REPRODUÇÃO ANIMAL",
+        "Semestre": "0",
+        "Apelido": "ESTÁGIO OBRIGATÓRIO INTENSIVO EM REPRODUÇÃO ANIMAL",
+        "CargaHorariaTeorico": 0,
+        "CargaHorariaPratica": 0,
+        "ListaPrequisitos": []
+      },
+      {
+        "Id": 47843,
+        "Codigo": "1203.000.210-7",
+        "Descricao": "ESTÁGIO OBRIGATÓRIO INTENSIVO EM CIRURGIA, ANESTESIOLOGIA E OBSTETRÍCIA",
+        "Semestre": "0",
+        "Apelido": "ESTÁGIO OBRIGATÓRIO INTENSIVO EM CIRURGIA, ANESTESIOLOGIA E OBSTETRÍCIA",
+        "CargaHorariaTeorico": 0,
+        "CargaHorariaPratica": 0,
+        "ListaPrequisitos": []
+      }
+    ]
+  },
+  {
+    "Id": 41629,
+    "Codigo": "2701.000.231-8",
+    "Tipo": "OPT",
+    "Descricao": "ANATOMIA DE AVES",
+    "Semestre": 99,
+    "Apelido": "ANATOMIA DE AVES",
+    "CargaHorariaTeorico": 51,
+    "CargaHorariaPratica": null,
+    "ListaPrequisitos": [
+      {
+        "Id": 41632,
+        "Codigo": "2701.000.233-4",
+        "Descricao": "ANATOMIA DOS ANIMAIS DOMÉSTICOS I",
+        "Semestre": "0",
+        "Apelido": "ANATOMIA DOS ANIMAIS DOMÉSTICOS I",
+        "CargaHorariaTeorico": 0,
+        "CargaHorariaPratica": 0,
+        "ListaPrequisitos": []
+      }
+    ]
+  },
+  {
+    "Id": 47790,
+    "Codigo": "1203.000.166-5",
+    "Tipo": "OPT",
+    "Descricao": "ANATOMIA TOPOGRÁFICA DE PEQUENOS ANIMAIS",
+    "Semestre": 99,
+    "Apelido": "ANATOMIA TOPOGRÁFICA DE PEQUENOS ANIMAIS",
+    "CargaHorariaTeorico": 68,
+    "CargaHorariaPratica": null,
+    "ListaPrequisitos": [
+      {
+        "Id": 41636,
+        "Codigo": "2701.000.237-7",
+        "Descricao": "ANATOMIA DOS ANIMAIS DOMÉSTICOS II",
+        "Semestre": "0",
+        "Apelido": "ANATOMIA DOS ANIMAIS DOMÉSTICOS II",
+        "CargaHorariaTeorico": 0,
+        "CargaHorariaPratica": 0,
+        "ListaPrequisitos": []
+      }
+    ]
+  },
+  {
+    "Id": 47860,
+    "Codigo": "1203.000.224-1",
+    "Tipo": "OPT",
+    "Descricao": "ANESTESIOLOGIA E MEDICINA DE EMERGÊNCIA",
+    "Semestre": 99,
+    "Apelido": "ANESTESIOLOGIA E MEDICINA DE EMERGÊNCIA",
+    "CargaHorariaTeorico": 51,
+    "CargaHorariaPratica": null,
+    "ListaPrequisitos": [
+      {
+        "Id": 36860,
+        "Codigo": "1203.000.134-3",
+        "Descricao": "ANESTESIOLOGIA VETERINÁRIA",
+        "Semestre": "0",
+        "Apelido": "ANESTESIOLOGIA VETERINÁRIA",
+        "CargaHorariaTeorico": 0,
+        "CargaHorariaPratica": 0,
+        "ListaPrequisitos": []
+      }
+    ]
+  },
+  {
+    "Id": 36337,
+    "Codigo": "1203.000.003-7",
+    "Tipo": "OPT",
+    "Descricao": "APICULTURA",
+    "Semestre": 99,
+    "Apelido": "APICULTURA",
+    "CargaHorariaTeorico": 51,
+    "CargaHorariaPratica": null,
+    "ListaPrequisitos": []
+  },
+  {
+    "Id": 31970,
+    "Codigo": "2101.000.438-9",
+    "Tipo": "OPT",
+    "Descricao": "APROVEITAMENTO E TRATAMENTO DE RESÍDUOS AGROINDUSTRIAIS",
+    "Semestre": 99,
+    "Apelido": "APROVEITAMENTO E TRATAMENTO DE RESÍDUOS AGROINDUSTRIAIS",
+    "CargaHorariaTeorico": 34,
+    "CargaHorariaPratica": null,
+    "ListaPrequisitos": []
+  },
+  {
+    "Id": 47806,
+    "Codigo": "1203.000.182-5",
+    "Tipo": "OPT",
+    "Descricao": "BIOLOGIA MOLECULAR",
+    "Semestre": 99,
+    "Apelido": "BIOLOGIA MOLECULAR",
+    "CargaHorariaTeorico": 34,
+    "CargaHorariaPratica": null,
+    "ListaPrequisitos": [
+      {
+        "Id": 36843,
+        "Codigo": "1203.000.129-7",
+        "Descricao": "GENÉTICA VETERINÁRIA",
+        "Semestre": "0",
+        "Apelido": "GENÉTICA VETERINÁRIA",
+        "CargaHorariaTeorico": 0,
+        "CargaHorariaPratica": 0,
+        "ListaPrequisitos": []
+      }
+    ]
+  },
+  {
+    "Id": 41178,
+    "Codigo": "2701.000.019-6",
+    "Tipo": "OPT",
+    "Descricao": "BIOSSEGURANÇA",
+    "Semestre": 99,
+    "Apelido": "BIOSSEGURANÇA",
+    "CargaHorariaTeorico": 34,
+    "CargaHorariaPratica": null,
+    "ListaPrequisitos": []
+  },
+  {
+    "Id": 47809,
+    "Codigo": "1203.000.185-2",
+    "Tipo": "OPT",
+    "Descricao": "BIOTECNOLOGIAS APLICADAS À REPRODUÇÃO ANIMAL",
+    "Semestre": 99,
+    "Apelido": "BIOTECNOLOGIAS APLICADAS À REPRODUÇÃO ANIMAL",
+    "CargaHorariaTeorico": 51,
+    "CargaHorariaPratica": null,
+    "ListaPrequisitos": [
+      {
+        "Id": 47845,
+        "Codigo": "1203.000.212-5",
+        "Descricao": "ANDROLOGIA E BIOTECNOLOGIA DO MACHO",
+        "Semestre": "0",
+        "Apelido": "ANDROLOGIA E BIOTECNOLOGIA DO MACHO",
+        "CargaHorariaTeorico": 0,
+        "CargaHorariaPratica": 0,
+        "ListaPrequisitos": []
+      }
+    ]
+  },
+  {
+    "Id": 47808,
+    "Codigo": "1203.000.184-3",
+    "Tipo": "OPT",
+    "Descricao": "BIOTERISMO",
+    "Semestre": 99,
+    "Apelido": "BIOTERISMO",
+    "CargaHorariaTeorico": 34,
+    "CargaHorariaPratica": null,
+    "ListaPrequisitos": [
+      {
+        "Id": 47829,
+        "Codigo": "2701.000.317-9",
+        "Descricao": "FISIOLOGIA VETERINÁRIA II",
+        "Semestre": "0",
+        "Apelido": "FISIOLOGIA VETERINÁRIA II",
+        "CargaHorariaTeorico": 0,
+        "CargaHorariaPratica": 0,
+        "ListaPrequisitos": []
+      }
+    ]
+  },
+  {
+    "Id": 36343,
+    "Codigo": "1203.000.009-6",
+    "Tipo": "OPT",
+    "Descricao": "BUBALINOCULTURA",
+    "Semestre": 99,
+    "Apelido": "BUBALINOCULTURA",
+    "CargaHorariaTeorico": 51,
+    "CargaHorariaPratica": null,
+    "ListaPrequisitos": []
+  },
+  {
+    "Id": 36344,
+    "Codigo": "1203.000.010-0",
+    "Tipo": "OPT",
+    "Descricao": "CAPRINOCULTURA",
+    "Semestre": 99,
+    "Apelido": "CAPRINOCULTURA",
+    "CargaHorariaTeorico": 51,
+    "CargaHorariaPratica": null,
+    "ListaPrequisitos": []
+  },
+  {
+    "Id": 36809,
+    "Codigo": "1203.000.100-9",
+    "Tipo": "OPT",
+    "Descricao": "CLÍNICA MÉDICA E CIRÚRGICA DE ANIMAIS SELVAGENS",
+    "Semestre": 99,
+    "Apelido": "CLÍNICA MÉDICA E CIRÚRGICA DE ANIMAIS SELVAGENS",
+    "CargaHorariaTeorico": 51,
+    "CargaHorariaPratica": null,
+    "ListaPrequisitos": []
+  },
+  {
+    "Id": 41527,
+    "Codigo": "2701.000.177-0",
+    "Tipo": "OPT",
+    "Descricao": "CONSERVAÇÃO DA NATUREZA",
+    "Semestre": 99,
+    "Apelido": "CONSERVAÇÃO DA NATUREZA",
+    "CargaHorariaTeorico": 51,
+    "CargaHorariaPratica": null,
+    "ListaPrequisitos": []
+  },
+  {
+    "Id": 47819,
+    "Codigo": "1203.000.193-2",
+    "Tipo": "OPT",
+    "Descricao": "DIAGNÓSTICO PARASITOLÓGICO EM MEDICINA VETERINÁRIA",
+    "Semestre": 99,
+    "Apelido": "DIAGNÓSTICO PARASITOLÓGICO EM MEDICINA VETERINÁRIA",
+    "CargaHorariaTeorico": 34,
+    "CargaHorariaPratica": null,
+    "ListaPrequisitos": [
+      {
+        "Id": 47811,
+        "Codigo": "2701.000.315-0",
+        "Descricao": "PARASITOLOGIA VETERINÁRIA II",
+        "Semestre": "0",
+        "Apelido": "PARASITOLOGIA VETERINÁRIA II",
+        "CargaHorariaTeorico": 0,
+        "CargaHorariaPratica": 0,
+        "ListaPrequisitos": []
+      }
+    ]
+  },
+  {
+    "Id": 36810,
+    "Codigo": "1203.000.101-7",
+    "Tipo": "OPT",
+    "Descricao": "DOENÇAS CARENCIAIS E METABÓLICAS DE GRANDES ANIMAIS",
+    "Semestre": 99,
+    "Apelido": "DOENÇAS CARENCIAIS E METABÓLICAS DE GRANDES ANIMAIS",
+    "CargaHorariaTeorico": 51,
+    "CargaHorariaPratica": null,
+    "ListaPrequisitos": [
+      {
+        "Id": 36863,
+        "Codigo": "1203.000.137-8",
+        "Descricao": "SEMIOLOGIA VETERINÁRIA",
+        "Semestre": "0",
+        "Apelido": "SEMIOLOGIA VETERINÁRIA",
+        "CargaHorariaTeorico": 0,
+        "CargaHorariaPratica": 0,
+        "ListaPrequisitos": []
+      }
+    ]
+  },
+  {
+    "Id": 36811,
+    "Codigo": "1203.000.102-5",
+    "Tipo": "OPT",
+    "Descricao": "DOENÇAS DE RUMINANTES E EQUÍDEOS",
+    "Semestre": 99,
+    "Apelido": "DOENÇAS DE RUMINANTES E EQUÍDEOS",
+    "CargaHorariaTeorico": 68,
+    "CargaHorariaPratica": null,
+    "ListaPrequisitos": [
+      {
+        "Id": 36863,
+        "Codigo": "1203.000.137-8",
+        "Descricao": "SEMIOLOGIA VETERINÁRIA",
+        "Semestre": "0",
+        "Apelido": "SEMIOLOGIA VETERINÁRIA",
+        "CargaHorariaTeorico": 0,
+        "CargaHorariaPratica": 0,
+        "ListaPrequisitos": []
+      },
+      {
+        "Id": 47852,
+        "Codigo": "1203.000.217-0",
+        "Descricao": "PATOLOGIA ESPECIAL VETERINÁRIA",
+        "Semestre": "0",
+        "Apelido": "PATOLOGIA ESPECIAL VETERINÁRIA",
+        "CargaHorariaTeorico": 0,
+        "CargaHorariaPratica": 0,
+        "ListaPrequisitos": []
+      }
+    ]
+  },
+  {
+    "Id": 47850,
+    "Codigo": "1203.000.215-2",
+    "Tipo": "OPT",
+    "Descricao": "DOENÇAS INFECCIOSAS VIRAIS EMERGENTES",
+    "Semestre": 99,
+    "Apelido": "DOENÇAS INFECCIOSAS VIRAIS EMERGENTES",
+    "CargaHorariaTeorico": 34,
+    "CargaHorariaPratica": null,
+    "ListaPrequisitos": []
+  },
+  {
+    "Id": 41760,
+    "Codigo": "3001.000.004-8",
+    "Tipo": "OPT",
+    "Descricao": "EDUCAÇÃO DAS RELAÇÕES ÉTNICO-RACIAIS",
+    "Semestre": 99,
+    "Apelido": "EDUCAÇÃO DAS RELAÇÕES ÉTNICO-RACIAIS",
+    "CargaHorariaTeorico": 34,
+    "CargaHorariaPratica": null,
+    "ListaPrequisitos": []
+  },
+  {
+    "Id": 47802,
+    "Codigo": "1203.000.178-1",
+    "Tipo": "OPT",
+    "Descricao": "EFICIÊNCIA REPRODUTIVA DE ANIMAIS DOMÉSTICOS",
+    "Semestre": 99,
+    "Apelido": "EFICIÊNCIA REPRODUTIVA DE ANIMAIS DOMÉSTICOS",
+    "CargaHorariaTeorico": 51,
+    "CargaHorariaPratica": null,
+    "ListaPrequisitos": [
+      {
+        "Id": 47794,
+        "Codigo": "1203.000.170-9",
+        "Descricao": "GINECOLOGIA E BIOTECNOLOGIA DA FÊMEA",
+        "Semestre": "0",
+        "Apelido": "GINECOLOGIA E BIOTECNOLOGIA DA FÊMEA",
+        "CargaHorariaTeorico": 0,
+        "CargaHorariaPratica": 0,
+        "ListaPrequisitos": []
+      },
+      {
+        "Id": 47845,
+        "Codigo": "1203.000.212-5",
+        "Descricao": "ANDROLOGIA E BIOTECNOLOGIA DO MACHO",
+        "Semestre": "0",
+        "Apelido": "ANDROLOGIA E BIOTECNOLOGIA DO MACHO",
+        "CargaHorariaTeorico": 0,
+        "CargaHorariaPratica": 0,
+        "ListaPrequisitos": []
+      }
+    ]
+  },
+  {
+    "Id": 36437,
+    "Codigo": "1203.000.084-3",
+    "Tipo": "OPT",
+    "Descricao": "EQUIDEOCULTURA",
+    "Semestre": 99,
+    "Apelido": "EQUIDEOCULTURA",
+    "CargaHorariaTeorico": 51,
+    "CargaHorariaPratica": null,
+    "ListaPrequisitos": [
+      {
+        "Id": 36853,
+        "Codigo": "1203.000.131-9",
+        "Descricao": "ALIMENTAÇÃO E NUTRIÇÃO ANIMAL",
+        "Semestre": "0",
+        "Apelido": "ALIMENTAÇÃO E NUTRIÇÃO ANIMAL",
+        "CargaHorariaTeorico": 0,
+        "CargaHorariaPratica": 0,
+        "ListaPrequisitos": []
+      },
+      {
+        "Id": 36858,
+        "Codigo": "1203.000.132-7",
+        "Descricao": "AGROSTOLOGIA E CONSERVAÇÃO DE SOLOS",
+        "Semestre": "0",
+        "Apelido": "AGROSTOLOGIA E CONSERVAÇÃO DE SOLOS",
+        "CargaHorariaTeorico": 0,
+        "CargaHorariaPratica": 0,
+        "ListaPrequisitos": []
+      }
+    ]
+  },
+  {
+    "Id": 35081,
+    "Codigo": "2101.000.938-0",
+    "Tipo": "OPT",
+    "Descricao": "EROSÃO E CONSERVAÇÃO DO SOLO",
+    "Semestre": 99,
+    "Apelido": "EROSÃO E CONSERVAÇÃO DO SOLO",
+    "CargaHorariaTeorico": 68,
+    "CargaHorariaPratica": null,
+    "ListaPrequisitos": []
+  },
+  {
+    "Id": 41756,
+    "Codigo": "3101.000.095-0",
+    "Tipo": "OPT",
+    "Descricao": "ESTUDO DE LIBRAS",
+    "Semestre": 99,
+    "Apelido": "ESTUDO DE LIBRAS",
+    "CargaHorariaTeorico": 51,
+    "CargaHorariaPratica": null,
+    "ListaPrequisitos": []
+  },
+  {
+    "Id": 41470,
+    "Codigo": "2701.000.120-6",
+    "Tipo": "OPT",
+    "Descricao": "FUNDAMENTOS DE AGROECOLOGIA",
+    "Semestre": 99,
+    "Apelido": "FUNDAMENTOS DE AGROECOLOGIA",
+    "CargaHorariaTeorico": 51,
+    "CargaHorariaPratica": null,
+    "ListaPrequisitos": []
+  },
+  {
+    "Id": 41524,
+    "Codigo": "2701.000.174-5",
+    "Tipo": "OPT",
+    "Descricao": "FUNDAMENTOS DE BIOTECNOLOGIA",
+    "Semestre": 99,
+    "Apelido": "FUNDAMENTOS DE BIOTECNOLOGIA",
+    "CargaHorariaTeorico": 34,
+    "CargaHorariaPratica": null,
+    "ListaPrequisitos": []
+  },
+  {
+    "Id": 34343,
+    "Codigo": "2101.000.846-5",
+    "Tipo": "OPT",
+    "Descricao": "GESTÃO AMBIENTAL",
+    "Semestre": 99,
+    "Apelido": "GESTÃO AMBIENTAL",
+    "CargaHorariaTeorico": 68,
+    "CargaHorariaPratica": null,
+    "ListaPrequisitos": []
+  },
+  {
+    "Id": 32013,
+    "Codigo": "2101.000.473-7",
+    "Tipo": "OPT",
+    "Descricao": "GESTÃO DA QUALIDADE",
+    "Semestre": 99,
+    "Apelido": "GESTÃO DA QUALIDADE",
+    "CargaHorariaTeorico": 51,
+    "CargaHorariaPratica": null,
+    "ListaPrequisitos": []
+  },
+  {
+    "Id": 47796,
+    "Codigo": "1203.000.172-7",
+    "Tipo": "OPT",
+    "Descricao": "HIGIENE E SEGURANÇA DOS ALIMENTOS",
+    "Semestre": 99,
+    "Apelido": "HIGIENE E SEGURANÇA DOS ALIMENTOS",
+    "CargaHorariaTeorico": 34,
+    "CargaHorariaPratica": null,
+    "ListaPrequisitos": [
+      {
+        "Id": 47789,
+        "Codigo": "1203.000.165-6",
+        "Descricao": "INSPEÇÃO E TECNOLOGIA DE CARNES E DERIVADOS",
+        "Semestre": "0",
+        "Apelido": "INSPEÇÃO E TECNOLOGIA DE CARNES E DERIVADOS",
+        "CargaHorariaTeorico": 0,
+        "CargaHorariaPratica": 0,
+        "ListaPrequisitos": []
+      },
+      {
+        "Id": 47827,
+        "Codigo": "2601.000.405-8",
+        "Descricao": "INSPEÇÃO E TECNOLOGIA DE LEITES E DERIVADOS",
+        "Semestre": "0",
+        "Apelido": "INSPEÇÃO E TECNOLOGIA DE LEITES E DERIVADOS",
+        "CargaHorariaTeorico": 0,
+        "CargaHorariaPratica": 0,
+        "ListaPrequisitos": []
+      }
+    ]
+  },
+  {
+    "Id": 47842,
+    "Codigo": "2701.000.321-2",
+    "Tipo": "OPT",
+    "Descricao": "HISTOLOGIA COMPARADA",
+    "Semestre": 99,
+    "Apelido": "HISTOLOGIA COMPARADA",
+    "CargaHorariaTeorico": 68,
+    "CargaHorariaPratica": null,
+    "ListaPrequisitos": [
+      {
+        "Id": 47838,
+        "Codigo": "2701.000.319-7",
+        "Descricao": "HISTOLOGIA BÁSICA",
+        "Semestre": "0",
+        "Apelido": "HISTOLOGIA BÁSICA",
+        "CargaHorariaTeorico": 0,
+        "CargaHorariaPratica": 0,
+        "ListaPrequisitos": []
+      }
+    ]
+  },
+  {
+    "Id": 47791,
+    "Codigo": "1203.000.167-4",
+    "Tipo": "OPT",
+    "Descricao": "IMUNODIAGNÓSTICO EM MEDICINA VETERINÁRIA",
+    "Semestre": 99,
+    "Apelido": "IMUNODIAGNÓSTICO EM MEDICINA VETERINÁRIA",
+    "CargaHorariaTeorico": 34,
+    "CargaHorariaPratica": null,
+    "ListaPrequisitos": [
+      {
+        "Id": 47830,
+        "Codigo": "2701.000.318-8",
+        "Descricao": "IMUNOLOGIA VETERINÁRIA",
+        "Semestre": "0",
+        "Apelido": "IMUNOLOGIA VETERINÁRIA",
+        "CargaHorariaTeorico": 0,
+        "CargaHorariaPratica": 0,
+        "ListaPrequisitos": []
+      }
+    ]
+  },
+  {
+    "Id": 45516,
+    "Codigo": "2801.000.128-3",
+    "Tipo": "OPT",
+    "Descricao": "INDICADORES DE SAÚDE E SISTEMAS DE INFORMAÇÕES EM SAÚDE (SIS)",
+    "Semestre": 99,
+    "Apelido": "INDICADORES DE SAÚDE E SISTEMAS DE INFORMAÇÕES EM SAÚDE (SIS)",
+    "CargaHorariaTeorico": 34,
+    "CargaHorariaPratica": null,
+    "ListaPrequisitos": []
+  },
+  {
+    "Id": 47792,
+    "Codigo": "1203.000.168-3",
+    "Tipo": "OPT",
+    "Descricao": "INTRODUÇÃO A HOMEOPATIA VETERINÁRIA",
+    "Semestre": 99,
+    "Apelido": "INTRODUÇÃO A HOMEOPATIA VETERINÁRIA",
+    "CargaHorariaTeorico": 51,
+    "CargaHorariaPratica": null,
+    "ListaPrequisitos": [
+      {
+        "Id": 36863,
+        "Codigo": "1203.000.137-8",
+        "Descricao": "SEMIOLOGIA VETERINÁRIA",
+        "Semestre": "0",
+        "Apelido": "SEMIOLOGIA VETERINÁRIA",
+        "CargaHorariaTeorico": 0,
+        "CargaHorariaPratica": 0,
+        "ListaPrequisitos": []
+      }
+    ]
+  },
+  {
+    "Id": 47805,
+    "Codigo": "1203.000.181-6",
+    "Tipo": "OPT",
+    "Descricao": "INTRODUÇÃO A MEDICINA VETERINÁRIA INTEGRATIVA",
+    "Semestre": 99,
+    "Apelido": "INTRODUÇÃO A MEDICINA VETERINÁRIA INTEGRATIVA",
+    "CargaHorariaTeorico": 68,
+    "CargaHorariaPratica": null,
+    "ListaPrequisitos": [
+      {
+        "Id": 36863,
+        "Codigo": "1203.000.137-8",
+        "Descricao": "SEMIOLOGIA VETERINÁRIA",
+        "Semestre": "0",
+        "Apelido": "SEMIOLOGIA VETERINÁRIA",
+        "CargaHorariaTeorico": 0,
+        "CargaHorariaPratica": 0,
+        "ListaPrequisitos": []
+      },
+      {
+        "Id": 41643,
+        "Codigo": "2601.000.193-3",
+        "Descricao": "FARMACOLOGIA VETERINÁRIA",
+        "Semestre": "0",
+        "Apelido": "FARMACOLOGIA VETERINÁRIA",
+        "CargaHorariaTeorico": 0,
+        "CargaHorariaPratica": 0,
+        "ListaPrequisitos": []
+      }
+    ]
+  },
+  {
+    "Id": 47840,
+    "Codigo": "1203.000.209-0",
+    "Tipo": "OPT",
+    "Descricao": "LABORATÓRIO DE DIAGNÓSTICO BACTERIOLÓGICO E MICOLÓGICO",
+    "Semestre": 99,
+    "Apelido": "LABORATÓRIO DE DIAGNÓSTICO BACTERIOLÓGICO E MICOLÓGICO",
+    "CargaHorariaTeorico": 34,
+    "CargaHorariaPratica": null,
+    "ListaPrequisitos": [
+      {
+        "Id": 36866,
+        "Codigo": "1203.000.140-8",
+        "Descricao": "DOENÇAS INFECCIOSAS I",
+        "Semestre": "0",
+        "Apelido": "DOENÇAS INFECCIOSAS I",
+        "CargaHorariaTeorico": 0,
+        "CargaHorariaPratica": 0,
+        "ListaPrequisitos": []
+      }
+    ]
+  },
+  {
+    "Id": 44523,
+    "Codigo": "2701.000.273-4",
+    "Tipo": "OPT",
+    "Descricao": "LEGISLAÇÃO AMBIENTAL",
+    "Semestre": 99,
+    "Apelido": "LEGISLAÇÃO AMBIENTAL",
+    "CargaHorariaTeorico": 34,
+    "CargaHorariaPratica": null,
+    "ListaPrequisitos": []
+  },
+  {
+    "Id": 47839,
+    "Codigo": "1203.000.208-1",
+    "Tipo": "OPT",
+    "Descricao": "MANEJO E CONSERVAÇÃO DE ANIMAIS SELVAGENS",
+    "Semestre": 99,
+    "Apelido": "MANEJO E CONSERVAÇÃO DE ANIMAIS SELVAGENS",
+    "CargaHorariaTeorico": 34,
+    "CargaHorariaPratica": null,
+    "ListaPrequisitos": []
+  },
+  {
+    "Id": 36816,
+    "Codigo": "1203.000.105-0",
+    "Tipo": "OPT",
+    "Descricao": "MANEJO PROFILÁTICO E SANITÁRIO DE RUMINANTES",
+    "Semestre": 99,
+    "Apelido": "MANEJO PROFILÁTICO E SANITÁRIO DE RUMINANTES",
+    "CargaHorariaTeorico": 51,
+    "CargaHorariaPratica": null,
+    "ListaPrequisitos": []
+  },
+  {
+    "Id": 47859,
+    "Codigo": "1203.000.223-2",
+    "Tipo": "OPT",
+    "Descricao": "MEDICINA VETERINÁRIA DE SUÍNOS",
+    "Semestre": 99,
+    "Apelido": "MEDICINA VETERINÁRIA DE SUÍNOS",
+    "CargaHorariaTeorico": 68,
+    "CargaHorariaPratica": null,
+    "ListaPrequisitos": [
+      {
+        "Id": 47814,
+        "Codigo": "2701.000.316-0",
+        "Descricao": "PATOLOGIA GERAL",
+        "Semestre": "0",
+        "Apelido": "PATOLOGIA GERAL",
+        "CargaHorariaTeorico": 0,
+        "CargaHorariaPratica": 0,
+        "ListaPrequisitos": []
+      },
+      {
+        "Id": 47833,
+        "Codigo": "1203.000.203-6",
+        "Descricao": "PRODUÇÃO ANIMAL I",
+        "Semestre": "0",
+        "Apelido": "PRODUÇÃO ANIMAL I",
+        "CargaHorariaTeorico": 0,
+        "CargaHorariaPratica": 0,
+        "ListaPrequisitos": []
+      }
+    ]
+  },
+  {
+    "Id": 47849,
+    "Codigo": "1203.000.214-3",
+    "Tipo": "OPT",
+    "Descricao": "MELIPONICULTURA",
+    "Semestre": 99,
+    "Apelido": "MELIPONICULTURA",
+    "CargaHorariaTeorico": 51,
+    "CargaHorariaPratica": null,
+    "ListaPrequisitos": []
+  },
+  {
+    "Id": 47793,
+    "Codigo": "1203.000.169-2",
+    "Tipo": "OPT",
+    "Descricao": "ONCOLOGIA VETERINÁRIA",
+    "Semestre": 99,
+    "Apelido": "ONCOLOGIA VETERINÁRIA",
+    "CargaHorariaTeorico": 34,
+    "CargaHorariaPratica": null,
+    "ListaPrequisitos": [
+      {
+        "Id": 36843,
+        "Codigo": "1203.000.129-7",
+        "Descricao": "GENÉTICA VETERINÁRIA",
+        "Semestre": "0",
+        "Apelido": "GENÉTICA VETERINÁRIA",
+        "CargaHorariaTeorico": 0,
+        "CargaHorariaPratica": 0,
+        "ListaPrequisitos": []
+      },
+      {
+        "Id": 36863,
+        "Codigo": "1203.000.137-8",
+        "Descricao": "SEMIOLOGIA VETERINÁRIA",
+        "Semestre": "0",
+        "Apelido": "SEMIOLOGIA VETERINÁRIA",
+        "CargaHorariaTeorico": 0,
+        "CargaHorariaPratica": 0,
+        "ListaPrequisitos": []
+      },
+      {
+        "Id": 36867,
+        "Codigo": "1203.000.141-6",
+        "Descricao": "DIAGNÓSTICO POR IMAGEM",
+        "Semestre": "0",
+        "Apelido": "DIAGNÓSTICO POR IMAGEM",
+        "CargaHorariaTeorico": 0,
+        "CargaHorariaPratica": 0,
+        "ListaPrequisitos": []
+      },
+      {
+        "Id": 47852,
+        "Codigo": "1203.000.217-0",
+        "Descricao": "PATOLOGIA ESPECIAL VETERINÁRIA",
+        "Semestre": "0",
+        "Apelido": "PATOLOGIA ESPECIAL VETERINÁRIA",
+        "CargaHorariaTeorico": 0,
+        "CargaHorariaPratica": 0,
+        "ListaPrequisitos": []
+      },
+      {
+        "Id": 47863,
+        "Codigo": "1203.000.226-0",
+        "Descricao": "PATOLOGIA CLÍNICA VETERINÁRIA",
+        "Semestre": "0",
+        "Apelido": "PATOLOGIA CLÍNICA VETERINÁRIA",
+        "CargaHorariaTeorico": 0,
+        "CargaHorariaPratica": 0,
+        "ListaPrequisitos": []
+      }
+    ]
+  },
+  {
+    "Id": 47861,
+    "Codigo": "1203.000.225-0",
+    "Tipo": "OPT",
+    "Descricao": "ORTOPEDIA EM PEQUENOS ANIMAIS",
+    "Semestre": 99,
+    "Apelido": "ORTOPEDIA EM PEQUENOS ANIMAIS",
+    "CargaHorariaTeorico": 34,
+    "CargaHorariaPratica": null,
+    "ListaPrequisitos": [
+      {
+        "Id": 36867,
+        "Codigo": "1203.000.141-6",
+        "Descricao": "DIAGNÓSTICO POR IMAGEM",
+        "Semestre": "0",
+        "Apelido": "DIAGNÓSTICO POR IMAGEM",
+        "CargaHorariaTeorico": 0,
+        "CargaHorariaPratica": 0,
+        "ListaPrequisitos": []
+      },
+      {
+        "Id": 36871,
+        "Codigo": "1203.000.145-9",
+        "Descricao": "TÉCNICA CIRÚRGICA VETERINÁRIA",
+        "Semestre": "0",
+        "Apelido": "TÉCNICA CIRÚRGICA VETERINÁRIA",
+        "CargaHorariaTeorico": 0,
+        "CargaHorariaPratica": 0,
+        "ListaPrequisitos": []
+      }
+    ]
+  },
+  {
+    "Id": 36434,
+    "Codigo": "1203.000.081-9",
+    "Tipo": "OPT",
+    "Descricao": "OVINOCULTURA",
+    "Semestre": 99,
+    "Apelido": "OVINOCULTURA",
+    "CargaHorariaTeorico": 51,
+    "CargaHorariaPratica": null,
+    "ListaPrequisitos": []
+  },
+  {
+    "Id": 47844,
+    "Codigo": "1203.000.211-6",
+    "Tipo": "OPT",
+    "Descricao": "PATOLOGIA DE CÃES E GATOS",
+    "Semestre": 99,
+    "Apelido": "PATOLOGIA DE CÃES E GATOS",
+    "CargaHorariaTeorico": 34,
+    "CargaHorariaPratica": null,
+    "ListaPrequisitos": [
+      {
+        "Id": 47852,
+        "Codigo": "1203.000.217-0",
+        "Descricao": "PATOLOGIA ESPECIAL VETERINÁRIA",
+        "Semestre": "0",
+        "Apelido": "PATOLOGIA ESPECIAL VETERINÁRIA",
+        "CargaHorariaTeorico": 0,
+        "CargaHorariaPratica": 0,
+        "ListaPrequisitos": []
+      }
+    ]
+  },
+  {
+    "Id": 36427,
+    "Codigo": "1203.000.074-6",
+    "Tipo": "OPT",
+    "Descricao": "PISCICULTURA",
+    "Semestre": 99,
+    "Apelido": "PISCICULTURA",
+    "CargaHorariaTeorico": 51,
+    "CargaHorariaPratica": null,
+    "ListaPrequisitos": [
+      {
+        "Id": 36853,
+        "Codigo": "1203.000.131-9",
+        "Descricao": "ALIMENTAÇÃO E NUTRIÇÃO ANIMAL",
+        "Semestre": "0",
+        "Apelido": "ALIMENTAÇÃO E NUTRIÇÃO ANIMAL",
+        "CargaHorariaTeorico": 0,
+        "CargaHorariaPratica": 0,
+        "ListaPrequisitos": []
+      }
+    ]
+  },
+  {
+    "Id": 47825,
+    "Codigo": "2101.001.404-6",
+    "Tipo": "OPT",
+    "Descricao": "PLANEJAMENTO E SAÚDE AMBIENTAL",
+    "Semestre": 99,
+    "Apelido": "PLANEJAMENTO E SAÚDE AMBIENTAL",
+    "CargaHorariaTeorico": 51,
+    "CargaHorariaPratica": null,
+    "ListaPrequisitos": []
+  },
+  {
+    "Id": 41488,
+    "Codigo": "2701.000.138-9",
+    "Tipo": "OPT",
+    "Descricao": "POLUIÇÃO AMBIENTAL",
+    "Semestre": 99,
+    "Apelido": "POLUIÇÃO AMBIENTAL",
+    "CargaHorariaTeorico": 34,
+    "CargaHorariaPratica": null,
+    "ListaPrequisitos": []
+  },
+  {
+    "Id": 47807,
+    "Codigo": "1203.000.183-4",
+    "Tipo": "OPT",
+    "Descricao": "PRÁTICA DE CAMPO, MANEJO E LIDA",
+    "Semestre": 99,
+    "Apelido": "PRÁTICA DE CAMPO, MANEJO E LIDA",
+    "CargaHorariaTeorico": 51,
+    "CargaHorariaPratica": null,
+    "ListaPrequisitos": [
+      {
+        "Id": 47786,
+        "Codigo": "1203.000.162-9",
+        "Descricao": "CLÍNICA MÉDICA E TERAPÊUTICA DE RUMINANTES",
+        "Semestre": "0",
+        "Apelido": "CLÍNICA MÉDICA E TERAPÊUTICA DE RUMINANTES",
+        "CargaHorariaTeorico": 0,
+        "CargaHorariaPratica": 0,
+        "ListaPrequisitos": []
+      },
+      {
+        "Id": 47831,
+        "Codigo": "1203.000.201-8",
+        "Descricao": "CLÍNICA MÉDICA E TERAPÊUTICA DE EQUIDEOS",
+        "Semestre": "0",
+        "Apelido": "CLÍNICA MÉDICA E TERAPÊUTICA DE EQUIDEOS",
+        "CargaHorariaTeorico": 0,
+        "CargaHorariaPratica": 0,
+        "ListaPrequisitos": []
+      }
+    ]
+  },
+  {
+    "Id": 47828,
+    "Codigo": "1203.000.200-9",
+    "Tipo": "OPT",
+    "Descricao": "PRATICA HOSPITALAR EM CLÍNICA MÉDICA DE GRANDES ANIMAIS",
+    "Semestre": 99,
+    "Apelido": "PRATICA HOSPITALAR EM CLÍNICA MÉDICA DE GRANDES ANIMAIS",
+    "CargaHorariaTeorico": 68,
+    "CargaHorariaPratica": null,
+    "ListaPrequisitos": [
+      {
+        "Id": 36872,
+        "Codigo": "1203.000.146-7",
+        "Descricao": "CLÍNICA CIRÚRGICA VETERINÁRIA",
+        "Semestre": "0",
+        "Apelido": "CLÍNICA CIRÚRGICA VETERINÁRIA",
+        "CargaHorariaTeorico": 0,
+        "CargaHorariaPratica": 0,
+        "ListaPrequisitos": []
+      },
+      {
+        "Id": 47854,
+        "Codigo": "1203.000.219-9",
+        "Descricao": "DOENÇAS INFECCIOSAS II",
+        "Semestre": "0",
+        "Apelido": "DOENÇAS INFECCIOSAS II",
+        "CargaHorariaTeorico": 0,
+        "CargaHorariaPratica": 0,
+        "ListaPrequisitos": []
+      }
+    ]
+  },
+  {
+    "Id": 36827,
+    "Codigo": "1203.000.116-5",
+    "Tipo": "OPT",
+    "Descricao": "PRÁTICA HOSPITALAR EM DIAGNÓSTICO POR IMAGEM",
+    "Semestre": 99,
+    "Apelido": "PRÁTICA HOSPITALAR EM DIAGNÓSTICO POR IMAGEM",
+    "CargaHorariaTeorico": 68,
+    "CargaHorariaPratica": null,
+    "ListaPrequisitos": [
+      {
+        "Id": 36867,
+        "Codigo": "1203.000.141-6",
+        "Descricao": "DIAGNÓSTICO POR IMAGEM",
+        "Semestre": "0",
+        "Apelido": "DIAGNÓSTICO POR IMAGEM",
+        "CargaHorariaTeorico": 0,
+        "CargaHorariaPratica": 0,
+        "ListaPrequisitos": []
+      }
+    ]
+  },
+  {
+    "Id": 47856,
+    "Codigo": "1203.000.221-4",
+    "Tipo": "OPT",
+    "Descricao": "PRATICA HOSPITALAR EM GINECOLOGIA E OBSTETRICIA",
+    "Semestre": 99,
+    "Apelido": "PRATICA HOSPITALAR EM GINECOLOGIA E OBSTETRICIA",
+    "CargaHorariaTeorico": 68,
+    "CargaHorariaPratica": null,
+    "ListaPrequisitos": [
+      {
+        "Id": 47855,
+        "Codigo": "1203.000.220-5",
+        "Descricao": "OBSTETRÍCIA VETERINÁRIA",
+        "Semestre": "0",
+        "Apelido": "OBSTETRÍCIA VETERINÁRIA",
+        "CargaHorariaTeorico": 0,
+        "CargaHorariaPratica": 0,
+        "ListaPrequisitos": []
+      }
+    ]
+  },
+  {
+    "Id": 36829,
+    "Codigo": "1203.000.118-1",
+    "Tipo": "OPT",
+    "Descricao": "PRÁTICA HOSPITALAR EM REPRODUÇÃO ANIMAL",
+    "Semestre": 99,
+    "Apelido": "PRÁTICA HOSPITALAR EM REPRODUÇÃO ANIMAL",
+    "CargaHorariaTeorico": 68,
+    "CargaHorariaPratica": null,
+    "ListaPrequisitos": [
+      {
+        "Id": 36863,
+        "Codigo": "1203.000.137-8",
+        "Descricao": "SEMIOLOGIA VETERINÁRIA",
+        "Semestre": "0",
+        "Apelido": "SEMIOLOGIA VETERINÁRIA",
+        "CargaHorariaTeorico": 0,
+        "CargaHorariaPratica": 0,
+        "ListaPrequisitos": []
+      }
+    ]
+  },
+  {
+    "Id": 47823,
+    "Codigo": "1203.000.197-9",
+    "Tipo": "OPT",
+    "Descricao": "PRÁTICAS DE CAMPO EM DOENÇAS PARASITÁRIAS DE ANIMAIS DE PRODUÇÃO",
+    "Semestre": 99,
+    "Apelido": "PRÁTICAS DE CAMPO EM DOENÇAS PARASITÁRIAS DE ANIMAIS DE PRODUÇÃO",
+    "CargaHorariaTeorico": 34,
+    "CargaHorariaPratica": null,
+    "ListaPrequisitos": [
+      {
+        "Id": 47811,
+        "Codigo": "2701.000.315-0",
+        "Descricao": "PARASITOLOGIA VETERINÁRIA II",
+        "Semestre": "0",
+        "Apelido": "PARASITOLOGIA VETERINÁRIA II",
+        "CargaHorariaTeorico": 0,
+        "CargaHorariaPratica": 0,
+        "ListaPrequisitos": []
+      }
+    ]
+  },
+  {
+    "Id": 32040,
+    "Codigo": "2101.000.500-8",
+    "Tipo": "OPT",
+    "Descricao": "PROCESSAMENTO DE PRODUTOS DE ORIGEM ANIMAL",
+    "Semestre": 99,
+    "Apelido": "PROCESSAMENTO DE PRODUTOS DE ORIGEM ANIMAL",
+    "CargaHorariaTeorico": 34,
+    "CargaHorariaPratica": null,
+    "ListaPrequisitos": []
+  },
+  {
+    "Id": 32000,
+    "Codigo": "2101.000.460-5",
+    "Tipo": "OPT",
+    "Descricao": "PROCESSOS AGROINDUSTRIAIS",
+    "Semestre": 99,
+    "Apelido": "PROCESSOS AGROINDUSTRIAIS",
+    "CargaHorariaTeorico": 34,
+    "CargaHorariaPratica": null,
+    "ListaPrequisitos": []
+  },
+  {
+    "Id": 36830,
+    "Codigo": "1203.000.119-0",
+    "Tipo": "OPT",
+    "Descricao": "PRODUÇÃO ANIMAL EM PASTAGENS",
+    "Semestre": 99,
+    "Apelido": "PRODUÇÃO ANIMAL EM PASTAGENS",
+    "CargaHorariaTeorico": 51,
+    "CargaHorariaPratica": null,
+    "ListaPrequisitos": [
+      {
+        "Id": 36858,
+        "Codigo": "1203.000.132-7",
+        "Descricao": "AGROSTOLOGIA E CONSERVAÇÃO DE SOLOS",
+        "Semestre": "0",
+        "Apelido": "AGROSTOLOGIA E CONSERVAÇÃO DE SOLOS",
+        "CargaHorariaTeorico": 0,
+        "CargaHorariaPratica": 0,
+        "ListaPrequisitos": []
+      }
+    ]
+  },
+  {
+    "Id": 36831,
+    "Codigo": "1203.000.120-3",
+    "Tipo": "OPT",
+    "Descricao": "PROGRAMAS DE MELHORAMENTO ANIMAL",
+    "Semestre": 99,
+    "Apelido": "PROGRAMAS DE MELHORAMENTO ANIMAL",
+    "CargaHorariaTeorico": 51,
+    "CargaHorariaPratica": null,
+    "ListaPrequisitos": [
+      {
+        "Id": 36870,
+        "Codigo": "1203.000.144-0",
+        "Descricao": "MELHORAMENTO GENÉTICO ANIMAL",
+        "Semestre": "0",
+        "Apelido": "MELHORAMENTO GENÉTICO ANIMAL",
+        "CargaHorariaTeorico": 0,
+        "CargaHorariaPratica": 0,
+        "ListaPrequisitos": []
+      }
+    ]
+  },
+  {
+    "Id": 47836,
+    "Codigo": "1203.000.206-3",
+    "Tipo": "OPT",
+    "Descricao": "REPRODUÇÃO DE CARNÍVOROS",
+    "Semestre": 99,
+    "Apelido": "REPRODUÇÃO DE CARNÍVOROS",
+    "CargaHorariaTeorico": 34,
+    "CargaHorariaPratica": null,
+    "ListaPrequisitos": [
+      {
+        "Id": 36863,
+        "Codigo": "1203.000.137-8",
+        "Descricao": "SEMIOLOGIA VETERINÁRIA",
+        "Semestre": "0",
+        "Apelido": "SEMIOLOGIA VETERINÁRIA",
+        "CargaHorariaTeorico": 0,
+        "CargaHorariaPratica": 0,
+        "ListaPrequisitos": []
+      }
+    ]
+  },
+  {
+    "Id": 41531,
+    "Codigo": "2701.000.181-8",
+    "Tipo": "OPT",
+    "Descricao": "RESTAURAÇÃO AMBIENTAL",
+    "Semestre": 99,
+    "Apelido": "RESTAURAÇÃO AMBIENTAL",
+    "CargaHorariaTeorico": 34,
+    "CargaHorariaPratica": null,
+    "ListaPrequisitos": []
+  },
+  {
+    "Id": 47835,
+    "Codigo": "1203.000.205-4",
+    "Tipo": "OPT",
+    "Descricao": "SANIDADE AVÍCOLA E SUINÍCOLA",
+    "Semestre": 99,
+    "Apelido": "SANIDADE AVÍCOLA E SUINÍCOLA",
+    "CargaHorariaTeorico": 34,
+    "CargaHorariaPratica": null,
+    "ListaPrequisitos": [
+      {
+        "Id": 47852,
+        "Codigo": "1203.000.217-0",
+        "Descricao": "PATOLOGIA ESPECIAL VETERINÁRIA",
+        "Semestre": "0",
+        "Apelido": "PATOLOGIA ESPECIAL VETERINÁRIA",
+        "CargaHorariaTeorico": 0,
+        "CargaHorariaPratica": 0,
+        "ListaPrequisitos": []
+      }
+    ]
+  },
+  {
+    "Id": 47804,
+    "Codigo": "1203.000.180-7",
+    "Tipo": "OPT",
+    "Descricao": "SANIDADE DE AVES",
+    "Semestre": 99,
+    "Apelido": "SANIDADE DE AVES",
+    "CargaHorariaTeorico": 51,
+    "CargaHorariaPratica": null,
+    "ListaPrequisitos": [
+      {
+        "Id": 47814,
+        "Codigo": "2701.000.316-0",
+        "Descricao": "PATOLOGIA GERAL",
+        "Semestre": "0",
+        "Apelido": "PATOLOGIA GERAL",
+        "CargaHorariaTeorico": 0,
+        "CargaHorariaPratica": 0,
+        "ListaPrequisitos": []
+      },
+      {
+        "Id": 47833,
+        "Codigo": "1203.000.203-6",
+        "Descricao": "PRODUÇÃO ANIMAL I",
+        "Semestre": "0",
+        "Apelido": "PRODUÇÃO ANIMAL I",
+        "CargaHorariaTeorico": 0,
+        "CargaHorariaPratica": 0,
+        "ListaPrequisitos": []
+      }
+    ]
+  },
+  {
+    "Id": 47795,
+    "Codigo": "1203.000.171-8",
+    "Tipo": "OPT",
+    "Descricao": "SANIDADE EM PEIXES DE PRODUÇÃO",
+    "Semestre": 99,
+    "Apelido": "SANIDADE EM PEIXES DE PRODUÇÃO",
+    "CargaHorariaTeorico": 51,
+    "CargaHorariaPratica": null,
+    "ListaPrequisitos": [
+      {
+        "Id": 47862,
+        "Codigo": "2701.000.325-9",
+        "Descricao": "HISTOLOGIA DOS ANIMAIS DOMÉSTICOS",
+        "Semestre": "0",
+        "Apelido": "HISTOLOGIA DOS ANIMAIS DOMÉSTICOS",
+        "CargaHorariaTeorico": 0,
+        "CargaHorariaPratica": 0,
+        "ListaPrequisitos": []
+      }
+    ]
+  },
+  {
+    "Id": 47848,
+    "Codigo": "1203.000.213-4",
+    "Tipo": "OPT",
+    "Descricao": "SOLICITAÇÃO E INTERPRETAÇÃO DE EXAMES LABORATORIAIS APLICADOS À PRÁTICA CLÍNICA",
+    "Semestre": 99,
+    "Apelido": "SOLICITAÇÃO E INTERPRETAÇÃO DE EXAMES LABORATORIAIS APLICADOS À PRÁTICA CLÍNICA",
+    "CargaHorariaTeorico": 34,
+    "CargaHorariaPratica": null,
+    "ListaPrequisitos": [
+      {
+        "Id": 47863,
+        "Codigo": "1203.000.226-0",
+        "Descricao": "PATOLOGIA CLÍNICA VETERINÁRIA",
+        "Semestre": "0",
+        "Apelido": "PATOLOGIA CLÍNICA VETERINÁRIA",
+        "CargaHorariaTeorico": 0,
+        "CargaHorariaPratica": 0,
+        "ListaPrequisitos": []
+      }
+    ]
+  },
+  {
+    "Id": 36836,
+    "Codigo": "1203.000.125-4",
+    "Tipo": "OPT",
+    "Descricao": "TÓPICOS ESPECIAIS EM MEDICINA VETERINÁRIA I",
+    "Semestre": 99,
+    "Apelido": "TÓPICOS ESPECIAIS EM MEDICINA VETERINÁRIA I",
+    "CargaHorariaTeorico": 51,
+    "CargaHorariaPratica": null,
+    "ListaPrequisitos": []
+  },
+  {
+    "Id": 36837,
+    "Codigo": "1203.000.126-2",
+    "Tipo": "OPT",
+    "Descricao": "TÓPICOS ESPECIAIS EM MEDICINA VETERINÁRIA II",
+    "Semestre": 99,
+    "Apelido": "TÓPICOS ESPECIAIS EM MEDICINA VETERINÁRIA II",
+    "CargaHorariaTeorico": 51,
+    "CargaHorariaPratica": null,
+    "ListaPrequisitos": []
+  },
+  {
+    "Id": 47788,
+    "Codigo": "1203.000.164-7",
+    "Tipo": "OPT",
+    "Descricao": "TÓPICOS ESPECIAIS EM MEDICINA VETERINÁRIA III",
+    "Semestre": 99,
+    "Apelido": "TÓPICOS ESPECIAIS EM MEDICINA VETERINÁRIA III",
+    "CargaHorariaTeorico": 34,
+    "CargaHorariaPratica": null,
+    "ListaPrequisitos": []
+  },
+  {
+    "Id": 47810,
+    "Codigo": "1203.000.186-1",
+    "Tipo": "OPT",
+    "Descricao": "TÓPICOS ESPECIAIS EM MEDICINA VETERINÁRIA IV",
+    "Semestre": 99,
+    "Apelido": "TÓPICOS ESPECIAIS EM MEDICINA VETERINÁRIA IV",
+    "CargaHorariaTeorico": 34,
+    "CargaHorariaPratica": null,
+    "ListaPrequisitos": []
+  },
+  {
+    "Id": 47821,
+    "Codigo": "1203.000.195-0",
+    "Tipo": "OPT",
+    "Descricao": "TÓPICOS ESPECIAIS EM MEDICINA VETERINÁRIA V",
+    "Semestre": 99,
+    "Apelido": "TÓPICOS ESPECIAIS EM MEDICINA VETERINÁRIA V",
+    "CargaHorariaTeorico": 34,
+    "CargaHorariaPratica": null,
+    "ListaPrequisitos": []
+  },
+  {
+    "Id": 47837,
+    "Codigo": "1203.000.207-2",
+    "Tipo": "OPT",
+    "Descricao": "TÓPICOS ESPECIAIS EM TERIOGENOLOGIA DE PEQUENOS ANIMAIS",
+    "Semestre": 99,
+    "Apelido": "TÓPICOS ESPECIAIS EM TERIOGENOLOGIA DE PEQUENOS ANIMAIS",
+    "CargaHorariaTeorico": 34,
+    "CargaHorariaPratica": null,
+    "ListaPrequisitos": [
+      {
+        "Id": 36863,
+        "Codigo": "1203.000.137-8",
+        "Descricao": "SEMIOLOGIA VETERINÁRIA",
+        "Semestre": "0",
+        "Apelido": "SEMIOLOGIA VETERINÁRIA",
+        "CargaHorariaTeorico": 0,
+        "CargaHorariaPratica": 0,
+        "ListaPrequisitos": []
+      }
+    ]
+  },
+  {
+    "Id": 36838,
+    "Codigo": "1203.000.127-0",
+    "Tipo": "OPT",
+    "Descricao": "TOXICOLOGIA E PLANTAS TÓXICAS",
+    "Semestre": 99,
+    "Apelido": "TOXICOLOGIA E PLANTAS TÓXICAS",
+    "CargaHorariaTeorico": 51,
+    "CargaHorariaPratica": null,
+    "ListaPrequisitos": [
+      {
+        "Id": 47814,
+        "Codigo": "2701.000.316-0",
+        "Descricao": "PATOLOGIA GERAL",
+        "Semestre": "0",
+        "Apelido": "PATOLOGIA GERAL",
+        "CargaHorariaTeorico": 0,
+        "CargaHorariaPratica": 0,
+        "ListaPrequisitos": []
+      }
+    ]
+  },
+  {
+    "Id": 47803,
+    "Codigo": "1203.000.179-0",
+    "Tipo": "OPT",
+    "Descricao": "TRATAMENTO CIRÚRGICO DA SÍNDROME CÓLICA",
+    "Semestre": 99,
+    "Apelido": "TRATAMENTO CIRÚRGICO DA SÍNDROME CÓLICA",
+    "CargaHorariaTeorico": 34,
+    "CargaHorariaPratica": null,
+    "ListaPrequisitos": [
+      {
+        "Id": 36872,
+        "Codigo": "1203.000.146-7",
+        "Descricao": "CLÍNICA CIRÚRGICA VETERINÁRIA",
+        "Semestre": "0",
+        "Apelido": "CLÍNICA CIRÚRGICA VETERINÁRIA",
+        "CargaHorariaTeorico": 0,
+        "CargaHorariaPratica": 0,
+        "ListaPrequisitos": []
+      }
+    ]
+  },
+  {
+    "Id": 47787,
+    "Codigo": "1203.000.163-8",
+    "Tipo": "OPT",
+    "Descricao": "VACINAS E VACINAÇÃO",
+    "Semestre": 99,
+    "Apelido": "VACINAS E VACINAÇÃO",
+    "CargaHorariaTeorico": 34,
+    "CargaHorariaPratica": null,
+    "ListaPrequisitos": [
+      {
+        "Id": 47830,
+        "Codigo": "2701.000.318-8",
+        "Descricao": "IMUNOLOGIA VETERINÁRIA",
+        "Semestre": "0",
+        "Apelido": "IMUNOLOGIA VETERINÁRIA",
+        "CargaHorariaTeorico": 0,
+        "CargaHorariaPratica": 0,
+        "ListaPrequisitos": []
+      }
+    ]
+  }
+]

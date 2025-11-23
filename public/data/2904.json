@@ -1,0 +1,1122 @@
+[
+  {
+    "Id": 44082,
+    "Codigo": "2901.000.535-5",
+    "Tipo": "OBR",
+    "Descricao": "ARTE E TECNOLOGIAS CONTEMPORÂNEAS I",
+    "Semestre": 1,
+    "Apelido": "ARTE E TECNOLOGIAS CONTEMPORÂNEAS I",
+    "CargaHorariaTeorico": 51,
+    "CargaHorariaPratica": null,
+    "ListaPrequisitos": []
+  },
+  {
+    "Id": 44089,
+    "Codigo": "2901.000.542-6",
+    "Tipo": "OBR",
+    "Descricao": "CERÂMICA I",
+    "Semestre": 1,
+    "Apelido": "CERÂMICA I",
+    "CargaHorariaTeorico": 51,
+    "CargaHorariaPratica": null,
+    "ListaPrequisitos": []
+  },
+  {
+    "Id": 44078,
+    "Codigo": "2901.000.531-9",
+    "Tipo": "OBR",
+    "Descricao": "DESENHO I",
+    "Semestre": 1,
+    "Apelido": "DESENHO I",
+    "CargaHorariaTeorico": 51,
+    "CargaHorariaPratica": null,
+    "ListaPrequisitos": []
+  },
+  {
+    "Id": 44075,
+    "Codigo": "2901.000.528-4",
+    "Tipo": "OBR",
+    "Descricao": "FUNDAMENTOS DA COMPOSIÇÃO",
+    "Semestre": 1,
+    "Apelido": "FUNDAMENTOS DA COMPOSIÇÃO",
+    "CargaHorariaTeorico": 34,
+    "CargaHorariaPratica": null,
+    "ListaPrequisitos": []
+  },
+  {
+    "Id": 44124,
+    "Codigo": "2901.000.577-6",
+    "Tipo": "OBR",
+    "Descricao": "FUNDAMENTOS DA CULTURA E CULTURA BRASILEIRA",
+    "Semestre": 1,
+    "Apelido": "FUNDAMENTOS DA CULTURA E CULTURA BRASILEIRA",
+    "CargaHorariaTeorico": 51,
+    "CargaHorariaPratica": null,
+    "ListaPrequisitos": []
+  },
+  {
+    "Id": 44104,
+    "Codigo": "2901.000.557-0",
+    "Tipo": "OBR",
+    "Descricao": "HISTÓRIA DA ARTE - DA PRÉ-HISTÓRIA AO SÉCULO XIII",
+    "Semestre": 1,
+    "Apelido": "HISTÓRIA DA ARTE - DA PRÉ-HISTÓRIA AO SÉCULO XIII",
+    "CargaHorariaTeorico": 34,
+    "CargaHorariaPratica": null,
+    "ListaPrequisitos": []
+  },
+  {
+    "Id": 44073,
+    "Codigo": "2901.000.526-6",
+    "Tipo": "OBR",
+    "Descricao": "VÍDEO",
+    "Semestre": 1,
+    "Apelido": "VÍDEO",
+    "CargaHorariaTeorico": 51,
+    "CargaHorariaPratica": null,
+    "ListaPrequisitos": []
+  },
+  {
+    "Id": 44111,
+    "Codigo": "2901.000.564-0",
+    "Tipo": "OBR",
+    "Descricao": "ARTE E TECNOLOGIAS CONTEMPORÂNEAS II",
+    "Semestre": 2,
+    "Apelido": "ARTE E TECNOLOGIAS CONTEMPORÂNEAS II",
+    "CargaHorariaTeorico": 51,
+    "CargaHorariaPratica": null,
+    "ListaPrequisitos": [
+      {
+        "Id": 44082,
+        "Codigo": "2901.000.535-5",
+        "Descricao": "ARTE E TECNOLOGIAS CONTEMPORÂNEAS I",
+        "Semestre": "0",
+        "Apelido": "ARTE E TECNOLOGIAS CONTEMPORÂNEAS I",
+        "CargaHorariaTeorico": 0,
+        "CargaHorariaPratica": 0,
+        "ListaPrequisitos": []
+      }
+    ]
+  },
+  {
+    "Id": 44121,
+    "Codigo": "2901.000.574-9",
+    "Tipo": "OBR",
+    "Descricao": "ASPECTOS DA CULTURA EM MATO GROSSO DO SUL",
+    "Semestre": 2,
+    "Apelido": "ASPECTOS DA CULTURA EM MATO GROSSO DO SUL",
+    "CargaHorariaTeorico": 51,
+    "CargaHorariaPratica": null,
+    "ListaPrequisitos": []
+  },
+  {
+    "Id": 44098,
+    "Codigo": "2901.000.551-5",
+    "Tipo": "OBR",
+    "Descricao": "CERÂMICA II",
+    "Semestre": 2,
+    "Apelido": "CERÂMICA II",
+    "CargaHorariaTeorico": 51,
+    "CargaHorariaPratica": null,
+    "ListaPrequisitos": [
+      {
+        "Id": 44089,
+        "Codigo": "2901.000.542-6",
+        "Descricao": "CERÂMICA I",
+        "Semestre": "0",
+        "Apelido": "CERÂMICA I",
+        "CargaHorariaTeorico": 0,
+        "CargaHorariaPratica": 0,
+        "ListaPrequisitos": []
+      }
+    ]
+  },
+  {
+    "Id": 44076,
+    "Codigo": "2901.000.529-3",
+    "Tipo": "OBR",
+    "Descricao": "DESENHO II",
+    "Semestre": 2,
+    "Apelido": "DESENHO II",
+    "CargaHorariaTeorico": 51,
+    "CargaHorariaPratica": null,
+    "ListaPrequisitos": [
+      {
+        "Id": 44078,
+        "Codigo": "2901.000.531-9",
+        "Descricao": "DESENHO I",
+        "Semestre": "0",
+        "Apelido": "DESENHO I",
+        "CargaHorariaTeorico": 0,
+        "CargaHorariaPratica": 0,
+        "ListaPrequisitos": []
+      }
+    ]
+  },
+  {
+    "Id": 44084,
+    "Codigo": "2901.000.537-3",
+    "Tipo": "OBR",
+    "Descricao": "FOTOGRAFIA",
+    "Semestre": 2,
+    "Apelido": "FOTOGRAFIA",
+    "CargaHorariaTeorico": 51,
+    "CargaHorariaPratica": null,
+    "ListaPrequisitos": []
+  },
+  {
+    "Id": 44125,
+    "Codigo": "2901.000.578-5",
+    "Tipo": "OBR",
+    "Descricao": "HISTÓRIA DA ARTE - DO SÉCULO XIV AO SÉCULO XVIII",
+    "Semestre": 2,
+    "Apelido": "HISTÓRIA DA ARTE - DO SÉCULO XIV AO SÉCULO XVIII",
+    "CargaHorariaTeorico": 34,
+    "CargaHorariaPratica": null,
+    "ListaPrequisitos": []
+  },
+  {
+    "Id": 44085,
+    "Codigo": "2901.000.538-2",
+    "Tipo": "OBR",
+    "Descricao": "TEORIA DA COR",
+    "Semestre": 2,
+    "Apelido": "TEORIA DA COR",
+    "CargaHorariaTeorico": 34,
+    "CargaHorariaPratica": null,
+    "ListaPrequisitos": []
+  },
+  {
+    "Id": 41797,
+    "Codigo": "2901.000.037-0",
+    "Tipo": "OBR",
+    "Descricao": "ARTE E LINGUAGEM I",
+    "Semestre": 3,
+    "Apelido": "ARTE E LINGUAGEM I",
+    "CargaHorariaTeorico": 34,
+    "CargaHorariaPratica": null,
+    "ListaPrequisitos": []
+  },
+  {
+    "Id": 44083,
+    "Codigo": "2901.000.536-4",
+    "Tipo": "OBR",
+    "Descricao": "ARTE E TECNOLOGIAS CONTEMPORÂNEAS III",
+    "Semestre": 3,
+    "Apelido": "ARTE E TECNOLOGIAS CONTEMPORÂNEAS III",
+    "CargaHorariaTeorico": 51,
+    "CargaHorariaPratica": null,
+    "ListaPrequisitos": [
+      {
+        "Id": 44111,
+        "Codigo": "2901.000.564-0",
+        "Descricao": "ARTE E TECNOLOGIAS CONTEMPORÂNEAS II",
+        "Semestre": "0",
+        "Apelido": "ARTE E TECNOLOGIAS CONTEMPORÂNEAS II",
+        "CargaHorariaTeorico": 0,
+        "CargaHorariaPratica": 0,
+        "ListaPrequisitos": []
+      }
+    ]
+  },
+  {
+    "Id": 44079,
+    "Codigo": "2901.000.532-8",
+    "Tipo": "OBR",
+    "Descricao": "DESENHO III",
+    "Semestre": 3,
+    "Apelido": "DESENHO III",
+    "CargaHorariaTeorico": 51,
+    "CargaHorariaPratica": null,
+    "ListaPrequisitos": [
+      {
+        "Id": 44076,
+        "Codigo": "2901.000.529-3",
+        "Descricao": "DESENHO II",
+        "Semestre": "0",
+        "Apelido": "DESENHO II",
+        "CargaHorariaTeorico": 0,
+        "CargaHorariaPratica": 0,
+        "ListaPrequisitos": []
+      }
+    ]
+  },
+  {
+    "Id": 44090,
+    "Codigo": "2901.000.543-5",
+    "Tipo": "OBR",
+    "Descricao": "ESCULTURA",
+    "Semestre": 3,
+    "Apelido": "ESCULTURA",
+    "CargaHorariaTeorico": 51,
+    "CargaHorariaPratica": null,
+    "ListaPrequisitos": [
+      {
+        "Id": 44089,
+        "Codigo": "2901.000.542-6",
+        "Descricao": "CERÂMICA I",
+        "Semestre": "0",
+        "Apelido": "CERÂMICA I",
+        "CargaHorariaTeorico": 0,
+        "CargaHorariaPratica": 0,
+        "ListaPrequisitos": []
+      }
+    ]
+  },
+  {
+    "Id": 44091,
+    "Codigo": "2901.000.544-4",
+    "Tipo": "OBR",
+    "Descricao": "HISTÓRIA DA ARTE - O SÉCULO XIX",
+    "Semestre": 3,
+    "Apelido": "HISTÓRIA DA ARTE - O SÉCULO XIX",
+    "CargaHorariaTeorico": 34,
+    "CargaHorariaPratica": null,
+    "ListaPrequisitos": []
+  },
+  {
+    "Id": 41803,
+    "Codigo": "2901.000.043-5",
+    "Tipo": "OBR",
+    "Descricao": "PINTURA I",
+    "Semestre": 3,
+    "Apelido": "PINTURA I",
+    "CargaHorariaTeorico": 51,
+    "CargaHorariaPratica": null,
+    "ListaPrequisitos": []
+  },
+  {
+    "Id": 44113,
+    "Codigo": "2901.000.566-9",
+    "Tipo": "OBR",
+    "Descricao": "ARTE DA AMÉRICA LATINA",
+    "Semestre": 4,
+    "Apelido": "ARTE DA AMÉRICA LATINA",
+    "CargaHorariaTeorico": 34,
+    "CargaHorariaPratica": null,
+    "ListaPrequisitos": []
+  },
+  {
+    "Id": 41804,
+    "Codigo": "2901.000.044-3",
+    "Tipo": "OBR",
+    "Descricao": "ARTE E LINGUAGEM II",
+    "Semestre": 4,
+    "Apelido": "ARTE E LINGUAGEM II",
+    "CargaHorariaTeorico": 34,
+    "CargaHorariaPratica": null,
+    "ListaPrequisitos": [
+      {
+        "Id": 41797,
+        "Codigo": "2901.000.037-0",
+        "Descricao": "ARTE E LINGUAGEM I",
+        "Semestre": "0",
+        "Apelido": "ARTE E LINGUAGEM I",
+        "CargaHorariaTeorico": 0,
+        "CargaHorariaPratica": 0,
+        "ListaPrequisitos": []
+      }
+    ]
+  },
+  {
+    "Id": 44074,
+    "Codigo": "2901.000.527-5",
+    "Tipo": "OBR",
+    "Descricao": "DESENHO IV",
+    "Semestre": 4,
+    "Apelido": "DESENHO IV",
+    "CargaHorariaTeorico": 51,
+    "CargaHorariaPratica": null,
+    "ListaPrequisitos": [
+      {
+        "Id": 44079,
+        "Codigo": "2901.000.532-8",
+        "Descricao": "DESENHO III",
+        "Semestre": "0",
+        "Apelido": "DESENHO III",
+        "CargaHorariaTeorico": 0,
+        "CargaHorariaPratica": 0,
+        "ListaPrequisitos": []
+      }
+    ]
+  },
+  {
+    "Id": 44129,
+    "Codigo": "2901.000.582-9",
+    "Tipo": "OBR",
+    "Descricao": "ESCULTURA E CONSTRUÇÃO",
+    "Semestre": 4,
+    "Apelido": "ESCULTURA E CONSTRUÇÃO",
+    "CargaHorariaTeorico": 51,
+    "CargaHorariaPratica": null,
+    "ListaPrequisitos": [
+      {
+        "Id": 44090,
+        "Codigo": "2901.000.543-5",
+        "Descricao": "ESCULTURA",
+        "Semestre": "0",
+        "Apelido": "ESCULTURA",
+        "CargaHorariaTeorico": 0,
+        "CargaHorariaPratica": 0,
+        "ListaPrequisitos": []
+      }
+    ]
+  },
+  {
+    "Id": 44092,
+    "Codigo": "2901.000.545-3",
+    "Tipo": "OBR",
+    "Descricao": "GRAVURA EM RELEVO",
+    "Semestre": 4,
+    "Apelido": "GRAVURA EM RELEVO",
+    "CargaHorariaTeorico": 51,
+    "CargaHorariaPratica": null,
+    "ListaPrequisitos": []
+  },
+  {
+    "Id": 44107,
+    "Codigo": "2901.000.560-4",
+    "Tipo": "OBR",
+    "Descricao": "HISTÓRIA DA ARTE - O SÉCULO XX ATÉ 1960",
+    "Semestre": 4,
+    "Apelido": "HISTÓRIA DA ARTE - O SÉCULO XX ATÉ 1960",
+    "CargaHorariaTeorico": 34,
+    "CargaHorariaPratica": null,
+    "ListaPrequisitos": []
+  },
+  {
+    "Id": 41757,
+    "Codigo": "2901.000.001-0",
+    "Tipo": "OBR",
+    "Descricao": "PINTURA II",
+    "Semestre": 4,
+    "Apelido": "PINTURA II",
+    "CargaHorariaTeorico": 51,
+    "CargaHorariaPratica": null,
+    "ListaPrequisitos": [
+      {
+        "Id": 41803,
+        "Codigo": "2901.000.043-5",
+        "Descricao": "PINTURA I",
+        "Semestre": "0",
+        "Apelido": "PINTURA I",
+        "CargaHorariaTeorico": 0,
+        "CargaHorariaPratica": 0,
+        "ListaPrequisitos": []
+      }
+    ]
+  },
+  {
+    "Id": 44105,
+    "Codigo": "2901.000.558-9",
+    "Tipo": "OBR",
+    "Descricao": "ARTE E PESQUISA I",
+    "Semestre": 5,
+    "Apelido": "ARTE E PESQUISA I",
+    "CargaHorariaTeorico": 34,
+    "CargaHorariaPratica": null,
+    "ListaPrequisitos": []
+  },
+  {
+    "Id": 44102,
+    "Codigo": "2901.000.555-1",
+    "Tipo": "OBR",
+    "Descricao": "ARTE NO BRASIL: DA CONQUISTA AO ACADEMICISMO",
+    "Semestre": 5,
+    "Apelido": "ARTE NO BRASIL: DA CONQUISTA AO ACADEMICISMO",
+    "CargaHorariaTeorico": 34,
+    "CargaHorariaPratica": null,
+    "ListaPrequisitos": []
+  },
+  {
+    "Id": 44118,
+    "Codigo": "2901.000.571-1",
+    "Tipo": "OBR",
+    "Descricao": "ESTÉTICA E TEORIA DA ARTE I",
+    "Semestre": 5,
+    "Apelido": "ESTÉTICA E TEORIA DA ARTE I",
+    "CargaHorariaTeorico": 51,
+    "CargaHorariaPratica": null,
+    "ListaPrequisitos": []
+  },
+  {
+    "Id": 44094,
+    "Codigo": "2901.000.547-1",
+    "Tipo": "OBR",
+    "Descricao": "GRAVURA EM METAL",
+    "Semestre": 5,
+    "Apelido": "GRAVURA EM METAL",
+    "CargaHorariaTeorico": 51,
+    "CargaHorariaPratica": null,
+    "ListaPrequisitos": []
+  },
+  {
+    "Id": 44109,
+    "Codigo": "2901.000.562-2",
+    "Tipo": "OBR",
+    "Descricao": "HISTÓRIA DA ARTE - DE 1970 AO SÉCULO XXI",
+    "Semestre": 5,
+    "Apelido": "HISTÓRIA DA ARTE - DE 1970 AO SÉCULO XXI",
+    "CargaHorariaTeorico": 34,
+    "CargaHorariaPratica": null,
+    "ListaPrequisitos": []
+  },
+  {
+    "Id": 44120,
+    "Codigo": "2901.000.573-0",
+    "Tipo": "OBR",
+    "Descricao": "ARTE BRASILEIRA: DO MODERNISMO AO CONTEMPORÂNEO",
+    "Semestre": 6,
+    "Apelido": "ARTE BRASILEIRA: DO MODERNISMO AO CONTEMPORÂNEO",
+    "CargaHorariaTeorico": 34,
+    "CargaHorariaPratica": null,
+    "ListaPrequisitos": [
+      {
+        "Id": 44102,
+        "Codigo": "2901.000.555-1",
+        "Descricao": "ARTE NO BRASIL: DA CONQUISTA AO ACADEMICISMO",
+        "Semestre": "0",
+        "Apelido": "ARTE NO BRASIL: DA CONQUISTA AO ACADEMICISMO",
+        "CargaHorariaTeorico": 0,
+        "CargaHorariaPratica": 0,
+        "ListaPrequisitos": []
+      }
+    ]
+  },
+  {
+    "Id": 44114,
+    "Codigo": "2901.000.567-8",
+    "Tipo": "OBR",
+    "Descricao": "ARTE E PESQUISA II",
+    "Semestre": 6,
+    "Apelido": "ARTE E PESQUISA II",
+    "CargaHorariaTeorico": 34,
+    "CargaHorariaPratica": null,
+    "ListaPrequisitos": [
+      {
+        "Id": 44105,
+        "Codigo": "2901.000.558-9",
+        "Descricao": "ARTE E PESQUISA I",
+        "Semestre": "0",
+        "Apelido": "ARTE E PESQUISA I",
+        "CargaHorariaTeorico": 0,
+        "CargaHorariaPratica": 0,
+        "ListaPrequisitos": []
+      }
+    ]
+  },
+  {
+    "Id": 44119,
+    "Codigo": "2901.000.572-0",
+    "Tipo": "OBR",
+    "Descricao": "ESTÉTICA E TEORIA DA ARTE II",
+    "Semestre": 6,
+    "Apelido": "ESTÉTICA E TEORIA DA ARTE II",
+    "CargaHorariaTeorico": 51,
+    "CargaHorariaPratica": null,
+    "ListaPrequisitos": [
+      {
+        "Id": 44118,
+        "Codigo": "2901.000.571-1",
+        "Descricao": "ESTÉTICA E TEORIA DA ARTE I",
+        "Semestre": "0",
+        "Apelido": "ESTÉTICA E TEORIA DA ARTE I",
+        "CargaHorariaTeorico": 0,
+        "CargaHorariaPratica": 0,
+        "ListaPrequisitos": []
+      }
+    ]
+  },
+  {
+    "Id": 42524,
+    "Codigo": "2901.000.350-7",
+    "Tipo": "OBR",
+    "Descricao": "GESTÃO EM ARTES VISUAIS",
+    "Semestre": 6,
+    "Apelido": "GESTÃO EM ARTES VISUAIS",
+    "CargaHorariaTeorico": 34,
+    "CargaHorariaPratica": null,
+    "ListaPrequisitos": []
+  },
+  {
+    "Id": 44127,
+    "Codigo": "2901.000.580-0",
+    "Tipo": "OBR",
+    "Descricao": "SEMINÁRIOS DE ARTE E PESQUISA I",
+    "Semestre": 7,
+    "Apelido": "SEMINÁRIOS DE ARTE E PESQUISA I",
+    "CargaHorariaTeorico": 68,
+    "CargaHorariaPratica": null,
+    "ListaPrequisitos": [
+      {
+        "Id": 44114,
+        "Codigo": "2901.000.567-8",
+        "Descricao": "ARTE E PESQUISA II",
+        "Semestre": "0",
+        "Apelido": "ARTE E PESQUISA II",
+        "CargaHorariaTeorico": 0,
+        "CargaHorariaPratica": 0,
+        "ListaPrequisitos": []
+      }
+    ]
+  },
+  {
+    "Id": 44128,
+    "Codigo": "2901.000.581-0",
+    "Tipo": "OBR",
+    "Descricao": "SEMINÁRIOS DE ARTE E PESQUISA II",
+    "Semestre": 8,
+    "Apelido": "SEMINÁRIOS DE ARTE E PESQUISA II",
+    "CargaHorariaTeorico": 68,
+    "CargaHorariaPratica": null,
+    "ListaPrequisitos": [
+      {
+        "Id": 44127,
+        "Codigo": "2901.000.580-0",
+        "Descricao": "SEMINÁRIOS DE ARTE E PESQUISA I",
+        "Semestre": "0",
+        "Apelido": "SEMINÁRIOS DE ARTE E PESQUISA I",
+        "CargaHorariaTeorico": 0,
+        "CargaHorariaPratica": 0,
+        "ListaPrequisitos": []
+      }
+    ]
+  },
+  {
+    "Id": 44123,
+    "Codigo": "2901.000.576-7",
+    "Tipo": "OPT",
+    "Descricao": "ARTE AGORA",
+    "Semestre": 99,
+    "Apelido": "ARTE AGORA",
+    "CargaHorariaTeorico": 34,
+    "CargaHorariaPratica": null,
+    "ListaPrequisitos": []
+  },
+  {
+    "Id": 44096,
+    "Codigo": "2901.000.549-0",
+    "Tipo": "OPT",
+    "Descricao": "ARTE, EDUCAÇÃO E PERCEPÇÃO DO OUTRO",
+    "Semestre": 99,
+    "Apelido": "ARTE, EDUCAÇÃO E PERCEPÇÃO DO OUTRO",
+    "CargaHorariaTeorico": 51,
+    "CargaHorariaPratica": null,
+    "ListaPrequisitos": []
+  },
+  {
+    "Id": 44116,
+    "Codigo": "2901.000.569-6",
+    "Tipo": "OPT",
+    "Descricao": "ARTE E EMANCIPAÇÃO HUMANA",
+    "Semestre": 99,
+    "Apelido": "ARTE E EMANCIPAÇÃO HUMANA",
+    "CargaHorariaTeorico": 51,
+    "CargaHorariaPratica": null,
+    "ListaPrequisitos": []
+  },
+  {
+    "Id": 41810,
+    "Codigo": "2901.000.050-8",
+    "Tipo": "OPT",
+    "Descricao": "DESENHO ARTÍSTICO V",
+    "Semestre": 99,
+    "Apelido": "DESENHO ARTÍSTICO V",
+    "CargaHorariaTeorico": 51,
+    "CargaHorariaPratica": null,
+    "ListaPrequisitos": []
+  },
+  {
+    "Id": 41822,
+    "Codigo": "2901.000.062-1",
+    "Tipo": "OPT",
+    "Descricao": "DESENHO ARTÍSTICO VI",
+    "Semestre": 99,
+    "Apelido": "DESENHO ARTÍSTICO VI",
+    "CargaHorariaTeorico": 51,
+    "CargaHorariaPratica": null,
+    "ListaPrequisitos": []
+  },
+  {
+    "Id": 43181,
+    "Codigo": "3001.000.371-0",
+    "Tipo": "OPT",
+    "Descricao": "EDUCAÇÃO DAS RELAÇÕES ÉTNICO-RACIAIS",
+    "Semestre": 99,
+    "Apelido": "EDUCAÇÃO DAS RELAÇÕES ÉTNICO-RACIAIS",
+    "CargaHorariaTeorico": 51,
+    "CargaHorariaPratica": null,
+    "ListaPrequisitos": []
+  },
+  {
+    "Id": 44103,
+    "Codigo": "2901.000.556-0",
+    "Tipo": "OPT",
+    "Descricao": "ESPACIALIDADE",
+    "Semestre": 99,
+    "Apelido": "ESPACIALIDADE",
+    "CargaHorariaTeorico": 51,
+    "CargaHorariaPratica": null,
+    "ListaPrequisitos": [
+      {
+        "Id": 44089,
+        "Codigo": "2901.000.542-6",
+        "Descricao": "CERÂMICA I",
+        "Semestre": "0",
+        "Apelido": "CERÂMICA I",
+        "CargaHorariaTeorico": 0,
+        "CargaHorariaPratica": 0,
+        "ListaPrequisitos": []
+      }
+    ]
+  },
+  {
+    "Id": 41756,
+    "Codigo": "3101.000.095-0",
+    "Tipo": "OPT",
+    "Descricao": "ESTUDO DE LIBRAS",
+    "Semestre": 99,
+    "Apelido": "ESTUDO DE LIBRAS",
+    "CargaHorariaTeorico": 51,
+    "CargaHorariaPratica": null,
+    "ListaPrequisitos": []
+  },
+  {
+    "Id": 44117,
+    "Codigo": "2901.000.570-2",
+    "Tipo": "OPT",
+    "Descricao": "HISTÓRIA EM QUADRINHOS",
+    "Semestre": 99,
+    "Apelido": "HISTÓRIA EM QUADRINHOS",
+    "CargaHorariaTeorico": 51,
+    "CargaHorariaPratica": null,
+    "ListaPrequisitos": []
+  },
+  {
+    "Id": 44100,
+    "Codigo": "2901.000.553-3",
+    "Tipo": "OPT",
+    "Descricao": "OFICINA DE ARTE E TECNOLOGIAS CONTEMPORÂNEAS I",
+    "Semestre": 99,
+    "Apelido": "OFICINA DE ARTE E TECNOLOGIAS CONTEMPORÂNEAS I",
+    "CargaHorariaTeorico": 51,
+    "CargaHorariaPratica": null,
+    "ListaPrequisitos": [
+      {
+        "Id": 44083,
+        "Codigo": "2901.000.536-4",
+        "Descricao": "ARTE E TECNOLOGIAS CONTEMPORÂNEAS III",
+        "Semestre": "0",
+        "Apelido": "ARTE E TECNOLOGIAS CONTEMPORÂNEAS III",
+        "CargaHorariaTeorico": 0,
+        "CargaHorariaPratica": 0,
+        "ListaPrequisitos": []
+      }
+    ]
+  },
+  {
+    "Id": 44077,
+    "Codigo": "2901.000.530-0",
+    "Tipo": "OPT",
+    "Descricao": "OFICINA DE ARTE E TECNOLOGIAS CONTEMPORÂNEAS II",
+    "Semestre": 99,
+    "Apelido": "OFICINA DE ARTE E TECNOLOGIAS CONTEMPORÂNEAS II",
+    "CargaHorariaTeorico": 51,
+    "CargaHorariaPratica": null,
+    "ListaPrequisitos": [
+      {
+        "Id": 44100,
+        "Codigo": "2901.000.553-3",
+        "Descricao": "OFICINA DE ARTE E TECNOLOGIAS CONTEMPORÂNEAS I",
+        "Semestre": "0",
+        "Apelido": "OFICINA DE ARTE E TECNOLOGIAS CONTEMPORÂNEAS I",
+        "CargaHorariaTeorico": 0,
+        "CargaHorariaPratica": 0,
+        "ListaPrequisitos": []
+      }
+    ]
+  },
+  {
+    "Id": 44080,
+    "Codigo": "2901.000.533-7",
+    "Tipo": "OPT",
+    "Descricao": "OFICINA DE CERÂMICA I",
+    "Semestre": 99,
+    "Apelido": "OFICINA DE CERÂMICA I",
+    "CargaHorariaTeorico": 51,
+    "CargaHorariaPratica": null,
+    "ListaPrequisitos": [
+      {
+        "Id": 44098,
+        "Codigo": "2901.000.551-5",
+        "Descricao": "CERÂMICA II",
+        "Semestre": "0",
+        "Apelido": "CERÂMICA II",
+        "CargaHorariaTeorico": 0,
+        "CargaHorariaPratica": 0,
+        "ListaPrequisitos": []
+      }
+    ]
+  },
+  {
+    "Id": 44086,
+    "Codigo": "2901.000.539-1",
+    "Tipo": "OPT",
+    "Descricao": "OFICINA DE CERÂMICA II",
+    "Semestre": 99,
+    "Apelido": "OFICINA DE CERÂMICA II",
+    "CargaHorariaTeorico": 51,
+    "CargaHorariaPratica": null,
+    "ListaPrequisitos": [
+      {
+        "Id": 44080,
+        "Codigo": "2901.000.533-7",
+        "Descricao": "OFICINA DE CERÂMICA I",
+        "Semestre": "0",
+        "Apelido": "OFICINA DE CERÂMICA I",
+        "CargaHorariaTeorico": 0,
+        "CargaHorariaPratica": 0,
+        "ListaPrequisitos": []
+      }
+    ]
+  },
+  {
+    "Id": 44106,
+    "Codigo": "2901.000.559-8",
+    "Tipo": "OPT",
+    "Descricao": "OFICINA DE DESENHO I",
+    "Semestre": 99,
+    "Apelido": "OFICINA DE DESENHO I",
+    "CargaHorariaTeorico": 51,
+    "CargaHorariaPratica": null,
+    "ListaPrequisitos": []
+  },
+  {
+    "Id": 44110,
+    "Codigo": "2901.000.563-1",
+    "Tipo": "OPT",
+    "Descricao": "OFICINA DE DESENHO II",
+    "Semestre": 99,
+    "Apelido": "OFICINA DE DESENHO II",
+    "CargaHorariaTeorico": 51,
+    "CargaHorariaPratica": null,
+    "ListaPrequisitos": []
+  },
+  {
+    "Id": 44130,
+    "Codigo": "2901.000.583-8",
+    "Tipo": "OPT",
+    "Descricao": "OFICINA DE ESCULTURA E CONSTRUÇÃO I",
+    "Semestre": 99,
+    "Apelido": "OFICINA DE ESCULTURA E CONSTRUÇÃO I",
+    "CargaHorariaTeorico": 51,
+    "CargaHorariaPratica": null,
+    "ListaPrequisitos": [
+      {
+        "Id": 44090,
+        "Codigo": "2901.000.543-5",
+        "Descricao": "ESCULTURA",
+        "Semestre": "0",
+        "Apelido": "ESCULTURA",
+        "CargaHorariaTeorico": 0,
+        "CargaHorariaPratica": 0,
+        "ListaPrequisitos": []
+      }
+    ]
+  },
+  {
+    "Id": 44081,
+    "Codigo": "2901.000.534-6",
+    "Tipo": "OPT",
+    "Descricao": "OFICINA DE ESCULTURA E CONSTRUÇÃO II",
+    "Semestre": 99,
+    "Apelido": "OFICINA DE ESCULTURA E CONSTRUÇÃO II",
+    "CargaHorariaTeorico": 51,
+    "CargaHorariaPratica": null,
+    "ListaPrequisitos": [
+      {
+        "Id": 44130,
+        "Codigo": "2901.000.583-8",
+        "Descricao": "OFICINA DE ESCULTURA E CONSTRUÇÃO I",
+        "Semestre": "0",
+        "Apelido": "OFICINA DE ESCULTURA E CONSTRUÇÃO I",
+        "CargaHorariaTeorico": 0,
+        "CargaHorariaPratica": 0,
+        "ListaPrequisitos": []
+      }
+    ]
+  },
+  {
+    "Id": 44088,
+    "Codigo": "2901.000.541-7",
+    "Tipo": "OPT",
+    "Descricao": "OFICINA DE EXPANSÃO DA LINGUAGEM DA GRAVURA",
+    "Semestre": 99,
+    "Apelido": "OFICINA DE EXPANSÃO DA LINGUAGEM DA GRAVURA",
+    "CargaHorariaTeorico": 51,
+    "CargaHorariaPratica": null,
+    "ListaPrequisitos": [
+      {
+        "Id": 44092,
+        "Codigo": "2901.000.545-3",
+        "Descricao": "GRAVURA EM RELEVO",
+        "Semestre": "0",
+        "Apelido": "GRAVURA EM RELEVO",
+        "CargaHorariaTeorico": 0,
+        "CargaHorariaPratica": 0,
+        "ListaPrequisitos": []
+      },
+      {
+        "Id": 44094,
+        "Codigo": "2901.000.547-1",
+        "Descricao": "GRAVURA EM METAL",
+        "Semestre": "0",
+        "Apelido": "GRAVURA EM METAL",
+        "CargaHorariaTeorico": 0,
+        "CargaHorariaPratica": 0,
+        "ListaPrequisitos": []
+      }
+    ]
+  },
+  {
+    "Id": 44112,
+    "Codigo": "2901.000.565-0",
+    "Tipo": "OPT",
+    "Descricao": "OFICINA DE EXPERIMENTAÇÃO NA LINGUAGEM GRAVURA",
+    "Semestre": 99,
+    "Apelido": "OFICINA DE EXPERIMENTAÇÃO NA LINGUAGEM GRAVURA",
+    "CargaHorariaTeorico": 51,
+    "CargaHorariaPratica": null,
+    "ListaPrequisitos": [
+      {
+        "Id": 44092,
+        "Codigo": "2901.000.545-3",
+        "Descricao": "GRAVURA EM RELEVO",
+        "Semestre": "0",
+        "Apelido": "GRAVURA EM RELEVO",
+        "CargaHorariaTeorico": 0,
+        "CargaHorariaPratica": 0,
+        "ListaPrequisitos": []
+      },
+      {
+        "Id": 44094,
+        "Codigo": "2901.000.547-1",
+        "Descricao": "GRAVURA EM METAL",
+        "Semestre": "0",
+        "Apelido": "GRAVURA EM METAL",
+        "CargaHorariaTeorico": 0,
+        "CargaHorariaPratica": 0,
+        "ListaPrequisitos": []
+      }
+    ]
+  },
+  {
+    "Id": 44097,
+    "Codigo": "2901.000.550-6",
+    "Tipo": "OPT",
+    "Descricao": "OFICINA DE FOTOGRAFIA I",
+    "Semestre": 99,
+    "Apelido": "OFICINA DE FOTOGRAFIA I",
+    "CargaHorariaTeorico": 51,
+    "CargaHorariaPratica": null,
+    "ListaPrequisitos": [
+      {
+        "Id": 44084,
+        "Codigo": "2901.000.537-3",
+        "Descricao": "FOTOGRAFIA",
+        "Semestre": "0",
+        "Apelido": "FOTOGRAFIA",
+        "CargaHorariaTeorico": 0,
+        "CargaHorariaPratica": 0,
+        "ListaPrequisitos": []
+      }
+    ]
+  },
+  {
+    "Id": 44099,
+    "Codigo": "2901.000.552-4",
+    "Tipo": "OPT",
+    "Descricao": "OFICINA DE FOTOGRAFIA II",
+    "Semestre": 99,
+    "Apelido": "OFICINA DE FOTOGRAFIA II",
+    "CargaHorariaTeorico": 51,
+    "CargaHorariaPratica": null,
+    "ListaPrequisitos": [
+      {
+        "Id": 44097,
+        "Codigo": "2901.000.550-6",
+        "Descricao": "OFICINA DE FOTOGRAFIA I",
+        "Semestre": "0",
+        "Apelido": "OFICINA DE FOTOGRAFIA I",
+        "CargaHorariaTeorico": 0,
+        "CargaHorariaPratica": 0,
+        "ListaPrequisitos": []
+      }
+    ]
+  },
+  {
+    "Id": 44093,
+    "Codigo": "2901.000.546-2",
+    "Tipo": "OPT",
+    "Descricao": "OFICINA DE PINTURA I",
+    "Semestre": 99,
+    "Apelido": "OFICINA DE PINTURA I",
+    "CargaHorariaTeorico": 51,
+    "CargaHorariaPratica": null,
+    "ListaPrequisitos": [
+      {
+        "Id": 41757,
+        "Codigo": "2901.000.001-0",
+        "Descricao": "PINTURA II",
+        "Semestre": "0",
+        "Apelido": "PINTURA II",
+        "CargaHorariaTeorico": 0,
+        "CargaHorariaPratica": 0,
+        "ListaPrequisitos": []
+      }
+    ]
+  },
+  {
+    "Id": 44122,
+    "Codigo": "2901.000.575-8",
+    "Tipo": "OPT",
+    "Descricao": "OFICINA DE PINTURA II",
+    "Semestre": 99,
+    "Apelido": "OFICINA DE PINTURA II",
+    "CargaHorariaTeorico": 51,
+    "CargaHorariaPratica": null,
+    "ListaPrequisitos": [
+      {
+        "Id": 44093,
+        "Codigo": "2901.000.546-2",
+        "Descricao": "OFICINA DE PINTURA I",
+        "Semestre": "0",
+        "Apelido": "OFICINA DE PINTURA I",
+        "CargaHorariaTeorico": 0,
+        "CargaHorariaPratica": 0,
+        "ListaPrequisitos": []
+      }
+    ]
+  },
+  {
+    "Id": 44126,
+    "Codigo": "2901.000.579-4",
+    "Tipo": "OPT",
+    "Descricao": "OFICINA DE VÍDEO I",
+    "Semestre": 99,
+    "Apelido": "OFICINA DE VÍDEO I",
+    "CargaHorariaTeorico": 51,
+    "CargaHorariaPratica": null,
+    "ListaPrequisitos": [
+      {
+        "Id": 44073,
+        "Codigo": "2901.000.526-6",
+        "Descricao": "VÍDEO",
+        "Semestre": "0",
+        "Apelido": "VÍDEO",
+        "CargaHorariaTeorico": 0,
+        "CargaHorariaPratica": 0,
+        "ListaPrequisitos": []
+      }
+    ]
+  },
+  {
+    "Id": 44087,
+    "Codigo": "2901.000.540-8",
+    "Tipo": "OPT",
+    "Descricao": "OFICINA DE VÍDEO II",
+    "Semestre": 99,
+    "Apelido": "OFICINA DE VÍDEO II",
+    "CargaHorariaTeorico": 51,
+    "CargaHorariaPratica": null,
+    "ListaPrequisitos": [
+      {
+        "Id": 44126,
+        "Codigo": "2901.000.579-4",
+        "Descricao": "OFICINA DE VÍDEO I",
+        "Semestre": "0",
+        "Apelido": "OFICINA DE VÍDEO I",
+        "CargaHorariaTeorico": 0,
+        "CargaHorariaPratica": 0,
+        "ListaPrequisitos": []
+      }
+    ]
+  },
+  {
+    "Id": 44101,
+    "Codigo": "2901.000.554-2",
+    "Tipo": "OPT",
+    "Descricao": "PLANOGRAFIA",
+    "Semestre": 99,
+    "Apelido": "PLANOGRAFIA",
+    "CargaHorariaTeorico": 68,
+    "CargaHorariaPratica": null,
+    "ListaPrequisitos": [
+      {
+        "Id": 44084,
+        "Codigo": "2901.000.537-3",
+        "Descricao": "FOTOGRAFIA",
+        "Semestre": "0",
+        "Apelido": "FOTOGRAFIA",
+        "CargaHorariaTeorico": 0,
+        "CargaHorariaPratica": 0,
+        "ListaPrequisitos": []
+      }
+    ]
+  },
+  {
+    "Id": 44115,
+    "Codigo": "2901.000.568-7",
+    "Tipo": "OPT",
+    "Descricao": "POÉTICAS CONTEMPORÂNEAS NO ENSINO DE ARTE",
+    "Semestre": 99,
+    "Apelido": "POÉTICAS CONTEMPORÂNEAS NO ENSINO DE ARTE",
+    "CargaHorariaTeorico": 68,
+    "CargaHorariaPratica": null,
+    "ListaPrequisitos": []
+  },
+  {
+    "Id": 44095,
+    "Codigo": "2901.000.548-0",
+    "Tipo": "OPT",
+    "Descricao": "PRÁTICA DE GESTÃO EM ARTES VISUAIS",
+    "Semestre": 99,
+    "Apelido": "PRÁTICA DE GESTÃO EM ARTES VISUAIS",
+    "CargaHorariaTeorico": 34,
+    "CargaHorariaPratica": null,
+    "ListaPrequisitos": [
+      {
+        "Id": 42524,
+        "Codigo": "2901.000.350-7",
+        "Descricao": "GESTÃO EM ARTES VISUAIS",
+        "Semestre": "0",
+        "Apelido": "GESTÃO EM ARTES VISUAIS",
+        "CargaHorariaTeorico": 0,
+        "CargaHorariaPratica": 0,
+        "ListaPrequisitos": []
+      }
+    ]
+  },
+  {
+    "Id": 44108,
+    "Codigo": "2901.000.561-3",
+    "Tipo": "OPT",
+    "Descricao": "TEORIA E CRÍTICA EM ARTE VISUAL",
+    "Semestre": 99,
+    "Apelido": "TEORIA E CRÍTICA EM ARTE VISUAL",
+    "CargaHorariaTeorico": 34,
+    "CargaHorariaPratica": null,
+    "ListaPrequisitos": [
+      {
+        "Id": 44109,
+        "Codigo": "2901.000.562-2",
+        "Descricao": "HISTÓRIA DA ARTE - DE 1970 AO SÉCULO XXI",
+        "Semestre": "0",
+        "Apelido": "HISTÓRIA DA ARTE - DE 1970 AO SÉCULO XXI",
+        "CargaHorariaTeorico": 0,
+        "CargaHorariaPratica": 0,
+        "ListaPrequisitos": []
+      }
+    ]
+  }
+]

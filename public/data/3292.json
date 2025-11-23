@@ -1,0 +1,497 @@
+[
+  {
+    "Id": 52135,
+    "Codigo": "3201.000.414-9",
+    "Tipo": "OBR",
+    "Descricao": "EAD, MÍDIAS E TECNOLOGIAS DIGITAIS",
+    "Semestre": 1,
+    "Apelido": "EAD, MÍDIAS E TECNOLOGIAS DIGITAIS",
+    "CargaHorariaTeorico": 51,
+    "CargaHorariaPratica": null,
+    "ListaPrequisitos": []
+  },
+  {
+    "Id": 52136,
+    "Codigo": "3201.000.415-8",
+    "Tipo": "OBR",
+    "Descricao": "ÉTICA, CIDADANIA E SOCIEDADE",
+    "Semestre": 1,
+    "Apelido": "ÉTICA, CIDADANIA E SOCIEDADE",
+    "CargaHorariaTeorico": 34,
+    "CargaHorariaPratica": null,
+    "ListaPrequisitos": []
+  },
+  {
+    "Id": 47710,
+    "Codigo": "3201.000.154-0",
+    "Tipo": "OBR",
+    "Descricao": "INGLÊS",
+    "Semestre": 1,
+    "Apelido": "INGLÊS",
+    "CargaHorariaTeorico": 68,
+    "CargaHorariaPratica": null,
+    "ListaPrequisitos": []
+  },
+  {
+    "Id": 52132,
+    "Codigo": "3201.000.411-1",
+    "Tipo": "OBR",
+    "Descricao": "LEITURA E PRODUÇÃO DE TEXTOS",
+    "Semestre": 1,
+    "Apelido": "LEITURA E PRODUÇÃO DE TEXTOS",
+    "CargaHorariaTeorico": 85,
+    "CargaHorariaPratica": null,
+    "ListaPrequisitos": []
+  },
+  {
+    "Id": 47724,
+    "Codigo": "3201.000.168-4",
+    "Tipo": "OBR",
+    "Descricao": "MATEMÁTICA BÁSICA",
+    "Semestre": 1,
+    "Apelido": "MATEMÁTICA BÁSICA",
+    "CargaHorariaTeorico": 68,
+    "CargaHorariaPratica": null,
+    "ListaPrequisitos": []
+  },
+  {
+    "Id": 47741,
+    "Codigo": "3201.000.185-3",
+    "Tipo": "OBR",
+    "Descricao": "PENSAMENTO COMPUTACIONAL",
+    "Semestre": 1,
+    "Apelido": "PENSAMENTO COMPUTACIONAL",
+    "CargaHorariaTeorico": 68,
+    "CargaHorariaPratica": null,
+    "ListaPrequisitos": []
+  },
+  {
+    "Id": 47736,
+    "Codigo": "3201.000.180-8",
+    "Tipo": "OBR",
+    "Descricao": "ALGORITMOS E PROGRAMAÇÃO I",
+    "Semestre": 2,
+    "Apelido": "ALGORITMOS E PROGRAMAÇÃO I",
+    "CargaHorariaTeorico": 85,
+    "CargaHorariaPratica": null,
+    "ListaPrequisitos": []
+  },
+  {
+    "Id": 47746,
+    "Codigo": "3201.000.190-6",
+    "Tipo": "OBR",
+    "Descricao": "ALGORITMOS E PROGRAMAÇÃO II",
+    "Semestre": 2,
+    "Apelido": "ALGORITMOS E PROGRAMAÇÃO II",
+    "CargaHorariaTeorico": 85,
+    "CargaHorariaPratica": null,
+    "ListaPrequisitos": []
+  },
+  {
+    "Id": 47731,
+    "Codigo": "3201.000.175-5",
+    "Tipo": "OBR",
+    "Descricao": "CÁLCULO I",
+    "Semestre": 2,
+    "Apelido": "CÁLCULO I",
+    "CargaHorariaTeorico": 68,
+    "CargaHorariaPratica": null,
+    "ListaPrequisitos": []
+  },
+  {
+    "Id": 47745,
+    "Codigo": "3201.000.189-0",
+    "Tipo": "OBR",
+    "Descricao": "ESTATÍSTICA E PROBABILIDADE",
+    "Semestre": 2,
+    "Apelido": "ESTATÍSTICA E PROBABILIDADE",
+    "CargaHorariaTeorico": 68,
+    "CargaHorariaPratica": null,
+    "ListaPrequisitos": []
+  },
+  {
+    "Id": 47755,
+    "Codigo": "3201.000.199-8",
+    "Tipo": "OBR",
+    "Descricao": "FUNDAMENTOS DE WEB",
+    "Semestre": 2,
+    "Apelido": "FUNDAMENTOS DE WEB",
+    "CargaHorariaTeorico": 68,
+    "CargaHorariaPratica": null,
+    "ListaPrequisitos": []
+  },
+  {
+    "Id": 47737,
+    "Codigo": "3201.000.181-7",
+    "Tipo": "OBR",
+    "Descricao": "INTRODUÇÃO A CONCEITOS DE COMPUTAÇÃO",
+    "Semestre": 2,
+    "Apelido": "INTRODUÇÃO A CONCEITOS DE COMPUTAÇÃO",
+    "CargaHorariaTeorico": 51,
+    "CargaHorariaPratica": null,
+    "ListaPrequisitos": []
+  },
+  {
+    "Id": 52134,
+    "Codigo": "3201.000.413-0",
+    "Tipo": "OBR",
+    "Descricao": "BANCO DE DADOS",
+    "Semestre": 3,
+    "Apelido": "BANCO DE DADOS",
+    "CargaHorariaTeorico": 68,
+    "CargaHorariaPratica": null,
+    "ListaPrequisitos": []
+  },
+  {
+    "Id": 52133,
+    "Codigo": "3201.000.412-0",
+    "Tipo": "OBR",
+    "Descricao": "ESTRUTURA DE DADOS",
+    "Semestre": 3,
+    "Apelido": "ESTRUTURA DE DADOS",
+    "CargaHorariaTeorico": 68,
+    "CargaHorariaPratica": null,
+    "ListaPrequisitos": []
+  },
+  {
+    "Id": 52130,
+    "Codigo": "3201.000.409-6",
+    "Tipo": "OBR",
+    "Descricao": "FORMAÇÃO PROFISSIONAL EM COMPUTAÇÃO",
+    "Semestre": 3,
+    "Apelido": "FORMAÇÃO PROFISSIONAL EM COMPUTAÇÃO",
+    "CargaHorariaTeorico": 34,
+    "CargaHorariaPratica": null,
+    "ListaPrequisitos": []
+  },
+  {
+    "Id": 52131,
+    "Codigo": "3201.000.410-2",
+    "Tipo": "OBR",
+    "Descricao": "GESTÃO DE INOVAÇÃO E DESENVOLVIMENTO DE PRODUTOS",
+    "Semestre": 3,
+    "Apelido": "GESTÃO DE INOVAÇÃO E DESENVOLVIMENTO DE PRODUTOS",
+    "CargaHorariaTeorico": 34,
+    "CargaHorariaPratica": null,
+    "ListaPrequisitos": []
+  },
+  {
+    "Id": 47740,
+    "Codigo": "3201.000.184-4",
+    "Tipo": "OBR",
+    "Descricao": "PROGRAMAÇÃO ORIENTADA A OBJETOS",
+    "Semestre": 3,
+    "Apelido": "PROGRAMAÇÃO ORIENTADA A OBJETOS",
+    "CargaHorariaTeorico": 68,
+    "CargaHorariaPratica": null,
+    "ListaPrequisitos": []
+  },
+  {
+    "Id": 47733,
+    "Codigo": "3201.000.177-3",
+    "Tipo": "OBR",
+    "Descricao": "SISTEMAS COMPUTACIONAIS",
+    "Semestre": 3,
+    "Apelido": "SISTEMAS COMPUTACIONAIS",
+    "CargaHorariaTeorico": 68,
+    "CargaHorariaPratica": null,
+    "ListaPrequisitos": []
+  },
+  {
+    "Id": 47767,
+    "Codigo": "3201.000.211-7",
+    "Tipo": "OBR",
+    "Descricao": "ENGENHARIA DE SOFTWARE",
+    "Semestre": 4,
+    "Apelido": "ENGENHARIA DE SOFTWARE",
+    "CargaHorariaTeorico": 68,
+    "CargaHorariaPratica": null,
+    "ListaPrequisitos": []
+  },
+  {
+    "Id": 47773,
+    "Codigo": "3201.000.217-1",
+    "Tipo": "OBR",
+    "Descricao": "INFRAESTRUTURA PARA SISTEMAS DE SOFTWARE",
+    "Semestre": 4,
+    "Apelido": "INFRAESTRUTURA PARA SISTEMAS DE SOFTWARE",
+    "CargaHorariaTeorico": 85,
+    "CargaHorariaPratica": null,
+    "ListaPrequisitos": []
+  },
+  {
+    "Id": 47765,
+    "Codigo": "3201.000.209-1",
+    "Tipo": "OBR",
+    "Descricao": "INTERFACE HUMANO-COMPUTADOR",
+    "Semestre": 4,
+    "Apelido": "INTERFACE HUMANO-COMPUTADOR",
+    "CargaHorariaTeorico": 68,
+    "CargaHorariaPratica": null,
+    "ListaPrequisitos": []
+  },
+  {
+    "Id": 47772,
+    "Codigo": "3201.000.216-2",
+    "Tipo": "OBR",
+    "Descricao": "PLANEJAMENTO ESTRATÉGICO DE NEGÓCIOS",
+    "Semestre": 4,
+    "Apelido": "PLANEJAMENTO ESTRATÉGICO DE NEGÓCIOS",
+    "CargaHorariaTeorico": 68,
+    "CargaHorariaPratica": null,
+    "ListaPrequisitos": []
+  },
+  {
+    "Id": 47762,
+    "Codigo": "3201.000.206-4",
+    "Tipo": "OBR",
+    "Descricao": "SISTEMAS DE INFORMAÇÃO",
+    "Semestre": 4,
+    "Apelido": "SISTEMAS DE INFORMAÇÃO",
+    "CargaHorariaTeorico": 68,
+    "CargaHorariaPratica": null,
+    "ListaPrequisitos": []
+  },
+  {
+    "Id": 47759,
+    "Codigo": "3201.000.203-7",
+    "Tipo": "OBR",
+    "Descricao": "TÉCNICAS AVANÇADAS DE DESENVOLVIMENTO DE SOFTWARE",
+    "Semestre": 4,
+    "Apelido": "TÉCNICAS AVANÇADAS DE DESENVOLVIMENTO DE SOFTWARE",
+    "CargaHorariaTeorico": 68,
+    "CargaHorariaPratica": null,
+    "ListaPrequisitos": [
+      {
+        "Id": 47740,
+        "Codigo": "3201.000.184-4",
+        "Descricao": "PROGRAMAÇÃO ORIENTADA A OBJETOS",
+        "Semestre": "0",
+        "Apelido": "PROGRAMAÇÃO ORIENTADA A OBJETOS",
+        "CargaHorariaTeorico": 0,
+        "CargaHorariaPratica": 0,
+        "ListaPrequisitos": []
+      }
+    ]
+  },
+  {
+    "Id": 47774,
+    "Codigo": "3201.000.218-0",
+    "Tipo": "OBR",
+    "Descricao": "ANÁLISE E PROJETO DE SOFTWARE ORIENTADO A OBJETOS",
+    "Semestre": 5,
+    "Apelido": "ANÁLISE E PROJETO DE SOFTWARE ORIENTADO A OBJETOS",
+    "CargaHorariaTeorico": 68,
+    "CargaHorariaPratica": null,
+    "ListaPrequisitos": [
+      {
+        "Id": 47767,
+        "Codigo": "3201.000.211-7",
+        "Descricao": "ENGENHARIA DE SOFTWARE",
+        "Semestre": "0",
+        "Apelido": "ENGENHARIA DE SOFTWARE",
+        "CargaHorariaTeorico": 0,
+        "CargaHorariaPratica": 0,
+        "ListaPrequisitos": []
+      }
+    ]
+  },
+  {
+    "Id": 47760,
+    "Codigo": "3201.000.204-6",
+    "Tipo": "OBR",
+    "Descricao": "DESENVOLVIMENTO PARA DISPOSITIVOS MÓVEIS",
+    "Semestre": 5,
+    "Apelido": "DESENVOLVIMENTO PARA DISPOSITIVOS MÓVEIS",
+    "CargaHorariaTeorico": 68,
+    "CargaHorariaPratica": null,
+    "ListaPrequisitos": []
+  },
+  {
+    "Id": 47770,
+    "Codigo": "3201.000.214-4",
+    "Tipo": "OBR",
+    "Descricao": "GERÊNCIA DE PROJETOS",
+    "Semestre": 5,
+    "Apelido": "GERÊNCIA DE PROJETOS",
+    "CargaHorariaTeorico": 68,
+    "CargaHorariaPratica": null,
+    "ListaPrequisitos": []
+  },
+  {
+    "Id": 47771,
+    "Codigo": "3201.000.215-3",
+    "Tipo": "OBR",
+    "Descricao": "LABORATÓRIO DE BANCO DE DADOS",
+    "Semestre": 5,
+    "Apelido": "LABORATÓRIO DE BANCO DE DADOS",
+    "CargaHorariaTeorico": 68,
+    "CargaHorariaPratica": null,
+    "ListaPrequisitos": []
+  },
+  {
+    "Id": 52137,
+    "Codigo": "3201.000.416-7",
+    "Tipo": "OBR",
+    "Descricao": "PROJETO INTEGRADOR DE TECNOLOGIA DA INFORMAÇÃO I",
+    "Semestre": 5,
+    "Apelido": "PROJETO INTEGRADOR DE TECNOLOGIA DA INFORMAÇÃO I",
+    "CargaHorariaTeorico": 68,
+    "CargaHorariaPratica": null,
+    "ListaPrequisitos": []
+  },
+  {
+    "Id": 47748,
+    "Codigo": "3201.000.192-4",
+    "Tipo": "OBR",
+    "Descricao": "SEGURANÇA DA INFORMAÇÃO",
+    "Semestre": 5,
+    "Apelido": "SEGURANÇA DA INFORMAÇÃO",
+    "CargaHorariaTeorico": 68,
+    "CargaHorariaPratica": null,
+    "ListaPrequisitos": []
+  },
+  {
+    "Id": 52138,
+    "Codigo": "3201.000.417-6",
+    "Tipo": "OBR",
+    "Descricao": "PROJETO INTEGRADOR DE TECNOLOGIA DA INFORMAÇÃO II",
+    "Semestre": 6,
+    "Apelido": "PROJETO INTEGRADOR DE TECNOLOGIA DA INFORMAÇÃO II",
+    "CargaHorariaTeorico": 68,
+    "CargaHorariaPratica": null,
+    "ListaPrequisitos": []
+  },
+  {
+    "Id": 52140,
+    "Codigo": "3201.000.419-4",
+    "Tipo": "OBR",
+    "Descricao": "PROJETO INTEGRADOR DE TECNOLOGIA DA INFORMAÇÃO III",
+    "Semestre": 6,
+    "Apelido": "PROJETO INTEGRADOR DE TECNOLOGIA DA INFORMAÇÃO III",
+    "CargaHorariaTeorico": 68,
+    "CargaHorariaPratica": null,
+    "ListaPrequisitos": []
+  },
+  {
+    "Id": 47761,
+    "Codigo": "3201.000.205-5",
+    "Tipo": "OBR",
+    "Descricao": "VERIFICAÇÃO, VALIDAÇÃO E TESTE DE SOFTWARE",
+    "Semestre": 6,
+    "Apelido": "VERIFICAÇÃO, VALIDAÇÃO E TESTE DE SOFTWARE",
+    "CargaHorariaTeorico": 68,
+    "CargaHorariaPratica": null,
+    "ListaPrequisitos": [
+      {
+        "Id": 47767,
+        "Codigo": "3201.000.211-7",
+        "Descricao": "ENGENHARIA DE SOFTWARE",
+        "Semestre": "0",
+        "Apelido": "ENGENHARIA DE SOFTWARE",
+        "CargaHorariaTeorico": 0,
+        "CargaHorariaPratica": 0,
+        "ListaPrequisitos": []
+      }
+    ]
+  },
+  {
+    "Id": 47720,
+    "Codigo": "3201.000.164-8",
+    "Tipo": "OPT",
+    "Descricao": "ADMINISTRAÇÃO DE SISTEMAS DE INFORMAÇÃO",
+    "Semestre": 99,
+    "Apelido": "ADMINISTRAÇÃO DE SISTEMAS DE INFORMAÇÃO",
+    "CargaHorariaTeorico": 68,
+    "CargaHorariaPratica": null,
+    "ListaPrequisitos": []
+  },
+  {
+    "Id": 52139,
+    "Codigo": "3201.000.418-5",
+    "Tipo": "OPT",
+    "Descricao": "ANÁLISE ORGANIZACIONAL E SOLUÇÕES TECNOLÓGICAS",
+    "Semestre": 99,
+    "Apelido": "ANÁLISE ORGANIZACIONAL E SOLUÇÕES TECNOLÓGICAS",
+    "CargaHorariaTeorico": 102,
+    "CargaHorariaPratica": null,
+    "ListaPrequisitos": []
+  },
+  {
+    "Id": 47718,
+    "Codigo": "3201.000.162-0",
+    "Tipo": "OPT",
+    "Descricao": "COMPORTAMENTO ORGANIZACIONAL",
+    "Semestre": 99,
+    "Apelido": "COMPORTAMENTO ORGANIZACIONAL",
+    "CargaHorariaTeorico": 68,
+    "CargaHorariaPratica": null,
+    "ListaPrequisitos": []
+  },
+  {
+    "Id": 44548,
+    "Codigo": "2901.000.696-0",
+    "Tipo": "OPT",
+    "Descricao": "ESTUDO DE LIBRAS",
+    "Semestre": 99,
+    "Apelido": "ESTUDO DE LIBRAS",
+    "CargaHorariaTeorico": 51,
+    "CargaHorariaPratica": null,
+    "ListaPrequisitos": []
+  },
+  {
+    "Id": 47769,
+    "Codigo": "3201.000.213-5",
+    "Tipo": "OPT",
+    "Descricao": "GERENCIAMENTO DE SERVIÇOS DE TECNOLOGIA DA INFORMAÇÃO",
+    "Semestre": 99,
+    "Apelido": "GERENCIAMENTO DE SERVIÇOS DE TECNOLOGIA DA INFORMAÇÃO",
+    "CargaHorariaTeorico": 68,
+    "CargaHorariaPratica": null,
+    "ListaPrequisitos": []
+  },
+  {
+    "Id": 47768,
+    "Codigo": "3201.000.212-6",
+    "Tipo": "OPT",
+    "Descricao": "GOVERNANÇA DE TECNOLOGIA DA INFORMAÇÃO",
+    "Semestre": 99,
+    "Apelido": "GOVERNANÇA DE TECNOLOGIA DA INFORMAÇÃO",
+    "CargaHorariaTeorico": 68,
+    "CargaHorariaPratica": null,
+    "ListaPrequisitos": []
+  },
+  {
+    "Id": 52075,
+    "Codigo": "3201.000.397-4",
+    "Tipo": "OPT",
+    "Descricao": "TÓPICOS INTERDISCIPLINARES I",
+    "Semestre": 99,
+    "Apelido": "TÓPICOS INTERDISCIPLINARES I",
+    "CargaHorariaTeorico": 34,
+    "CargaHorariaPratica": null,
+    "ListaPrequisitos": []
+  },
+  {
+    "Id": 52076,
+    "Codigo": "3201.000.398-3",
+    "Tipo": "OPT",
+    "Descricao": "TÓPICOS INTERDISCIPLINARES II",
+    "Semestre": 99,
+    "Apelido": "TÓPICOS INTERDISCIPLINARES II",
+    "CargaHorariaTeorico": 51,
+    "CargaHorariaPratica": null,
+    "ListaPrequisitos": []
+  },
+  {
+    "Id": 52074,
+    "Codigo": "3201.000.396-5",
+    "Tipo": "OPT",
+    "Descricao": "TÓPICOS INTERDISCIPLINARES III",
+    "Semestre": 99,
+    "Apelido": "TÓPICOS INTERDISCIPLINARES III",
+    "CargaHorariaTeorico": 68,
+    "CargaHorariaPratica": null,
+    "ListaPrequisitos": []
+  }
+]

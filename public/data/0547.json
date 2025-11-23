@@ -1,0 +1,1621 @@
+[
+  {
+    "Id": 50879,
+    "Codigo": "0510.001.952-3",
+    "Tipo": "OBR",
+    "Descricao": "ECONOMIA E NEGÓCIOS",
+    "Semestre": 1,
+    "Apelido": "ECONOMIA E NEGÓCIOS",
+    "CargaHorariaTeorico": 68,
+    "CargaHorariaPratica": null,
+    "ListaPrequisitos": []
+  },
+  {
+    "Id": 50877,
+    "Codigo": "0510.001.950-5",
+    "Tipo": "OBR",
+    "Descricao": "FUNDAMENTOS DA ADMINISTRAÇÃO",
+    "Semestre": 1,
+    "Apelido": "FUNDAMENTOS DA ADMINISTRAÇÃO",
+    "CargaHorariaTeorico": 68,
+    "CargaHorariaPratica": null,
+    "ListaPrequisitos": []
+  },
+  {
+    "Id": 50878,
+    "Codigo": "0510.001.951-4",
+    "Tipo": "OBR",
+    "Descricao": "INTRODUÇÃO À CONTABILIDADE",
+    "Semestre": 1,
+    "Apelido": "INTRODUÇÃO À CONTABILIDADE",
+    "CargaHorariaTeorico": 68,
+    "CargaHorariaPratica": null,
+    "ListaPrequisitos": []
+  },
+  {
+    "Id": 50883,
+    "Codigo": "0510.001.956-0",
+    "Tipo": "OBR",
+    "Descricao": "MATEMÁTICA",
+    "Semestre": 1,
+    "Apelido": "MATEMÁTICA",
+    "CargaHorariaTeorico": 68,
+    "CargaHorariaPratica": null,
+    "ListaPrequisitos": []
+  },
+  {
+    "Id": 46561,
+    "Codigo": "0510.001.334-1",
+    "Tipo": "OBR",
+    "Descricao": "MÉTODOS E TÉCNICAS DE PESQUISA",
+    "Semestre": 1,
+    "Apelido": "MÉTODOS E TÉCNICAS DE PESQUISA",
+    "CargaHorariaTeorico": 68,
+    "CargaHorariaPratica": null,
+    "ListaPrequisitos": []
+  },
+  {
+    "Id": 50889,
+    "Codigo": "0510.001.962-1",
+    "Tipo": "OBR",
+    "Descricao": "COMPORTAMENTO HUMANO E ORGANIZACIONAL",
+    "Semestre": 2,
+    "Apelido": "COMPORTAMENTO HUMANO E ORGANIZACIONAL",
+    "CargaHorariaTeorico": 68,
+    "CargaHorariaPratica": null,
+    "ListaPrequisitos": []
+  },
+  {
+    "Id": 50876,
+    "Codigo": "0510.001.949-9",
+    "Tipo": "OBR",
+    "Descricao": "COMUNICAÇÃO NAS ORGANIZAÇÕES",
+    "Semestre": 2,
+    "Apelido": "COMUNICAÇÃO NAS ORGANIZAÇÕES",
+    "CargaHorariaTeorico": 68,
+    "CargaHorariaPratica": null,
+    "ListaPrequisitos": []
+  },
+  {
+    "Id": 50888,
+    "Codigo": "0510.001.961-2",
+    "Tipo": "OBR",
+    "Descricao": "FUNDAMENTOS DE SOCIOLOGIA E ANTROPOLOGIA",
+    "Semestre": 2,
+    "Apelido": "FUNDAMENTOS DE SOCIOLOGIA E ANTROPOLOGIA",
+    "CargaHorariaTeorico": 68,
+    "CargaHorariaPratica": null,
+    "ListaPrequisitos": []
+  },
+  {
+    "Id": 50907,
+    "Codigo": "0510.001.980-0",
+    "Tipo": "OBR",
+    "Descricao": "GESTÃO DE CUSTOS",
+    "Semestre": 2,
+    "Apelido": "GESTÃO DE CUSTOS",
+    "CargaHorariaTeorico": 68,
+    "CargaHorariaPratica": null,
+    "ListaPrequisitos": []
+  },
+  {
+    "Id": 50887,
+    "Codigo": "0510.001.960-3",
+    "Tipo": "OBR",
+    "Descricao": "TEORIA GERAL DA ADMINISTRAÇÃO",
+    "Semestre": 2,
+    "Apelido": "TEORIA GERAL DA ADMINISTRAÇÃO",
+    "CargaHorariaTeorico": 68,
+    "CargaHorariaPratica": null,
+    "ListaPrequisitos": []
+  },
+  {
+    "Id": 50892,
+    "Codigo": "0510.001.965-9",
+    "Tipo": "OBR",
+    "Descricao": "ESTRATÉGIAS ORGANIZACIONAIS",
+    "Semestre": 3,
+    "Apelido": "ESTRATÉGIAS ORGANIZACIONAIS",
+    "CargaHorariaTeorico": 68,
+    "CargaHorariaPratica": null,
+    "ListaPrequisitos": []
+  },
+  {
+    "Id": 50898,
+    "Codigo": "0510.001.971-0",
+    "Tipo": "OBR",
+    "Descricao": "FUNDAMENTOS DA ESTATÍSTICA",
+    "Semestre": 3,
+    "Apelido": "FUNDAMENTOS DA ESTATÍSTICA",
+    "CargaHorariaTeorico": 68,
+    "CargaHorariaPratica": null,
+    "ListaPrequisitos": []
+  },
+  {
+    "Id": 50881,
+    "Codigo": "0510.001.954-1",
+    "Tipo": "OBR",
+    "Descricao": "GESTÃO DA INOVAÇÃO",
+    "Semestre": 3,
+    "Apelido": "GESTÃO DA INOVAÇÃO",
+    "CargaHorariaTeorico": 68,
+    "CargaHorariaPratica": null,
+    "ListaPrequisitos": []
+  },
+  {
+    "Id": 50890,
+    "Codigo": "0510.001.963-0",
+    "Tipo": "OBR",
+    "Descricao": "GESTÃO DE MARKETING",
+    "Semestre": 3,
+    "Apelido": "GESTÃO DE MARKETING",
+    "CargaHorariaTeorico": 68,
+    "CargaHorariaPratica": null,
+    "ListaPrequisitos": []
+  },
+  {
+    "Id": 46560,
+    "Codigo": "0510.001.333-2",
+    "Tipo": "OBR",
+    "Descricao": "MATEMÁTICA FINANCEIRA",
+    "Semestre": 3,
+    "Apelido": "MATEMÁTICA FINANCEIRA",
+    "CargaHorariaTeorico": 68,
+    "CargaHorariaPratica": null,
+    "ListaPrequisitos": []
+  },
+  {
+    "Id": 50893,
+    "Codigo": "0510.001.966-8",
+    "Tipo": "OBR",
+    "Descricao": "ECONOMIA, GESTÃO E SOCIEDADE",
+    "Semestre": 4,
+    "Apelido": "ECONOMIA, GESTÃO E SOCIEDADE",
+    "CargaHorariaTeorico": 68,
+    "CargaHorariaPratica": null,
+    "ListaPrequisitos": []
+  },
+  {
+    "Id": 50908,
+    "Codigo": "0510.001.981-9",
+    "Tipo": "OBR",
+    "Descricao": "FUNDAMENTOS E PROJETOS DE OPERAÇÕES",
+    "Semestre": 4,
+    "Apelido": "FUNDAMENTOS E PROJETOS DE OPERAÇÕES",
+    "CargaHorariaTeorico": 68,
+    "CargaHorariaPratica": null,
+    "ListaPrequisitos": []
+  },
+  {
+    "Id": 50868,
+    "Codigo": "0510.001.941-6",
+    "Tipo": "OBR",
+    "Descricao": "GESTÃO DE PESSOAS",
+    "Semestre": 4,
+    "Apelido": "GESTÃO DE PESSOAS",
+    "CargaHorariaTeorico": 68,
+    "CargaHorariaPratica": null,
+    "ListaPrequisitos": []
+  },
+  {
+    "Id": 50906,
+    "Codigo": "0510.001.979-3",
+    "Tipo": "OBR",
+    "Descricao": "GESTÃO DO COMPOSTO DE MARKETING",
+    "Semestre": 4,
+    "Apelido": "GESTÃO DO COMPOSTO DE MARKETING",
+    "CargaHorariaTeorico": 68,
+    "CargaHorariaPratica": null,
+    "ListaPrequisitos": []
+  },
+  {
+    "Id": 50874,
+    "Codigo": "0510.001.947-0",
+    "Tipo": "OBR",
+    "Descricao": "ORGANIZAÇÃO DO TRABALHO, SISTEMAS E MÉTODOS",
+    "Semestre": 4,
+    "Apelido": "ORGANIZAÇÃO DO TRABALHO, SISTEMAS E MÉTODOS",
+    "CargaHorariaTeorico": 68,
+    "CargaHorariaPratica": null,
+    "ListaPrequisitos": []
+  },
+  {
+    "Id": 50891,
+    "Codigo": "0510.001.964-0",
+    "Tipo": "OBR",
+    "Descricao": "ESTUDOS EM FILOSOFIA, ÉTICA E POLÍTICA",
+    "Semestre": 5,
+    "Apelido": "ESTUDOS EM FILOSOFIA, ÉTICA E POLÍTICA",
+    "CargaHorariaTeorico": 68,
+    "CargaHorariaPratica": null,
+    "ListaPrequisitos": [
+      {
+        "Id": 46561,
+        "Codigo": "0510.001.334-1",
+        "Descricao": "MÉTODOS E TÉCNICAS DE PESQUISA",
+        "Semestre": "0",
+        "Apelido": "MÉTODOS E TÉCNICAS DE PESQUISA",
+        "CargaHorariaTeorico": 0,
+        "CargaHorariaPratica": 0,
+        "ListaPrequisitos": []
+      },
+      {
+        "Id": 50877,
+        "Codigo": "0510.001.950-5",
+        "Descricao": "FUNDAMENTOS DA ADMINISTRAÇÃO",
+        "Semestre": "0",
+        "Apelido": "FUNDAMENTOS DA ADMINISTRAÇÃO",
+        "CargaHorariaTeorico": 0,
+        "CargaHorariaPratica": 0,
+        "ListaPrequisitos": []
+      }
+    ]
+  },
+  {
+    "Id": 50895,
+    "Codigo": "0510.001.968-6",
+    "Tipo": "OBR",
+    "Descricao": "GESTÃO DE OPERAÇÕES",
+    "Semestre": 5,
+    "Apelido": "GESTÃO DE OPERAÇÕES",
+    "CargaHorariaTeorico": 68,
+    "CargaHorariaPratica": null,
+    "ListaPrequisitos": [
+      {
+        "Id": 50877,
+        "Codigo": "0510.001.950-5",
+        "Descricao": "FUNDAMENTOS DA ADMINISTRAÇÃO",
+        "Semestre": "0",
+        "Apelido": "FUNDAMENTOS DA ADMINISTRAÇÃO",
+        "CargaHorariaTeorico": 0,
+        "CargaHorariaPratica": 0,
+        "ListaPrequisitos": []
+      },
+      {
+        "Id": 50883,
+        "Codigo": "0510.001.956-0",
+        "Descricao": "MATEMÁTICA",
+        "Semestre": "0",
+        "Apelido": "MATEMÁTICA",
+        "CargaHorariaTeorico": 0,
+        "CargaHorariaPratica": 0,
+        "ListaPrequisitos": []
+      }
+    ]
+  },
+  {
+    "Id": 50897,
+    "Codigo": "0510.001.970-1",
+    "Tipo": "OBR",
+    "Descricao": "GESTÃO ESTRATÉGICA",
+    "Semestre": 5,
+    "Apelido": "GESTÃO ESTRATÉGICA",
+    "CargaHorariaTeorico": 68,
+    "CargaHorariaPratica": null,
+    "ListaPrequisitos": [
+      {
+        "Id": 50877,
+        "Codigo": "0510.001.950-5",
+        "Descricao": "FUNDAMENTOS DA ADMINISTRAÇÃO",
+        "Semestre": "0",
+        "Apelido": "FUNDAMENTOS DA ADMINISTRAÇÃO",
+        "CargaHorariaTeorico": 0,
+        "CargaHorariaPratica": 0,
+        "ListaPrequisitos": []
+      },
+      {
+        "Id": 50879,
+        "Codigo": "0510.001.952-3",
+        "Descricao": "ECONOMIA E NEGÓCIOS",
+        "Semestre": "0",
+        "Apelido": "ECONOMIA E NEGÓCIOS",
+        "CargaHorariaTeorico": 0,
+        "CargaHorariaPratica": 0,
+        "ListaPrequisitos": []
+      }
+    ]
+  },
+  {
+    "Id": 50896,
+    "Codigo": "0510.001.969-5",
+    "Tipo": "OBR",
+    "Descricao": "GESTÃO FINANCEIRA",
+    "Semestre": 5,
+    "Apelido": "GESTÃO FINANCEIRA",
+    "CargaHorariaTeorico": 68,
+    "CargaHorariaPratica": null,
+    "ListaPrequisitos": [
+      {
+        "Id": 50878,
+        "Codigo": "0510.001.951-4",
+        "Descricao": "INTRODUÇÃO À CONTABILIDADE",
+        "Semestre": "0",
+        "Apelido": "INTRODUÇÃO À CONTABILIDADE",
+        "CargaHorariaTeorico": 0,
+        "CargaHorariaPratica": 0,
+        "ListaPrequisitos": []
+      },
+      {
+        "Id": 50883,
+        "Codigo": "0510.001.956-0",
+        "Descricao": "MATEMÁTICA",
+        "Semestre": "0",
+        "Apelido": "MATEMÁTICA",
+        "CargaHorariaTeorico": 0,
+        "CargaHorariaPratica": 0,
+        "ListaPrequisitos": []
+      }
+    ]
+  },
+  {
+    "Id": 50894,
+    "Codigo": "0510.001.967-7",
+    "Tipo": "OBR",
+    "Descricao": "GESTÃO PÚBLICA",
+    "Semestre": 5,
+    "Apelido": "GESTÃO PÚBLICA",
+    "CargaHorariaTeorico": 68,
+    "CargaHorariaPratica": null,
+    "ListaPrequisitos": []
+  },
+  {
+    "Id": 50900,
+    "Codigo": "0510.001.973-9",
+    "Tipo": "OBR",
+    "Descricao": "ANÁLISE FINANCEIRA E DE INVESTIMENTOS",
+    "Semestre": 6,
+    "Apelido": "ANÁLISE FINANCEIRA E DE INVESTIMENTOS",
+    "CargaHorariaTeorico": 68,
+    "CargaHorariaPratica": null,
+    "ListaPrequisitos": [
+      {
+        "Id": 50887,
+        "Codigo": "0510.001.960-3",
+        "Descricao": "TEORIA GERAL DA ADMINISTRAÇÃO",
+        "Semestre": "0",
+        "Apelido": "TEORIA GERAL DA ADMINISTRAÇÃO",
+        "CargaHorariaTeorico": 0,
+        "CargaHorariaPratica": 0,
+        "ListaPrequisitos": []
+      },
+      {
+        "Id": 50907,
+        "Codigo": "0510.001.980-0",
+        "Descricao": "GESTÃO DE CUSTOS",
+        "Semestre": "0",
+        "Apelido": "GESTÃO DE CUSTOS",
+        "CargaHorariaTeorico": 0,
+        "CargaHorariaPratica": 0,
+        "ListaPrequisitos": []
+      }
+    ]
+  },
+  {
+    "Id": 50899,
+    "Codigo": "0510.001.972-0",
+    "Tipo": "OBR",
+    "Descricao": "DIREITO APLICADO À ADMINISTRAÇÃO",
+    "Semestre": 6,
+    "Apelido": "DIREITO APLICADO À ADMINISTRAÇÃO",
+    "CargaHorariaTeorico": 68,
+    "CargaHorariaPratica": null,
+    "ListaPrequisitos": [
+      {
+        "Id": 50887,
+        "Codigo": "0510.001.960-3",
+        "Descricao": "TEORIA GERAL DA ADMINISTRAÇÃO",
+        "Semestre": "0",
+        "Apelido": "TEORIA GERAL DA ADMINISTRAÇÃO",
+        "CargaHorariaTeorico": 0,
+        "CargaHorariaPratica": 0,
+        "ListaPrequisitos": []
+      }
+    ]
+  },
+  {
+    "Id": 46547,
+    "Codigo": "0510.001.320-7",
+    "Tipo": "OBR",
+    "Descricao": "EMPREENDEDORISMO",
+    "Semestre": 6,
+    "Apelido": "EMPREENDEDORISMO",
+    "CargaHorariaTeorico": 68,
+    "CargaHorariaPratica": null,
+    "ListaPrequisitos": [
+      {
+        "Id": 50887,
+        "Codigo": "0510.001.960-3",
+        "Descricao": "TEORIA GERAL DA ADMINISTRAÇÃO",
+        "Semestre": "0",
+        "Apelido": "TEORIA GERAL DA ADMINISTRAÇÃO",
+        "CargaHorariaTeorico": 0,
+        "CargaHorariaPratica": 0,
+        "ListaPrequisitos": []
+      },
+      {
+        "Id": 50889,
+        "Codigo": "0510.001.962-1",
+        "Descricao": "COMPORTAMENTO HUMANO E ORGANIZACIONAL",
+        "Semestre": "0",
+        "Apelido": "COMPORTAMENTO HUMANO E ORGANIZACIONAL",
+        "CargaHorariaTeorico": 0,
+        "CargaHorariaPratica": 0,
+        "ListaPrequisitos": []
+      }
+    ]
+  },
+  {
+    "Id": 50872,
+    "Codigo": "0510.001.945-2",
+    "Tipo": "OBR",
+    "Descricao": "GESTÃO COMUNITÁRIA E INOVAÇÃO SOCIAL",
+    "Semestre": 6,
+    "Apelido": "GESTÃO COMUNITÁRIA E INOVAÇÃO SOCIAL",
+    "CargaHorariaTeorico": 68,
+    "CargaHorariaPratica": null,
+    "ListaPrequisitos": [
+      {
+        "Id": 50887,
+        "Codigo": "0510.001.960-3",
+        "Descricao": "TEORIA GERAL DA ADMINISTRAÇÃO",
+        "Semestre": "0",
+        "Apelido": "TEORIA GERAL DA ADMINISTRAÇÃO",
+        "CargaHorariaTeorico": 0,
+        "CargaHorariaPratica": 0,
+        "ListaPrequisitos": []
+      },
+      {
+        "Id": 50888,
+        "Codigo": "0510.001.961-2",
+        "Descricao": "FUNDAMENTOS DE SOCIOLOGIA E ANTROPOLOGIA",
+        "Semestre": "0",
+        "Apelido": "FUNDAMENTOS DE SOCIOLOGIA E ANTROPOLOGIA",
+        "CargaHorariaTeorico": 0,
+        "CargaHorariaPratica": 0,
+        "ListaPrequisitos": []
+      }
+    ]
+  },
+  {
+    "Id": 50901,
+    "Codigo": "0510.001.974-8",
+    "Tipo": "OBR",
+    "Descricao": "GESTÃO LOGÍSTICA",
+    "Semestre": 6,
+    "Apelido": "GESTÃO LOGÍSTICA",
+    "CargaHorariaTeorico": 68,
+    "CargaHorariaPratica": null,
+    "ListaPrequisitos": [
+      {
+        "Id": 50887,
+        "Codigo": "0510.001.960-3",
+        "Descricao": "TEORIA GERAL DA ADMINISTRAÇÃO",
+        "Semestre": "0",
+        "Apelido": "TEORIA GERAL DA ADMINISTRAÇÃO",
+        "CargaHorariaTeorico": 0,
+        "CargaHorariaPratica": 0,
+        "ListaPrequisitos": []
+      },
+      {
+        "Id": 50907,
+        "Codigo": "0510.001.980-0",
+        "Descricao": "GESTÃO DE CUSTOS",
+        "Semestre": "0",
+        "Apelido": "GESTÃO DE CUSTOS",
+        "CargaHorariaTeorico": 0,
+        "CargaHorariaPratica": 0,
+        "ListaPrequisitos": []
+      }
+    ]
+  },
+  {
+    "Id": 50884,
+    "Codigo": "0510.001.957-9",
+    "Tipo": "OBR",
+    "Descricao": "ESTÁGIO SUPERVISIONADO OBRIGATÓRIO I",
+    "Semestre": 7,
+    "Apelido": "ESTÁGIO SUPERVISIONADO OBRIGATÓRIO I",
+    "CargaHorariaTeorico": 68,
+    "CargaHorariaPratica": null,
+    "ListaPrequisitos": [
+      {
+        "Id": 50881,
+        "Codigo": "0510.001.954-1",
+        "Descricao": "GESTÃO DA INOVAÇÃO",
+        "Semestre": "0",
+        "Apelido": "GESTÃO DA INOVAÇÃO",
+        "CargaHorariaTeorico": 0,
+        "CargaHorariaPratica": 0,
+        "ListaPrequisitos": []
+      },
+      {
+        "Id": 50892,
+        "Codigo": "0510.001.965-9",
+        "Descricao": "ESTRATÉGIAS ORGANIZACIONAIS",
+        "Semestre": "0",
+        "Apelido": "ESTRATÉGIAS ORGANIZACIONAIS",
+        "CargaHorariaTeorico": 0,
+        "CargaHorariaPratica": 0,
+        "ListaPrequisitos": []
+      }
+    ]
+  },
+  {
+    "Id": 50866,
+    "Codigo": "0510.001.939-0",
+    "Tipo": "OBR",
+    "Descricao": "GESTÃO DE EMPREENDIMENTOS TURÍSTICOS",
+    "Semestre": 7,
+    "Apelido": "GESTÃO DE EMPREENDIMENTOS TURÍSTICOS",
+    "CargaHorariaTeorico": 68,
+    "CargaHorariaPratica": null,
+    "ListaPrequisitos": [
+      {
+        "Id": 46560,
+        "Codigo": "0510.001.333-2",
+        "Descricao": "MATEMÁTICA FINANCEIRA",
+        "Semestre": "0",
+        "Apelido": "MATEMÁTICA FINANCEIRA",
+        "CargaHorariaTeorico": 0,
+        "CargaHorariaPratica": 0,
+        "ListaPrequisitos": []
+      },
+      {
+        "Id": 50890,
+        "Codigo": "0510.001.963-0",
+        "Descricao": "GESTÃO DE MARKETING",
+        "Semestre": "0",
+        "Apelido": "GESTÃO DE MARKETING",
+        "CargaHorariaTeorico": 0,
+        "CargaHorariaPratica": 0,
+        "ListaPrequisitos": []
+      },
+      {
+        "Id": 50892,
+        "Codigo": "0510.001.965-9",
+        "Descricao": "ESTRATÉGIAS ORGANIZACIONAIS",
+        "Semestre": "0",
+        "Apelido": "ESTRATÉGIAS ORGANIZACIONAIS",
+        "CargaHorariaTeorico": 0,
+        "CargaHorariaPratica": 0,
+        "ListaPrequisitos": []
+      }
+    ]
+  },
+  {
+    "Id": 37043,
+    "Codigo": "0510.000.736-9",
+    "Tipo": "OBR",
+    "Descricao": "GESTÃO DE PROJETOS",
+    "Semestre": 7,
+    "Apelido": "GESTÃO DE PROJETOS",
+    "CargaHorariaTeorico": 68,
+    "CargaHorariaPratica": null,
+    "ListaPrequisitos": [
+      {
+        "Id": 46560,
+        "Codigo": "0510.001.333-2",
+        "Descricao": "MATEMÁTICA FINANCEIRA",
+        "Semestre": "0",
+        "Apelido": "MATEMÁTICA FINANCEIRA",
+        "CargaHorariaTeorico": 0,
+        "CargaHorariaPratica": 0,
+        "ListaPrequisitos": []
+      },
+      {
+        "Id": 50892,
+        "Codigo": "0510.001.965-9",
+        "Descricao": "ESTRATÉGIAS ORGANIZACIONAIS",
+        "Semestre": "0",
+        "Apelido": "ESTRATÉGIAS ORGANIZACIONAIS",
+        "CargaHorariaTeorico": 0,
+        "CargaHorariaPratica": 0,
+        "ListaPrequisitos": []
+      },
+      {
+        "Id": 50898,
+        "Codigo": "0510.001.971-0",
+        "Descricao": "FUNDAMENTOS DA ESTATÍSTICA",
+        "Semestre": "0",
+        "Apelido": "FUNDAMENTOS DA ESTATÍSTICA",
+        "CargaHorariaTeorico": 0,
+        "CargaHorariaPratica": 0,
+        "ListaPrequisitos": []
+      }
+    ]
+  },
+  {
+    "Id": 50886,
+    "Codigo": "0510.001.959-7",
+    "Tipo": "OBR",
+    "Descricao": "SISTEMAS DE INFORMAÇÃO PARA GESTÃO",
+    "Semestre": 7,
+    "Apelido": "SISTEMAS DE INFORMAÇÃO PARA GESTÃO",
+    "CargaHorariaTeorico": 68,
+    "CargaHorariaPratica": null,
+    "ListaPrequisitos": [
+      {
+        "Id": 50890,
+        "Codigo": "0510.001.963-0",
+        "Descricao": "GESTÃO DE MARKETING",
+        "Semestre": "0",
+        "Apelido": "GESTÃO DE MARKETING",
+        "CargaHorariaTeorico": 0,
+        "CargaHorariaPratica": 0,
+        "ListaPrequisitos": []
+      },
+      {
+        "Id": 50892,
+        "Codigo": "0510.001.965-9",
+        "Descricao": "ESTRATÉGIAS ORGANIZACIONAIS",
+        "Semestre": "0",
+        "Apelido": "ESTRATÉGIAS ORGANIZACIONAIS",
+        "CargaHorariaTeorico": 0,
+        "CargaHorariaPratica": 0,
+        "ListaPrequisitos": []
+      },
+      {
+        "Id": 50898,
+        "Codigo": "0510.001.971-0",
+        "Descricao": "FUNDAMENTOS DA ESTATÍSTICA",
+        "Semestre": "0",
+        "Apelido": "FUNDAMENTOS DA ESTATÍSTICA",
+        "CargaHorariaTeorico": 0,
+        "CargaHorariaPratica": 0,
+        "ListaPrequisitos": []
+      }
+    ]
+  },
+  {
+    "Id": 50905,
+    "Codigo": "0510.001.978-4",
+    "Tipo": "OBR",
+    "Descricao": "ESTÁGIO SUPERVISIONADO OBRIGATÓRIO II",
+    "Semestre": 8,
+    "Apelido": "ESTÁGIO SUPERVISIONADO OBRIGATÓRIO II",
+    "CargaHorariaTeorico": 68,
+    "CargaHorariaPratica": null,
+    "ListaPrequisitos": [
+      {
+        "Id": 50874,
+        "Codigo": "0510.001.947-0",
+        "Descricao": "ORGANIZAÇÃO DO TRABALHO, SISTEMAS E MÉTODOS",
+        "Semestre": "0",
+        "Apelido": "ORGANIZAÇÃO DO TRABALHO, SISTEMAS E MÉTODOS",
+        "CargaHorariaTeorico": 0,
+        "CargaHorariaPratica": 0,
+        "ListaPrequisitos": []
+      },
+      {
+        "Id": 50908,
+        "Codigo": "0510.001.981-9",
+        "Descricao": "FUNDAMENTOS E PROJETOS DE OPERAÇÕES",
+        "Semestre": "0",
+        "Apelido": "FUNDAMENTOS E PROJETOS DE OPERAÇÕES",
+        "CargaHorariaTeorico": 0,
+        "CargaHorariaPratica": 0,
+        "ListaPrequisitos": []
+      }
+    ]
+  },
+  {
+    "Id": 50902,
+    "Codigo": "0510.001.975-7",
+    "Tipo": "OBR",
+    "Descricao": "GESTÃO SOCIOAMBIENTAL",
+    "Semestre": 8,
+    "Apelido": "GESTÃO SOCIOAMBIENTAL",
+    "CargaHorariaTeorico": 68,
+    "CargaHorariaPratica": null,
+    "ListaPrequisitos": [
+      {
+        "Id": 50893,
+        "Codigo": "0510.001.966-8",
+        "Descricao": "ECONOMIA, GESTÃO E SOCIEDADE",
+        "Semestre": "0",
+        "Apelido": "ECONOMIA, GESTÃO E SOCIEDADE",
+        "CargaHorariaTeorico": 0,
+        "CargaHorariaPratica": 0,
+        "ListaPrequisitos": []
+      },
+      {
+        "Id": 50899,
+        "Codigo": "0510.001.972-0",
+        "Descricao": "DIREITO APLICADO À ADMINISTRAÇÃO",
+        "Semestre": "0",
+        "Apelido": "DIREITO APLICADO À ADMINISTRAÇÃO",
+        "CargaHorariaTeorico": 0,
+        "CargaHorariaPratica": 0,
+        "ListaPrequisitos": []
+      },
+      {
+        "Id": 50906,
+        "Codigo": "0510.001.979-3",
+        "Descricao": "GESTÃO DO COMPOSTO DE MARKETING",
+        "Semestre": "0",
+        "Apelido": "GESTÃO DO COMPOSTO DE MARKETING",
+        "CargaHorariaTeorico": 0,
+        "CargaHorariaPratica": 0,
+        "ListaPrequisitos": []
+      }
+    ]
+  },
+  {
+    "Id": 50863,
+    "Codigo": "0510.001.936-3",
+    "Tipo": "OBR",
+    "Descricao": "NEGÓCIOS DIGITAIS",
+    "Semestre": 8,
+    "Apelido": "NEGÓCIOS DIGITAIS",
+    "CargaHorariaTeorico": 68,
+    "CargaHorariaPratica": null,
+    "ListaPrequisitos": [
+      {
+        "Id": 50893,
+        "Codigo": "0510.001.966-8",
+        "Descricao": "ECONOMIA, GESTÃO E SOCIEDADE",
+        "Semestre": "0",
+        "Apelido": "ECONOMIA, GESTÃO E SOCIEDADE",
+        "CargaHorariaTeorico": 0,
+        "CargaHorariaPratica": 0,
+        "ListaPrequisitos": []
+      },
+      {
+        "Id": 50906,
+        "Codigo": "0510.001.979-3",
+        "Descricao": "GESTÃO DO COMPOSTO DE MARKETING",
+        "Semestre": "0",
+        "Apelido": "GESTÃO DO COMPOSTO DE MARKETING",
+        "CargaHorariaTeorico": 0,
+        "CargaHorariaPratica": 0,
+        "ListaPrequisitos": []
+      },
+      {
+        "Id": 50908,
+        "Codigo": "0510.001.981-9",
+        "Descricao": "FUNDAMENTOS E PROJETOS DE OPERAÇÕES",
+        "Semestre": "0",
+        "Apelido": "FUNDAMENTOS E PROJETOS DE OPERAÇÕES",
+        "CargaHorariaTeorico": 0,
+        "CargaHorariaPratica": 0,
+        "ListaPrequisitos": []
+      }
+    ]
+  },
+  {
+    "Id": 50864,
+    "Codigo": "0510.001.937-2",
+    "Tipo": "OPT",
+    "Descricao": "ECONOMIA BRASILEIRA CONTEMPORÂNEA",
+    "Semestre": 99,
+    "Apelido": "ECONOMIA BRASILEIRA CONTEMPORÂNEA",
+    "CargaHorariaTeorico": 68,
+    "CargaHorariaPratica": null,
+    "ListaPrequisitos": []
+  },
+  {
+    "Id": 46548,
+    "Codigo": "0510.001.321-6",
+    "Tipo": "OPT",
+    "Descricao": "ECONOMIA DO MEIO AMBIENTE",
+    "Semestre": 99,
+    "Apelido": "ECONOMIA DO MEIO AMBIENTE",
+    "CargaHorariaTeorico": 34,
+    "CargaHorariaPratica": null,
+    "ListaPrequisitos": []
+  },
+  {
+    "Id": 46550,
+    "Codigo": "0510.001.323-4",
+    "Tipo": "OPT",
+    "Descricao": "EDUCAÇÃO AMBIENTAL",
+    "Semestre": 99,
+    "Apelido": "EDUCAÇÃO AMBIENTAL",
+    "CargaHorariaTeorico": 34,
+    "CargaHorariaPratica": null,
+    "ListaPrequisitos": []
+  },
+  {
+    "Id": 35794,
+    "Codigo": "0510.000.263-4",
+    "Tipo": "OPT",
+    "Descricao": "EDUCAÇÃO DAS RELAÇÕES ÉTNICO-RACIAIS",
+    "Semestre": 99,
+    "Apelido": "EDUCAÇÃO DAS RELAÇÕES ÉTNICO-RACIAIS",
+    "CargaHorariaTeorico": 34,
+    "CargaHorariaPratica": null,
+    "ListaPrequisitos": []
+  },
+  {
+    "Id": 37006,
+    "Codigo": "0510.000.701-6",
+    "Tipo": "OPT",
+    "Descricao": "ESTUDOS DE LIBRAS",
+    "Semestre": 99,
+    "Apelido": "ESTUDOS DE LIBRAS",
+    "CargaHorariaTeorico": 68,
+    "CargaHorariaPratica": null,
+    "ListaPrequisitos": []
+  },
+  {
+    "Id": 46541,
+    "Codigo": "0510.001.314-5",
+    "Tipo": "OPT",
+    "Descricao": "FELICIDADE NO TRABALHO",
+    "Semestre": 99,
+    "Apelido": "FELICIDADE NO TRABALHO",
+    "CargaHorariaTeorico": 34,
+    "CargaHorariaPratica": null,
+    "ListaPrequisitos": []
+  },
+  {
+    "Id": 50880,
+    "Codigo": "0510.001.953-2",
+    "Tipo": "OPT",
+    "Descricao": "FINANÇAS PESSOAIS",
+    "Semestre": 99,
+    "Apelido": "FINANÇAS PESSOAIS",
+    "CargaHorariaTeorico": 68,
+    "CargaHorariaPratica": null,
+    "ListaPrequisitos": []
+  },
+  {
+    "Id": 50875,
+    "Codigo": "0510.001.948-0",
+    "Tipo": "OPT",
+    "Descricao": "GESTÃO DE AGRONEGÓCIOS",
+    "Semestre": 99,
+    "Apelido": "GESTÃO DE AGRONEGÓCIOS",
+    "CargaHorariaTeorico": 68,
+    "CargaHorariaPratica": null,
+    "ListaPrequisitos": []
+  },
+  {
+    "Id": 46537,
+    "Codigo": "0510.001.310-9",
+    "Tipo": "OPT",
+    "Descricao": "GESTÃO DE NOVOS NEGÓCIOS",
+    "Semestre": 99,
+    "Apelido": "GESTÃO DE NOVOS NEGÓCIOS",
+    "CargaHorariaTeorico": 68,
+    "CargaHorariaPratica": null,
+    "ListaPrequisitos": []
+  },
+  {
+    "Id": 50885,
+    "Codigo": "0510.001.958-8",
+    "Tipo": "OPT",
+    "Descricao": "GESTÃO DE PESSOAS II",
+    "Semestre": 99,
+    "Apelido": "GESTÃO DE PESSOAS II",
+    "CargaHorariaTeorico": 68,
+    "CargaHorariaPratica": null,
+    "ListaPrequisitos": []
+  },
+  {
+    "Id": 46557,
+    "Codigo": "0510.001.330-5",
+    "Tipo": "OPT",
+    "Descricao": "GESTÃO DO AGRONEGÓCIO",
+    "Semestre": 99,
+    "Apelido": "GESTÃO DO AGRONEGÓCIO",
+    "CargaHorariaTeorico": 34,
+    "CargaHorariaPratica": null,
+    "ListaPrequisitos": []
+  },
+  {
+    "Id": 46542,
+    "Codigo": "0510.001.315-4",
+    "Tipo": "OPT",
+    "Descricao": "GESTÃO PÚBLICA",
+    "Semestre": 99,
+    "Apelido": "GESTÃO PÚBLICA",
+    "CargaHorariaTeorico": 34,
+    "CargaHorariaPratica": null,
+    "ListaPrequisitos": []
+  },
+  {
+    "Id": 46554,
+    "Codigo": "0510.001.327-0",
+    "Tipo": "OPT",
+    "Descricao": "GOVERNANÇA CORPORATIVA",
+    "Semestre": 99,
+    "Apelido": "GOVERNANÇA CORPORATIVA",
+    "CargaHorariaTeorico": 34,
+    "CargaHorariaPratica": null,
+    "ListaPrequisitos": []
+  },
+  {
+    "Id": 50909,
+    "Codigo": "0510.001.982-8",
+    "Tipo": "OPT",
+    "Descricao": "GOVERNANÇA CORPORATIVA",
+    "Semestre": 99,
+    "Apelido": "GOVERNANÇA CORPORATIVA",
+    "CargaHorariaTeorico": 68,
+    "CargaHorariaPratica": null,
+    "ListaPrequisitos": []
+  },
+  {
+    "Id": 46539,
+    "Codigo": "0510.001.312-7",
+    "Tipo": "OPT",
+    "Descricao": "HISTÓRIA DE ORGANIZAÇÕES",
+    "Semestre": 99,
+    "Apelido": "HISTÓRIA DE ORGANIZAÇÕES",
+    "CargaHorariaTeorico": 34,
+    "CargaHorariaPratica": null,
+    "ListaPrequisitos": []
+  },
+  {
+    "Id": 50873,
+    "Codigo": "0510.001.946-1",
+    "Tipo": "OPT",
+    "Descricao": "HISTÓRIA DE ORGANIZAÇÕES",
+    "Semestre": 99,
+    "Apelido": "HISTÓRIA DE ORGANIZAÇÕES",
+    "CargaHorariaTeorico": 68,
+    "CargaHorariaPratica": null,
+    "ListaPrequisitos": []
+  },
+  {
+    "Id": 50882,
+    "Codigo": "0510.001.955-0",
+    "Tipo": "OPT",
+    "Descricao": "INFERÊNCIA ESTATÍSTICA",
+    "Semestre": 99,
+    "Apelido": "INFERÊNCIA ESTATÍSTICA",
+    "CargaHorariaTeorico": 68,
+    "CargaHorariaPratica": null,
+    "ListaPrequisitos": []
+  },
+  {
+    "Id": 46543,
+    "Codigo": "0510.001.316-3",
+    "Tipo": "OPT",
+    "Descricao": "INTELIGÊNCIA EMOCIONAL NAS ORGANIZAÇÕES",
+    "Semestre": 99,
+    "Apelido": "INTELIGÊNCIA EMOCIONAL NAS ORGANIZAÇÕES",
+    "CargaHorariaTeorico": 34,
+    "CargaHorariaPratica": null,
+    "ListaPrequisitos": []
+  },
+  {
+    "Id": 46558,
+    "Codigo": "0510.001.331-4",
+    "Tipo": "OPT",
+    "Descricao": "INTERNACIONALIZAÇÃO DE EMPRESAS",
+    "Semestre": 99,
+    "Apelido": "INTERNACIONALIZAÇÃO DE EMPRESAS",
+    "CargaHorariaTeorico": 34,
+    "CargaHorariaPratica": null,
+    "ListaPrequisitos": []
+  },
+  {
+    "Id": 50869,
+    "Codigo": "0510.001.942-5",
+    "Tipo": "OPT",
+    "Descricao": "INTRODUÇÃO À CIÊNCIA POLÍTICA",
+    "Semestre": 99,
+    "Apelido": "INTRODUÇÃO À CIÊNCIA POLÍTICA",
+    "CargaHorariaTeorico": 68,
+    "CargaHorariaPratica": null,
+    "ListaPrequisitos": []
+  },
+  {
+    "Id": 46544,
+    "Codigo": "0510.001.317-2",
+    "Tipo": "OPT",
+    "Descricao": "LINGUAGEM DAS TECNOLOGIAS",
+    "Semestre": 99,
+    "Apelido": "LINGUAGEM DAS TECNOLOGIAS",
+    "CargaHorariaTeorico": 34,
+    "CargaHorariaPratica": null,
+    "ListaPrequisitos": []
+  },
+  {
+    "Id": 50867,
+    "Codigo": "0510.001.940-7",
+    "Tipo": "OPT",
+    "Descricao": "PESQUISA DE MARKETING E COMPORTAMENTO DO CONSUMIDOR",
+    "Semestre": 99,
+    "Apelido": "PESQUISA DE MARKETING E COMPORTAMENTO DO CONSUMIDOR",
+    "CargaHorariaTeorico": 68,
+    "CargaHorariaPratica": null,
+    "ListaPrequisitos": []
+  },
+  {
+    "Id": 36178,
+    "Codigo": "0510.000.476-9",
+    "Tipo": "OPT",
+    "Descricao": "PESQUISA OPERACIONAL",
+    "Semestre": 99,
+    "Apelido": "PESQUISA OPERACIONAL",
+    "CargaHorariaTeorico": 68,
+    "CargaHorariaPratica": null,
+    "ListaPrequisitos": []
+  },
+  {
+    "Id": 46538,
+    "Codigo": "0510.001.311-8",
+    "Tipo": "OPT",
+    "Descricao": "REGIONALIDADE, INOVAÇÃO SOCIAL E DESENVOLVIMENTO TERRITORIAL SUSTENTÁVEL",
+    "Semestre": 99,
+    "Apelido": "REGIONALIDADE, INOVAÇÃO SOCIAL E DESENVOLVIMENTO TERRITORIAL SUSTENTÁVEL",
+    "CargaHorariaTeorico": 68,
+    "CargaHorariaPratica": null,
+    "ListaPrequisitos": []
+  },
+  {
+    "Id": 35886,
+    "Codigo": "0510.000.355-0",
+    "Tipo": "OPT",
+    "Descricao": "TÓPICOS ESPECIAIS EM ADMINISTRAÇÃO I",
+    "Semestre": 99,
+    "Apelido": "TÓPICOS ESPECIAIS EM ADMINISTRAÇÃO I",
+    "CargaHorariaTeorico": 68,
+    "CargaHorariaPratica": null,
+    "ListaPrequisitos": []
+  },
+  {
+    "Id": 35887,
+    "Codigo": "0510.000.356-8",
+    "Tipo": "OPT",
+    "Descricao": "TÓPICOS ESPECIAIS EM ADMINISTRAÇÃO II",
+    "Semestre": 99,
+    "Apelido": "TÓPICOS ESPECIAIS EM ADMINISTRAÇÃO II",
+    "CargaHorariaTeorico": 68,
+    "CargaHorariaPratica": null,
+    "ListaPrequisitos": []
+  },
+  {
+    "Id": 35888,
+    "Codigo": "0510.000.357-6",
+    "Tipo": "OPT",
+    "Descricao": "TÓPICOS ESPECIAIS EM ADMINISTRAÇÃO III",
+    "Semestre": 99,
+    "Apelido": "TÓPICOS ESPECIAIS EM ADMINISTRAÇÃO III",
+    "CargaHorariaTeorico": 68,
+    "CargaHorariaPratica": null,
+    "ListaPrequisitos": []
+  },
+  {
+    "Id": 37007,
+    "Codigo": "0510.000.702-4",
+    "Tipo": "OPT",
+    "Descricao": "TÓPICOS ESPECIAIS EM ADMINISTRAÇÃO IV",
+    "Semestre": 99,
+    "Apelido": "TÓPICOS ESPECIAIS EM ADMINISTRAÇÃO IV",
+    "CargaHorariaTeorico": 68,
+    "CargaHorariaPratica": null,
+    "ListaPrequisitos": []
+  },
+  {
+    "Id": 37008,
+    "Codigo": "0510.000.703-2",
+    "Tipo": "OPT",
+    "Descricao": "TÓPICOS ESPECIAIS EM COMÉRCIO INTERNACIONAL",
+    "Semestre": 99,
+    "Apelido": "TÓPICOS ESPECIAIS EM COMÉRCIO INTERNACIONAL",
+    "CargaHorariaTeorico": 68,
+    "CargaHorariaPratica": null,
+    "ListaPrequisitos": []
+  },
+  {
+    "Id": 37009,
+    "Codigo": "0510.000.704-0",
+    "Tipo": "OPT",
+    "Descricao": "TÓPICOS ESPECIAIS EM CONTABILIDADE ESTRATÉGICA",
+    "Semestre": 99,
+    "Apelido": "TÓPICOS ESPECIAIS EM CONTABILIDADE ESTRATÉGICA",
+    "CargaHorariaTeorico": 68,
+    "CargaHorariaPratica": null,
+    "ListaPrequisitos": []
+  },
+  {
+    "Id": 37010,
+    "Codigo": "0510.000.705-9",
+    "Tipo": "OPT",
+    "Descricao": "TÓPICOS ESPECIAIS EM CONTABILIDADE I",
+    "Semestre": 99,
+    "Apelido": "TÓPICOS ESPECIAIS EM CONTABILIDADE I",
+    "CargaHorariaTeorico": 68,
+    "CargaHorariaPratica": null,
+    "ListaPrequisitos": []
+  },
+  {
+    "Id": 37011,
+    "Codigo": "0510.000.706-7",
+    "Tipo": "OPT",
+    "Descricao": "TÓPICOS ESPECIAIS EM CONTABILIDADE II",
+    "Semestre": 99,
+    "Apelido": "TÓPICOS ESPECIAIS EM CONTABILIDADE II",
+    "CargaHorariaTeorico": 68,
+    "CargaHorariaPratica": null,
+    "ListaPrequisitos": []
+  },
+  {
+    "Id": 37012,
+    "Codigo": "0510.000.707-5",
+    "Tipo": "OPT",
+    "Descricao": "TÓPICOS ESPECIAIS EM CONTABILIDADE III",
+    "Semestre": 99,
+    "Apelido": "TÓPICOS ESPECIAIS EM CONTABILIDADE III",
+    "CargaHorariaTeorico": 68,
+    "CargaHorariaPratica": null,
+    "ListaPrequisitos": []
+  },
+  {
+    "Id": 35896,
+    "Codigo": "0510.000.365-7",
+    "Tipo": "OPT",
+    "Descricao": "TÓPICOS ESPECIAIS EM DIREITO I",
+    "Semestre": 99,
+    "Apelido": "TÓPICOS ESPECIAIS EM DIREITO I",
+    "CargaHorariaTeorico": 68,
+    "CargaHorariaPratica": null,
+    "ListaPrequisitos": []
+  },
+  {
+    "Id": 35895,
+    "Codigo": "0510.000.364-9",
+    "Tipo": "OPT",
+    "Descricao": "TÓPICOS ESPECIAIS EM DIREITO II",
+    "Semestre": 99,
+    "Apelido": "TÓPICOS ESPECIAIS EM DIREITO II",
+    "CargaHorariaTeorico": 68,
+    "CargaHorariaPratica": null,
+    "ListaPrequisitos": []
+  },
+  {
+    "Id": 37013,
+    "Codigo": "0510.000.708-3",
+    "Tipo": "OPT",
+    "Descricao": "TÓPICOS ESPECIAIS EM DIREITO III",
+    "Semestre": 99,
+    "Apelido": "TÓPICOS ESPECIAIS EM DIREITO III",
+    "CargaHorariaTeorico": 68,
+    "CargaHorariaPratica": null,
+    "ListaPrequisitos": []
+  },
+  {
+    "Id": 35899,
+    "Codigo": "0510.000.368-1",
+    "Tipo": "OPT",
+    "Descricao": "TÓPICOS ESPECIAIS EM ECONOMIA I",
+    "Semestre": 99,
+    "Apelido": "TÓPICOS ESPECIAIS EM ECONOMIA I",
+    "CargaHorariaTeorico": 68,
+    "CargaHorariaPratica": null,
+    "ListaPrequisitos": []
+  },
+  {
+    "Id": 35900,
+    "Codigo": "0510.000.369-0",
+    "Tipo": "OPT",
+    "Descricao": "TÓPICOS ESPECIAIS EM ECONOMIA II",
+    "Semestre": 99,
+    "Apelido": "TÓPICOS ESPECIAIS EM ECONOMIA II",
+    "CargaHorariaTeorico": 68,
+    "CargaHorariaPratica": null,
+    "ListaPrequisitos": []
+  },
+  {
+    "Id": 35901,
+    "Codigo": "0510.000.370-3",
+    "Tipo": "OPT",
+    "Descricao": "TÓPICOS ESPECIAIS EM ECONOMIA III",
+    "Semestre": 99,
+    "Apelido": "TÓPICOS ESPECIAIS EM ECONOMIA III",
+    "CargaHorariaTeorico": 68,
+    "CargaHorariaPratica": null,
+    "ListaPrequisitos": []
+  },
+  {
+    "Id": 37016,
+    "Codigo": "0510.000.709-1",
+    "Tipo": "OPT",
+    "Descricao": "TÓPICOS ESPECIAIS EM EMPREENDEDORISMO",
+    "Semestre": 99,
+    "Apelido": "TÓPICOS ESPECIAIS EM EMPREENDEDORISMO",
+    "CargaHorariaTeorico": 68,
+    "CargaHorariaPratica": null,
+    "ListaPrequisitos": []
+  },
+  {
+    "Id": 37017,
+    "Codigo": "0510.000.710-5",
+    "Tipo": "OPT",
+    "Descricao": "TÓPICOS ESPECIAIS EM ERGONOMIA E SEGURANÇA DO TRABALHO",
+    "Semestre": 99,
+    "Apelido": "TÓPICOS ESPECIAIS EM ERGONOMIA E SEGURANÇA DO TRABALHO",
+    "CargaHorariaTeorico": 68,
+    "CargaHorariaPratica": null,
+    "ListaPrequisitos": []
+  },
+  {
+    "Id": 50862,
+    "Codigo": "0510.001.935-4",
+    "Tipo": "OPT",
+    "Descricao": "TÓPICOS ESPECIAIS EM ESTUDOS FRONTEIRIÇOS",
+    "Semestre": 99,
+    "Apelido": "TÓPICOS ESPECIAIS EM ESTUDOS FRONTEIRIÇOS",
+    "CargaHorariaTeorico": 34,
+    "CargaHorariaPratica": null,
+    "ListaPrequisitos": []
+  },
+  {
+    "Id": 37018,
+    "Codigo": "0510.000.711-3",
+    "Tipo": "OPT",
+    "Descricao": "TÓPICOS ESPECIAIS EM FINANÇAS CORPORATIVAS",
+    "Semestre": 99,
+    "Apelido": "TÓPICOS ESPECIAIS EM FINANÇAS CORPORATIVAS",
+    "CargaHorariaTeorico": 68,
+    "CargaHorariaPratica": null,
+    "ListaPrequisitos": []
+  },
+  {
+    "Id": 50904,
+    "Codigo": "0510.001.977-5",
+    "Tipo": "OPT",
+    "Descricao": "TÓPICOS ESPECIAIS EM FORMULAÇÃO E GERENCIAMENTO DE PROJETOS SOCIOAMBIENTAIS",
+    "Semestre": 99,
+    "Apelido": "TÓPICOS ESPECIAIS EM FORMULAÇÃO E GERENCIAMENTO DE PROJETOS SOCIOAMBIENTAIS",
+    "CargaHorariaTeorico": 34,
+    "CargaHorariaPratica": null,
+    "ListaPrequisitos": []
+  },
+  {
+    "Id": 37019,
+    "Codigo": "0510.000.712-1",
+    "Tipo": "OPT",
+    "Descricao": "TÓPICOS ESPECIAIS EM GEOGRAFIA ECONÔMICA E NEGÓCIOS",
+    "Semestre": 99,
+    "Apelido": "TÓPICOS ESPECIAIS EM GEOGRAFIA ECONÔMICA E NEGÓCIOS",
+    "CargaHorariaTeorico": 68,
+    "CargaHorariaPratica": null,
+    "ListaPrequisitos": []
+  },
+  {
+    "Id": 37020,
+    "Codigo": "0510.000.713-0",
+    "Tipo": "OPT",
+    "Descricao": "TÓPICOS ESPECIAIS EM GESTÃO AGROINDUSTRIAL",
+    "Semestre": 99,
+    "Apelido": "TÓPICOS ESPECIAIS EM GESTÃO AGROINDUSTRIAL",
+    "CargaHorariaTeorico": 68,
+    "CargaHorariaPratica": null,
+    "ListaPrequisitos": []
+  },
+  {
+    "Id": 37021,
+    "Codigo": "0510.000.714-8",
+    "Tipo": "OPT",
+    "Descricao": "TÓPICOS ESPECIAIS EM GESTÃO DA PRODUÇÃO",
+    "Semestre": 99,
+    "Apelido": "TÓPICOS ESPECIAIS EM GESTÃO DA PRODUÇÃO",
+    "CargaHorariaTeorico": 68,
+    "CargaHorariaPratica": null,
+    "ListaPrequisitos": []
+  },
+  {
+    "Id": 37023,
+    "Codigo": "0510.000.716-4",
+    "Tipo": "OPT",
+    "Descricao": "TÓPICOS ESPECIAIS EM GESTÃO DE CARREIRAS",
+    "Semestre": 99,
+    "Apelido": "TÓPICOS ESPECIAIS EM GESTÃO DE CARREIRAS",
+    "CargaHorariaTeorico": 68,
+    "CargaHorariaPratica": null,
+    "ListaPrequisitos": []
+  },
+  {
+    "Id": 37024,
+    "Codigo": "0510.000.717-2",
+    "Tipo": "OPT",
+    "Descricao": "TÓPICOS ESPECIAIS EM GESTÃO DE EMPRESAS SEM FINS LUCRATIVOS",
+    "Semestre": 99,
+    "Apelido": "TÓPICOS ESPECIAIS EM GESTÃO DE EMPRESAS SEM FINS LUCRATIVOS",
+    "CargaHorariaTeorico": 68,
+    "CargaHorariaPratica": null,
+    "ListaPrequisitos": []
+  },
+  {
+    "Id": 37025,
+    "Codigo": "0510.000.718-0",
+    "Tipo": "OPT",
+    "Descricao": "TÓPICOS ESPECIAIS EM GESTÃO DE ESTOQUES",
+    "Semestre": 99,
+    "Apelido": "TÓPICOS ESPECIAIS EM GESTÃO DE ESTOQUES",
+    "CargaHorariaTeorico": 68,
+    "CargaHorariaPratica": null,
+    "ListaPrequisitos": []
+  },
+  {
+    "Id": 37026,
+    "Codigo": "0510.000.719-9",
+    "Tipo": "OPT",
+    "Descricao": "TÓPICOS ESPECIAIS EM GESTÃO DE EVENTOS",
+    "Semestre": 99,
+    "Apelido": "TÓPICOS ESPECIAIS EM GESTÃO DE EVENTOS",
+    "CargaHorariaTeorico": 68,
+    "CargaHorariaPratica": null,
+    "ListaPrequisitos": []
+  },
+  {
+    "Id": 37031,
+    "Codigo": "0510.000.724-5",
+    "Tipo": "OPT",
+    "Descricao": "TÓPICOS ESPECIAIS EM GESTÃO DE INOVAÇÃO",
+    "Semestre": 99,
+    "Apelido": "TÓPICOS ESPECIAIS EM GESTÃO DE INOVAÇÃO",
+    "CargaHorariaTeorico": 68,
+    "CargaHorariaPratica": null,
+    "ListaPrequisitos": []
+  },
+  {
+    "Id": 37027,
+    "Codigo": "0510.000.720-2",
+    "Tipo": "OPT",
+    "Descricao": "TÓPICOS ESPECIAIS EM GESTÃO DE MICROEMPREENDIMENTOS",
+    "Semestre": 99,
+    "Apelido": "TÓPICOS ESPECIAIS EM GESTÃO DE MICROEMPREENDIMENTOS",
+    "CargaHorariaTeorico": 68,
+    "CargaHorariaPratica": null,
+    "ListaPrequisitos": []
+  },
+  {
+    "Id": 37039,
+    "Codigo": "0510.000.732-6",
+    "Tipo": "OPT",
+    "Descricao": "TÓPICOS ESPECIAIS EM GESTÃO DE PESSOAS",
+    "Semestre": 99,
+    "Apelido": "TÓPICOS ESPECIAIS EM GESTÃO DE PESSOAS",
+    "CargaHorariaTeorico": 68,
+    "CargaHorariaPratica": null,
+    "ListaPrequisitos": []
+  },
+  {
+    "Id": 50870,
+    "Codigo": "0510.001.943-4",
+    "Tipo": "OPT",
+    "Descricao": "TÓPICOS ESPECIAIS EM GESTÃO DE PESSOAS",
+    "Semestre": 99,
+    "Apelido": "TÓPICOS ESPECIAIS EM GESTÃO DE PESSOAS",
+    "CargaHorariaTeorico": 68,
+    "CargaHorariaPratica": null,
+    "ListaPrequisitos": []
+  },
+  {
+    "Id": 37022,
+    "Codigo": "0510.000.715-6",
+    "Tipo": "OPT",
+    "Descricao": "TÓPICOS ESPECIAIS EM GESTÃO DE QUALIDADE",
+    "Semestre": 99,
+    "Apelido": "TÓPICOS ESPECIAIS EM GESTÃO DE QUALIDADE",
+    "CargaHorariaTeorico": 68,
+    "CargaHorariaPratica": null,
+    "ListaPrequisitos": []
+  },
+  {
+    "Id": 46545,
+    "Codigo": "0510.001.318-1",
+    "Tipo": "OPT",
+    "Descricao": "TÓPICOS ESPECIAIS EM GESTÃO, DESENVOLVIMENTO COMUNITÁRIO E PODER LOCAL",
+    "Semestre": 99,
+    "Apelido": "TÓPICOS ESPECIAIS EM GESTÃO, DESENVOLVIMENTO COMUNITÁRIO E PODER LOCAL",
+    "CargaHorariaTeorico": 68,
+    "CargaHorariaPratica": null,
+    "ListaPrequisitos": []
+  },
+  {
+    "Id": 37028,
+    "Codigo": "0510.000.721-0",
+    "Tipo": "OPT",
+    "Descricao": "TÓPICOS ESPECIAIS EM GESTÃO DE SERVIÇOS E VAREJO",
+    "Semestre": 99,
+    "Apelido": "TÓPICOS ESPECIAIS EM GESTÃO DE SERVIÇOS E VAREJO",
+    "CargaHorariaTeorico": 68,
+    "CargaHorariaPratica": null,
+    "ListaPrequisitos": []
+  },
+  {
+    "Id": 37029,
+    "Codigo": "0510.000.722-9",
+    "Tipo": "OPT",
+    "Descricao": "TÓPICOS ESPECIAIS EM GESTÃO DE TRANSPORTES",
+    "Semestre": 99,
+    "Apelido": "TÓPICOS ESPECIAIS EM GESTÃO DE TRANSPORTES",
+    "CargaHorariaTeorico": 68,
+    "CargaHorariaPratica": null,
+    "ListaPrequisitos": []
+  },
+  {
+    "Id": 37030,
+    "Codigo": "0510.000.723-7",
+    "Tipo": "OPT",
+    "Descricao": "TÓPICOS ESPECIAIS EM GESTÃO ESTRATÉGICA",
+    "Semestre": 99,
+    "Apelido": "TÓPICOS ESPECIAIS EM GESTÃO ESTRATÉGICA",
+    "CargaHorariaTeorico": 68,
+    "CargaHorariaPratica": null,
+    "ListaPrequisitos": []
+  },
+  {
+    "Id": 50903,
+    "Codigo": "0510.001.976-6",
+    "Tipo": "OPT",
+    "Descricao": "TÓPICOS ESPECIAIS EM GESTÃO MUNICIPAL",
+    "Semestre": 99,
+    "Apelido": "TÓPICOS ESPECIAIS EM GESTÃO MUNICIPAL",
+    "CargaHorariaTeorico": 68,
+    "CargaHorariaPratica": null,
+    "ListaPrequisitos": []
+  },
+  {
+    "Id": 37040,
+    "Codigo": "0510.000.733-4",
+    "Tipo": "OPT",
+    "Descricao": "TÓPICOS ESPECIAIS EM JOGOS EMPRESARIAIS",
+    "Semestre": 99,
+    "Apelido": "TÓPICOS ESPECIAIS EM JOGOS EMPRESARIAIS",
+    "CargaHorariaTeorico": 68,
+    "CargaHorariaPratica": null,
+    "ListaPrequisitos": []
+  },
+  {
+    "Id": 37032,
+    "Codigo": "0510.000.725-3",
+    "Tipo": "OPT",
+    "Descricao": "TÓPICOS ESPECIAIS EM LÍNGUA ESPANHOLA",
+    "Semestre": 99,
+    "Apelido": "TÓPICOS ESPECIAIS EM LÍNGUA ESPANHOLA",
+    "CargaHorariaTeorico": 68,
+    "CargaHorariaPratica": null,
+    "ListaPrequisitos": []
+  },
+  {
+    "Id": 37033,
+    "Codigo": "0510.000.726-1",
+    "Tipo": "OPT",
+    "Descricao": "TÓPICOS ESPECIAIS EM LÍNGUA INGLESA",
+    "Semestre": 99,
+    "Apelido": "TÓPICOS ESPECIAIS EM LÍNGUA INGLESA",
+    "CargaHorariaTeorico": 68,
+    "CargaHorariaPratica": null,
+    "ListaPrequisitos": []
+  },
+  {
+    "Id": 37034,
+    "Codigo": "0510.000.727-0",
+    "Tipo": "OPT",
+    "Descricao": "TÓPICOS ESPECIAIS EM LÍNGUA PORTUGUESA",
+    "Semestre": 99,
+    "Apelido": "TÓPICOS ESPECIAIS EM LÍNGUA PORTUGUESA",
+    "CargaHorariaTeorico": 68,
+    "CargaHorariaPratica": null,
+    "ListaPrequisitos": []
+  },
+  {
+    "Id": 37035,
+    "Codigo": "0510.000.728-8",
+    "Tipo": "OPT",
+    "Descricao": "TÓPICOS ESPECIAIS EM LOGÍSTICA EMPRESARIAL",
+    "Semestre": 99,
+    "Apelido": "TÓPICOS ESPECIAIS EM LOGÍSTICA EMPRESARIAL",
+    "CargaHorariaTeorico": 68,
+    "CargaHorariaPratica": null,
+    "ListaPrequisitos": []
+  },
+  {
+    "Id": 37036,
+    "Codigo": "0510.000.729-6",
+    "Tipo": "OPT",
+    "Descricao": "TÓPICOS ESPECIAIS EM MARKETING",
+    "Semestre": 99,
+    "Apelido": "TÓPICOS ESPECIAIS EM MARKETING",
+    "CargaHorariaTeorico": 68,
+    "CargaHorariaPratica": null,
+    "ListaPrequisitos": []
+  },
+  {
+    "Id": 37037,
+    "Codigo": "0510.000.730-0",
+    "Tipo": "OPT",
+    "Descricao": "TÓPICOS ESPECIAIS EM PESQUISA ORGANIZACIONAIS",
+    "Semestre": 99,
+    "Apelido": "TÓPICOS ESPECIAIS EM PESQUISA ORGANIZACIONAIS",
+    "CargaHorariaTeorico": 68,
+    "CargaHorariaPratica": null,
+    "ListaPrequisitos": []
+  },
+  {
+    "Id": 37038,
+    "Codigo": "0510.000.731-8",
+    "Tipo": "OPT",
+    "Descricao": "TÓPICOS ESPECIAIS EM PROJETOS SOCIOAMBIENTAIS",
+    "Semestre": 99,
+    "Apelido": "TÓPICOS ESPECIAIS EM PROJETOS SOCIOAMBIENTAIS",
+    "CargaHorariaTeorico": 68,
+    "CargaHorariaPratica": null,
+    "ListaPrequisitos": []
+  },
+  {
+    "Id": 37041,
+    "Codigo": "0510.000.734-2",
+    "Tipo": "OPT",
+    "Descricao": "TÓPICOS ESPECIAIS EM SOCIOLOGIA",
+    "Semestre": 99,
+    "Apelido": "TÓPICOS ESPECIAIS EM SOCIOLOGIA",
+    "CargaHorariaTeorico": 68,
+    "CargaHorariaPratica": null,
+    "ListaPrequisitos": []
+  },
+  {
+    "Id": 35885,
+    "Codigo": "0510.000.354-1",
+    "Tipo": "OPT",
+    "Descricao": "TÓPICOS ESPECIAIS EM TECNOLOGIA DA INFORMAÇÃO",
+    "Semestre": 99,
+    "Apelido": "TÓPICOS ESPECIAIS EM TECNOLOGIA DA INFORMAÇÃO",
+    "CargaHorariaTeorico": 68,
+    "CargaHorariaPratica": null,
+    "ListaPrequisitos": []
+  },
+  {
+    "Id": 50865,
+    "Codigo": "0510.001.938-1",
+    "Tipo": "OPT",
+    "Descricao": "TÓPICOS ESPECIAIS EM TEORIAS ORGANIZACIONAIS AVANÇADOS",
+    "Semestre": 99,
+    "Apelido": "TÓPICOS ESPECIAIS EM TEORIAS ORGANIZACIONAIS AVANÇADOS",
+    "CargaHorariaTeorico": 34,
+    "CargaHorariaPratica": null,
+    "ListaPrequisitos": []
+  },
+  {
+    "Id": 50871,
+    "Codigo": "0510.001.944-3",
+    "Tipo": "OPT",
+    "Descricao": "TÓPICOS ESPECIAIS EM TEORIAS ORGANIZACIONAIS AVANÇADOS",
+    "Semestre": 99,
+    "Apelido": "TÓPICOS ESPECIAIS EM TEORIAS ORGANIZACIONAIS AVANÇADOS",
+    "CargaHorariaTeorico": 68,
+    "CargaHorariaPratica": null,
+    "ListaPrequisitos": []
+  },
+  {
+    "Id": 46555,
+    "Codigo": "0510.001.328-0",
+    "Tipo": "OPT",
+    "Descricao": "TÓPICOS ESPECIAIS EM TEORIAS ORGANIZACIONAIS AVANÇADOS I",
+    "Semestre": 99,
+    "Apelido": "TÓPICOS ESPECIAIS EM TEORIAS ORGANIZACIONAIS AVANÇADOS I",
+    "CargaHorariaTeorico": 34,
+    "CargaHorariaPratica": null,
+    "ListaPrequisitos": []
+  },
+  {
+    "Id": 46549,
+    "Codigo": "0510.001.322-5",
+    "Tipo": "OPT",
+    "Descricao": "TÓPICOS ESPECIAIS EM TEORIAS ORGANIZACIONAIS AVANÇADOS II",
+    "Semestre": 99,
+    "Apelido": "TÓPICOS ESPECIAIS EM TEORIAS ORGANIZACIONAIS AVANÇADOS II",
+    "CargaHorariaTeorico": 34,
+    "CargaHorariaPratica": null,
+    "ListaPrequisitos": []
+  },
+  {
+    "Id": 37042,
+    "Codigo": "0510.000.735-0",
+    "Tipo": "OPT",
+    "Descricao": "TÓPICOS ESPECIAIS EM TURISMO",
+    "Semestre": 99,
+    "Apelido": "TÓPICOS ESPECIAIS EM TURISMO",
+    "CargaHorariaTeorico": 68,
+    "CargaHorariaPratica": null,
+    "ListaPrequisitos": []
+  }
+]

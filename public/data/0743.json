@@ -1,0 +1,1529 @@
+[
+  {
+    "Id": 49517,
+    "Codigo": "0709.001.917-0",
+    "Tipo": "OBR",
+    "Descricao": "ALGORITMOS E PROGRAMAÇÃO I",
+    "Semestre": 1,
+    "Apelido": "ALGORITMOS E PROGRAMAÇÃO I",
+    "CargaHorariaTeorico": 102,
+    "CargaHorariaPratica": null,
+    "ListaPrequisitos": []
+  },
+  {
+    "Id": 35278,
+    "Codigo": "0709.000.335-4",
+    "Tipo": "OBR",
+    "Descricao": "FUNDAMENTOS DE TECNOLOGIA DA INFORMAÇÃO",
+    "Semestre": 1,
+    "Apelido": "FUNDAMENTOS DE TECNOLOGIA DA INFORMAÇÃO",
+    "CargaHorariaTeorico": 68,
+    "CargaHorariaPratica": null,
+    "ListaPrequisitos": []
+  },
+  {
+    "Id": 49513,
+    "Codigo": "0709.001.913-3",
+    "Tipo": "OBR",
+    "Descricao": "LABORATÓRIO DE ALGORITMOS E PROGRAMAÇÃO I",
+    "Semestre": 1,
+    "Apelido": "LABORATÓRIO DE ALGORITMOS E PROGRAMAÇÃO I",
+    "CargaHorariaTeorico": 34,
+    "CargaHorariaPratica": null,
+    "ListaPrequisitos": []
+  },
+  {
+    "Id": 50585,
+    "Codigo": "0709.002.146-3",
+    "Tipo": "OBR",
+    "Descricao": "MATEMÁTICA ELEMENTAR",
+    "Semestre": 1,
+    "Apelido": "MATEMÁTICA ELEMENTAR",
+    "CargaHorariaTeorico": 68,
+    "CargaHorariaPratica": null,
+    "ListaPrequisitos": []
+  },
+  {
+    "Id": 49491,
+    "Codigo": "0709.001.891-3",
+    "Tipo": "OBR",
+    "Descricao": "MODELAGEM DE PROCESSOS DE NEGÓCIO",
+    "Semestre": 1,
+    "Apelido": "MODELAGEM DE PROCESSOS DE NEGÓCIO",
+    "CargaHorariaTeorico": 68,
+    "CargaHorariaPratica": null,
+    "ListaPrequisitos": []
+  },
+  {
+    "Id": 35275,
+    "Codigo": "0709.000.332-0",
+    "Tipo": "OBR",
+    "Descricao": "ALGORITMOS E PROGRAMAÇÃO II",
+    "Semestre": 2,
+    "Apelido": "ALGORITMOS E PROGRAMAÇÃO II",
+    "CargaHorariaTeorico": 102,
+    "CargaHorariaPratica": null,
+    "ListaPrequisitos": [
+      {
+        "Id": 49513,
+        "Codigo": "0709.001.913-3",
+        "Descricao": "LABORATÓRIO DE ALGORITMOS E PROGRAMAÇÃO I",
+        "Semestre": "0",
+        "Apelido": "LABORATÓRIO DE ALGORITMOS E PROGRAMAÇÃO I",
+        "CargaHorariaTeorico": 0,
+        "CargaHorariaPratica": 0,
+        "ListaPrequisitos": []
+      },
+      {
+        "Id": 49517,
+        "Codigo": "0709.001.917-0",
+        "Descricao": "ALGORITMOS E PROGRAMAÇÃO I",
+        "Semestre": "0",
+        "Apelido": "ALGORITMOS E PROGRAMAÇÃO I",
+        "CargaHorariaTeorico": 0,
+        "CargaHorariaPratica": 0,
+        "ListaPrequisitos": []
+      }
+    ]
+  },
+  {
+    "Id": 49504,
+    "Codigo": "0709.001.904-4",
+    "Tipo": "OBR",
+    "Descricao": "ENGENHARIA DE SOFTWARE",
+    "Semestre": 2,
+    "Apelido": "ENGENHARIA DE SOFTWARE",
+    "CargaHorariaTeorico": 68,
+    "CargaHorariaPratica": null,
+    "ListaPrequisitos": []
+  },
+  {
+    "Id": 50914,
+    "Codigo": "0709.002.192-8",
+    "Tipo": "OBR",
+    "Descricao": "FUNDAMENTOS DA ADMINISTRAÇÃO",
+    "Semestre": 2,
+    "Apelido": "FUNDAMENTOS DA ADMINISTRAÇÃO",
+    "CargaHorariaTeorico": 68,
+    "CargaHorariaPratica": null,
+    "ListaPrequisitos": []
+  },
+  {
+    "Id": 35274,
+    "Codigo": "0709.000.331-1",
+    "Tipo": "OBR",
+    "Descricao": "FUNDAMENTOS DA TEORIA DA COMPUTAÇÃO",
+    "Semestre": 2,
+    "Apelido": "FUNDAMENTOS DA TEORIA DA COMPUTAÇÃO",
+    "CargaHorariaTeorico": 68,
+    "CargaHorariaPratica": null,
+    "ListaPrequisitos": []
+  },
+  {
+    "Id": 49514,
+    "Codigo": "0709.001.914-2",
+    "Tipo": "OBR",
+    "Descricao": "LABORATÓRIO DE ALGORITMOS E PROGRAMAÇÃO II",
+    "Semestre": 2,
+    "Apelido": "LABORATÓRIO DE ALGORITMOS E PROGRAMAÇÃO II",
+    "CargaHorariaTeorico": 34,
+    "CargaHorariaPratica": null,
+    "ListaPrequisitos": [
+      {
+        "Id": 49513,
+        "Codigo": "0709.001.913-3",
+        "Descricao": "LABORATÓRIO DE ALGORITMOS E PROGRAMAÇÃO I",
+        "Semestre": "0",
+        "Apelido": "LABORATÓRIO DE ALGORITMOS E PROGRAMAÇÃO I",
+        "CargaHorariaTeorico": 0,
+        "CargaHorariaPratica": 0,
+        "ListaPrequisitos": []
+      },
+      {
+        "Id": 49517,
+        "Codigo": "0709.001.917-0",
+        "Descricao": "ALGORITMOS E PROGRAMAÇÃO I",
+        "Semestre": "0",
+        "Apelido": "ALGORITMOS E PROGRAMAÇÃO I",
+        "CargaHorariaTeorico": 0,
+        "CargaHorariaPratica": 0,
+        "ListaPrequisitos": []
+      }
+    ]
+  },
+  {
+    "Id": 49486,
+    "Codigo": "0709.001.886-0",
+    "Tipo": "OBR",
+    "Descricao": "BANCO DE DADOS",
+    "Semestre": 3,
+    "Apelido": "BANCO DE DADOS",
+    "CargaHorariaTeorico": 68,
+    "CargaHorariaPratica": null,
+    "ListaPrequisitos": [
+      {
+        "Id": 49513,
+        "Codigo": "0709.001.913-3",
+        "Descricao": "LABORATÓRIO DE ALGORITMOS E PROGRAMAÇÃO I",
+        "Semestre": "0",
+        "Apelido": "LABORATÓRIO DE ALGORITMOS E PROGRAMAÇÃO I",
+        "CargaHorariaTeorico": 0,
+        "CargaHorariaPratica": 0,
+        "ListaPrequisitos": []
+      },
+      {
+        "Id": 49517,
+        "Codigo": "0709.001.917-0",
+        "Descricao": "ALGORITMOS E PROGRAMAÇÃO I",
+        "Semestre": "0",
+        "Apelido": "ALGORITMOS E PROGRAMAÇÃO I",
+        "CargaHorariaTeorico": 0,
+        "CargaHorariaPratica": 0,
+        "ListaPrequisitos": []
+      }
+    ]
+  },
+  {
+    "Id": 35284,
+    "Codigo": "0709.000.341-9",
+    "Tipo": "OBR",
+    "Descricao": "ESTRUTURAS DE DADOS E PROGRAMAÇÃO I",
+    "Semestre": 3,
+    "Apelido": "ESTRUTURAS DE DADOS E PROGRAMAÇÃO I",
+    "CargaHorariaTeorico": 68,
+    "CargaHorariaPratica": null,
+    "ListaPrequisitos": [
+      {
+        "Id": 35275,
+        "Codigo": "0709.000.332-0",
+        "Descricao": "ALGORITMOS E PROGRAMAÇÃO II",
+        "Semestre": "0",
+        "Apelido": "ALGORITMOS E PROGRAMAÇÃO II",
+        "CargaHorariaTeorico": 0,
+        "CargaHorariaPratica": 0,
+        "ListaPrequisitos": []
+      },
+      {
+        "Id": 49514,
+        "Codigo": "0709.001.914-2",
+        "Descricao": "LABORATÓRIO DE ALGORITMOS E PROGRAMAÇÃO II",
+        "Semestre": "0",
+        "Apelido": "LABORATÓRIO DE ALGORITMOS E PROGRAMAÇÃO II",
+        "CargaHorariaTeorico": 0,
+        "CargaHorariaPratica": 0,
+        "ListaPrequisitos": []
+      }
+    ]
+  },
+  {
+    "Id": 49500,
+    "Codigo": "0709.001.900-8",
+    "Tipo": "OBR",
+    "Descricao": "GERÊNCIA DE PROJETOS",
+    "Semestre": 3,
+    "Apelido": "GERÊNCIA DE PROJETOS",
+    "CargaHorariaTeorico": 68,
+    "CargaHorariaPratica": null,
+    "ListaPrequisitos": []
+  },
+  {
+    "Id": 35273,
+    "Codigo": "0709.000.330-3",
+    "Tipo": "OBR",
+    "Descricao": "INTRODUÇÃO A SISTEMAS DIGITAIS",
+    "Semestre": 3,
+    "Apelido": "INTRODUÇÃO A SISTEMAS DIGITAIS",
+    "CargaHorariaTeorico": 68,
+    "CargaHorariaPratica": null,
+    "ListaPrequisitos": []
+  },
+  {
+    "Id": 49503,
+    "Codigo": "0709.001.903-5",
+    "Tipo": "OBR",
+    "Descricao": "LINGUAGEM DE PROGRAMAÇÃO ORIENTADA A OBJETOS",
+    "Semestre": 3,
+    "Apelido": "LINGUAGEM DE PROGRAMAÇÃO ORIENTADA A OBJETOS",
+    "CargaHorariaTeorico": 68,
+    "CargaHorariaPratica": null,
+    "ListaPrequisitos": [
+      {
+        "Id": 35275,
+        "Codigo": "0709.000.332-0",
+        "Descricao": "ALGORITMOS E PROGRAMAÇÃO II",
+        "Semestre": "0",
+        "Apelido": "ALGORITMOS E PROGRAMAÇÃO II",
+        "CargaHorariaTeorico": 0,
+        "CargaHorariaPratica": 0,
+        "ListaPrequisitos": []
+      },
+      {
+        "Id": 49514,
+        "Codigo": "0709.001.914-2",
+        "Descricao": "LABORATÓRIO DE ALGORITMOS E PROGRAMAÇÃO II",
+        "Semestre": "0",
+        "Apelido": "LABORATÓRIO DE ALGORITMOS E PROGRAMAÇÃO II",
+        "CargaHorariaTeorico": 0,
+        "CargaHorariaPratica": 0,
+        "ListaPrequisitos": []
+      }
+    ]
+  },
+  {
+    "Id": 49501,
+    "Codigo": "0709.001.901-7",
+    "Tipo": "OBR",
+    "Descricao": "ANÁLISE E PROJETO DE SOFTWARE ORIENTADO A OBJETOS",
+    "Semestre": 4,
+    "Apelido": "ANÁLISE E PROJETO DE SOFTWARE ORIENTADO A OBJETOS",
+    "CargaHorariaTeorico": 68,
+    "CargaHorariaPratica": null,
+    "ListaPrequisitos": [
+      {
+        "Id": 49503,
+        "Codigo": "0709.001.903-5",
+        "Descricao": "LINGUAGEM DE PROGRAMAÇÃO ORIENTADA A OBJETOS",
+        "Semestre": "0",
+        "Apelido": "LINGUAGEM DE PROGRAMAÇÃO ORIENTADA A OBJETOS",
+        "CargaHorariaTeorico": 0,
+        "CargaHorariaPratica": 0,
+        "ListaPrequisitos": []
+      }
+    ]
+  },
+  {
+    "Id": 35276,
+    "Codigo": "0709.000.333-8",
+    "Tipo": "OBR",
+    "Descricao": "ARQUITETURA DE COMPUTADORES I",
+    "Semestre": 4,
+    "Apelido": "ARQUITETURA DE COMPUTADORES I",
+    "CargaHorariaTeorico": 68,
+    "CargaHorariaPratica": null,
+    "ListaPrequisitos": [
+      {
+        "Id": 35273,
+        "Codigo": "0709.000.330-3",
+        "Descricao": "INTRODUÇÃO A SISTEMAS DIGITAIS",
+        "Semestre": "0",
+        "Apelido": "INTRODUÇÃO A SISTEMAS DIGITAIS",
+        "CargaHorariaTeorico": 0,
+        "CargaHorariaPratica": 0,
+        "ListaPrequisitos": []
+      }
+    ]
+  },
+  {
+    "Id": 49497,
+    "Codigo": "0709.001.897-8",
+    "Tipo": "OBR",
+    "Descricao": "ESTATÍSTICA",
+    "Semestre": 4,
+    "Apelido": "ESTATÍSTICA",
+    "CargaHorariaTeorico": 68,
+    "CargaHorariaPratica": null,
+    "ListaPrequisitos": [
+      {
+        "Id": 50585,
+        "Codigo": "0709.002.146-3",
+        "Descricao": "MATEMÁTICA ELEMENTAR",
+        "Semestre": "0",
+        "Apelido": "MATEMÁTICA ELEMENTAR",
+        "CargaHorariaTeorico": 0,
+        "CargaHorariaPratica": 0,
+        "ListaPrequisitos": []
+      }
+    ]
+  },
+  {
+    "Id": 49519,
+    "Codigo": "0709.001.919-8",
+    "Tipo": "OBR",
+    "Descricao": "LABORATÓRIO DE BANCO DE DADOS",
+    "Semestre": 4,
+    "Apelido": "LABORATÓRIO DE BANCO DE DADOS",
+    "CargaHorariaTeorico": 68,
+    "CargaHorariaPratica": null,
+    "ListaPrequisitos": [
+      {
+        "Id": 49486,
+        "Codigo": "0709.001.886-0",
+        "Descricao": "BANCO DE DADOS",
+        "Semestre": "0",
+        "Apelido": "BANCO DE DADOS",
+        "CargaHorariaTeorico": 0,
+        "CargaHorariaPratica": 0,
+        "ListaPrequisitos": []
+      }
+    ]
+  },
+  {
+    "Id": 49518,
+    "Codigo": "0709.001.918-9",
+    "Tipo": "OBR",
+    "Descricao": "PROGRAMAÇÃO PARA WEB",
+    "Semestre": 4,
+    "Apelido": "PROGRAMAÇÃO PARA WEB",
+    "CargaHorariaTeorico": 68,
+    "CargaHorariaPratica": null,
+    "ListaPrequisitos": [
+      {
+        "Id": 49503,
+        "Codigo": "0709.001.903-5",
+        "Descricao": "LINGUAGEM DE PROGRAMAÇÃO ORIENTADA A OBJETOS",
+        "Semestre": "0",
+        "Apelido": "LINGUAGEM DE PROGRAMAÇÃO ORIENTADA A OBJETOS",
+        "CargaHorariaTeorico": 0,
+        "CargaHorariaPratica": 0,
+        "ListaPrequisitos": []
+      }
+    ]
+  },
+  {
+    "Id": 49496,
+    "Codigo": "0709.001.896-9",
+    "Tipo": "OBR",
+    "Descricao": "INTELIGÊNCIA ARTIFICIAL",
+    "Semestre": 5,
+    "Apelido": "INTELIGÊNCIA ARTIFICIAL",
+    "CargaHorariaTeorico": 68,
+    "CargaHorariaPratica": null,
+    "ListaPrequisitos": [
+      {
+        "Id": 35275,
+        "Codigo": "0709.000.332-0",
+        "Descricao": "ALGORITMOS E PROGRAMAÇÃO II",
+        "Semestre": "0",
+        "Apelido": "ALGORITMOS E PROGRAMAÇÃO II",
+        "CargaHorariaTeorico": 0,
+        "CargaHorariaPratica": 0,
+        "ListaPrequisitos": []
+      },
+      {
+        "Id": 49497,
+        "Codigo": "0709.001.897-8",
+        "Descricao": "ESTATÍSTICA",
+        "Semestre": "0",
+        "Apelido": "ESTATÍSTICA",
+        "CargaHorariaTeorico": 0,
+        "CargaHorariaPratica": 0,
+        "ListaPrequisitos": []
+      },
+      {
+        "Id": 49514,
+        "Codigo": "0709.001.914-2",
+        "Descricao": "LABORATÓRIO DE ALGORITMOS E PROGRAMAÇÃO II",
+        "Semestre": "0",
+        "Apelido": "LABORATÓRIO DE ALGORITMOS E PROGRAMAÇÃO II",
+        "CargaHorariaTeorico": 0,
+        "CargaHorariaPratica": 0,
+        "ListaPrequisitos": []
+      }
+    ]
+  },
+  {
+    "Id": 49505,
+    "Codigo": "0709.001.905-3",
+    "Tipo": "OBR",
+    "Descricao": "INTRODUÇÃO A SISTEMAS OPERACIONAIS",
+    "Semestre": 5,
+    "Apelido": "INTRODUÇÃO A SISTEMAS OPERACIONAIS",
+    "CargaHorariaTeorico": 68,
+    "CargaHorariaPratica": null,
+    "ListaPrequisitos": [
+      {
+        "Id": 35275,
+        "Codigo": "0709.000.332-0",
+        "Descricao": "ALGORITMOS E PROGRAMAÇÃO II",
+        "Semestre": "0",
+        "Apelido": "ALGORITMOS E PROGRAMAÇÃO II",
+        "CargaHorariaTeorico": 0,
+        "CargaHorariaPratica": 0,
+        "ListaPrequisitos": []
+      },
+      {
+        "Id": 35276,
+        "Codigo": "0709.000.333-8",
+        "Descricao": "ARQUITETURA DE COMPUTADORES I",
+        "Semestre": "0",
+        "Apelido": "ARQUITETURA DE COMPUTADORES I",
+        "CargaHorariaTeorico": 0,
+        "CargaHorariaPratica": 0,
+        "ListaPrequisitos": []
+      },
+      {
+        "Id": 49514,
+        "Codigo": "0709.001.914-2",
+        "Descricao": "LABORATÓRIO DE ALGORITMOS E PROGRAMAÇÃO II",
+        "Semestre": "0",
+        "Apelido": "LABORATÓRIO DE ALGORITMOS E PROGRAMAÇÃO II",
+        "CargaHorariaTeorico": 0,
+        "CargaHorariaPratica": 0,
+        "ListaPrequisitos": []
+      }
+    ]
+  },
+  {
+    "Id": 49494,
+    "Codigo": "0709.001.894-0",
+    "Tipo": "OBR",
+    "Descricao": "LABORATÓRIO DE PROGRAMAÇÃO PARA WEB",
+    "Semestre": 5,
+    "Apelido": "LABORATÓRIO DE PROGRAMAÇÃO PARA WEB",
+    "CargaHorariaTeorico": 68,
+    "CargaHorariaPratica": null,
+    "ListaPrequisitos": [
+      {
+        "Id": 49518,
+        "Codigo": "0709.001.918-9",
+        "Descricao": "PROGRAMAÇÃO PARA WEB",
+        "Semestre": "0",
+        "Apelido": "PROGRAMAÇÃO PARA WEB",
+        "CargaHorariaTeorico": 0,
+        "CargaHorariaPratica": 0,
+        "ListaPrequisitos": []
+      }
+    ]
+  },
+  {
+    "Id": 35282,
+    "Codigo": "0709.000.339-7",
+    "Tipo": "OBR",
+    "Descricao": "REDES DE COMPUTADORES I",
+    "Semestre": 5,
+    "Apelido": "REDES DE COMPUTADORES I",
+    "CargaHorariaTeorico": 68,
+    "CargaHorariaPratica": null,
+    "ListaPrequisitos": [
+      {
+        "Id": 35273,
+        "Codigo": "0709.000.330-3",
+        "Descricao": "INTRODUÇÃO A SISTEMAS DIGITAIS",
+        "Semestre": "0",
+        "Apelido": "INTRODUÇÃO A SISTEMAS DIGITAIS",
+        "CargaHorariaTeorico": 0,
+        "CargaHorariaPratica": 0,
+        "ListaPrequisitos": []
+      },
+      {
+        "Id": 35275,
+        "Codigo": "0709.000.332-0",
+        "Descricao": "ALGORITMOS E PROGRAMAÇÃO II",
+        "Semestre": "0",
+        "Apelido": "ALGORITMOS E PROGRAMAÇÃO II",
+        "CargaHorariaTeorico": 0,
+        "CargaHorariaPratica": 0,
+        "ListaPrequisitos": []
+      },
+      {
+        "Id": 49514,
+        "Codigo": "0709.001.914-2",
+        "Descricao": "LABORATÓRIO DE ALGORITMOS E PROGRAMAÇÃO II",
+        "Semestre": "0",
+        "Apelido": "LABORATÓRIO DE ALGORITMOS E PROGRAMAÇÃO II",
+        "CargaHorariaTeorico": 0,
+        "CargaHorariaPratica": 0,
+        "ListaPrequisitos": []
+      }
+    ]
+  },
+  {
+    "Id": 49485,
+    "Codigo": "0709.001.885-1",
+    "Tipo": "OBR",
+    "Descricao": "COMPUTAÇÃO DISTRIBUÍDA",
+    "Semestre": 6,
+    "Apelido": "COMPUTAÇÃO DISTRIBUÍDA",
+    "CargaHorariaTeorico": 68,
+    "CargaHorariaPratica": null,
+    "ListaPrequisitos": [
+      {
+        "Id": 35282,
+        "Codigo": "0709.000.339-7",
+        "Descricao": "REDES DE COMPUTADORES I",
+        "Semestre": "0",
+        "Apelido": "REDES DE COMPUTADORES I",
+        "CargaHorariaTeorico": 0,
+        "CargaHorariaPratica": 0,
+        "ListaPrequisitos": []
+      }
+    ]
+  },
+  {
+    "Id": 35289,
+    "Codigo": "0709.000.346-0",
+    "Tipo": "OBR",
+    "Descricao": "REDES DE COMPUTADORES II",
+    "Semestre": 6,
+    "Apelido": "REDES DE COMPUTADORES II",
+    "CargaHorariaTeorico": 68,
+    "CargaHorariaPratica": null,
+    "ListaPrequisitos": [
+      {
+        "Id": 35282,
+        "Codigo": "0709.000.339-7",
+        "Descricao": "REDES DE COMPUTADORES I",
+        "Semestre": "0",
+        "Apelido": "REDES DE COMPUTADORES I",
+        "CargaHorariaTeorico": 0,
+        "CargaHorariaPratica": 0,
+        "ListaPrequisitos": []
+      }
+    ]
+  },
+  {
+    "Id": 49490,
+    "Codigo": "0709.001.890-4",
+    "Tipo": "OBR",
+    "Descricao": "SISTEMAS DE APOIO À DECISÃO",
+    "Semestre": 6,
+    "Apelido": "SISTEMAS DE APOIO À DECISÃO",
+    "CargaHorariaTeorico": 68,
+    "CargaHorariaPratica": null,
+    "ListaPrequisitos": [
+      {
+        "Id": 49496,
+        "Codigo": "0709.001.896-9",
+        "Descricao": "INTELIGÊNCIA ARTIFICIAL",
+        "Semestre": "0",
+        "Apelido": "INTELIGÊNCIA ARTIFICIAL",
+        "CargaHorariaTeorico": 0,
+        "CargaHorariaPratica": 0,
+        "ListaPrequisitos": []
+      }
+    ]
+  },
+  {
+    "Id": 49499,
+    "Codigo": "0709.001.899-6",
+    "Tipo": "OBR",
+    "Descricao": "TÉCNICAS AVANÇADAS DE DESENVOLVIMENTO DE SOFTWARE",
+    "Semestre": 6,
+    "Apelido": "TÉCNICAS AVANÇADAS DE DESENVOLVIMENTO DE SOFTWARE",
+    "CargaHorariaTeorico": 68,
+    "CargaHorariaPratica": null,
+    "ListaPrequisitos": [
+      {
+        "Id": 49503,
+        "Codigo": "0709.001.903-5",
+        "Descricao": "LINGUAGEM DE PROGRAMAÇÃO ORIENTADA A OBJETOS",
+        "Semestre": "0",
+        "Apelido": "LINGUAGEM DE PROGRAMAÇÃO ORIENTADA A OBJETOS",
+        "CargaHorariaTeorico": 0,
+        "CargaHorariaPratica": 0,
+        "ListaPrequisitos": []
+      }
+    ]
+  },
+  {
+    "Id": 50929,
+    "Codigo": "0709.002.207-7",
+    "Tipo": "OBR",
+    "Descricao": "GESTÃO ESTRATÉGICA",
+    "Semestre": 7,
+    "Apelido": "GESTÃO ESTRATÉGICA",
+    "CargaHorariaTeorico": 68,
+    "CargaHorariaPratica": null,
+    "ListaPrequisitos": []
+  },
+  {
+    "Id": 49492,
+    "Codigo": "0709.001.892-2",
+    "Tipo": "OBR",
+    "Descricao": "GOVERNANÇA DE TECNOLOGIA DA INFORMAÇÃO",
+    "Semestre": 7,
+    "Apelido": "GOVERNANÇA DE TECNOLOGIA DA INFORMAÇÃO",
+    "CargaHorariaTeorico": 68,
+    "CargaHorariaPratica": null,
+    "ListaPrequisitos": [
+      {
+        "Id": 35278,
+        "Codigo": "0709.000.335-4",
+        "Descricao": "FUNDAMENTOS DE TECNOLOGIA DA INFORMAÇÃO",
+        "Semestre": "0",
+        "Apelido": "FUNDAMENTOS DE TECNOLOGIA DA INFORMAÇÃO",
+        "CargaHorariaTeorico": 0,
+        "CargaHorariaPratica": 0,
+        "ListaPrequisitos": []
+      }
+    ]
+  },
+  {
+    "Id": 49507,
+    "Codigo": "0709.001.907-1",
+    "Tipo": "OBR",
+    "Descricao": "INTERAÇÃO HUMANO-COMPUTADOR",
+    "Semestre": 7,
+    "Apelido": "INTERAÇÃO HUMANO-COMPUTADOR",
+    "CargaHorariaTeorico": 68,
+    "CargaHorariaPratica": null,
+    "ListaPrequisitos": [
+      {
+        "Id": 49504,
+        "Codigo": "0709.001.904-4",
+        "Descricao": "ENGENHARIA DE SOFTWARE",
+        "Semestre": "0",
+        "Apelido": "ENGENHARIA DE SOFTWARE",
+        "CargaHorariaTeorico": 0,
+        "CargaHorariaPratica": 0,
+        "ListaPrequisitos": []
+      }
+    ]
+  },
+  {
+    "Id": 49502,
+    "Codigo": "0709.001.902-6",
+    "Tipo": "OBR",
+    "Descricao": "QUALIDADE DE SOFTWARE",
+    "Semestre": 7,
+    "Apelido": "QUALIDADE DE SOFTWARE",
+    "CargaHorariaTeorico": 68,
+    "CargaHorariaPratica": null,
+    "ListaPrequisitos": []
+  },
+  {
+    "Id": 35363,
+    "Codigo": "0709.000.356-7",
+    "Tipo": "OBR",
+    "Descricao": "COMPUTAÇÃO E SOCIEDADE",
+    "Semestre": 8,
+    "Apelido": "COMPUTAÇÃO E SOCIEDADE",
+    "CargaHorariaTeorico": 68,
+    "CargaHorariaPratica": null,
+    "ListaPrequisitos": []
+  },
+  {
+    "Id": 43686,
+    "Codigo": "1991.000.004-3",
+    "Tipo": "OBR",
+    "Descricao": "EMPREENDEDORISMO E INOVAÇÃO",
+    "Semestre": 8,
+    "Apelido": "EMPREENDEDORISMO E INOVAÇÃO",
+    "CargaHorariaTeorico": 68,
+    "CargaHorariaPratica": null,
+    "ListaPrequisitos": []
+  },
+  {
+    "Id": 49488,
+    "Codigo": "0709.001.888-9",
+    "Tipo": "OBR",
+    "Descricao": "GERENCIAMENTO DE SERVIÇOS DE TECNOLOGIA DA INFORMAÇÃO",
+    "Semestre": 8,
+    "Apelido": "GERENCIAMENTO DE SERVIÇOS DE TECNOLOGIA DA INFORMAÇÃO",
+    "CargaHorariaTeorico": 68,
+    "CargaHorariaPratica": null,
+    "ListaPrequisitos": [
+      {
+        "Id": 49492,
+        "Codigo": "0709.001.892-2",
+        "Descricao": "GOVERNANÇA DE TECNOLOGIA DA INFORMAÇÃO",
+        "Semestre": "0",
+        "Apelido": "GOVERNANÇA DE TECNOLOGIA DA INFORMAÇÃO",
+        "CargaHorariaTeorico": 0,
+        "CargaHorariaPratica": 0,
+        "ListaPrequisitos": []
+      }
+    ]
+  },
+  {
+    "Id": 49495,
+    "Codigo": "0709.001.895-0",
+    "Tipo": "OBR",
+    "Descricao": "SEGURANÇA E AUDITORIA DE SISTEMAS",
+    "Semestre": 8,
+    "Apelido": "SEGURANÇA E AUDITORIA DE SISTEMAS",
+    "CargaHorariaTeorico": 68,
+    "CargaHorariaPratica": null,
+    "ListaPrequisitos": [
+      {
+        "Id": 35278,
+        "Codigo": "0709.000.335-4",
+        "Descricao": "FUNDAMENTOS DE TECNOLOGIA DA INFORMAÇÃO",
+        "Semestre": "0",
+        "Apelido": "FUNDAMENTOS DE TECNOLOGIA DA INFORMAÇÃO",
+        "CargaHorariaTeorico": 0,
+        "CargaHorariaPratica": 0,
+        "ListaPrequisitos": []
+      }
+    ]
+  },
+  {
+    "Id": 35367,
+    "Codigo": "0709.000.360-5",
+    "Tipo": "OPT",
+    "Descricao": "ALGORITMOS PARALELOS",
+    "Semestre": 99,
+    "Apelido": "ALGORITMOS PARALELOS",
+    "CargaHorariaTeorico": 68,
+    "CargaHorariaPratica": null,
+    "ListaPrequisitos": [
+      {
+        "Id": 35284,
+        "Codigo": "0709.000.341-9",
+        "Descricao": "ESTRUTURAS DE DADOS E PROGRAMAÇÃO I",
+        "Semestre": "0",
+        "Apelido": "ESTRUTURAS DE DADOS E PROGRAMAÇÃO I",
+        "CargaHorariaTeorico": 0,
+        "CargaHorariaPratica": 0,
+        "ListaPrequisitos": []
+      }
+    ]
+  },
+  {
+    "Id": 35368,
+    "Codigo": "0709.000.361-3",
+    "Tipo": "OPT",
+    "Descricao": "ANÁLISE DE ALGORITMOS",
+    "Semestre": 99,
+    "Apelido": "ANÁLISE DE ALGORITMOS",
+    "CargaHorariaTeorico": 68,
+    "CargaHorariaPratica": null,
+    "ListaPrequisitos": [
+      {
+        "Id": 35274,
+        "Codigo": "0709.000.331-1",
+        "Descricao": "FUNDAMENTOS DA TEORIA DA COMPUTAÇÃO",
+        "Semestre": "0",
+        "Apelido": "FUNDAMENTOS DA TEORIA DA COMPUTAÇÃO",
+        "CargaHorariaTeorico": 0,
+        "CargaHorariaPratica": 0,
+        "ListaPrequisitos": []
+      },
+      {
+        "Id": 35284,
+        "Codigo": "0709.000.341-9",
+        "Descricao": "ESTRUTURAS DE DADOS E PROGRAMAÇÃO I",
+        "Semestre": "0",
+        "Apelido": "ESTRUTURAS DE DADOS E PROGRAMAÇÃO I",
+        "CargaHorariaTeorico": 0,
+        "CargaHorariaPratica": 0,
+        "ListaPrequisitos": []
+      }
+    ]
+  },
+  {
+    "Id": 35369,
+    "Codigo": "0709.000.362-1",
+    "Tipo": "OPT",
+    "Descricao": "ANÁLISE E PROJETO DE APLICAÇÕES WEB",
+    "Semestre": 99,
+    "Apelido": "ANÁLISE E PROJETO DE APLICAÇÕES WEB",
+    "CargaHorariaTeorico": 68,
+    "CargaHorariaPratica": null,
+    "ListaPrequisitos": []
+  },
+  {
+    "Id": 35371,
+    "Codigo": "0709.000.364-8",
+    "Tipo": "OPT",
+    "Descricao": "ANÁLISE FORENSE COMPUTACIONAL",
+    "Semestre": 99,
+    "Apelido": "ANÁLISE FORENSE COMPUTACIONAL",
+    "CargaHorariaTeorico": 68,
+    "CargaHorariaPratica": null,
+    "ListaPrequisitos": [
+      {
+        "Id": 35278,
+        "Codigo": "0709.000.335-4",
+        "Descricao": "FUNDAMENTOS DE TECNOLOGIA DA INFORMAÇÃO",
+        "Semestre": "0",
+        "Apelido": "FUNDAMENTOS DE TECNOLOGIA DA INFORMAÇÃO",
+        "CargaHorariaTeorico": 0,
+        "CargaHorariaPratica": 0,
+        "ListaPrequisitos": []
+      }
+    ]
+  },
+  {
+    "Id": 35372,
+    "Codigo": "0709.000.365-6",
+    "Tipo": "OPT",
+    "Descricao": "ARQUITETURA DE COMPUTADORES II",
+    "Semestre": 99,
+    "Apelido": "ARQUITETURA DE COMPUTADORES II",
+    "CargaHorariaTeorico": 68,
+    "CargaHorariaPratica": null,
+    "ListaPrequisitos": [
+      {
+        "Id": 35276,
+        "Codigo": "0709.000.333-8",
+        "Descricao": "ARQUITETURA DE COMPUTADORES I",
+        "Semestre": "0",
+        "Apelido": "ARQUITETURA DE COMPUTADORES I",
+        "CargaHorariaTeorico": 0,
+        "CargaHorariaPratica": 0,
+        "ListaPrequisitos": []
+      }
+    ]
+  },
+  {
+    "Id": 49489,
+    "Codigo": "0709.001.889-8",
+    "Tipo": "OPT",
+    "Descricao": "BANCO DE DADOS II",
+    "Semestre": 99,
+    "Apelido": "BANCO DE DADOS II",
+    "CargaHorariaTeorico": 68,
+    "CargaHorariaPratica": null,
+    "ListaPrequisitos": []
+  },
+  {
+    "Id": 35374,
+    "Codigo": "0709.000.367-2",
+    "Tipo": "OPT",
+    "Descricao": "CABEAMENTO ESTRUTURADO",
+    "Semestre": 99,
+    "Apelido": "CABEAMENTO ESTRUTURADO",
+    "CargaHorariaTeorico": 34,
+    "CargaHorariaPratica": null,
+    "ListaPrequisitos": [
+      {
+        "Id": 35282,
+        "Codigo": "0709.000.339-7",
+        "Descricao": "REDES DE COMPUTADORES I",
+        "Semestre": "0",
+        "Apelido": "REDES DE COMPUTADORES I",
+        "CargaHorariaTeorico": 0,
+        "CargaHorariaPratica": 0,
+        "ListaPrequisitos": []
+      }
+    ]
+  },
+  {
+    "Id": 50581,
+    "Codigo": "0709.002.142-7",
+    "Tipo": "OPT",
+    "Descricao": "CÁLCULO I",
+    "Semestre": 99,
+    "Apelido": "CÁLCULO I",
+    "CargaHorariaTeorico": 68,
+    "CargaHorariaPratica": null,
+    "ListaPrequisitos": []
+  },
+  {
+    "Id": 35375,
+    "Codigo": "0709.000.368-0",
+    "Tipo": "OPT",
+    "Descricao": "COMPILADORES I",
+    "Semestre": 99,
+    "Apelido": "COMPILADORES I",
+    "CargaHorariaTeorico": 68,
+    "CargaHorariaPratica": null,
+    "ListaPrequisitos": [
+      {
+        "Id": 35284,
+        "Codigo": "0709.000.341-9",
+        "Descricao": "ESTRUTURAS DE DADOS E PROGRAMAÇÃO I",
+        "Semestre": "0",
+        "Apelido": "ESTRUTURAS DE DADOS E PROGRAMAÇÃO I",
+        "CargaHorariaTeorico": 0,
+        "CargaHorariaPratica": 0,
+        "ListaPrequisitos": []
+      },
+      {
+        "Id": 52162,
+        "Codigo": "0709.002.332-3",
+        "Descricao": "LINGUAGENS FORMAIS E AUTÔMATOS",
+        "Semestre": "0",
+        "Apelido": "LINGUAGENS FORMAIS E AUTÔMATOS",
+        "CargaHorariaTeorico": 0,
+        "CargaHorariaPratica": 0,
+        "ListaPrequisitos": []
+      }
+    ]
+  },
+  {
+    "Id": 35376,
+    "Codigo": "0709.000.369-9",
+    "Tipo": "OPT",
+    "Descricao": "COMPILADORES II",
+    "Semestre": 99,
+    "Apelido": "COMPILADORES II",
+    "CargaHorariaTeorico": 68,
+    "CargaHorariaPratica": null,
+    "ListaPrequisitos": [
+      {
+        "Id": 35375,
+        "Codigo": "0709.000.368-0",
+        "Descricao": "COMPILADORES I",
+        "Semestre": "0",
+        "Apelido": "COMPILADORES I",
+        "CargaHorariaTeorico": 0,
+        "CargaHorariaPratica": 0,
+        "ListaPrequisitos": []
+      }
+    ]
+  },
+  {
+    "Id": 47281,
+    "Codigo": "0709.001.687-5",
+    "Tipo": "OPT",
+    "Descricao": "COMPORTAMENTO ORGANIZACIONAL",
+    "Semestre": 99,
+    "Apelido": "COMPORTAMENTO ORGANIZACIONAL",
+    "CargaHorariaTeorico": 68,
+    "CargaHorariaPratica": null,
+    "ListaPrequisitos": []
+  },
+  {
+    "Id": 35377,
+    "Codigo": "0709.000.370-2",
+    "Tipo": "OPT",
+    "Descricao": "COMPUTAÇÃO GRÁFICA",
+    "Semestre": 99,
+    "Apelido": "COMPUTAÇÃO GRÁFICA",
+    "CargaHorariaTeorico": 68,
+    "CargaHorariaPratica": null,
+    "ListaPrequisitos": [
+      {
+        "Id": 35284,
+        "Codigo": "0709.000.341-9",
+        "Descricao": "ESTRUTURAS DE DADOS E PROGRAMAÇÃO I",
+        "Semestre": "0",
+        "Apelido": "ESTRUTURAS DE DADOS E PROGRAMAÇÃO I",
+        "CargaHorariaTeorico": 0,
+        "CargaHorariaPratica": 0,
+        "ListaPrequisitos": []
+      }
+    ]
+  },
+  {
+    "Id": 50916,
+    "Codigo": "0709.002.194-6",
+    "Tipo": "OPT",
+    "Descricao": "DIREITO APLICADO À ADMINISTRAÇÃO",
+    "Semestre": 99,
+    "Apelido": "DIREITO APLICADO À ADMINISTRAÇÃO",
+    "CargaHorariaTeorico": 68,
+    "CargaHorariaPratica": null,
+    "ListaPrequisitos": []
+  },
+  {
+    "Id": 35261,
+    "Codigo": "0709.000.318-4",
+    "Tipo": "OPT",
+    "Descricao": "EDUCAÇÃO DAS RELAÇÕES ÉTNICO-RACIAIS NO BRASIL",
+    "Semestre": 99,
+    "Apelido": "EDUCAÇÃO DAS RELAÇÕES ÉTNICO-RACIAIS NO BRASIL",
+    "CargaHorariaTeorico": 34,
+    "CargaHorariaPratica": null,
+    "ListaPrequisitos": []
+  },
+  {
+    "Id": 35378,
+    "Codigo": "0709.000.371-0",
+    "Tipo": "OPT",
+    "Descricao": "ESTRUTURAS DE DADOS E PROGRAMAÇÃO II",
+    "Semestre": 99,
+    "Apelido": "ESTRUTURAS DE DADOS E PROGRAMAÇÃO II",
+    "CargaHorariaTeorico": 68,
+    "CargaHorariaPratica": null,
+    "ListaPrequisitos": [
+      {
+        "Id": 35284,
+        "Codigo": "0709.000.341-9",
+        "Descricao": "ESTRUTURAS DE DADOS E PROGRAMAÇÃO I",
+        "Semestre": "0",
+        "Apelido": "ESTRUTURAS DE DADOS E PROGRAMAÇÃO I",
+        "CargaHorariaTeorico": 0,
+        "CargaHorariaPratica": 0,
+        "ListaPrequisitos": []
+      }
+    ]
+  },
+  {
+    "Id": 35110,
+    "Codigo": "0709.000.171-8",
+    "Tipo": "OPT",
+    "Descricao": "ESTUDO DE LIBRAS",
+    "Semestre": 99,
+    "Apelido": "ESTUDO DE LIBRAS",
+    "CargaHorariaTeorico": 68,
+    "CargaHorariaPratica": null,
+    "ListaPrequisitos": []
+  },
+  {
+    "Id": 34522,
+    "Codigo": "0709.000.037-1",
+    "Tipo": "OPT",
+    "Descricao": "FILOSOFIA",
+    "Semestre": 99,
+    "Apelido": "FILOSOFIA",
+    "CargaHorariaTeorico": 68,
+    "CargaHorariaPratica": null,
+    "ListaPrequisitos": []
+  },
+  {
+    "Id": 49487,
+    "Codigo": "0709.001.887-0",
+    "Tipo": "OPT",
+    "Descricao": "FUNDAMENTOS DE MULTIMÍDIA",
+    "Semestre": 99,
+    "Apelido": "FUNDAMENTOS DE MULTIMÍDIA",
+    "CargaHorariaTeorico": 68,
+    "CargaHorariaPratica": null,
+    "ListaPrequisitos": []
+  },
+  {
+    "Id": 35392,
+    "Codigo": "0709.000.385-0",
+    "Tipo": "OPT",
+    "Descricao": "GEOMETRIA ANALÍTICA E ÁLGEBRA LINEAR",
+    "Semestre": 99,
+    "Apelido": "GEOMETRIA ANALÍTICA E ÁLGEBRA LINEAR",
+    "CargaHorariaTeorico": 68,
+    "CargaHorariaPratica": null,
+    "ListaPrequisitos": []
+  },
+  {
+    "Id": 35393,
+    "Codigo": "0709.000.386-9",
+    "Tipo": "OPT",
+    "Descricao": "IMPLEMENTAÇÃO E EXPERIMENTAÇÃO ALGORÍTMICA",
+    "Semestre": 99,
+    "Apelido": "IMPLEMENTAÇÃO E EXPERIMENTAÇÃO ALGORÍTMICA",
+    "CargaHorariaTeorico": 68,
+    "CargaHorariaPratica": null,
+    "ListaPrequisitos": []
+  },
+  {
+    "Id": 35395,
+    "Codigo": "0709.000.388-5",
+    "Tipo": "OPT",
+    "Descricao": "INTRODUÇÃO À CONTABILIDADE",
+    "Semestre": 99,
+    "Apelido": "INTRODUÇÃO À CONTABILIDADE",
+    "CargaHorariaTeorico": 68,
+    "CargaHorariaPratica": null,
+    "ListaPrequisitos": []
+  },
+  {
+    "Id": 49639,
+    "Codigo": "0709.001.928-7",
+    "Tipo": "OPT",
+    "Descricao": "INTRODUÇÃO À ECONOMIA",
+    "Semestre": 99,
+    "Apelido": "INTRODUÇÃO À ECONOMIA",
+    "CargaHorariaTeorico": 68,
+    "CargaHorariaPratica": null,
+    "ListaPrequisitos": []
+  },
+  {
+    "Id": 35399,
+    "Codigo": "0709.000.392-3",
+    "Tipo": "OPT",
+    "Descricao": "LABORATÓRIO DE DESENVOLVIMENTO DE SISTEMAS ORIENTADO A OBJETOS",
+    "Semestre": 99,
+    "Apelido": "LABORATÓRIO DE DESENVOLVIMENTO DE SISTEMAS ORIENTADO A OBJETOS",
+    "CargaHorariaTeorico": 68,
+    "CargaHorariaPratica": null,
+    "ListaPrequisitos": []
+  },
+  {
+    "Id": 35400,
+    "Codigo": "0709.000.393-1",
+    "Tipo": "OPT",
+    "Descricao": "LABORATÓRIO DE DESENVOLVIMENTO DE SISTEMAS PARA WEB",
+    "Semestre": 99,
+    "Apelido": "LABORATÓRIO DE DESENVOLVIMENTO DE SISTEMAS PARA WEB",
+    "CargaHorariaTeorico": 68,
+    "CargaHorariaPratica": null,
+    "ListaPrequisitos": []
+  },
+  {
+    "Id": 35401,
+    "Codigo": "0709.000.394-0",
+    "Tipo": "OPT",
+    "Descricao": "LABORATÓRIO DE REDES DE COMPUTADORES",
+    "Semestre": 99,
+    "Apelido": "LABORATÓRIO DE REDES DE COMPUTADORES",
+    "CargaHorariaTeorico": 68,
+    "CargaHorariaPratica": null,
+    "ListaPrequisitos": [
+      {
+        "Id": 35289,
+        "Codigo": "0709.000.346-0",
+        "Descricao": "REDES DE COMPUTADORES II",
+        "Semestre": "0",
+        "Apelido": "REDES DE COMPUTADORES II",
+        "CargaHorariaTeorico": 0,
+        "CargaHorariaPratica": 0,
+        "ListaPrequisitos": []
+      }
+    ]
+  },
+  {
+    "Id": 52162,
+    "Codigo": "0709.002.332-3",
+    "Tipo": "OPT",
+    "Descricao": "LINGUAGENS FORMAIS E AUTÔMATOS",
+    "Semestre": 99,
+    "Apelido": "LINGUAGENS FORMAIS E AUTÔMATOS",
+    "CargaHorariaTeorico": 68,
+    "CargaHorariaPratica": null,
+    "ListaPrequisitos": []
+  },
+  {
+    "Id": 37831,
+    "Codigo": "0709.000.566-7",
+    "Tipo": "OPT",
+    "Descricao": "LÍNGUA INGLESA INSTRUMENTAL",
+    "Semestre": 99,
+    "Apelido": "LÍNGUA INGLESA INSTRUMENTAL",
+    "CargaHorariaTeorico": 34,
+    "CargaHorariaPratica": null,
+    "ListaPrequisitos": []
+  },
+  {
+    "Id": 49640,
+    "Codigo": "0709.001.929-6",
+    "Tipo": "OPT",
+    "Descricao": "MATEMÁTICA FINANCEIRA",
+    "Semestre": 99,
+    "Apelido": "MATEMÁTICA FINANCEIRA",
+    "CargaHorariaTeorico": 68,
+    "CargaHorariaPratica": null,
+    "ListaPrequisitos": []
+  },
+  {
+    "Id": 35404,
+    "Codigo": "0709.000.397-4",
+    "Tipo": "OPT",
+    "Descricao": "METODOLOGIA DE PESQUISA CIENTÍFICA",
+    "Semestre": 99,
+    "Apelido": "METODOLOGIA DE PESQUISA CIENTÍFICA",
+    "CargaHorariaTeorico": 68,
+    "CargaHorariaPratica": null,
+    "ListaPrequisitos": []
+  },
+  {
+    "Id": 47269,
+    "Codigo": "0709.001.675-9",
+    "Tipo": "OPT",
+    "Descricao": "PORTUGUÊS INSTRUMENTAL",
+    "Semestre": 99,
+    "Apelido": "PORTUGUÊS INSTRUMENTAL",
+    "CargaHorariaTeorico": 34,
+    "CargaHorariaPratica": null,
+    "ListaPrequisitos": []
+  },
+  {
+    "Id": 35407,
+    "Codigo": "0709.000.400-8",
+    "Tipo": "OPT",
+    "Descricao": "PROJETO DE REDES DE COMPUTADORES",
+    "Semestre": 99,
+    "Apelido": "PROJETO DE REDES DE COMPUTADORES",
+    "CargaHorariaTeorico": 68,
+    "CargaHorariaPratica": null,
+    "ListaPrequisitos": [
+      {
+        "Id": 35289,
+        "Codigo": "0709.000.346-0",
+        "Descricao": "REDES DE COMPUTADORES II",
+        "Semestre": "0",
+        "Apelido": "REDES DE COMPUTADORES II",
+        "CargaHorariaTeorico": 0,
+        "CargaHorariaPratica": 0,
+        "ListaPrequisitos": []
+      }
+    ]
+  },
+  {
+    "Id": 35111,
+    "Codigo": "0709.000.172-6",
+    "Tipo": "OPT",
+    "Descricao": "PSICOLOGIA ORGANIZACIONAL",
+    "Semestre": 99,
+    "Apelido": "PSICOLOGIA ORGANIZACIONAL",
+    "CargaHorariaTeorico": 68,
+    "CargaHorariaPratica": null,
+    "ListaPrequisitos": []
+  },
+  {
+    "Id": 35409,
+    "Codigo": "0709.000.402-4",
+    "Tipo": "OPT",
+    "Descricao": "SEGURANÇA DE REDES DE COMPUTADORES",
+    "Semestre": 99,
+    "Apelido": "SEGURANÇA DE REDES DE COMPUTADORES",
+    "CargaHorariaTeorico": 68,
+    "CargaHorariaPratica": null,
+    "ListaPrequisitos": [
+      {
+        "Id": 35289,
+        "Codigo": "0709.000.346-0",
+        "Descricao": "REDES DE COMPUTADORES II",
+        "Semestre": "0",
+        "Apelido": "REDES DE COMPUTADORES II",
+        "CargaHorariaTeorico": 0,
+        "CargaHorariaPratica": 0,
+        "ListaPrequisitos": []
+      }
+    ]
+  },
+  {
+    "Id": 35412,
+    "Codigo": "0709.000.405-9",
+    "Tipo": "OPT",
+    "Descricao": "TÓPICOS EM BANCO DE DADOS",
+    "Semestre": 99,
+    "Apelido": "TÓPICOS EM BANCO DE DADOS",
+    "CargaHorariaTeorico": 68,
+    "CargaHorariaPratica": null,
+    "ListaPrequisitos": []
+  },
+  {
+    "Id": 35413,
+    "Codigo": "0709.000.406-7",
+    "Tipo": "OPT",
+    "Descricao": "TÓPICOS EM COMPUTAÇÃO",
+    "Semestre": 99,
+    "Apelido": "TÓPICOS EM COMPUTAÇÃO",
+    "CargaHorariaTeorico": 68,
+    "CargaHorariaPratica": null,
+    "ListaPrequisitos": [
+      {
+        "Id": 35274,
+        "Codigo": "0709.000.331-1",
+        "Descricao": "FUNDAMENTOS DA TEORIA DA COMPUTAÇÃO",
+        "Semestre": "0",
+        "Apelido": "FUNDAMENTOS DA TEORIA DA COMPUTAÇÃO",
+        "CargaHorariaTeorico": 0,
+        "CargaHorariaPratica": 0,
+        "ListaPrequisitos": []
+      }
+    ]
+  },
+  {
+    "Id": 35414,
+    "Codigo": "0709.000.407-5",
+    "Tipo": "OPT",
+    "Descricao": "TÓPICOS EM ENGENHARIA DE SOFTWARE",
+    "Semestre": 99,
+    "Apelido": "TÓPICOS EM ENGENHARIA DE SOFTWARE",
+    "CargaHorariaTeorico": 68,
+    "CargaHorariaPratica": null,
+    "ListaPrequisitos": []
+  },
+  {
+    "Id": 35415,
+    "Codigo": "0709.000.408-3",
+    "Tipo": "OPT",
+    "Descricao": "TÓPICOS EM INTELIGÊNCIA ARTIFICIAL",
+    "Semestre": 99,
+    "Apelido": "TÓPICOS EM INTELIGÊNCIA ARTIFICIAL",
+    "CargaHorariaTeorico": 68,
+    "CargaHorariaPratica": null,
+    "ListaPrequisitos": []
+  },
+  {
+    "Id": 35416,
+    "Codigo": "0709.000.409-1",
+    "Tipo": "OPT",
+    "Descricao": "TÓPICOS EM REDES DE COMPUTADORES",
+    "Semestre": 99,
+    "Apelido": "TÓPICOS EM REDES DE COMPUTADORES",
+    "CargaHorariaTeorico": 68,
+    "CargaHorariaPratica": null,
+    "ListaPrequisitos": [
+      {
+        "Id": 35289,
+        "Codigo": "0709.000.346-0",
+        "Descricao": "REDES DE COMPUTADORES II",
+        "Semestre": "0",
+        "Apelido": "REDES DE COMPUTADORES II",
+        "CargaHorariaTeorico": 0,
+        "CargaHorariaPratica": 0,
+        "ListaPrequisitos": []
+      }
+    ]
+  },
+  {
+    "Id": 35417,
+    "Codigo": "0709.000.410-5",
+    "Tipo": "OPT",
+    "Descricao": "TÓPICOS EM SISTEMAS DE INFORMAÇÃO I",
+    "Semestre": 99,
+    "Apelido": "TÓPICOS EM SISTEMAS DE INFORMAÇÃO I",
+    "CargaHorariaTeorico": 68,
+    "CargaHorariaPratica": null,
+    "ListaPrequisitos": []
+  },
+  {
+    "Id": 35418,
+    "Codigo": "0709.000.411-3",
+    "Tipo": "OPT",
+    "Descricao": "TÓPICOS EM SISTEMAS DE INFORMAÇÃO II",
+    "Semestre": 99,
+    "Apelido": "TÓPICOS EM SISTEMAS DE INFORMAÇÃO II",
+    "CargaHorariaTeorico": 68,
+    "CargaHorariaPratica": null,
+    "ListaPrequisitos": []
+  },
+  {
+    "Id": 35419,
+    "Codigo": "0709.000.412-1",
+    "Tipo": "OPT",
+    "Descricao": "TÓPICOS EM SISTEMAS DE INFORMAÇÃO III",
+    "Semestre": 99,
+    "Apelido": "TÓPICOS EM SISTEMAS DE INFORMAÇÃO III",
+    "CargaHorariaTeorico": 68,
+    "CargaHorariaPratica": null,
+    "ListaPrequisitos": [
+      {
+        "Id": 35418,
+        "Codigo": "0709.000.411-3",
+        "Descricao": "TÓPICOS EM SISTEMAS DE INFORMAÇÃO II",
+        "Semestre": "0",
+        "Apelido": "TÓPICOS EM SISTEMAS DE INFORMAÇÃO II",
+        "CargaHorariaTeorico": 0,
+        "CargaHorariaPratica": 0,
+        "ListaPrequisitos": []
+      }
+    ]
+  },
+  {
+    "Id": 49508,
+    "Codigo": "0709.001.908-0",
+    "Tipo": "OPT",
+    "Descricao": "TÓPICOS EM SISTEMAS DE INFORMAÇÃO IV",
+    "Semestre": 99,
+    "Apelido": "TÓPICOS EM SISTEMAS DE INFORMAÇÃO IV",
+    "CargaHorariaTeorico": 68,
+    "CargaHorariaPratica": null,
+    "ListaPrequisitos": []
+  },
+  {
+    "Id": 49509,
+    "Codigo": "0709.001.909-0",
+    "Tipo": "OPT",
+    "Descricao": "TÓPICOS EM SISTEMAS DE INFORMAÇÃO V",
+    "Semestre": 99,
+    "Apelido": "TÓPICOS EM SISTEMAS DE INFORMAÇÃO V",
+    "CargaHorariaTeorico": 34,
+    "CargaHorariaPratica": null,
+    "ListaPrequisitos": []
+  },
+  {
+    "Id": 49510,
+    "Codigo": "0709.001.910-6",
+    "Tipo": "OPT",
+    "Descricao": "TÓPICOS EM SISTEMAS DE INFORMAÇÃO VI",
+    "Semestre": 99,
+    "Apelido": "TÓPICOS EM SISTEMAS DE INFORMAÇÃO VI",
+    "CargaHorariaTeorico": 34,
+    "CargaHorariaPratica": null,
+    "ListaPrequisitos": []
+  },
+  {
+    "Id": 49511,
+    "Codigo": "0709.001.911-5",
+    "Tipo": "OPT",
+    "Descricao": "TÓPICOS EM SISTEMAS DE INFORMAÇÃO VII",
+    "Semestre": 99,
+    "Apelido": "TÓPICOS EM SISTEMAS DE INFORMAÇÃO VII",
+    "CargaHorariaTeorico": 34,
+    "CargaHorariaPratica": null,
+    "ListaPrequisitos": []
+  },
+  {
+    "Id": 49512,
+    "Codigo": "0709.001.912-4",
+    "Tipo": "OPT",
+    "Descricao": "TÓPICOS EM SISTEMAS DE INFORMAÇÃO VIII",
+    "Semestre": 99,
+    "Apelido": "TÓPICOS EM SISTEMAS DE INFORMAÇÃO VIII",
+    "CargaHorariaTeorico": 34,
+    "CargaHorariaPratica": null,
+    "ListaPrequisitos": []
+  },
+  {
+    "Id": 35420,
+    "Codigo": "0709.000.413-0",
+    "Tipo": "OPT",
+    "Descricao": "TÓPICOS EM SISTEMAS DISTRIBUÍDOS",
+    "Semestre": 99,
+    "Apelido": "TÓPICOS EM SISTEMAS DISTRIBUÍDOS",
+    "CargaHorariaTeorico": 68,
+    "CargaHorariaPratica": null,
+    "ListaPrequisitos": [
+      {
+        "Id": 35284,
+        "Codigo": "0709.000.341-9",
+        "Descricao": "ESTRUTURAS DE DADOS E PROGRAMAÇÃO I",
+        "Semestre": "0",
+        "Apelido": "ESTRUTURAS DE DADOS E PROGRAMAÇÃO I",
+        "CargaHorariaTeorico": 0,
+        "CargaHorariaPratica": 0,
+        "ListaPrequisitos": []
+      }
+    ]
+  },
+  {
+    "Id": 51817,
+    "Codigo": "0709.002.309-2",
+    "Tipo": "OPT",
+    "Descricao": "TÓPICOS ESPECIAIS DE EXTENSÃO CURRICULARIZADA I",
+    "Semestre": 99,
+    "Apelido": "TÓPICOS ESPECIAIS DE EXTENSÃO CURRICULARIZADA I",
+    "CargaHorariaTeorico": 68,
+    "CargaHorariaPratica": null,
+    "ListaPrequisitos": []
+  },
+  {
+    "Id": 51818,
+    "Codigo": "0709.002.310-9",
+    "Tipo": "OPT",
+    "Descricao": "TÓPICOS ESPECIAIS DE EXTENSÃO CURRICULARIZADA II",
+    "Semestre": 99,
+    "Apelido": "TÓPICOS ESPECIAIS DE EXTENSÃO CURRICULARIZADA II",
+    "CargaHorariaTeorico": 68,
+    "CargaHorariaPratica": null,
+    "ListaPrequisitos": []
+  },
+  {
+    "Id": 52158,
+    "Codigo": "0709.002.328-0",
+    "Tipo": "OPT",
+    "Descricao": "TÓPICOS ESPECIAIS DE EXTENSÃO CURRICULARIZADA III",
+    "Semestre": 99,
+    "Apelido": "TÓPICOS ESPECIAIS DE EXTENSÃO CURRICULARIZADA III",
+    "CargaHorariaTeorico": 34,
+    "CargaHorariaPratica": null,
+    "ListaPrequisitos": []
+  },
+  {
+    "Id": 52159,
+    "Codigo": "0709.002.329-9",
+    "Tipo": "OPT",
+    "Descricao": "TÓPICOS ESPECIAIS DE EXTENSÃO CURRICULARIZADA IV",
+    "Semestre": 99,
+    "Apelido": "TÓPICOS ESPECIAIS DE EXTENSÃO CURRICULARIZADA IV",
+    "CargaHorariaTeorico": 34,
+    "CargaHorariaPratica": null,
+    "ListaPrequisitos": []
+  },
+  {
+    "Id": 52160,
+    "Codigo": "0709.002.330-5",
+    "Tipo": "OPT",
+    "Descricao": "TÓPICOS ESPECIAIS DE EXTENSÃO CURRICULARIZADA V",
+    "Semestre": 99,
+    "Apelido": "TÓPICOS ESPECIAIS DE EXTENSÃO CURRICULARIZADA V",
+    "CargaHorariaTeorico": 34,
+    "CargaHorariaPratica": null,
+    "ListaPrequisitos": []
+  },
+  {
+    "Id": 52161,
+    "Codigo": "0709.002.331-4",
+    "Tipo": "OPT",
+    "Descricao": "TÓPICOS ESPECIAIS DE EXTENSÃO CURRICULARIZADA VI",
+    "Semestre": 99,
+    "Apelido": "TÓPICOS ESPECIAIS DE EXTENSÃO CURRICULARIZADA VI",
+    "CargaHorariaTeorico": 34,
+    "CargaHorariaPratica": null,
+    "ListaPrequisitos": []
+  }
+]

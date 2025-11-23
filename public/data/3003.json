@@ -1,0 +1,1058 @@
+[
+  {
+    "Id": 50400,
+    "Codigo": "2701.000.337-5",
+    "Tipo": "OBR",
+    "Descricao": "BASES BIOLÓGICAS DO COMPORTAMENTO",
+    "Semestre": 1,
+    "Apelido": "BASES BIOLÓGICAS DO COMPORTAMENTO",
+    "CargaHorariaTeorico": 68,
+    "CargaHorariaPratica": null,
+    "ListaPrequisitos": []
+  },
+  {
+    "Id": 50482,
+    "Codigo": "2201.000.210-9",
+    "Tipo": "OBR",
+    "Descricao": "ESTATÍSTICA APLICADA À PSICOLOGIA",
+    "Semestre": 1,
+    "Apelido": "ESTATÍSTICA APLICADA À PSICOLOGIA",
+    "CargaHorariaTeorico": 68,
+    "CargaHorariaPratica": null,
+    "ListaPrequisitos": []
+  },
+  {
+    "Id": 50466,
+    "Codigo": "3001.000.715-6",
+    "Tipo": "OBR",
+    "Descricao": "FILOSOFIA GERAL",
+    "Semestre": 1,
+    "Apelido": "FILOSOFIA GERAL",
+    "CargaHorariaTeorico": 68,
+    "CargaHorariaPratica": null,
+    "ListaPrequisitos": []
+  },
+  {
+    "Id": 48601,
+    "Codigo": "3001.000.625-7",
+    "Tipo": "OBR",
+    "Descricao": "INTRODUÇÃO À PSICOLOGIA",
+    "Semestre": 1,
+    "Apelido": "INTRODUÇÃO À PSICOLOGIA",
+    "CargaHorariaTeorico": 68,
+    "CargaHorariaPratica": null,
+    "ListaPrequisitos": []
+  },
+  {
+    "Id": 50474,
+    "Codigo": "3001.000.723-6",
+    "Tipo": "OBR",
+    "Descricao": "MÉTODOS DE PESQUISA EM PSICOLOGIA I",
+    "Semestre": 1,
+    "Apelido": "MÉTODOS DE PESQUISA EM PSICOLOGIA I",
+    "CargaHorariaTeorico": 68,
+    "CargaHorariaPratica": null,
+    "ListaPrequisitos": []
+  },
+  {
+    "Id": 50467,
+    "Codigo": "3001.000.716-5",
+    "Tipo": "OBR",
+    "Descricao": "SOCIOLOGIA GERAL",
+    "Semestre": 1,
+    "Apelido": "SOCIOLOGIA GERAL",
+    "CargaHorariaTeorico": 68,
+    "CargaHorariaPratica": null,
+    "ListaPrequisitos": []
+  },
+  {
+    "Id": 50408,
+    "Codigo": "3001.000.657-0",
+    "Tipo": "OBR",
+    "Descricao": "FUNDAMENTOS EPISTEMOLÓGICOS E HISTÓRICOS DA PSICOLOGIA SOCIAL",
+    "Semestre": 2,
+    "Apelido": "FUNDAMENTOS EPISTEMOLÓGICOS E HISTÓRICOS DA PSICOLOGIA SOCIAL",
+    "CargaHorariaTeorico": 68,
+    "CargaHorariaPratica": null,
+    "ListaPrequisitos": []
+  },
+  {
+    "Id": 50413,
+    "Codigo": "3001.000.662-2",
+    "Tipo": "OBR",
+    "Descricao": "FUNDAMENTOS EPISTEMOLÓGICOS E HISTÓRICOS: ENFOQUE ANALÍTICO COMPORTAMENTAL",
+    "Semestre": 2,
+    "Apelido": "FUNDAMENTOS EPISTEMOLÓGICOS E HISTÓRICOS: ENFOQUE ANALÍTICO COMPORTAMENTAL",
+    "CargaHorariaTeorico": 68,
+    "CargaHorariaPratica": null,
+    "ListaPrequisitos": []
+  },
+  {
+    "Id": 50404,
+    "Codigo": "3001.000.653-3",
+    "Tipo": "OBR",
+    "Descricao": "FUNDAMENTOS EPISTEMOLÓGICOS E HISTÓRICOS: ENFOQUE PSICANALÍTICO",
+    "Semestre": 2,
+    "Apelido": "FUNDAMENTOS EPISTEMOLÓGICOS E HISTÓRICOS: ENFOQUE PSICANALÍTICO",
+    "CargaHorariaTeorico": 68,
+    "CargaHorariaPratica": null,
+    "ListaPrequisitos": []
+  },
+  {
+    "Id": 50402,
+    "Codigo": "2701.000.339-3",
+    "Tipo": "OBR",
+    "Descricao": "GENÉTICA HUMANA APLICADA À PSICOLOGIA",
+    "Semestre": 2,
+    "Apelido": "GENÉTICA HUMANA APLICADA À PSICOLOGIA",
+    "CargaHorariaTeorico": 68,
+    "CargaHorariaPratica": null,
+    "ListaPrequisitos": []
+  },
+  {
+    "Id": 50412,
+    "Codigo": "3001.000.661-3",
+    "Tipo": "OBR",
+    "Descricao": "MÉTODOS DE PESQUISA EM PSICOLOGIA II",
+    "Semestre": 2,
+    "Apelido": "MÉTODOS DE PESQUISA EM PSICOLOGIA II",
+    "CargaHorariaTeorico": 68,
+    "CargaHorariaPratica": null,
+    "ListaPrequisitos": []
+  },
+  {
+    "Id": 50442,
+    "Codigo": "3001.000.691-8",
+    "Tipo": "OBR",
+    "Descricao": "PROCESSOS PSICOLÓGICOS BÁSICOS",
+    "Semestre": 2,
+    "Apelido": "PROCESSOS PSICOLÓGICOS BÁSICOS",
+    "CargaHorariaTeorico": 68,
+    "CargaHorariaPratica": null,
+    "ListaPrequisitos": []
+  },
+  {
+    "Id": 50437,
+    "Codigo": "3001.000.686-5",
+    "Tipo": "OBR",
+    "Descricao": "FENÔMENOS E PROCESSOS PSICOLÓGICOS: ENFOQUE ANALÍTICO COMPORTAMENTAL I",
+    "Semestre": 3,
+    "Apelido": "FENÔMENOS E PROCESSOS PSICOLÓGICOS: ENFOQUE ANALÍTICO COMPORTAMENTAL I",
+    "CargaHorariaTeorico": 68,
+    "CargaHorariaPratica": null,
+    "ListaPrequisitos": []
+  },
+  {
+    "Id": 50471,
+    "Codigo": "3001.000.720-9",
+    "Tipo": "OBR",
+    "Descricao": "FENÔMENOS E PROCESSOS PSICOLÓGICOS: ENFOQUE HISTÓRICO-CULTURAL I",
+    "Semestre": 3,
+    "Apelido": "FENÔMENOS E PROCESSOS PSICOLÓGICOS: ENFOQUE HISTÓRICO-CULTURAL I",
+    "CargaHorariaTeorico": 68,
+    "CargaHorariaPratica": null,
+    "ListaPrequisitos": []
+  },
+  {
+    "Id": 50405,
+    "Codigo": "3001.000.654-2",
+    "Tipo": "OBR",
+    "Descricao": "FENÔMENOS E PROCESSOS PSICOLÓGICOS: ENFOQUE PSICANALÍTICO I",
+    "Semestre": 3,
+    "Apelido": "FENÔMENOS E PROCESSOS PSICOLÓGICOS: ENFOQUE PSICANALÍTICO I",
+    "CargaHorariaTeorico": 68,
+    "CargaHorariaPratica": null,
+    "ListaPrequisitos": []
+  },
+  {
+    "Id": 50468,
+    "Codigo": "3001.000.717-4",
+    "Tipo": "OBR",
+    "Descricao": "PSICOLOGIA E DIVERSIDADE HUMANA I",
+    "Semestre": 3,
+    "Apelido": "PSICOLOGIA E DIVERSIDADE HUMANA I",
+    "CargaHorariaTeorico": 68,
+    "CargaHorariaPratica": null,
+    "ListaPrequisitos": []
+  },
+  {
+    "Id": 50449,
+    "Codigo": "3001.000.698-1",
+    "Tipo": "OBR",
+    "Descricao": "PSICOLOGIA E ÉTICA PROFISSIONAL",
+    "Semestre": 3,
+    "Apelido": "PSICOLOGIA E ÉTICA PROFISSIONAL",
+    "CargaHorariaTeorico": 68,
+    "CargaHorariaPratica": null,
+    "ListaPrequisitos": []
+  },
+  {
+    "Id": 50440,
+    "Codigo": "3001.000.689-2",
+    "Tipo": "OBR",
+    "Descricao": "PSICOLOGIA SOCIAL",
+    "Semestre": 3,
+    "Apelido": "PSICOLOGIA SOCIAL",
+    "CargaHorariaTeorico": 68,
+    "CargaHorariaPratica": null,
+    "ListaPrequisitos": []
+  },
+  {
+    "Id": 50470,
+    "Codigo": "3001.000.719-2",
+    "Tipo": "OBR",
+    "Descricao": "FENÔMENOS E PROCESSOS PSICOLÓGICOS: ENFOQUE ANALÍTICO COMPORTAMENTAL II",
+    "Semestre": 4,
+    "Apelido": "FENÔMENOS E PROCESSOS PSICOLÓGICOS: ENFOQUE ANALÍTICO COMPORTAMENTAL II",
+    "CargaHorariaTeorico": 68,
+    "CargaHorariaPratica": null,
+    "ListaPrequisitos": []
+  },
+  {
+    "Id": 50403,
+    "Codigo": "3001.000.652-4",
+    "Tipo": "OBR",
+    "Descricao": "FENÔMENOS E PROCESSOS PSICOLÓGICOS: ENFOQUE HISTÓRICO-CULTURAL II",
+    "Semestre": 4,
+    "Apelido": "FENÔMENOS E PROCESSOS PSICOLÓGICOS: ENFOQUE HISTÓRICO-CULTURAL II",
+    "CargaHorariaTeorico": 68,
+    "CargaHorariaPratica": null,
+    "ListaPrequisitos": []
+  },
+  {
+    "Id": 50406,
+    "Codigo": "3001.000.655-1",
+    "Tipo": "OBR",
+    "Descricao": "FENÔMENOS E PROCESSOS PSICOLÓGICOS: ENFOQUE PSICANALÍTICO II",
+    "Semestre": 4,
+    "Apelido": "FENÔMENOS E PROCESSOS PSICOLÓGICOS: ENFOQUE PSICANALÍTICO II",
+    "CargaHorariaTeorico": 68,
+    "CargaHorariaPratica": null,
+    "ListaPrequisitos": []
+  },
+  {
+    "Id": 50438,
+    "Codigo": "3001.000.687-4",
+    "Tipo": "OBR",
+    "Descricao": "PSICOLOGIA DO DESENVOLVIMENTO I",
+    "Semestre": 4,
+    "Apelido": "PSICOLOGIA DO DESENVOLVIMENTO I",
+    "CargaHorariaTeorico": 68,
+    "CargaHorariaPratica": null,
+    "ListaPrequisitos": []
+  },
+  {
+    "Id": 50409,
+    "Codigo": "3001.000.658-9",
+    "Tipo": "OBR",
+    "Descricao": "PSICOLOGIA ESCOLAR E EDUCACIONAL I",
+    "Semestre": 4,
+    "Apelido": "PSICOLOGIA ESCOLAR E EDUCACIONAL I",
+    "CargaHorariaTeorico": 68,
+    "CargaHorariaPratica": null,
+    "ListaPrequisitos": []
+  },
+  {
+    "Id": 50478,
+    "Codigo": "3001.000.727-2",
+    "Tipo": "OBR",
+    "Descricao": "TEORIAS E PRÁTICAS PSICOSSOCIAIS",
+    "Semestre": 4,
+    "Apelido": "TEORIAS E PRÁTICAS PSICOSSOCIAIS",
+    "CargaHorariaTeorico": 68,
+    "CargaHorariaPratica": null,
+    "ListaPrequisitos": []
+  },
+  {
+    "Id": 50420,
+    "Codigo": "3001.000.669-6",
+    "Tipo": "OBR",
+    "Descricao": "AVALIAÇÃO PSICOLÓGICA I",
+    "Semestre": 5,
+    "Apelido": "AVALIAÇÃO PSICOLÓGICA I",
+    "CargaHorariaTeorico": 68,
+    "CargaHorariaPratica": null,
+    "ListaPrequisitos": []
+  },
+  {
+    "Id": 42594,
+    "Codigo": "3001.000.119-2",
+    "Tipo": "OBR",
+    "Descricao": "ESTÁGIO OBRIGATÓRIO BÁSICO I",
+    "Semestre": 5,
+    "Apelido": "ESTÁGIO OBRIGATÓRIO BÁSICO I",
+    "CargaHorariaTeorico": 102,
+    "CargaHorariaPratica": null,
+    "ListaPrequisitos": [
+      {
+        "Id": 50449,
+        "Codigo": "3001.000.698-1",
+        "Descricao": "PSICOLOGIA E ÉTICA PROFISSIONAL",
+        "Semestre": "0",
+        "Apelido": "PSICOLOGIA E ÉTICA PROFISSIONAL",
+        "CargaHorariaTeorico": 0,
+        "CargaHorariaPratica": 0,
+        "ListaPrequisitos": []
+      }
+    ]
+  },
+  {
+    "Id": 50411,
+    "Codigo": "3001.000.660-4",
+    "Tipo": "OBR",
+    "Descricao": "PSICOLOGIA DO DESENVOLVIMENTO II",
+    "Semestre": 5,
+    "Apelido": "PSICOLOGIA DO DESENVOLVIMENTO II",
+    "CargaHorariaTeorico": 68,
+    "CargaHorariaPratica": null,
+    "ListaPrequisitos": []
+  },
+  {
+    "Id": 50423,
+    "Codigo": "3001.000.672-0",
+    "Tipo": "OBR",
+    "Descricao": "PSICOLOGIA E POLÍTICAS PÚBLICAS: SISTEMA ÚNICO DE ASSISTÊNCIA SOCIAL",
+    "Semestre": 5,
+    "Apelido": "PSICOLOGIA E POLÍTICAS PÚBLICAS: SISTEMA ÚNICO DE ASSISTÊNCIA SOCIAL",
+    "CargaHorariaTeorico": 68,
+    "CargaHorariaPratica": null,
+    "ListaPrequisitos": []
+  },
+  {
+    "Id": 50447,
+    "Codigo": "3001.000.696-3",
+    "Tipo": "OBR",
+    "Descricao": "PSICOLOGIA ESCOLAR E EDUCACIONAL II",
+    "Semestre": 5,
+    "Apelido": "PSICOLOGIA ESCOLAR E EDUCACIONAL II",
+    "CargaHorariaTeorico": 68,
+    "CargaHorariaPratica": null,
+    "ListaPrequisitos": []
+  },
+  {
+    "Id": 50448,
+    "Codigo": "3001.000.697-2",
+    "Tipo": "OBR",
+    "Descricao": "PSICOPATOLOGIA GERAL I",
+    "Semestre": 5,
+    "Apelido": "PSICOPATOLOGIA GERAL I",
+    "CargaHorariaTeorico": 68,
+    "CargaHorariaPratica": null,
+    "ListaPrequisitos": []
+  },
+  {
+    "Id": 50472,
+    "Codigo": "3001.000.721-8",
+    "Tipo": "OBR",
+    "Descricao": "AVALIAÇÃO PSICOLÓGICA II",
+    "Semestre": 6,
+    "Apelido": "AVALIAÇÃO PSICOLÓGICA II",
+    "CargaHorariaTeorico": 68,
+    "CargaHorariaPratica": null,
+    "ListaPrequisitos": []
+  },
+  {
+    "Id": 42605,
+    "Codigo": "3001.000.130-3",
+    "Tipo": "OBR",
+    "Descricao": "ESTÁGIO OBRIGATÓRIO BÁSICO II",
+    "Semestre": 6,
+    "Apelido": "ESTÁGIO OBRIGATÓRIO BÁSICO II",
+    "CargaHorariaTeorico": 102,
+    "CargaHorariaPratica": null,
+    "ListaPrequisitos": [
+      {
+        "Id": 50449,
+        "Codigo": "3001.000.698-1",
+        "Descricao": "PSICOLOGIA E ÉTICA PROFISSIONAL",
+        "Semestre": "0",
+        "Apelido": "PSICOLOGIA E ÉTICA PROFISSIONAL",
+        "CargaHorariaTeorico": 0,
+        "CargaHorariaPratica": 0,
+        "ListaPrequisitos": []
+      }
+    ]
+  },
+  {
+    "Id": 50428,
+    "Codigo": "3001.000.677-6",
+    "Tipo": "OBR",
+    "Descricao": "PSICOLOGIA E PROCESSOS GRUPAIS COM ÊNFASE PSICOSSOCIAL",
+    "Semestre": 6,
+    "Apelido": "PSICOLOGIA E PROCESSOS GRUPAIS COM ÊNFASE PSICOSSOCIAL",
+    "CargaHorariaTeorico": 68,
+    "CargaHorariaPratica": null,
+    "ListaPrequisitos": []
+  },
+  {
+    "Id": 50419,
+    "Codigo": "3001.000.668-7",
+    "Tipo": "OBR",
+    "Descricao": "PSICOPATOLOGIA GERAL II",
+    "Semestre": 6,
+    "Apelido": "PSICOPATOLOGIA GERAL II",
+    "CargaHorariaTeorico": 68,
+    "CargaHorariaPratica": null,
+    "ListaPrequisitos": []
+  },
+  {
+    "Id": 50414,
+    "Codigo": "3001.000.663-1",
+    "Tipo": "OBR",
+    "Descricao": "TEORIAS E TÉCNICAS PSICOTERÁPICAS: ENFOQUE ANALÍTICO COMPORTAMENTAL",
+    "Semestre": 6,
+    "Apelido": "TEORIAS E TÉCNICAS PSICOTERÁPICAS: ENFOQUE ANALÍTICO COMPORTAMENTAL",
+    "CargaHorariaTeorico": 68,
+    "CargaHorariaPratica": null,
+    "ListaPrequisitos": []
+  },
+  {
+    "Id": 50443,
+    "Codigo": "3001.000.692-7",
+    "Tipo": "OBR",
+    "Descricao": "TEORIAS E TÉCNICAS PSICOTERÁPICAS: ENFOQUE PSICANALÍTICO",
+    "Semestre": 6,
+    "Apelido": "TEORIAS E TÉCNICAS PSICOTERÁPICAS: ENFOQUE PSICANALÍTICO",
+    "CargaHorariaTeorico": 68,
+    "CargaHorariaPratica": null,
+    "ListaPrequisitos": []
+  },
+  {
+    "Id": 50450,
+    "Codigo": "3001.000.699-0",
+    "Tipo": "OBR",
+    "Descricao": "INTERVENÇÕES EM PSICOLOGIA: DIFERENTES PERSPECTIVAS I",
+    "Semestre": 7,
+    "Apelido": "INTERVENÇÕES EM PSICOLOGIA: DIFERENTES PERSPECTIVAS I",
+    "CargaHorariaTeorico": 68,
+    "CargaHorariaPratica": null,
+    "ListaPrequisitos": []
+  },
+  {
+    "Id": 50435,
+    "Codigo": "3001.000.684-7",
+    "Tipo": "OBR",
+    "Descricao": "ORIENTAÇÃO PROFISSIONAL",
+    "Semestre": 7,
+    "Apelido": "ORIENTAÇÃO PROFISSIONAL",
+    "CargaHorariaTeorico": 68,
+    "CargaHorariaPratica": null,
+    "ListaPrequisitos": []
+  },
+  {
+    "Id": 50469,
+    "Codigo": "3001.000.718-3",
+    "Tipo": "OBR",
+    "Descricao": "PSICOLOGIA DO TRABALHO",
+    "Semestre": 7,
+    "Apelido": "PSICOLOGIA DO TRABALHO",
+    "CargaHorariaTeorico": 68,
+    "CargaHorariaPratica": null,
+    "ListaPrequisitos": []
+  },
+  {
+    "Id": 50441,
+    "Codigo": "3001.000.690-9",
+    "Tipo": "OBR",
+    "Descricao": "PSICOLOGIA E DIVERSIDADE HUMANA II - RAÇA E ETNIA",
+    "Semestre": 7,
+    "Apelido": "PSICOLOGIA E DIVERSIDADE HUMANA II - RAÇA E ETNIA",
+    "CargaHorariaTeorico": 68,
+    "CargaHorariaPratica": null,
+    "ListaPrequisitos": []
+  },
+  {
+    "Id": 50434,
+    "Codigo": "3001.000.683-8",
+    "Tipo": "OBR",
+    "Descricao": "PSICOLOGIA E SAÚDE I",
+    "Semestre": 7,
+    "Apelido": "PSICOLOGIA E SAÚDE I",
+    "CargaHorariaTeorico": 68,
+    "CargaHorariaPratica": null,
+    "ListaPrequisitos": []
+  },
+  {
+    "Id": 50422,
+    "Codigo": "3001.000.671-1",
+    "Tipo": "OBR",
+    "Descricao": "ASPECTOS PSICOSSOCIAIS DO TRABALHO",
+    "Semestre": 8,
+    "Apelido": "ASPECTOS PSICOSSOCIAIS DO TRABALHO",
+    "CargaHorariaTeorico": 68,
+    "CargaHorariaPratica": null,
+    "ListaPrequisitos": []
+  },
+  {
+    "Id": 50475,
+    "Codigo": "3001.000.724-5",
+    "Tipo": "OBR",
+    "Descricao": "INTERVENÇÕES EM PSICOLOGIA: DIFERENTES PERSPECTIVAS II",
+    "Semestre": 8,
+    "Apelido": "INTERVENÇÕES EM PSICOLOGIA: DIFERENTES PERSPECTIVAS II",
+    "CargaHorariaTeorico": 68,
+    "CargaHorariaPratica": null,
+    "ListaPrequisitos": []
+  },
+  {
+    "Id": 50476,
+    "Codigo": "3001.000.725-4",
+    "Tipo": "OBR",
+    "Descricao": "PSICODIAGNÓSTICO E PSICOTERAPIA NO CONTEXTO DA INFÂNCIA E ADOLESCÊNCIA",
+    "Semestre": 8,
+    "Apelido": "PSICODIAGNÓSTICO E PSICOTERAPIA NO CONTEXTO DA INFÂNCIA E ADOLESCÊNCIA",
+    "CargaHorariaTeorico": 68,
+    "CargaHorariaPratica": null,
+    "ListaPrequisitos": []
+  },
+  {
+    "Id": 50418,
+    "Codigo": "3001.000.667-8",
+    "Tipo": "OBR",
+    "Descricao": "PSICOLOGIA E DIVERSIDADE HUMANA III - GÊNERO E SEXUALIDADE",
+    "Semestre": 8,
+    "Apelido": "PSICOLOGIA E DIVERSIDADE HUMANA III - GÊNERO E SEXUALIDADE",
+    "CargaHorariaTeorico": 68,
+    "CargaHorariaPratica": null,
+    "ListaPrequisitos": []
+  },
+  {
+    "Id": 50417,
+    "Codigo": "3001.000.666-9",
+    "Tipo": "OBR",
+    "Descricao": "PSICOLOGIA E SAÚDE II",
+    "Semestre": 8,
+    "Apelido": "PSICOLOGIA E SAÚDE II",
+    "CargaHorariaTeorico": 68,
+    "CargaHorariaPratica": null,
+    "ListaPrequisitos": []
+  },
+  {
+    "Id": 50407,
+    "Codigo": "3001.000.656-0",
+    "Tipo": "OBR",
+    "Descricao": "AVALIAÇÃO PSICÓLOGICA III",
+    "Semestre": 9,
+    "Apelido": "AVALIAÇÃO PSICÓLOGICA III",
+    "CargaHorariaTeorico": 68,
+    "CargaHorariaPratica": null,
+    "ListaPrequisitos": []
+  },
+  {
+    "Id": 50459,
+    "Codigo": "3001.000.708-5",
+    "Tipo": "OPT",
+    "Descricao": "ANÁLISE DO COMPORTAMENTO E DIREITO",
+    "Semestre": 99,
+    "Apelido": "ANÁLISE DO COMPORTAMENTO E DIREITO",
+    "CargaHorariaTeorico": 68,
+    "CargaHorariaPratica": null,
+    "ListaPrequisitos": []
+  },
+  {
+    "Id": 50458,
+    "Codigo": "3001.000.707-6",
+    "Tipo": "OPT",
+    "Descricao": "APRENDIZAGEM VERBAL E CONTROLE POR REGRAS NA ANÁLISE DO COMPORTAMENTO",
+    "Semestre": 99,
+    "Apelido": "APRENDIZAGEM VERBAL E CONTROLE POR REGRAS NA ANÁLISE DO COMPORTAMENTO",
+    "CargaHorariaTeorico": 68,
+    "CargaHorariaPratica": null,
+    "ListaPrequisitos": []
+  },
+  {
+    "Id": 50457,
+    "Codigo": "3001.000.706-7",
+    "Tipo": "OPT",
+    "Descricao": "APROFUNDAMENTOS EM TEORIAS E TÉCNICAS PSICOTERÁPICAS: ENFOQUE ANALÍTICO COMPORTAMENTAL",
+    "Semestre": 99,
+    "Apelido": "APROFUNDAMENTOS EM TEORIAS E TÉCNICAS PSICOTERÁPICAS: ENFOQUE ANALÍTICO COMPORTAMENTAL",
+    "CargaHorariaTeorico": 68,
+    "CargaHorariaPratica": null,
+    "ListaPrequisitos": []
+  },
+  {
+    "Id": 50455,
+    "Codigo": "3001.000.704-9",
+    "Tipo": "OPT",
+    "Descricao": "ARTE, PSICOLOGIA E SUBJETIVIDADE",
+    "Semestre": 99,
+    "Apelido": "ARTE, PSICOLOGIA E SUBJETIVIDADE",
+    "CargaHorariaTeorico": 68,
+    "CargaHorariaPratica": null,
+    "ListaPrequisitos": []
+  },
+  {
+    "Id": 50415,
+    "Codigo": "3001.000.664-0",
+    "Tipo": "NAP",
+    "Descricao": "ESTÁGIO OBRIGATÓRIO ÊNFASE EM PROCESSOS CLÍNICOS E SAÚDE COLETIVA I",
+    "Semestre": 99,
+    "Apelido": "ESTÁGIO OBRIGATÓRIO ÊNFASE EM PROCESSOS CLÍNICOS E SAÚDE COLETIVA I",
+    "CargaHorariaTeorico": 102,
+    "CargaHorariaPratica": null,
+    "ListaPrequisitos": [
+      {
+        "Id": 50449,
+        "Codigo": "3001.000.698-1",
+        "Descricao": "PSICOLOGIA E ÉTICA PROFISSIONAL",
+        "Semestre": "0",
+        "Apelido": "PSICOLOGIA E ÉTICA PROFISSIONAL",
+        "CargaHorariaTeorico": 0,
+        "CargaHorariaPratica": 0,
+        "ListaPrequisitos": []
+      }
+    ]
+  },
+  {
+    "Id": 50416,
+    "Codigo": "3001.000.665-0",
+    "Tipo": "NAP",
+    "Descricao": "ESTÁGIO OBRIGATÓRIO ÊNFASE EM PROCESSOS CLÍNICOS E SAÚDE COLETIVA II",
+    "Semestre": 99,
+    "Apelido": "ESTÁGIO OBRIGATÓRIO ÊNFASE EM PROCESSOS CLÍNICOS E SAÚDE COLETIVA II",
+    "CargaHorariaTeorico": 102,
+    "CargaHorariaPratica": null,
+    "ListaPrequisitos": [
+      {
+        "Id": 50449,
+        "Codigo": "3001.000.698-1",
+        "Descricao": "PSICOLOGIA E ÉTICA PROFISSIONAL",
+        "Semestre": "0",
+        "Apelido": "PSICOLOGIA E ÉTICA PROFISSIONAL",
+        "CargaHorariaTeorico": 0,
+        "CargaHorariaPratica": 0,
+        "ListaPrequisitos": []
+      }
+    ]
+  },
+  {
+    "Id": 50446,
+    "Codigo": "3001.000.695-4",
+    "Tipo": "NAP",
+    "Descricao": "ESTÁGIO OBRIGATÓRIO ÊNFASE EM PROCESSOS CLÍNICOS E SAÚDE COLETIVA III",
+    "Semestre": 99,
+    "Apelido": "ESTÁGIO OBRIGATÓRIO ÊNFASE EM PROCESSOS CLÍNICOS E SAÚDE COLETIVA III",
+    "CargaHorariaTeorico": 102,
+    "CargaHorariaPratica": null,
+    "ListaPrequisitos": [
+      {
+        "Id": 50449,
+        "Codigo": "3001.000.698-1",
+        "Descricao": "PSICOLOGIA E ÉTICA PROFISSIONAL",
+        "Semestre": "0",
+        "Apelido": "PSICOLOGIA E ÉTICA PROFISSIONAL",
+        "CargaHorariaTeorico": 0,
+        "CargaHorariaPratica": 0,
+        "ListaPrequisitos": []
+      }
+    ]
+  },
+  {
+    "Id": 50479,
+    "Codigo": "3001.000.728-1",
+    "Tipo": "NAP",
+    "Descricao": "ESTÁGIO OBRIGATÓRIO ÊNFASE EM PROCESSOS CLÍNICOS E SAÚDE COLETIVA IV",
+    "Semestre": 99,
+    "Apelido": "ESTÁGIO OBRIGATÓRIO ÊNFASE EM PROCESSOS CLÍNICOS E SAÚDE COLETIVA IV",
+    "CargaHorariaTeorico": 102,
+    "CargaHorariaPratica": null,
+    "ListaPrequisitos": [
+      {
+        "Id": 50449,
+        "Codigo": "3001.000.698-1",
+        "Descricao": "PSICOLOGIA E ÉTICA PROFISSIONAL",
+        "Semestre": "0",
+        "Apelido": "PSICOLOGIA E ÉTICA PROFISSIONAL",
+        "CargaHorariaTeorico": 0,
+        "CargaHorariaPratica": 0,
+        "ListaPrequisitos": []
+      }
+    ]
+  },
+  {
+    "Id": 50480,
+    "Codigo": "3001.000.729-0",
+    "Tipo": "NAP",
+    "Descricao": "ESTÁGIO OBRIGATÓRIO ÊNFASE EM PROCESSOS PSICOSSOCIAIS NAS POLÍTICAS PÚBLICAS E INSTITUIÇÕES I",
+    "Semestre": 99,
+    "Apelido": "ESTÁGIO OBRIGATÓRIO ÊNFASE EM PROCESSOS PSICOSSOCIAIS NAS POLÍTICAS PÚBLICAS E INSTITUIÇÕES I",
+    "CargaHorariaTeorico": 102,
+    "CargaHorariaPratica": null,
+    "ListaPrequisitos": [
+      {
+        "Id": 50449,
+        "Codigo": "3001.000.698-1",
+        "Descricao": "PSICOLOGIA E ÉTICA PROFISSIONAL",
+        "Semestre": "0",
+        "Apelido": "PSICOLOGIA E ÉTICA PROFISSIONAL",
+        "CargaHorariaTeorico": 0,
+        "CargaHorariaPratica": 0,
+        "ListaPrequisitos": []
+      }
+    ]
+  },
+  {
+    "Id": 50465,
+    "Codigo": "3001.000.714-7",
+    "Tipo": "NAP",
+    "Descricao": "ESTÁGIO OBRIGATÓRIO ÊNFASE EM PROCESSOS PSICOSSOCIAIS NAS POLÍTICAS PÚBLICAS E INSTITUIÇÕES II",
+    "Semestre": 99,
+    "Apelido": "ESTÁGIO OBRIGATÓRIO ÊNFASE EM PROCESSOS PSICOSSOCIAIS NAS POLÍTICAS PÚBLICAS E INSTITUIÇÕES II",
+    "CargaHorariaTeorico": 102,
+    "CargaHorariaPratica": null,
+    "ListaPrequisitos": [
+      {
+        "Id": 50449,
+        "Codigo": "3001.000.698-1",
+        "Descricao": "PSICOLOGIA E ÉTICA PROFISSIONAL",
+        "Semestre": "0",
+        "Apelido": "PSICOLOGIA E ÉTICA PROFISSIONAL",
+        "CargaHorariaTeorico": 0,
+        "CargaHorariaPratica": 0,
+        "ListaPrequisitos": []
+      }
+    ]
+  },
+  {
+    "Id": 50421,
+    "Codigo": "3001.000.670-2",
+    "Tipo": "NAP",
+    "Descricao": "ESTÁGIO OBRIGATÓRIO ÊNFASE EM PROCESSOS PSICOSSOCIAIS NAS POLÍTICAS PÚBLICAS E INSTITUIÇÕES III",
+    "Semestre": 99,
+    "Apelido": "ESTÁGIO OBRIGATÓRIO ÊNFASE EM PROCESSOS PSICOSSOCIAIS NAS POLÍTICAS PÚBLICAS E INSTITUIÇÕES III",
+    "CargaHorariaTeorico": 102,
+    "CargaHorariaPratica": null,
+    "ListaPrequisitos": [
+      {
+        "Id": 50449,
+        "Codigo": "3001.000.698-1",
+        "Descricao": "PSICOLOGIA E ÉTICA PROFISSIONAL",
+        "Semestre": "0",
+        "Apelido": "PSICOLOGIA E ÉTICA PROFISSIONAL",
+        "CargaHorariaTeorico": 0,
+        "CargaHorariaPratica": 0,
+        "ListaPrequisitos": []
+      }
+    ]
+  },
+  {
+    "Id": 50429,
+    "Codigo": "3001.000.678-5",
+    "Tipo": "NAP",
+    "Descricao": "ESTÁGIO OBRIGATÓRIO ÊNFASE EM PROCESSOS PSICOSSOCIAIS NAS POLÍTICAS PÚBLICAS E INSTITUIÇÕES IV",
+    "Semestre": 99,
+    "Apelido": "ESTÁGIO OBRIGATÓRIO ÊNFASE EM PROCESSOS PSICOSSOCIAIS NAS POLÍTICAS PÚBLICAS E INSTITUIÇÕES IV",
+    "CargaHorariaTeorico": 102,
+    "CargaHorariaPratica": null,
+    "ListaPrequisitos": [
+      {
+        "Id": 50449,
+        "Codigo": "3001.000.698-1",
+        "Descricao": "PSICOLOGIA E ÉTICA PROFISSIONAL",
+        "Semestre": "0",
+        "Apelido": "PSICOLOGIA E ÉTICA PROFISSIONAL",
+        "CargaHorariaTeorico": 0,
+        "CargaHorariaPratica": 0,
+        "ListaPrequisitos": []
+      }
+    ]
+  },
+  {
+    "Id": 50481,
+    "Codigo": "3101.000.607-0",
+    "Tipo": "OPT",
+    "Descricao": "ESTUDO DE LIBRAS",
+    "Semestre": 99,
+    "Apelido": "ESTUDO DE LIBRAS",
+    "CargaHorariaTeorico": 51,
+    "CargaHorariaPratica": null,
+    "ListaPrequisitos": []
+  },
+  {
+    "Id": 50460,
+    "Codigo": "3001.000.709-4",
+    "Tipo": "OPT",
+    "Descricao": "FUNDAMENTOS DA PSICOLOGIA HUMANISTA-EXISTENCIAL E FENOMENOLÓGICA",
+    "Semestre": 99,
+    "Apelido": "FUNDAMENTOS DA PSICOLOGIA HUMANISTA-EXISTENCIAL E FENOMENOLÓGICA",
+    "CargaHorariaTeorico": 68,
+    "CargaHorariaPratica": null,
+    "ListaPrequisitos": []
+  },
+  {
+    "Id": 50453,
+    "Codigo": "3001.000.702-0",
+    "Tipo": "OPT",
+    "Descricao": "INTERVENÇÕES EM TERAPIAS COGNITIVAS E CONTEXTUAIS",
+    "Semestre": 99,
+    "Apelido": "INTERVENÇÕES EM TERAPIAS COGNITIVAS E CONTEXTUAIS",
+    "CargaHorariaTeorico": 68,
+    "CargaHorariaPratica": null,
+    "ListaPrequisitos": []
+  },
+  {
+    "Id": 50432,
+    "Codigo": "3001.000.681-0",
+    "Tipo": "OPT",
+    "Descricao": "NEUROPSICOLOGIA",
+    "Semestre": 99,
+    "Apelido": "NEUROPSICOLOGIA",
+    "CargaHorariaTeorico": 68,
+    "CargaHorariaPratica": null,
+    "ListaPrequisitos": []
+  },
+  {
+    "Id": 50456,
+    "Codigo": "3001.000.705-8",
+    "Tipo": "OPT",
+    "Descricao": "PRÁTICAS E VIVÊNCIAS EM ARTETERAPIA",
+    "Semestre": 99,
+    "Apelido": "PRÁTICAS E VIVÊNCIAS EM ARTETERAPIA",
+    "CargaHorariaTeorico": 68,
+    "CargaHorariaPratica": null,
+    "ListaPrequisitos": []
+  },
+  {
+    "Id": 50444,
+    "Codigo": "3001.000.693-6",
+    "Tipo": "OPT",
+    "Descricao": "PSICANÁLISE NO CONTEXTO DA INFÂNCIA",
+    "Semestre": 99,
+    "Apelido": "PSICANÁLISE NO CONTEXTO DA INFÂNCIA",
+    "CargaHorariaTeorico": 68,
+    "CargaHorariaPratica": null,
+    "ListaPrequisitos": []
+  },
+  {
+    "Id": 50410,
+    "Codigo": "3001.000.659-8",
+    "Tipo": "OPT",
+    "Descricao": "PSICODIAGNÓSTICO",
+    "Semestre": 99,
+    "Apelido": "PSICODIAGNÓSTICO",
+    "CargaHorariaTeorico": 68,
+    "CargaHorariaPratica": null,
+    "ListaPrequisitos": []
+  },
+  {
+    "Id": 50401,
+    "Codigo": "2701.000.338-4",
+    "Tipo": "OPT",
+    "Descricao": "PSICOFARMACOLOGIA",
+    "Semestre": 99,
+    "Apelido": "PSICOFARMACOLOGIA",
+    "CargaHorariaTeorico": 68,
+    "CargaHorariaPratica": null,
+    "ListaPrequisitos": []
+  },
+  {
+    "Id": 50477,
+    "Codigo": "3001.000.726-3",
+    "Tipo": "OPT",
+    "Descricao": "PSICOLOGIA AMBIENTAL",
+    "Semestre": 99,
+    "Apelido": "PSICOLOGIA AMBIENTAL",
+    "CargaHorariaTeorico": 68,
+    "CargaHorariaPratica": null,
+    "ListaPrequisitos": []
+  },
+  {
+    "Id": 50454,
+    "Codigo": "3001.000.703-0",
+    "Tipo": "OPT",
+    "Descricao": "PSICOLOGIA DA COMUNICAÇÃO E DO MARKETING",
+    "Semestre": 99,
+    "Apelido": "PSICOLOGIA DA COMUNICAÇÃO E DO MARKETING",
+    "CargaHorariaTeorico": 68,
+    "CargaHorariaPratica": null,
+    "ListaPrequisitos": []
+  },
+  {
+    "Id": 50436,
+    "Codigo": "3001.000.685-6",
+    "Tipo": "OPT",
+    "Descricao": "PSICOLOGIA DA PERSONALIDADE:",
+    "Semestre": 99,
+    "Apelido": "PSICOLOGIA DA PERSONALIDADE:",
+    "CargaHorariaTeorico": 68,
+    "CargaHorariaPratica": null,
+    "ListaPrequisitos": []
+  },
+  {
+    "Id": 50463,
+    "Codigo": "3001.000.712-9",
+    "Tipo": "OPT",
+    "Descricao": "PSICOLOGIA DA RELIGIÃO",
+    "Semestre": 99,
+    "Apelido": "PSICOLOGIA DA RELIGIÃO",
+    "CargaHorariaTeorico": 68,
+    "CargaHorariaPratica": null,
+    "ListaPrequisitos": []
+  },
+  {
+    "Id": 50424,
+    "Codigo": "3001.000.673-0",
+    "Tipo": "OPT",
+    "Descricao": "PSICOLOGIA DO ESPORTE",
+    "Semestre": 99,
+    "Apelido": "PSICOLOGIA DO ESPORTE",
+    "CargaHorariaTeorico": 68,
+    "CargaHorariaPratica": null,
+    "ListaPrequisitos": []
+  },
+  {
+    "Id": 50462,
+    "Codigo": "3001.000.711-0",
+    "Tipo": "OPT",
+    "Descricao": "PSICOLOGIA E SAÚDE COLETIVA",
+    "Semestre": 99,
+    "Apelido": "PSICOLOGIA E SAÚDE COLETIVA",
+    "CargaHorariaTeorico": 68,
+    "CargaHorariaPratica": null,
+    "ListaPrequisitos": []
+  },
+  {
+    "Id": 50464,
+    "Codigo": "3001.000.713-8",
+    "Tipo": "OPT",
+    "Descricao": "PSICOLOGIA E TANATOLOGIA",
+    "Semestre": 99,
+    "Apelido": "PSICOLOGIA E TANATOLOGIA",
+    "CargaHorariaTeorico": 68,
+    "CargaHorariaPratica": null,
+    "ListaPrequisitos": []
+  },
+  {
+    "Id": 50425,
+    "Codigo": "3001.000.674-9",
+    "Tipo": "OPT",
+    "Descricao": "PSICOLOGIA HOSPITALAR E DA SAÚDE",
+    "Semestre": 99,
+    "Apelido": "PSICOLOGIA HOSPITALAR E DA SAÚDE",
+    "CargaHorariaTeorico": 68,
+    "CargaHorariaPratica": null,
+    "ListaPrequisitos": []
+  },
+  {
+    "Id": 50426,
+    "Codigo": "3001.000.675-8",
+    "Tipo": "OPT",
+    "Descricao": "PSICOLOGIA JURÍDICA",
+    "Semestre": 99,
+    "Apelido": "PSICOLOGIA JURÍDICA",
+    "CargaHorariaTeorico": 68,
+    "CargaHorariaPratica": null,
+    "ListaPrequisitos": []
+  },
+  {
+    "Id": 50452,
+    "Codigo": "3001.000.701-1",
+    "Tipo": "OPT",
+    "Descricao": "PSICOTERAPIA COGNITIVO-COMPORTAMENTAL",
+    "Semestre": 99,
+    "Apelido": "PSICOTERAPIA COGNITIVO-COMPORTAMENTAL",
+    "CargaHorariaTeorico": 68,
+    "CargaHorariaPratica": null,
+    "ListaPrequisitos": []
+  },
+  {
+    "Id": 50427,
+    "Codigo": "3001.000.676-7",
+    "Tipo": "OPT",
+    "Descricao": "QUESTÕES AVANÇADAS EM ANÁLISE DO COMPORTAMENTO",
+    "Semestre": 99,
+    "Apelido": "QUESTÕES AVANÇADAS EM ANÁLISE DO COMPORTAMENTO",
+    "CargaHorariaTeorico": 68,
+    "CargaHorariaPratica": null,
+    "ListaPrequisitos": []
+  },
+  {
+    "Id": 50473,
+    "Codigo": "3001.000.722-7",
+    "Tipo": "OPT",
+    "Descricao": "TEORIA DAS REPRESENTAÇÕES SOCIAIS",
+    "Semestre": 99,
+    "Apelido": "TEORIA DAS REPRESENTAÇÕES SOCIAIS",
+    "CargaHorariaTeorico": 68,
+    "CargaHorariaPratica": null,
+    "ListaPrequisitos": []
+  },
+  {
+    "Id": 50461,
+    "Codigo": "3001.000.710-0",
+    "Tipo": "OPT",
+    "Descricao": "TEORIAS E TÉCNICAS PSICOTERÁPICAS: HUMANISTA-EXISTENCIAL E FENOMENOLÓGICA",
+    "Semestre": 99,
+    "Apelido": "TEORIAS E TÉCNICAS PSICOTERÁPICAS: HUMANISTA-EXISTENCIAL E FENOMENOLÓGICA",
+    "CargaHorariaTeorico": 68,
+    "CargaHorariaPratica": null,
+    "ListaPrequisitos": []
+  },
+  {
+    "Id": 50431,
+    "Codigo": "3001.000.680-0",
+    "Tipo": "OPT",
+    "Descricao": "TÓPICOS CONTEMPORÂNEOS EM PSICOLOGIA I",
+    "Semestre": 99,
+    "Apelido": "TÓPICOS CONTEMPORÂNEOS EM PSICOLOGIA I",
+    "CargaHorariaTeorico": 68,
+    "CargaHorariaPratica": null,
+    "ListaPrequisitos": []
+  },
+  {
+    "Id": 50430,
+    "Codigo": "3001.000.679-4",
+    "Tipo": "OPT",
+    "Descricao": "TÓPICOS CONTEMPORÂNEOS EM PSICOLOGIA II",
+    "Semestre": 99,
+    "Apelido": "TÓPICOS CONTEMPORÂNEOS EM PSICOLOGIA II",
+    "CargaHorariaTeorico": 68,
+    "CargaHorariaPratica": null,
+    "ListaPrequisitos": []
+  },
+  {
+    "Id": 50433,
+    "Codigo": "3001.000.682-9",
+    "Tipo": "OPT",
+    "Descricao": "TÓPICOS CONTEMPORÂNEOS EM PSICOLOGIA III",
+    "Semestre": 99,
+    "Apelido": "TÓPICOS CONTEMPORÂNEOS EM PSICOLOGIA III",
+    "CargaHorariaTeorico": 68,
+    "CargaHorariaPratica": null,
+    "ListaPrequisitos": []
+  },
+  {
+    "Id": 50439,
+    "Codigo": "3001.000.688-3",
+    "Tipo": "OPT",
+    "Descricao": "TÓPICOS CONTEMPORÂNEOS EM PSICOLOGIA IV",
+    "Semestre": 99,
+    "Apelido": "TÓPICOS CONTEMPORÂNEOS EM PSICOLOGIA IV",
+    "CargaHorariaTeorico": 68,
+    "CargaHorariaPratica": null,
+    "ListaPrequisitos": []
+  },
+  {
+    "Id": 50451,
+    "Codigo": "3001.000.700-2",
+    "Tipo": "OPT",
+    "Descricao": "TÓPICOS ESPECIAIS DE PSICANÁLISE",
+    "Semestre": 99,
+    "Apelido": "TÓPICOS ESPECIAIS DE PSICANÁLISE",
+    "CargaHorariaTeorico": 68,
+    "CargaHorariaPratica": null,
+    "ListaPrequisitos": []
+  },
+  {
+    "Id": 50445,
+    "Codigo": "3001.000.694-5",
+    "Tipo": "OPT",
+    "Descricao": "USO DO COMPUTADOR NA PSICOLOGIA",
+    "Semestre": 99,
+    "Apelido": "USO DO COMPUTADOR NA PSICOLOGIA",
+    "CargaHorariaTeorico": 68,
+    "CargaHorariaPratica": null,
+    "ListaPrequisitos": []
+  }
+]

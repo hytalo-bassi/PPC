@@ -1,0 +1,1054 @@
+[
+  {
+    "Id": 52086,
+    "Codigo": "1703.000.525-1",
+    "Tipo": "OBR",
+    "Descricao": "DESENHO ARQUITETÔNICO I",
+    "Semestre": 1,
+    "Apelido": "DESENHO ARQUITETÔNICO I",
+    "CargaHorariaTeorico": 68,
+    "CargaHorariaPratica": null,
+    "ListaPrequisitos": []
+  },
+  {
+    "Id": 47372,
+    "Codigo": "1703.000.391-8",
+    "Tipo": "OBR",
+    "Descricao": "DESENHO UNIVERSAL",
+    "Semestre": 1,
+    "Apelido": "DESENHO UNIVERSAL",
+    "CargaHorariaTeorico": 34,
+    "CargaHorariaPratica": null,
+    "ListaPrequisitos": []
+  },
+  {
+    "Id": 50057,
+    "Codigo": "1703.000.462-0",
+    "Tipo": "OBR",
+    "Descricao": "ESTUDOS DA FORMA E COMPOSIÇÃO I",
+    "Semestre": 1,
+    "Apelido": "ESTUDOS DA FORMA E COMPOSIÇÃO I",
+    "CargaHorariaTeorico": 68,
+    "CargaHorariaPratica": null,
+    "ListaPrequisitos": []
+  },
+  {
+    "Id": 50049,
+    "Codigo": "1703.000.454-0",
+    "Tipo": "OBR",
+    "Descricao": "ESTUDOS SOCIAIS NA ARQ. E URBANISMO",
+    "Semestre": 1,
+    "Apelido": "ESTUDOS SOCIAIS NA ARQ. E URBANISMO",
+    "CargaHorariaTeorico": 34,
+    "CargaHorariaPratica": null,
+    "ListaPrequisitos": []
+  },
+  {
+    "Id": 50048,
+    "Codigo": "1703.000.453-0",
+    "Tipo": "OBR",
+    "Descricao": "FUNDAMENTOS E PRÁTICAS EM ARQUITETURA E URBANISMO",
+    "Semestre": 1,
+    "Apelido": "FUNDAMENTOS E PRÁTICAS EM ARQUITETURA E URBANISMO",
+    "CargaHorariaTeorico": 68,
+    "CargaHorariaPratica": null,
+    "ListaPrequisitos": []
+  },
+  {
+    "Id": 50069,
+    "Codigo": "1703.000.474-6",
+    "Tipo": "OBR",
+    "Descricao": "MATERIAIS DE CONSTRUÇÃO I",
+    "Semestre": 1,
+    "Apelido": "MATERIAIS DE CONSTRUÇÃO I",
+    "CargaHorariaTeorico": 34,
+    "CargaHorariaPratica": null,
+    "ListaPrequisitos": []
+  },
+  {
+    "Id": 50044,
+    "Codigo": "1703.000.449-7",
+    "Tipo": "OBR",
+    "Descricao": "MATERIAIS DE CONSTRUÇÃO II",
+    "Semestre": 1,
+    "Apelido": "MATERIAIS DE CONSTRUÇÃO II",
+    "CargaHorariaTeorico": 34,
+    "CargaHorariaPratica": null,
+    "ListaPrequisitos": []
+  },
+  {
+    "Id": 52082,
+    "Codigo": "1703.000.521-5",
+    "Tipo": "OBR",
+    "Descricao": "ATELIÊ DE PROJETO INTEGRADO I",
+    "Semestre": 2,
+    "Apelido": "ATELIÊ DE PROJETO INTEGRADO I",
+    "CargaHorariaTeorico": 68,
+    "CargaHorariaPratica": null,
+    "ListaPrequisitos": [
+      {
+        "Id": 52086,
+        "Codigo": "1703.000.525-1",
+        "Descricao": "DESENHO ARQUITETÔNICO I",
+        "Semestre": "0",
+        "Apelido": "DESENHO ARQUITETÔNICO I",
+        "CargaHorariaTeorico": 0,
+        "CargaHorariaPratica": 0,
+        "ListaPrequisitos": []
+      }
+    ]
+  },
+  {
+    "Id": 52087,
+    "Codigo": "1703.000.526-0",
+    "Tipo": "OBR",
+    "Descricao": "DESENHO ARQUITETÔNICO II",
+    "Semestre": 2,
+    "Apelido": "DESENHO ARQUITETÔNICO II",
+    "CargaHorariaTeorico": 68,
+    "CargaHorariaPratica": null,
+    "ListaPrequisitos": []
+  },
+  {
+    "Id": 52090,
+    "Codigo": "1703.000.529-8",
+    "Tipo": "OBR",
+    "Descricao": "ESTÁTICA DAS ESTRUTURAS",
+    "Semestre": 2,
+    "Apelido": "ESTÁTICA DAS ESTRUTURAS",
+    "CargaHorariaTeorico": 34,
+    "CargaHorariaPratica": null,
+    "ListaPrequisitos": []
+  },
+  {
+    "Id": 50076,
+    "Codigo": "1703.000.481-7",
+    "Tipo": "OBR",
+    "Descricao": "ESTUDOS DA FORMA E COMPOSIÇÃO II",
+    "Semestre": 2,
+    "Apelido": "ESTUDOS DA FORMA E COMPOSIÇÃO II",
+    "CargaHorariaTeorico": 68,
+    "CargaHorariaPratica": null,
+    "ListaPrequisitos": []
+  },
+  {
+    "Id": 50034,
+    "Codigo": "1703.000.439-9",
+    "Tipo": "OBR",
+    "Descricao": "GEOMETRIA DESCRITIVA",
+    "Semestre": 2,
+    "Apelido": "GEOMETRIA DESCRITIVA",
+    "CargaHorariaTeorico": 34,
+    "CargaHorariaPratica": null,
+    "ListaPrequisitos": []
+  },
+  {
+    "Id": 50070,
+    "Codigo": "1703.000.475-5",
+    "Tipo": "OBR",
+    "Descricao": "RESISTÊNCIA DOS MATERIAIS",
+    "Semestre": 2,
+    "Apelido": "RESISTÊNCIA DOS MATERIAIS",
+    "CargaHorariaTeorico": 68,
+    "CargaHorariaPratica": null,
+    "ListaPrequisitos": []
+  },
+  {
+    "Id": 52097,
+    "Codigo": "1703.000.536-9",
+    "Tipo": "OBR",
+    "Descricao": "TEORIA E ESTÉTICA DA ARQUITETURA E URBANISMO I",
+    "Semestre": 2,
+    "Apelido": "TEORIA E ESTÉTICA DA ARQUITETURA E URBANISMO I",
+    "CargaHorariaTeorico": 34,
+    "CargaHorariaPratica": null,
+    "ListaPrequisitos": []
+  },
+  {
+    "Id": 52102,
+    "Codigo": "1703.000.541-1",
+    "Tipo": "OBR",
+    "Descricao": "TEORIA E ESTÉTICA DA ARQUITETURA E URBANISMO II",
+    "Semestre": 2,
+    "Apelido": "TEORIA E ESTÉTICA DA ARQUITETURA E URBANISMO II",
+    "CargaHorariaTeorico": 34,
+    "CargaHorariaPratica": null,
+    "ListaPrequisitos": []
+  },
+  {
+    "Id": 52098,
+    "Codigo": "1703.000.537-8",
+    "Tipo": "OBR",
+    "Descricao": "TOPOGRAFIA",
+    "Semestre": 2,
+    "Apelido": "TOPOGRAFIA",
+    "CargaHorariaTeorico": 68,
+    "CargaHorariaPratica": null,
+    "ListaPrequisitos": []
+  },
+  {
+    "Id": 52079,
+    "Codigo": "1703.000.518-0",
+    "Tipo": "OBR",
+    "Descricao": "ATELIÊ DE PROJETO INTEGRADO II",
+    "Semestre": 3,
+    "Apelido": "ATELIÊ DE PROJETO INTEGRADO II",
+    "CargaHorariaTeorico": 68,
+    "CargaHorariaPratica": null,
+    "ListaPrequisitos": [
+      {
+        "Id": 52086,
+        "Codigo": "1703.000.525-1",
+        "Descricao": "DESENHO ARQUITETÔNICO I",
+        "Semestre": "0",
+        "Apelido": "DESENHO ARQUITETÔNICO I",
+        "CargaHorariaTeorico": 0,
+        "CargaHorariaPratica": 0,
+        "ListaPrequisitos": []
+      },
+      {
+        "Id": 52087,
+        "Codigo": "1703.000.526-0",
+        "Descricao": "DESENHO ARQUITETÔNICO II",
+        "Semestre": "0",
+        "Apelido": "DESENHO ARQUITETÔNICO II",
+        "CargaHorariaTeorico": 0,
+        "CargaHorariaPratica": 0,
+        "ListaPrequisitos": []
+      }
+    ]
+  },
+  {
+    "Id": 52091,
+    "Codigo": "1703.000.530-4",
+    "Tipo": "OBR",
+    "Descricao": "COMUNICAÇÃO VISUAL",
+    "Semestre": 3,
+    "Apelido": "COMUNICAÇÃO VISUAL",
+    "CargaHorariaTeorico": 68,
+    "CargaHorariaPratica": null,
+    "ListaPrequisitos": []
+  },
+  {
+    "Id": 50064,
+    "Codigo": "1703.000.469-3",
+    "Tipo": "OBR",
+    "Descricao": "CONFORTO AMBIENTAL I",
+    "Semestre": 3,
+    "Apelido": "CONFORTO AMBIENTAL I",
+    "CargaHorariaTeorico": 68,
+    "CargaHorariaPratica": null,
+    "ListaPrequisitos": []
+  },
+  {
+    "Id": 50052,
+    "Codigo": "1703.000.457-7",
+    "Tipo": "OBR",
+    "Descricao": "HISTÓRIA DA ARTE, ARQUITETURA E URBANISMO I",
+    "Semestre": 3,
+    "Apelido": "HISTÓRIA DA ARTE, ARQUITETURA E URBANISMO I",
+    "CargaHorariaTeorico": 68,
+    "CargaHorariaPratica": null,
+    "ListaPrequisitos": []
+  },
+  {
+    "Id": 50073,
+    "Codigo": "1703.000.478-2",
+    "Tipo": "OBR",
+    "Descricao": "REPRESENTAÇÃO DIGITAL I",
+    "Semestre": 3,
+    "Apelido": "REPRESENTAÇÃO DIGITAL I",
+    "CargaHorariaTeorico": 68,
+    "CargaHorariaPratica": null,
+    "ListaPrequisitos": []
+  },
+  {
+    "Id": 50063,
+    "Codigo": "1703.000.468-4",
+    "Tipo": "OBR",
+    "Descricao": "TECNOLOGIAS CONSTRUTIVAS I",
+    "Semestre": 3,
+    "Apelido": "TECNOLOGIAS CONSTRUTIVAS I",
+    "CargaHorariaTeorico": 34,
+    "CargaHorariaPratica": null,
+    "ListaPrequisitos": []
+  },
+  {
+    "Id": 50068,
+    "Codigo": "1703.000.473-7",
+    "Tipo": "OBR",
+    "Descricao": "TECNOLOGIAS CONSTRUTIVAS II",
+    "Semestre": 3,
+    "Apelido": "TECNOLOGIAS CONSTRUTIVAS II",
+    "CargaHorariaTeorico": 34,
+    "CargaHorariaPratica": null,
+    "ListaPrequisitos": []
+  },
+  {
+    "Id": 50060,
+    "Codigo": "1703.000.465-7",
+    "Tipo": "OBR",
+    "Descricao": "ARQUITETURA DA PAISAGEM I",
+    "Semestre": 4,
+    "Apelido": "ARQUITETURA DA PAISAGEM I",
+    "CargaHorariaTeorico": 68,
+    "CargaHorariaPratica": null,
+    "ListaPrequisitos": []
+  },
+  {
+    "Id": 52077,
+    "Codigo": "1703.000.516-2",
+    "Tipo": "OBR",
+    "Descricao": "ATELIÊ DE PROJETO INTEGRADO III",
+    "Semestre": 4,
+    "Apelido": "ATELIÊ DE PROJETO INTEGRADO III",
+    "CargaHorariaTeorico": 68,
+    "CargaHorariaPratica": null,
+    "ListaPrequisitos": []
+  },
+  {
+    "Id": 50065,
+    "Codigo": "1703.000.470-0",
+    "Tipo": "OBR",
+    "Descricao": "CONFORTO AMBIENTAL II",
+    "Semestre": 4,
+    "Apelido": "CONFORTO AMBIENTAL II",
+    "CargaHorariaTeorico": 68,
+    "CargaHorariaPratica": null,
+    "ListaPrequisitos": []
+  },
+  {
+    "Id": 50053,
+    "Codigo": "1703.000.458-6",
+    "Tipo": "OBR",
+    "Descricao": "HISTÓRIA DA ARTE, ARQUITETURA E URBANISMO II",
+    "Semestre": 4,
+    "Apelido": "HISTÓRIA DA ARTE, ARQUITETURA E URBANISMO II",
+    "CargaHorariaTeorico": 68,
+    "CargaHorariaPratica": null,
+    "ListaPrequisitos": []
+  },
+  {
+    "Id": 50072,
+    "Codigo": "1703.000.477-3",
+    "Tipo": "OBR",
+    "Descricao": "REPRESENTAÇÃO DIGITAL II",
+    "Semestre": 4,
+    "Apelido": "REPRESENTAÇÃO DIGITAL II",
+    "CargaHorariaTeorico": 68,
+    "CargaHorariaPratica": null,
+    "ListaPrequisitos": []
+  },
+  {
+    "Id": 50046,
+    "Codigo": "1703.000.451-2",
+    "Tipo": "OBR",
+    "Descricao": "SISTEMAS CONSTRUTIVOS",
+    "Semestre": 4,
+    "Apelido": "SISTEMAS CONSTRUTIVOS",
+    "CargaHorariaTeorico": 68,
+    "CargaHorariaPratica": null,
+    "ListaPrequisitos": [
+      {
+        "Id": 50044,
+        "Codigo": "1703.000.449-7",
+        "Descricao": "MATERIAIS DE CONSTRUÇÃO II",
+        "Semestre": "0",
+        "Apelido": "MATERIAIS DE CONSTRUÇÃO II",
+        "CargaHorariaTeorico": 0,
+        "CargaHorariaPratica": 0,
+        "ListaPrequisitos": []
+      },
+      {
+        "Id": 50069,
+        "Codigo": "1703.000.474-6",
+        "Descricao": "MATERIAIS DE CONSTRUÇÃO I",
+        "Semestre": "0",
+        "Apelido": "MATERIAIS DE CONSTRUÇÃO I",
+        "CargaHorariaTeorico": 0,
+        "CargaHorariaPratica": 0,
+        "ListaPrequisitos": []
+      }
+    ]
+  },
+  {
+    "Id": 50059,
+    "Codigo": "1703.000.464-8",
+    "Tipo": "OBR",
+    "Descricao": "ARQUITETURA DA PAISAGEM II",
+    "Semestre": 5,
+    "Apelido": "ARQUITETURA DA PAISAGEM II",
+    "CargaHorariaTeorico": 68,
+    "CargaHorariaPratica": null,
+    "ListaPrequisitos": [
+      {
+        "Id": 50060,
+        "Codigo": "1703.000.465-7",
+        "Descricao": "ARQUITETURA DA PAISAGEM I",
+        "Semestre": "0",
+        "Apelido": "ARQUITETURA DA PAISAGEM I",
+        "CargaHorariaTeorico": 0,
+        "CargaHorariaPratica": 0,
+        "ListaPrequisitos": []
+      }
+    ]
+  },
+  {
+    "Id": 52084,
+    "Codigo": "1703.000.523-3",
+    "Tipo": "OBR",
+    "Descricao": "ATELIÊ DE PROJETO INTEGRADO IV",
+    "Semestre": 5,
+    "Apelido": "ATELIÊ DE PROJETO INTEGRADO IV",
+    "CargaHorariaTeorico": 68,
+    "CargaHorariaPratica": null,
+    "ListaPrequisitos": []
+  },
+  {
+    "Id": 50061,
+    "Codigo": "1703.000.466-6",
+    "Tipo": "OBR",
+    "Descricao": "CONFORTO AMBIENTAL III",
+    "Semestre": 5,
+    "Apelido": "CONFORTO AMBIENTAL III",
+    "CargaHorariaTeorico": 68,
+    "CargaHorariaPratica": null,
+    "ListaPrequisitos": []
+  },
+  {
+    "Id": 50071,
+    "Codigo": "1703.000.476-4",
+    "Tipo": "OBR",
+    "Descricao": "HISTÓRIA DA ARTE, ARQUITETURA E URBANISMO III",
+    "Semestre": 5,
+    "Apelido": "HISTÓRIA DA ARTE, ARQUITETURA E URBANISMO III",
+    "CargaHorariaTeorico": 68,
+    "CargaHorariaPratica": null,
+    "ListaPrequisitos": []
+  },
+  {
+    "Id": 50066,
+    "Codigo": "1703.000.471-9",
+    "Tipo": "OBR",
+    "Descricao": "INSTALAÇÕES HIDRÁULICAS PREDIAIS",
+    "Semestre": 5,
+    "Apelido": "INSTALAÇÕES HIDRÁULICAS PREDIAIS",
+    "CargaHorariaTeorico": 34,
+    "CargaHorariaPratica": null,
+    "ListaPrequisitos": []
+  },
+  {
+    "Id": 50067,
+    "Codigo": "1703.000.472-8",
+    "Tipo": "OBR",
+    "Descricao": "MECÂNICA DOS SOLOS E FUNDAÇÕES",
+    "Semestre": 5,
+    "Apelido": "MECÂNICA DOS SOLOS E FUNDAÇÕES",
+    "CargaHorariaTeorico": 34,
+    "CargaHorariaPratica": null,
+    "ListaPrequisitos": []
+  },
+  {
+    "Id": 50038,
+    "Codigo": "1703.000.443-2",
+    "Tipo": "OBR",
+    "Descricao": "PROJETO DE INSTALAÇÕES HIDRÁULICAS",
+    "Semestre": 5,
+    "Apelido": "PROJETO DE INSTALAÇÕES HIDRÁULICAS",
+    "CargaHorariaTeorico": 34,
+    "CargaHorariaPratica": null,
+    "ListaPrequisitos": []
+  },
+  {
+    "Id": 52092,
+    "Codigo": "1703.000.531-3",
+    "Tipo": "OBR",
+    "Descricao": "PROJETO DE URBANISMO I",
+    "Semestre": 5,
+    "Apelido": "PROJETO DE URBANISMO I",
+    "CargaHorariaTeorico": 68,
+    "CargaHorariaPratica": null,
+    "ListaPrequisitos": []
+  },
+  {
+    "Id": 52080,
+    "Codigo": "1703.000.519-0",
+    "Tipo": "OBR",
+    "Descricao": "ATELIÊ DE PROJETO INTEGRADO V",
+    "Semestre": 6,
+    "Apelido": "ATELIÊ DE PROJETO INTEGRADO V",
+    "CargaHorariaTeorico": 68,
+    "CargaHorariaPratica": null,
+    "ListaPrequisitos": []
+  },
+  {
+    "Id": 52088,
+    "Codigo": "1703.000.527-0",
+    "Tipo": "OBR",
+    "Descricao": "ESTRUTURAS DE CONCRETO",
+    "Semestre": 6,
+    "Apelido": "ESTRUTURAS DE CONCRETO",
+    "CargaHorariaTeorico": 68,
+    "CargaHorariaPratica": null,
+    "ListaPrequisitos": [
+      {
+        "Id": 50070,
+        "Codigo": "1703.000.475-5",
+        "Descricao": "RESISTÊNCIA DOS MATERIAIS",
+        "Semestre": "0",
+        "Apelido": "RESISTÊNCIA DOS MATERIAIS",
+        "CargaHorariaTeorico": 0,
+        "CargaHorariaPratica": 0,
+        "ListaPrequisitos": []
+      }
+    ]
+  },
+  {
+    "Id": 50054,
+    "Codigo": "1703.000.459-5",
+    "Tipo": "OBR",
+    "Descricao": "HISTÓRIA DA ARTE, ARQUITETURA E URBANISMO IV",
+    "Semestre": 6,
+    "Apelido": "HISTÓRIA DA ARTE, ARQUITETURA E URBANISMO IV",
+    "CargaHorariaTeorico": 68,
+    "CargaHorariaPratica": null,
+    "ListaPrequisitos": []
+  },
+  {
+    "Id": 50062,
+    "Codigo": "1703.000.467-5",
+    "Tipo": "OBR",
+    "Descricao": "INSTALAÇÕES ELÉTRICAS PREDIAIS",
+    "Semestre": 6,
+    "Apelido": "INSTALAÇÕES ELÉTRICAS PREDIAIS",
+    "CargaHorariaTeorico": 34,
+    "CargaHorariaPratica": null,
+    "ListaPrequisitos": []
+  },
+  {
+    "Id": 50035,
+    "Codigo": "1703.000.440-5",
+    "Tipo": "OBR",
+    "Descricao": "PROJETO DE INSTALAÇÕES ELÉTRICAS",
+    "Semestre": 6,
+    "Apelido": "PROJETO DE INSTALAÇÕES ELÉTRICAS",
+    "CargaHorariaTeorico": 34,
+    "CargaHorariaPratica": null,
+    "ListaPrequisitos": []
+  },
+  {
+    "Id": 52093,
+    "Codigo": "1703.000.532-2",
+    "Tipo": "OBR",
+    "Descricao": "PROJETO DE URBANISMO II",
+    "Semestre": 6,
+    "Apelido": "PROJETO DE URBANISMO II",
+    "CargaHorariaTeorico": 68,
+    "CargaHorariaPratica": null,
+    "ListaPrequisitos": []
+  },
+  {
+    "Id": 52096,
+    "Codigo": "1703.000.535-0",
+    "Tipo": "OBR",
+    "Descricao": "TEORIA E TÉCNICAS DA PRESERVAÇÃO",
+    "Semestre": 6,
+    "Apelido": "TEORIA E TÉCNICAS DA PRESERVAÇÃO",
+    "CargaHorariaTeorico": 68,
+    "CargaHorariaPratica": null,
+    "ListaPrequisitos": []
+  },
+  {
+    "Id": 52083,
+    "Codigo": "1703.000.522-4",
+    "Tipo": "OBR",
+    "Descricao": "ATELIÊ DE PROJETO INTEGRADO VI",
+    "Semestre": 7,
+    "Apelido": "ATELIÊ DE PROJETO INTEGRADO VI",
+    "CargaHorariaTeorico": 68,
+    "CargaHorariaPratica": null,
+    "ListaPrequisitos": []
+  },
+  {
+    "Id": 50055,
+    "Codigo": "1703.000.460-1",
+    "Tipo": "OBR",
+    "Descricao": "HISTÓRIA DA ARTE, ARQUITETURA E URBANISMO V",
+    "Semestre": 7,
+    "Apelido": "HISTÓRIA DA ARTE, ARQUITETURA E URBANISMO V",
+    "CargaHorariaTeorico": 68,
+    "CargaHorariaPratica": null,
+    "ListaPrequisitos": [
+      {
+        "Id": 50054,
+        "Codigo": "1703.000.459-5",
+        "Descricao": "HISTÓRIA DA ARTE, ARQUITETURA E URBANISMO IV",
+        "Semestre": "0",
+        "Apelido": "HISTÓRIA DA ARTE, ARQUITETURA E URBANISMO IV",
+        "CargaHorariaTeorico": 0,
+        "CargaHorariaPratica": 0,
+        "ListaPrequisitos": []
+      },
+      {
+        "Id": 50071,
+        "Codigo": "1703.000.476-4",
+        "Descricao": "HISTÓRIA DA ARTE, ARQUITETURA E URBANISMO III",
+        "Semestre": "0",
+        "Apelido": "HISTÓRIA DA ARTE, ARQUITETURA E URBANISMO III",
+        "CargaHorariaTeorico": 0,
+        "CargaHorariaPratica": 0,
+        "ListaPrequisitos": []
+      }
+    ]
+  },
+  {
+    "Id": 52099,
+    "Codigo": "1703.000.538-7",
+    "Tipo": "OBR",
+    "Descricao": "INFRAESTRUTURA URBANA",
+    "Semestre": 7,
+    "Apelido": "INFRAESTRUTURA URBANA",
+    "CargaHorariaTeorico": 68,
+    "CargaHorariaPratica": null,
+    "ListaPrequisitos": []
+  },
+  {
+    "Id": 52100,
+    "Codigo": "1703.000.539-6",
+    "Tipo": "OBR",
+    "Descricao": "PLANEJAMENTO URBANO E REGIONAL I",
+    "Semestre": 7,
+    "Apelido": "PLANEJAMENTO URBANO E REGIONAL I",
+    "CargaHorariaTeorico": 68,
+    "CargaHorariaPratica": null,
+    "ListaPrequisitos": []
+  },
+  {
+    "Id": 52094,
+    "Codigo": "1703.000.533-1",
+    "Tipo": "OBR",
+    "Descricao": "PROJETO DE URBANISMO III",
+    "Semestre": 7,
+    "Apelido": "PROJETO DE URBANISMO III",
+    "CargaHorariaTeorico": 68,
+    "CargaHorariaPratica": null,
+    "ListaPrequisitos": []
+  },
+  {
+    "Id": 52078,
+    "Codigo": "1703.000.517-1",
+    "Tipo": "OBR",
+    "Descricao": "ATELIÊ DE PROJETO INTEGRADO VII",
+    "Semestre": 8,
+    "Apelido": "ATELIÊ DE PROJETO INTEGRADO VII",
+    "CargaHorariaTeorico": 68,
+    "CargaHorariaPratica": null,
+    "ListaPrequisitos": [
+      {
+        "Id": 52083,
+        "Codigo": "1703.000.522-4",
+        "Descricao": "ATELIÊ DE PROJETO INTEGRADO VI",
+        "Semestre": "0",
+        "Apelido": "ATELIÊ DE PROJETO INTEGRADO VI",
+        "CargaHorariaTeorico": 0,
+        "CargaHorariaPratica": 0,
+        "ListaPrequisitos": []
+      }
+    ]
+  },
+  {
+    "Id": 52081,
+    "Codigo": "1703.000.520-6",
+    "Tipo": "OBR",
+    "Descricao": "ESTÁGIO OBRIGATÓRIO EM ARQUITETURA E URBANISMO",
+    "Semestre": 8,
+    "Apelido": "ESTÁGIO OBRIGATÓRIO EM ARQUITETURA E URBANISMO",
+    "CargaHorariaTeorico": 68,
+    "CargaHorariaPratica": null,
+    "ListaPrequisitos": []
+  },
+  {
+    "Id": 52095,
+    "Codigo": "1703.000.534-0",
+    "Tipo": "OBR",
+    "Descricao": "ESTRUTURAS DE AÇO E MADEIRA",
+    "Semestre": 8,
+    "Apelido": "ESTRUTURAS DE AÇO E MADEIRA",
+    "CargaHorariaTeorico": 68,
+    "CargaHorariaPratica": null,
+    "ListaPrequisitos": []
+  },
+  {
+    "Id": 50056,
+    "Codigo": "1703.000.461-0",
+    "Tipo": "OBR",
+    "Descricao": "HISTÓRIA DA ARTE, ARQUITETURA E URBANISMO VI",
+    "Semestre": 8,
+    "Apelido": "HISTÓRIA DA ARTE, ARQUITETURA E URBANISMO VI",
+    "CargaHorariaTeorico": 68,
+    "CargaHorariaPratica": null,
+    "ListaPrequisitos": [
+      {
+        "Id": 50055,
+        "Codigo": "1703.000.460-1",
+        "Descricao": "HISTÓRIA DA ARTE, ARQUITETURA E URBANISMO V",
+        "Semestre": "0",
+        "Apelido": "HISTÓRIA DA ARTE, ARQUITETURA E URBANISMO V",
+        "CargaHorariaTeorico": 0,
+        "CargaHorariaPratica": 0,
+        "ListaPrequisitos": []
+      }
+    ]
+  },
+  {
+    "Id": 52085,
+    "Codigo": "1703.000.524-2",
+    "Tipo": "OBR",
+    "Descricao": "METODOLOGIA E REDAÇÃO CIENTÍFICA",
+    "Semestre": 8,
+    "Apelido": "METODOLOGIA E REDAÇÃO CIENTÍFICA",
+    "CargaHorariaTeorico": 34,
+    "CargaHorariaPratica": null,
+    "ListaPrequisitos": []
+  },
+  {
+    "Id": 52089,
+    "Codigo": "1703.000.528-9",
+    "Tipo": "OBR",
+    "Descricao": "PLANEJAMENTO URBANO E REGIONAL II",
+    "Semestre": 8,
+    "Apelido": "PLANEJAMENTO URBANO E REGIONAL II",
+    "CargaHorariaTeorico": 68,
+    "CargaHorariaPratica": null,
+    "ListaPrequisitos": [
+      {
+        "Id": 52092,
+        "Codigo": "1703.000.531-3",
+        "Descricao": "PROJETO DE URBANISMO I",
+        "Semestre": "0",
+        "Apelido": "PROJETO DE URBANISMO I",
+        "CargaHorariaTeorico": 0,
+        "CargaHorariaPratica": 0,
+        "ListaPrequisitos": []
+      },
+      {
+        "Id": 52100,
+        "Codigo": "1703.000.539-6",
+        "Descricao": "PLANEJAMENTO URBANO E REGIONAL I",
+        "Semestre": "0",
+        "Apelido": "PLANEJAMENTO URBANO E REGIONAL I",
+        "CargaHorariaTeorico": 0,
+        "CargaHorariaPratica": 0,
+        "ListaPrequisitos": []
+      }
+    ]
+  },
+  {
+    "Id": 50058,
+    "Codigo": "1703.000.463-9",
+    "Tipo": "OBR",
+    "Descricao": "ÉTICA E EXERCÍCIO PROFISSIONAL DA ARQUITETURA E URBANISMO",
+    "Semestre": 9,
+    "Apelido": "ÉTICA E EXERCÍCIO PROFISSIONAL DA ARQUITETURA E URBANISMO",
+    "CargaHorariaTeorico": 34,
+    "CargaHorariaPratica": null,
+    "ListaPrequisitos": []
+  },
+  {
+    "Id": 52101,
+    "Codigo": "1703.000.540-2",
+    "Tipo": "OBR",
+    "Descricao": "PESQUISA EM ARQUITETURA E URBANISMO",
+    "Semestre": 9,
+    "Apelido": "PESQUISA EM ARQUITETURA E URBANISMO",
+    "CargaHorariaTeorico": 34,
+    "CargaHorariaPratica": null,
+    "ListaPrequisitos": [
+      {
+        "Id": 52085,
+        "Codigo": "1703.000.524-2",
+        "Descricao": "METODOLOGIA E REDAÇÃO CIENTÍFICA",
+        "Semestre": "0",
+        "Apelido": "METODOLOGIA E REDAÇÃO CIENTÍFICA",
+        "CargaHorariaTeorico": 0,
+        "CargaHorariaPratica": 0,
+        "ListaPrequisitos": []
+      }
+    ]
+  },
+  {
+    "Id": 50075,
+    "Codigo": "1703.000.480-8",
+    "Tipo": "OBR",
+    "Descricao": "PLANEJAMENTO DE OBRAS",
+    "Semestre": 9,
+    "Apelido": "PLANEJAMENTO DE OBRAS",
+    "CargaHorariaTeorico": 34,
+    "CargaHorariaPratica": null,
+    "ListaPrequisitos": []
+  },
+  {
+    "Id": 46149,
+    "Codigo": "1703.000.316-8",
+    "Tipo": "OPT",
+    "Descricao": "AVALIAÇÃO PÓS-OCUPAÇÃO",
+    "Semestre": 99,
+    "Apelido": "AVALIAÇÃO PÓS-OCUPAÇÃO",
+    "CargaHorariaTeorico": 68,
+    "CargaHorariaPratica": null,
+    "ListaPrequisitos": []
+  },
+  {
+    "Id": 46148,
+    "Codigo": "1703.000.315-9",
+    "Tipo": "OPT",
+    "Descricao": "DETALHAMENTO DE PROJETO",
+    "Semestre": 99,
+    "Apelido": "DETALHAMENTO DE PROJETO",
+    "CargaHorariaTeorico": 68,
+    "CargaHorariaPratica": null,
+    "ListaPrequisitos": []
+  },
+  {
+    "Id": 39752,
+    "Codigo": "1703.000.050-0",
+    "Tipo": "OPT",
+    "Descricao": "EDUCAÇÃO AMBIENTAL",
+    "Semestre": 99,
+    "Apelido": "EDUCAÇÃO AMBIENTAL",
+    "CargaHorariaTeorico": 68,
+    "CargaHorariaPratica": null,
+    "ListaPrequisitos": []
+  },
+  {
+    "Id": 43686,
+    "Codigo": "1991.000.004-3",
+    "Tipo": "OPT",
+    "Descricao": "EMPREENDEDORISMO E INOVAÇÃO",
+    "Semestre": 99,
+    "Apelido": "EMPREENDEDORISMO E INOVAÇÃO",
+    "CargaHorariaTeorico": 68,
+    "CargaHorariaPratica": null,
+    "ListaPrequisitos": []
+  },
+  {
+    "Id": 46115,
+    "Codigo": "1703.000.282-1",
+    "Tipo": "OPT",
+    "Descricao": "ESTUDOS DE LIBRAS",
+    "Semestre": 99,
+    "Apelido": "ESTUDOS DE LIBRAS",
+    "CargaHorariaTeorico": 68,
+    "CargaHorariaPratica": null,
+    "ListaPrequisitos": []
+  },
+  {
+    "Id": 46125,
+    "Codigo": "1703.000.292-0",
+    "Tipo": "OPT",
+    "Descricao": "ESTUDOS ESPECIAIS EM DESENHO URBANO",
+    "Semestre": 99,
+    "Apelido": "ESTUDOS ESPECIAIS EM DESENHO URBANO",
+    "CargaHorariaTeorico": 68,
+    "CargaHorariaPratica": null,
+    "ListaPrequisitos": []
+  },
+  {
+    "Id": 46127,
+    "Codigo": "1703.000.294-8",
+    "Tipo": "OPT",
+    "Descricao": "MAQUETES",
+    "Semestre": 99,
+    "Apelido": "MAQUETES",
+    "CargaHorariaTeorico": 68,
+    "CargaHorariaPratica": null,
+    "ListaPrequisitos": []
+  },
+  {
+    "Id": 46128,
+    "Codigo": "1703.000.295-7",
+    "Tipo": "OPT",
+    "Descricao": "PERSPECTIVAS",
+    "Semestre": 99,
+    "Apelido": "PERSPECTIVAS",
+    "CargaHorariaTeorico": 68,
+    "CargaHorariaPratica": null,
+    "ListaPrequisitos": []
+  },
+  {
+    "Id": 46157,
+    "Codigo": "1703.000.324-8",
+    "Tipo": "OPT",
+    "Descricao": "SUSTENTABILIDADE NA ARQUITETURA E URBANISMO",
+    "Semestre": 99,
+    "Apelido": "SUSTENTABILIDADE NA ARQUITETURA E URBANISMO",
+    "CargaHorariaTeorico": 68,
+    "CargaHorariaPratica": null,
+    "ListaPrequisitos": []
+  },
+  {
+    "Id": 45440,
+    "Codigo": "1703.000.211-5",
+    "Tipo": "OPT",
+    "Descricao": "TÓPICOS CONTEMPORÂNEOS EM AMBIENTE, CIÊNCIA E SOCIEDADE",
+    "Semestre": 99,
+    "Apelido": "TÓPICOS CONTEMPORÂNEOS EM AMBIENTE, CIÊNCIA E SOCIEDADE",
+    "CargaHorariaTeorico": 34,
+    "CargaHorariaPratica": null,
+    "ListaPrequisitos": []
+  },
+  {
+    "Id": 45434,
+    "Codigo": "1703.000.205-3",
+    "Tipo": "OPT",
+    "Descricao": "TÓPICOS CONTEMPORÂNEOS EM ECONOMIA E SOCIEDADE",
+    "Semestre": 99,
+    "Apelido": "TÓPICOS CONTEMPORÂNEOS EM ECONOMIA E SOCIEDADE",
+    "CargaHorariaTeorico": 34,
+    "CargaHorariaPratica": null,
+    "ListaPrequisitos": []
+  },
+  {
+    "Id": 45443,
+    "Codigo": "1703.000.214-2",
+    "Tipo": "OPT",
+    "Descricao": "TÓPICOS CONTEMPORÂNEOS EM POLÍTICA E SOCIEDADE",
+    "Semestre": 99,
+    "Apelido": "TÓPICOS CONTEMPORÂNEOS EM POLÍTICA E SOCIEDADE",
+    "CargaHorariaTeorico": 34,
+    "CargaHorariaPratica": null,
+    "ListaPrequisitos": []
+  },
+  {
+    "Id": 47350,
+    "Codigo": "1703.000.369-6",
+    "Tipo": "OPT",
+    "Descricao": "TÓPICOS EM PROJETO DE ARQUITETURA E URBANISMO I",
+    "Semestre": 99,
+    "Apelido": "TÓPICOS EM PROJETO DE ARQUITETURA E URBANISMO I",
+    "CargaHorariaTeorico": 68,
+    "CargaHorariaPratica": null,
+    "ListaPrequisitos": []
+  },
+  {
+    "Id": 47351,
+    "Codigo": "1703.000.370-2",
+    "Tipo": "OPT",
+    "Descricao": "TÓPICOS EM PROJETO DE ARQUITETURA E URBANISMO II",
+    "Semestre": 99,
+    "Apelido": "TÓPICOS EM PROJETO DE ARQUITETURA E URBANISMO II",
+    "CargaHorariaTeorico": 68,
+    "CargaHorariaPratica": null,
+    "ListaPrequisitos": []
+  },
+  {
+    "Id": 47352,
+    "Codigo": "1703.000.371-1",
+    "Tipo": "OPT",
+    "Descricao": "TÓPICOS EM PROJETO DE ARQUITETURA E URBANISMO III",
+    "Semestre": 99,
+    "Apelido": "TÓPICOS EM PROJETO DE ARQUITETURA E URBANISMO III",
+    "CargaHorariaTeorico": 68,
+    "CargaHorariaPratica": null,
+    "ListaPrequisitos": []
+  },
+  {
+    "Id": 47355,
+    "Codigo": "1703.000.374-9",
+    "Tipo": "OPT",
+    "Descricao": "TÓPICOS EM REPRESENTAÇÃO E LINGUAGEM I",
+    "Semestre": 99,
+    "Apelido": "TÓPICOS EM REPRESENTAÇÃO E LINGUAGEM I",
+    "CargaHorariaTeorico": 68,
+    "CargaHorariaPratica": null,
+    "ListaPrequisitos": []
+  },
+  {
+    "Id": 47356,
+    "Codigo": "1703.000.375-8",
+    "Tipo": "OPT",
+    "Descricao": "TÓPICOS EM REPRESENTAÇÃO E LINGUAGEM II",
+    "Semestre": 99,
+    "Apelido": "TÓPICOS EM REPRESENTAÇÃO E LINGUAGEM II",
+    "CargaHorariaTeorico": 68,
+    "CargaHorariaPratica": null,
+    "ListaPrequisitos": []
+  },
+  {
+    "Id": 47346,
+    "Codigo": "1703.000.365-0",
+    "Tipo": "OPT",
+    "Descricao": "TÓPICOS EM REPRESENTAÇÃO E LINGUAGEM III",
+    "Semestre": 99,
+    "Apelido": "TÓPICOS EM REPRESENTAÇÃO E LINGUAGEM III",
+    "CargaHorariaTeorico": 68,
+    "CargaHorariaPratica": null,
+    "ListaPrequisitos": []
+  },
+  {
+    "Id": 47347,
+    "Codigo": "1703.000.366-9",
+    "Tipo": "OPT",
+    "Descricao": "TÓPICOS EM TECNOLOGIA DA CONSTRUÇÃO I",
+    "Semestre": 99,
+    "Apelido": "TÓPICOS EM TECNOLOGIA DA CONSTRUÇÃO I",
+    "CargaHorariaTeorico": 68,
+    "CargaHorariaPratica": null,
+    "ListaPrequisitos": []
+  },
+  {
+    "Id": 47348,
+    "Codigo": "1703.000.367-8",
+    "Tipo": "OPT",
+    "Descricao": "TÓPICOS EM TECNOLOGIA DA CONSTRUÇÃO II",
+    "Semestre": 99,
+    "Apelido": "TÓPICOS EM TECNOLOGIA DA CONSTRUÇÃO II",
+    "CargaHorariaTeorico": 68,
+    "CargaHorariaPratica": null,
+    "ListaPrequisitos": []
+  },
+  {
+    "Id": 47357,
+    "Codigo": "1703.000.376-7",
+    "Tipo": "OPT",
+    "Descricao": "TÓPICOS EM TECNOLOGIA DA CONSTRUÇÃO III",
+    "Semestre": 99,
+    "Apelido": "TÓPICOS EM TECNOLOGIA DA CONSTRUÇÃO III",
+    "CargaHorariaTeorico": 68,
+    "CargaHorariaPratica": null,
+    "ListaPrequisitos": []
+  },
+  {
+    "Id": 47349,
+    "Codigo": "1703.000.368-7",
+    "Tipo": "OPT",
+    "Descricao": "TÓPICOS EM TEORIA E HISTÓRIA DA ARQUITETURA E URBANISMO I",
+    "Semestre": 99,
+    "Apelido": "TÓPICOS EM TEORIA E HISTÓRIA DA ARQUITETURA E URBANISMO I",
+    "CargaHorariaTeorico": 68,
+    "CargaHorariaPratica": null,
+    "ListaPrequisitos": []
+  },
+  {
+    "Id": 47353,
+    "Codigo": "1703.000.372-0",
+    "Tipo": "OPT",
+    "Descricao": "TÓPICOS EM TEORIA E HISTÓRIA DA ARQUITETURA E URBANISMO II",
+    "Semestre": 99,
+    "Apelido": "TÓPICOS EM TEORIA E HISTÓRIA DA ARQUITETURA E URBANISMO II",
+    "CargaHorariaTeorico": 68,
+    "CargaHorariaPratica": null,
+    "ListaPrequisitos": []
+  },
+  {
+    "Id": 47354,
+    "Codigo": "1703.000.373-0",
+    "Tipo": "OPT",
+    "Descricao": "TÓPICOS EM TEORIA E HISTÓRIA DA ARQUITETURA E URBANISMO III",
+    "Semestre": 99,
+    "Apelido": "TÓPICOS EM TEORIA E HISTÓRIA DA ARQUITETURA E URBANISMO III",
+    "CargaHorariaTeorico": 68,
+    "CargaHorariaPratica": null,
+    "ListaPrequisitos": []
+  }
+]

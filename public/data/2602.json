@@ -1,0 +1,1905 @@
+[
+  {
+    "Id": 41095,
+    "Codigo": "2701.000.004-8",
+    "Tipo": "OBR",
+    "Descricao": "ANATOMIA HUMANA",
+    "Semestre": 1,
+    "Apelido": "ANATOMIA HUMANA",
+    "CargaHorariaTeorico": 68,
+    "CargaHorariaPratica": null,
+    "ListaPrequisitos": []
+  },
+  {
+    "Id": 41103,
+    "Codigo": "2701.000.008-0",
+    "Tipo": "OBR",
+    "Descricao": "BIOLOGIA CELULAR",
+    "Semestre": 1,
+    "Apelido": "BIOLOGIA CELULAR",
+    "CargaHorariaTeorico": 51,
+    "CargaHorariaPratica": null,
+    "ListaPrequisitos": []
+  },
+  {
+    "Id": 45795,
+    "Codigo": "2701.000.303-4",
+    "Tipo": "OBR",
+    "Descricao": "BIOQUÍMICA I",
+    "Semestre": 1,
+    "Apelido": "BIOQUÍMICA I",
+    "CargaHorariaTeorico": 51,
+    "CargaHorariaPratica": null,
+    "ListaPrequisitos": []
+  },
+  {
+    "Id": 41097,
+    "Codigo": "2701.000.006-4",
+    "Tipo": "OBR",
+    "Descricao": "EMBRIOLOGIA",
+    "Semestre": 1,
+    "Apelido": "EMBRIOLOGIA",
+    "CargaHorariaTeorico": 34,
+    "CargaHorariaPratica": null,
+    "ListaPrequisitos": []
+  },
+  {
+    "Id": 47547,
+    "Codigo": "2601.000.395-4",
+    "Tipo": "OBR",
+    "Descricao": "ÉTICA E BIOÉTICA",
+    "Semestre": 1,
+    "Apelido": "ÉTICA E BIOÉTICA",
+    "CargaHorariaTeorico": 34,
+    "CargaHorariaPratica": null,
+    "ListaPrequisitos": []
+  },
+  {
+    "Id": 43049,
+    "Codigo": "2701.000.260-9",
+    "Tipo": "OBR",
+    "Descricao": "GENÉTICA HUMANA",
+    "Semestre": 1,
+    "Apelido": "GENÉTICA HUMANA",
+    "CargaHorariaTeorico": 34,
+    "CargaHorariaPratica": null,
+    "ListaPrequisitos": []
+  },
+  {
+    "Id": 45929,
+    "Codigo": "2701.000.305-2",
+    "Tipo": "OBR",
+    "Descricao": "HISTOLOGIA",
+    "Semestre": 1,
+    "Apelido": "HISTOLOGIA",
+    "CargaHorariaTeorico": 51,
+    "CargaHorariaPratica": null,
+    "ListaPrequisitos": []
+  },
+  {
+    "Id": 45928,
+    "Codigo": "2601.000.360-4",
+    "Tipo": "OBR",
+    "Descricao": "METODOLOGIA CIENTÍFICA",
+    "Semestre": 1,
+    "Apelido": "METODOLOGIA CIENTÍFICA",
+    "CargaHorariaTeorico": 34,
+    "CargaHorariaPratica": null,
+    "ListaPrequisitos": []
+  },
+  {
+    "Id": 41143,
+    "Codigo": "2601.000.041-4",
+    "Tipo": "OBR",
+    "Descricao": "NUTRIÇÃO BÁSICA",
+    "Semestre": 1,
+    "Apelido": "NUTRIÇÃO BÁSICA",
+    "CargaHorariaTeorico": 34,
+    "CargaHorariaPratica": null,
+    "ListaPrequisitos": []
+  },
+  {
+    "Id": 45753,
+    "Codigo": "2701.000.302-5",
+    "Tipo": "OBR",
+    "Descricao": "BIOQUÍMICA II",
+    "Semestre": 2,
+    "Apelido": "BIOQUÍMICA II",
+    "CargaHorariaTeorico": 51,
+    "CargaHorariaPratica": null,
+    "ListaPrequisitos": [
+      {
+        "Id": 45795,
+        "Codigo": "2701.000.303-4",
+        "Descricao": "BIOQUÍMICA I",
+        "Semestre": "0",
+        "Apelido": "BIOQUÍMICA I",
+        "CargaHorariaTeorico": 0,
+        "CargaHorariaPratica": 0,
+        "ListaPrequisitos": []
+      }
+    ]
+  },
+  {
+    "Id": 45919,
+    "Codigo": "2701.000.304-3",
+    "Tipo": "OBR",
+    "Descricao": "FISIOLOGIA HUMANA I",
+    "Semestre": 2,
+    "Apelido": "FISIOLOGIA HUMANA I",
+    "CargaHorariaTeorico": 51,
+    "CargaHorariaPratica": null,
+    "ListaPrequisitos": [
+      {
+        "Id": 41095,
+        "Codigo": "2701.000.004-8",
+        "Descricao": "ANATOMIA HUMANA",
+        "Semestre": "0",
+        "Apelido": "ANATOMIA HUMANA",
+        "CargaHorariaTeorico": 0,
+        "CargaHorariaPratica": 0,
+        "ListaPrequisitos": []
+      }
+    ]
+  },
+  {
+    "Id": 41094,
+    "Codigo": "2701.000.003-0",
+    "Tipo": "OBR",
+    "Descricao": "IMUNOLOGIA",
+    "Semestre": 2,
+    "Apelido": "IMUNOLOGIA",
+    "CargaHorariaTeorico": 51,
+    "CargaHorariaPratica": null,
+    "ListaPrequisitos": []
+  },
+  {
+    "Id": 43047,
+    "Codigo": "2701.000.258-3",
+    "Tipo": "OBR",
+    "Descricao": "PARASITOLOGIA",
+    "Semestre": 2,
+    "Apelido": "PARASITOLOGIA",
+    "CargaHorariaTeorico": 34,
+    "CargaHorariaPratica": null,
+    "ListaPrequisitos": []
+  },
+  {
+    "Id": 42981,
+    "Codigo": "3001.000.361-6",
+    "Tipo": "OBR",
+    "Descricao": "PSICOLOGIA",
+    "Semestre": 2,
+    "Apelido": "PSICOLOGIA",
+    "CargaHorariaTeorico": 34,
+    "CargaHorariaPratica": null,
+    "ListaPrequisitos": []
+  },
+  {
+    "Id": 45924,
+    "Codigo": "2601.000.356-0",
+    "Tipo": "OBR",
+    "Descricao": "QUÍMICA DOS ALIMENTOS",
+    "Semestre": 2,
+    "Apelido": "QUÍMICA DOS ALIMENTOS",
+    "CargaHorariaTeorico": 51,
+    "CargaHorariaPratica": null,
+    "ListaPrequisitos": []
+  },
+  {
+    "Id": 45920,
+    "Codigo": "2601.000.352-4",
+    "Tipo": "OBR",
+    "Descricao": "SAÚDE COLETIVA",
+    "Semestre": 2,
+    "Apelido": "SAÚDE COLETIVA",
+    "CargaHorariaTeorico": 34,
+    "CargaHorariaPratica": null,
+    "ListaPrequisitos": []
+  },
+  {
+    "Id": 45926,
+    "Codigo": "2601.000.358-9",
+    "Tipo": "OBR",
+    "Descricao": "SOCIOLOGIA E ANTROPOLOGIA DA ALIMENTAÇÃO",
+    "Semestre": 2,
+    "Apelido": "SOCIOLOGIA E ANTROPOLOGIA DA ALIMENTAÇÃO",
+    "CargaHorariaTeorico": 51,
+    "CargaHorariaPratica": null,
+    "ListaPrequisitos": []
+  },
+  {
+    "Id": 41108,
+    "Codigo": "2601.000.007-4",
+    "Tipo": "OBR",
+    "Descricao": "TÉCNICA DIETÉTICA I",
+    "Semestre": 2,
+    "Apelido": "TÉCNICA DIETÉTICA I",
+    "CargaHorariaTeorico": 68,
+    "CargaHorariaPratica": null,
+    "ListaPrequisitos": [
+      {
+        "Id": 41143,
+        "Codigo": "2601.000.041-4",
+        "Descricao": "NUTRIÇÃO BÁSICA",
+        "Semestre": "0",
+        "Apelido": "NUTRIÇÃO BÁSICA",
+        "CargaHorariaTeorico": 0,
+        "CargaHorariaPratica": 0,
+        "ListaPrequisitos": []
+      }
+    ]
+  },
+  {
+    "Id": 41115,
+    "Codigo": "2601.000.014-7",
+    "Tipo": "OBR",
+    "Descricao": "TOXICOLOGIA DOS ALIMENTOS",
+    "Semestre": 2,
+    "Apelido": "TOXICOLOGIA DOS ALIMENTOS",
+    "CargaHorariaTeorico": 34,
+    "CargaHorariaPratica": null,
+    "ListaPrequisitos": []
+  },
+  {
+    "Id": 41109,
+    "Codigo": "2601.000.008-2",
+    "Tipo": "OBR",
+    "Descricao": "AVALIAÇÃO NUTRICIONAL I",
+    "Semestre": 3,
+    "Apelido": "AVALIAÇÃO NUTRICIONAL I",
+    "CargaHorariaTeorico": 68,
+    "CargaHorariaPratica": null,
+    "ListaPrequisitos": []
+  },
+  {
+    "Id": 41145,
+    "Codigo": "2601.000.042-2",
+    "Tipo": "OBR",
+    "Descricao": "BROMATOLOGIA",
+    "Semestre": 3,
+    "Apelido": "BROMATOLOGIA",
+    "CargaHorariaTeorico": 68,
+    "CargaHorariaPratica": null,
+    "ListaPrequisitos": [
+      {
+        "Id": 45924,
+        "Codigo": "2601.000.356-0",
+        "Descricao": "QUÍMICA DOS ALIMENTOS",
+        "Semestre": "0",
+        "Apelido": "QUÍMICA DOS ALIMENTOS",
+        "CargaHorariaTeorico": 0,
+        "CargaHorariaPratica": 0,
+        "ListaPrequisitos": []
+      }
+    ]
+  },
+  {
+    "Id": 41111,
+    "Codigo": "2601.000.010-4",
+    "Tipo": "OBR",
+    "Descricao": "EPIDEMIOLOGIA",
+    "Semestre": 3,
+    "Apelido": "EPIDEMIOLOGIA",
+    "CargaHorariaTeorico": 34,
+    "CargaHorariaPratica": null,
+    "ListaPrequisitos": []
+  },
+  {
+    "Id": 41146,
+    "Codigo": "2701.000.013-7",
+    "Tipo": "OBR",
+    "Descricao": "FISIOLOGIA HUMANA II",
+    "Semestre": 3,
+    "Apelido": "FISIOLOGIA HUMANA II",
+    "CargaHorariaTeorico": 51,
+    "CargaHorariaPratica": null,
+    "ListaPrequisitos": [
+      {
+        "Id": 45919,
+        "Codigo": "2701.000.304-3",
+        "Descricao": "FISIOLOGIA HUMANA I",
+        "Semestre": "0",
+        "Apelido": "FISIOLOGIA HUMANA I",
+        "CargaHorariaTeorico": 0,
+        "CargaHorariaPratica": 0,
+        "ListaPrequisitos": []
+      }
+    ]
+  },
+  {
+    "Id": 41102,
+    "Codigo": "2601.000.004-0",
+    "Tipo": "OBR",
+    "Descricao": "MICROBIOLOGIA DE ALIMENTOS",
+    "Semestre": 3,
+    "Apelido": "MICROBIOLOGIA DE ALIMENTOS",
+    "CargaHorariaTeorico": 68,
+    "CargaHorariaPratica": null,
+    "ListaPrequisitos": []
+  },
+  {
+    "Id": 41147,
+    "Codigo": "2601.000.043-0",
+    "Tipo": "OBR",
+    "Descricao": "NUTRIÇÃO E DIETÉTICA I",
+    "Semestre": 3,
+    "Apelido": "NUTRIÇÃO E DIETÉTICA I",
+    "CargaHorariaTeorico": 34,
+    "CargaHorariaPratica": null,
+    "ListaPrequisitos": [
+      {
+        "Id": 41143,
+        "Codigo": "2601.000.041-4",
+        "Descricao": "NUTRIÇÃO BÁSICA",
+        "Semestre": "0",
+        "Apelido": "NUTRIÇÃO BÁSICA",
+        "CargaHorariaTeorico": 0,
+        "CargaHorariaPratica": 0,
+        "ListaPrequisitos": []
+      }
+    ]
+  },
+  {
+    "Id": 45911,
+    "Codigo": "2601.000.344-4",
+    "Tipo": "OBR",
+    "Descricao": "POLÍTICAS PÚBLICAS DE SAÚDE",
+    "Semestre": 3,
+    "Apelido": "POLÍTICAS PÚBLICAS DE SAÚDE",
+    "CargaHorariaTeorico": 51,
+    "CargaHorariaPratica": null,
+    "ListaPrequisitos": [
+      {
+        "Id": 45920,
+        "Codigo": "2601.000.352-4",
+        "Descricao": "SAÚDE COLETIVA",
+        "Semestre": "0",
+        "Apelido": "SAÚDE COLETIVA",
+        "CargaHorariaTeorico": 0,
+        "CargaHorariaPratica": 0,
+        "ListaPrequisitos": []
+      }
+    ]
+  },
+  {
+    "Id": 41114,
+    "Codigo": "2601.000.013-9",
+    "Tipo": "OBR",
+    "Descricao": "TÉCNICA DIETÉTICA II",
+    "Semestre": 3,
+    "Apelido": "TÉCNICA DIETÉTICA II",
+    "CargaHorariaTeorico": 68,
+    "CargaHorariaPratica": null,
+    "ListaPrequisitos": [
+      {
+        "Id": 41108,
+        "Codigo": "2601.000.007-4",
+        "Descricao": "TÉCNICA DIETÉTICA I",
+        "Semestre": "0",
+        "Apelido": "TÉCNICA DIETÉTICA I",
+        "CargaHorariaTeorico": 0,
+        "CargaHorariaPratica": 0,
+        "ListaPrequisitos": []
+      }
+    ]
+  },
+  {
+    "Id": 41148,
+    "Codigo": "2601.000.044-9",
+    "Tipo": "OBR",
+    "Descricao": "ALIMENTAÇÃO COLETIVA I",
+    "Semestre": 4,
+    "Apelido": "ALIMENTAÇÃO COLETIVA I",
+    "CargaHorariaTeorico": 51,
+    "CargaHorariaPratica": null,
+    "ListaPrequisitos": []
+  },
+  {
+    "Id": 41113,
+    "Codigo": "2601.000.012-0",
+    "Tipo": "OBR",
+    "Descricao": "AVALIAÇÃO NUTRICIONAL II",
+    "Semestre": 4,
+    "Apelido": "AVALIAÇÃO NUTRICIONAL II",
+    "CargaHorariaTeorico": 68,
+    "CargaHorariaPratica": null,
+    "ListaPrequisitos": [
+      {
+        "Id": 41109,
+        "Codigo": "2601.000.008-2",
+        "Descricao": "AVALIAÇÃO NUTRICIONAL I",
+        "Semestre": "0",
+        "Apelido": "AVALIAÇÃO NUTRICIONAL I",
+        "CargaHorariaTeorico": 0,
+        "CargaHorariaPratica": 0,
+        "ListaPrequisitos": []
+      }
+    ]
+  },
+  {
+    "Id": 41421,
+    "Codigo": "2801.000.095-0",
+    "Tipo": "OBR",
+    "Descricao": "BIOESTATÍSTICA",
+    "Semestre": 4,
+    "Apelido": "BIOESTATÍSTICA",
+    "CargaHorariaTeorico": 34,
+    "CargaHorariaPratica": null,
+    "ListaPrequisitos": []
+  },
+  {
+    "Id": 45921,
+    "Codigo": "2601.000.353-3",
+    "Tipo": "OBR",
+    "Descricao": "ECONOMIA E MARKETING",
+    "Semestre": 4,
+    "Apelido": "ECONOMIA E MARKETING",
+    "CargaHorariaTeorico": 34,
+    "CargaHorariaPratica": null,
+    "ListaPrequisitos": []
+  },
+  {
+    "Id": 47555,
+    "Codigo": "2601.000.403-0",
+    "Tipo": "OBR",
+    "Descricao": "HIGIENE, CONTROLE E LEGISLAÇÃO DE ALIMENTOS",
+    "Semestre": 4,
+    "Apelido": "HIGIENE, CONTROLE E LEGISLAÇÃO DE ALIMENTOS",
+    "CargaHorariaTeorico": 34,
+    "CargaHorariaPratica": null,
+    "ListaPrequisitos": [
+      {
+        "Id": 45924,
+        "Codigo": "2601.000.356-0",
+        "Descricao": "QUÍMICA DOS ALIMENTOS",
+        "Semestre": "0",
+        "Apelido": "QUÍMICA DOS ALIMENTOS",
+        "CargaHorariaTeorico": 0,
+        "CargaHorariaPratica": 0,
+        "ListaPrequisitos": []
+      }
+    ]
+  },
+  {
+    "Id": 41119,
+    "Codigo": "2601.000.018-0",
+    "Tipo": "OBR",
+    "Descricao": "NUTRIÇÃO E DIETÉTICA II",
+    "Semestre": 4,
+    "Apelido": "NUTRIÇÃO E DIETÉTICA II",
+    "CargaHorariaTeorico": 68,
+    "CargaHorariaPratica": null,
+    "ListaPrequisitos": [
+      {
+        "Id": 41147,
+        "Codigo": "2601.000.043-0",
+        "Descricao": "NUTRIÇÃO E DIETÉTICA I",
+        "Semestre": "0",
+        "Apelido": "NUTRIÇÃO E DIETÉTICA I",
+        "CargaHorariaTeorico": 0,
+        "CargaHorariaPratica": 0,
+        "ListaPrequisitos": []
+      }
+    ]
+  },
+  {
+    "Id": 45922,
+    "Codigo": "2601.000.354-2",
+    "Tipo": "OBR",
+    "Descricao": "NUTRIÇÃO E METABOLISMO",
+    "Semestre": 4,
+    "Apelido": "NUTRIÇÃO E METABOLISMO",
+    "CargaHorariaTeorico": 68,
+    "CargaHorariaPratica": null,
+    "ListaPrequisitos": [
+      {
+        "Id": 45753,
+        "Codigo": "2701.000.302-5",
+        "Descricao": "BIOQUÍMICA II",
+        "Semestre": "0",
+        "Apelido": "BIOQUÍMICA II",
+        "CargaHorariaTeorico": 0,
+        "CargaHorariaPratica": 0,
+        "ListaPrequisitos": []
+      }
+    ]
+  },
+  {
+    "Id": 43046,
+    "Codigo": "2701.000.257-4",
+    "Tipo": "OBR",
+    "Descricao": "PATOLOGIA GERAL",
+    "Semestre": 4,
+    "Apelido": "PATOLOGIA GERAL",
+    "CargaHorariaTeorico": 51,
+    "CargaHorariaPratica": null,
+    "ListaPrequisitos": [
+      {
+        "Id": 41095,
+        "Codigo": "2701.000.004-8",
+        "Descricao": "ANATOMIA HUMANA",
+        "Semestre": "0",
+        "Apelido": "ANATOMIA HUMANA",
+        "CargaHorariaTeorico": 0,
+        "CargaHorariaPratica": 0,
+        "ListaPrequisitos": []
+      },
+      {
+        "Id": 41146,
+        "Codigo": "2701.000.013-7",
+        "Descricao": "FISIOLOGIA HUMANA II",
+        "Semestre": "0",
+        "Apelido": "FISIOLOGIA HUMANA II",
+        "CargaHorariaTeorico": 0,
+        "CargaHorariaPratica": 0,
+        "ListaPrequisitos": []
+      },
+      {
+        "Id": 45929,
+        "Codigo": "2701.000.305-2",
+        "Descricao": "HISTOLOGIA",
+        "Semestre": "0",
+        "Apelido": "HISTOLOGIA",
+        "CargaHorariaTeorico": 0,
+        "CargaHorariaPratica": 0,
+        "ListaPrequisitos": []
+      }
+    ]
+  },
+  {
+    "Id": 45914,
+    "Codigo": "2601.000.347-1",
+    "Tipo": "OBR",
+    "Descricao": "POLÍTICAS PÚBLICAS DE ALIMENTAÇÃO E NUTRIÇÃO",
+    "Semestre": 4,
+    "Apelido": "POLÍTICAS PÚBLICAS DE ALIMENTAÇÃO E NUTRIÇÃO",
+    "CargaHorariaTeorico": 51,
+    "CargaHorariaPratica": null,
+    "ListaPrequisitos": [
+      {
+        "Id": 45911,
+        "Codigo": "2601.000.344-4",
+        "Descricao": "POLÍTICAS PÚBLICAS DE SAÚDE",
+        "Semestre": "0",
+        "Apelido": "POLÍTICAS PÚBLICAS DE SAÚDE",
+        "CargaHorariaTeorico": 0,
+        "CargaHorariaPratica": 0,
+        "ListaPrequisitos": []
+      }
+    ]
+  },
+  {
+    "Id": 43044,
+    "Codigo": "2601.000.194-0",
+    "Tipo": "OBR",
+    "Descricao": "ALIMENTAÇÃO COLETIVA II",
+    "Semestre": 5,
+    "Apelido": "ALIMENTAÇÃO COLETIVA II",
+    "CargaHorariaTeorico": 51,
+    "CargaHorariaPratica": null,
+    "ListaPrequisitos": []
+  },
+  {
+    "Id": 45927,
+    "Codigo": "2601.000.359-8",
+    "Tipo": "OBR",
+    "Descricao": "EDUCAÇÃO ALIMENTAR E NUTRICIONAL",
+    "Semestre": 5,
+    "Apelido": "EDUCAÇÃO ALIMENTAR E NUTRICIONAL",
+    "CargaHorariaTeorico": 51,
+    "CargaHorariaPratica": null,
+    "ListaPrequisitos": [
+      {
+        "Id": 41119,
+        "Codigo": "2601.000.018-0",
+        "Descricao": "NUTRIÇÃO E DIETÉTICA II",
+        "Semestre": "0",
+        "Apelido": "NUTRIÇÃO E DIETÉTICA II",
+        "CargaHorariaTeorico": 0,
+        "CargaHorariaPratica": 0,
+        "ListaPrequisitos": []
+      },
+      {
+        "Id": 45911,
+        "Codigo": "2601.000.344-4",
+        "Descricao": "POLÍTICAS PÚBLICAS DE SAÚDE",
+        "Semestre": "0",
+        "Apelido": "POLÍTICAS PÚBLICAS DE SAÚDE",
+        "CargaHorariaTeorico": 0,
+        "CargaHorariaPratica": 0,
+        "ListaPrequisitos": []
+      }
+    ]
+  },
+  {
+    "Id": 41150,
+    "Codigo": "2601.000.046-5",
+    "Tipo": "OBR",
+    "Descricao": "FARMACOLOGIA",
+    "Semestre": 5,
+    "Apelido": "FARMACOLOGIA",
+    "CargaHorariaTeorico": 34,
+    "CargaHorariaPratica": null,
+    "ListaPrequisitos": [
+      {
+        "Id": 41146,
+        "Codigo": "2701.000.013-7",
+        "Descricao": "FISIOLOGIA HUMANA II",
+        "Semestre": "0",
+        "Apelido": "FISIOLOGIA HUMANA II",
+        "CargaHorariaTeorico": 0,
+        "CargaHorariaPratica": 0,
+        "ListaPrequisitos": []
+      },
+      {
+        "Id": 45753,
+        "Codigo": "2701.000.302-5",
+        "Descricao": "BIOQUÍMICA II",
+        "Semestre": "0",
+        "Apelido": "BIOQUÍMICA II",
+        "CargaHorariaTeorico": 0,
+        "CargaHorariaPratica": 0,
+        "ListaPrequisitos": []
+      }
+    ]
+  },
+  {
+    "Id": 45915,
+    "Codigo": "2601.000.348-0",
+    "Tipo": "OBR",
+    "Descricao": "FISIOPATOLOGIA DA NUTRIÇÃO E DIETOTERAPIA I",
+    "Semestre": 5,
+    "Apelido": "FISIOPATOLOGIA DA NUTRIÇÃO E DIETOTERAPIA I",
+    "CargaHorariaTeorico": 68,
+    "CargaHorariaPratica": null,
+    "ListaPrequisitos": [
+      {
+        "Id": 41113,
+        "Codigo": "2601.000.012-0",
+        "Descricao": "AVALIAÇÃO NUTRICIONAL II",
+        "Semestre": "0",
+        "Apelido": "AVALIAÇÃO NUTRICIONAL II",
+        "CargaHorariaTeorico": 0,
+        "CargaHorariaPratica": 0,
+        "ListaPrequisitos": []
+      },
+      {
+        "Id": 41119,
+        "Codigo": "2601.000.018-0",
+        "Descricao": "NUTRIÇÃO E DIETÉTICA II",
+        "Semestre": "0",
+        "Apelido": "NUTRIÇÃO E DIETÉTICA II",
+        "CargaHorariaTeorico": 0,
+        "CargaHorariaPratica": 0,
+        "ListaPrequisitos": []
+      },
+      {
+        "Id": 43046,
+        "Codigo": "2701.000.257-4",
+        "Descricao": "PATOLOGIA GERAL",
+        "Semestre": "0",
+        "Apelido": "PATOLOGIA GERAL",
+        "CargaHorariaTeorico": 0,
+        "CargaHorariaPratica": 0,
+        "ListaPrequisitos": []
+      },
+      {
+        "Id": 45922,
+        "Codigo": "2601.000.354-2",
+        "Descricao": "NUTRIÇÃO E METABOLISMO",
+        "Semestre": "0",
+        "Apelido": "NUTRIÇÃO E METABOLISMO",
+        "CargaHorariaTeorico": 0,
+        "CargaHorariaPratica": 0,
+        "ListaPrequisitos": []
+      }
+    ]
+  },
+  {
+    "Id": 45912,
+    "Codigo": "2601.000.345-3",
+    "Tipo": "OBR",
+    "Descricao": "NUTRIÇÃO E DIETÉTICA III",
+    "Semestre": 5,
+    "Apelido": "NUTRIÇÃO E DIETÉTICA III",
+    "CargaHorariaTeorico": 68,
+    "CargaHorariaPratica": null,
+    "ListaPrequisitos": [
+      {
+        "Id": 41119,
+        "Codigo": "2601.000.018-0",
+        "Descricao": "NUTRIÇÃO E DIETÉTICA II",
+        "Semestre": "0",
+        "Apelido": "NUTRIÇÃO E DIETÉTICA II",
+        "CargaHorariaTeorico": 0,
+        "CargaHorariaPratica": 0,
+        "ListaPrequisitos": []
+      }
+    ]
+  },
+  {
+    "Id": 45908,
+    "Codigo": "2601.000.341-7",
+    "Tipo": "OBR",
+    "Descricao": "NUTRIÇÃO E ESPORTE",
+    "Semestre": 5,
+    "Apelido": "NUTRIÇÃO E ESPORTE",
+    "CargaHorariaTeorico": 51,
+    "CargaHorariaPratica": null,
+    "ListaPrequisitos": [
+      {
+        "Id": 41113,
+        "Codigo": "2601.000.012-0",
+        "Descricao": "AVALIAÇÃO NUTRICIONAL II",
+        "Semestre": "0",
+        "Apelido": "AVALIAÇÃO NUTRICIONAL II",
+        "CargaHorariaTeorico": 0,
+        "CargaHorariaPratica": 0,
+        "ListaPrequisitos": []
+      },
+      {
+        "Id": 41119,
+        "Codigo": "2601.000.018-0",
+        "Descricao": "NUTRIÇÃO E DIETÉTICA II",
+        "Semestre": "0",
+        "Apelido": "NUTRIÇÃO E DIETÉTICA II",
+        "CargaHorariaTeorico": 0,
+        "CargaHorariaPratica": 0,
+        "ListaPrequisitos": []
+      },
+      {
+        "Id": 45922,
+        "Codigo": "2601.000.354-2",
+        "Descricao": "NUTRIÇÃO E METABOLISMO",
+        "Semestre": "0",
+        "Apelido": "NUTRIÇÃO E METABOLISMO",
+        "CargaHorariaTeorico": 0,
+        "CargaHorariaPratica": 0,
+        "ListaPrequisitos": []
+      }
+    ]
+  },
+  {
+    "Id": 45923,
+    "Codigo": "2601.000.355-1",
+    "Tipo": "OBR",
+    "Descricao": "NUTRIÇÃO EXPERIMENTAL",
+    "Semestre": 5,
+    "Apelido": "NUTRIÇÃO EXPERIMENTAL",
+    "CargaHorariaTeorico": 34,
+    "CargaHorariaPratica": null,
+    "ListaPrequisitos": []
+  },
+  {
+    "Id": 47556,
+    "Codigo": "2601.000.404-9",
+    "Tipo": "OBR",
+    "Descricao": "ALIMENTAÇÃO COLETIVA III",
+    "Semestre": 6,
+    "Apelido": "ALIMENTAÇÃO COLETIVA III",
+    "CargaHorariaTeorico": 51,
+    "CargaHorariaPratica": null,
+    "ListaPrequisitos": []
+  },
+  {
+    "Id": 41122,
+    "Codigo": "2601.000.021-0",
+    "Tipo": "OBR",
+    "Descricao": "ÉTICA PROFISSIONAL E LEGISLAÇÃO",
+    "Semestre": 6,
+    "Apelido": "ÉTICA PROFISSIONAL E LEGISLAÇÃO",
+    "CargaHorariaTeorico": 34,
+    "CargaHorariaPratica": null,
+    "ListaPrequisitos": []
+  },
+  {
+    "Id": 45917,
+    "Codigo": "2601.000.350-6",
+    "Tipo": "OBR",
+    "Descricao": "FISIOPATOLOGIA DA NUTRIÇÃO E DIETOTERAPIA II",
+    "Semestre": 6,
+    "Apelido": "FISIOPATOLOGIA DA NUTRIÇÃO E DIETOTERAPIA II",
+    "CargaHorariaTeorico": 68,
+    "CargaHorariaPratica": null,
+    "ListaPrequisitos": [
+      {
+        "Id": 45915,
+        "Codigo": "2601.000.348-0",
+        "Descricao": "FISIOPATOLOGIA DA NUTRIÇÃO E DIETOTERAPIA I",
+        "Semestre": "0",
+        "Apelido": "FISIOPATOLOGIA DA NUTRIÇÃO E DIETOTERAPIA I",
+        "CargaHorariaTeorico": 0,
+        "CargaHorariaPratica": 0,
+        "ListaPrequisitos": []
+      }
+    ]
+  },
+  {
+    "Id": 45918,
+    "Codigo": "2601.000.351-5",
+    "Tipo": "OBR",
+    "Descricao": "METODOLOGIA DO TRABALHO DE CONCLUSÃO DE CURSO",
+    "Semestre": 6,
+    "Apelido": "METODOLOGIA DO TRABALHO DE CONCLUSÃO DE CURSO",
+    "CargaHorariaTeorico": 34,
+    "CargaHorariaPratica": null,
+    "ListaPrequisitos": [
+      {
+        "Id": 43044,
+        "Codigo": "2601.000.194-0",
+        "Descricao": "ALIMENTAÇÃO COLETIVA II",
+        "Semestre": "0",
+        "Apelido": "ALIMENTAÇÃO COLETIVA II",
+        "CargaHorariaTeorico": 0,
+        "CargaHorariaPratica": 0,
+        "ListaPrequisitos": []
+      },
+      {
+        "Id": 45914,
+        "Codigo": "2601.000.347-1",
+        "Descricao": "POLÍTICAS PÚBLICAS DE ALIMENTAÇÃO E NUTRIÇÃO",
+        "Semestre": "0",
+        "Apelido": "POLÍTICAS PÚBLICAS DE ALIMENTAÇÃO E NUTRIÇÃO",
+        "CargaHorariaTeorico": 0,
+        "CargaHorariaPratica": 0,
+        "ListaPrequisitos": []
+      },
+      {
+        "Id": 45915,
+        "Codigo": "2601.000.348-0",
+        "Descricao": "FISIOPATOLOGIA DA NUTRIÇÃO E DIETOTERAPIA I",
+        "Semestre": "0",
+        "Apelido": "FISIOPATOLOGIA DA NUTRIÇÃO E DIETOTERAPIA I",
+        "CargaHorariaTeorico": 0,
+        "CargaHorariaPratica": 0,
+        "ListaPrequisitos": []
+      },
+      {
+        "Id": 45928,
+        "Codigo": "2601.000.360-4",
+        "Descricao": "METODOLOGIA CIENTÍFICA",
+        "Semestre": "0",
+        "Apelido": "METODOLOGIA CIENTÍFICA",
+        "CargaHorariaTeorico": 0,
+        "CargaHorariaPratica": 0,
+        "ListaPrequisitos": []
+      }
+    ]
+  },
+  {
+    "Id": 41159,
+    "Codigo": "2601.000.055-4",
+    "Tipo": "OBR",
+    "Descricao": "NUTRIÇÃO CLÍNICA EM PEDIATRIA",
+    "Semestre": 6,
+    "Apelido": "NUTRIÇÃO CLÍNICA EM PEDIATRIA",
+    "CargaHorariaTeorico": 51,
+    "CargaHorariaPratica": null,
+    "ListaPrequisitos": [
+      {
+        "Id": 45912,
+        "Codigo": "2601.000.345-3",
+        "Descricao": "NUTRIÇÃO E DIETÉTICA III",
+        "Semestre": "0",
+        "Apelido": "NUTRIÇÃO E DIETÉTICA III",
+        "CargaHorariaTeorico": 0,
+        "CargaHorariaPratica": 0,
+        "ListaPrequisitos": []
+      }
+    ]
+  },
+  {
+    "Id": 43045,
+    "Codigo": "2601.000.195-0",
+    "Tipo": "OBR",
+    "Descricao": "SAÚDE E NUTRIÇÃO DE POPULAÇÕES INDÍGENAS",
+    "Semestre": 6,
+    "Apelido": "SAÚDE E NUTRIÇÃO DE POPULAÇÕES INDÍGENAS",
+    "CargaHorariaTeorico": 34,
+    "CargaHorariaPratica": null,
+    "ListaPrequisitos": [
+      {
+        "Id": 41111,
+        "Codigo": "2601.000.010-4",
+        "Descricao": "EPIDEMIOLOGIA",
+        "Semestre": "0",
+        "Apelido": "EPIDEMIOLOGIA",
+        "CargaHorariaTeorico": 0,
+        "CargaHorariaPratica": 0,
+        "ListaPrequisitos": []
+      },
+      {
+        "Id": 45914,
+        "Codigo": "2601.000.347-1",
+        "Descricao": "POLÍTICAS PÚBLICAS DE ALIMENTAÇÃO E NUTRIÇÃO",
+        "Semestre": "0",
+        "Apelido": "POLÍTICAS PÚBLICAS DE ALIMENTAÇÃO E NUTRIÇÃO",
+        "CargaHorariaTeorico": 0,
+        "CargaHorariaPratica": 0,
+        "ListaPrequisitos": []
+      }
+    ]
+  },
+  {
+    "Id": 41154,
+    "Codigo": "2601.000.050-3",
+    "Tipo": "OBR",
+    "Descricao": "TECNOLOGIA DE ALIMENTOS",
+    "Semestre": 6,
+    "Apelido": "TECNOLOGIA DE ALIMENTOS",
+    "CargaHorariaTeorico": 68,
+    "CargaHorariaPratica": null,
+    "ListaPrequisitos": [
+      {
+        "Id": 41145,
+        "Codigo": "2601.000.042-2",
+        "Descricao": "BROMATOLOGIA",
+        "Semestre": "0",
+        "Apelido": "BROMATOLOGIA",
+        "CargaHorariaTeorico": 0,
+        "CargaHorariaPratica": 0,
+        "ListaPrequisitos": []
+      }
+    ]
+  },
+  {
+    "Id": 45925,
+    "Codigo": "2601.000.357-0",
+    "Tipo": "OBR",
+    "Descricao": "TERAPIA NUTRICIONAL",
+    "Semestre": 6,
+    "Apelido": "TERAPIA NUTRICIONAL",
+    "CargaHorariaTeorico": 34,
+    "CargaHorariaPratica": null,
+    "ListaPrequisitos": [
+      {
+        "Id": 41113,
+        "Codigo": "2601.000.012-0",
+        "Descricao": "AVALIAÇÃO NUTRICIONAL II",
+        "Semestre": "0",
+        "Apelido": "AVALIAÇÃO NUTRICIONAL II",
+        "CargaHorariaTeorico": 0,
+        "CargaHorariaPratica": 0,
+        "ListaPrequisitos": []
+      },
+      {
+        "Id": 41119,
+        "Codigo": "2601.000.018-0",
+        "Descricao": "NUTRIÇÃO E DIETÉTICA II",
+        "Semestre": "0",
+        "Apelido": "NUTRIÇÃO E DIETÉTICA II",
+        "CargaHorariaTeorico": 0,
+        "CargaHorariaPratica": 0,
+        "ListaPrequisitos": []
+      },
+      {
+        "Id": 43046,
+        "Codigo": "2701.000.257-4",
+        "Descricao": "PATOLOGIA GERAL",
+        "Semestre": "0",
+        "Apelido": "PATOLOGIA GERAL",
+        "CargaHorariaTeorico": 0,
+        "CargaHorariaPratica": 0,
+        "ListaPrequisitos": []
+      }
+    ]
+  },
+  {
+    "Id": 45904,
+    "Codigo": "2601.000.337-3",
+    "Tipo": "OBR",
+    "Descricao": "ESTÁGIO OBRIGATÓRIO DE ALIMENTAÇÃO COLETIVA",
+    "Semestre": 7,
+    "Apelido": "ESTÁGIO OBRIGATÓRIO DE ALIMENTAÇÃO COLETIVA",
+    "CargaHorariaTeorico": 204,
+    "CargaHorariaPratica": null,
+    "ListaPrequisitos": [
+      {
+        "Id": 41108,
+        "Codigo": "2601.000.007-4",
+        "Descricao": "TÉCNICA DIETÉTICA I",
+        "Semestre": "0",
+        "Apelido": "TÉCNICA DIETÉTICA I",
+        "CargaHorariaTeorico": 0,
+        "CargaHorariaPratica": 0,
+        "ListaPrequisitos": []
+      },
+      {
+        "Id": 41114,
+        "Codigo": "2601.000.013-9",
+        "Descricao": "TÉCNICA DIETÉTICA II",
+        "Semestre": "0",
+        "Apelido": "TÉCNICA DIETÉTICA II",
+        "CargaHorariaTeorico": 0,
+        "CargaHorariaPratica": 0,
+        "ListaPrequisitos": []
+      },
+      {
+        "Id": 41148,
+        "Codigo": "2601.000.044-9",
+        "Descricao": "ALIMENTAÇÃO COLETIVA I",
+        "Semestre": "0",
+        "Apelido": "ALIMENTAÇÃO COLETIVA I",
+        "CargaHorariaTeorico": 0,
+        "CargaHorariaPratica": 0,
+        "ListaPrequisitos": []
+      },
+      {
+        "Id": 43044,
+        "Codigo": "2601.000.194-0",
+        "Descricao": "ALIMENTAÇÃO COLETIVA II",
+        "Semestre": "0",
+        "Apelido": "ALIMENTAÇÃO COLETIVA II",
+        "CargaHorariaTeorico": 0,
+        "CargaHorariaPratica": 0,
+        "ListaPrequisitos": []
+      },
+      {
+        "Id": 47556,
+        "Codigo": "2601.000.404-9",
+        "Descricao": "ALIMENTAÇÃO COLETIVA III",
+        "Semestre": "0",
+        "Apelido": "ALIMENTAÇÃO COLETIVA III",
+        "CargaHorariaTeorico": 0,
+        "CargaHorariaPratica": 0,
+        "ListaPrequisitos": []
+      }
+    ]
+  },
+  {
+    "Id": 45916,
+    "Codigo": "2601.000.349-0",
+    "Tipo": "OBR",
+    "Descricao": "ESTÁGIO OBRIGATÓRIO EM NUTRIÇÃO CLÍNICA",
+    "Semestre": 7,
+    "Apelido": "ESTÁGIO OBRIGATÓRIO EM NUTRIÇÃO CLÍNICA",
+    "CargaHorariaTeorico": 204,
+    "CargaHorariaPratica": null,
+    "ListaPrequisitos": [
+      {
+        "Id": 41150,
+        "Codigo": "2601.000.046-5",
+        "Descricao": "FARMACOLOGIA",
+        "Semestre": "0",
+        "Apelido": "FARMACOLOGIA",
+        "CargaHorariaTeorico": 0,
+        "CargaHorariaPratica": 0,
+        "ListaPrequisitos": []
+      },
+      {
+        "Id": 41159,
+        "Codigo": "2601.000.055-4",
+        "Descricao": "NUTRIÇÃO CLÍNICA EM PEDIATRIA",
+        "Semestre": "0",
+        "Apelido": "NUTRIÇÃO CLÍNICA EM PEDIATRIA",
+        "CargaHorariaTeorico": 0,
+        "CargaHorariaPratica": 0,
+        "ListaPrequisitos": []
+      },
+      {
+        "Id": 45915,
+        "Codigo": "2601.000.348-0",
+        "Descricao": "FISIOPATOLOGIA DA NUTRIÇÃO E DIETOTERAPIA I",
+        "Semestre": "0",
+        "Apelido": "FISIOPATOLOGIA DA NUTRIÇÃO E DIETOTERAPIA I",
+        "CargaHorariaTeorico": 0,
+        "CargaHorariaPratica": 0,
+        "ListaPrequisitos": []
+      },
+      {
+        "Id": 45917,
+        "Codigo": "2601.000.350-6",
+        "Descricao": "FISIOPATOLOGIA DA NUTRIÇÃO E DIETOTERAPIA II",
+        "Semestre": "0",
+        "Apelido": "FISIOPATOLOGIA DA NUTRIÇÃO E DIETOTERAPIA II",
+        "CargaHorariaTeorico": 0,
+        "CargaHorariaPratica": 0,
+        "ListaPrequisitos": []
+      },
+      {
+        "Id": 45925,
+        "Codigo": "2601.000.357-0",
+        "Descricao": "TERAPIA NUTRICIONAL",
+        "Semestre": "0",
+        "Apelido": "TERAPIA NUTRICIONAL",
+        "CargaHorariaTeorico": 0,
+        "CargaHorariaPratica": 0,
+        "ListaPrequisitos": []
+      }
+    ]
+  },
+  {
+    "Id": 45903,
+    "Codigo": "2601.000.336-4",
+    "Tipo": "OBR",
+    "Descricao": "ESTÁGIO OBRIGATÓRIO DE CIÊNCIAS DOS ALIMENTOS",
+    "Semestre": 8,
+    "Apelido": "ESTÁGIO OBRIGATÓRIO DE CIÊNCIAS DOS ALIMENTOS",
+    "CargaHorariaTeorico": 102,
+    "CargaHorariaPratica": null,
+    "ListaPrequisitos": [
+      {
+        "Id": 41154,
+        "Codigo": "2601.000.050-3",
+        "Descricao": "TECNOLOGIA DE ALIMENTOS",
+        "Semestre": "0",
+        "Apelido": "TECNOLOGIA DE ALIMENTOS",
+        "CargaHorariaTeorico": 0,
+        "CargaHorariaPratica": 0,
+        "ListaPrequisitos": []
+      }
+    ]
+  },
+  {
+    "Id": 45931,
+    "Codigo": "2601.000.362-2",
+    "Tipo": "OBR",
+    "Descricao": "ESTÁGIO OBRIGATÓRIO DE NUTRIÇÃO EM SAÚDE COLETIVA",
+    "Semestre": 8,
+    "Apelido": "ESTÁGIO OBRIGATÓRIO DE NUTRIÇÃO EM SAÚDE COLETIVA",
+    "CargaHorariaTeorico": 204,
+    "CargaHorariaPratica": null,
+    "ListaPrequisitos": [
+      {
+        "Id": 41111,
+        "Codigo": "2601.000.010-4",
+        "Descricao": "EPIDEMIOLOGIA",
+        "Semestre": "0",
+        "Apelido": "EPIDEMIOLOGIA",
+        "CargaHorariaTeorico": 0,
+        "CargaHorariaPratica": 0,
+        "ListaPrequisitos": []
+      },
+      {
+        "Id": 41159,
+        "Codigo": "2601.000.055-4",
+        "Descricao": "NUTRIÇÃO CLÍNICA EM PEDIATRIA",
+        "Semestre": "0",
+        "Apelido": "NUTRIÇÃO CLÍNICA EM PEDIATRIA",
+        "CargaHorariaTeorico": 0,
+        "CargaHorariaPratica": 0,
+        "ListaPrequisitos": []
+      },
+      {
+        "Id": 45914,
+        "Codigo": "2601.000.347-1",
+        "Descricao": "POLÍTICAS PÚBLICAS DE ALIMENTAÇÃO E NUTRIÇÃO",
+        "Semestre": "0",
+        "Apelido": "POLÍTICAS PÚBLICAS DE ALIMENTAÇÃO E NUTRIÇÃO",
+        "CargaHorariaTeorico": 0,
+        "CargaHorariaPratica": 0,
+        "ListaPrequisitos": []
+      },
+      {
+        "Id": 45917,
+        "Codigo": "2601.000.350-6",
+        "Descricao": "FISIOPATOLOGIA DA NUTRIÇÃO E DIETOTERAPIA II",
+        "Semestre": "0",
+        "Apelido": "FISIOPATOLOGIA DA NUTRIÇÃO E DIETOTERAPIA II",
+        "CargaHorariaTeorico": 0,
+        "CargaHorariaPratica": 0,
+        "ListaPrequisitos": []
+      },
+      {
+        "Id": 45921,
+        "Codigo": "2601.000.353-3",
+        "Descricao": "ECONOMIA E MARKETING",
+        "Semestre": "0",
+        "Apelido": "ECONOMIA E MARKETING",
+        "CargaHorariaTeorico": 0,
+        "CargaHorariaPratica": 0,
+        "ListaPrequisitos": []
+      },
+      {
+        "Id": 45925,
+        "Codigo": "2601.000.357-0",
+        "Descricao": "TERAPIA NUTRICIONAL",
+        "Semestre": "0",
+        "Apelido": "TERAPIA NUTRICIONAL",
+        "CargaHorariaTeorico": 0,
+        "CargaHorariaPratica": 0,
+        "ListaPrequisitos": []
+      },
+      {
+        "Id": 45926,
+        "Codigo": "2601.000.358-9",
+        "Descricao": "SOCIOLOGIA E ANTROPOLOGIA DA ALIMENTAÇÃO",
+        "Semestre": "0",
+        "Apelido": "SOCIOLOGIA E ANTROPOLOGIA DA ALIMENTAÇÃO",
+        "CargaHorariaTeorico": 0,
+        "CargaHorariaPratica": 0,
+        "ListaPrequisitos": []
+      },
+      {
+        "Id": 45927,
+        "Codigo": "2601.000.359-8",
+        "Descricao": "EDUCAÇÃO ALIMENTAR E NUTRICIONAL",
+        "Semestre": "0",
+        "Apelido": "EDUCAÇÃO ALIMENTAR E NUTRICIONAL",
+        "CargaHorariaTeorico": 0,
+        "CargaHorariaPratica": 0,
+        "ListaPrequisitos": []
+      },
+      {
+        "Id": 47556,
+        "Codigo": "2601.000.404-9",
+        "Descricao": "ALIMENTAÇÃO COLETIVA III",
+        "Semestre": "0",
+        "Apelido": "ALIMENTAÇÃO COLETIVA III",
+        "CargaHorariaTeorico": 0,
+        "CargaHorariaPratica": 0,
+        "ListaPrequisitos": []
+      }
+    ]
+  },
+  {
+    "Id": 41125,
+    "Codigo": "2601.000.024-4",
+    "Tipo": "OPT",
+    "Descricao": "ALIMENTOS E BEBIDAS",
+    "Semestre": 99,
+    "Apelido": "ALIMENTOS E BEBIDAS",
+    "CargaHorariaTeorico": 34,
+    "CargaHorariaPratica": null,
+    "ListaPrequisitos": []
+  },
+  {
+    "Id": 43059,
+    "Codigo": "2601.000.201-7",
+    "Tipo": "OPT",
+    "Descricao": "ALIMENTOS E MODELOS ANIMAIS DE DOENÇAS",
+    "Semestre": 99,
+    "Apelido": "ALIMENTOS E MODELOS ANIMAIS DE DOENÇAS",
+    "CargaHorariaTeorico": 34,
+    "CargaHorariaPratica": null,
+    "ListaPrequisitos": []
+  },
+  {
+    "Id": 45906,
+    "Codigo": "2601.000.339-1",
+    "Tipo": "OPT",
+    "Descricao": "ANÁLISE SENSORIAL DOS ALIMENTOS",
+    "Semestre": 99,
+    "Apelido": "ANÁLISE SENSORIAL DOS ALIMENTOS",
+    "CargaHorariaTeorico": 51,
+    "CargaHorariaPratica": null,
+    "ListaPrequisitos": []
+  },
+  {
+    "Id": 45902,
+    "Codigo": "2601.000.335-5",
+    "Tipo": "OPT",
+    "Descricao": "APRIMORAMENTO PROFISSIONAL EM NUTRIÇÃO",
+    "Semestre": 99,
+    "Apelido": "APRIMORAMENTO PROFISSIONAL EM NUTRIÇÃO",
+    "CargaHorariaTeorico": 34,
+    "CargaHorariaPratica": null,
+    "ListaPrequisitos": []
+  },
+  {
+    "Id": 43055,
+    "Codigo": "2601.000.199-6",
+    "Tipo": "OPT",
+    "Descricao": "BIOQUÍMICA DE ALIMENTOS",
+    "Semestre": 99,
+    "Apelido": "BIOQUÍMICA DE ALIMENTOS",
+    "CargaHorariaTeorico": 34,
+    "CargaHorariaPratica": null,
+    "ListaPrequisitos": []
+  },
+  {
+    "Id": 41138,
+    "Codigo": "2601.000.036-8",
+    "Tipo": "OPT",
+    "Descricao": "CONSERVAÇÃO PÓS-COLHEITA DE FRUTAS E HORTALIÇAS",
+    "Semestre": 99,
+    "Apelido": "CONSERVAÇÃO PÓS-COLHEITA DE FRUTAS E HORTALIÇAS",
+    "CargaHorariaTeorico": 34,
+    "CargaHorariaPratica": null,
+    "ListaPrequisitos": []
+  },
+  {
+    "Id": 42980,
+    "Codigo": "3001.000.360-8",
+    "Tipo": "OPT",
+    "Descricao": "DESENVOLVIMENTO PESSOAL E PROFISSIONAL",
+    "Semestre": 99,
+    "Apelido": "DESENVOLVIMENTO PESSOAL E PROFISSIONAL",
+    "CargaHorariaTeorico": 34,
+    "CargaHorariaPratica": null,
+    "ListaPrequisitos": []
+  },
+  {
+    "Id": 41663,
+    "Codigo": "3101.000.004-6",
+    "Tipo": "OPT",
+    "Descricao": "DIDÁTICA E RELAÇÕES PEDAGÓGICAS",
+    "Semestre": 99,
+    "Apelido": "DIDÁTICA E RELAÇÕES PEDAGÓGICAS",
+    "CargaHorariaTeorico": 68,
+    "CargaHorariaPratica": null,
+    "ListaPrequisitos": []
+  },
+  {
+    "Id": 43056,
+    "Codigo": "2001.000.312-0",
+    "Tipo": "OPT",
+    "Descricao": "DIREITOS HUMANOS I",
+    "Semestre": 99,
+    "Apelido": "DIREITOS HUMANOS I",
+    "CargaHorariaTeorico": 34,
+    "CargaHorariaPratica": null,
+    "ListaPrequisitos": []
+  },
+  {
+    "Id": 43057,
+    "Codigo": "2001.000.313-0",
+    "Tipo": "OPT",
+    "Descricao": "DIREITOS HUMANOS II",
+    "Semestre": 99,
+    "Apelido": "DIREITOS HUMANOS II",
+    "CargaHorariaTeorico": 34,
+    "CargaHorariaPratica": null,
+    "ListaPrequisitos": []
+  },
+  {
+    "Id": 43053,
+    "Codigo": "3001.000.370-0",
+    "Tipo": "OPT",
+    "Descricao": "EDUCAÇÃO DAS RELAÇÕES ÉTNICO-RACIAIS",
+    "Semestre": 99,
+    "Apelido": "EDUCAÇÃO DAS RELAÇÕES ÉTNICO-RACIAIS",
+    "CargaHorariaTeorico": 68,
+    "CargaHorariaPratica": null,
+    "ListaPrequisitos": []
+  },
+  {
+    "Id": 45761,
+    "Codigo": "2601.000.300-5",
+    "Tipo": "OPT",
+    "Descricao": "EMPREENDEDORISMO E INOVAÇÃO",
+    "Semestre": 99,
+    "Apelido": "EMPREENDEDORISMO E INOVAÇÃO",
+    "CargaHorariaTeorico": 68,
+    "CargaHorariaPratica": null,
+    "ListaPrequisitos": []
+  },
+  {
+    "Id": 45910,
+    "Codigo": "2601.000.343-5",
+    "Tipo": "OPT",
+    "Descricao": "ENFRENTAMENTO E CONTROLE DA OBESIDADE",
+    "Semestre": 99,
+    "Apelido": "ENFRENTAMENTO E CONTROLE DA OBESIDADE",
+    "CargaHorariaTeorico": 34,
+    "CargaHorariaPratica": null,
+    "ListaPrequisitos": []
+  },
+  {
+    "Id": 41117,
+    "Codigo": "2601.000.016-3",
+    "Tipo": "OPT",
+    "Descricao": "EPIDEMIOLOGIA NUTRICIONAL",
+    "Semestre": 99,
+    "Apelido": "EPIDEMIOLOGIA NUTRICIONAL",
+    "CargaHorariaTeorico": 34,
+    "CargaHorariaPratica": null,
+    "ListaPrequisitos": [
+      {
+        "Id": 41111,
+        "Codigo": "2601.000.010-4",
+        "Descricao": "EPIDEMIOLOGIA",
+        "Semestre": "0",
+        "Apelido": "EPIDEMIOLOGIA",
+        "CargaHorariaTeorico": 0,
+        "CargaHorariaPratica": 0,
+        "ListaPrequisitos": []
+      }
+    ]
+  },
+  {
+    "Id": 43051,
+    "Codigo": "3101.000.295-7",
+    "Tipo": "OPT",
+    "Descricao": "ESTUDO DE LIBRAS",
+    "Semestre": 99,
+    "Apelido": "ESTUDO DE LIBRAS",
+    "CargaHorariaTeorico": 68,
+    "CargaHorariaPratica": null,
+    "ListaPrequisitos": []
+  },
+  {
+    "Id": 41135,
+    "Codigo": "2601.000.033-3",
+    "Tipo": "OPT",
+    "Descricao": "FISIOLOGIA DO EXERCÍCIO I",
+    "Semestre": 99,
+    "Apelido": "FISIOLOGIA DO EXERCÍCIO I",
+    "CargaHorariaTeorico": 34,
+    "CargaHorariaPratica": null,
+    "ListaPrequisitos": []
+  },
+  {
+    "Id": 41136,
+    "Codigo": "2601.000.034-1",
+    "Tipo": "OPT",
+    "Descricao": "FISIOLOGIA DO EXERCÍCIO II",
+    "Semestre": 99,
+    "Apelido": "FISIOLOGIA DO EXERCÍCIO II",
+    "CargaHorariaTeorico": 34,
+    "CargaHorariaPratica": null,
+    "ListaPrequisitos": [
+      {
+        "Id": 41135,
+        "Codigo": "2601.000.033-3",
+        "Descricao": "FISIOLOGIA DO EXERCÍCIO I",
+        "Semestre": "0",
+        "Apelido": "FISIOLOGIA DO EXERCÍCIO I",
+        "CargaHorariaTeorico": 0,
+        "CargaHorariaPratica": 0,
+        "ListaPrequisitos": []
+      }
+    ]
+  },
+  {
+    "Id": 41167,
+    "Codigo": "2601.000.063-5",
+    "Tipo": "OPT",
+    "Descricao": "FITOTERAPIA",
+    "Semestre": 99,
+    "Apelido": "FITOTERAPIA",
+    "CargaHorariaTeorico": 34,
+    "CargaHorariaPratica": null,
+    "ListaPrequisitos": []
+  },
+  {
+    "Id": 47551,
+    "Codigo": "2601.000.399-0",
+    "Tipo": "OPT",
+    "Descricao": "FUNGOS FILAMENTOSOS E MICOTOXINAS EM ALIMENTOS E BEBIDAS",
+    "Semestre": 99,
+    "Apelido": "FUNGOS FILAMENTOSOS E MICOTOXINAS EM ALIMENTOS E BEBIDAS",
+    "CargaHorariaTeorico": 68,
+    "CargaHorariaPratica": null,
+    "ListaPrequisitos": []
+  },
+  {
+    "Id": 41123,
+    "Codigo": "2601.000.022-8",
+    "Tipo": "OPT",
+    "Descricao": "GASTRONOMIA",
+    "Semestre": 99,
+    "Apelido": "GASTRONOMIA",
+    "CargaHorariaTeorico": 51,
+    "CargaHorariaPratica": null,
+    "ListaPrequisitos": []
+  },
+  {
+    "Id": 41129,
+    "Codigo": "2601.000.028-7",
+    "Tipo": "OPT",
+    "Descricao": "GASTRONOMIA HOSPITALAR",
+    "Semestre": 99,
+    "Apelido": "GASTRONOMIA HOSPITALAR",
+    "CargaHorariaTeorico": 34,
+    "CargaHorariaPratica": null,
+    "ListaPrequisitos": []
+  },
+  {
+    "Id": 45905,
+    "Codigo": "2601.000.338-2",
+    "Tipo": "OPT",
+    "Descricao": "GENÔMICA NUTRICIONAL",
+    "Semestre": 99,
+    "Apelido": "GENÔMICA NUTRICIONAL",
+    "CargaHorariaTeorico": 34,
+    "CargaHorariaPratica": null,
+    "ListaPrequisitos": [
+      {
+        "Id": 41103,
+        "Codigo": "2701.000.008-0",
+        "Descricao": "BIOLOGIA CELULAR",
+        "Semestre": "0",
+        "Apelido": "BIOLOGIA CELULAR",
+        "CargaHorariaTeorico": 0,
+        "CargaHorariaPratica": 0,
+        "ListaPrequisitos": []
+      },
+      {
+        "Id": 43049,
+        "Codigo": "2701.000.260-9",
+        "Descricao": "GENÉTICA HUMANA",
+        "Semestre": "0",
+        "Apelido": "GENÉTICA HUMANA",
+        "CargaHorariaTeorico": 0,
+        "CargaHorariaPratica": 0,
+        "ListaPrequisitos": []
+      }
+    ]
+  },
+  {
+    "Id": 41168,
+    "Codigo": "2601.000.064-3",
+    "Tipo": "OPT",
+    "Descricao": "GESTÃO AMBIENTAL",
+    "Semestre": 99,
+    "Apelido": "GESTÃO AMBIENTAL",
+    "CargaHorariaTeorico": 34,
+    "CargaHorariaPratica": null,
+    "ListaPrequisitos": []
+  },
+  {
+    "Id": 42978,
+    "Codigo": "3001.000.358-6",
+    "Tipo": "OPT",
+    "Descricao": "HISTÓRIA E CULTURA INDÍGENA",
+    "Semestre": 99,
+    "Apelido": "HISTÓRIA E CULTURA INDÍGENA",
+    "CargaHorariaTeorico": 34,
+    "CargaHorariaPratica": null,
+    "ListaPrequisitos": []
+  },
+  {
+    "Id": 41169,
+    "Codigo": "2601.000.065-1",
+    "Tipo": "OPT",
+    "Descricao": "INFORMÁTICA APLICADA À NUTRIÇÃO",
+    "Semestre": 99,
+    "Apelido": "INFORMÁTICA APLICADA À NUTRIÇÃO",
+    "CargaHorariaTeorico": 34,
+    "CargaHorariaPratica": null,
+    "ListaPrequisitos": [
+      {
+        "Id": 41113,
+        "Codigo": "2601.000.012-0",
+        "Descricao": "AVALIAÇÃO NUTRICIONAL II",
+        "Semestre": "0",
+        "Apelido": "AVALIAÇÃO NUTRICIONAL II",
+        "CargaHorariaTeorico": 0,
+        "CargaHorariaPratica": 0,
+        "ListaPrequisitos": []
+      },
+      {
+        "Id": 41147,
+        "Codigo": "2601.000.043-0",
+        "Descricao": "NUTRIÇÃO E DIETÉTICA I",
+        "Semestre": "0",
+        "Apelido": "NUTRIÇÃO E DIETÉTICA I",
+        "CargaHorariaTeorico": 0,
+        "CargaHorariaPratica": 0,
+        "ListaPrequisitos": []
+      }
+    ]
+  },
+  {
+    "Id": 41131,
+    "Codigo": "2601.000.030-9",
+    "Tipo": "OPT",
+    "Descricao": "INTERPRETAÇÃO DE EXAMES LABORATORIAIS",
+    "Semestre": 99,
+    "Apelido": "INTERPRETAÇÃO DE EXAMES LABORATORIAIS",
+    "CargaHorariaTeorico": 34,
+    "CargaHorariaPratica": null,
+    "ListaPrequisitos": []
+  },
+  {
+    "Id": 42979,
+    "Codigo": "3001.000.359-4",
+    "Tipo": "OPT",
+    "Descricao": "INTRODUÇÃO À HISTÓRIA E A CULTURA AFRO-BRASILEIRA E AFRICANA",
+    "Semestre": 99,
+    "Apelido": "INTRODUÇÃO À HISTÓRIA E A CULTURA AFRO-BRASILEIRA E AFRICANA",
+    "CargaHorariaTeorico": 34,
+    "CargaHorariaPratica": null,
+    "ListaPrequisitos": []
+  },
+  {
+    "Id": 42968,
+    "Codigo": "2901.000.482-1",
+    "Tipo": "OPT",
+    "Descricao": "LEITURA EM LÍNGUA INGLESA I",
+    "Semestre": 99,
+    "Apelido": "LEITURA EM LÍNGUA INGLESA I",
+    "CargaHorariaTeorico": 34,
+    "CargaHorariaPratica": null,
+    "ListaPrequisitos": []
+  },
+  {
+    "Id": 42969,
+    "Codigo": "2901.000.483-0",
+    "Tipo": "OPT",
+    "Descricao": "LEITURA EM LÍNGUA INGLESA II",
+    "Semestre": 99,
+    "Apelido": "LEITURA EM LÍNGUA INGLESA II",
+    "CargaHorariaTeorico": 34,
+    "CargaHorariaPratica": null,
+    "ListaPrequisitos": [
+      {
+        "Id": 42968,
+        "Codigo": "2901.000.482-1",
+        "Descricao": "LEITURA EM LÍNGUA INGLESA I",
+        "Semestre": "0",
+        "Apelido": "LEITURA EM LÍNGUA INGLESA I",
+        "CargaHorariaTeorico": 0,
+        "CargaHorariaPratica": 0,
+        "ListaPrequisitos": []
+      }
+    ]
+  },
+  {
+    "Id": 42972,
+    "Codigo": "2901.000.484-8",
+    "Tipo": "OPT",
+    "Descricao": "LEITURA E PRODUÇÃO DE TEXTO I",
+    "Semestre": 99,
+    "Apelido": "LEITURA E PRODUÇÃO DE TEXTO I",
+    "CargaHorariaTeorico": 34,
+    "CargaHorariaPratica": null,
+    "ListaPrequisitos": []
+  },
+  {
+    "Id": 42973,
+    "Codigo": "2901.000.485-6",
+    "Tipo": "OPT",
+    "Descricao": "LEITURA E PRODUÇÃO DE TEXTO II",
+    "Semestre": 99,
+    "Apelido": "LEITURA E PRODUÇÃO DE TEXTO II",
+    "CargaHorariaTeorico": 34,
+    "CargaHorariaPratica": null,
+    "ListaPrequisitos": [
+      {
+        "Id": 42972,
+        "Codigo": "2901.000.484-8",
+        "Descricao": "LEITURA E PRODUÇÃO DE TEXTO I",
+        "Semestre": "0",
+        "Apelido": "LEITURA E PRODUÇÃO DE TEXTO I",
+        "CargaHorariaTeorico": 0,
+        "CargaHorariaPratica": 0,
+        "ListaPrequisitos": []
+      }
+    ]
+  },
+  {
+    "Id": 45909,
+    "Codigo": "2601.000.342-6",
+    "Tipo": "OPT",
+    "Descricao": "MANEJO E ACONSELHAMENTO EM AMAMENTAÇÃO",
+    "Semestre": 99,
+    "Apelido": "MANEJO E ACONSELHAMENTO EM AMAMENTAÇÃO",
+    "CargaHorariaTeorico": 34,
+    "CargaHorariaPratica": null,
+    "ListaPrequisitos": [
+      {
+        "Id": 41119,
+        "Codigo": "2601.000.018-0",
+        "Descricao": "NUTRIÇÃO E DIETÉTICA II",
+        "Semestre": "0",
+        "Apelido": "NUTRIÇÃO E DIETÉTICA II",
+        "CargaHorariaTeorico": 0,
+        "CargaHorariaPratica": 0,
+        "ListaPrequisitos": []
+      }
+    ]
+  },
+  {
+    "Id": 41170,
+    "Codigo": "2601.000.066-0",
+    "Tipo": "OPT",
+    "Descricao": "MECANISMOS BIOENERGÉTICOS E DE METABÓLITOS",
+    "Semestre": 99,
+    "Apelido": "MECANISMOS BIOENERGÉTICOS E DE METABÓLITOS",
+    "CargaHorariaTeorico": 34,
+    "CargaHorariaPratica": null,
+    "ListaPrequisitos": []
+  },
+  {
+    "Id": 45930,
+    "Codigo": "2601.000.361-3",
+    "Tipo": "OPT",
+    "Descricao": "NUTRIÇÃO E ENVELHECIMENTO",
+    "Semestre": 99,
+    "Apelido": "NUTRIÇÃO E ENVELHECIMENTO",
+    "CargaHorariaTeorico": 34,
+    "CargaHorariaPratica": null,
+    "ListaPrequisitos": [
+      {
+        "Id": 41113,
+        "Codigo": "2601.000.012-0",
+        "Descricao": "AVALIAÇÃO NUTRICIONAL II",
+        "Semestre": "0",
+        "Apelido": "AVALIAÇÃO NUTRICIONAL II",
+        "CargaHorariaTeorico": 0,
+        "CargaHorariaPratica": 0,
+        "ListaPrequisitos": []
+      }
+    ]
+  },
+  {
+    "Id": 41139,
+    "Codigo": "2601.000.037-6",
+    "Tipo": "OPT",
+    "Descricao": "SEMINÁRIOS EM NUTRIÇÃO I",
+    "Semestre": 99,
+    "Apelido": "SEMINÁRIOS EM NUTRIÇÃO I",
+    "CargaHorariaTeorico": 34,
+    "CargaHorariaPratica": null,
+    "ListaPrequisitos": []
+  },
+  {
+    "Id": 41140,
+    "Codigo": "2601.000.038-4",
+    "Tipo": "OPT",
+    "Descricao": "SEMINÁRIOS EM NUTRIÇÃO II",
+    "Semestre": 99,
+    "Apelido": "SEMINÁRIOS EM NUTRIÇÃO II",
+    "CargaHorariaTeorico": 34,
+    "CargaHorariaPratica": null,
+    "ListaPrequisitos": []
+  },
+  {
+    "Id": 41141,
+    "Codigo": "2601.000.039-2",
+    "Tipo": "OPT",
+    "Descricao": "SEMINÁRIOS EM NUTRIÇÃO III",
+    "Semestre": 99,
+    "Apelido": "SEMINÁRIOS EM NUTRIÇÃO III",
+    "CargaHorariaTeorico": 34,
+    "CargaHorariaPratica": null,
+    "ListaPrequisitos": []
+  },
+  {
+    "Id": 41142,
+    "Codigo": "2601.000.040-6",
+    "Tipo": "OPT",
+    "Descricao": "SEMINÁRIOS EM NUTRIÇÃO IV",
+    "Semestre": 99,
+    "Apelido": "SEMINÁRIOS EM NUTRIÇÃO IV",
+    "CargaHorariaTeorico": 34,
+    "CargaHorariaPratica": null,
+    "ListaPrequisitos": []
+  },
+  {
+    "Id": 42976,
+    "Codigo": "3001.000.357-8",
+    "Tipo": "OPT",
+    "Descricao": "SOCIEDADE, MEIO AMBIENTE E SUSTENTABILIDADE",
+    "Semestre": 99,
+    "Apelido": "SOCIEDADE, MEIO AMBIENTE E SUSTENTABILIDADE",
+    "CargaHorariaTeorico": 34,
+    "CargaHorariaPratica": null,
+    "ListaPrequisitos": []
+  },
+  {
+    "Id": 41099,
+    "Codigo": "2601.000.001-5",
+    "Tipo": "OPT",
+    "Descricao": "TECNOLOGIA DE ALIMENTOS DE ORIGEM ANIMAL",
+    "Semestre": 99,
+    "Apelido": "TECNOLOGIA DE ALIMENTOS DE ORIGEM ANIMAL",
+    "CargaHorariaTeorico": 51,
+    "CargaHorariaPratica": null,
+    "ListaPrequisitos": [
+      {
+        "Id": 41145,
+        "Codigo": "2601.000.042-2",
+        "Descricao": "BROMATOLOGIA",
+        "Semestre": "0",
+        "Apelido": "BROMATOLOGIA",
+        "CargaHorariaTeorico": 0,
+        "CargaHorariaPratica": 0,
+        "ListaPrequisitos": []
+      }
+    ]
+  },
+  {
+    "Id": 41100,
+    "Codigo": "2601.000.002-3",
+    "Tipo": "OPT",
+    "Descricao": "TECNOLOGIA DE ALIMENTOS DE ORIGEM VEGETAL",
+    "Semestre": 99,
+    "Apelido": "TECNOLOGIA DE ALIMENTOS DE ORIGEM VEGETAL",
+    "CargaHorariaTeorico": 51,
+    "CargaHorariaPratica": null,
+    "ListaPrequisitos": [
+      {
+        "Id": 41145,
+        "Codigo": "2601.000.042-2",
+        "Descricao": "BROMATOLOGIA",
+        "Semestre": "0",
+        "Apelido": "BROMATOLOGIA",
+        "CargaHorariaTeorico": 0,
+        "CargaHorariaPratica": 0,
+        "ListaPrequisitos": []
+      }
+    ]
+  },
+  {
+    "Id": 46746,
+    "Codigo": "2601.000.389-2",
+    "Tipo": "OPT",
+    "Descricao": "TECNOLOGIAS EMERGENTES EM CONSERVAÇÃO DE ALIMENTOS",
+    "Semestre": 99,
+    "Apelido": "TECNOLOGIAS EMERGENTES EM CONSERVAÇÃO DE ALIMENTOS",
+    "CargaHorariaTeorico": 34,
+    "CargaHorariaPratica": null,
+    "ListaPrequisitos": []
+  },
+  {
+    "Id": 42977,
+    "Codigo": "2901.000.486-4",
+    "Tipo": "OPT",
+    "Descricao": "TEORIAS DA COMUNICAÇÃO",
+    "Semestre": 99,
+    "Apelido": "TEORIAS DA COMUNICAÇÃO",
+    "CargaHorariaTeorico": 34,
+    "CargaHorariaPratica": null,
+    "ListaPrequisitos": []
+  },
+  {
+    "Id": 47554,
+    "Codigo": "2601.000.402-0",
+    "Tipo": "OPT",
+    "Descricao": "TÓPICOS EM CONSUMO ALIMENTAR",
+    "Semestre": 99,
+    "Apelido": "TÓPICOS EM CONSUMO ALIMENTAR",
+    "CargaHorariaTeorico": 34,
+    "CargaHorariaPratica": null,
+    "ListaPrequisitos": []
+  },
+  {
+    "Id": 45932,
+    "Codigo": "2601.000.363-1",
+    "Tipo": "OPT",
+    "Descricao": "TÓPICOS EM NUTRIÇÃO CLÍNICA",
+    "Semestre": 99,
+    "Apelido": "TÓPICOS EM NUTRIÇÃO CLÍNICA",
+    "CargaHorariaTeorico": 34,
+    "CargaHorariaPratica": null,
+    "ListaPrequisitos": []
+  },
+  {
+    "Id": 47553,
+    "Codigo": "2601.000.401-1",
+    "Tipo": "OPT",
+    "Descricao": "TÓPICOS EM NUTRIÇÃO ESPORTIVA",
+    "Semestre": 99,
+    "Apelido": "TÓPICOS EM NUTRIÇÃO ESPORTIVA",
+    "CargaHorariaTeorico": 34,
+    "CargaHorariaPratica": null,
+    "ListaPrequisitos": []
+  },
+  {
+    "Id": 47549,
+    "Codigo": "2601.000.397-2",
+    "Tipo": "OPT",
+    "Descricao": "TÓPICOS EM OBESIDADE",
+    "Semestre": 99,
+    "Apelido": "TÓPICOS EM OBESIDADE",
+    "CargaHorariaTeorico": 34,
+    "CargaHorariaPratica": null,
+    "ListaPrequisitos": []
+  },
+  {
+    "Id": 47552,
+    "Codigo": "2601.000.400-2",
+    "Tipo": "OPT",
+    "Descricao": "TÓPICOS EM PEDIATRIA",
+    "Semestre": 99,
+    "Apelido": "TÓPICOS EM PEDIATRIA",
+    "CargaHorariaTeorico": 34,
+    "CargaHorariaPratica": null,
+    "ListaPrequisitos": []
+  },
+  {
+    "Id": 47550,
+    "Codigo": "2601.000.398-1",
+    "Tipo": "OPT",
+    "Descricao": "TÓPICOS EM TECNOLOGIA DE ALIMENTOS",
+    "Semestre": 99,
+    "Apelido": "TÓPICOS EM TECNOLOGIA DE ALIMENTOS",
+    "CargaHorariaTeorico": 34,
+    "CargaHorariaPratica": null,
+    "ListaPrequisitos": []
+  }
+]

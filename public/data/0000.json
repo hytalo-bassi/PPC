@@ -1,0 +1,123 @@
+[
+  {
+    "Id": 43686,
+    "Codigo": "1991.000.004-3",
+    "Tipo": "OPT",
+    "Descricao": "EMPREENDEDORISMO E INOVAÇÃO",
+    "Semestre": 99,
+    "Apelido": "EMPREENDEDORISMO E INOVAÇÃO",
+    "CargaHorariaTeorico": 68,
+    "CargaHorariaPratica": null,
+    "ListaPrequisitos": []
+  },
+  {
+    "Id": 47781,
+    "Codigo": "0001.000.003-3",
+    "Tipo": "OPT",
+    "Descricao": "INICIAÇÃO À DOCÊNCIA I",
+    "Semestre": 99,
+    "Apelido": "INICIAÇÃO À DOCÊNCIA I",
+    "CargaHorariaTeorico": 51,
+    "CargaHorariaPratica": null,
+    "ListaPrequisitos": []
+  },
+  {
+    "Id": 47782,
+    "Codigo": "0001.000.005-3",
+    "Tipo": "OPT",
+    "Descricao": "INICIAÇÃO À DOCÊNCIA II",
+    "Semestre": 99,
+    "Apelido": "INICIAÇÃO À DOCÊNCIA II",
+    "CargaHorariaTeorico": 51,
+    "CargaHorariaPratica": null,
+    "ListaPrequisitos": []
+  },
+  {
+    "Id": 52007,
+    "Codigo": "0001.000.006-3",
+    "Tipo": "OPT",
+    "Descricao": "TÓPICOS ESPECIAIS EM INTERNACIONALIZAÇÃO I",
+    "Semestre": 99,
+    "Apelido": "TÓPICOS ESPECIAIS EM INTERNACIONALIZAÇÃO I",
+    "CargaHorariaTeorico": 17,
+    "CargaHorariaPratica": null,
+    "ListaPrequisitos": []
+  },
+  {
+    "Id": 52008,
+    "Codigo": "0001.000.007-3",
+    "Tipo": "OPT",
+    "Descricao": "TÓPICOS ESPECIAIS EM INTERNACIONALIZAÇÃO II",
+    "Semestre": 99,
+    "Apelido": "TÓPICOS ESPECIAIS EM INTERNACIONALIZAÇÃO II",
+    "CargaHorariaTeorico": 34,
+    "CargaHorariaPratica": null,
+    "ListaPrequisitos": []
+  },
+  {
+    "Id": 52009,
+    "Codigo": "0001.000.008-3",
+    "Tipo": "OPT",
+    "Descricao": "TÓPICOS ESPECIAIS EM INTERNACIONALIZAÇÃO III",
+    "Semestre": 99,
+    "Apelido": "TÓPICOS ESPECIAIS EM INTERNACIONALIZAÇÃO III",
+    "CargaHorariaTeorico": 51,
+    "CargaHorariaPratica": null,
+    "ListaPrequisitos": []
+  },
+  {
+    "Id": 52010,
+    "Codigo": "0001.000.009-3",
+    "Tipo": "OPT",
+    "Descricao": "TÓPICOS ESPECIAIS EM INTERNACIONALIZAÇÃO IV",
+    "Semestre": 99,
+    "Apelido": "TÓPICOS ESPECIAIS EM INTERNACIONALIZAÇÃO IV",
+    "CargaHorariaTeorico": 68,
+    "CargaHorariaPratica": null,
+    "ListaPrequisitos": []
+  },
+  {
+    "Id": 52011,
+    "Codigo": "0001.000.010-0",
+    "Tipo": "OPT",
+    "Descricao": "TÓPICOS ESPECIAIS EM INTERNACIONALIZAÇÃO V",
+    "Semestre": 99,
+    "Apelido": "TÓPICOS ESPECIAIS EM INTERNACIONALIZAÇÃO V",
+    "CargaHorariaTeorico": 85,
+    "CargaHorariaPratica": null,
+    "ListaPrequisitos": []
+  },
+  {
+    "Id": 52012,
+    "Codigo": "0001.000.011-0",
+    "Tipo": "OPT",
+    "Descricao": "TÓPICOS ESPECIAIS EM INTERNACIONALIZAÇÃO VI",
+    "Semestre": 99,
+    "Apelido": "TÓPICOS ESPECIAIS EM INTERNACIONALIZAÇÃO VI",
+    "CargaHorariaTeorico": 102,
+    "CargaHorariaPratica": null,
+    "ListaPrequisitos": []
+  },
+  {
+    "Id": 47779,
+    "Codigo": "0001.000.001-0",
+    "Tipo": "OPT",
+    "Descricao": "TÓPICOS ESPECIAIS NO ENSINO SUPERIOR",
+    "Semestre": 99,
+    "Apelido": "TÓPICOS ESPECIAIS NO ENSINO SUPERIOR",
+    "CargaHorariaTeorico": 34,
+    "CargaHorariaPratica": null,
+    "ListaPrequisitos": []
+  },
+  {
+    "Id": 47780,
+    "Codigo": "0001.000.002-3",
+    "Tipo": "OPT",
+    "Descricao": "TÓPICOS ESPECIAIS NO ENSINO SUPERIOR II",
+    "Semestre": 99,
+    "Apelido": "TÓPICOS ESPECIAIS NO ENSINO SUPERIOR II",
+    "CargaHorariaTeorico": 34,
+    "CargaHorariaPratica": null,
+    "ListaPrequisitos": []
+  }
+]

@@ -1,0 +1,1673 @@
+[
+  {
+    "Id": 48726,
+    "Codigo": "2401.000.288-2",
+    "Tipo": "OBR",
+    "Descricao": "BASES CONCEITUAIS DE FÍSICA PARA O ENSINO BÁSICO",
+    "Semestre": 1,
+    "Apelido": "BASES CONCEITUAIS DE FÍSICA PARA O ENSINO BÁSICO",
+    "CargaHorariaTeorico": 68,
+    "CargaHorariaPratica": null,
+    "ListaPrequisitos": []
+  },
+  {
+    "Id": 48727,
+    "Codigo": "2701.000.335-7",
+    "Tipo": "OBR",
+    "Descricao": "FUNDAMENTOS DE BIOLOGIA PARA O ENSINO DE QUÍMICA",
+    "Semestre": 1,
+    "Apelido": "FUNDAMENTOS DE BIOLOGIA PARA O ENSINO DE QUÍMICA",
+    "CargaHorariaTeorico": 68,
+    "CargaHorariaPratica": null,
+    "ListaPrequisitos": []
+  },
+  {
+    "Id": 48011,
+    "Codigo": "2301.000.327-0",
+    "Tipo": "OBR",
+    "Descricao": "FUNDAMENTOS DE QUÍMICA",
+    "Semestre": 1,
+    "Apelido": "FUNDAMENTOS DE QUÍMICA",
+    "CargaHorariaTeorico": 34,
+    "CargaHorariaPratica": null,
+    "ListaPrequisitos": []
+  },
+  {
+    "Id": 48718,
+    "Codigo": "2301.000.360-9",
+    "Tipo": "OBR",
+    "Descricao": "INTRODUÇÃO AO LABORATÓRIO QUÍMICO",
+    "Semestre": 1,
+    "Apelido": "INTRODUÇÃO AO LABORATÓRIO QUÍMICO",
+    "CargaHorariaTeorico": 34,
+    "CargaHorariaPratica": null,
+    "ListaPrequisitos": []
+  },
+  {
+    "Id": 48331,
+    "Codigo": "2201.000.203-8",
+    "Tipo": "OBR",
+    "Descricao": "MATEMÁTICA ELEMENTAR",
+    "Semestre": 1,
+    "Apelido": "MATEMÁTICA ELEMENTAR",
+    "CargaHorariaTeorico": 68,
+    "CargaHorariaPratica": null,
+    "ListaPrequisitos": []
+  },
+  {
+    "Id": 41758,
+    "Codigo": "3001.000.003-0",
+    "Tipo": "OBR",
+    "Descricao": "PSICOLOGIA E EDUCAÇÃO",
+    "Semestre": 1,
+    "Apelido": "PSICOLOGIA E EDUCAÇÃO",
+    "CargaHorariaTeorico": 51,
+    "CargaHorariaPratica": null,
+    "ListaPrequisitos": []
+  },
+  {
+    "Id": 48016,
+    "Codigo": "2201.000.197-0",
+    "Tipo": "OBR",
+    "Descricao": "CÁLCULO I",
+    "Semestre": 2,
+    "Apelido": "CÁLCULO I",
+    "CargaHorariaTeorico": 68,
+    "CargaHorariaPratica": null,
+    "ListaPrequisitos": []
+  },
+  {
+    "Id": 48034,
+    "Codigo": "2401.000.260-3",
+    "Tipo": "OBR",
+    "Descricao": "FUNDAMENTOS DE MECÂNICA",
+    "Semestre": 2,
+    "Apelido": "FUNDAMENTOS DE MECÂNICA",
+    "CargaHorariaTeorico": 68,
+    "CargaHorariaPratica": null,
+    "ListaPrequisitos": []
+  },
+  {
+    "Id": 48736,
+    "Codigo": "2301.000.373-4",
+    "Tipo": "OBR",
+    "Descricao": "INTRODUÇÃO À PRÁTICA EM EDUCAÇÃO QUÍMICA",
+    "Semestre": 2,
+    "Apelido": "INTRODUÇÃO À PRÁTICA EM EDUCAÇÃO QUÍMICA",
+    "CargaHorariaTeorico": 51,
+    "CargaHorariaPratica": null,
+    "ListaPrequisitos": []
+  },
+  {
+    "Id": 48022,
+    "Codigo": "2301.000.333-1",
+    "Tipo": "OBR",
+    "Descricao": "QUÍMICA GERAL",
+    "Semestre": 2,
+    "Apelido": "QUÍMICA GERAL",
+    "CargaHorariaTeorico": 68,
+    "CargaHorariaPratica": null,
+    "ListaPrequisitos": []
+  },
+  {
+    "Id": 48041,
+    "Codigo": "2301.000.347-6",
+    "Tipo": "OBR",
+    "Descricao": "QUÍMICA ORGÂNICA I",
+    "Semestre": 2,
+    "Apelido": "QUÍMICA ORGÂNICA I",
+    "CargaHorariaTeorico": 51,
+    "CargaHorariaPratica": null,
+    "ListaPrequisitos": []
+  },
+  {
+    "Id": 48017,
+    "Codigo": "2201.000.198-0",
+    "Tipo": "OBR",
+    "Descricao": "CÁLCULO II",
+    "Semestre": 3,
+    "Apelido": "CÁLCULO II",
+    "CargaHorariaTeorico": 68,
+    "CargaHorariaPratica": null,
+    "ListaPrequisitos": []
+  },
+  {
+    "Id": 48719,
+    "Codigo": "2401.000.286-4",
+    "Tipo": "OBR",
+    "Descricao": "FUNDAMENTOS DE OSCILAÇÕES, ONDAS E FLUIDOS",
+    "Semestre": 3,
+    "Apelido": "FUNDAMENTOS DE OSCILAÇÕES, ONDAS E FLUIDOS",
+    "CargaHorariaTeorico": 34,
+    "CargaHorariaPratica": null,
+    "ListaPrequisitos": []
+  },
+  {
+    "Id": 48739,
+    "Codigo": "2901.001.037-3",
+    "Tipo": "OBR",
+    "Descricao": "LEITURA E PRODUÇÃO DE TEXTO",
+    "Semestre": 3,
+    "Apelido": "LEITURA E PRODUÇÃO DE TEXTO",
+    "CargaHorariaTeorico": 34,
+    "CargaHorariaPratica": null,
+    "ListaPrequisitos": []
+  },
+  {
+    "Id": 41759,
+    "Codigo": "3101.000.096-8",
+    "Tipo": "OBR",
+    "Descricao": "POLÍTICAS EDUCACIONAIS",
+    "Semestre": 3,
+    "Apelido": "POLÍTICAS EDUCACIONAIS",
+    "CargaHorariaTeorico": 51,
+    "CargaHorariaPratica": null,
+    "ListaPrequisitos": []
+  },
+  {
+    "Id": 36058,
+    "Codigo": "2301.000.211-0",
+    "Tipo": "OBR",
+    "Descricao": "QUÍMICA INORGÂNICA EXPERIMENTAL I",
+    "Semestre": 3,
+    "Apelido": "QUÍMICA INORGÂNICA EXPERIMENTAL I",
+    "CargaHorariaTeorico": 34,
+    "CargaHorariaPratica": null,
+    "ListaPrequisitos": [
+      {
+        "Id": 48022,
+        "Codigo": "2301.000.333-1",
+        "Descricao": "QUÍMICA GERAL",
+        "Semestre": "0",
+        "Apelido": "QUÍMICA GERAL",
+        "CargaHorariaTeorico": 0,
+        "CargaHorariaPratica": 0,
+        "ListaPrequisitos": []
+      },
+      {
+        "Id": 48718,
+        "Codigo": "2301.000.360-9",
+        "Descricao": "INTRODUÇÃO AO LABORATÓRIO QUÍMICO",
+        "Semestre": "0",
+        "Apelido": "INTRODUÇÃO AO LABORATÓRIO QUÍMICO",
+        "CargaHorariaTeorico": 0,
+        "CargaHorariaPratica": 0,
+        "ListaPrequisitos": []
+      }
+    ]
+  },
+  {
+    "Id": 48046,
+    "Codigo": "2301.000.352-9",
+    "Tipo": "OBR",
+    "Descricao": "QUÍMICA INORGÂNICA I",
+    "Semestre": 3,
+    "Apelido": "QUÍMICA INORGÂNICA I",
+    "CargaHorariaTeorico": 51,
+    "CargaHorariaPratica": null,
+    "ListaPrequisitos": [
+      {
+        "Id": 48011,
+        "Codigo": "2301.000.327-0",
+        "Descricao": "FUNDAMENTOS DE QUÍMICA",
+        "Semestre": "0",
+        "Apelido": "FUNDAMENTOS DE QUÍMICA",
+        "CargaHorariaTeorico": 0,
+        "CargaHorariaPratica": 0,
+        "ListaPrequisitos": []
+      }
+    ]
+  },
+  {
+    "Id": 48012,
+    "Codigo": "2301.000.328-9",
+    "Tipo": "OBR",
+    "Descricao": "QUÍMICA ORGÂNICA II",
+    "Semestre": 3,
+    "Apelido": "QUÍMICA ORGÂNICA II",
+    "CargaHorariaTeorico": 34,
+    "CargaHorariaPratica": null,
+    "ListaPrequisitos": [
+      {
+        "Id": 48041,
+        "Codigo": "2301.000.347-6",
+        "Descricao": "QUÍMICA ORGÂNICA I",
+        "Semestre": "0",
+        "Apelido": "QUÍMICA ORGÂNICA I",
+        "CargaHorariaTeorico": 0,
+        "CargaHorariaPratica": 0,
+        "ListaPrequisitos": []
+      }
+    ]
+  },
+  {
+    "Id": 48018,
+    "Codigo": "2201.000.199-9",
+    "Tipo": "OBR",
+    "Descricao": "EQUAÇÕES DIFERENCIAIS ORDINÁRIAS",
+    "Semestre": 4,
+    "Apelido": "EQUAÇÕES DIFERENCIAIS ORDINÁRIAS",
+    "CargaHorariaTeorico": 34,
+    "CargaHorariaPratica": null,
+    "ListaPrequisitos": [
+      {
+        "Id": 48016,
+        "Codigo": "2201.000.197-0",
+        "Descricao": "CÁLCULO I",
+        "Semestre": "0",
+        "Apelido": "CÁLCULO I",
+        "CargaHorariaTeorico": 0,
+        "CargaHorariaPratica": 0,
+        "ListaPrequisitos": []
+      }
+    ]
+  },
+  {
+    "Id": 45236,
+    "Codigo": "2401.000.236-3",
+    "Tipo": "OBR",
+    "Descricao": "FUNDAMENTOS DA ELETRICIDADE",
+    "Semestre": 4,
+    "Apelido": "FUNDAMENTOS DA ELETRICIDADE",
+    "CargaHorariaTeorico": 34,
+    "CargaHorariaPratica": null,
+    "ListaPrequisitos": []
+  },
+  {
+    "Id": 41761,
+    "Codigo": "3101.000.097-6",
+    "Tipo": "OBR",
+    "Descricao": "FUNDAMENTOS DE DIDÁTICA",
+    "Semestre": 4,
+    "Apelido": "FUNDAMENTOS DE DIDÁTICA",
+    "CargaHorariaTeorico": 51,
+    "CargaHorariaPratica": null,
+    "ListaPrequisitos": []
+  },
+  {
+    "Id": 48714,
+    "Codigo": "2301.000.356-5",
+    "Tipo": "OBR",
+    "Descricao": "PRÁTICA EM EDUCAÇÃO QUÍMICA I",
+    "Semestre": 4,
+    "Apelido": "PRÁTICA EM EDUCAÇÃO QUÍMICA I",
+    "CargaHorariaTeorico": 51,
+    "CargaHorariaPratica": null,
+    "ListaPrequisitos": []
+  },
+  {
+    "Id": 48045,
+    "Codigo": "2301.000.351-0",
+    "Tipo": "OBR",
+    "Descricao": "QUÍMICA ANALÍTICA EXPERIMENTAL I",
+    "Semestre": 4,
+    "Apelido": "QUÍMICA ANALÍTICA EXPERIMENTAL I",
+    "CargaHorariaTeorico": 51,
+    "CargaHorariaPratica": null,
+    "ListaPrequisitos": []
+  },
+  {
+    "Id": 36060,
+    "Codigo": "2301.000.213-7",
+    "Tipo": "OBR",
+    "Descricao": "QUÍMICA ANALÍTICA I",
+    "Semestre": 4,
+    "Apelido": "QUÍMICA ANALÍTICA I",
+    "CargaHorariaTeorico": 34,
+    "CargaHorariaPratica": null,
+    "ListaPrequisitos": []
+  },
+  {
+    "Id": 48013,
+    "Codigo": "2301.000.329-8",
+    "Tipo": "OBR",
+    "Descricao": "QUÍMICA ORGÂNICA III",
+    "Semestre": 4,
+    "Apelido": "QUÍMICA ORGÂNICA III",
+    "CargaHorariaTeorico": 34,
+    "CargaHorariaPratica": null,
+    "ListaPrequisitos": [
+      {
+        "Id": 48041,
+        "Codigo": "2301.000.347-6",
+        "Descricao": "QUÍMICA ORGÂNICA I",
+        "Semestre": "0",
+        "Apelido": "QUÍMICA ORGÂNICA I",
+        "CargaHorariaTeorico": 0,
+        "CargaHorariaPratica": 0,
+        "ListaPrequisitos": []
+      }
+    ]
+  },
+  {
+    "Id": 48027,
+    "Codigo": "2301.000.338-7",
+    "Tipo": "OBR",
+    "Descricao": "FÍSICO-QUÍMICA I",
+    "Semestre": 5,
+    "Apelido": "FÍSICO-QUÍMICA I",
+    "CargaHorariaTeorico": 34,
+    "CargaHorariaPratica": null,
+    "ListaPrequisitos": []
+  },
+  {
+    "Id": 36063,
+    "Codigo": "2301.000.216-1",
+    "Tipo": "OBR",
+    "Descricao": "MÉTODOS ESPECTROMÉTRICOS EM QUÍMICA ORGÂNICA I",
+    "Semestre": 5,
+    "Apelido": "MÉTODOS ESPECTROMÉTRICOS EM QUÍMICA ORGÂNICA I",
+    "CargaHorariaTeorico": 51,
+    "CargaHorariaPratica": null,
+    "ListaPrequisitos": []
+  },
+  {
+    "Id": 48716,
+    "Codigo": "2301.000.358-3",
+    "Tipo": "OBR",
+    "Descricao": "PRÁTICA EM EDUCAÇÃO QUÍMICA II",
+    "Semestre": 5,
+    "Apelido": "PRÁTICA EM EDUCAÇÃO QUÍMICA II",
+    "CargaHorariaTeorico": 68,
+    "CargaHorariaPratica": null,
+    "ListaPrequisitos": [
+      {
+        "Id": 48736,
+        "Codigo": "2301.000.373-4",
+        "Descricao": "INTRODUÇÃO À PRÁTICA EM EDUCAÇÃO QUÍMICA",
+        "Semestre": "0",
+        "Apelido": "INTRODUÇÃO À PRÁTICA EM EDUCAÇÃO QUÍMICA",
+        "CargaHorariaTeorico": 0,
+        "CargaHorariaPratica": 0,
+        "ListaPrequisitos": []
+      }
+    ]
+  },
+  {
+    "Id": 48026,
+    "Codigo": "2301.000.337-8",
+    "Tipo": "OBR",
+    "Descricao": "QUÍMICA INORGÂNICA EXPERIMENTAL II",
+    "Semestre": 5,
+    "Apelido": "QUÍMICA INORGÂNICA EXPERIMENTAL II",
+    "CargaHorariaTeorico": 34,
+    "CargaHorariaPratica": null,
+    "ListaPrequisitos": [
+      {
+        "Id": 48022,
+        "Codigo": "2301.000.333-1",
+        "Descricao": "QUÍMICA GERAL",
+        "Semestre": "0",
+        "Apelido": "QUÍMICA GERAL",
+        "CargaHorariaTeorico": 0,
+        "CargaHorariaPratica": 0,
+        "ListaPrequisitos": []
+      },
+      {
+        "Id": 48718,
+        "Codigo": "2301.000.360-9",
+        "Descricao": "INTRODUÇÃO AO LABORATÓRIO QUÍMICO",
+        "Semestre": "0",
+        "Apelido": "INTRODUÇÃO AO LABORATÓRIO QUÍMICO",
+        "CargaHorariaTeorico": 0,
+        "CargaHorariaPratica": 0,
+        "ListaPrequisitos": []
+      }
+    ]
+  },
+  {
+    "Id": 36064,
+    "Codigo": "2301.000.217-0",
+    "Tipo": "OBR",
+    "Descricao": "QUÍMICA INORGÂNICA II",
+    "Semestre": 5,
+    "Apelido": "QUÍMICA INORGÂNICA II",
+    "CargaHorariaTeorico": 34,
+    "CargaHorariaPratica": null,
+    "ListaPrequisitos": [
+      {
+        "Id": 48022,
+        "Codigo": "2301.000.333-1",
+        "Descricao": "QUÍMICA GERAL",
+        "Semestre": "0",
+        "Apelido": "QUÍMICA GERAL",
+        "CargaHorariaTeorico": 0,
+        "CargaHorariaPratica": 0,
+        "ListaPrequisitos": []
+      }
+    ]
+  },
+  {
+    "Id": 48024,
+    "Codigo": "2301.000.335-0",
+    "Tipo": "OBR",
+    "Descricao": "QUÍMICA ORGÂNICA EXPERIMENTAL I",
+    "Semestre": 5,
+    "Apelido": "QUÍMICA ORGÂNICA EXPERIMENTAL I",
+    "CargaHorariaTeorico": 34,
+    "CargaHorariaPratica": null,
+    "ListaPrequisitos": [
+      {
+        "Id": 48041,
+        "Codigo": "2301.000.347-6",
+        "Descricao": "QUÍMICA ORGÂNICA I",
+        "Semestre": "0",
+        "Apelido": "QUÍMICA ORGÂNICA I",
+        "CargaHorariaTeorico": 0,
+        "CargaHorariaPratica": 0,
+        "ListaPrequisitos": []
+      }
+    ]
+  },
+  {
+    "Id": 48019,
+    "Codigo": "2201.000.200-0",
+    "Tipo": "OBR",
+    "Descricao": "SEQUÊNCIAS E SÉRIES",
+    "Semestre": 5,
+    "Apelido": "SEQUÊNCIAS E SÉRIES",
+    "CargaHorariaTeorico": 34,
+    "CargaHorariaPratica": null,
+    "ListaPrequisitos": [
+      {
+        "Id": 48016,
+        "Codigo": "2201.000.197-0",
+        "Descricao": "CÁLCULO I",
+        "Semestre": "0",
+        "Apelido": "CÁLCULO I",
+        "CargaHorariaTeorico": 0,
+        "CargaHorariaPratica": 0,
+        "ListaPrequisitos": []
+      }
+    ]
+  },
+  {
+    "Id": 41755,
+    "Codigo": "3101.000.094-1",
+    "Tipo": "OBR",
+    "Descricao": "EDUCAÇÃO ESPECIAL",
+    "Semestre": 6,
+    "Apelido": "EDUCAÇÃO ESPECIAL",
+    "CargaHorariaTeorico": 51,
+    "CargaHorariaPratica": null,
+    "ListaPrequisitos": []
+  },
+  {
+    "Id": 36069,
+    "Codigo": "2301.000.222-6",
+    "Tipo": "OBR",
+    "Descricao": "FÍSICO-QUÍMICA II",
+    "Semestre": 6,
+    "Apelido": "FÍSICO-QUÍMICA II",
+    "CargaHorariaTeorico": 51,
+    "CargaHorariaPratica": null,
+    "ListaPrequisitos": []
+  },
+  {
+    "Id": 48723,
+    "Codigo": "2401.000.287-3",
+    "Tipo": "OBR",
+    "Descricao": "LABORATÓRIO DE MECÂNICA, FLUIDOS E TERMODINÂMICA",
+    "Semestre": 6,
+    "Apelido": "LABORATÓRIO DE MECÂNICA, FLUIDOS E TERMODINÂMICA",
+    "CargaHorariaTeorico": 34,
+    "CargaHorariaPratica": null,
+    "ListaPrequisitos": []
+  },
+  {
+    "Id": 48728,
+    "Codigo": "2301.000.366-3",
+    "Tipo": "OBR",
+    "Descricao": "PRÁTICA EM EDUCAÇÃO QUÍMICA III",
+    "Semestre": 6,
+    "Apelido": "PRÁTICA EM EDUCAÇÃO QUÍMICA III",
+    "CargaHorariaTeorico": 68,
+    "CargaHorariaPratica": null,
+    "ListaPrequisitos": [
+      {
+        "Id": 48714,
+        "Codigo": "2301.000.356-5",
+        "Descricao": "PRÁTICA EM EDUCAÇÃO QUÍMICA I",
+        "Semestre": "0",
+        "Apelido": "PRÁTICA EM EDUCAÇÃO QUÍMICA I",
+        "CargaHorariaTeorico": 0,
+        "CargaHorariaPratica": 0,
+        "ListaPrequisitos": []
+      }
+    ]
+  },
+  {
+    "Id": 48048,
+    "Codigo": "2301.000.354-7",
+    "Tipo": "OBR",
+    "Descricao": "QUÍMICA ANALÍTICA EXPERIMENTAL II",
+    "Semestre": 6,
+    "Apelido": "QUÍMICA ANALÍTICA EXPERIMENTAL II",
+    "CargaHorariaTeorico": 68,
+    "CargaHorariaPratica": null,
+    "ListaPrequisitos": []
+  },
+  {
+    "Id": 48023,
+    "Codigo": "2301.000.334-0",
+    "Tipo": "OBR",
+    "Descricao": "QUIMICA ANALÍTICA II",
+    "Semestre": 6,
+    "Apelido": "QUIMICA ANALÍTICA II",
+    "CargaHorariaTeorico": 34,
+    "CargaHorariaPratica": null,
+    "ListaPrequisitos": []
+  },
+  {
+    "Id": 51906,
+    "Codigo": "2301.000.411-4",
+    "Tipo": "OBR",
+    "Descricao": "ESTÁGIO OBRIGATÓRIO I",
+    "Semestre": 7,
+    "Apelido": "ESTÁGIO OBRIGATÓRIO I",
+    "CargaHorariaTeorico": 68,
+    "CargaHorariaPratica": null,
+    "ListaPrequisitos": [
+      {
+        "Id": 48714,
+        "Codigo": "2301.000.356-5",
+        "Descricao": "PRÁTICA EM EDUCAÇÃO QUÍMICA I",
+        "Semestre": "0",
+        "Apelido": "PRÁTICA EM EDUCAÇÃO QUÍMICA I",
+        "CargaHorariaTeorico": 0,
+        "CargaHorariaPratica": 0,
+        "ListaPrequisitos": []
+      }
+    ]
+  },
+  {
+    "Id": 41756,
+    "Codigo": "3101.000.095-0",
+    "Tipo": "OBR",
+    "Descricao": "ESTUDO DE LIBRAS",
+    "Semestre": 7,
+    "Apelido": "ESTUDO DE LIBRAS",
+    "CargaHorariaTeorico": 51,
+    "CargaHorariaPratica": null,
+    "ListaPrequisitos": []
+  },
+  {
+    "Id": 36074,
+    "Codigo": "2301.000.227-7",
+    "Tipo": "OBR",
+    "Descricao": "FÍSICO-QUÍMICA III",
+    "Semestre": 7,
+    "Apelido": "FÍSICO-QUÍMICA III",
+    "CargaHorariaTeorico": 51,
+    "CargaHorariaPratica": null,
+    "ListaPrequisitos": []
+  },
+  {
+    "Id": 48725,
+    "Codigo": "2301.000.365-4",
+    "Tipo": "OBR",
+    "Descricao": "PRÁTICA EM EDUCAÇÃO QUÍMICA IV",
+    "Semestre": 7,
+    "Apelido": "PRÁTICA EM EDUCAÇÃO QUÍMICA IV",
+    "CargaHorariaTeorico": 68,
+    "CargaHorariaPratica": null,
+    "ListaPrequisitos": [
+      {
+        "Id": 48714,
+        "Codigo": "2301.000.356-5",
+        "Descricao": "PRÁTICA EM EDUCAÇÃO QUÍMICA I",
+        "Semestre": "0",
+        "Apelido": "PRÁTICA EM EDUCAÇÃO QUÍMICA I",
+        "CargaHorariaTeorico": 0,
+        "CargaHorariaPratica": 0,
+        "ListaPrequisitos": []
+      }
+    ]
+  },
+  {
+    "Id": 48044,
+    "Codigo": "2301.000.350-0",
+    "Tipo": "OBR",
+    "Descricao": "QUÍMICA ANALÍTICA INSTRUMENTAL I",
+    "Semestre": 7,
+    "Apelido": "QUÍMICA ANALÍTICA INSTRUMENTAL I",
+    "CargaHorariaTeorico": 51,
+    "CargaHorariaPratica": null,
+    "ListaPrequisitos": []
+  },
+  {
+    "Id": 48735,
+    "Codigo": "2301.000.372-5",
+    "Tipo": "OBR",
+    "Descricao": "SEGURANÇA E MEIO AMBIENTE",
+    "Semestre": 7,
+    "Apelido": "SEGURANÇA E MEIO AMBIENTE",
+    "CargaHorariaTeorico": 51,
+    "CargaHorariaPratica": null,
+    "ListaPrequisitos": []
+  },
+  {
+    "Id": 51907,
+    "Codigo": "2301.000.412-3",
+    "Tipo": "OBR",
+    "Descricao": "ESTÁGIO OBRIGATÓRIO II",
+    "Semestre": 8,
+    "Apelido": "ESTÁGIO OBRIGATÓRIO II",
+    "CargaHorariaTeorico": 68,
+    "CargaHorariaPratica": null,
+    "ListaPrequisitos": [
+      {
+        "Id": 48716,
+        "Codigo": "2301.000.358-3",
+        "Descricao": "PRÁTICA EM EDUCAÇÃO QUÍMICA II",
+        "Semestre": "0",
+        "Apelido": "PRÁTICA EM EDUCAÇÃO QUÍMICA II",
+        "CargaHorariaTeorico": 0,
+        "CargaHorariaPratica": 0,
+        "ListaPrequisitos": []
+      }
+    ]
+  },
+  {
+    "Id": 48028,
+    "Codigo": "2301.000.339-6",
+    "Tipo": "OBR",
+    "Descricao": "FÍSICO-QUÍMICA IV",
+    "Semestre": 8,
+    "Apelido": "FÍSICO-QUÍMICA IV",
+    "CargaHorariaTeorico": 51,
+    "CargaHorariaPratica": null,
+    "ListaPrequisitos": []
+  },
+  {
+    "Id": 48047,
+    "Codigo": "2301.000.353-8",
+    "Tipo": "OBR",
+    "Descricao": "QUÍMICA ANALÍTICA INSTRUMENTAL EXPERIMENTAL",
+    "Semestre": 8,
+    "Apelido": "QUÍMICA ANALÍTICA INSTRUMENTAL EXPERIMENTAL",
+    "CargaHorariaTeorico": 68,
+    "CargaHorariaPratica": null,
+    "ListaPrequisitos": []
+  },
+  {
+    "Id": 48010,
+    "Codigo": "2301.000.326-0",
+    "Tipo": "OBR",
+    "Descricao": "QUÍMICA ANALÍTICA INSTRUMENTAL II",
+    "Semestre": 8,
+    "Apelido": "QUÍMICA ANALÍTICA INSTRUMENTAL II",
+    "CargaHorariaTeorico": 34,
+    "CargaHorariaPratica": null,
+    "ListaPrequisitos": []
+  },
+  {
+    "Id": 48042,
+    "Codigo": "2301.000.348-5",
+    "Tipo": "OBR",
+    "Descricao": "QUÍMICA INORGÂNICA EXPERIMENTAL III",
+    "Semestre": 8,
+    "Apelido": "QUÍMICA INORGÂNICA EXPERIMENTAL III",
+    "CargaHorariaTeorico": 34,
+    "CargaHorariaPratica": null,
+    "ListaPrequisitos": [
+      {
+        "Id": 48022,
+        "Codigo": "2301.000.333-1",
+        "Descricao": "QUÍMICA GERAL",
+        "Semestre": "0",
+        "Apelido": "QUÍMICA GERAL",
+        "CargaHorariaTeorico": 0,
+        "CargaHorariaPratica": 0,
+        "ListaPrequisitos": []
+      },
+      {
+        "Id": 48718,
+        "Codigo": "2301.000.360-9",
+        "Descricao": "INTRODUÇÃO AO LABORATÓRIO QUÍMICO",
+        "Semestre": "0",
+        "Apelido": "INTRODUÇÃO AO LABORATÓRIO QUÍMICO",
+        "CargaHorariaTeorico": 0,
+        "CargaHorariaPratica": 0,
+        "ListaPrequisitos": []
+      }
+    ]
+  },
+  {
+    "Id": 36077,
+    "Codigo": "2301.000.230-7",
+    "Tipo": "OBR",
+    "Descricao": "QUÍMICA INORGÂNICA III",
+    "Semestre": 8,
+    "Apelido": "QUÍMICA INORGÂNICA III",
+    "CargaHorariaTeorico": 34,
+    "CargaHorariaPratica": null,
+    "ListaPrequisitos": [
+      {
+        "Id": 48022,
+        "Codigo": "2301.000.333-1",
+        "Descricao": "QUÍMICA GERAL",
+        "Semestre": "0",
+        "Apelido": "QUÍMICA GERAL",
+        "CargaHorariaTeorico": 0,
+        "CargaHorariaPratica": 0,
+        "ListaPrequisitos": []
+      }
+    ]
+  },
+  {
+    "Id": 51908,
+    "Codigo": "2301.000.413-2",
+    "Tipo": "OBR",
+    "Descricao": "ESTÁGIO OBRIGATÓRIO III",
+    "Semestre": 9,
+    "Apelido": "ESTÁGIO OBRIGATÓRIO III",
+    "CargaHorariaTeorico": 136,
+    "CargaHorariaPratica": null,
+    "ListaPrequisitos": [
+      {
+        "Id": 48728,
+        "Codigo": "2301.000.366-3",
+        "Descricao": "PRÁTICA EM EDUCAÇÃO QUÍMICA III",
+        "Semestre": "0",
+        "Apelido": "PRÁTICA EM EDUCAÇÃO QUÍMICA III",
+        "CargaHorariaTeorico": 0,
+        "CargaHorariaPratica": 0,
+        "ListaPrequisitos": []
+      }
+    ]
+  },
+  {
+    "Id": 36084,
+    "Codigo": "2301.000.237-4",
+    "Tipo": "OBR",
+    "Descricao": "FÍSICO-QUÍMICA V",
+    "Semestre": 9,
+    "Apelido": "FÍSICO-QUÍMICA V",
+    "CargaHorariaTeorico": 34,
+    "CargaHorariaPratica": null,
+    "ListaPrequisitos": []
+  },
+  {
+    "Id": 48721,
+    "Codigo": "2301.000.362-7",
+    "Tipo": "OBR",
+    "Descricao": "INVESTIGAÇÃO E PRÁTICA EM EDUCAÇÃO QUÍMICA I",
+    "Semestre": 9,
+    "Apelido": "INVESTIGAÇÃO E PRÁTICA EM EDUCAÇÃO QUÍMICA I",
+    "CargaHorariaTeorico": 51,
+    "CargaHorariaPratica": null,
+    "ListaPrequisitos": [
+      {
+        "Id": 48728,
+        "Codigo": "2301.000.366-3",
+        "Descricao": "PRÁTICA EM EDUCAÇÃO QUÍMICA III",
+        "Semestre": "0",
+        "Apelido": "PRÁTICA EM EDUCAÇÃO QUÍMICA III",
+        "CargaHorariaTeorico": 0,
+        "CargaHorariaPratica": 0,
+        "ListaPrequisitos": []
+      },
+      {
+        "Id": 51906,
+        "Codigo": "2301.000.411-4",
+        "Descricao": "ESTÁGIO OBRIGATÓRIO I",
+        "Semestre": "0",
+        "Apelido": "ESTÁGIO OBRIGATÓRIO I",
+        "CargaHorariaTeorico": 0,
+        "CargaHorariaPratica": 0,
+        "ListaPrequisitos": []
+      }
+    ]
+  },
+  {
+    "Id": 48039,
+    "Codigo": "2101.001.405-5",
+    "Tipo": "OBR",
+    "Descricao": "MINERALOGIA",
+    "Semestre": 9,
+    "Apelido": "MINERALOGIA",
+    "CargaHorariaTeorico": 51,
+    "CargaHorariaPratica": null,
+    "ListaPrequisitos": [
+      {
+        "Id": 48046,
+        "Codigo": "2301.000.352-9",
+        "Descricao": "QUÍMICA INORGÂNICA I",
+        "Semestre": "0",
+        "Apelido": "QUÍMICA INORGÂNICA I",
+        "CargaHorariaTeorico": 0,
+        "CargaHorariaPratica": 0,
+        "ListaPrequisitos": []
+      }
+    ]
+  },
+  {
+    "Id": 48717,
+    "Codigo": "2301.000.359-2",
+    "Tipo": "OBR",
+    "Descricao": "QUÍMICA DE BIOMOLÉCULAS E METABOLISMO",
+    "Semestre": 9,
+    "Apelido": "QUÍMICA DE BIOMOLÉCULAS E METABOLISMO",
+    "CargaHorariaTeorico": 68,
+    "CargaHorariaPratica": null,
+    "ListaPrequisitos": [
+      {
+        "Id": 48013,
+        "Codigo": "2301.000.329-8",
+        "Descricao": "QUÍMICA ORGÂNICA III",
+        "Semestre": "0",
+        "Apelido": "QUÍMICA ORGÂNICA III",
+        "CargaHorariaTeorico": 0,
+        "CargaHorariaPratica": 0,
+        "ListaPrequisitos": []
+      }
+    ]
+  },
+  {
+    "Id": 51905,
+    "Codigo": "2301.000.410-5",
+    "Tipo": "OBR",
+    "Descricao": "ESTÁGIO OBRIGATÓRIO IV",
+    "Semestre": 10,
+    "Apelido": "ESTÁGIO OBRIGATÓRIO IV",
+    "CargaHorariaTeorico": 136,
+    "CargaHorariaPratica": null,
+    "ListaPrequisitos": [
+      {
+        "Id": 48725,
+        "Codigo": "2301.000.365-4",
+        "Descricao": "PRÁTICA EM EDUCAÇÃO QUÍMICA IV",
+        "Semestre": "0",
+        "Apelido": "PRÁTICA EM EDUCAÇÃO QUÍMICA IV",
+        "CargaHorariaTeorico": 0,
+        "CargaHorariaPratica": 0,
+        "ListaPrequisitos": []
+      }
+    ]
+  },
+  {
+    "Id": 36089,
+    "Codigo": "2301.000.240-4",
+    "Tipo": "OBR",
+    "Descricao": "FÍSICO-QUÍMICA EXPERIMENTAL",
+    "Semestre": 10,
+    "Apelido": "FÍSICO-QUÍMICA EXPERIMENTAL",
+    "CargaHorariaTeorico": 51,
+    "CargaHorariaPratica": null,
+    "ListaPrequisitos": []
+  },
+  {
+    "Id": 48720,
+    "Codigo": "2301.000.361-8",
+    "Tipo": "OBR",
+    "Descricao": "INVESTIGAÇÃO E PRÁTICA EM EDUCAÇÃO QUÍMICA II",
+    "Semestre": 10,
+    "Apelido": "INVESTIGAÇÃO E PRÁTICA EM EDUCAÇÃO QUÍMICA II",
+    "CargaHorariaTeorico": 51,
+    "CargaHorariaPratica": null,
+    "ListaPrequisitos": [
+      {
+        "Id": 48725,
+        "Codigo": "2301.000.365-4",
+        "Descricao": "PRÁTICA EM EDUCAÇÃO QUÍMICA IV",
+        "Semestre": "0",
+        "Apelido": "PRÁTICA EM EDUCAÇÃO QUÍMICA IV",
+        "CargaHorariaTeorico": 0,
+        "CargaHorariaPratica": 0,
+        "ListaPrequisitos": []
+      },
+      {
+        "Id": 51907,
+        "Codigo": "2301.000.412-3",
+        "Descricao": "ESTÁGIO OBRIGATÓRIO II",
+        "Semestre": "0",
+        "Apelido": "ESTÁGIO OBRIGATÓRIO II",
+        "CargaHorariaTeorico": 0,
+        "CargaHorariaPratica": 0,
+        "ListaPrequisitos": []
+      }
+    ]
+  },
+  {
+    "Id": 48015,
+    "Codigo": "2301.000.331-3",
+    "Tipo": "OPT",
+    "Descricao": "CORROSÃO INDUSTRIAL",
+    "Semestre": 99,
+    "Apelido": "CORROSÃO INDUSTRIAL",
+    "CargaHorariaTeorico": 51,
+    "CargaHorariaPratica": null,
+    "ListaPrequisitos": [
+      {
+        "Id": 48044,
+        "Codigo": "2301.000.350-0",
+        "Descricao": "QUÍMICA ANALÍTICA INSTRUMENTAL I",
+        "Semestre": "0",
+        "Apelido": "QUÍMICA ANALÍTICA INSTRUMENTAL I",
+        "CargaHorariaTeorico": 0,
+        "CargaHorariaPratica": 0,
+        "ListaPrequisitos": []
+      },
+      {
+        "Id": 48046,
+        "Codigo": "2301.000.352-9",
+        "Descricao": "QUÍMICA INORGÂNICA I",
+        "Semestre": "0",
+        "Apelido": "QUÍMICA INORGÂNICA I",
+        "CargaHorariaTeorico": 0,
+        "CargaHorariaPratica": 0,
+        "ListaPrequisitos": []
+      }
+    ]
+  },
+  {
+    "Id": 24594,
+    "Codigo": "2001.000.041-5",
+    "Tipo": "OPT",
+    "Descricao": "DIREITOS HUMANOS I",
+    "Semestre": 99,
+    "Apelido": "DIREITOS HUMANOS I",
+    "CargaHorariaTeorico": 34,
+    "CargaHorariaPratica": null,
+    "ListaPrequisitos": []
+  },
+  {
+    "Id": 24596,
+    "Codigo": "2001.000.043-1",
+    "Tipo": "OPT",
+    "Descricao": "DIREITOS HUMANOS II",
+    "Semestre": 99,
+    "Apelido": "DIREITOS HUMANOS II",
+    "CargaHorariaTeorico": 34,
+    "CargaHorariaPratica": null,
+    "ListaPrequisitos": []
+  },
+  {
+    "Id": 48729,
+    "Codigo": "2701.000.336-6",
+    "Tipo": "OPT",
+    "Descricao": "EDUCAÇÃO AMBIENTAL",
+    "Semestre": 99,
+    "Apelido": "EDUCAÇÃO AMBIENTAL",
+    "CargaHorariaTeorico": 34,
+    "CargaHorariaPratica": null,
+    "ListaPrequisitos": []
+  },
+  {
+    "Id": 43181,
+    "Codigo": "3001.000.371-0",
+    "Tipo": "OPT",
+    "Descricao": "EDUCAÇÃO DAS RELAÇÕES ÉTNICO-RACIAIS",
+    "Semestre": 99,
+    "Apelido": "EDUCAÇÃO DAS RELAÇÕES ÉTNICO-RACIAIS",
+    "CargaHorariaTeorico": 51,
+    "CargaHorariaPratica": null,
+    "ListaPrequisitos": []
+  },
+  {
+    "Id": 36029,
+    "Codigo": "2301.000.183-1",
+    "Tipo": "OPT",
+    "Descricao": "ELETROQUÍMICA INDUSTRIAL",
+    "Semestre": 99,
+    "Apelido": "ELETROQUÍMICA INDUSTRIAL",
+    "CargaHorariaTeorico": 34,
+    "CargaHorariaPratica": null,
+    "ListaPrequisitos": [
+      {
+        "Id": 48028,
+        "Codigo": "2301.000.339-6",
+        "Descricao": "FÍSICO-QUÍMICA IV",
+        "Semestre": "0",
+        "Apelido": "FÍSICO-QUÍMICA IV",
+        "CargaHorariaTeorico": 0,
+        "CargaHorariaPratica": 0,
+        "ListaPrequisitos": []
+      }
+    ]
+  },
+  {
+    "Id": 43686,
+    "Codigo": "1991.000.004-3",
+    "Tipo": "OPT",
+    "Descricao": "EMPREENDEDORISMO E INOVAÇÃO",
+    "Semestre": 99,
+    "Apelido": "EMPREENDEDORISMO E INOVAÇÃO",
+    "CargaHorariaTeorico": 68,
+    "CargaHorariaPratica": null,
+    "ListaPrequisitos": []
+  },
+  {
+    "Id": 36030,
+    "Codigo": "2301.000.184-0",
+    "Tipo": "OPT",
+    "Descricao": "ESTEREOQUÍMICA",
+    "Semestre": 99,
+    "Apelido": "ESTEREOQUÍMICA",
+    "CargaHorariaTeorico": 51,
+    "CargaHorariaPratica": null,
+    "ListaPrequisitos": [
+      {
+        "Id": 48012,
+        "Codigo": "2301.000.328-9",
+        "Descricao": "QUÍMICA ORGÂNICA II",
+        "Semestre": "0",
+        "Apelido": "QUÍMICA ORGÂNICA II",
+        "CargaHorariaTeorico": 0,
+        "CargaHorariaPratica": 0,
+        "ListaPrequisitos": []
+      }
+    ]
+  },
+  {
+    "Id": 43863,
+    "Codigo": "3001.000.394-3",
+    "Tipo": "OPT",
+    "Descricao": "FILOSOFIA DA CIÊNCIA",
+    "Semestre": 99,
+    "Apelido": "FILOSOFIA DA CIÊNCIA",
+    "CargaHorariaTeorico": 68,
+    "CargaHorariaPratica": null,
+    "ListaPrequisitos": []
+  },
+  {
+    "Id": 36033,
+    "Codigo": "2301.000.187-4",
+    "Tipo": "OPT",
+    "Descricao": "HISTÓRIA DA FÍSICO-QUÍMICA",
+    "Semestre": 99,
+    "Apelido": "HISTÓRIA DA FÍSICO-QUÍMICA",
+    "CargaHorariaTeorico": 34,
+    "CargaHorariaPratica": null,
+    "ListaPrequisitos": []
+  },
+  {
+    "Id": 36034,
+    "Codigo": "2301.000.188-2",
+    "Tipo": "OPT",
+    "Descricao": "HISTÓRIA DA QUÍMICA",
+    "Semestre": 99,
+    "Apelido": "HISTÓRIA DA QUÍMICA",
+    "CargaHorariaTeorico": 34,
+    "CargaHorariaPratica": null,
+    "ListaPrequisitos": []
+  },
+  {
+    "Id": 36035,
+    "Codigo": "2301.000.189-0",
+    "Tipo": "OPT",
+    "Descricao": "INTRODUÇÃO A CINÉTICA ELETROQUÍMICA",
+    "Semestre": 99,
+    "Apelido": "INTRODUÇÃO A CINÉTICA ELETROQUÍMICA",
+    "CargaHorariaTeorico": 51,
+    "CargaHorariaPratica": null,
+    "ListaPrequisitos": [
+      {
+        "Id": 36074,
+        "Codigo": "2301.000.227-7",
+        "Descricao": "FÍSICO-QUÍMICA III",
+        "Semestre": "0",
+        "Apelido": "FÍSICO-QUÍMICA III",
+        "CargaHorariaTeorico": 0,
+        "CargaHorariaPratica": 0,
+        "ListaPrequisitos": []
+      }
+    ]
+  },
+  {
+    "Id": 36036,
+    "Codigo": "2301.000.190-4",
+    "Tipo": "OPT",
+    "Descricao": "INTRODUÇÃO A COSMETOLOGIA",
+    "Semestre": 99,
+    "Apelido": "INTRODUÇÃO A COSMETOLOGIA",
+    "CargaHorariaTeorico": 68,
+    "CargaHorariaPratica": null,
+    "ListaPrequisitos": [
+      {
+        "Id": 48012,
+        "Codigo": "2301.000.328-9",
+        "Descricao": "QUÍMICA ORGÂNICA II",
+        "Semestre": "0",
+        "Apelido": "QUÍMICA ORGÂNICA II",
+        "CargaHorariaTeorico": 0,
+        "CargaHorariaPratica": 0,
+        "ListaPrequisitos": []
+      }
+    ]
+  },
+  {
+    "Id": 36037,
+    "Codigo": "2301.000.191-2",
+    "Tipo": "OPT",
+    "Descricao": "INTRODUÇÃO À QUÍMICA DE MATERIAIS CERÂMICOS",
+    "Semestre": 99,
+    "Apelido": "INTRODUÇÃO À QUÍMICA DE MATERIAIS CERÂMICOS",
+    "CargaHorariaTeorico": 34,
+    "CargaHorariaPratica": null,
+    "ListaPrequisitos": [
+      {
+        "Id": 36077,
+        "Codigo": "2301.000.230-7",
+        "Descricao": "QUÍMICA INORGÂNICA III",
+        "Semestre": "0",
+        "Apelido": "QUÍMICA INORGÂNICA III",
+        "CargaHorariaTeorico": 0,
+        "CargaHorariaPratica": 0,
+        "ListaPrequisitos": []
+      }
+    ]
+  },
+  {
+    "Id": 48713,
+    "Codigo": "2301.000.355-6",
+    "Tipo": "OPT",
+    "Descricao": "LABORATÓRIO DE ENSINO DE CIÊNCIAS E QUÍMICA",
+    "Semestre": 99,
+    "Apelido": "LABORATÓRIO DE ENSINO DE CIÊNCIAS E QUÍMICA",
+    "CargaHorariaTeorico": 68,
+    "CargaHorariaPratica": null,
+    "ListaPrequisitos": []
+  },
+  {
+    "Id": 48043,
+    "Codigo": "2301.000.349-4",
+    "Tipo": "OPT",
+    "Descricao": "MICROBIOLOGIA E BIOTECNOLOGIA INDUSTRIAL",
+    "Semestre": 99,
+    "Apelido": "MICROBIOLOGIA E BIOTECNOLOGIA INDUSTRIAL",
+    "CargaHorariaTeorico": 68,
+    "CargaHorariaPratica": null,
+    "ListaPrequisitos": []
+  },
+  {
+    "Id": 44010,
+    "Codigo": "3101.000.360-4",
+    "Tipo": "OPT",
+    "Descricao": "ORGANIZAÇÃO CURRICULAR E GESTÃO DA ESCOLA",
+    "Semestre": 99,
+    "Apelido": "ORGANIZAÇÃO CURRICULAR E GESTÃO DA ESCOLA",
+    "CargaHorariaTeorico": 68,
+    "CargaHorariaPratica": null,
+    "ListaPrequisitos": []
+  },
+  {
+    "Id": 41088,
+    "Codigo": "2301.000.282-0",
+    "Tipo": "OPT",
+    "Descricao": "PRÁTICA DE ENSINO EM CIÊNCIAS I",
+    "Semestre": 99,
+    "Apelido": "PRÁTICA DE ENSINO EM CIÊNCIAS I",
+    "CargaHorariaTeorico": 68,
+    "CargaHorariaPratica": null,
+    "ListaPrequisitos": []
+  },
+  {
+    "Id": 41089,
+    "Codigo": "2301.000.283-8",
+    "Tipo": "OPT",
+    "Descricao": "PRÁTICA DE ENSINO EM CIÊNCIAS II",
+    "Semestre": 99,
+    "Apelido": "PRÁTICA DE ENSINO EM CIÊNCIAS II",
+    "CargaHorariaTeorico": 68,
+    "CargaHorariaPratica": null,
+    "ListaPrequisitos": []
+  },
+  {
+    "Id": 41090,
+    "Codigo": "2301.000.284-6",
+    "Tipo": "OPT",
+    "Descricao": "PRÁTICAS INTEGRADORAS PARA FORMAÇÃO DOCENTE",
+    "Semestre": 99,
+    "Apelido": "PRÁTICAS INTEGRADORAS PARA FORMAÇÃO DOCENTE",
+    "CargaHorariaTeorico": 68,
+    "CargaHorariaPratica": null,
+    "ListaPrequisitos": []
+  },
+  {
+    "Id": 36104,
+    "Codigo": "2301.000.250-1",
+    "Tipo": "OPT",
+    "Descricao": "PRINCÍPIOS DE PROCESSOS QUÍMICOS",
+    "Semestre": 99,
+    "Apelido": "PRINCÍPIOS DE PROCESSOS QUÍMICOS",
+    "CargaHorariaTeorico": 68,
+    "CargaHorariaPratica": null,
+    "ListaPrequisitos": []
+  },
+  {
+    "Id": 48014,
+    "Codigo": "2301.000.330-4",
+    "Tipo": "OPT",
+    "Descricao": "PROCESSOS INDUSTRIAIS FERMENTATIVOS",
+    "Semestre": 99,
+    "Apelido": "PROCESSOS INDUSTRIAIS FERMENTATIVOS",
+    "CargaHorariaTeorico": 68,
+    "CargaHorariaPratica": null,
+    "ListaPrequisitos": []
+  },
+  {
+    "Id": 36041,
+    "Codigo": "2301.000.195-5",
+    "Tipo": "OPT",
+    "Descricao": "PRODUTOS NATURAIS",
+    "Semestre": 99,
+    "Apelido": "PRODUTOS NATURAIS",
+    "CargaHorariaTeorico": 34,
+    "CargaHorariaPratica": null,
+    "ListaPrequisitos": []
+  },
+  {
+    "Id": 43183,
+    "Codigo": "3101.000.335-5",
+    "Tipo": "OPT",
+    "Descricao": "PROFISSÃO DOCENTE: IDENTIDADE, CARREIRA E DESENVOLVIMENTO PROFISSIONAL",
+    "Semestre": 99,
+    "Apelido": "PROFISSÃO DOCENTE: IDENTIDADE, CARREIRA E DESENVOLVIMENTO PROFISSIONAL",
+    "CargaHorariaTeorico": 68,
+    "CargaHorariaPratica": null,
+    "ListaPrequisitos": []
+  },
+  {
+    "Id": 36094,
+    "Codigo": "2301.000.245-5",
+    "Tipo": "OPT",
+    "Descricao": "QUÍMICA AMBIENTAL",
+    "Semestre": 99,
+    "Apelido": "QUÍMICA AMBIENTAL",
+    "CargaHorariaTeorico": 51,
+    "CargaHorariaPratica": null,
+    "ListaPrequisitos": [
+      {
+        "Id": 48022,
+        "Codigo": "2301.000.333-1",
+        "Descricao": "QUÍMICA GERAL",
+        "Semestre": "0",
+        "Apelido": "QUÍMICA GERAL",
+        "CargaHorariaTeorico": 0,
+        "CargaHorariaPratica": 0,
+        "ListaPrequisitos": []
+      }
+    ]
+  },
+  {
+    "Id": 36042,
+    "Codigo": "2301.000.196-3",
+    "Tipo": "OPT",
+    "Descricao": "QUÍMICA DOS POLÍMEROS",
+    "Semestre": 99,
+    "Apelido": "QUÍMICA DOS POLÍMEROS",
+    "CargaHorariaTeorico": 51,
+    "CargaHorariaPratica": null,
+    "ListaPrequisitos": [
+      {
+        "Id": 48013,
+        "Codigo": "2301.000.329-8",
+        "Descricao": "QUÍMICA ORGÂNICA III",
+        "Semestre": "0",
+        "Apelido": "QUÍMICA ORGÂNICA III",
+        "CargaHorariaTeorico": 0,
+        "CargaHorariaPratica": 0,
+        "ListaPrequisitos": []
+      }
+    ]
+  },
+  {
+    "Id": 36043,
+    "Codigo": "2301.000.197-1",
+    "Tipo": "OPT",
+    "Descricao": "QUÍMICA INORGÂNICA DA VIDA",
+    "Semestre": 99,
+    "Apelido": "QUÍMICA INORGÂNICA DA VIDA",
+    "CargaHorariaTeorico": 34,
+    "CargaHorariaPratica": null,
+    "ListaPrequisitos": [
+      {
+        "Id": 48046,
+        "Codigo": "2301.000.352-9",
+        "Descricao": "QUÍMICA INORGÂNICA I",
+        "Semestre": "0",
+        "Apelido": "QUÍMICA INORGÂNICA I",
+        "CargaHorariaTeorico": 0,
+        "CargaHorariaPratica": 0,
+        "ListaPrequisitos": []
+      },
+      {
+        "Id": 48717,
+        "Codigo": "2301.000.359-2",
+        "Descricao": "QUÍMICA DE BIOMOLÉCULAS E METABOLISMO",
+        "Semestre": "0",
+        "Apelido": "QUÍMICA DE BIOMOLÉCULAS E METABOLISMO",
+        "CargaHorariaTeorico": 0,
+        "CargaHorariaPratica": 0,
+        "ListaPrequisitos": []
+      }
+    ]
+  },
+  {
+    "Id": 36044,
+    "Codigo": "2301.000.198-0",
+    "Tipo": "OPT",
+    "Descricao": "QUÍMICA INORGÂNICA SINTÉTICA",
+    "Semestre": 99,
+    "Apelido": "QUÍMICA INORGÂNICA SINTÉTICA",
+    "CargaHorariaTeorico": 51,
+    "CargaHorariaPratica": null,
+    "ListaPrequisitos": [
+      {
+        "Id": 36064,
+        "Codigo": "2301.000.217-0",
+        "Descricao": "QUÍMICA INORGÂNICA II",
+        "Semestre": "0",
+        "Apelido": "QUÍMICA INORGÂNICA II",
+        "CargaHorariaTeorico": 0,
+        "CargaHorariaPratica": 0,
+        "ListaPrequisitos": []
+      },
+      {
+        "Id": 48026,
+        "Codigo": "2301.000.337-8",
+        "Descricao": "QUÍMICA INORGÂNICA EXPERIMENTAL II",
+        "Semestre": "0",
+        "Apelido": "QUÍMICA INORGÂNICA EXPERIMENTAL II",
+        "CargaHorariaTeorico": 0,
+        "CargaHorariaPratica": 0,
+        "ListaPrequisitos": []
+      }
+    ]
+  },
+  {
+    "Id": 36103,
+    "Codigo": "2301.000.249-8",
+    "Tipo": "OPT",
+    "Descricao": "QUÍMICA ORGÂNICA EXPERIMENTAL II",
+    "Semestre": 99,
+    "Apelido": "QUÍMICA ORGÂNICA EXPERIMENTAL II",
+    "CargaHorariaTeorico": 68,
+    "CargaHorariaPratica": null,
+    "ListaPrequisitos": [
+      {
+        "Id": 48024,
+        "Codigo": "2301.000.335-0",
+        "Descricao": "QUÍMICA ORGÂNICA EXPERIMENTAL I",
+        "Semestre": "0",
+        "Apelido": "QUÍMICA ORGÂNICA EXPERIMENTAL I",
+        "CargaHorariaTeorico": 0,
+        "CargaHorariaPratica": 0,
+        "ListaPrequisitos": []
+      }
+    ]
+  },
+  {
+    "Id": 36045,
+    "Codigo": "2301.000.199-8",
+    "Tipo": "OPT",
+    "Descricao": "QUÍMICA QUÂNTICA E MECÂNICA ESTATÍSTICA",
+    "Semestre": 99,
+    "Apelido": "QUÍMICA QUÂNTICA E MECÂNICA ESTATÍSTICA",
+    "CargaHorariaTeorico": 34,
+    "CargaHorariaPratica": null,
+    "ListaPrequisitos": [
+      {
+        "Id": 36084,
+        "Codigo": "2301.000.237-4",
+        "Descricao": "FÍSICO-QUÍMICA V",
+        "Semestre": "0",
+        "Apelido": "FÍSICO-QUÍMICA V",
+        "CargaHorariaTeorico": 0,
+        "CargaHorariaPratica": 0,
+        "ListaPrequisitos": []
+      }
+    ]
+  },
+  {
+    "Id": 48035,
+    "Codigo": "2301.000.342-0",
+    "Tipo": "OPT",
+    "Descricao": "QUÍMICA VERDE",
+    "Semestre": 99,
+    "Apelido": "QUÍMICA VERDE",
+    "CargaHorariaTeorico": 34,
+    "CargaHorariaPratica": null,
+    "ListaPrequisitos": [
+      {
+        "Id": 36060,
+        "Codigo": "2301.000.213-7",
+        "Descricao": "QUÍMICA ANALÍTICA I",
+        "Semestre": "0",
+        "Apelido": "QUÍMICA ANALÍTICA I",
+        "CargaHorariaTeorico": 0,
+        "CargaHorariaPratica": 0,
+        "ListaPrequisitos": []
+      },
+      {
+        "Id": 48041,
+        "Codigo": "2301.000.347-6",
+        "Descricao": "QUÍMICA ORGÂNICA I",
+        "Semestre": "0",
+        "Apelido": "QUÍMICA ORGÂNICA I",
+        "CargaHorariaTeorico": 0,
+        "CargaHorariaPratica": 0,
+        "ListaPrequisitos": []
+      },
+      {
+        "Id": 48046,
+        "Codigo": "2301.000.352-9",
+        "Descricao": "QUÍMICA INORGÂNICA I",
+        "Semestre": "0",
+        "Apelido": "QUÍMICA INORGÂNICA I",
+        "CargaHorariaTeorico": 0,
+        "CargaHorariaPratica": 0,
+        "ListaPrequisitos": []
+      }
+    ]
+  },
+  {
+    "Id": 48734,
+    "Codigo": "2301.000.371-6",
+    "Tipo": "OPT",
+    "Descricao": "SEMINÁRIOS II - DEBATES INTERDISCIPLINARES",
+    "Semestre": 99,
+    "Apelido": "SEMINÁRIOS II - DEBATES INTERDISCIPLINARES",
+    "CargaHorariaTeorico": 34,
+    "CargaHorariaPratica": null,
+    "ListaPrequisitos": [
+      {
+        "Id": 48736,
+        "Codigo": "2301.000.373-4",
+        "Descricao": "INTRODUÇÃO À PRÁTICA EM EDUCAÇÃO QUÍMICA",
+        "Semestre": "0",
+        "Apelido": "INTRODUÇÃO À PRÁTICA EM EDUCAÇÃO QUÍMICA",
+        "CargaHorariaTeorico": 0,
+        "CargaHorariaPratica": 0,
+        "ListaPrequisitos": []
+      },
+      {
+        "Id": 48739,
+        "Codigo": "2901.001.037-3",
+        "Descricao": "LEITURA E PRODUÇÃO DE TEXTO",
+        "Semestre": "0",
+        "Apelido": "LEITURA E PRODUÇÃO DE TEXTO",
+        "CargaHorariaTeorico": 0,
+        "CargaHorariaPratica": 0,
+        "ListaPrequisitos": []
+      }
+    ]
+  },
+  {
+    "Id": 48731,
+    "Codigo": "2301.000.368-1",
+    "Tipo": "OPT",
+    "Descricao": "SEMINÁRIOS I - TEMAS ATUAIS NO ENSINO DE CIÊNCIAS",
+    "Semestre": 99,
+    "Apelido": "SEMINÁRIOS I - TEMAS ATUAIS NO ENSINO DE CIÊNCIAS",
+    "CargaHorariaTeorico": 34,
+    "CargaHorariaPratica": null,
+    "ListaPrequisitos": [
+      {
+        "Id": 48736,
+        "Codigo": "2301.000.373-4",
+        "Descricao": "INTRODUÇÃO À PRÁTICA EM EDUCAÇÃO QUÍMICA",
+        "Semestre": "0",
+        "Apelido": "INTRODUÇÃO À PRÁTICA EM EDUCAÇÃO QUÍMICA",
+        "CargaHorariaTeorico": 0,
+        "CargaHorariaPratica": 0,
+        "ListaPrequisitos": []
+      },
+      {
+        "Id": 48739,
+        "Codigo": "2901.001.037-3",
+        "Descricao": "LEITURA E PRODUÇÃO DE TEXTO",
+        "Semestre": "0",
+        "Apelido": "LEITURA E PRODUÇÃO DE TEXTO",
+        "CargaHorariaTeorico": 0,
+        "CargaHorariaPratica": 0,
+        "ListaPrequisitos": []
+      }
+    ]
+  },
+  {
+    "Id": 36046,
+    "Codigo": "2301.000.200-5",
+    "Tipo": "OPT",
+    "Descricao": "SÍNTESE ORGÂNICA",
+    "Semestre": 99,
+    "Apelido": "SÍNTESE ORGÂNICA",
+    "CargaHorariaTeorico": 51,
+    "CargaHorariaPratica": null,
+    "ListaPrequisitos": [
+      {
+        "Id": 48024,
+        "Codigo": "2301.000.335-0",
+        "Descricao": "QUÍMICA ORGÂNICA EXPERIMENTAL I",
+        "Semestre": "0",
+        "Apelido": "QUÍMICA ORGÂNICA EXPERIMENTAL I",
+        "CargaHorariaTeorico": 0,
+        "CargaHorariaPratica": 0,
+        "ListaPrequisitos": []
+      }
+    ]
+  },
+  {
+    "Id": 36047,
+    "Codigo": "2301.000.201-3",
+    "Tipo": "OPT",
+    "Descricao": "TÉCNICAS DE EXTRAÇÃO PARA ANÁLISE CROMATOGRÁFICA",
+    "Semestre": 99,
+    "Apelido": "TÉCNICAS DE EXTRAÇÃO PARA ANÁLISE CROMATOGRÁFICA",
+    "CargaHorariaTeorico": 34,
+    "CargaHorariaPratica": null,
+    "ListaPrequisitos": [
+      {
+        "Id": 48023,
+        "Codigo": "2301.000.334-0",
+        "Descricao": "QUIMICA ANALÍTICA II",
+        "Semestre": "0",
+        "Apelido": "QUIMICA ANALÍTICA II",
+        "CargaHorariaTeorico": 0,
+        "CargaHorariaPratica": 0,
+        "ListaPrequisitos": []
+      }
+    ]
+  },
+  {
+    "Id": 43926,
+    "Codigo": "3001.000.455-7",
+    "Tipo": "OPT",
+    "Descricao": "TÓPICOS ESPECIAIS EM FILOSOFIA DA CIÊNCIA I",
+    "Semestre": 99,
+    "Apelido": "TÓPICOS ESPECIAIS EM FILOSOFIA DA CIÊNCIA I",
+    "CargaHorariaTeorico": 68,
+    "CargaHorariaPratica": null,
+    "ListaPrequisitos": []
+  },
+  {
+    "Id": 43890,
+    "Codigo": "3001.000.421-6",
+    "Tipo": "OPT",
+    "Descricao": "TÓPICOS ESPECIAIS EM FILOSOFIA DA CIÊNCIA II",
+    "Semestre": 99,
+    "Apelido": "TÓPICOS ESPECIAIS EM FILOSOFIA DA CIÊNCIA II",
+    "CargaHorariaTeorico": 68,
+    "CargaHorariaPratica": null,
+    "ListaPrequisitos": []
+  },
+  {
+    "Id": 43950,
+    "Codigo": "3001.000.479-0",
+    "Tipo": "OPT",
+    "Descricao": "TÓPICOS ESPECIAIS EM FILOSOFIA DA CIÊNCIA III",
+    "Semestre": 99,
+    "Apelido": "TÓPICOS ESPECIAIS EM FILOSOFIA DA CIÊNCIA III",
+    "CargaHorariaTeorico": 68,
+    "CargaHorariaPratica": null,
+    "ListaPrequisitos": []
+  },
+  {
+    "Id": 48737,
+    "Codigo": "2301.000.374-3",
+    "Tipo": "OPT",
+    "Descricao": "TÓPICOS ESPECIAIS PARA O ENSINO DE QUÍMICA I",
+    "Semestre": 99,
+    "Apelido": "TÓPICOS ESPECIAIS PARA O ENSINO DE QUÍMICA I",
+    "CargaHorariaTeorico": 34,
+    "CargaHorariaPratica": null,
+    "ListaPrequisitos": []
+  },
+  {
+    "Id": 48715,
+    "Codigo": "2301.000.357-4",
+    "Tipo": "OPT",
+    "Descricao": "TÓPICOS ESPECIAIS PARA O ENSINO DE QUÍMICA II",
+    "Semestre": 99,
+    "Apelido": "TÓPICOS ESPECIAIS PARA O ENSINO DE QUÍMICA II",
+    "CargaHorariaTeorico": 51,
+    "CargaHorariaPratica": null,
+    "ListaPrequisitos": []
+  },
+  {
+    "Id": 48738,
+    "Codigo": "2301.000.375-2",
+    "Tipo": "OPT",
+    "Descricao": "TÓPICOS ESPECIAIS PARA O ENSINO DE QUÍMICA III",
+    "Semestre": 99,
+    "Apelido": "TÓPICOS ESPECIAIS PARA O ENSINO DE QUÍMICA III",
+    "CargaHorariaTeorico": 68,
+    "CargaHorariaPratica": null,
+    "ListaPrequisitos": []
+  },
+  {
+    "Id": 36050,
+    "Codigo": "2301.000.204-8",
+    "Tipo": "OPT",
+    "Descricao": "TRATAMENTO DE RESÍDUOS QUÍMICOS DE LABORATÓRIO",
+    "Semestre": 99,
+    "Apelido": "TRATAMENTO DE RESÍDUOS QUÍMICOS DE LABORATÓRIO",
+    "CargaHorariaTeorico": 51,
+    "CargaHorariaPratica": null,
+    "ListaPrequisitos": [
+      {
+        "Id": 48022,
+        "Codigo": "2301.000.333-1",
+        "Descricao": "QUÍMICA GERAL",
+        "Semestre": "0",
+        "Apelido": "QUÍMICA GERAL",
+        "CargaHorariaTeorico": 0,
+        "CargaHorariaPratica": 0,
+        "ListaPrequisitos": []
+      }
+    ]
+  },
+  {
+    "Id": 48730,
+    "Codigo": "2301.000.367-2",
+    "Tipo": "OPT",
+    "Descricao": "UNIDADES TEMÁTICAS EM CIÊNCIAS DA NATUREZA",
+    "Semestre": 99,
+    "Apelido": "UNIDADES TEMÁTICAS EM CIÊNCIAS DA NATUREZA",
+    "CargaHorariaTeorico": 68,
+    "CargaHorariaPratica": null,
+    "ListaPrequisitos": []
+  }
+]

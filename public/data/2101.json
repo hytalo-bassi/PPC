@@ -1,0 +1,1392 @@
+[
+  {
+    "Id": 51319,
+    "Codigo": "2101.001.559-0",
+    "Tipo": "OBR",
+    "Descricao": "ESTUDOS DA FORMA E COMPOSIÇÃO I",
+    "Semestre": 1,
+    "Apelido": "ESTUDOS DA FORMA E COMPOSIÇÃO I",
+    "CargaHorariaTeorico": 68,
+    "CargaHorariaPratica": null,
+    "ListaPrequisitos": []
+  },
+  {
+    "Id": 51282,
+    "Codigo": "2101.001.522-1",
+    "Tipo": "OBR",
+    "Descricao": "ESTUDOS SOCIAIS NA ARQUITETURA E URBANISMO",
+    "Semestre": 1,
+    "Apelido": "ESTUDOS SOCIAIS NA ARQUITETURA E URBANISMO",
+    "CargaHorariaTeorico": 34,
+    "CargaHorariaPratica": null,
+    "ListaPrequisitos": []
+  },
+  {
+    "Id": 51285,
+    "Codigo": "2101.001.525-9",
+    "Tipo": "OBR",
+    "Descricao": "FUNDAMENTOS E PRÁTICAS EM ARQUITETURA E URBANISMO",
+    "Semestre": 1,
+    "Apelido": "FUNDAMENTOS E PRÁTICAS EM ARQUITETURA E URBANISMO",
+    "CargaHorariaTeorico": 68,
+    "CargaHorariaPratica": null,
+    "ListaPrequisitos": []
+  },
+  {
+    "Id": 51302,
+    "Codigo": "2101.001.542-8",
+    "Tipo": "OBR",
+    "Descricao": "GEOMETRIA DESCRITIVA",
+    "Semestre": 1,
+    "Apelido": "GEOMETRIA DESCRITIVA",
+    "CargaHorariaTeorico": 34,
+    "CargaHorariaPratica": null,
+    "ListaPrequisitos": []
+  },
+  {
+    "Id": 51286,
+    "Codigo": "2101.001.526-8",
+    "Tipo": "OBR",
+    "Descricao": "HISTÓRIA DA ARTE, ARQUITETURA E URBANISMO I",
+    "Semestre": 1,
+    "Apelido": "HISTÓRIA DA ARTE, ARQUITETURA E URBANISMO I",
+    "CargaHorariaTeorico": 68,
+    "CargaHorariaPratica": null,
+    "ListaPrequisitos": []
+  },
+  {
+    "Id": 51320,
+    "Codigo": "2101.001.560-6",
+    "Tipo": "OBR",
+    "Descricao": "MATERIAIS DE CONSTRUÇÃO I",
+    "Semestre": 1,
+    "Apelido": "MATERIAIS DE CONSTRUÇÃO I",
+    "CargaHorariaTeorico": 34,
+    "CargaHorariaPratica": null,
+    "ListaPrequisitos": []
+  },
+  {
+    "Id": 51310,
+    "Codigo": "2101.001.550-8",
+    "Tipo": "OBR",
+    "Descricao": "REPRESENTAÇÃO DIGITAL I",
+    "Semestre": 1,
+    "Apelido": "REPRESENTAÇÃO DIGITAL I",
+    "CargaHorariaTeorico": 68,
+    "CargaHorariaPratica": null,
+    "ListaPrequisitos": []
+  },
+  {
+    "Id": 38807,
+    "Codigo": "2101.001.178-4",
+    "Tipo": "OBR",
+    "Descricao": "SUSTENTABILIDADE NA ARQUITETURA E URBANISMO",
+    "Semestre": 1,
+    "Apelido": "SUSTENTABILIDADE NA ARQUITETURA E URBANISMO",
+    "CargaHorariaTeorico": 34,
+    "CargaHorariaPratica": null,
+    "ListaPrequisitos": []
+  },
+  {
+    "Id": 51304,
+    "Codigo": "2101.001.544-6",
+    "Tipo": "OBR",
+    "Descricao": "TOPOGRAFIA",
+    "Semestre": 1,
+    "Apelido": "TOPOGRAFIA",
+    "CargaHorariaTeorico": 68,
+    "CargaHorariaPratica": null,
+    "ListaPrequisitos": []
+  },
+  {
+    "Id": 51753,
+    "Codigo": "2101.001.610-2",
+    "Tipo": "OBR",
+    "Descricao": "ANÁLISE E CONCEPÇÃO DE ESTRUTURAS",
+    "Semestre": 2,
+    "Apelido": "ANÁLISE E CONCEPÇÃO DE ESTRUTURAS",
+    "CargaHorariaTeorico": 51,
+    "CargaHorariaPratica": null,
+    "ListaPrequisitos": []
+  },
+  {
+    "Id": 38810,
+    "Codigo": "2101.001.181-4",
+    "Tipo": "OBR",
+    "Descricao": "CONFORTO AMBIENTAL I",
+    "Semestre": 2,
+    "Apelido": "CONFORTO AMBIENTAL I",
+    "CargaHorariaTeorico": 68,
+    "CargaHorariaPratica": null,
+    "ListaPrequisitos": []
+  },
+  {
+    "Id": 51288,
+    "Codigo": "2101.001.528-6",
+    "Tipo": "OBR",
+    "Descricao": "DESENHO UNIVERSAL",
+    "Semestre": 2,
+    "Apelido": "DESENHO UNIVERSAL",
+    "CargaHorariaTeorico": 34,
+    "CargaHorariaPratica": null,
+    "ListaPrequisitos": []
+  },
+  {
+    "Id": 51324,
+    "Codigo": "2101.001.564-2",
+    "Tipo": "OBR",
+    "Descricao": "ESTUDOS DA FORMA E COMPOSIÇÃO II",
+    "Semestre": 2,
+    "Apelido": "ESTUDOS DA FORMA E COMPOSIÇÃO II",
+    "CargaHorariaTeorico": 68,
+    "CargaHorariaPratica": null,
+    "ListaPrequisitos": []
+  },
+  {
+    "Id": 51299,
+    "Codigo": "2101.001.539-3",
+    "Tipo": "OBR",
+    "Descricao": "HISTÓRIA DA ARTE, ARQUITETURA E URBANISMO II",
+    "Semestre": 2,
+    "Apelido": "HISTÓRIA DA ARTE, ARQUITETURA E URBANISMO II",
+    "CargaHorariaTeorico": 68,
+    "CargaHorariaPratica": null,
+    "ListaPrequisitos": []
+  },
+  {
+    "Id": 51321,
+    "Codigo": "2101.001.561-5",
+    "Tipo": "OBR",
+    "Descricao": "MATERIAIS DE CONSTRUÇÃO II",
+    "Semestre": 2,
+    "Apelido": "MATERIAIS DE CONSTRUÇÃO II",
+    "CargaHorariaTeorico": 34,
+    "CargaHorariaPratica": null,
+    "ListaPrequisitos": []
+  },
+  {
+    "Id": 38528,
+    "Codigo": "2101.001.140-7",
+    "Tipo": "OBR",
+    "Descricao": "METODOLOGIA E REDAÇÃO CIENTÍFICA",
+    "Semestre": 2,
+    "Apelido": "METODOLOGIA E REDAÇÃO CIENTÍFICA",
+    "CargaHorariaTeorico": 34,
+    "CargaHorariaPratica": null,
+    "ListaPrequisitos": []
+  },
+  {
+    "Id": 51311,
+    "Codigo": "2101.001.551-7",
+    "Tipo": "OBR",
+    "Descricao": "REPRESENTAÇÃO DIGITAL II",
+    "Semestre": 2,
+    "Apelido": "REPRESENTAÇÃO DIGITAL II",
+    "CargaHorariaTeorico": 68,
+    "CargaHorariaPratica": null,
+    "ListaPrequisitos": []
+  },
+  {
+    "Id": 51305,
+    "Codigo": "2101.001.545-5",
+    "Tipo": "OBR",
+    "Descricao": "ARQUITETURA DA PAISAGEM I",
+    "Semestre": 3,
+    "Apelido": "ARQUITETURA DA PAISAGEM I",
+    "CargaHorariaTeorico": 68,
+    "CargaHorariaPratica": null,
+    "ListaPrequisitos": []
+  },
+  {
+    "Id": 31527,
+    "Codigo": "2101.000.023-5",
+    "Tipo": "OBR",
+    "Descricao": "CONFORTO AMBIENTAL II",
+    "Semestre": 3,
+    "Apelido": "CONFORTO AMBIENTAL II",
+    "CargaHorariaTeorico": 68,
+    "CargaHorariaPratica": null,
+    "ListaPrequisitos": []
+  },
+  {
+    "Id": 51325,
+    "Codigo": "2101.001.565-1",
+    "Tipo": "OBR",
+    "Descricao": "ESTÁTICA DAS ESTRUTURAS",
+    "Semestre": 3,
+    "Apelido": "ESTÁTICA DAS ESTRUTURAS",
+    "CargaHorariaTeorico": 51,
+    "CargaHorariaPratica": null,
+    "ListaPrequisitos": []
+  },
+  {
+    "Id": 51300,
+    "Codigo": "2101.001.540-0",
+    "Tipo": "OBR",
+    "Descricao": "HISTÓRIA DA ARTE, ARQUITETURA E URBANISMO III",
+    "Semestre": 3,
+    "Apelido": "HISTÓRIA DA ARTE, ARQUITETURA E URBANISMO III",
+    "CargaHorariaTeorico": 68,
+    "CargaHorariaPratica": null,
+    "ListaPrequisitos": []
+  },
+  {
+    "Id": 31534,
+    "Codigo": "2101.000.030-8",
+    "Tipo": "OBR",
+    "Descricao": "PLANEJAMENTO URBANO I",
+    "Semestre": 3,
+    "Apelido": "PLANEJAMENTO URBANO I",
+    "CargaHorariaTeorico": 68,
+    "CargaHorariaPratica": null,
+    "ListaPrequisitos": []
+  },
+  {
+    "Id": 40492,
+    "Codigo": "2101.001.262-4",
+    "Tipo": "OBR",
+    "Descricao": "PROJETO I",
+    "Semestre": 3,
+    "Apelido": "PROJETO I",
+    "CargaHorariaTeorico": 102,
+    "CargaHorariaPratica": null,
+    "ListaPrequisitos": []
+  },
+  {
+    "Id": 51294,
+    "Codigo": "2101.001.534-8",
+    "Tipo": "OBR",
+    "Descricao": "TECNOLOGIAS CONSTRUTIVAS I",
+    "Semestre": 3,
+    "Apelido": "TECNOLOGIAS CONSTRUTIVAS I",
+    "CargaHorariaTeorico": 34,
+    "CargaHorariaPratica": null,
+    "ListaPrequisitos": []
+  },
+  {
+    "Id": 51322,
+    "Codigo": "2101.001.562-4",
+    "Tipo": "OBR",
+    "Descricao": "ARQUITETURA DA PAISAGEM II",
+    "Semestre": 4,
+    "Apelido": "ARQUITETURA DA PAISAGEM II",
+    "CargaHorariaTeorico": 68,
+    "CargaHorariaPratica": null,
+    "ListaPrequisitos": [
+      {
+        "Id": 51285,
+        "Codigo": "2101.001.525-9",
+        "Descricao": "FUNDAMENTOS E PRÁTICAS EM ARQUITETURA E URBANISMO",
+        "Semestre": "0",
+        "Apelido": "FUNDAMENTOS E PRÁTICAS EM ARQUITETURA E URBANISMO",
+        "CargaHorariaTeorico": 0,
+        "CargaHorariaPratica": 0,
+        "ListaPrequisitos": []
+      }
+    ]
+  },
+  {
+    "Id": 51291,
+    "Codigo": "2101.001.531-0",
+    "Tipo": "OBR",
+    "Descricao": "CONFORTO AMBIENTAL III",
+    "Semestre": 4,
+    "Apelido": "CONFORTO AMBIENTAL III",
+    "CargaHorariaTeorico": 68,
+    "CargaHorariaPratica": null,
+    "ListaPrequisitos": []
+  },
+  {
+    "Id": 51290,
+    "Codigo": "2101.001.530-1",
+    "Tipo": "OBR",
+    "Descricao": "HISTÓRIA DA ARTE, ARQUITETURA E URBANISMO IV",
+    "Semestre": 4,
+    "Apelido": "HISTÓRIA DA ARTE, ARQUITETURA E URBANISMO IV",
+    "CargaHorariaTeorico": 68,
+    "CargaHorariaPratica": null,
+    "ListaPrequisitos": [
+      {
+        "Id": 51286,
+        "Codigo": "2101.001.526-8",
+        "Descricao": "HISTÓRIA DA ARTE, ARQUITETURA E URBANISMO I",
+        "Semestre": "0",
+        "Apelido": "HISTÓRIA DA ARTE, ARQUITETURA E URBANISMO I",
+        "CargaHorariaTeorico": 0,
+        "CargaHorariaPratica": 0,
+        "ListaPrequisitos": []
+      },
+      {
+        "Id": 51299,
+        "Codigo": "2101.001.539-3",
+        "Descricao": "HISTÓRIA DA ARTE, ARQUITETURA E URBANISMO II",
+        "Semestre": "0",
+        "Apelido": "HISTÓRIA DA ARTE, ARQUITETURA E URBANISMO II",
+        "CargaHorariaTeorico": 0,
+        "CargaHorariaPratica": 0,
+        "ListaPrequisitos": []
+      },
+      {
+        "Id": 51300,
+        "Codigo": "2101.001.540-0",
+        "Descricao": "HISTÓRIA DA ARTE, ARQUITETURA E URBANISMO III",
+        "Semestre": "0",
+        "Apelido": "HISTÓRIA DA ARTE, ARQUITETURA E URBANISMO III",
+        "CargaHorariaTeorico": 0,
+        "CargaHorariaPratica": 0,
+        "ListaPrequisitos": []
+      }
+    ]
+  },
+  {
+    "Id": 40498,
+    "Codigo": "2101.001.268-3",
+    "Tipo": "OBR",
+    "Descricao": "MECÂNICA DOS SOLOS E FUNDAÇÕES",
+    "Semestre": 4,
+    "Apelido": "MECÂNICA DOS SOLOS E FUNDAÇÕES",
+    "CargaHorariaTeorico": 34,
+    "CargaHorariaPratica": null,
+    "ListaPrequisitos": []
+  },
+  {
+    "Id": 51323,
+    "Codigo": "2101.001.563-3",
+    "Tipo": "OBR",
+    "Descricao": "PLANEJAMENTO URBANO II",
+    "Semestre": 4,
+    "Apelido": "PLANEJAMENTO URBANO II",
+    "CargaHorariaTeorico": 68,
+    "CargaHorariaPratica": null,
+    "ListaPrequisitos": []
+  },
+  {
+    "Id": 40496,
+    "Codigo": "2101.001.266-7",
+    "Tipo": "OBR",
+    "Descricao": "PROJETO II",
+    "Semestre": 4,
+    "Apelido": "PROJETO II",
+    "CargaHorariaTeorico": 102,
+    "CargaHorariaPratica": null,
+    "ListaPrequisitos": []
+  },
+  {
+    "Id": 51309,
+    "Codigo": "2101.001.549-1",
+    "Tipo": "OBR",
+    "Descricao": "RESISTÊNCIA DOS MATERIAIS",
+    "Semestre": 4,
+    "Apelido": "RESISTÊNCIA DOS MATERIAIS",
+    "CargaHorariaTeorico": 68,
+    "CargaHorariaPratica": null,
+    "ListaPrequisitos": [
+      {
+        "Id": 51325,
+        "Codigo": "2101.001.565-1",
+        "Descricao": "ESTÁTICA DAS ESTRUTURAS",
+        "Semestre": "0",
+        "Apelido": "ESTÁTICA DAS ESTRUTURAS",
+        "CargaHorariaTeorico": 0,
+        "CargaHorariaPratica": 0,
+        "ListaPrequisitos": []
+      }
+    ]
+  },
+  {
+    "Id": 51295,
+    "Codigo": "2101.001.535-7",
+    "Tipo": "OBR",
+    "Descricao": "TECNOLOGIAS CONSTRUTIVAS II",
+    "Semestre": 4,
+    "Apelido": "TECNOLOGIAS CONSTRUTIVAS II",
+    "CargaHorariaTeorico": 34,
+    "CargaHorariaPratica": null,
+    "ListaPrequisitos": []
+  },
+  {
+    "Id": 51296,
+    "Codigo": "2101.001.536-6",
+    "Tipo": "OBR",
+    "Descricao": "CONSTRUIR E HABITAR I",
+    "Semestre": 5,
+    "Apelido": "CONSTRUIR E HABITAR I",
+    "CargaHorariaTeorico": 51,
+    "CargaHorariaPratica": null,
+    "ListaPrequisitos": []
+  },
+  {
+    "Id": 51318,
+    "Codigo": "2101.001.558-0",
+    "Tipo": "OBR",
+    "Descricao": "HISTÓRIA DA ARTE, ARQUITETURA E URBANISMO V",
+    "Semestre": 5,
+    "Apelido": "HISTÓRIA DA ARTE, ARQUITETURA E URBANISMO V",
+    "CargaHorariaTeorico": 68,
+    "CargaHorariaPratica": null,
+    "ListaPrequisitos": []
+  },
+  {
+    "Id": 40502,
+    "Codigo": "2101.001.272-1",
+    "Tipo": "OBR",
+    "Descricao": "INSTALAÇÕES ELÉTRICAS PREDIAIS",
+    "Semestre": 5,
+    "Apelido": "INSTALAÇÕES ELÉTRICAS PREDIAIS",
+    "CargaHorariaTeorico": 34,
+    "CargaHorariaPratica": null,
+    "ListaPrequisitos": []
+  },
+  {
+    "Id": 40503,
+    "Codigo": "2101.001.273-0",
+    "Tipo": "OBR",
+    "Descricao": "INSTALAÇÕES HIDRÁULICAS PREDIAIS",
+    "Semestre": 5,
+    "Apelido": "INSTALAÇÕES HIDRÁULICAS PREDIAIS",
+    "CargaHorariaTeorico": 34,
+    "CargaHorariaPratica": null,
+    "ListaPrequisitos": []
+  },
+  {
+    "Id": 40500,
+    "Codigo": "2101.001.270-5",
+    "Tipo": "OBR",
+    "Descricao": "PLANEJAMENTO URBANO III",
+    "Semestre": 5,
+    "Apelido": "PLANEJAMENTO URBANO III",
+    "CargaHorariaTeorico": 68,
+    "CargaHorariaPratica": null,
+    "ListaPrequisitos": [
+      {
+        "Id": 31534,
+        "Codigo": "2101.000.030-8",
+        "Descricao": "PLANEJAMENTO URBANO I",
+        "Semestre": "0",
+        "Apelido": "PLANEJAMENTO URBANO I",
+        "CargaHorariaTeorico": 0,
+        "CargaHorariaPratica": 0,
+        "ListaPrequisitos": []
+      },
+      {
+        "Id": 51285,
+        "Codigo": "2101.001.525-9",
+        "Descricao": "FUNDAMENTOS E PRÁTICAS EM ARQUITETURA E URBANISMO",
+        "Semestre": "0",
+        "Apelido": "FUNDAMENTOS E PRÁTICAS EM ARQUITETURA E URBANISMO",
+        "CargaHorariaTeorico": 0,
+        "CargaHorariaPratica": 0,
+        "ListaPrequisitos": []
+      },
+      {
+        "Id": 51323,
+        "Codigo": "2101.001.563-3",
+        "Descricao": "PLANEJAMENTO URBANO II",
+        "Semestre": "0",
+        "Apelido": "PLANEJAMENTO URBANO II",
+        "CargaHorariaTeorico": 0,
+        "CargaHorariaPratica": 0,
+        "ListaPrequisitos": []
+      }
+    ]
+  },
+  {
+    "Id": 51314,
+    "Codigo": "2101.001.554-4",
+    "Tipo": "OBR",
+    "Descricao": "PRÉ-DIMENSIONAMENTO DE ESTRUTURAS",
+    "Semestre": 5,
+    "Apelido": "PRÉ-DIMENSIONAMENTO DE ESTRUTURAS",
+    "CargaHorariaTeorico": 68,
+    "CargaHorariaPratica": null,
+    "ListaPrequisitos": [
+      {
+        "Id": 51309,
+        "Codigo": "2101.001.549-1",
+        "Descricao": "RESISTÊNCIA DOS MATERIAIS",
+        "Semestre": "0",
+        "Apelido": "RESISTÊNCIA DOS MATERIAIS",
+        "CargaHorariaTeorico": 0,
+        "CargaHorariaPratica": 0,
+        "ListaPrequisitos": []
+      },
+      {
+        "Id": 51325,
+        "Codigo": "2101.001.565-1",
+        "Descricao": "ESTÁTICA DAS ESTRUTURAS",
+        "Semestre": "0",
+        "Apelido": "ESTÁTICA DAS ESTRUTURAS",
+        "CargaHorariaTeorico": 0,
+        "CargaHorariaPratica": 0,
+        "ListaPrequisitos": []
+      }
+    ]
+  },
+  {
+    "Id": 40501,
+    "Codigo": "2101.001.271-3",
+    "Tipo": "OBR",
+    "Descricao": "PROJETO III",
+    "Semestre": 5,
+    "Apelido": "PROJETO III",
+    "CargaHorariaTeorico": 102,
+    "CargaHorariaPratica": null,
+    "ListaPrequisitos": [
+      {
+        "Id": 40492,
+        "Codigo": "2101.001.262-4",
+        "Descricao": "PROJETO I",
+        "Semestre": "0",
+        "Apelido": "PROJETO I",
+        "CargaHorariaTeorico": 0,
+        "CargaHorariaPratica": 0,
+        "ListaPrequisitos": []
+      }
+    ]
+  },
+  {
+    "Id": 51317,
+    "Codigo": "2101.001.557-1",
+    "Tipo": "OBR",
+    "Descricao": "TECNOLOGIAS CONSTRUTIVAS III",
+    "Semestre": 5,
+    "Apelido": "TECNOLOGIAS CONSTRUTIVAS III",
+    "CargaHorariaTeorico": 34,
+    "CargaHorariaPratica": null,
+    "ListaPrequisitos": [
+      {
+        "Id": 51294,
+        "Codigo": "2101.001.534-8",
+        "Descricao": "TECNOLOGIAS CONSTRUTIVAS I",
+        "Semestre": "0",
+        "Apelido": "TECNOLOGIAS CONSTRUTIVAS I",
+        "CargaHorariaTeorico": 0,
+        "CargaHorariaPratica": 0,
+        "ListaPrequisitos": []
+      },
+      {
+        "Id": 51295,
+        "Codigo": "2101.001.535-7",
+        "Descricao": "TECNOLOGIAS CONSTRUTIVAS II",
+        "Semestre": "0",
+        "Apelido": "TECNOLOGIAS CONSTRUTIVAS II",
+        "CargaHorariaTeorico": 0,
+        "CargaHorariaPratica": 0,
+        "ListaPrequisitos": []
+      }
+    ]
+  },
+  {
+    "Id": 51297,
+    "Codigo": "2101.001.537-5",
+    "Tipo": "OBR",
+    "Descricao": "CONSTRUIR E HABITAR II",
+    "Semestre": 6,
+    "Apelido": "CONSTRUIR E HABITAR II",
+    "CargaHorariaTeorico": 51,
+    "CargaHorariaPratica": null,
+    "ListaPrequisitos": []
+  },
+  {
+    "Id": 51292,
+    "Codigo": "2101.001.532-0",
+    "Tipo": "OBR",
+    "Descricao": "GEOPROCESSAMENTO PARA PLANEJAMENTO E PROJETO",
+    "Semestre": 6,
+    "Apelido": "GEOPROCESSAMENTO PARA PLANEJAMENTO E PROJETO",
+    "CargaHorariaTeorico": 68,
+    "CargaHorariaPratica": null,
+    "ListaPrequisitos": []
+  },
+  {
+    "Id": 51287,
+    "Codigo": "2101.001.527-7",
+    "Tipo": "OBR",
+    "Descricao": "HISTÓRIA DA ARTE, ARQUITETURA E URBANISMO VI",
+    "Semestre": 6,
+    "Apelido": "HISTÓRIA DA ARTE, ARQUITETURA E URBANISMO VI",
+    "CargaHorariaTeorico": 68,
+    "CargaHorariaPratica": null,
+    "ListaPrequisitos": [
+      {
+        "Id": 51300,
+        "Codigo": "2101.001.540-0",
+        "Descricao": "HISTÓRIA DA ARTE, ARQUITETURA E URBANISMO III",
+        "Semestre": "0",
+        "Apelido": "HISTÓRIA DA ARTE, ARQUITETURA E URBANISMO III",
+        "CargaHorariaTeorico": 0,
+        "CargaHorariaPratica": 0,
+        "ListaPrequisitos": []
+      },
+      {
+        "Id": 51318,
+        "Codigo": "2101.001.558-0",
+        "Descricao": "HISTÓRIA DA ARTE, ARQUITETURA E URBANISMO V",
+        "Semestre": "0",
+        "Apelido": "HISTÓRIA DA ARTE, ARQUITETURA E URBANISMO V",
+        "CargaHorariaTeorico": 0,
+        "CargaHorariaPratica": 0,
+        "ListaPrequisitos": []
+      }
+    ]
+  },
+  {
+    "Id": 51303,
+    "Codigo": "2101.001.543-7",
+    "Tipo": "OBR",
+    "Descricao": "INFRAESTRUTURA URBANA",
+    "Semestre": 6,
+    "Apelido": "INFRAESTRUTURA URBANA",
+    "CargaHorariaTeorico": 68,
+    "CargaHorariaPratica": null,
+    "ListaPrequisitos": []
+  },
+  {
+    "Id": 40507,
+    "Codigo": "2101.001.277-2",
+    "Tipo": "OBR",
+    "Descricao": "PROJETO IV",
+    "Semestre": 6,
+    "Apelido": "PROJETO IV",
+    "CargaHorariaTeorico": 102,
+    "CargaHorariaPratica": null,
+    "ListaPrequisitos": [
+      {
+        "Id": 40492,
+        "Codigo": "2101.001.262-4",
+        "Descricao": "PROJETO I",
+        "Semestre": "0",
+        "Apelido": "PROJETO I",
+        "CargaHorariaTeorico": 0,
+        "CargaHorariaPratica": 0,
+        "ListaPrequisitos": []
+      },
+      {
+        "Id": 40496,
+        "Codigo": "2101.001.266-7",
+        "Descricao": "PROJETO II",
+        "Semestre": "0",
+        "Apelido": "PROJETO II",
+        "CargaHorariaTeorico": 0,
+        "CargaHorariaPratica": 0,
+        "ListaPrequisitos": []
+      }
+    ]
+  },
+  {
+    "Id": 51326,
+    "Codigo": "2101.001.566-0",
+    "Tipo": "OBR",
+    "Descricao": "CONSTRUIR E HABITAR III",
+    "Semestre": 7,
+    "Apelido": "CONSTRUIR E HABITAR III",
+    "CargaHorariaTeorico": 51,
+    "CargaHorariaPratica": null,
+    "ListaPrequisitos": []
+  },
+  {
+    "Id": 51283,
+    "Codigo": "2101.001.523-0",
+    "Tipo": "OBR",
+    "Descricao": "PLANEJAMENTO REGIONAL I",
+    "Semestre": 7,
+    "Apelido": "PLANEJAMENTO REGIONAL I",
+    "CargaHorariaTeorico": 68,
+    "CargaHorariaPratica": null,
+    "ListaPrequisitos": [
+      {
+        "Id": 51292,
+        "Codigo": "2101.001.532-0",
+        "Descricao": "GEOPROCESSAMENTO PARA PLANEJAMENTO E PROJETO",
+        "Semestre": "0",
+        "Apelido": "GEOPROCESSAMENTO PARA PLANEJAMENTO E PROJETO",
+        "CargaHorariaTeorico": 0,
+        "CargaHorariaPratica": 0,
+        "ListaPrequisitos": []
+      },
+      {
+        "Id": 51305,
+        "Codigo": "2101.001.545-5",
+        "Descricao": "ARQUITETURA DA PAISAGEM I",
+        "Semestre": "0",
+        "Apelido": "ARQUITETURA DA PAISAGEM I",
+        "CargaHorariaTeorico": 0,
+        "CargaHorariaPratica": 0,
+        "ListaPrequisitos": []
+      },
+      {
+        "Id": 51322,
+        "Codigo": "2101.001.562-4",
+        "Descricao": "ARQUITETURA DA PAISAGEM II",
+        "Semestre": "0",
+        "Apelido": "ARQUITETURA DA PAISAGEM II",
+        "CargaHorariaTeorico": 0,
+        "CargaHorariaPratica": 0,
+        "ListaPrequisitos": []
+      }
+    ]
+  },
+  {
+    "Id": 51289,
+    "Codigo": "2101.001.529-5",
+    "Tipo": "OBR",
+    "Descricao": "PROJETO DOS ESPAÇOS LIVRES URBANOS",
+    "Semestre": 7,
+    "Apelido": "PROJETO DOS ESPAÇOS LIVRES URBANOS",
+    "CargaHorariaTeorico": 51,
+    "CargaHorariaPratica": null,
+    "ListaPrequisitos": [
+      {
+        "Id": 31534,
+        "Codigo": "2101.000.030-8",
+        "Descricao": "PLANEJAMENTO URBANO I",
+        "Semestre": "0",
+        "Apelido": "PLANEJAMENTO URBANO I",
+        "CargaHorariaTeorico": 0,
+        "CargaHorariaPratica": 0,
+        "ListaPrequisitos": []
+      },
+      {
+        "Id": 40500,
+        "Codigo": "2101.001.270-5",
+        "Descricao": "PLANEJAMENTO URBANO III",
+        "Semestre": "0",
+        "Apelido": "PLANEJAMENTO URBANO III",
+        "CargaHorariaTeorico": 0,
+        "CargaHorariaPratica": 0,
+        "ListaPrequisitos": []
+      },
+      {
+        "Id": 51305,
+        "Codigo": "2101.001.545-5",
+        "Descricao": "ARQUITETURA DA PAISAGEM I",
+        "Semestre": "0",
+        "Apelido": "ARQUITETURA DA PAISAGEM I",
+        "CargaHorariaTeorico": 0,
+        "CargaHorariaPratica": 0,
+        "ListaPrequisitos": []
+      },
+      {
+        "Id": 51322,
+        "Codigo": "2101.001.562-4",
+        "Descricao": "ARQUITETURA DA PAISAGEM II",
+        "Semestre": "0",
+        "Apelido": "ARQUITETURA DA PAISAGEM II",
+        "CargaHorariaTeorico": 0,
+        "CargaHorariaPratica": 0,
+        "ListaPrequisitos": []
+      },
+      {
+        "Id": 51323,
+        "Codigo": "2101.001.563-3",
+        "Descricao": "PLANEJAMENTO URBANO II",
+        "Semestre": "0",
+        "Apelido": "PLANEJAMENTO URBANO II",
+        "CargaHorariaTeorico": 0,
+        "CargaHorariaPratica": 0,
+        "ListaPrequisitos": []
+      }
+    ]
+  },
+  {
+    "Id": 51313,
+    "Codigo": "2101.001.553-5",
+    "Tipo": "OBR",
+    "Descricao": "TÉCNICA, HISTÓRIA E PROJETO I",
+    "Semestre": 7,
+    "Apelido": "TÉCNICA, HISTÓRIA E PROJETO I",
+    "CargaHorariaTeorico": 51,
+    "CargaHorariaPratica": null,
+    "ListaPrequisitos": []
+  },
+  {
+    "Id": 38848,
+    "Codigo": "2101.001.219-5",
+    "Tipo": "OBR",
+    "Descricao": "TEORIA E ESTÉTICA DA ARQUITETURA E URBANISMO I",
+    "Semestre": 7,
+    "Apelido": "TEORIA E ESTÉTICA DA ARQUITETURA E URBANISMO I",
+    "CargaHorariaTeorico": 34,
+    "CargaHorariaPratica": null,
+    "ListaPrequisitos": []
+  },
+  {
+    "Id": 51327,
+    "Codigo": "2101.001.567-0",
+    "Tipo": "OBR",
+    "Descricao": "CONSTRUIR E HABITAR IV",
+    "Semestre": 8,
+    "Apelido": "CONSTRUIR E HABITAR IV",
+    "CargaHorariaTeorico": 51,
+    "CargaHorariaPratica": null,
+    "ListaPrequisitos": []
+  },
+  {
+    "Id": 40512,
+    "Codigo": "2101.001.282-9",
+    "Tipo": "OBR",
+    "Descricao": "PLANEJAMENTO REGIONAL II",
+    "Semestre": 8,
+    "Apelido": "PLANEJAMENTO REGIONAL II",
+    "CargaHorariaTeorico": 68,
+    "CargaHorariaPratica": null,
+    "ListaPrequisitos": [
+      {
+        "Id": 31534,
+        "Codigo": "2101.000.030-8",
+        "Descricao": "PLANEJAMENTO URBANO I",
+        "Semestre": "0",
+        "Apelido": "PLANEJAMENTO URBANO I",
+        "CargaHorariaTeorico": 0,
+        "CargaHorariaPratica": 0,
+        "ListaPrequisitos": []
+      },
+      {
+        "Id": 40500,
+        "Codigo": "2101.001.270-5",
+        "Descricao": "PLANEJAMENTO URBANO III",
+        "Semestre": "0",
+        "Apelido": "PLANEJAMENTO URBANO III",
+        "CargaHorariaTeorico": 0,
+        "CargaHorariaPratica": 0,
+        "ListaPrequisitos": []
+      },
+      {
+        "Id": 51323,
+        "Codigo": "2101.001.563-3",
+        "Descricao": "PLANEJAMENTO URBANO II",
+        "Semestre": "0",
+        "Apelido": "PLANEJAMENTO URBANO II",
+        "CargaHorariaTeorico": 0,
+        "CargaHorariaPratica": 0,
+        "ListaPrequisitos": []
+      }
+    ]
+  },
+  {
+    "Id": 51298,
+    "Codigo": "2101.001.538-4",
+    "Tipo": "OBR",
+    "Descricao": "PROJETO INTEGRADO",
+    "Semestre": 8,
+    "Apelido": "PROJETO INTEGRADO",
+    "CargaHorariaTeorico": 102,
+    "CargaHorariaPratica": null,
+    "ListaPrequisitos": [
+      {
+        "Id": 40500,
+        "Codigo": "2101.001.270-5",
+        "Descricao": "PLANEJAMENTO URBANO III",
+        "Semestre": "0",
+        "Apelido": "PLANEJAMENTO URBANO III",
+        "CargaHorariaTeorico": 0,
+        "CargaHorariaPratica": 0,
+        "ListaPrequisitos": []
+      },
+      {
+        "Id": 40501,
+        "Codigo": "2101.001.271-3",
+        "Descricao": "PROJETO III",
+        "Semestre": "0",
+        "Apelido": "PROJETO III",
+        "CargaHorariaTeorico": 0,
+        "CargaHorariaPratica": 0,
+        "ListaPrequisitos": []
+      },
+      {
+        "Id": 40507,
+        "Codigo": "2101.001.277-2",
+        "Descricao": "PROJETO IV",
+        "Semestre": "0",
+        "Apelido": "PROJETO IV",
+        "CargaHorariaTeorico": 0,
+        "CargaHorariaPratica": 0,
+        "ListaPrequisitos": []
+      }
+    ]
+  },
+  {
+    "Id": 51307,
+    "Codigo": "2101.001.547-3",
+    "Tipo": "OBR",
+    "Descricao": "TÉCNICA, HISTÓRIA E PROJETO II",
+    "Semestre": 8,
+    "Apelido": "TÉCNICA, HISTÓRIA E PROJETO II",
+    "CargaHorariaTeorico": 68,
+    "CargaHorariaPratica": null,
+    "ListaPrequisitos": [
+      {
+        "Id": 51313,
+        "Codigo": "2101.001.553-5",
+        "Descricao": "TÉCNICA, HISTÓRIA E PROJETO I",
+        "Semestre": "0",
+        "Apelido": "TÉCNICA, HISTÓRIA E PROJETO I",
+        "CargaHorariaTeorico": 0,
+        "CargaHorariaPratica": 0,
+        "ListaPrequisitos": []
+      }
+    ]
+  },
+  {
+    "Id": 38854,
+    "Codigo": "2101.001.225-0",
+    "Tipo": "OBR",
+    "Descricao": "TEORIA E ESTÉTICA DA ARQUITETURA E URBANISMO II",
+    "Semestre": 8,
+    "Apelido": "TEORIA E ESTÉTICA DA ARQUITETURA E URBANISMO II",
+    "CargaHorariaTeorico": 34,
+    "CargaHorariaPratica": null,
+    "ListaPrequisitos": []
+  },
+  {
+    "Id": 51301,
+    "Codigo": "2101.001.541-9",
+    "Tipo": "OBR",
+    "Descricao": "ÉTICA E EXERCÍCIO PROFISSIONAL DA ARQUITETURA E URBANISMO",
+    "Semestre": 9,
+    "Apelido": "ÉTICA E EXERCÍCIO PROFISSIONAL DA ARQUITETURA E URBANISMO",
+    "CargaHorariaTeorico": 34,
+    "CargaHorariaPratica": null,
+    "ListaPrequisitos": []
+  },
+  {
+    "Id": 40473,
+    "Codigo": "2101.001.243-8",
+    "Tipo": "OBR",
+    "Descricao": "PLANEJAMENTO DE OBRAS",
+    "Semestre": 9,
+    "Apelido": "PLANEJAMENTO DE OBRAS",
+    "CargaHorariaTeorico": 34,
+    "CargaHorariaPratica": null,
+    "ListaPrequisitos": []
+  },
+  {
+    "Id": 51308,
+    "Codigo": "2101.001.548-2",
+    "Tipo": "OBR",
+    "Descricao": "PLANEJAMENTO E GESTÃO AMBIENTAL",
+    "Semestre": 9,
+    "Apelido": "PLANEJAMENTO E GESTÃO AMBIENTAL",
+    "CargaHorariaTeorico": 51,
+    "CargaHorariaPratica": null,
+    "ListaPrequisitos": [
+      {
+        "Id": 40500,
+        "Codigo": "2101.001.270-5",
+        "Descricao": "PLANEJAMENTO URBANO III",
+        "Semestre": "0",
+        "Apelido": "PLANEJAMENTO URBANO III",
+        "CargaHorariaTeorico": 0,
+        "CargaHorariaPratica": 0,
+        "ListaPrequisitos": []
+      }
+    ]
+  },
+  {
+    "Id": 38757,
+    "Codigo": "2101.001.152-0",
+    "Tipo": "OPT",
+    "Descricao": "ARQUITETURA DE MATO GROSSO DO SUL",
+    "Semestre": 99,
+    "Apelido": "ARQUITETURA DE MATO GROSSO DO SUL",
+    "CargaHorariaTeorico": 51,
+    "CargaHorariaPratica": null,
+    "ListaPrequisitos": []
+  },
+  {
+    "Id": 51312,
+    "Codigo": "2101.001.552-6",
+    "Tipo": "OPT",
+    "Descricao": "ARQUITETURA E CIDADE",
+    "Semestre": 99,
+    "Apelido": "ARQUITETURA E CIDADE",
+    "CargaHorariaTeorico": 51,
+    "CargaHorariaPratica": null,
+    "ListaPrequisitos": []
+  },
+  {
+    "Id": 40469,
+    "Codigo": "2101.001.239-0",
+    "Tipo": "OPT",
+    "Descricao": "ARQUITETURA, ENERGIA E MEIO AMBIENTE: PROJETO",
+    "Semestre": 99,
+    "Apelido": "ARQUITETURA, ENERGIA E MEIO AMBIENTE: PROJETO",
+    "CargaHorariaTeorico": 51,
+    "CargaHorariaPratica": null,
+    "ListaPrequisitos": []
+  },
+  {
+    "Id": 51284,
+    "Codigo": "2101.001.524-0",
+    "Tipo": "OPT",
+    "Descricao": "ATELIÊ PAISAGEM E AMBIENTE",
+    "Semestre": 99,
+    "Apelido": "ATELIÊ PAISAGEM E AMBIENTE",
+    "CargaHorariaTeorico": 102,
+    "CargaHorariaPratica": null,
+    "ListaPrequisitos": []
+  },
+  {
+    "Id": 33950,
+    "Codigo": "2101.000.730-2",
+    "Tipo": "OPT",
+    "Descricao": "AVALIAÇÕES E PERÍCIAS NA CONSTRUÇÃO CIVIL",
+    "Semestre": 99,
+    "Apelido": "AVALIAÇÕES E PERÍCIAS NA CONSTRUÇÃO CIVIL",
+    "CargaHorariaTeorico": 51,
+    "CargaHorariaPratica": null,
+    "ListaPrequisitos": []
+  },
+  {
+    "Id": 33956,
+    "Codigo": "2101.000.736-1",
+    "Tipo": "OPT",
+    "Descricao": "CONCRETO PROTENDIDO",
+    "Semestre": 99,
+    "Apelido": "CONCRETO PROTENDIDO",
+    "CargaHorariaTeorico": 51,
+    "CargaHorariaPratica": null,
+    "ListaPrequisitos": []
+  },
+  {
+    "Id": 33959,
+    "Codigo": "2101.000.739-6",
+    "Tipo": "OPT",
+    "Descricao": "CONSTRUÇÃO CIVIL",
+    "Semestre": 99,
+    "Apelido": "CONSTRUÇÃO CIVIL",
+    "CargaHorariaTeorico": 51,
+    "CargaHorariaPratica": null,
+    "ListaPrequisitos": []
+  },
+  {
+    "Id": 40470,
+    "Codigo": "2101.001.240-3",
+    "Tipo": "OPT",
+    "Descricao": "DESIGN PARAMÉTRICO E FABRICAÇÃO DIGITAL",
+    "Semestre": 99,
+    "Apelido": "DESIGN PARAMÉTRICO E FABRICAÇÃO DIGITAL",
+    "CargaHorariaTeorico": 51,
+    "CargaHorariaPratica": null,
+    "ListaPrequisitos": []
+  },
+  {
+    "Id": 41760,
+    "Codigo": "3001.000.004-8",
+    "Tipo": "OPT",
+    "Descricao": "EDUCAÇÃO DAS RELAÇÕES ÉTNICO-RACIAIS",
+    "Semestre": 99,
+    "Apelido": "EDUCAÇÃO DAS RELAÇÕES ÉTNICO-RACIAIS",
+    "CargaHorariaTeorico": 34,
+    "CargaHorariaPratica": null,
+    "ListaPrequisitos": []
+  },
+  {
+    "Id": 33964,
+    "Codigo": "2101.000.744-2",
+    "Tipo": "OPT",
+    "Descricao": "EFICIÊNCIA ENERGÉTICA EM EDIFICAÇÕES",
+    "Semestre": 99,
+    "Apelido": "EFICIÊNCIA ENERGÉTICA EM EDIFICAÇÕES",
+    "CargaHorariaTeorico": 51,
+    "CargaHorariaPratica": null,
+    "ListaPrequisitos": []
+  },
+  {
+    "Id": 43686,
+    "Codigo": "1991.000.004-3",
+    "Tipo": "OPT",
+    "Descricao": "EMPREENDEDORISMO E INOVAÇÃO",
+    "Semestre": 99,
+    "Apelido": "EMPREENDEDORISMO E INOVAÇÃO",
+    "CargaHorariaTeorico": 68,
+    "CargaHorariaPratica": null,
+    "ListaPrequisitos": []
+  },
+  {
+    "Id": 38761,
+    "Codigo": "2101.001.155-5",
+    "Tipo": "OPT",
+    "Descricao": "ESTRUTURAS DE AÇO",
+    "Semestre": 99,
+    "Apelido": "ESTRUTURAS DE AÇO",
+    "CargaHorariaTeorico": 51,
+    "CargaHorariaPratica": null,
+    "ListaPrequisitos": []
+  },
+  {
+    "Id": 38763,
+    "Codigo": "2101.001.156-3",
+    "Tipo": "OPT",
+    "Descricao": "ESTRUTURAS DE MADEIRA",
+    "Semestre": 99,
+    "Apelido": "ESTRUTURAS DE MADEIRA",
+    "CargaHorariaTeorico": 51,
+    "CargaHorariaPratica": null,
+    "ListaPrequisitos": []
+  },
+  {
+    "Id": 42895,
+    "Codigo": "3101.000.284-7",
+    "Tipo": "OPT",
+    "Descricao": "ESTUDO DE LIBRAS",
+    "Semestre": 99,
+    "Apelido": "ESTUDO DE LIBRAS",
+    "CargaHorariaTeorico": 34,
+    "CargaHorariaPratica": null,
+    "ListaPrequisitos": []
+  },
+  {
+    "Id": 38765,
+    "Codigo": "2101.001.157-1",
+    "Tipo": "OPT",
+    "Descricao": "ESTUDOS ESPECIAIS EM CONCEPÇÃO DE ESTRUTURAS",
+    "Semestre": 99,
+    "Apelido": "ESTUDOS ESPECIAIS EM CONCEPÇÃO DE ESTRUTURAS",
+    "CargaHorariaTeorico": 51,
+    "CargaHorariaPratica": null,
+    "ListaPrequisitos": []
+  },
+  {
+    "Id": 40471,
+    "Codigo": "2101.001.241-1",
+    "Tipo": "OPT",
+    "Descricao": "ESTUDOS ESPECIAIS EM DESENHO URBANO",
+    "Semestre": 99,
+    "Apelido": "ESTUDOS ESPECIAIS EM DESENHO URBANO",
+    "CargaHorariaTeorico": 51,
+    "CargaHorariaPratica": null,
+    "ListaPrequisitos": []
+  },
+  {
+    "Id": 38768,
+    "Codigo": "2101.001.159-8",
+    "Tipo": "OPT",
+    "Descricao": "ETNOBOTÂNICA",
+    "Semestre": 99,
+    "Apelido": "ETNOBOTÂNICA",
+    "CargaHorariaTeorico": 51,
+    "CargaHorariaPratica": null,
+    "ListaPrequisitos": []
+  },
+  {
+    "Id": 38769,
+    "Codigo": "2101.001.160-1",
+    "Tipo": "OPT",
+    "Descricao": "FOTOGRAFIA",
+    "Semestre": 99,
+    "Apelido": "FOTOGRAFIA",
+    "CargaHorariaTeorico": 51,
+    "CargaHorariaPratica": null,
+    "ListaPrequisitos": []
+  },
+  {
+    "Id": 51293,
+    "Codigo": "2101.001.533-9",
+    "Tipo": "OPT",
+    "Descricao": "HISTÓRIA DA ARTE, ARQUITETURA E URBANISMO VII",
+    "Semestre": 99,
+    "Apelido": "HISTÓRIA DA ARTE, ARQUITETURA E URBANISMO VII",
+    "CargaHorariaTeorico": 51,
+    "CargaHorariaPratica": null,
+    "ListaPrequisitos": []
+  },
+  {
+    "Id": 38770,
+    "Codigo": "2101.001.161-0",
+    "Tipo": "OPT",
+    "Descricao": "HISTÓRIA E ESTÉTICA DA PAISAGEM",
+    "Semestre": 99,
+    "Apelido": "HISTÓRIA E ESTÉTICA DA PAISAGEM",
+    "CargaHorariaTeorico": 34,
+    "CargaHorariaPratica": null,
+    "ListaPrequisitos": []
+  },
+  {
+    "Id": 51315,
+    "Codigo": "2101.001.555-3",
+    "Tipo": "OPT",
+    "Descricao": "INTELIGÊNCIA ARTIFICIAL APLICADA À ARQUITETURA",
+    "Semestre": 99,
+    "Apelido": "INTELIGÊNCIA ARTIFICIAL APLICADA À ARQUITETURA",
+    "CargaHorariaTeorico": 51,
+    "CargaHorariaPratica": null,
+    "ListaPrequisitos": []
+  },
+  {
+    "Id": 40472,
+    "Codigo": "2101.001.242-0",
+    "Tipo": "OPT",
+    "Descricao": "MAQUETES",
+    "Semestre": 99,
+    "Apelido": "MAQUETES",
+    "CargaHorariaTeorico": 51,
+    "CargaHorariaPratica": null,
+    "ListaPrequisitos": []
+  },
+  {
+    "Id": 38772,
+    "Codigo": "2101.001.163-6",
+    "Tipo": "OPT",
+    "Descricao": "PATRIMÔNIO CULTURAL E ARQUITETÔNICO",
+    "Semestre": 99,
+    "Apelido": "PATRIMÔNIO CULTURAL E ARQUITETÔNICO",
+    "CargaHorariaTeorico": 51,
+    "CargaHorariaPratica": null,
+    "ListaPrequisitos": []
+  },
+  {
+    "Id": 40475,
+    "Codigo": "2101.001.245-4",
+    "Tipo": "OPT",
+    "Descricao": "PLANEJAMENTO E PROJETO DE ARBORIZAÇÃO URBANA",
+    "Semestre": 99,
+    "Apelido": "PLANEJAMENTO E PROJETO DE ARBORIZAÇÃO URBANA",
+    "CargaHorariaTeorico": 51,
+    "CargaHorariaPratica": null,
+    "ListaPrequisitos": []
+  },
+  {
+    "Id": 40828,
+    "Codigo": "2101.001.327-2",
+    "Tipo": "OPT",
+    "Descricao": "PLANEJAMENTO URBANO IV",
+    "Semestre": 99,
+    "Apelido": "PLANEJAMENTO URBANO IV",
+    "CargaHorariaTeorico": 68,
+    "CargaHorariaPratica": null,
+    "ListaPrequisitos": []
+  },
+  {
+    "Id": 38774,
+    "Codigo": "2101.001.165-2",
+    "Tipo": "OPT",
+    "Descricao": "PLANTAS E PROJETO DE PLANTAÇÃO",
+    "Semestre": 99,
+    "Apelido": "PLANTAS E PROJETO DE PLANTAÇÃO",
+    "CargaHorariaTeorico": 51,
+    "CargaHorariaPratica": null,
+    "ListaPrequisitos": []
+  },
+  {
+    "Id": 40476,
+    "Codigo": "2101.001.246-2",
+    "Tipo": "OPT",
+    "Descricao": "PROJETO DE COMUNICAÇÃO VISUAL",
+    "Semestre": 99,
+    "Apelido": "PROJETO DE COMUNICAÇÃO VISUAL",
+    "CargaHorariaTeorico": 51,
+    "CargaHorariaPratica": null,
+    "ListaPrequisitos": []
+  },
+  {
+    "Id": 40477,
+    "Codigo": "2101.001.247-0",
+    "Tipo": "OPT",
+    "Descricao": "PROJETO DE EDIFICAÇÕES EM MADEIRA",
+    "Semestre": 99,
+    "Apelido": "PROJETO DE EDIFICAÇÕES EM MADEIRA",
+    "CargaHorariaTeorico": 51,
+    "CargaHorariaPratica": null,
+    "ListaPrequisitos": []
+  },
+  {
+    "Id": 40478,
+    "Codigo": "2101.001.248-9",
+    "Tipo": "OPT",
+    "Descricao": "PROJETO DE INTERIORES",
+    "Semestre": 99,
+    "Apelido": "PROJETO DE INTERIORES",
+    "CargaHorariaTeorico": 51,
+    "CargaHorariaPratica": null,
+    "ListaPrequisitos": []
+  },
+  {
+    "Id": 51306,
+    "Codigo": "2101.001.546-4",
+    "Tipo": "OPT",
+    "Descricao": "PROJETO EXECUTIVO",
+    "Semestre": 99,
+    "Apelido": "PROJETO EXECUTIVO",
+    "CargaHorariaTeorico": 68,
+    "CargaHorariaPratica": null,
+    "ListaPrequisitos": []
+  },
+  {
+    "Id": 40479,
+    "Codigo": "2101.001.249-7",
+    "Tipo": "OPT",
+    "Descricao": "REPRESENTAÇÃO E EXPRESSÃO GRÁFICA EM PROJETO",
+    "Semestre": 99,
+    "Apelido": "REPRESENTAÇÃO E EXPRESSÃO GRÁFICA EM PROJETO",
+    "CargaHorariaTeorico": 51,
+    "CargaHorariaPratica": null,
+    "ListaPrequisitos": []
+  },
+  {
+    "Id": 38783,
+    "Codigo": "2101.001.170-9",
+    "Tipo": "OPT",
+    "Descricao": "SANEAMENTO AMBIENTAL",
+    "Semestre": 99,
+    "Apelido": "SANEAMENTO AMBIENTAL",
+    "CargaHorariaTeorico": 68,
+    "CargaHorariaPratica": null,
+    "ListaPrequisitos": []
+  },
+  {
+    "Id": 34033,
+    "Codigo": "2101.000.804-0",
+    "Tipo": "OPT",
+    "Descricao": "SEGURANÇA DO TRABALHO",
+    "Semestre": 99,
+    "Apelido": "SEGURANÇA DO TRABALHO",
+    "CargaHorariaTeorico": 34,
+    "CargaHorariaPratica": null,
+    "ListaPrequisitos": []
+  },
+  {
+    "Id": 51316,
+    "Codigo": "2101.001.556-2",
+    "Tipo": "OPT",
+    "Descricao": "TEORIA E ESTÉTICA DA ARQUITETURA E URBANISMO III",
+    "Semestre": 99,
+    "Apelido": "TEORIA E ESTÉTICA DA ARQUITETURA E URBANISMO III",
+    "CargaHorariaTeorico": 51,
+    "CargaHorariaPratica": null,
+    "ListaPrequisitos": []
+  },
+  {
+    "Id": 40480,
+    "Codigo": "2101.001.250-0",
+    "Tipo": "OPT",
+    "Descricao": "TÓPICOS ESPECIAIS EM RESTAURO E CONSERVAÇÃO",
+    "Semestre": 99,
+    "Apelido": "TÓPICOS ESPECIAIS EM RESTAURO E CONSERVAÇÃO",
+    "CargaHorariaTeorico": 51,
+    "CargaHorariaPratica": null,
+    "ListaPrequisitos": []
+  },
+  {
+    "Id": 40481,
+    "Codigo": "2101.001.251-9",
+    "Tipo": "OPT",
+    "Descricao": "TÓPICOS ESPECÍFICOS EM ARQUITETURA E URBANISMO",
+    "Semestre": 99,
+    "Apelido": "TÓPICOS ESPECÍFICOS EM ARQUITETURA E URBANISMO",
+    "CargaHorariaTeorico": 51,
+    "CargaHorariaPratica": null,
+    "ListaPrequisitos": []
+  },
+  {
+    "Id": 34010,
+    "Codigo": "2101.000.790-6",
+    "Tipo": "OPT",
+    "Descricao": "VENTILAÇÃO E ILUMINAÇÃO NATURAL",
+    "Semestre": 99,
+    "Apelido": "VENTILAÇÃO E ILUMINAÇÃO NATURAL",
+    "CargaHorariaTeorico": 51,
+    "CargaHorariaPratica": null,
+    "ListaPrequisitos": []
+  }
+]

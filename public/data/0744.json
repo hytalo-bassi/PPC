@@ -1,0 +1,5089 @@
+[
+  {
+    "Id": 51562,
+    "Codigo": "0709.002.286-3",
+    "Tipo": "OBR",
+    "Descricao": "BASES BIOLOGICAS DA PRÁTICA MÉDICA I",
+    "Semestre": 1,
+    "Apelido": "BASES BIOLOGICAS DA PRÁTICA MÉDICA I",
+    "CargaHorariaTeorico": 272,
+    "CargaHorariaPratica": null,
+    "ListaPrequisitos": []
+  },
+  {
+    "Id": 43675,
+    "Codigo": "0709.001.073-7",
+    "Tipo": "OBR",
+    "Descricao": "BASES PSICOSSOCIAIS DA PRÁTICA MÉDICA I",
+    "Semestre": 1,
+    "Apelido": "BASES PSICOSSOCIAIS DA PRÁTICA MÉDICA I",
+    "CargaHorariaTeorico": 119,
+    "CargaHorariaPratica": null,
+    "ListaPrequisitos": []
+  },
+  {
+    "Id": 43614,
+    "Codigo": "0709.001.012-9",
+    "Tipo": "OBR",
+    "Descricao": "FUNDAMENTOS DA PRÁTICA MÉDICA I",
+    "Semestre": 1,
+    "Apelido": "FUNDAMENTOS DA PRÁTICA MÉDICA I",
+    "CargaHorariaTeorico": 34,
+    "CargaHorariaPratica": null,
+    "ListaPrequisitos": []
+  },
+  {
+    "Id": 43630,
+    "Codigo": "0709.001.028-1",
+    "Tipo": "OBR",
+    "Descricao": "PRÁTICA DE INTEGRAÇÃO: ENSINO, SERVIÇO E COMUNIDADE I",
+    "Semestre": 1,
+    "Apelido": "PRÁTICA DE INTEGRAÇÃO: ENSINO, SERVIÇO E COMUNIDADE I",
+    "CargaHorariaTeorico": 68,
+    "CargaHorariaPratica": null,
+    "ListaPrequisitos": []
+  },
+  {
+    "Id": 51563,
+    "Codigo": "0709.002.287-2",
+    "Tipo": "OBR",
+    "Descricao": "BASES BIOLOGICAS DA PRÁTICA MÉDICA II",
+    "Semestre": 2,
+    "Apelido": "BASES BIOLOGICAS DA PRÁTICA MÉDICA II",
+    "CargaHorariaTeorico": 272,
+    "CargaHorariaPratica": null,
+    "ListaPrequisitos": []
+  },
+  {
+    "Id": 43628,
+    "Codigo": "0709.001.026-3",
+    "Tipo": "OBR",
+    "Descricao": "BASES PSICOSSOCIAIS DA PRÁTICA MÉDICA II",
+    "Semestre": 2,
+    "Apelido": "BASES PSICOSSOCIAIS DA PRÁTICA MÉDICA II",
+    "CargaHorariaTeorico": 119,
+    "CargaHorariaPratica": null,
+    "ListaPrequisitos": []
+  },
+  {
+    "Id": 43582,
+    "Codigo": "0709.000.980-7",
+    "Tipo": "OBR",
+    "Descricao": "FUNDAMENTOS DA PRÁTICA MÉDICA II",
+    "Semestre": 2,
+    "Apelido": "FUNDAMENTOS DA PRÁTICA MÉDICA II",
+    "CargaHorariaTeorico": 51,
+    "CargaHorariaPratica": null,
+    "ListaPrequisitos": []
+  },
+  {
+    "Id": 43631,
+    "Codigo": "0709.001.029-0",
+    "Tipo": "OBR",
+    "Descricao": "PRÁTICA DE INTEGRAÇÃO: ENSINO, SERVIÇO E COMUNIDADE II",
+    "Semestre": 2,
+    "Apelido": "PRÁTICA DE INTEGRAÇÃO: ENSINO, SERVIÇO E COMUNIDADE II",
+    "CargaHorariaTeorico": 68,
+    "CargaHorariaPratica": null,
+    "ListaPrequisitos": []
+  },
+  {
+    "Id": 43649,
+    "Codigo": "0709.001.047-9",
+    "Tipo": "OBR",
+    "Descricao": "BASES BIOLÓGICAS DA PRÁTICA MÉDICA III",
+    "Semestre": 3,
+    "Apelido": "BASES BIOLÓGICAS DA PRÁTICA MÉDICA III",
+    "CargaHorariaTeorico": 272,
+    "CargaHorariaPratica": null,
+    "ListaPrequisitos": []
+  },
+  {
+    "Id": 43625,
+    "Codigo": "0709.001.023-6",
+    "Tipo": "OBR",
+    "Descricao": "BASES PSICOSSOCIAIS DA PRÁTICA MÉDICA III",
+    "Semestre": 3,
+    "Apelido": "BASES PSICOSSOCIAIS DA PRÁTICA MÉDICA III",
+    "CargaHorariaTeorico": 136,
+    "CargaHorariaPratica": null,
+    "ListaPrequisitos": []
+  },
+  {
+    "Id": 43583,
+    "Codigo": "0709.000.981-6",
+    "Tipo": "OBR",
+    "Descricao": "FUNDAMENTOS DA PRÁTICA MÉDICA III",
+    "Semestre": 3,
+    "Apelido": "FUNDAMENTOS DA PRÁTICA MÉDICA III",
+    "CargaHorariaTeorico": 51,
+    "CargaHorariaPratica": null,
+    "ListaPrequisitos": []
+  },
+  {
+    "Id": 43632,
+    "Codigo": "0709.001.030-7",
+    "Tipo": "OBR",
+    "Descricao": "PRÁTICA DE INTEGRAÇÃO: ENSINO, SERVIÇO E COMUNIDADE III",
+    "Semestre": 3,
+    "Apelido": "PRÁTICA DE INTEGRAÇÃO: ENSINO, SERVIÇO E COMUNIDADE III",
+    "CargaHorariaTeorico": 68,
+    "CargaHorariaPratica": null,
+    "ListaPrequisitos": []
+  },
+  {
+    "Id": 51561,
+    "Codigo": "0709.002.285-4",
+    "Tipo": "OBR",
+    "Descricao": "URGÊNCIA E EMERGÊNCIA I",
+    "Semestre": 3,
+    "Apelido": "URGÊNCIA E EMERGÊNCIA I",
+    "CargaHorariaTeorico": 34,
+    "CargaHorariaPratica": null,
+    "ListaPrequisitos": []
+  },
+  {
+    "Id": 43674,
+    "Codigo": "0709.001.072-8",
+    "Tipo": "OBR",
+    "Descricao": "BASES BIOLÓGICAS DA PRÁTICA MÉDICA IV",
+    "Semestre": 4,
+    "Apelido": "BASES BIOLÓGICAS DA PRÁTICA MÉDICA IV",
+    "CargaHorariaTeorico": 272,
+    "CargaHorariaPratica": null,
+    "ListaPrequisitos": []
+  },
+  {
+    "Id": 43676,
+    "Codigo": "0709.001.074-6",
+    "Tipo": "OBR",
+    "Descricao": "BASES PSICOSSOCIAIS DA PRÁTICA MÉDICA IV",
+    "Semestre": 4,
+    "Apelido": "BASES PSICOSSOCIAIS DA PRÁTICA MÉDICA IV",
+    "CargaHorariaTeorico": 136,
+    "CargaHorariaPratica": null,
+    "ListaPrequisitos": []
+  },
+  {
+    "Id": 43584,
+    "Codigo": "0709.000.982-5",
+    "Tipo": "OBR",
+    "Descricao": "FUNDAMENTOS DA PRÁTICA MÉDICA IV",
+    "Semestre": 4,
+    "Apelido": "FUNDAMENTOS DA PRÁTICA MÉDICA IV",
+    "CargaHorariaTeorico": 68,
+    "CargaHorariaPratica": null,
+    "ListaPrequisitos": []
+  },
+  {
+    "Id": 43636,
+    "Codigo": "0709.001.034-3",
+    "Tipo": "OBR",
+    "Descricao": "PRÁTICA DE INTEGRAÇÃO: ENSINO, SERVIÇO E COMUNIDADE IV",
+    "Semestre": 4,
+    "Apelido": "PRÁTICA DE INTEGRAÇÃO: ENSINO, SERVIÇO E COMUNIDADE IV",
+    "CargaHorariaTeorico": 68,
+    "CargaHorariaPratica": null,
+    "ListaPrequisitos": []
+  },
+  {
+    "Id": 43602,
+    "Codigo": "0709.001.000-2",
+    "Tipo": "OBR",
+    "Descricao": "BASES BIOLÓGICAS DA PRÁTICA MÉDICA V",
+    "Semestre": 5,
+    "Apelido": "BASES BIOLÓGICAS DA PRÁTICA MÉDICA V",
+    "CargaHorariaTeorico": 204,
+    "CargaHorariaPratica": null,
+    "ListaPrequisitos": [
+      {
+        "Id": 43649,
+        "Codigo": "0709.001.047-9",
+        "Descricao": "BASES BIOLÓGICAS DA PRÁTICA MÉDICA III",
+        "Semestre": "0",
+        "Apelido": "BASES BIOLÓGICAS DA PRÁTICA MÉDICA III",
+        "CargaHorariaTeorico": 0,
+        "CargaHorariaPratica": 0,
+        "ListaPrequisitos": []
+      },
+      {
+        "Id": 43674,
+        "Codigo": "0709.001.072-8",
+        "Descricao": "BASES BIOLÓGICAS DA PRÁTICA MÉDICA IV",
+        "Semestre": "0",
+        "Apelido": "BASES BIOLÓGICAS DA PRÁTICA MÉDICA IV",
+        "CargaHorariaTeorico": 0,
+        "CargaHorariaPratica": 0,
+        "ListaPrequisitos": []
+      },
+      {
+        "Id": 51562,
+        "Codigo": "0709.002.286-3",
+        "Descricao": "BASES BIOLOGICAS DA PRÁTICA MÉDICA I",
+        "Semestre": "0",
+        "Apelido": "BASES BIOLOGICAS DA PRÁTICA MÉDICA I",
+        "CargaHorariaTeorico": 0,
+        "CargaHorariaPratica": 0,
+        "ListaPrequisitos": []
+      },
+      {
+        "Id": 51563,
+        "Codigo": "0709.002.287-2",
+        "Descricao": "BASES BIOLOGICAS DA PRÁTICA MÉDICA II",
+        "Semestre": "0",
+        "Apelido": "BASES BIOLOGICAS DA PRÁTICA MÉDICA II",
+        "CargaHorariaTeorico": 0,
+        "CargaHorariaPratica": 0,
+        "ListaPrequisitos": []
+      }
+    ]
+  },
+  {
+    "Id": 43677,
+    "Codigo": "0709.001.075-5",
+    "Tipo": "OBR",
+    "Descricao": "BASES PSICOSSOCIAIS DA PRÁTICA MÉDICA V",
+    "Semestre": 5,
+    "Apelido": "BASES PSICOSSOCIAIS DA PRÁTICA MÉDICA V",
+    "CargaHorariaTeorico": 68,
+    "CargaHorariaPratica": null,
+    "ListaPrequisitos": [
+      {
+        "Id": 43625,
+        "Codigo": "0709.001.023-6",
+        "Descricao": "BASES PSICOSSOCIAIS DA PRÁTICA MÉDICA III",
+        "Semestre": "0",
+        "Apelido": "BASES PSICOSSOCIAIS DA PRÁTICA MÉDICA III",
+        "CargaHorariaTeorico": 0,
+        "CargaHorariaPratica": 0,
+        "ListaPrequisitos": []
+      },
+      {
+        "Id": 43628,
+        "Codigo": "0709.001.026-3",
+        "Descricao": "BASES PSICOSSOCIAIS DA PRÁTICA MÉDICA II",
+        "Semestre": "0",
+        "Apelido": "BASES PSICOSSOCIAIS DA PRÁTICA MÉDICA II",
+        "CargaHorariaTeorico": 0,
+        "CargaHorariaPratica": 0,
+        "ListaPrequisitos": []
+      },
+      {
+        "Id": 43675,
+        "Codigo": "0709.001.073-7",
+        "Descricao": "BASES PSICOSSOCIAIS DA PRÁTICA MÉDICA I",
+        "Semestre": "0",
+        "Apelido": "BASES PSICOSSOCIAIS DA PRÁTICA MÉDICA I",
+        "CargaHorariaTeorico": 0,
+        "CargaHorariaPratica": 0,
+        "ListaPrequisitos": []
+      },
+      {
+        "Id": 43676,
+        "Codigo": "0709.001.074-6",
+        "Descricao": "BASES PSICOSSOCIAIS DA PRÁTICA MÉDICA IV",
+        "Semestre": "0",
+        "Apelido": "BASES PSICOSSOCIAIS DA PRÁTICA MÉDICA IV",
+        "CargaHorariaTeorico": 0,
+        "CargaHorariaPratica": 0,
+        "ListaPrequisitos": []
+      }
+    ]
+  },
+  {
+    "Id": 43586,
+    "Codigo": "0709.000.984-3",
+    "Tipo": "OBR",
+    "Descricao": "FUNDAMENTOS DA PRÁTICA MÉDICA V",
+    "Semestre": 5,
+    "Apelido": "FUNDAMENTOS DA PRÁTICA MÉDICA V",
+    "CargaHorariaTeorico": 136,
+    "CargaHorariaPratica": null,
+    "ListaPrequisitos": [
+      {
+        "Id": 43582,
+        "Codigo": "0709.000.980-7",
+        "Descricao": "FUNDAMENTOS DA PRÁTICA MÉDICA II",
+        "Semestre": "0",
+        "Apelido": "FUNDAMENTOS DA PRÁTICA MÉDICA II",
+        "CargaHorariaTeorico": 0,
+        "CargaHorariaPratica": 0,
+        "ListaPrequisitos": []
+      },
+      {
+        "Id": 43583,
+        "Codigo": "0709.000.981-6",
+        "Descricao": "FUNDAMENTOS DA PRÁTICA MÉDICA III",
+        "Semestre": "0",
+        "Apelido": "FUNDAMENTOS DA PRÁTICA MÉDICA III",
+        "CargaHorariaTeorico": 0,
+        "CargaHorariaPratica": 0,
+        "ListaPrequisitos": []
+      },
+      {
+        "Id": 43584,
+        "Codigo": "0709.000.982-5",
+        "Descricao": "FUNDAMENTOS DA PRÁTICA MÉDICA IV",
+        "Semestre": "0",
+        "Apelido": "FUNDAMENTOS DA PRÁTICA MÉDICA IV",
+        "CargaHorariaTeorico": 0,
+        "CargaHorariaPratica": 0,
+        "ListaPrequisitos": []
+      },
+      {
+        "Id": 43614,
+        "Codigo": "0709.001.012-9",
+        "Descricao": "FUNDAMENTOS DA PRÁTICA MÉDICA I",
+        "Semestre": "0",
+        "Apelido": "FUNDAMENTOS DA PRÁTICA MÉDICA I",
+        "CargaHorariaTeorico": 0,
+        "CargaHorariaPratica": 0,
+        "ListaPrequisitos": []
+      }
+    ]
+  },
+  {
+    "Id": 43633,
+    "Codigo": "0709.001.031-6",
+    "Tipo": "OBR",
+    "Descricao": "PRÁTICA DE INTEGRAÇÃO: ENSINO, SERVIÇO E COMUNIDADE V",
+    "Semestre": 5,
+    "Apelido": "PRÁTICA DE INTEGRAÇÃO: ENSINO, SERVIÇO E COMUNIDADE V",
+    "CargaHorariaTeorico": 68,
+    "CargaHorariaPratica": null,
+    "ListaPrequisitos": [
+      {
+        "Id": 43584,
+        "Codigo": "0709.000.982-5",
+        "Descricao": "FUNDAMENTOS DA PRÁTICA MÉDICA IV",
+        "Semestre": "0",
+        "Apelido": "FUNDAMENTOS DA PRÁTICA MÉDICA IV",
+        "CargaHorariaTeorico": 0,
+        "CargaHorariaPratica": 0,
+        "ListaPrequisitos": []
+      },
+      {
+        "Id": 43630,
+        "Codigo": "0709.001.028-1",
+        "Descricao": "PRÁTICA DE INTEGRAÇÃO: ENSINO, SERVIÇO E COMUNIDADE I",
+        "Semestre": "0",
+        "Apelido": "PRÁTICA DE INTEGRAÇÃO: ENSINO, SERVIÇO E COMUNIDADE I",
+        "CargaHorariaTeorico": 0,
+        "CargaHorariaPratica": 0,
+        "ListaPrequisitos": []
+      },
+      {
+        "Id": 43631,
+        "Codigo": "0709.001.029-0",
+        "Descricao": "PRÁTICA DE INTEGRAÇÃO: ENSINO, SERVIÇO E COMUNIDADE II",
+        "Semestre": "0",
+        "Apelido": "PRÁTICA DE INTEGRAÇÃO: ENSINO, SERVIÇO E COMUNIDADE II",
+        "CargaHorariaTeorico": 0,
+        "CargaHorariaPratica": 0,
+        "ListaPrequisitos": []
+      },
+      {
+        "Id": 43632,
+        "Codigo": "0709.001.030-7",
+        "Descricao": "PRÁTICA DE INTEGRAÇÃO: ENSINO, SERVIÇO E COMUNIDADE III",
+        "Semestre": "0",
+        "Apelido": "PRÁTICA DE INTEGRAÇÃO: ENSINO, SERVIÇO E COMUNIDADE III",
+        "CargaHorariaTeorico": 0,
+        "CargaHorariaPratica": 0,
+        "ListaPrequisitos": []
+      },
+      {
+        "Id": 43636,
+        "Codigo": "0709.001.034-3",
+        "Descricao": "PRÁTICA DE INTEGRAÇÃO: ENSINO, SERVIÇO E COMUNIDADE IV",
+        "Semestre": "0",
+        "Apelido": "PRÁTICA DE INTEGRAÇÃO: ENSINO, SERVIÇO E COMUNIDADE IV",
+        "CargaHorariaTeorico": 0,
+        "CargaHorariaPratica": 0,
+        "ListaPrequisitos": []
+      },
+      {
+        "Id": 43674,
+        "Codigo": "0709.001.072-8",
+        "Descricao": "BASES BIOLÓGICAS DA PRÁTICA MÉDICA IV",
+        "Semestre": "0",
+        "Apelido": "BASES BIOLÓGICAS DA PRÁTICA MÉDICA IV",
+        "CargaHorariaTeorico": 0,
+        "CargaHorariaPratica": 0,
+        "ListaPrequisitos": []
+      },
+      {
+        "Id": 43676,
+        "Codigo": "0709.001.074-6",
+        "Descricao": "BASES PSICOSSOCIAIS DA PRÁTICA MÉDICA IV",
+        "Semestre": "0",
+        "Apelido": "BASES PSICOSSOCIAIS DA PRÁTICA MÉDICA IV",
+        "CargaHorariaTeorico": 0,
+        "CargaHorariaPratica": 0,
+        "ListaPrequisitos": []
+      },
+      {
+        "Id": 51561,
+        "Codigo": "0709.002.285-4",
+        "Descricao": "URGÊNCIA E EMERGÊNCIA I",
+        "Semestre": "0",
+        "Apelido": "URGÊNCIA E EMERGÊNCIA I",
+        "CargaHorariaTeorico": 0,
+        "CargaHorariaPratica": 0,
+        "ListaPrequisitos": []
+      }
+    ]
+  },
+  {
+    "Id": 51567,
+    "Codigo": "0709.002.291-6",
+    "Tipo": "OBR",
+    "Descricao": "URGÊNCIA E EMERGÊNCIA II",
+    "Semestre": 5,
+    "Apelido": "URGÊNCIA E EMERGÊNCIA II",
+    "CargaHorariaTeorico": 51,
+    "CargaHorariaPratica": null,
+    "ListaPrequisitos": []
+  },
+  {
+    "Id": 43650,
+    "Codigo": "0709.001.048-8",
+    "Tipo": "OBR",
+    "Descricao": "BASES BIOLÓGICAS DA PRÁTICA MÉDICA VI",
+    "Semestre": 6,
+    "Apelido": "BASES BIOLÓGICAS DA PRÁTICA MÉDICA VI",
+    "CargaHorariaTeorico": 204,
+    "CargaHorariaPratica": null,
+    "ListaPrequisitos": [
+      {
+        "Id": 43649,
+        "Codigo": "0709.001.047-9",
+        "Descricao": "BASES BIOLÓGICAS DA PRÁTICA MÉDICA III",
+        "Semestre": "0",
+        "Apelido": "BASES BIOLÓGICAS DA PRÁTICA MÉDICA III",
+        "CargaHorariaTeorico": 0,
+        "CargaHorariaPratica": 0,
+        "ListaPrequisitos": []
+      },
+      {
+        "Id": 43674,
+        "Codigo": "0709.001.072-8",
+        "Descricao": "BASES BIOLÓGICAS DA PRÁTICA MÉDICA IV",
+        "Semestre": "0",
+        "Apelido": "BASES BIOLÓGICAS DA PRÁTICA MÉDICA IV",
+        "CargaHorariaTeorico": 0,
+        "CargaHorariaPratica": 0,
+        "ListaPrequisitos": []
+      },
+      {
+        "Id": 51562,
+        "Codigo": "0709.002.286-3",
+        "Descricao": "BASES BIOLOGICAS DA PRÁTICA MÉDICA I",
+        "Semestre": "0",
+        "Apelido": "BASES BIOLOGICAS DA PRÁTICA MÉDICA I",
+        "CargaHorariaTeorico": 0,
+        "CargaHorariaPratica": 0,
+        "ListaPrequisitos": []
+      },
+      {
+        "Id": 51563,
+        "Codigo": "0709.002.287-2",
+        "Descricao": "BASES BIOLOGICAS DA PRÁTICA MÉDICA II",
+        "Semestre": "0",
+        "Apelido": "BASES BIOLOGICAS DA PRÁTICA MÉDICA II",
+        "CargaHorariaTeorico": 0,
+        "CargaHorariaPratica": 0,
+        "ListaPrequisitos": []
+      }
+    ]
+  },
+  {
+    "Id": 43678,
+    "Codigo": "0709.001.076-4",
+    "Tipo": "OBR",
+    "Descricao": "BASES PSICOSSOCIAIS DA PRÁTICA MÉDICA VI",
+    "Semestre": 6,
+    "Apelido": "BASES PSICOSSOCIAIS DA PRÁTICA MÉDICA VI",
+    "CargaHorariaTeorico": 68,
+    "CargaHorariaPratica": null,
+    "ListaPrequisitos": [
+      {
+        "Id": 43625,
+        "Codigo": "0709.001.023-6",
+        "Descricao": "BASES PSICOSSOCIAIS DA PRÁTICA MÉDICA III",
+        "Semestre": "0",
+        "Apelido": "BASES PSICOSSOCIAIS DA PRÁTICA MÉDICA III",
+        "CargaHorariaTeorico": 0,
+        "CargaHorariaPratica": 0,
+        "ListaPrequisitos": []
+      },
+      {
+        "Id": 43628,
+        "Codigo": "0709.001.026-3",
+        "Descricao": "BASES PSICOSSOCIAIS DA PRÁTICA MÉDICA II",
+        "Semestre": "0",
+        "Apelido": "BASES PSICOSSOCIAIS DA PRÁTICA MÉDICA II",
+        "CargaHorariaTeorico": 0,
+        "CargaHorariaPratica": 0,
+        "ListaPrequisitos": []
+      },
+      {
+        "Id": 43675,
+        "Codigo": "0709.001.073-7",
+        "Descricao": "BASES PSICOSSOCIAIS DA PRÁTICA MÉDICA I",
+        "Semestre": "0",
+        "Apelido": "BASES PSICOSSOCIAIS DA PRÁTICA MÉDICA I",
+        "CargaHorariaTeorico": 0,
+        "CargaHorariaPratica": 0,
+        "ListaPrequisitos": []
+      },
+      {
+        "Id": 43676,
+        "Codigo": "0709.001.074-6",
+        "Descricao": "BASES PSICOSSOCIAIS DA PRÁTICA MÉDICA IV",
+        "Semestre": "0",
+        "Apelido": "BASES PSICOSSOCIAIS DA PRÁTICA MÉDICA IV",
+        "CargaHorariaTeorico": 0,
+        "CargaHorariaPratica": 0,
+        "ListaPrequisitos": []
+      }
+    ]
+  },
+  {
+    "Id": 51559,
+    "Codigo": "0709.002.283-6",
+    "Tipo": "OBR",
+    "Descricao": "CIRURGIA I",
+    "Semestre": 6,
+    "Apelido": "CIRURGIA I",
+    "CargaHorariaTeorico": 51,
+    "CargaHorariaPratica": null,
+    "ListaPrequisitos": [
+      {
+        "Id": 51567,
+        "Codigo": "0709.002.291-6",
+        "Descricao": "URGÊNCIA E EMERGÊNCIA II",
+        "Semestre": "0",
+        "Apelido": "URGÊNCIA E EMERGÊNCIA II",
+        "CargaHorariaTeorico": 0,
+        "CargaHorariaPratica": 0,
+        "ListaPrequisitos": []
+      }
+    ]
+  },
+  {
+    "Id": 43587,
+    "Codigo": "0709.000.985-2",
+    "Tipo": "OBR",
+    "Descricao": "FUNDAMENTOS DA PRÁTICA MÉDICA VI",
+    "Semestre": 6,
+    "Apelido": "FUNDAMENTOS DA PRÁTICA MÉDICA VI",
+    "CargaHorariaTeorico": 136,
+    "CargaHorariaPratica": null,
+    "ListaPrequisitos": [
+      {
+        "Id": 43582,
+        "Codigo": "0709.000.980-7",
+        "Descricao": "FUNDAMENTOS DA PRÁTICA MÉDICA II",
+        "Semestre": "0",
+        "Apelido": "FUNDAMENTOS DA PRÁTICA MÉDICA II",
+        "CargaHorariaTeorico": 0,
+        "CargaHorariaPratica": 0,
+        "ListaPrequisitos": []
+      },
+      {
+        "Id": 43583,
+        "Codigo": "0709.000.981-6",
+        "Descricao": "FUNDAMENTOS DA PRÁTICA MÉDICA III",
+        "Semestre": "0",
+        "Apelido": "FUNDAMENTOS DA PRÁTICA MÉDICA III",
+        "CargaHorariaTeorico": 0,
+        "CargaHorariaPratica": 0,
+        "ListaPrequisitos": []
+      },
+      {
+        "Id": 43584,
+        "Codigo": "0709.000.982-5",
+        "Descricao": "FUNDAMENTOS DA PRÁTICA MÉDICA IV",
+        "Semestre": "0",
+        "Apelido": "FUNDAMENTOS DA PRÁTICA MÉDICA IV",
+        "CargaHorariaTeorico": 0,
+        "CargaHorariaPratica": 0,
+        "ListaPrequisitos": []
+      },
+      {
+        "Id": 43614,
+        "Codigo": "0709.001.012-9",
+        "Descricao": "FUNDAMENTOS DA PRÁTICA MÉDICA I",
+        "Semestre": "0",
+        "Apelido": "FUNDAMENTOS DA PRÁTICA MÉDICA I",
+        "CargaHorariaTeorico": 0,
+        "CargaHorariaPratica": 0,
+        "ListaPrequisitos": []
+      }
+    ]
+  },
+  {
+    "Id": 43634,
+    "Codigo": "0709.001.032-5",
+    "Tipo": "OBR",
+    "Descricao": "PRÁTICA DE INTEGRAÇÃO: ENSINO, SERVIÇO E COMUNIDADE VI",
+    "Semestre": 6,
+    "Apelido": "PRÁTICA DE INTEGRAÇÃO: ENSINO, SERVIÇO E COMUNIDADE VI",
+    "CargaHorariaTeorico": 68,
+    "CargaHorariaPratica": null,
+    "ListaPrequisitos": [
+      {
+        "Id": 43582,
+        "Codigo": "0709.000.980-7",
+        "Descricao": "FUNDAMENTOS DA PRÁTICA MÉDICA II",
+        "Semestre": "0",
+        "Apelido": "FUNDAMENTOS DA PRÁTICA MÉDICA II",
+        "CargaHorariaTeorico": 0,
+        "CargaHorariaPratica": 0,
+        "ListaPrequisitos": []
+      },
+      {
+        "Id": 43583,
+        "Codigo": "0709.000.981-6",
+        "Descricao": "FUNDAMENTOS DA PRÁTICA MÉDICA III",
+        "Semestre": "0",
+        "Apelido": "FUNDAMENTOS DA PRÁTICA MÉDICA III",
+        "CargaHorariaTeorico": 0,
+        "CargaHorariaPratica": 0,
+        "ListaPrequisitos": []
+      },
+      {
+        "Id": 43630,
+        "Codigo": "0709.001.028-1",
+        "Descricao": "PRÁTICA DE INTEGRAÇÃO: ENSINO, SERVIÇO E COMUNIDADE I",
+        "Semestre": "0",
+        "Apelido": "PRÁTICA DE INTEGRAÇÃO: ENSINO, SERVIÇO E COMUNIDADE I",
+        "CargaHorariaTeorico": 0,
+        "CargaHorariaPratica": 0,
+        "ListaPrequisitos": []
+      },
+      {
+        "Id": 43631,
+        "Codigo": "0709.001.029-0",
+        "Descricao": "PRÁTICA DE INTEGRAÇÃO: ENSINO, SERVIÇO E COMUNIDADE II",
+        "Semestre": "0",
+        "Apelido": "PRÁTICA DE INTEGRAÇÃO: ENSINO, SERVIÇO E COMUNIDADE II",
+        "CargaHorariaTeorico": 0,
+        "CargaHorariaPratica": 0,
+        "ListaPrequisitos": []
+      },
+      {
+        "Id": 43632,
+        "Codigo": "0709.001.030-7",
+        "Descricao": "PRÁTICA DE INTEGRAÇÃO: ENSINO, SERVIÇO E COMUNIDADE III",
+        "Semestre": "0",
+        "Apelido": "PRÁTICA DE INTEGRAÇÃO: ENSINO, SERVIÇO E COMUNIDADE III",
+        "CargaHorariaTeorico": 0,
+        "CargaHorariaPratica": 0,
+        "ListaPrequisitos": []
+      },
+      {
+        "Id": 43636,
+        "Codigo": "0709.001.034-3",
+        "Descricao": "PRÁTICA DE INTEGRAÇÃO: ENSINO, SERVIÇO E COMUNIDADE IV",
+        "Semestre": "0",
+        "Apelido": "PRÁTICA DE INTEGRAÇÃO: ENSINO, SERVIÇO E COMUNIDADE IV",
+        "CargaHorariaTeorico": 0,
+        "CargaHorariaPratica": 0,
+        "ListaPrequisitos": []
+      },
+      {
+        "Id": 51567,
+        "Codigo": "0709.002.291-6",
+        "Descricao": "URGÊNCIA E EMERGÊNCIA II",
+        "Semestre": "0",
+        "Apelido": "URGÊNCIA E EMERGÊNCIA II",
+        "CargaHorariaTeorico": 0,
+        "CargaHorariaPratica": 0,
+        "ListaPrequisitos": []
+      }
+    ]
+  },
+  {
+    "Id": 43651,
+    "Codigo": "0709.001.049-7",
+    "Tipo": "OBR",
+    "Descricao": "BASES BIOLÓGICAS DA PRÁTICA MÉDICA VII",
+    "Semestre": 7,
+    "Apelido": "BASES BIOLÓGICAS DA PRÁTICA MÉDICA VII",
+    "CargaHorariaTeorico": 34,
+    "CargaHorariaPratica": null,
+    "ListaPrequisitos": []
+  },
+  {
+    "Id": 43621,
+    "Codigo": "0709.001.019-2",
+    "Tipo": "OBR",
+    "Descricao": "BASES PSICOSSOCIAIS DA PRÁTICA MÉDICA VII",
+    "Semestre": 7,
+    "Apelido": "BASES PSICOSSOCIAIS DA PRÁTICA MÉDICA VII",
+    "CargaHorariaTeorico": 68,
+    "CargaHorariaPratica": null,
+    "ListaPrequisitos": []
+  },
+  {
+    "Id": 51570,
+    "Codigo": "0709.002.294-3",
+    "Tipo": "OBR",
+    "Descricao": "CIRURGIA II",
+    "Semestre": 7,
+    "Apelido": "CIRURGIA II",
+    "CargaHorariaTeorico": 68,
+    "CargaHorariaPratica": null,
+    "ListaPrequisitos": []
+  },
+  {
+    "Id": 43616,
+    "Codigo": "0709.001.014-7",
+    "Tipo": "OBR",
+    "Descricao": "FUNDAMENTOS DA PRÁTICA MÉDICA VII",
+    "Semestre": 7,
+    "Apelido": "FUNDAMENTOS DA PRÁTICA MÉDICA VII",
+    "CargaHorariaTeorico": 170,
+    "CargaHorariaPratica": null,
+    "ListaPrequisitos": []
+  },
+  {
+    "Id": 43646,
+    "Codigo": "0709.001.044-1",
+    "Tipo": "OBR",
+    "Descricao": "PRÁTICA DE INTEGRAÇÃO: ENSINO, SERVIÇO E COMUNIDADE VII",
+    "Semestre": 7,
+    "Apelido": "PRÁTICA DE INTEGRAÇÃO: ENSINO, SERVIÇO E COMUNIDADE VII",
+    "CargaHorariaTeorico": 136,
+    "CargaHorariaPratica": null,
+    "ListaPrequisitos": []
+  },
+  {
+    "Id": 51564,
+    "Codigo": "0709.002.288-1",
+    "Tipo": "OBR",
+    "Descricao": "URGÊNCIA E EMERGÊNCIA III",
+    "Semestre": 7,
+    "Apelido": "URGÊNCIA E EMERGÊNCIA III",
+    "CargaHorariaTeorico": 51,
+    "CargaHorariaPratica": null,
+    "ListaPrequisitos": []
+  },
+  {
+    "Id": 51566,
+    "Codigo": "0709.002.290-7",
+    "Tipo": "OBR",
+    "Descricao": "BASES BIOLÓGICAS DA PRÁTICA MÉDICA VIII",
+    "Semestre": 8,
+    "Apelido": "BASES BIOLÓGICAS DA PRÁTICA MÉDICA VIII",
+    "CargaHorariaTeorico": 34,
+    "CargaHorariaPratica": null,
+    "ListaPrequisitos": []
+  },
+  {
+    "Id": 43679,
+    "Codigo": "0709.001.077-3",
+    "Tipo": "OBR",
+    "Descricao": "BASES PSICOSSOCIAIS DA PRÁTICA MÉDICA VIII",
+    "Semestre": 8,
+    "Apelido": "BASES PSICOSSOCIAIS DA PRÁTICA MÉDICA VIII",
+    "CargaHorariaTeorico": 34,
+    "CargaHorariaPratica": null,
+    "ListaPrequisitos": []
+  },
+  {
+    "Id": 51560,
+    "Codigo": "0709.002.284-5",
+    "Tipo": "OBR",
+    "Descricao": "CIRURGIA III",
+    "Semestre": 8,
+    "Apelido": "CIRURGIA III",
+    "CargaHorariaTeorico": 68,
+    "CargaHorariaPratica": null,
+    "ListaPrequisitos": []
+  },
+  {
+    "Id": 43661,
+    "Codigo": "0709.001.059-5",
+    "Tipo": "OBR",
+    "Descricao": "FUNDAMENTOS DA PRÁTICA MÉDICA VIII",
+    "Semestre": 8,
+    "Apelido": "FUNDAMENTOS DA PRÁTICA MÉDICA VIII",
+    "CargaHorariaTeorico": 170,
+    "CargaHorariaPratica": null,
+    "ListaPrequisitos": []
+  },
+  {
+    "Id": 43637,
+    "Codigo": "0709.001.035-2",
+    "Tipo": "OBR",
+    "Descricao": "PRÁTICA DE INTEGRAÇÃO: ENSINO, SERVIÇO E COMUNIDADE VIII",
+    "Semestre": 8,
+    "Apelido": "PRÁTICA DE INTEGRAÇÃO: ENSINO, SERVIÇO E COMUNIDADE VIII",
+    "CargaHorariaTeorico": 136,
+    "CargaHorariaPratica": null,
+    "ListaPrequisitos": []
+  },
+  {
+    "Id": 51558,
+    "Codigo": "0709.002.282-7",
+    "Tipo": "OBR",
+    "Descricao": "URGÊNCIA E EMERGÊNCIA IV",
+    "Semestre": 8,
+    "Apelido": "URGÊNCIA E EMERGÊNCIA IV",
+    "CargaHorariaTeorico": 68,
+    "CargaHorariaPratica": null,
+    "ListaPrequisitos": []
+  },
+  {
+    "Id": 51555,
+    "Codigo": "0709.002.279-2",
+    "Tipo": "OBR",
+    "Descricao": "ESTÁGIO OBRIGATÓRIO EM ATENÇÃO BÁSICA: MEDICINA DA FAMÍLIA, COMUNIDADE E SAÚDE COLETIVA I",
+    "Semestre": 9,
+    "Apelido": "ESTÁGIO OBRIGATÓRIO EM ATENÇÃO BÁSICA: MEDICINA DA FAMÍLIA, COMUNIDADE E SAÚDE COLETIVA I",
+    "CargaHorariaTeorico": 160,
+    "CargaHorariaPratica": null,
+    "ListaPrequisitos": [
+      {
+        "Id": 43582,
+        "Codigo": "0709.000.980-7",
+        "Descricao": "FUNDAMENTOS DA PRÁTICA MÉDICA II",
+        "Semestre": "0",
+        "Apelido": "FUNDAMENTOS DA PRÁTICA MÉDICA II",
+        "CargaHorariaTeorico": 0,
+        "CargaHorariaPratica": 0,
+        "ListaPrequisitos": []
+      },
+      {
+        "Id": 43583,
+        "Codigo": "0709.000.981-6",
+        "Descricao": "FUNDAMENTOS DA PRÁTICA MÉDICA III",
+        "Semestre": "0",
+        "Apelido": "FUNDAMENTOS DA PRÁTICA MÉDICA III",
+        "CargaHorariaTeorico": 0,
+        "CargaHorariaPratica": 0,
+        "ListaPrequisitos": []
+      },
+      {
+        "Id": 43584,
+        "Codigo": "0709.000.982-5",
+        "Descricao": "FUNDAMENTOS DA PRÁTICA MÉDICA IV",
+        "Semestre": "0",
+        "Apelido": "FUNDAMENTOS DA PRÁTICA MÉDICA IV",
+        "CargaHorariaTeorico": 0,
+        "CargaHorariaPratica": 0,
+        "ListaPrequisitos": []
+      },
+      {
+        "Id": 43586,
+        "Codigo": "0709.000.984-3",
+        "Descricao": "FUNDAMENTOS DA PRÁTICA MÉDICA V",
+        "Semestre": "0",
+        "Apelido": "FUNDAMENTOS DA PRÁTICA MÉDICA V",
+        "CargaHorariaTeorico": 0,
+        "CargaHorariaPratica": 0,
+        "ListaPrequisitos": []
+      },
+      {
+        "Id": 43587,
+        "Codigo": "0709.000.985-2",
+        "Descricao": "FUNDAMENTOS DA PRÁTICA MÉDICA VI",
+        "Semestre": "0",
+        "Apelido": "FUNDAMENTOS DA PRÁTICA MÉDICA VI",
+        "CargaHorariaTeorico": 0,
+        "CargaHorariaPratica": 0,
+        "ListaPrequisitos": []
+      },
+      {
+        "Id": 43602,
+        "Codigo": "0709.001.000-2",
+        "Descricao": "BASES BIOLÓGICAS DA PRÁTICA MÉDICA V",
+        "Semestre": "0",
+        "Apelido": "BASES BIOLÓGICAS DA PRÁTICA MÉDICA V",
+        "CargaHorariaTeorico": 0,
+        "CargaHorariaPratica": 0,
+        "ListaPrequisitos": []
+      },
+      {
+        "Id": 43614,
+        "Codigo": "0709.001.012-9",
+        "Descricao": "FUNDAMENTOS DA PRÁTICA MÉDICA I",
+        "Semestre": "0",
+        "Apelido": "FUNDAMENTOS DA PRÁTICA MÉDICA I",
+        "CargaHorariaTeorico": 0,
+        "CargaHorariaPratica": 0,
+        "ListaPrequisitos": []
+      },
+      {
+        "Id": 43616,
+        "Codigo": "0709.001.014-7",
+        "Descricao": "FUNDAMENTOS DA PRÁTICA MÉDICA VII",
+        "Semestre": "0",
+        "Apelido": "FUNDAMENTOS DA PRÁTICA MÉDICA VII",
+        "CargaHorariaTeorico": 0,
+        "CargaHorariaPratica": 0,
+        "ListaPrequisitos": []
+      },
+      {
+        "Id": 43621,
+        "Codigo": "0709.001.019-2",
+        "Descricao": "BASES PSICOSSOCIAIS DA PRÁTICA MÉDICA VII",
+        "Semestre": "0",
+        "Apelido": "BASES PSICOSSOCIAIS DA PRÁTICA MÉDICA VII",
+        "CargaHorariaTeorico": 0,
+        "CargaHorariaPratica": 0,
+        "ListaPrequisitos": []
+      },
+      {
+        "Id": 43625,
+        "Codigo": "0709.001.023-6",
+        "Descricao": "BASES PSICOSSOCIAIS DA PRÁTICA MÉDICA III",
+        "Semestre": "0",
+        "Apelido": "BASES PSICOSSOCIAIS DA PRÁTICA MÉDICA III",
+        "CargaHorariaTeorico": 0,
+        "CargaHorariaPratica": 0,
+        "ListaPrequisitos": []
+      },
+      {
+        "Id": 43628,
+        "Codigo": "0709.001.026-3",
+        "Descricao": "BASES PSICOSSOCIAIS DA PRÁTICA MÉDICA II",
+        "Semestre": "0",
+        "Apelido": "BASES PSICOSSOCIAIS DA PRÁTICA MÉDICA II",
+        "CargaHorariaTeorico": 0,
+        "CargaHorariaPratica": 0,
+        "ListaPrequisitos": []
+      },
+      {
+        "Id": 43630,
+        "Codigo": "0709.001.028-1",
+        "Descricao": "PRÁTICA DE INTEGRAÇÃO: ENSINO, SERVIÇO E COMUNIDADE I",
+        "Semestre": "0",
+        "Apelido": "PRÁTICA DE INTEGRAÇÃO: ENSINO, SERVIÇO E COMUNIDADE I",
+        "CargaHorariaTeorico": 0,
+        "CargaHorariaPratica": 0,
+        "ListaPrequisitos": []
+      },
+      {
+        "Id": 43631,
+        "Codigo": "0709.001.029-0",
+        "Descricao": "PRÁTICA DE INTEGRAÇÃO: ENSINO, SERVIÇO E COMUNIDADE II",
+        "Semestre": "0",
+        "Apelido": "PRÁTICA DE INTEGRAÇÃO: ENSINO, SERVIÇO E COMUNIDADE II",
+        "CargaHorariaTeorico": 0,
+        "CargaHorariaPratica": 0,
+        "ListaPrequisitos": []
+      },
+      {
+        "Id": 43632,
+        "Codigo": "0709.001.030-7",
+        "Descricao": "PRÁTICA DE INTEGRAÇÃO: ENSINO, SERVIÇO E COMUNIDADE III",
+        "Semestre": "0",
+        "Apelido": "PRÁTICA DE INTEGRAÇÃO: ENSINO, SERVIÇO E COMUNIDADE III",
+        "CargaHorariaTeorico": 0,
+        "CargaHorariaPratica": 0,
+        "ListaPrequisitos": []
+      },
+      {
+        "Id": 43633,
+        "Codigo": "0709.001.031-6",
+        "Descricao": "PRÁTICA DE INTEGRAÇÃO: ENSINO, SERVIÇO E COMUNIDADE V",
+        "Semestre": "0",
+        "Apelido": "PRÁTICA DE INTEGRAÇÃO: ENSINO, SERVIÇO E COMUNIDADE V",
+        "CargaHorariaTeorico": 0,
+        "CargaHorariaPratica": 0,
+        "ListaPrequisitos": []
+      },
+      {
+        "Id": 43634,
+        "Codigo": "0709.001.032-5",
+        "Descricao": "PRÁTICA DE INTEGRAÇÃO: ENSINO, SERVIÇO E COMUNIDADE VI",
+        "Semestre": "0",
+        "Apelido": "PRÁTICA DE INTEGRAÇÃO: ENSINO, SERVIÇO E COMUNIDADE VI",
+        "CargaHorariaTeorico": 0,
+        "CargaHorariaPratica": 0,
+        "ListaPrequisitos": []
+      },
+      {
+        "Id": 43636,
+        "Codigo": "0709.001.034-3",
+        "Descricao": "PRÁTICA DE INTEGRAÇÃO: ENSINO, SERVIÇO E COMUNIDADE IV",
+        "Semestre": "0",
+        "Apelido": "PRÁTICA DE INTEGRAÇÃO: ENSINO, SERVIÇO E COMUNIDADE IV",
+        "CargaHorariaTeorico": 0,
+        "CargaHorariaPratica": 0,
+        "ListaPrequisitos": []
+      },
+      {
+        "Id": 43637,
+        "Codigo": "0709.001.035-2",
+        "Descricao": "PRÁTICA DE INTEGRAÇÃO: ENSINO, SERVIÇO E COMUNIDADE VIII",
+        "Semestre": "0",
+        "Apelido": "PRÁTICA DE INTEGRAÇÃO: ENSINO, SERVIÇO E COMUNIDADE VIII",
+        "CargaHorariaTeorico": 0,
+        "CargaHorariaPratica": 0,
+        "ListaPrequisitos": []
+      },
+      {
+        "Id": 43646,
+        "Codigo": "0709.001.044-1",
+        "Descricao": "PRÁTICA DE INTEGRAÇÃO: ENSINO, SERVIÇO E COMUNIDADE VII",
+        "Semestre": "0",
+        "Apelido": "PRÁTICA DE INTEGRAÇÃO: ENSINO, SERVIÇO E COMUNIDADE VII",
+        "CargaHorariaTeorico": 0,
+        "CargaHorariaPratica": 0,
+        "ListaPrequisitos": []
+      },
+      {
+        "Id": 43649,
+        "Codigo": "0709.001.047-9",
+        "Descricao": "BASES BIOLÓGICAS DA PRÁTICA MÉDICA III",
+        "Semestre": "0",
+        "Apelido": "BASES BIOLÓGICAS DA PRÁTICA MÉDICA III",
+        "CargaHorariaTeorico": 0,
+        "CargaHorariaPratica": 0,
+        "ListaPrequisitos": []
+      },
+      {
+        "Id": 43650,
+        "Codigo": "0709.001.048-8",
+        "Descricao": "BASES BIOLÓGICAS DA PRÁTICA MÉDICA VI",
+        "Semestre": "0",
+        "Apelido": "BASES BIOLÓGICAS DA PRÁTICA MÉDICA VI",
+        "CargaHorariaTeorico": 0,
+        "CargaHorariaPratica": 0,
+        "ListaPrequisitos": []
+      },
+      {
+        "Id": 43651,
+        "Codigo": "0709.001.049-7",
+        "Descricao": "BASES BIOLÓGICAS DA PRÁTICA MÉDICA VII",
+        "Semestre": "0",
+        "Apelido": "BASES BIOLÓGICAS DA PRÁTICA MÉDICA VII",
+        "CargaHorariaTeorico": 0,
+        "CargaHorariaPratica": 0,
+        "ListaPrequisitos": []
+      },
+      {
+        "Id": 43661,
+        "Codigo": "0709.001.059-5",
+        "Descricao": "FUNDAMENTOS DA PRÁTICA MÉDICA VIII",
+        "Semestre": "0",
+        "Apelido": "FUNDAMENTOS DA PRÁTICA MÉDICA VIII",
+        "CargaHorariaTeorico": 0,
+        "CargaHorariaPratica": 0,
+        "ListaPrequisitos": []
+      },
+      {
+        "Id": 43674,
+        "Codigo": "0709.001.072-8",
+        "Descricao": "BASES BIOLÓGICAS DA PRÁTICA MÉDICA IV",
+        "Semestre": "0",
+        "Apelido": "BASES BIOLÓGICAS DA PRÁTICA MÉDICA IV",
+        "CargaHorariaTeorico": 0,
+        "CargaHorariaPratica": 0,
+        "ListaPrequisitos": []
+      },
+      {
+        "Id": 43675,
+        "Codigo": "0709.001.073-7",
+        "Descricao": "BASES PSICOSSOCIAIS DA PRÁTICA MÉDICA I",
+        "Semestre": "0",
+        "Apelido": "BASES PSICOSSOCIAIS DA PRÁTICA MÉDICA I",
+        "CargaHorariaTeorico": 0,
+        "CargaHorariaPratica": 0,
+        "ListaPrequisitos": []
+      },
+      {
+        "Id": 43676,
+        "Codigo": "0709.001.074-6",
+        "Descricao": "BASES PSICOSSOCIAIS DA PRÁTICA MÉDICA IV",
+        "Semestre": "0",
+        "Apelido": "BASES PSICOSSOCIAIS DA PRÁTICA MÉDICA IV",
+        "CargaHorariaTeorico": 0,
+        "CargaHorariaPratica": 0,
+        "ListaPrequisitos": []
+      },
+      {
+        "Id": 43677,
+        "Codigo": "0709.001.075-5",
+        "Descricao": "BASES PSICOSSOCIAIS DA PRÁTICA MÉDICA V",
+        "Semestre": "0",
+        "Apelido": "BASES PSICOSSOCIAIS DA PRÁTICA MÉDICA V",
+        "CargaHorariaTeorico": 0,
+        "CargaHorariaPratica": 0,
+        "ListaPrequisitos": []
+      },
+      {
+        "Id": 43678,
+        "Codigo": "0709.001.076-4",
+        "Descricao": "BASES PSICOSSOCIAIS DA PRÁTICA MÉDICA VI",
+        "Semestre": "0",
+        "Apelido": "BASES PSICOSSOCIAIS DA PRÁTICA MÉDICA VI",
+        "CargaHorariaTeorico": 0,
+        "CargaHorariaPratica": 0,
+        "ListaPrequisitos": []
+      },
+      {
+        "Id": 43679,
+        "Codigo": "0709.001.077-3",
+        "Descricao": "BASES PSICOSSOCIAIS DA PRÁTICA MÉDICA VIII",
+        "Semestre": "0",
+        "Apelido": "BASES PSICOSSOCIAIS DA PRÁTICA MÉDICA VIII",
+        "CargaHorariaTeorico": 0,
+        "CargaHorariaPratica": 0,
+        "ListaPrequisitos": []
+      },
+      {
+        "Id": 51558,
+        "Codigo": "0709.002.282-7",
+        "Descricao": "URGÊNCIA E EMERGÊNCIA IV",
+        "Semestre": "0",
+        "Apelido": "URGÊNCIA E EMERGÊNCIA IV",
+        "CargaHorariaTeorico": 0,
+        "CargaHorariaPratica": 0,
+        "ListaPrequisitos": []
+      },
+      {
+        "Id": 51559,
+        "Codigo": "0709.002.283-6",
+        "Descricao": "CIRURGIA I",
+        "Semestre": "0",
+        "Apelido": "CIRURGIA I",
+        "CargaHorariaTeorico": 0,
+        "CargaHorariaPratica": 0,
+        "ListaPrequisitos": []
+      },
+      {
+        "Id": 51560,
+        "Codigo": "0709.002.284-5",
+        "Descricao": "CIRURGIA III",
+        "Semestre": "0",
+        "Apelido": "CIRURGIA III",
+        "CargaHorariaTeorico": 0,
+        "CargaHorariaPratica": 0,
+        "ListaPrequisitos": []
+      },
+      {
+        "Id": 51561,
+        "Codigo": "0709.002.285-4",
+        "Descricao": "URGÊNCIA E EMERGÊNCIA I",
+        "Semestre": "0",
+        "Apelido": "URGÊNCIA E EMERGÊNCIA I",
+        "CargaHorariaTeorico": 0,
+        "CargaHorariaPratica": 0,
+        "ListaPrequisitos": []
+      },
+      {
+        "Id": 51562,
+        "Codigo": "0709.002.286-3",
+        "Descricao": "BASES BIOLOGICAS DA PRÁTICA MÉDICA I",
+        "Semestre": "0",
+        "Apelido": "BASES BIOLOGICAS DA PRÁTICA MÉDICA I",
+        "CargaHorariaTeorico": 0,
+        "CargaHorariaPratica": 0,
+        "ListaPrequisitos": []
+      },
+      {
+        "Id": 51563,
+        "Codigo": "0709.002.287-2",
+        "Descricao": "BASES BIOLOGICAS DA PRÁTICA MÉDICA II",
+        "Semestre": "0",
+        "Apelido": "BASES BIOLOGICAS DA PRÁTICA MÉDICA II",
+        "CargaHorariaTeorico": 0,
+        "CargaHorariaPratica": 0,
+        "ListaPrequisitos": []
+      },
+      {
+        "Id": 51564,
+        "Codigo": "0709.002.288-1",
+        "Descricao": "URGÊNCIA E EMERGÊNCIA III",
+        "Semestre": "0",
+        "Apelido": "URGÊNCIA E EMERGÊNCIA III",
+        "CargaHorariaTeorico": 0,
+        "CargaHorariaPratica": 0,
+        "ListaPrequisitos": []
+      },
+      {
+        "Id": 51566,
+        "Codigo": "0709.002.290-7",
+        "Descricao": "BASES BIOLÓGICAS DA PRÁTICA MÉDICA VIII",
+        "Semestre": "0",
+        "Apelido": "BASES BIOLÓGICAS DA PRÁTICA MÉDICA VIII",
+        "CargaHorariaTeorico": 0,
+        "CargaHorariaPratica": 0,
+        "ListaPrequisitos": []
+      },
+      {
+        "Id": 51567,
+        "Codigo": "0709.002.291-6",
+        "Descricao": "URGÊNCIA E EMERGÊNCIA II",
+        "Semestre": "0",
+        "Apelido": "URGÊNCIA E EMERGÊNCIA II",
+        "CargaHorariaTeorico": 0,
+        "CargaHorariaPratica": 0,
+        "ListaPrequisitos": []
+      },
+      {
+        "Id": 51570,
+        "Codigo": "0709.002.294-3",
+        "Descricao": "CIRURGIA II",
+        "Semestre": "0",
+        "Apelido": "CIRURGIA II",
+        "CargaHorariaTeorico": 0,
+        "CargaHorariaPratica": 0,
+        "ListaPrequisitos": []
+      }
+    ]
+  },
+  {
+    "Id": 51556,
+    "Codigo": "0709.002.280-9",
+    "Tipo": "OBR",
+    "Descricao": "ESTÁGIO OBRIGATÓRIO EM ATENÇÃO BÁSICA: MEDICINA DA FAMÍLIA, COMUNIDADE E SAÚDE COLETIVA II",
+    "Semestre": 9,
+    "Apelido": "ESTÁGIO OBRIGATÓRIO EM ATENÇÃO BÁSICA: MEDICINA DA FAMÍLIA, COMUNIDADE E SAÚDE COLETIVA II",
+    "CargaHorariaTeorico": 160,
+    "CargaHorariaPratica": null,
+    "ListaPrequisitos": [
+      {
+        "Id": 43582,
+        "Codigo": "0709.000.980-7",
+        "Descricao": "FUNDAMENTOS DA PRÁTICA MÉDICA II",
+        "Semestre": "0",
+        "Apelido": "FUNDAMENTOS DA PRÁTICA MÉDICA II",
+        "CargaHorariaTeorico": 0,
+        "CargaHorariaPratica": 0,
+        "ListaPrequisitos": []
+      },
+      {
+        "Id": 43583,
+        "Codigo": "0709.000.981-6",
+        "Descricao": "FUNDAMENTOS DA PRÁTICA MÉDICA III",
+        "Semestre": "0",
+        "Apelido": "FUNDAMENTOS DA PRÁTICA MÉDICA III",
+        "CargaHorariaTeorico": 0,
+        "CargaHorariaPratica": 0,
+        "ListaPrequisitos": []
+      },
+      {
+        "Id": 43584,
+        "Codigo": "0709.000.982-5",
+        "Descricao": "FUNDAMENTOS DA PRÁTICA MÉDICA IV",
+        "Semestre": "0",
+        "Apelido": "FUNDAMENTOS DA PRÁTICA MÉDICA IV",
+        "CargaHorariaTeorico": 0,
+        "CargaHorariaPratica": 0,
+        "ListaPrequisitos": []
+      },
+      {
+        "Id": 43586,
+        "Codigo": "0709.000.984-3",
+        "Descricao": "FUNDAMENTOS DA PRÁTICA MÉDICA V",
+        "Semestre": "0",
+        "Apelido": "FUNDAMENTOS DA PRÁTICA MÉDICA V",
+        "CargaHorariaTeorico": 0,
+        "CargaHorariaPratica": 0,
+        "ListaPrequisitos": []
+      },
+      {
+        "Id": 43587,
+        "Codigo": "0709.000.985-2",
+        "Descricao": "FUNDAMENTOS DA PRÁTICA MÉDICA VI",
+        "Semestre": "0",
+        "Apelido": "FUNDAMENTOS DA PRÁTICA MÉDICA VI",
+        "CargaHorariaTeorico": 0,
+        "CargaHorariaPratica": 0,
+        "ListaPrequisitos": []
+      },
+      {
+        "Id": 43602,
+        "Codigo": "0709.001.000-2",
+        "Descricao": "BASES BIOLÓGICAS DA PRÁTICA MÉDICA V",
+        "Semestre": "0",
+        "Apelido": "BASES BIOLÓGICAS DA PRÁTICA MÉDICA V",
+        "CargaHorariaTeorico": 0,
+        "CargaHorariaPratica": 0,
+        "ListaPrequisitos": []
+      },
+      {
+        "Id": 43614,
+        "Codigo": "0709.001.012-9",
+        "Descricao": "FUNDAMENTOS DA PRÁTICA MÉDICA I",
+        "Semestre": "0",
+        "Apelido": "FUNDAMENTOS DA PRÁTICA MÉDICA I",
+        "CargaHorariaTeorico": 0,
+        "CargaHorariaPratica": 0,
+        "ListaPrequisitos": []
+      },
+      {
+        "Id": 43616,
+        "Codigo": "0709.001.014-7",
+        "Descricao": "FUNDAMENTOS DA PRÁTICA MÉDICA VII",
+        "Semestre": "0",
+        "Apelido": "FUNDAMENTOS DA PRÁTICA MÉDICA VII",
+        "CargaHorariaTeorico": 0,
+        "CargaHorariaPratica": 0,
+        "ListaPrequisitos": []
+      },
+      {
+        "Id": 43621,
+        "Codigo": "0709.001.019-2",
+        "Descricao": "BASES PSICOSSOCIAIS DA PRÁTICA MÉDICA VII",
+        "Semestre": "0",
+        "Apelido": "BASES PSICOSSOCIAIS DA PRÁTICA MÉDICA VII",
+        "CargaHorariaTeorico": 0,
+        "CargaHorariaPratica": 0,
+        "ListaPrequisitos": []
+      },
+      {
+        "Id": 43625,
+        "Codigo": "0709.001.023-6",
+        "Descricao": "BASES PSICOSSOCIAIS DA PRÁTICA MÉDICA III",
+        "Semestre": "0",
+        "Apelido": "BASES PSICOSSOCIAIS DA PRÁTICA MÉDICA III",
+        "CargaHorariaTeorico": 0,
+        "CargaHorariaPratica": 0,
+        "ListaPrequisitos": []
+      },
+      {
+        "Id": 43628,
+        "Codigo": "0709.001.026-3",
+        "Descricao": "BASES PSICOSSOCIAIS DA PRÁTICA MÉDICA II",
+        "Semestre": "0",
+        "Apelido": "BASES PSICOSSOCIAIS DA PRÁTICA MÉDICA II",
+        "CargaHorariaTeorico": 0,
+        "CargaHorariaPratica": 0,
+        "ListaPrequisitos": []
+      },
+      {
+        "Id": 43630,
+        "Codigo": "0709.001.028-1",
+        "Descricao": "PRÁTICA DE INTEGRAÇÃO: ENSINO, SERVIÇO E COMUNIDADE I",
+        "Semestre": "0",
+        "Apelido": "PRÁTICA DE INTEGRAÇÃO: ENSINO, SERVIÇO E COMUNIDADE I",
+        "CargaHorariaTeorico": 0,
+        "CargaHorariaPratica": 0,
+        "ListaPrequisitos": []
+      },
+      {
+        "Id": 43631,
+        "Codigo": "0709.001.029-0",
+        "Descricao": "PRÁTICA DE INTEGRAÇÃO: ENSINO, SERVIÇO E COMUNIDADE II",
+        "Semestre": "0",
+        "Apelido": "PRÁTICA DE INTEGRAÇÃO: ENSINO, SERVIÇO E COMUNIDADE II",
+        "CargaHorariaTeorico": 0,
+        "CargaHorariaPratica": 0,
+        "ListaPrequisitos": []
+      },
+      {
+        "Id": 43632,
+        "Codigo": "0709.001.030-7",
+        "Descricao": "PRÁTICA DE INTEGRAÇÃO: ENSINO, SERVIÇO E COMUNIDADE III",
+        "Semestre": "0",
+        "Apelido": "PRÁTICA DE INTEGRAÇÃO: ENSINO, SERVIÇO E COMUNIDADE III",
+        "CargaHorariaTeorico": 0,
+        "CargaHorariaPratica": 0,
+        "ListaPrequisitos": []
+      },
+      {
+        "Id": 43633,
+        "Codigo": "0709.001.031-6",
+        "Descricao": "PRÁTICA DE INTEGRAÇÃO: ENSINO, SERVIÇO E COMUNIDADE V",
+        "Semestre": "0",
+        "Apelido": "PRÁTICA DE INTEGRAÇÃO: ENSINO, SERVIÇO E COMUNIDADE V",
+        "CargaHorariaTeorico": 0,
+        "CargaHorariaPratica": 0,
+        "ListaPrequisitos": []
+      },
+      {
+        "Id": 43634,
+        "Codigo": "0709.001.032-5",
+        "Descricao": "PRÁTICA DE INTEGRAÇÃO: ENSINO, SERVIÇO E COMUNIDADE VI",
+        "Semestre": "0",
+        "Apelido": "PRÁTICA DE INTEGRAÇÃO: ENSINO, SERVIÇO E COMUNIDADE VI",
+        "CargaHorariaTeorico": 0,
+        "CargaHorariaPratica": 0,
+        "ListaPrequisitos": []
+      },
+      {
+        "Id": 43636,
+        "Codigo": "0709.001.034-3",
+        "Descricao": "PRÁTICA DE INTEGRAÇÃO: ENSINO, SERVIÇO E COMUNIDADE IV",
+        "Semestre": "0",
+        "Apelido": "PRÁTICA DE INTEGRAÇÃO: ENSINO, SERVIÇO E COMUNIDADE IV",
+        "CargaHorariaTeorico": 0,
+        "CargaHorariaPratica": 0,
+        "ListaPrequisitos": []
+      },
+      {
+        "Id": 43637,
+        "Codigo": "0709.001.035-2",
+        "Descricao": "PRÁTICA DE INTEGRAÇÃO: ENSINO, SERVIÇO E COMUNIDADE VIII",
+        "Semestre": "0",
+        "Apelido": "PRÁTICA DE INTEGRAÇÃO: ENSINO, SERVIÇO E COMUNIDADE VIII",
+        "CargaHorariaTeorico": 0,
+        "CargaHorariaPratica": 0,
+        "ListaPrequisitos": []
+      },
+      {
+        "Id": 43646,
+        "Codigo": "0709.001.044-1",
+        "Descricao": "PRÁTICA DE INTEGRAÇÃO: ENSINO, SERVIÇO E COMUNIDADE VII",
+        "Semestre": "0",
+        "Apelido": "PRÁTICA DE INTEGRAÇÃO: ENSINO, SERVIÇO E COMUNIDADE VII",
+        "CargaHorariaTeorico": 0,
+        "CargaHorariaPratica": 0,
+        "ListaPrequisitos": []
+      },
+      {
+        "Id": 43649,
+        "Codigo": "0709.001.047-9",
+        "Descricao": "BASES BIOLÓGICAS DA PRÁTICA MÉDICA III",
+        "Semestre": "0",
+        "Apelido": "BASES BIOLÓGICAS DA PRÁTICA MÉDICA III",
+        "CargaHorariaTeorico": 0,
+        "CargaHorariaPratica": 0,
+        "ListaPrequisitos": []
+      },
+      {
+        "Id": 43650,
+        "Codigo": "0709.001.048-8",
+        "Descricao": "BASES BIOLÓGICAS DA PRÁTICA MÉDICA VI",
+        "Semestre": "0",
+        "Apelido": "BASES BIOLÓGICAS DA PRÁTICA MÉDICA VI",
+        "CargaHorariaTeorico": 0,
+        "CargaHorariaPratica": 0,
+        "ListaPrequisitos": []
+      },
+      {
+        "Id": 43651,
+        "Codigo": "0709.001.049-7",
+        "Descricao": "BASES BIOLÓGICAS DA PRÁTICA MÉDICA VII",
+        "Semestre": "0",
+        "Apelido": "BASES BIOLÓGICAS DA PRÁTICA MÉDICA VII",
+        "CargaHorariaTeorico": 0,
+        "CargaHorariaPratica": 0,
+        "ListaPrequisitos": []
+      },
+      {
+        "Id": 43661,
+        "Codigo": "0709.001.059-5",
+        "Descricao": "FUNDAMENTOS DA PRÁTICA MÉDICA VIII",
+        "Semestre": "0",
+        "Apelido": "FUNDAMENTOS DA PRÁTICA MÉDICA VIII",
+        "CargaHorariaTeorico": 0,
+        "CargaHorariaPratica": 0,
+        "ListaPrequisitos": []
+      },
+      {
+        "Id": 43674,
+        "Codigo": "0709.001.072-8",
+        "Descricao": "BASES BIOLÓGICAS DA PRÁTICA MÉDICA IV",
+        "Semestre": "0",
+        "Apelido": "BASES BIOLÓGICAS DA PRÁTICA MÉDICA IV",
+        "CargaHorariaTeorico": 0,
+        "CargaHorariaPratica": 0,
+        "ListaPrequisitos": []
+      },
+      {
+        "Id": 43675,
+        "Codigo": "0709.001.073-7",
+        "Descricao": "BASES PSICOSSOCIAIS DA PRÁTICA MÉDICA I",
+        "Semestre": "0",
+        "Apelido": "BASES PSICOSSOCIAIS DA PRÁTICA MÉDICA I",
+        "CargaHorariaTeorico": 0,
+        "CargaHorariaPratica": 0,
+        "ListaPrequisitos": []
+      },
+      {
+        "Id": 43676,
+        "Codigo": "0709.001.074-6",
+        "Descricao": "BASES PSICOSSOCIAIS DA PRÁTICA MÉDICA IV",
+        "Semestre": "0",
+        "Apelido": "BASES PSICOSSOCIAIS DA PRÁTICA MÉDICA IV",
+        "CargaHorariaTeorico": 0,
+        "CargaHorariaPratica": 0,
+        "ListaPrequisitos": []
+      },
+      {
+        "Id": 43677,
+        "Codigo": "0709.001.075-5",
+        "Descricao": "BASES PSICOSSOCIAIS DA PRÁTICA MÉDICA V",
+        "Semestre": "0",
+        "Apelido": "BASES PSICOSSOCIAIS DA PRÁTICA MÉDICA V",
+        "CargaHorariaTeorico": 0,
+        "CargaHorariaPratica": 0,
+        "ListaPrequisitos": []
+      },
+      {
+        "Id": 43678,
+        "Codigo": "0709.001.076-4",
+        "Descricao": "BASES PSICOSSOCIAIS DA PRÁTICA MÉDICA VI",
+        "Semestre": "0",
+        "Apelido": "BASES PSICOSSOCIAIS DA PRÁTICA MÉDICA VI",
+        "CargaHorariaTeorico": 0,
+        "CargaHorariaPratica": 0,
+        "ListaPrequisitos": []
+      },
+      {
+        "Id": 43679,
+        "Codigo": "0709.001.077-3",
+        "Descricao": "BASES PSICOSSOCIAIS DA PRÁTICA MÉDICA VIII",
+        "Semestre": "0",
+        "Apelido": "BASES PSICOSSOCIAIS DA PRÁTICA MÉDICA VIII",
+        "CargaHorariaTeorico": 0,
+        "CargaHorariaPratica": 0,
+        "ListaPrequisitos": []
+      },
+      {
+        "Id": 51558,
+        "Codigo": "0709.002.282-7",
+        "Descricao": "URGÊNCIA E EMERGÊNCIA IV",
+        "Semestre": "0",
+        "Apelido": "URGÊNCIA E EMERGÊNCIA IV",
+        "CargaHorariaTeorico": 0,
+        "CargaHorariaPratica": 0,
+        "ListaPrequisitos": []
+      },
+      {
+        "Id": 51559,
+        "Codigo": "0709.002.283-6",
+        "Descricao": "CIRURGIA I",
+        "Semestre": "0",
+        "Apelido": "CIRURGIA I",
+        "CargaHorariaTeorico": 0,
+        "CargaHorariaPratica": 0,
+        "ListaPrequisitos": []
+      },
+      {
+        "Id": 51560,
+        "Codigo": "0709.002.284-5",
+        "Descricao": "CIRURGIA III",
+        "Semestre": "0",
+        "Apelido": "CIRURGIA III",
+        "CargaHorariaTeorico": 0,
+        "CargaHorariaPratica": 0,
+        "ListaPrequisitos": []
+      },
+      {
+        "Id": 51561,
+        "Codigo": "0709.002.285-4",
+        "Descricao": "URGÊNCIA E EMERGÊNCIA I",
+        "Semestre": "0",
+        "Apelido": "URGÊNCIA E EMERGÊNCIA I",
+        "CargaHorariaTeorico": 0,
+        "CargaHorariaPratica": 0,
+        "ListaPrequisitos": []
+      },
+      {
+        "Id": 51562,
+        "Codigo": "0709.002.286-3",
+        "Descricao": "BASES BIOLOGICAS DA PRÁTICA MÉDICA I",
+        "Semestre": "0",
+        "Apelido": "BASES BIOLOGICAS DA PRÁTICA MÉDICA I",
+        "CargaHorariaTeorico": 0,
+        "CargaHorariaPratica": 0,
+        "ListaPrequisitos": []
+      },
+      {
+        "Id": 51563,
+        "Codigo": "0709.002.287-2",
+        "Descricao": "BASES BIOLOGICAS DA PRÁTICA MÉDICA II",
+        "Semestre": "0",
+        "Apelido": "BASES BIOLOGICAS DA PRÁTICA MÉDICA II",
+        "CargaHorariaTeorico": 0,
+        "CargaHorariaPratica": 0,
+        "ListaPrequisitos": []
+      },
+      {
+        "Id": 51564,
+        "Codigo": "0709.002.288-1",
+        "Descricao": "URGÊNCIA E EMERGÊNCIA III",
+        "Semestre": "0",
+        "Apelido": "URGÊNCIA E EMERGÊNCIA III",
+        "CargaHorariaTeorico": 0,
+        "CargaHorariaPratica": 0,
+        "ListaPrequisitos": []
+      },
+      {
+        "Id": 51566,
+        "Codigo": "0709.002.290-7",
+        "Descricao": "BASES BIOLÓGICAS DA PRÁTICA MÉDICA VIII",
+        "Semestre": "0",
+        "Apelido": "BASES BIOLÓGICAS DA PRÁTICA MÉDICA VIII",
+        "CargaHorariaTeorico": 0,
+        "CargaHorariaPratica": 0,
+        "ListaPrequisitos": []
+      },
+      {
+        "Id": 51567,
+        "Codigo": "0709.002.291-6",
+        "Descricao": "URGÊNCIA E EMERGÊNCIA II",
+        "Semestre": "0",
+        "Apelido": "URGÊNCIA E EMERGÊNCIA II",
+        "CargaHorariaTeorico": 0,
+        "CargaHorariaPratica": 0,
+        "ListaPrequisitos": []
+      },
+      {
+        "Id": 51570,
+        "Codigo": "0709.002.294-3",
+        "Descricao": "CIRURGIA II",
+        "Semestre": "0",
+        "Apelido": "CIRURGIA II",
+        "CargaHorariaTeorico": 0,
+        "CargaHorariaPratica": 0,
+        "ListaPrequisitos": []
+      }
+    ]
+  },
+  {
+    "Id": 51553,
+    "Codigo": "0709.002.277-4",
+    "Tipo": "OBR",
+    "Descricao": "ESTÁGIO OBRIGATÓRIO EM CLÍNICA MÉDICA I",
+    "Semestre": 9,
+    "Apelido": "ESTÁGIO OBRIGATÓRIO EM CLÍNICA MÉDICA I",
+    "CargaHorariaTeorico": 160,
+    "CargaHorariaPratica": null,
+    "ListaPrequisitos": [
+      {
+        "Id": 43582,
+        "Codigo": "0709.000.980-7",
+        "Descricao": "FUNDAMENTOS DA PRÁTICA MÉDICA II",
+        "Semestre": "0",
+        "Apelido": "FUNDAMENTOS DA PRÁTICA MÉDICA II",
+        "CargaHorariaTeorico": 0,
+        "CargaHorariaPratica": 0,
+        "ListaPrequisitos": []
+      },
+      {
+        "Id": 43583,
+        "Codigo": "0709.000.981-6",
+        "Descricao": "FUNDAMENTOS DA PRÁTICA MÉDICA III",
+        "Semestre": "0",
+        "Apelido": "FUNDAMENTOS DA PRÁTICA MÉDICA III",
+        "CargaHorariaTeorico": 0,
+        "CargaHorariaPratica": 0,
+        "ListaPrequisitos": []
+      },
+      {
+        "Id": 43584,
+        "Codigo": "0709.000.982-5",
+        "Descricao": "FUNDAMENTOS DA PRÁTICA MÉDICA IV",
+        "Semestre": "0",
+        "Apelido": "FUNDAMENTOS DA PRÁTICA MÉDICA IV",
+        "CargaHorariaTeorico": 0,
+        "CargaHorariaPratica": 0,
+        "ListaPrequisitos": []
+      },
+      {
+        "Id": 43586,
+        "Codigo": "0709.000.984-3",
+        "Descricao": "FUNDAMENTOS DA PRÁTICA MÉDICA V",
+        "Semestre": "0",
+        "Apelido": "FUNDAMENTOS DA PRÁTICA MÉDICA V",
+        "CargaHorariaTeorico": 0,
+        "CargaHorariaPratica": 0,
+        "ListaPrequisitos": []
+      },
+      {
+        "Id": 43587,
+        "Codigo": "0709.000.985-2",
+        "Descricao": "FUNDAMENTOS DA PRÁTICA MÉDICA VI",
+        "Semestre": "0",
+        "Apelido": "FUNDAMENTOS DA PRÁTICA MÉDICA VI",
+        "CargaHorariaTeorico": 0,
+        "CargaHorariaPratica": 0,
+        "ListaPrequisitos": []
+      },
+      {
+        "Id": 43602,
+        "Codigo": "0709.001.000-2",
+        "Descricao": "BASES BIOLÓGICAS DA PRÁTICA MÉDICA V",
+        "Semestre": "0",
+        "Apelido": "BASES BIOLÓGICAS DA PRÁTICA MÉDICA V",
+        "CargaHorariaTeorico": 0,
+        "CargaHorariaPratica": 0,
+        "ListaPrequisitos": []
+      },
+      {
+        "Id": 43614,
+        "Codigo": "0709.001.012-9",
+        "Descricao": "FUNDAMENTOS DA PRÁTICA MÉDICA I",
+        "Semestre": "0",
+        "Apelido": "FUNDAMENTOS DA PRÁTICA MÉDICA I",
+        "CargaHorariaTeorico": 0,
+        "CargaHorariaPratica": 0,
+        "ListaPrequisitos": []
+      },
+      {
+        "Id": 43616,
+        "Codigo": "0709.001.014-7",
+        "Descricao": "FUNDAMENTOS DA PRÁTICA MÉDICA VII",
+        "Semestre": "0",
+        "Apelido": "FUNDAMENTOS DA PRÁTICA MÉDICA VII",
+        "CargaHorariaTeorico": 0,
+        "CargaHorariaPratica": 0,
+        "ListaPrequisitos": []
+      },
+      {
+        "Id": 43621,
+        "Codigo": "0709.001.019-2",
+        "Descricao": "BASES PSICOSSOCIAIS DA PRÁTICA MÉDICA VII",
+        "Semestre": "0",
+        "Apelido": "BASES PSICOSSOCIAIS DA PRÁTICA MÉDICA VII",
+        "CargaHorariaTeorico": 0,
+        "CargaHorariaPratica": 0,
+        "ListaPrequisitos": []
+      },
+      {
+        "Id": 43625,
+        "Codigo": "0709.001.023-6",
+        "Descricao": "BASES PSICOSSOCIAIS DA PRÁTICA MÉDICA III",
+        "Semestre": "0",
+        "Apelido": "BASES PSICOSSOCIAIS DA PRÁTICA MÉDICA III",
+        "CargaHorariaTeorico": 0,
+        "CargaHorariaPratica": 0,
+        "ListaPrequisitos": []
+      },
+      {
+        "Id": 43628,
+        "Codigo": "0709.001.026-3",
+        "Descricao": "BASES PSICOSSOCIAIS DA PRÁTICA MÉDICA II",
+        "Semestre": "0",
+        "Apelido": "BASES PSICOSSOCIAIS DA PRÁTICA MÉDICA II",
+        "CargaHorariaTeorico": 0,
+        "CargaHorariaPratica": 0,
+        "ListaPrequisitos": []
+      },
+      {
+        "Id": 43630,
+        "Codigo": "0709.001.028-1",
+        "Descricao": "PRÁTICA DE INTEGRAÇÃO: ENSINO, SERVIÇO E COMUNIDADE I",
+        "Semestre": "0",
+        "Apelido": "PRÁTICA DE INTEGRAÇÃO: ENSINO, SERVIÇO E COMUNIDADE I",
+        "CargaHorariaTeorico": 0,
+        "CargaHorariaPratica": 0,
+        "ListaPrequisitos": []
+      },
+      {
+        "Id": 43631,
+        "Codigo": "0709.001.029-0",
+        "Descricao": "PRÁTICA DE INTEGRAÇÃO: ENSINO, SERVIÇO E COMUNIDADE II",
+        "Semestre": "0",
+        "Apelido": "PRÁTICA DE INTEGRAÇÃO: ENSINO, SERVIÇO E COMUNIDADE II",
+        "CargaHorariaTeorico": 0,
+        "CargaHorariaPratica": 0,
+        "ListaPrequisitos": []
+      },
+      {
+        "Id": 43632,
+        "Codigo": "0709.001.030-7",
+        "Descricao": "PRÁTICA DE INTEGRAÇÃO: ENSINO, SERVIÇO E COMUNIDADE III",
+        "Semestre": "0",
+        "Apelido": "PRÁTICA DE INTEGRAÇÃO: ENSINO, SERVIÇO E COMUNIDADE III",
+        "CargaHorariaTeorico": 0,
+        "CargaHorariaPratica": 0,
+        "ListaPrequisitos": []
+      },
+      {
+        "Id": 43633,
+        "Codigo": "0709.001.031-6",
+        "Descricao": "PRÁTICA DE INTEGRAÇÃO: ENSINO, SERVIÇO E COMUNIDADE V",
+        "Semestre": "0",
+        "Apelido": "PRÁTICA DE INTEGRAÇÃO: ENSINO, SERVIÇO E COMUNIDADE V",
+        "CargaHorariaTeorico": 0,
+        "CargaHorariaPratica": 0,
+        "ListaPrequisitos": []
+      },
+      {
+        "Id": 43634,
+        "Codigo": "0709.001.032-5",
+        "Descricao": "PRÁTICA DE INTEGRAÇÃO: ENSINO, SERVIÇO E COMUNIDADE VI",
+        "Semestre": "0",
+        "Apelido": "PRÁTICA DE INTEGRAÇÃO: ENSINO, SERVIÇO E COMUNIDADE VI",
+        "CargaHorariaTeorico": 0,
+        "CargaHorariaPratica": 0,
+        "ListaPrequisitos": []
+      },
+      {
+        "Id": 43636,
+        "Codigo": "0709.001.034-3",
+        "Descricao": "PRÁTICA DE INTEGRAÇÃO: ENSINO, SERVIÇO E COMUNIDADE IV",
+        "Semestre": "0",
+        "Apelido": "PRÁTICA DE INTEGRAÇÃO: ENSINO, SERVIÇO E COMUNIDADE IV",
+        "CargaHorariaTeorico": 0,
+        "CargaHorariaPratica": 0,
+        "ListaPrequisitos": []
+      },
+      {
+        "Id": 43637,
+        "Codigo": "0709.001.035-2",
+        "Descricao": "PRÁTICA DE INTEGRAÇÃO: ENSINO, SERVIÇO E COMUNIDADE VIII",
+        "Semestre": "0",
+        "Apelido": "PRÁTICA DE INTEGRAÇÃO: ENSINO, SERVIÇO E COMUNIDADE VIII",
+        "CargaHorariaTeorico": 0,
+        "CargaHorariaPratica": 0,
+        "ListaPrequisitos": []
+      },
+      {
+        "Id": 43646,
+        "Codigo": "0709.001.044-1",
+        "Descricao": "PRÁTICA DE INTEGRAÇÃO: ENSINO, SERVIÇO E COMUNIDADE VII",
+        "Semestre": "0",
+        "Apelido": "PRÁTICA DE INTEGRAÇÃO: ENSINO, SERVIÇO E COMUNIDADE VII",
+        "CargaHorariaTeorico": 0,
+        "CargaHorariaPratica": 0,
+        "ListaPrequisitos": []
+      },
+      {
+        "Id": 43649,
+        "Codigo": "0709.001.047-9",
+        "Descricao": "BASES BIOLÓGICAS DA PRÁTICA MÉDICA III",
+        "Semestre": "0",
+        "Apelido": "BASES BIOLÓGICAS DA PRÁTICA MÉDICA III",
+        "CargaHorariaTeorico": 0,
+        "CargaHorariaPratica": 0,
+        "ListaPrequisitos": []
+      },
+      {
+        "Id": 43650,
+        "Codigo": "0709.001.048-8",
+        "Descricao": "BASES BIOLÓGICAS DA PRÁTICA MÉDICA VI",
+        "Semestre": "0",
+        "Apelido": "BASES BIOLÓGICAS DA PRÁTICA MÉDICA VI",
+        "CargaHorariaTeorico": 0,
+        "CargaHorariaPratica": 0,
+        "ListaPrequisitos": []
+      },
+      {
+        "Id": 43651,
+        "Codigo": "0709.001.049-7",
+        "Descricao": "BASES BIOLÓGICAS DA PRÁTICA MÉDICA VII",
+        "Semestre": "0",
+        "Apelido": "BASES BIOLÓGICAS DA PRÁTICA MÉDICA VII",
+        "CargaHorariaTeorico": 0,
+        "CargaHorariaPratica": 0,
+        "ListaPrequisitos": []
+      },
+      {
+        "Id": 43661,
+        "Codigo": "0709.001.059-5",
+        "Descricao": "FUNDAMENTOS DA PRÁTICA MÉDICA VIII",
+        "Semestre": "0",
+        "Apelido": "FUNDAMENTOS DA PRÁTICA MÉDICA VIII",
+        "CargaHorariaTeorico": 0,
+        "CargaHorariaPratica": 0,
+        "ListaPrequisitos": []
+      },
+      {
+        "Id": 43674,
+        "Codigo": "0709.001.072-8",
+        "Descricao": "BASES BIOLÓGICAS DA PRÁTICA MÉDICA IV",
+        "Semestre": "0",
+        "Apelido": "BASES BIOLÓGICAS DA PRÁTICA MÉDICA IV",
+        "CargaHorariaTeorico": 0,
+        "CargaHorariaPratica": 0,
+        "ListaPrequisitos": []
+      },
+      {
+        "Id": 43675,
+        "Codigo": "0709.001.073-7",
+        "Descricao": "BASES PSICOSSOCIAIS DA PRÁTICA MÉDICA I",
+        "Semestre": "0",
+        "Apelido": "BASES PSICOSSOCIAIS DA PRÁTICA MÉDICA I",
+        "CargaHorariaTeorico": 0,
+        "CargaHorariaPratica": 0,
+        "ListaPrequisitos": []
+      },
+      {
+        "Id": 43676,
+        "Codigo": "0709.001.074-6",
+        "Descricao": "BASES PSICOSSOCIAIS DA PRÁTICA MÉDICA IV",
+        "Semestre": "0",
+        "Apelido": "BASES PSICOSSOCIAIS DA PRÁTICA MÉDICA IV",
+        "CargaHorariaTeorico": 0,
+        "CargaHorariaPratica": 0,
+        "ListaPrequisitos": []
+      },
+      {
+        "Id": 43677,
+        "Codigo": "0709.001.075-5",
+        "Descricao": "BASES PSICOSSOCIAIS DA PRÁTICA MÉDICA V",
+        "Semestre": "0",
+        "Apelido": "BASES PSICOSSOCIAIS DA PRÁTICA MÉDICA V",
+        "CargaHorariaTeorico": 0,
+        "CargaHorariaPratica": 0,
+        "ListaPrequisitos": []
+      },
+      {
+        "Id": 43678,
+        "Codigo": "0709.001.076-4",
+        "Descricao": "BASES PSICOSSOCIAIS DA PRÁTICA MÉDICA VI",
+        "Semestre": "0",
+        "Apelido": "BASES PSICOSSOCIAIS DA PRÁTICA MÉDICA VI",
+        "CargaHorariaTeorico": 0,
+        "CargaHorariaPratica": 0,
+        "ListaPrequisitos": []
+      },
+      {
+        "Id": 43679,
+        "Codigo": "0709.001.077-3",
+        "Descricao": "BASES PSICOSSOCIAIS DA PRÁTICA MÉDICA VIII",
+        "Semestre": "0",
+        "Apelido": "BASES PSICOSSOCIAIS DA PRÁTICA MÉDICA VIII",
+        "CargaHorariaTeorico": 0,
+        "CargaHorariaPratica": 0,
+        "ListaPrequisitos": []
+      },
+      {
+        "Id": 51558,
+        "Codigo": "0709.002.282-7",
+        "Descricao": "URGÊNCIA E EMERGÊNCIA IV",
+        "Semestre": "0",
+        "Apelido": "URGÊNCIA E EMERGÊNCIA IV",
+        "CargaHorariaTeorico": 0,
+        "CargaHorariaPratica": 0,
+        "ListaPrequisitos": []
+      },
+      {
+        "Id": 51559,
+        "Codigo": "0709.002.283-6",
+        "Descricao": "CIRURGIA I",
+        "Semestre": "0",
+        "Apelido": "CIRURGIA I",
+        "CargaHorariaTeorico": 0,
+        "CargaHorariaPratica": 0,
+        "ListaPrequisitos": []
+      },
+      {
+        "Id": 51560,
+        "Codigo": "0709.002.284-5",
+        "Descricao": "CIRURGIA III",
+        "Semestre": "0",
+        "Apelido": "CIRURGIA III",
+        "CargaHorariaTeorico": 0,
+        "CargaHorariaPratica": 0,
+        "ListaPrequisitos": []
+      },
+      {
+        "Id": 51561,
+        "Codigo": "0709.002.285-4",
+        "Descricao": "URGÊNCIA E EMERGÊNCIA I",
+        "Semestre": "0",
+        "Apelido": "URGÊNCIA E EMERGÊNCIA I",
+        "CargaHorariaTeorico": 0,
+        "CargaHorariaPratica": 0,
+        "ListaPrequisitos": []
+      },
+      {
+        "Id": 51562,
+        "Codigo": "0709.002.286-3",
+        "Descricao": "BASES BIOLOGICAS DA PRÁTICA MÉDICA I",
+        "Semestre": "0",
+        "Apelido": "BASES BIOLOGICAS DA PRÁTICA MÉDICA I",
+        "CargaHorariaTeorico": 0,
+        "CargaHorariaPratica": 0,
+        "ListaPrequisitos": []
+      },
+      {
+        "Id": 51563,
+        "Codigo": "0709.002.287-2",
+        "Descricao": "BASES BIOLOGICAS DA PRÁTICA MÉDICA II",
+        "Semestre": "0",
+        "Apelido": "BASES BIOLOGICAS DA PRÁTICA MÉDICA II",
+        "CargaHorariaTeorico": 0,
+        "CargaHorariaPratica": 0,
+        "ListaPrequisitos": []
+      },
+      {
+        "Id": 51564,
+        "Codigo": "0709.002.288-1",
+        "Descricao": "URGÊNCIA E EMERGÊNCIA III",
+        "Semestre": "0",
+        "Apelido": "URGÊNCIA E EMERGÊNCIA III",
+        "CargaHorariaTeorico": 0,
+        "CargaHorariaPratica": 0,
+        "ListaPrequisitos": []
+      },
+      {
+        "Id": 51566,
+        "Codigo": "0709.002.290-7",
+        "Descricao": "BASES BIOLÓGICAS DA PRÁTICA MÉDICA VIII",
+        "Semestre": "0",
+        "Apelido": "BASES BIOLÓGICAS DA PRÁTICA MÉDICA VIII",
+        "CargaHorariaTeorico": 0,
+        "CargaHorariaPratica": 0,
+        "ListaPrequisitos": []
+      },
+      {
+        "Id": 51567,
+        "Codigo": "0709.002.291-6",
+        "Descricao": "URGÊNCIA E EMERGÊNCIA II",
+        "Semestre": "0",
+        "Apelido": "URGÊNCIA E EMERGÊNCIA II",
+        "CargaHorariaTeorico": 0,
+        "CargaHorariaPratica": 0,
+        "ListaPrequisitos": []
+      },
+      {
+        "Id": 51570,
+        "Codigo": "0709.002.294-3",
+        "Descricao": "CIRURGIA II",
+        "Semestre": "0",
+        "Apelido": "CIRURGIA II",
+        "CargaHorariaTeorico": 0,
+        "CargaHorariaPratica": 0,
+        "ListaPrequisitos": []
+      }
+    ]
+  },
+  {
+    "Id": 51552,
+    "Codigo": "0709.002.276-5",
+    "Tipo": "OBR",
+    "Descricao": "ESTÁGIO OBRIGATÓRIO EM URGÊNCIAS E EMERGÊNCIAS CLÍNICAS",
+    "Semestre": 9,
+    "Apelido": "ESTÁGIO OBRIGATÓRIO EM URGÊNCIAS E EMERGÊNCIAS CLÍNICAS",
+    "CargaHorariaTeorico": 160,
+    "CargaHorariaPratica": null,
+    "ListaPrequisitos": [
+      {
+        "Id": 43582,
+        "Codigo": "0709.000.980-7",
+        "Descricao": "FUNDAMENTOS DA PRÁTICA MÉDICA II",
+        "Semestre": "0",
+        "Apelido": "FUNDAMENTOS DA PRÁTICA MÉDICA II",
+        "CargaHorariaTeorico": 0,
+        "CargaHorariaPratica": 0,
+        "ListaPrequisitos": []
+      },
+      {
+        "Id": 43583,
+        "Codigo": "0709.000.981-6",
+        "Descricao": "FUNDAMENTOS DA PRÁTICA MÉDICA III",
+        "Semestre": "0",
+        "Apelido": "FUNDAMENTOS DA PRÁTICA MÉDICA III",
+        "CargaHorariaTeorico": 0,
+        "CargaHorariaPratica": 0,
+        "ListaPrequisitos": []
+      },
+      {
+        "Id": 43584,
+        "Codigo": "0709.000.982-5",
+        "Descricao": "FUNDAMENTOS DA PRÁTICA MÉDICA IV",
+        "Semestre": "0",
+        "Apelido": "FUNDAMENTOS DA PRÁTICA MÉDICA IV",
+        "CargaHorariaTeorico": 0,
+        "CargaHorariaPratica": 0,
+        "ListaPrequisitos": []
+      },
+      {
+        "Id": 43586,
+        "Codigo": "0709.000.984-3",
+        "Descricao": "FUNDAMENTOS DA PRÁTICA MÉDICA V",
+        "Semestre": "0",
+        "Apelido": "FUNDAMENTOS DA PRÁTICA MÉDICA V",
+        "CargaHorariaTeorico": 0,
+        "CargaHorariaPratica": 0,
+        "ListaPrequisitos": []
+      },
+      {
+        "Id": 43587,
+        "Codigo": "0709.000.985-2",
+        "Descricao": "FUNDAMENTOS DA PRÁTICA MÉDICA VI",
+        "Semestre": "0",
+        "Apelido": "FUNDAMENTOS DA PRÁTICA MÉDICA VI",
+        "CargaHorariaTeorico": 0,
+        "CargaHorariaPratica": 0,
+        "ListaPrequisitos": []
+      },
+      {
+        "Id": 43602,
+        "Codigo": "0709.001.000-2",
+        "Descricao": "BASES BIOLÓGICAS DA PRÁTICA MÉDICA V",
+        "Semestre": "0",
+        "Apelido": "BASES BIOLÓGICAS DA PRÁTICA MÉDICA V",
+        "CargaHorariaTeorico": 0,
+        "CargaHorariaPratica": 0,
+        "ListaPrequisitos": []
+      },
+      {
+        "Id": 43614,
+        "Codigo": "0709.001.012-9",
+        "Descricao": "FUNDAMENTOS DA PRÁTICA MÉDICA I",
+        "Semestre": "0",
+        "Apelido": "FUNDAMENTOS DA PRÁTICA MÉDICA I",
+        "CargaHorariaTeorico": 0,
+        "CargaHorariaPratica": 0,
+        "ListaPrequisitos": []
+      },
+      {
+        "Id": 43616,
+        "Codigo": "0709.001.014-7",
+        "Descricao": "FUNDAMENTOS DA PRÁTICA MÉDICA VII",
+        "Semestre": "0",
+        "Apelido": "FUNDAMENTOS DA PRÁTICA MÉDICA VII",
+        "CargaHorariaTeorico": 0,
+        "CargaHorariaPratica": 0,
+        "ListaPrequisitos": []
+      },
+      {
+        "Id": 43621,
+        "Codigo": "0709.001.019-2",
+        "Descricao": "BASES PSICOSSOCIAIS DA PRÁTICA MÉDICA VII",
+        "Semestre": "0",
+        "Apelido": "BASES PSICOSSOCIAIS DA PRÁTICA MÉDICA VII",
+        "CargaHorariaTeorico": 0,
+        "CargaHorariaPratica": 0,
+        "ListaPrequisitos": []
+      },
+      {
+        "Id": 43625,
+        "Codigo": "0709.001.023-6",
+        "Descricao": "BASES PSICOSSOCIAIS DA PRÁTICA MÉDICA III",
+        "Semestre": "0",
+        "Apelido": "BASES PSICOSSOCIAIS DA PRÁTICA MÉDICA III",
+        "CargaHorariaTeorico": 0,
+        "CargaHorariaPratica": 0,
+        "ListaPrequisitos": []
+      },
+      {
+        "Id": 43628,
+        "Codigo": "0709.001.026-3",
+        "Descricao": "BASES PSICOSSOCIAIS DA PRÁTICA MÉDICA II",
+        "Semestre": "0",
+        "Apelido": "BASES PSICOSSOCIAIS DA PRÁTICA MÉDICA II",
+        "CargaHorariaTeorico": 0,
+        "CargaHorariaPratica": 0,
+        "ListaPrequisitos": []
+      },
+      {
+        "Id": 43630,
+        "Codigo": "0709.001.028-1",
+        "Descricao": "PRÁTICA DE INTEGRAÇÃO: ENSINO, SERVIÇO E COMUNIDADE I",
+        "Semestre": "0",
+        "Apelido": "PRÁTICA DE INTEGRAÇÃO: ENSINO, SERVIÇO E COMUNIDADE I",
+        "CargaHorariaTeorico": 0,
+        "CargaHorariaPratica": 0,
+        "ListaPrequisitos": []
+      },
+      {
+        "Id": 43631,
+        "Codigo": "0709.001.029-0",
+        "Descricao": "PRÁTICA DE INTEGRAÇÃO: ENSINO, SERVIÇO E COMUNIDADE II",
+        "Semestre": "0",
+        "Apelido": "PRÁTICA DE INTEGRAÇÃO: ENSINO, SERVIÇO E COMUNIDADE II",
+        "CargaHorariaTeorico": 0,
+        "CargaHorariaPratica": 0,
+        "ListaPrequisitos": []
+      },
+      {
+        "Id": 43632,
+        "Codigo": "0709.001.030-7",
+        "Descricao": "PRÁTICA DE INTEGRAÇÃO: ENSINO, SERVIÇO E COMUNIDADE III",
+        "Semestre": "0",
+        "Apelido": "PRÁTICA DE INTEGRAÇÃO: ENSINO, SERVIÇO E COMUNIDADE III",
+        "CargaHorariaTeorico": 0,
+        "CargaHorariaPratica": 0,
+        "ListaPrequisitos": []
+      },
+      {
+        "Id": 43633,
+        "Codigo": "0709.001.031-6",
+        "Descricao": "PRÁTICA DE INTEGRAÇÃO: ENSINO, SERVIÇO E COMUNIDADE V",
+        "Semestre": "0",
+        "Apelido": "PRÁTICA DE INTEGRAÇÃO: ENSINO, SERVIÇO E COMUNIDADE V",
+        "CargaHorariaTeorico": 0,
+        "CargaHorariaPratica": 0,
+        "ListaPrequisitos": []
+      },
+      {
+        "Id": 43634,
+        "Codigo": "0709.001.032-5",
+        "Descricao": "PRÁTICA DE INTEGRAÇÃO: ENSINO, SERVIÇO E COMUNIDADE VI",
+        "Semestre": "0",
+        "Apelido": "PRÁTICA DE INTEGRAÇÃO: ENSINO, SERVIÇO E COMUNIDADE VI",
+        "CargaHorariaTeorico": 0,
+        "CargaHorariaPratica": 0,
+        "ListaPrequisitos": []
+      },
+      {
+        "Id": 43636,
+        "Codigo": "0709.001.034-3",
+        "Descricao": "PRÁTICA DE INTEGRAÇÃO: ENSINO, SERVIÇO E COMUNIDADE IV",
+        "Semestre": "0",
+        "Apelido": "PRÁTICA DE INTEGRAÇÃO: ENSINO, SERVIÇO E COMUNIDADE IV",
+        "CargaHorariaTeorico": 0,
+        "CargaHorariaPratica": 0,
+        "ListaPrequisitos": []
+      },
+      {
+        "Id": 43637,
+        "Codigo": "0709.001.035-2",
+        "Descricao": "PRÁTICA DE INTEGRAÇÃO: ENSINO, SERVIÇO E COMUNIDADE VIII",
+        "Semestre": "0",
+        "Apelido": "PRÁTICA DE INTEGRAÇÃO: ENSINO, SERVIÇO E COMUNIDADE VIII",
+        "CargaHorariaTeorico": 0,
+        "CargaHorariaPratica": 0,
+        "ListaPrequisitos": []
+      },
+      {
+        "Id": 43646,
+        "Codigo": "0709.001.044-1",
+        "Descricao": "PRÁTICA DE INTEGRAÇÃO: ENSINO, SERVIÇO E COMUNIDADE VII",
+        "Semestre": "0",
+        "Apelido": "PRÁTICA DE INTEGRAÇÃO: ENSINO, SERVIÇO E COMUNIDADE VII",
+        "CargaHorariaTeorico": 0,
+        "CargaHorariaPratica": 0,
+        "ListaPrequisitos": []
+      },
+      {
+        "Id": 43649,
+        "Codigo": "0709.001.047-9",
+        "Descricao": "BASES BIOLÓGICAS DA PRÁTICA MÉDICA III",
+        "Semestre": "0",
+        "Apelido": "BASES BIOLÓGICAS DA PRÁTICA MÉDICA III",
+        "CargaHorariaTeorico": 0,
+        "CargaHorariaPratica": 0,
+        "ListaPrequisitos": []
+      },
+      {
+        "Id": 43650,
+        "Codigo": "0709.001.048-8",
+        "Descricao": "BASES BIOLÓGICAS DA PRÁTICA MÉDICA VI",
+        "Semestre": "0",
+        "Apelido": "BASES BIOLÓGICAS DA PRÁTICA MÉDICA VI",
+        "CargaHorariaTeorico": 0,
+        "CargaHorariaPratica": 0,
+        "ListaPrequisitos": []
+      },
+      {
+        "Id": 43651,
+        "Codigo": "0709.001.049-7",
+        "Descricao": "BASES BIOLÓGICAS DA PRÁTICA MÉDICA VII",
+        "Semestre": "0",
+        "Apelido": "BASES BIOLÓGICAS DA PRÁTICA MÉDICA VII",
+        "CargaHorariaTeorico": 0,
+        "CargaHorariaPratica": 0,
+        "ListaPrequisitos": []
+      },
+      {
+        "Id": 43661,
+        "Codigo": "0709.001.059-5",
+        "Descricao": "FUNDAMENTOS DA PRÁTICA MÉDICA VIII",
+        "Semestre": "0",
+        "Apelido": "FUNDAMENTOS DA PRÁTICA MÉDICA VIII",
+        "CargaHorariaTeorico": 0,
+        "CargaHorariaPratica": 0,
+        "ListaPrequisitos": []
+      },
+      {
+        "Id": 43674,
+        "Codigo": "0709.001.072-8",
+        "Descricao": "BASES BIOLÓGICAS DA PRÁTICA MÉDICA IV",
+        "Semestre": "0",
+        "Apelido": "BASES BIOLÓGICAS DA PRÁTICA MÉDICA IV",
+        "CargaHorariaTeorico": 0,
+        "CargaHorariaPratica": 0,
+        "ListaPrequisitos": []
+      },
+      {
+        "Id": 43675,
+        "Codigo": "0709.001.073-7",
+        "Descricao": "BASES PSICOSSOCIAIS DA PRÁTICA MÉDICA I",
+        "Semestre": "0",
+        "Apelido": "BASES PSICOSSOCIAIS DA PRÁTICA MÉDICA I",
+        "CargaHorariaTeorico": 0,
+        "CargaHorariaPratica": 0,
+        "ListaPrequisitos": []
+      },
+      {
+        "Id": 43676,
+        "Codigo": "0709.001.074-6",
+        "Descricao": "BASES PSICOSSOCIAIS DA PRÁTICA MÉDICA IV",
+        "Semestre": "0",
+        "Apelido": "BASES PSICOSSOCIAIS DA PRÁTICA MÉDICA IV",
+        "CargaHorariaTeorico": 0,
+        "CargaHorariaPratica": 0,
+        "ListaPrequisitos": []
+      },
+      {
+        "Id": 43677,
+        "Codigo": "0709.001.075-5",
+        "Descricao": "BASES PSICOSSOCIAIS DA PRÁTICA MÉDICA V",
+        "Semestre": "0",
+        "Apelido": "BASES PSICOSSOCIAIS DA PRÁTICA MÉDICA V",
+        "CargaHorariaTeorico": 0,
+        "CargaHorariaPratica": 0,
+        "ListaPrequisitos": []
+      },
+      {
+        "Id": 43678,
+        "Codigo": "0709.001.076-4",
+        "Descricao": "BASES PSICOSSOCIAIS DA PRÁTICA MÉDICA VI",
+        "Semestre": "0",
+        "Apelido": "BASES PSICOSSOCIAIS DA PRÁTICA MÉDICA VI",
+        "CargaHorariaTeorico": 0,
+        "CargaHorariaPratica": 0,
+        "ListaPrequisitos": []
+      },
+      {
+        "Id": 43679,
+        "Codigo": "0709.001.077-3",
+        "Descricao": "BASES PSICOSSOCIAIS DA PRÁTICA MÉDICA VIII",
+        "Semestre": "0",
+        "Apelido": "BASES PSICOSSOCIAIS DA PRÁTICA MÉDICA VIII",
+        "CargaHorariaTeorico": 0,
+        "CargaHorariaPratica": 0,
+        "ListaPrequisitos": []
+      },
+      {
+        "Id": 51558,
+        "Codigo": "0709.002.282-7",
+        "Descricao": "URGÊNCIA E EMERGÊNCIA IV",
+        "Semestre": "0",
+        "Apelido": "URGÊNCIA E EMERGÊNCIA IV",
+        "CargaHorariaTeorico": 0,
+        "CargaHorariaPratica": 0,
+        "ListaPrequisitos": []
+      },
+      {
+        "Id": 51559,
+        "Codigo": "0709.002.283-6",
+        "Descricao": "CIRURGIA I",
+        "Semestre": "0",
+        "Apelido": "CIRURGIA I",
+        "CargaHorariaTeorico": 0,
+        "CargaHorariaPratica": 0,
+        "ListaPrequisitos": []
+      },
+      {
+        "Id": 51560,
+        "Codigo": "0709.002.284-5",
+        "Descricao": "CIRURGIA III",
+        "Semestre": "0",
+        "Apelido": "CIRURGIA III",
+        "CargaHorariaTeorico": 0,
+        "CargaHorariaPratica": 0,
+        "ListaPrequisitos": []
+      },
+      {
+        "Id": 51561,
+        "Codigo": "0709.002.285-4",
+        "Descricao": "URGÊNCIA E EMERGÊNCIA I",
+        "Semestre": "0",
+        "Apelido": "URGÊNCIA E EMERGÊNCIA I",
+        "CargaHorariaTeorico": 0,
+        "CargaHorariaPratica": 0,
+        "ListaPrequisitos": []
+      },
+      {
+        "Id": 51562,
+        "Codigo": "0709.002.286-3",
+        "Descricao": "BASES BIOLOGICAS DA PRÁTICA MÉDICA I",
+        "Semestre": "0",
+        "Apelido": "BASES BIOLOGICAS DA PRÁTICA MÉDICA I",
+        "CargaHorariaTeorico": 0,
+        "CargaHorariaPratica": 0,
+        "ListaPrequisitos": []
+      },
+      {
+        "Id": 51563,
+        "Codigo": "0709.002.287-2",
+        "Descricao": "BASES BIOLOGICAS DA PRÁTICA MÉDICA II",
+        "Semestre": "0",
+        "Apelido": "BASES BIOLOGICAS DA PRÁTICA MÉDICA II",
+        "CargaHorariaTeorico": 0,
+        "CargaHorariaPratica": 0,
+        "ListaPrequisitos": []
+      },
+      {
+        "Id": 51564,
+        "Codigo": "0709.002.288-1",
+        "Descricao": "URGÊNCIA E EMERGÊNCIA III",
+        "Semestre": "0",
+        "Apelido": "URGÊNCIA E EMERGÊNCIA III",
+        "CargaHorariaTeorico": 0,
+        "CargaHorariaPratica": 0,
+        "ListaPrequisitos": []
+      },
+      {
+        "Id": 51566,
+        "Codigo": "0709.002.290-7",
+        "Descricao": "BASES BIOLÓGICAS DA PRÁTICA MÉDICA VIII",
+        "Semestre": "0",
+        "Apelido": "BASES BIOLÓGICAS DA PRÁTICA MÉDICA VIII",
+        "CargaHorariaTeorico": 0,
+        "CargaHorariaPratica": 0,
+        "ListaPrequisitos": []
+      },
+      {
+        "Id": 51567,
+        "Codigo": "0709.002.291-6",
+        "Descricao": "URGÊNCIA E EMERGÊNCIA II",
+        "Semestre": "0",
+        "Apelido": "URGÊNCIA E EMERGÊNCIA II",
+        "CargaHorariaTeorico": 0,
+        "CargaHorariaPratica": 0,
+        "ListaPrequisitos": []
+      },
+      {
+        "Id": 51570,
+        "Codigo": "0709.002.294-3",
+        "Descricao": "CIRURGIA II",
+        "Semestre": "0",
+        "Apelido": "CIRURGIA II",
+        "CargaHorariaTeorico": 0,
+        "CargaHorariaPratica": 0,
+        "ListaPrequisitos": []
+      }
+    ]
+  },
+  {
+    "Id": 51568,
+    "Codigo": "0709.002.292-5",
+    "Tipo": "OBR",
+    "Descricao": "ESTÁGIO OBRIGATÓRIO EM CIRURGIA I",
+    "Semestre": 10,
+    "Apelido": "ESTÁGIO OBRIGATÓRIO EM CIRURGIA I",
+    "CargaHorariaTeorico": 160,
+    "CargaHorariaPratica": null,
+    "ListaPrequisitos": [
+      {
+        "Id": 43582,
+        "Codigo": "0709.000.980-7",
+        "Descricao": "FUNDAMENTOS DA PRÁTICA MÉDICA II",
+        "Semestre": "0",
+        "Apelido": "FUNDAMENTOS DA PRÁTICA MÉDICA II",
+        "CargaHorariaTeorico": 0,
+        "CargaHorariaPratica": 0,
+        "ListaPrequisitos": []
+      },
+      {
+        "Id": 43583,
+        "Codigo": "0709.000.981-6",
+        "Descricao": "FUNDAMENTOS DA PRÁTICA MÉDICA III",
+        "Semestre": "0",
+        "Apelido": "FUNDAMENTOS DA PRÁTICA MÉDICA III",
+        "CargaHorariaTeorico": 0,
+        "CargaHorariaPratica": 0,
+        "ListaPrequisitos": []
+      },
+      {
+        "Id": 43584,
+        "Codigo": "0709.000.982-5",
+        "Descricao": "FUNDAMENTOS DA PRÁTICA MÉDICA IV",
+        "Semestre": "0",
+        "Apelido": "FUNDAMENTOS DA PRÁTICA MÉDICA IV",
+        "CargaHorariaTeorico": 0,
+        "CargaHorariaPratica": 0,
+        "ListaPrequisitos": []
+      },
+      {
+        "Id": 43586,
+        "Codigo": "0709.000.984-3",
+        "Descricao": "FUNDAMENTOS DA PRÁTICA MÉDICA V",
+        "Semestre": "0",
+        "Apelido": "FUNDAMENTOS DA PRÁTICA MÉDICA V",
+        "CargaHorariaTeorico": 0,
+        "CargaHorariaPratica": 0,
+        "ListaPrequisitos": []
+      },
+      {
+        "Id": 43587,
+        "Codigo": "0709.000.985-2",
+        "Descricao": "FUNDAMENTOS DA PRÁTICA MÉDICA VI",
+        "Semestre": "0",
+        "Apelido": "FUNDAMENTOS DA PRÁTICA MÉDICA VI",
+        "CargaHorariaTeorico": 0,
+        "CargaHorariaPratica": 0,
+        "ListaPrequisitos": []
+      },
+      {
+        "Id": 43602,
+        "Codigo": "0709.001.000-2",
+        "Descricao": "BASES BIOLÓGICAS DA PRÁTICA MÉDICA V",
+        "Semestre": "0",
+        "Apelido": "BASES BIOLÓGICAS DA PRÁTICA MÉDICA V",
+        "CargaHorariaTeorico": 0,
+        "CargaHorariaPratica": 0,
+        "ListaPrequisitos": []
+      },
+      {
+        "Id": 43614,
+        "Codigo": "0709.001.012-9",
+        "Descricao": "FUNDAMENTOS DA PRÁTICA MÉDICA I",
+        "Semestre": "0",
+        "Apelido": "FUNDAMENTOS DA PRÁTICA MÉDICA I",
+        "CargaHorariaTeorico": 0,
+        "CargaHorariaPratica": 0,
+        "ListaPrequisitos": []
+      },
+      {
+        "Id": 43616,
+        "Codigo": "0709.001.014-7",
+        "Descricao": "FUNDAMENTOS DA PRÁTICA MÉDICA VII",
+        "Semestre": "0",
+        "Apelido": "FUNDAMENTOS DA PRÁTICA MÉDICA VII",
+        "CargaHorariaTeorico": 0,
+        "CargaHorariaPratica": 0,
+        "ListaPrequisitos": []
+      },
+      {
+        "Id": 43621,
+        "Codigo": "0709.001.019-2",
+        "Descricao": "BASES PSICOSSOCIAIS DA PRÁTICA MÉDICA VII",
+        "Semestre": "0",
+        "Apelido": "BASES PSICOSSOCIAIS DA PRÁTICA MÉDICA VII",
+        "CargaHorariaTeorico": 0,
+        "CargaHorariaPratica": 0,
+        "ListaPrequisitos": []
+      },
+      {
+        "Id": 43625,
+        "Codigo": "0709.001.023-6",
+        "Descricao": "BASES PSICOSSOCIAIS DA PRÁTICA MÉDICA III",
+        "Semestre": "0",
+        "Apelido": "BASES PSICOSSOCIAIS DA PRÁTICA MÉDICA III",
+        "CargaHorariaTeorico": 0,
+        "CargaHorariaPratica": 0,
+        "ListaPrequisitos": []
+      },
+      {
+        "Id": 43628,
+        "Codigo": "0709.001.026-3",
+        "Descricao": "BASES PSICOSSOCIAIS DA PRÁTICA MÉDICA II",
+        "Semestre": "0",
+        "Apelido": "BASES PSICOSSOCIAIS DA PRÁTICA MÉDICA II",
+        "CargaHorariaTeorico": 0,
+        "CargaHorariaPratica": 0,
+        "ListaPrequisitos": []
+      },
+      {
+        "Id": 43630,
+        "Codigo": "0709.001.028-1",
+        "Descricao": "PRÁTICA DE INTEGRAÇÃO: ENSINO, SERVIÇO E COMUNIDADE I",
+        "Semestre": "0",
+        "Apelido": "PRÁTICA DE INTEGRAÇÃO: ENSINO, SERVIÇO E COMUNIDADE I",
+        "CargaHorariaTeorico": 0,
+        "CargaHorariaPratica": 0,
+        "ListaPrequisitos": []
+      },
+      {
+        "Id": 43631,
+        "Codigo": "0709.001.029-0",
+        "Descricao": "PRÁTICA DE INTEGRAÇÃO: ENSINO, SERVIÇO E COMUNIDADE II",
+        "Semestre": "0",
+        "Apelido": "PRÁTICA DE INTEGRAÇÃO: ENSINO, SERVIÇO E COMUNIDADE II",
+        "CargaHorariaTeorico": 0,
+        "CargaHorariaPratica": 0,
+        "ListaPrequisitos": []
+      },
+      {
+        "Id": 43632,
+        "Codigo": "0709.001.030-7",
+        "Descricao": "PRÁTICA DE INTEGRAÇÃO: ENSINO, SERVIÇO E COMUNIDADE III",
+        "Semestre": "0",
+        "Apelido": "PRÁTICA DE INTEGRAÇÃO: ENSINO, SERVIÇO E COMUNIDADE III",
+        "CargaHorariaTeorico": 0,
+        "CargaHorariaPratica": 0,
+        "ListaPrequisitos": []
+      },
+      {
+        "Id": 43633,
+        "Codigo": "0709.001.031-6",
+        "Descricao": "PRÁTICA DE INTEGRAÇÃO: ENSINO, SERVIÇO E COMUNIDADE V",
+        "Semestre": "0",
+        "Apelido": "PRÁTICA DE INTEGRAÇÃO: ENSINO, SERVIÇO E COMUNIDADE V",
+        "CargaHorariaTeorico": 0,
+        "CargaHorariaPratica": 0,
+        "ListaPrequisitos": []
+      },
+      {
+        "Id": 43634,
+        "Codigo": "0709.001.032-5",
+        "Descricao": "PRÁTICA DE INTEGRAÇÃO: ENSINO, SERVIÇO E COMUNIDADE VI",
+        "Semestre": "0",
+        "Apelido": "PRÁTICA DE INTEGRAÇÃO: ENSINO, SERVIÇO E COMUNIDADE VI",
+        "CargaHorariaTeorico": 0,
+        "CargaHorariaPratica": 0,
+        "ListaPrequisitos": []
+      },
+      {
+        "Id": 43636,
+        "Codigo": "0709.001.034-3",
+        "Descricao": "PRÁTICA DE INTEGRAÇÃO: ENSINO, SERVIÇO E COMUNIDADE IV",
+        "Semestre": "0",
+        "Apelido": "PRÁTICA DE INTEGRAÇÃO: ENSINO, SERVIÇO E COMUNIDADE IV",
+        "CargaHorariaTeorico": 0,
+        "CargaHorariaPratica": 0,
+        "ListaPrequisitos": []
+      },
+      {
+        "Id": 43637,
+        "Codigo": "0709.001.035-2",
+        "Descricao": "PRÁTICA DE INTEGRAÇÃO: ENSINO, SERVIÇO E COMUNIDADE VIII",
+        "Semestre": "0",
+        "Apelido": "PRÁTICA DE INTEGRAÇÃO: ENSINO, SERVIÇO E COMUNIDADE VIII",
+        "CargaHorariaTeorico": 0,
+        "CargaHorariaPratica": 0,
+        "ListaPrequisitos": []
+      },
+      {
+        "Id": 43646,
+        "Codigo": "0709.001.044-1",
+        "Descricao": "PRÁTICA DE INTEGRAÇÃO: ENSINO, SERVIÇO E COMUNIDADE VII",
+        "Semestre": "0",
+        "Apelido": "PRÁTICA DE INTEGRAÇÃO: ENSINO, SERVIÇO E COMUNIDADE VII",
+        "CargaHorariaTeorico": 0,
+        "CargaHorariaPratica": 0,
+        "ListaPrequisitos": []
+      },
+      {
+        "Id": 43649,
+        "Codigo": "0709.001.047-9",
+        "Descricao": "BASES BIOLÓGICAS DA PRÁTICA MÉDICA III",
+        "Semestre": "0",
+        "Apelido": "BASES BIOLÓGICAS DA PRÁTICA MÉDICA III",
+        "CargaHorariaTeorico": 0,
+        "CargaHorariaPratica": 0,
+        "ListaPrequisitos": []
+      },
+      {
+        "Id": 43650,
+        "Codigo": "0709.001.048-8",
+        "Descricao": "BASES BIOLÓGICAS DA PRÁTICA MÉDICA VI",
+        "Semestre": "0",
+        "Apelido": "BASES BIOLÓGICAS DA PRÁTICA MÉDICA VI",
+        "CargaHorariaTeorico": 0,
+        "CargaHorariaPratica": 0,
+        "ListaPrequisitos": []
+      },
+      {
+        "Id": 43651,
+        "Codigo": "0709.001.049-7",
+        "Descricao": "BASES BIOLÓGICAS DA PRÁTICA MÉDICA VII",
+        "Semestre": "0",
+        "Apelido": "BASES BIOLÓGICAS DA PRÁTICA MÉDICA VII",
+        "CargaHorariaTeorico": 0,
+        "CargaHorariaPratica": 0,
+        "ListaPrequisitos": []
+      },
+      {
+        "Id": 43661,
+        "Codigo": "0709.001.059-5",
+        "Descricao": "FUNDAMENTOS DA PRÁTICA MÉDICA VIII",
+        "Semestre": "0",
+        "Apelido": "FUNDAMENTOS DA PRÁTICA MÉDICA VIII",
+        "CargaHorariaTeorico": 0,
+        "CargaHorariaPratica": 0,
+        "ListaPrequisitos": []
+      },
+      {
+        "Id": 43674,
+        "Codigo": "0709.001.072-8",
+        "Descricao": "BASES BIOLÓGICAS DA PRÁTICA MÉDICA IV",
+        "Semestre": "0",
+        "Apelido": "BASES BIOLÓGICAS DA PRÁTICA MÉDICA IV",
+        "CargaHorariaTeorico": 0,
+        "CargaHorariaPratica": 0,
+        "ListaPrequisitos": []
+      },
+      {
+        "Id": 43675,
+        "Codigo": "0709.001.073-7",
+        "Descricao": "BASES PSICOSSOCIAIS DA PRÁTICA MÉDICA I",
+        "Semestre": "0",
+        "Apelido": "BASES PSICOSSOCIAIS DA PRÁTICA MÉDICA I",
+        "CargaHorariaTeorico": 0,
+        "CargaHorariaPratica": 0,
+        "ListaPrequisitos": []
+      },
+      {
+        "Id": 43676,
+        "Codigo": "0709.001.074-6",
+        "Descricao": "BASES PSICOSSOCIAIS DA PRÁTICA MÉDICA IV",
+        "Semestre": "0",
+        "Apelido": "BASES PSICOSSOCIAIS DA PRÁTICA MÉDICA IV",
+        "CargaHorariaTeorico": 0,
+        "CargaHorariaPratica": 0,
+        "ListaPrequisitos": []
+      },
+      {
+        "Id": 43677,
+        "Codigo": "0709.001.075-5",
+        "Descricao": "BASES PSICOSSOCIAIS DA PRÁTICA MÉDICA V",
+        "Semestre": "0",
+        "Apelido": "BASES PSICOSSOCIAIS DA PRÁTICA MÉDICA V",
+        "CargaHorariaTeorico": 0,
+        "CargaHorariaPratica": 0,
+        "ListaPrequisitos": []
+      },
+      {
+        "Id": 43678,
+        "Codigo": "0709.001.076-4",
+        "Descricao": "BASES PSICOSSOCIAIS DA PRÁTICA MÉDICA VI",
+        "Semestre": "0",
+        "Apelido": "BASES PSICOSSOCIAIS DA PRÁTICA MÉDICA VI",
+        "CargaHorariaTeorico": 0,
+        "CargaHorariaPratica": 0,
+        "ListaPrequisitos": []
+      },
+      {
+        "Id": 43679,
+        "Codigo": "0709.001.077-3",
+        "Descricao": "BASES PSICOSSOCIAIS DA PRÁTICA MÉDICA VIII",
+        "Semestre": "0",
+        "Apelido": "BASES PSICOSSOCIAIS DA PRÁTICA MÉDICA VIII",
+        "CargaHorariaTeorico": 0,
+        "CargaHorariaPratica": 0,
+        "ListaPrequisitos": []
+      },
+      {
+        "Id": 51558,
+        "Codigo": "0709.002.282-7",
+        "Descricao": "URGÊNCIA E EMERGÊNCIA IV",
+        "Semestre": "0",
+        "Apelido": "URGÊNCIA E EMERGÊNCIA IV",
+        "CargaHorariaTeorico": 0,
+        "CargaHorariaPratica": 0,
+        "ListaPrequisitos": []
+      },
+      {
+        "Id": 51559,
+        "Codigo": "0709.002.283-6",
+        "Descricao": "CIRURGIA I",
+        "Semestre": "0",
+        "Apelido": "CIRURGIA I",
+        "CargaHorariaTeorico": 0,
+        "CargaHorariaPratica": 0,
+        "ListaPrequisitos": []
+      },
+      {
+        "Id": 51560,
+        "Codigo": "0709.002.284-5",
+        "Descricao": "CIRURGIA III",
+        "Semestre": "0",
+        "Apelido": "CIRURGIA III",
+        "CargaHorariaTeorico": 0,
+        "CargaHorariaPratica": 0,
+        "ListaPrequisitos": []
+      },
+      {
+        "Id": 51561,
+        "Codigo": "0709.002.285-4",
+        "Descricao": "URGÊNCIA E EMERGÊNCIA I",
+        "Semestre": "0",
+        "Apelido": "URGÊNCIA E EMERGÊNCIA I",
+        "CargaHorariaTeorico": 0,
+        "CargaHorariaPratica": 0,
+        "ListaPrequisitos": []
+      },
+      {
+        "Id": 51562,
+        "Codigo": "0709.002.286-3",
+        "Descricao": "BASES BIOLOGICAS DA PRÁTICA MÉDICA I",
+        "Semestre": "0",
+        "Apelido": "BASES BIOLOGICAS DA PRÁTICA MÉDICA I",
+        "CargaHorariaTeorico": 0,
+        "CargaHorariaPratica": 0,
+        "ListaPrequisitos": []
+      },
+      {
+        "Id": 51563,
+        "Codigo": "0709.002.287-2",
+        "Descricao": "BASES BIOLOGICAS DA PRÁTICA MÉDICA II",
+        "Semestre": "0",
+        "Apelido": "BASES BIOLOGICAS DA PRÁTICA MÉDICA II",
+        "CargaHorariaTeorico": 0,
+        "CargaHorariaPratica": 0,
+        "ListaPrequisitos": []
+      },
+      {
+        "Id": 51564,
+        "Codigo": "0709.002.288-1",
+        "Descricao": "URGÊNCIA E EMERGÊNCIA III",
+        "Semestre": "0",
+        "Apelido": "URGÊNCIA E EMERGÊNCIA III",
+        "CargaHorariaTeorico": 0,
+        "CargaHorariaPratica": 0,
+        "ListaPrequisitos": []
+      },
+      {
+        "Id": 51566,
+        "Codigo": "0709.002.290-7",
+        "Descricao": "BASES BIOLÓGICAS DA PRÁTICA MÉDICA VIII",
+        "Semestre": "0",
+        "Apelido": "BASES BIOLÓGICAS DA PRÁTICA MÉDICA VIII",
+        "CargaHorariaTeorico": 0,
+        "CargaHorariaPratica": 0,
+        "ListaPrequisitos": []
+      },
+      {
+        "Id": 51567,
+        "Codigo": "0709.002.291-6",
+        "Descricao": "URGÊNCIA E EMERGÊNCIA II",
+        "Semestre": "0",
+        "Apelido": "URGÊNCIA E EMERGÊNCIA II",
+        "CargaHorariaTeorico": 0,
+        "CargaHorariaPratica": 0,
+        "ListaPrequisitos": []
+      },
+      {
+        "Id": 51570,
+        "Codigo": "0709.002.294-3",
+        "Descricao": "CIRURGIA II",
+        "Semestre": "0",
+        "Apelido": "CIRURGIA II",
+        "CargaHorariaTeorico": 0,
+        "CargaHorariaPratica": 0,
+        "ListaPrequisitos": []
+      }
+    ]
+  },
+  {
+    "Id": 51548,
+    "Codigo": "0709.002.272-9",
+    "Tipo": "OBR",
+    "Descricao": "ESTÁGIO OBRIGATÓRIO EM PEDIATRIA I",
+    "Semestre": 10,
+    "Apelido": "ESTÁGIO OBRIGATÓRIO EM PEDIATRIA I",
+    "CargaHorariaTeorico": 160,
+    "CargaHorariaPratica": null,
+    "ListaPrequisitos": [
+      {
+        "Id": 43582,
+        "Codigo": "0709.000.980-7",
+        "Descricao": "FUNDAMENTOS DA PRÁTICA MÉDICA II",
+        "Semestre": "0",
+        "Apelido": "FUNDAMENTOS DA PRÁTICA MÉDICA II",
+        "CargaHorariaTeorico": 0,
+        "CargaHorariaPratica": 0,
+        "ListaPrequisitos": []
+      },
+      {
+        "Id": 43583,
+        "Codigo": "0709.000.981-6",
+        "Descricao": "FUNDAMENTOS DA PRÁTICA MÉDICA III",
+        "Semestre": "0",
+        "Apelido": "FUNDAMENTOS DA PRÁTICA MÉDICA III",
+        "CargaHorariaTeorico": 0,
+        "CargaHorariaPratica": 0,
+        "ListaPrequisitos": []
+      },
+      {
+        "Id": 43584,
+        "Codigo": "0709.000.982-5",
+        "Descricao": "FUNDAMENTOS DA PRÁTICA MÉDICA IV",
+        "Semestre": "0",
+        "Apelido": "FUNDAMENTOS DA PRÁTICA MÉDICA IV",
+        "CargaHorariaTeorico": 0,
+        "CargaHorariaPratica": 0,
+        "ListaPrequisitos": []
+      },
+      {
+        "Id": 43586,
+        "Codigo": "0709.000.984-3",
+        "Descricao": "FUNDAMENTOS DA PRÁTICA MÉDICA V",
+        "Semestre": "0",
+        "Apelido": "FUNDAMENTOS DA PRÁTICA MÉDICA V",
+        "CargaHorariaTeorico": 0,
+        "CargaHorariaPratica": 0,
+        "ListaPrequisitos": []
+      },
+      {
+        "Id": 43587,
+        "Codigo": "0709.000.985-2",
+        "Descricao": "FUNDAMENTOS DA PRÁTICA MÉDICA VI",
+        "Semestre": "0",
+        "Apelido": "FUNDAMENTOS DA PRÁTICA MÉDICA VI",
+        "CargaHorariaTeorico": 0,
+        "CargaHorariaPratica": 0,
+        "ListaPrequisitos": []
+      },
+      {
+        "Id": 43602,
+        "Codigo": "0709.001.000-2",
+        "Descricao": "BASES BIOLÓGICAS DA PRÁTICA MÉDICA V",
+        "Semestre": "0",
+        "Apelido": "BASES BIOLÓGICAS DA PRÁTICA MÉDICA V",
+        "CargaHorariaTeorico": 0,
+        "CargaHorariaPratica": 0,
+        "ListaPrequisitos": []
+      },
+      {
+        "Id": 43614,
+        "Codigo": "0709.001.012-9",
+        "Descricao": "FUNDAMENTOS DA PRÁTICA MÉDICA I",
+        "Semestre": "0",
+        "Apelido": "FUNDAMENTOS DA PRÁTICA MÉDICA I",
+        "CargaHorariaTeorico": 0,
+        "CargaHorariaPratica": 0,
+        "ListaPrequisitos": []
+      },
+      {
+        "Id": 43616,
+        "Codigo": "0709.001.014-7",
+        "Descricao": "FUNDAMENTOS DA PRÁTICA MÉDICA VII",
+        "Semestre": "0",
+        "Apelido": "FUNDAMENTOS DA PRÁTICA MÉDICA VII",
+        "CargaHorariaTeorico": 0,
+        "CargaHorariaPratica": 0,
+        "ListaPrequisitos": []
+      },
+      {
+        "Id": 43621,
+        "Codigo": "0709.001.019-2",
+        "Descricao": "BASES PSICOSSOCIAIS DA PRÁTICA MÉDICA VII",
+        "Semestre": "0",
+        "Apelido": "BASES PSICOSSOCIAIS DA PRÁTICA MÉDICA VII",
+        "CargaHorariaTeorico": 0,
+        "CargaHorariaPratica": 0,
+        "ListaPrequisitos": []
+      },
+      {
+        "Id": 43625,
+        "Codigo": "0709.001.023-6",
+        "Descricao": "BASES PSICOSSOCIAIS DA PRÁTICA MÉDICA III",
+        "Semestre": "0",
+        "Apelido": "BASES PSICOSSOCIAIS DA PRÁTICA MÉDICA III",
+        "CargaHorariaTeorico": 0,
+        "CargaHorariaPratica": 0,
+        "ListaPrequisitos": []
+      },
+      {
+        "Id": 43628,
+        "Codigo": "0709.001.026-3",
+        "Descricao": "BASES PSICOSSOCIAIS DA PRÁTICA MÉDICA II",
+        "Semestre": "0",
+        "Apelido": "BASES PSICOSSOCIAIS DA PRÁTICA MÉDICA II",
+        "CargaHorariaTeorico": 0,
+        "CargaHorariaPratica": 0,
+        "ListaPrequisitos": []
+      },
+      {
+        "Id": 43630,
+        "Codigo": "0709.001.028-1",
+        "Descricao": "PRÁTICA DE INTEGRAÇÃO: ENSINO, SERVIÇO E COMUNIDADE I",
+        "Semestre": "0",
+        "Apelido": "PRÁTICA DE INTEGRAÇÃO: ENSINO, SERVIÇO E COMUNIDADE I",
+        "CargaHorariaTeorico": 0,
+        "CargaHorariaPratica": 0,
+        "ListaPrequisitos": []
+      },
+      {
+        "Id": 43631,
+        "Codigo": "0709.001.029-0",
+        "Descricao": "PRÁTICA DE INTEGRAÇÃO: ENSINO, SERVIÇO E COMUNIDADE II",
+        "Semestre": "0",
+        "Apelido": "PRÁTICA DE INTEGRAÇÃO: ENSINO, SERVIÇO E COMUNIDADE II",
+        "CargaHorariaTeorico": 0,
+        "CargaHorariaPratica": 0,
+        "ListaPrequisitos": []
+      },
+      {
+        "Id": 43632,
+        "Codigo": "0709.001.030-7",
+        "Descricao": "PRÁTICA DE INTEGRAÇÃO: ENSINO, SERVIÇO E COMUNIDADE III",
+        "Semestre": "0",
+        "Apelido": "PRÁTICA DE INTEGRAÇÃO: ENSINO, SERVIÇO E COMUNIDADE III",
+        "CargaHorariaTeorico": 0,
+        "CargaHorariaPratica": 0,
+        "ListaPrequisitos": []
+      },
+      {
+        "Id": 43633,
+        "Codigo": "0709.001.031-6",
+        "Descricao": "PRÁTICA DE INTEGRAÇÃO: ENSINO, SERVIÇO E COMUNIDADE V",
+        "Semestre": "0",
+        "Apelido": "PRÁTICA DE INTEGRAÇÃO: ENSINO, SERVIÇO E COMUNIDADE V",
+        "CargaHorariaTeorico": 0,
+        "CargaHorariaPratica": 0,
+        "ListaPrequisitos": []
+      },
+      {
+        "Id": 43634,
+        "Codigo": "0709.001.032-5",
+        "Descricao": "PRÁTICA DE INTEGRAÇÃO: ENSINO, SERVIÇO E COMUNIDADE VI",
+        "Semestre": "0",
+        "Apelido": "PRÁTICA DE INTEGRAÇÃO: ENSINO, SERVIÇO E COMUNIDADE VI",
+        "CargaHorariaTeorico": 0,
+        "CargaHorariaPratica": 0,
+        "ListaPrequisitos": []
+      },
+      {
+        "Id": 43636,
+        "Codigo": "0709.001.034-3",
+        "Descricao": "PRÁTICA DE INTEGRAÇÃO: ENSINO, SERVIÇO E COMUNIDADE IV",
+        "Semestre": "0",
+        "Apelido": "PRÁTICA DE INTEGRAÇÃO: ENSINO, SERVIÇO E COMUNIDADE IV",
+        "CargaHorariaTeorico": 0,
+        "CargaHorariaPratica": 0,
+        "ListaPrequisitos": []
+      },
+      {
+        "Id": 43637,
+        "Codigo": "0709.001.035-2",
+        "Descricao": "PRÁTICA DE INTEGRAÇÃO: ENSINO, SERVIÇO E COMUNIDADE VIII",
+        "Semestre": "0",
+        "Apelido": "PRÁTICA DE INTEGRAÇÃO: ENSINO, SERVIÇO E COMUNIDADE VIII",
+        "CargaHorariaTeorico": 0,
+        "CargaHorariaPratica": 0,
+        "ListaPrequisitos": []
+      },
+      {
+        "Id": 43646,
+        "Codigo": "0709.001.044-1",
+        "Descricao": "PRÁTICA DE INTEGRAÇÃO: ENSINO, SERVIÇO E COMUNIDADE VII",
+        "Semestre": "0",
+        "Apelido": "PRÁTICA DE INTEGRAÇÃO: ENSINO, SERVIÇO E COMUNIDADE VII",
+        "CargaHorariaTeorico": 0,
+        "CargaHorariaPratica": 0,
+        "ListaPrequisitos": []
+      },
+      {
+        "Id": 43649,
+        "Codigo": "0709.001.047-9",
+        "Descricao": "BASES BIOLÓGICAS DA PRÁTICA MÉDICA III",
+        "Semestre": "0",
+        "Apelido": "BASES BIOLÓGICAS DA PRÁTICA MÉDICA III",
+        "CargaHorariaTeorico": 0,
+        "CargaHorariaPratica": 0,
+        "ListaPrequisitos": []
+      },
+      {
+        "Id": 43650,
+        "Codigo": "0709.001.048-8",
+        "Descricao": "BASES BIOLÓGICAS DA PRÁTICA MÉDICA VI",
+        "Semestre": "0",
+        "Apelido": "BASES BIOLÓGICAS DA PRÁTICA MÉDICA VI",
+        "CargaHorariaTeorico": 0,
+        "CargaHorariaPratica": 0,
+        "ListaPrequisitos": []
+      },
+      {
+        "Id": 43651,
+        "Codigo": "0709.001.049-7",
+        "Descricao": "BASES BIOLÓGICAS DA PRÁTICA MÉDICA VII",
+        "Semestre": "0",
+        "Apelido": "BASES BIOLÓGICAS DA PRÁTICA MÉDICA VII",
+        "CargaHorariaTeorico": 0,
+        "CargaHorariaPratica": 0,
+        "ListaPrequisitos": []
+      },
+      {
+        "Id": 43661,
+        "Codigo": "0709.001.059-5",
+        "Descricao": "FUNDAMENTOS DA PRÁTICA MÉDICA VIII",
+        "Semestre": "0",
+        "Apelido": "FUNDAMENTOS DA PRÁTICA MÉDICA VIII",
+        "CargaHorariaTeorico": 0,
+        "CargaHorariaPratica": 0,
+        "ListaPrequisitos": []
+      },
+      {
+        "Id": 43674,
+        "Codigo": "0709.001.072-8",
+        "Descricao": "BASES BIOLÓGICAS DA PRÁTICA MÉDICA IV",
+        "Semestre": "0",
+        "Apelido": "BASES BIOLÓGICAS DA PRÁTICA MÉDICA IV",
+        "CargaHorariaTeorico": 0,
+        "CargaHorariaPratica": 0,
+        "ListaPrequisitos": []
+      },
+      {
+        "Id": 43675,
+        "Codigo": "0709.001.073-7",
+        "Descricao": "BASES PSICOSSOCIAIS DA PRÁTICA MÉDICA I",
+        "Semestre": "0",
+        "Apelido": "BASES PSICOSSOCIAIS DA PRÁTICA MÉDICA I",
+        "CargaHorariaTeorico": 0,
+        "CargaHorariaPratica": 0,
+        "ListaPrequisitos": []
+      },
+      {
+        "Id": 43676,
+        "Codigo": "0709.001.074-6",
+        "Descricao": "BASES PSICOSSOCIAIS DA PRÁTICA MÉDICA IV",
+        "Semestre": "0",
+        "Apelido": "BASES PSICOSSOCIAIS DA PRÁTICA MÉDICA IV",
+        "CargaHorariaTeorico": 0,
+        "CargaHorariaPratica": 0,
+        "ListaPrequisitos": []
+      },
+      {
+        "Id": 43677,
+        "Codigo": "0709.001.075-5",
+        "Descricao": "BASES PSICOSSOCIAIS DA PRÁTICA MÉDICA V",
+        "Semestre": "0",
+        "Apelido": "BASES PSICOSSOCIAIS DA PRÁTICA MÉDICA V",
+        "CargaHorariaTeorico": 0,
+        "CargaHorariaPratica": 0,
+        "ListaPrequisitos": []
+      },
+      {
+        "Id": 43678,
+        "Codigo": "0709.001.076-4",
+        "Descricao": "BASES PSICOSSOCIAIS DA PRÁTICA MÉDICA VI",
+        "Semestre": "0",
+        "Apelido": "BASES PSICOSSOCIAIS DA PRÁTICA MÉDICA VI",
+        "CargaHorariaTeorico": 0,
+        "CargaHorariaPratica": 0,
+        "ListaPrequisitos": []
+      },
+      {
+        "Id": 43679,
+        "Codigo": "0709.001.077-3",
+        "Descricao": "BASES PSICOSSOCIAIS DA PRÁTICA MÉDICA VIII",
+        "Semestre": "0",
+        "Apelido": "BASES PSICOSSOCIAIS DA PRÁTICA MÉDICA VIII",
+        "CargaHorariaTeorico": 0,
+        "CargaHorariaPratica": 0,
+        "ListaPrequisitos": []
+      },
+      {
+        "Id": 51558,
+        "Codigo": "0709.002.282-7",
+        "Descricao": "URGÊNCIA E EMERGÊNCIA IV",
+        "Semestre": "0",
+        "Apelido": "URGÊNCIA E EMERGÊNCIA IV",
+        "CargaHorariaTeorico": 0,
+        "CargaHorariaPratica": 0,
+        "ListaPrequisitos": []
+      },
+      {
+        "Id": 51559,
+        "Codigo": "0709.002.283-6",
+        "Descricao": "CIRURGIA I",
+        "Semestre": "0",
+        "Apelido": "CIRURGIA I",
+        "CargaHorariaTeorico": 0,
+        "CargaHorariaPratica": 0,
+        "ListaPrequisitos": []
+      },
+      {
+        "Id": 51560,
+        "Codigo": "0709.002.284-5",
+        "Descricao": "CIRURGIA III",
+        "Semestre": "0",
+        "Apelido": "CIRURGIA III",
+        "CargaHorariaTeorico": 0,
+        "CargaHorariaPratica": 0,
+        "ListaPrequisitos": []
+      },
+      {
+        "Id": 51561,
+        "Codigo": "0709.002.285-4",
+        "Descricao": "URGÊNCIA E EMERGÊNCIA I",
+        "Semestre": "0",
+        "Apelido": "URGÊNCIA E EMERGÊNCIA I",
+        "CargaHorariaTeorico": 0,
+        "CargaHorariaPratica": 0,
+        "ListaPrequisitos": []
+      },
+      {
+        "Id": 51562,
+        "Codigo": "0709.002.286-3",
+        "Descricao": "BASES BIOLOGICAS DA PRÁTICA MÉDICA I",
+        "Semestre": "0",
+        "Apelido": "BASES BIOLOGICAS DA PRÁTICA MÉDICA I",
+        "CargaHorariaTeorico": 0,
+        "CargaHorariaPratica": 0,
+        "ListaPrequisitos": []
+      },
+      {
+        "Id": 51563,
+        "Codigo": "0709.002.287-2",
+        "Descricao": "BASES BIOLOGICAS DA PRÁTICA MÉDICA II",
+        "Semestre": "0",
+        "Apelido": "BASES BIOLOGICAS DA PRÁTICA MÉDICA II",
+        "CargaHorariaTeorico": 0,
+        "CargaHorariaPratica": 0,
+        "ListaPrequisitos": []
+      },
+      {
+        "Id": 51564,
+        "Codigo": "0709.002.288-1",
+        "Descricao": "URGÊNCIA E EMERGÊNCIA III",
+        "Semestre": "0",
+        "Apelido": "URGÊNCIA E EMERGÊNCIA III",
+        "CargaHorariaTeorico": 0,
+        "CargaHorariaPratica": 0,
+        "ListaPrequisitos": []
+      },
+      {
+        "Id": 51566,
+        "Codigo": "0709.002.290-7",
+        "Descricao": "BASES BIOLÓGICAS DA PRÁTICA MÉDICA VIII",
+        "Semestre": "0",
+        "Apelido": "BASES BIOLÓGICAS DA PRÁTICA MÉDICA VIII",
+        "CargaHorariaTeorico": 0,
+        "CargaHorariaPratica": 0,
+        "ListaPrequisitos": []
+      },
+      {
+        "Id": 51567,
+        "Codigo": "0709.002.291-6",
+        "Descricao": "URGÊNCIA E EMERGÊNCIA II",
+        "Semestre": "0",
+        "Apelido": "URGÊNCIA E EMERGÊNCIA II",
+        "CargaHorariaTeorico": 0,
+        "CargaHorariaPratica": 0,
+        "ListaPrequisitos": []
+      },
+      {
+        "Id": 51570,
+        "Codigo": "0709.002.294-3",
+        "Descricao": "CIRURGIA II",
+        "Semestre": "0",
+        "Apelido": "CIRURGIA II",
+        "CargaHorariaTeorico": 0,
+        "CargaHorariaPratica": 0,
+        "ListaPrequisitos": []
+      }
+    ]
+  },
+  {
+    "Id": 51557,
+    "Codigo": "0709.002.281-8",
+    "Tipo": "OBR",
+    "Descricao": "ESTÁGIO OBRIGATÓRIO EM SAÚDE DA MULHER I",
+    "Semestre": 10,
+    "Apelido": "ESTÁGIO OBRIGATÓRIO EM SAÚDE DA MULHER I",
+    "CargaHorariaTeorico": 320,
+    "CargaHorariaPratica": null,
+    "ListaPrequisitos": [
+      {
+        "Id": 43582,
+        "Codigo": "0709.000.980-7",
+        "Descricao": "FUNDAMENTOS DA PRÁTICA MÉDICA II",
+        "Semestre": "0",
+        "Apelido": "FUNDAMENTOS DA PRÁTICA MÉDICA II",
+        "CargaHorariaTeorico": 0,
+        "CargaHorariaPratica": 0,
+        "ListaPrequisitos": []
+      },
+      {
+        "Id": 43583,
+        "Codigo": "0709.000.981-6",
+        "Descricao": "FUNDAMENTOS DA PRÁTICA MÉDICA III",
+        "Semestre": "0",
+        "Apelido": "FUNDAMENTOS DA PRÁTICA MÉDICA III",
+        "CargaHorariaTeorico": 0,
+        "CargaHorariaPratica": 0,
+        "ListaPrequisitos": []
+      },
+      {
+        "Id": 43584,
+        "Codigo": "0709.000.982-5",
+        "Descricao": "FUNDAMENTOS DA PRÁTICA MÉDICA IV",
+        "Semestre": "0",
+        "Apelido": "FUNDAMENTOS DA PRÁTICA MÉDICA IV",
+        "CargaHorariaTeorico": 0,
+        "CargaHorariaPratica": 0,
+        "ListaPrequisitos": []
+      },
+      {
+        "Id": 43586,
+        "Codigo": "0709.000.984-3",
+        "Descricao": "FUNDAMENTOS DA PRÁTICA MÉDICA V",
+        "Semestre": "0",
+        "Apelido": "FUNDAMENTOS DA PRÁTICA MÉDICA V",
+        "CargaHorariaTeorico": 0,
+        "CargaHorariaPratica": 0,
+        "ListaPrequisitos": []
+      },
+      {
+        "Id": 43587,
+        "Codigo": "0709.000.985-2",
+        "Descricao": "FUNDAMENTOS DA PRÁTICA MÉDICA VI",
+        "Semestre": "0",
+        "Apelido": "FUNDAMENTOS DA PRÁTICA MÉDICA VI",
+        "CargaHorariaTeorico": 0,
+        "CargaHorariaPratica": 0,
+        "ListaPrequisitos": []
+      },
+      {
+        "Id": 43602,
+        "Codigo": "0709.001.000-2",
+        "Descricao": "BASES BIOLÓGICAS DA PRÁTICA MÉDICA V",
+        "Semestre": "0",
+        "Apelido": "BASES BIOLÓGICAS DA PRÁTICA MÉDICA V",
+        "CargaHorariaTeorico": 0,
+        "CargaHorariaPratica": 0,
+        "ListaPrequisitos": []
+      },
+      {
+        "Id": 43614,
+        "Codigo": "0709.001.012-9",
+        "Descricao": "FUNDAMENTOS DA PRÁTICA MÉDICA I",
+        "Semestre": "0",
+        "Apelido": "FUNDAMENTOS DA PRÁTICA MÉDICA I",
+        "CargaHorariaTeorico": 0,
+        "CargaHorariaPratica": 0,
+        "ListaPrequisitos": []
+      },
+      {
+        "Id": 43616,
+        "Codigo": "0709.001.014-7",
+        "Descricao": "FUNDAMENTOS DA PRÁTICA MÉDICA VII",
+        "Semestre": "0",
+        "Apelido": "FUNDAMENTOS DA PRÁTICA MÉDICA VII",
+        "CargaHorariaTeorico": 0,
+        "CargaHorariaPratica": 0,
+        "ListaPrequisitos": []
+      },
+      {
+        "Id": 43621,
+        "Codigo": "0709.001.019-2",
+        "Descricao": "BASES PSICOSSOCIAIS DA PRÁTICA MÉDICA VII",
+        "Semestre": "0",
+        "Apelido": "BASES PSICOSSOCIAIS DA PRÁTICA MÉDICA VII",
+        "CargaHorariaTeorico": 0,
+        "CargaHorariaPratica": 0,
+        "ListaPrequisitos": []
+      },
+      {
+        "Id": 43625,
+        "Codigo": "0709.001.023-6",
+        "Descricao": "BASES PSICOSSOCIAIS DA PRÁTICA MÉDICA III",
+        "Semestre": "0",
+        "Apelido": "BASES PSICOSSOCIAIS DA PRÁTICA MÉDICA III",
+        "CargaHorariaTeorico": 0,
+        "CargaHorariaPratica": 0,
+        "ListaPrequisitos": []
+      },
+      {
+        "Id": 43628,
+        "Codigo": "0709.001.026-3",
+        "Descricao": "BASES PSICOSSOCIAIS DA PRÁTICA MÉDICA II",
+        "Semestre": "0",
+        "Apelido": "BASES PSICOSSOCIAIS DA PRÁTICA MÉDICA II",
+        "CargaHorariaTeorico": 0,
+        "CargaHorariaPratica": 0,
+        "ListaPrequisitos": []
+      },
+      {
+        "Id": 43630,
+        "Codigo": "0709.001.028-1",
+        "Descricao": "PRÁTICA DE INTEGRAÇÃO: ENSINO, SERVIÇO E COMUNIDADE I",
+        "Semestre": "0",
+        "Apelido": "PRÁTICA DE INTEGRAÇÃO: ENSINO, SERVIÇO E COMUNIDADE I",
+        "CargaHorariaTeorico": 0,
+        "CargaHorariaPratica": 0,
+        "ListaPrequisitos": []
+      },
+      {
+        "Id": 43631,
+        "Codigo": "0709.001.029-0",
+        "Descricao": "PRÁTICA DE INTEGRAÇÃO: ENSINO, SERVIÇO E COMUNIDADE II",
+        "Semestre": "0",
+        "Apelido": "PRÁTICA DE INTEGRAÇÃO: ENSINO, SERVIÇO E COMUNIDADE II",
+        "CargaHorariaTeorico": 0,
+        "CargaHorariaPratica": 0,
+        "ListaPrequisitos": []
+      },
+      {
+        "Id": 43632,
+        "Codigo": "0709.001.030-7",
+        "Descricao": "PRÁTICA DE INTEGRAÇÃO: ENSINO, SERVIÇO E COMUNIDADE III",
+        "Semestre": "0",
+        "Apelido": "PRÁTICA DE INTEGRAÇÃO: ENSINO, SERVIÇO E COMUNIDADE III",
+        "CargaHorariaTeorico": 0,
+        "CargaHorariaPratica": 0,
+        "ListaPrequisitos": []
+      },
+      {
+        "Id": 43633,
+        "Codigo": "0709.001.031-6",
+        "Descricao": "PRÁTICA DE INTEGRAÇÃO: ENSINO, SERVIÇO E COMUNIDADE V",
+        "Semestre": "0",
+        "Apelido": "PRÁTICA DE INTEGRAÇÃO: ENSINO, SERVIÇO E COMUNIDADE V",
+        "CargaHorariaTeorico": 0,
+        "CargaHorariaPratica": 0,
+        "ListaPrequisitos": []
+      },
+      {
+        "Id": 43634,
+        "Codigo": "0709.001.032-5",
+        "Descricao": "PRÁTICA DE INTEGRAÇÃO: ENSINO, SERVIÇO E COMUNIDADE VI",
+        "Semestre": "0",
+        "Apelido": "PRÁTICA DE INTEGRAÇÃO: ENSINO, SERVIÇO E COMUNIDADE VI",
+        "CargaHorariaTeorico": 0,
+        "CargaHorariaPratica": 0,
+        "ListaPrequisitos": []
+      },
+      {
+        "Id": 43636,
+        "Codigo": "0709.001.034-3",
+        "Descricao": "PRÁTICA DE INTEGRAÇÃO: ENSINO, SERVIÇO E COMUNIDADE IV",
+        "Semestre": "0",
+        "Apelido": "PRÁTICA DE INTEGRAÇÃO: ENSINO, SERVIÇO E COMUNIDADE IV",
+        "CargaHorariaTeorico": 0,
+        "CargaHorariaPratica": 0,
+        "ListaPrequisitos": []
+      },
+      {
+        "Id": 43637,
+        "Codigo": "0709.001.035-2",
+        "Descricao": "PRÁTICA DE INTEGRAÇÃO: ENSINO, SERVIÇO E COMUNIDADE VIII",
+        "Semestre": "0",
+        "Apelido": "PRÁTICA DE INTEGRAÇÃO: ENSINO, SERVIÇO E COMUNIDADE VIII",
+        "CargaHorariaTeorico": 0,
+        "CargaHorariaPratica": 0,
+        "ListaPrequisitos": []
+      },
+      {
+        "Id": 43646,
+        "Codigo": "0709.001.044-1",
+        "Descricao": "PRÁTICA DE INTEGRAÇÃO: ENSINO, SERVIÇO E COMUNIDADE VII",
+        "Semestre": "0",
+        "Apelido": "PRÁTICA DE INTEGRAÇÃO: ENSINO, SERVIÇO E COMUNIDADE VII",
+        "CargaHorariaTeorico": 0,
+        "CargaHorariaPratica": 0,
+        "ListaPrequisitos": []
+      },
+      {
+        "Id": 43649,
+        "Codigo": "0709.001.047-9",
+        "Descricao": "BASES BIOLÓGICAS DA PRÁTICA MÉDICA III",
+        "Semestre": "0",
+        "Apelido": "BASES BIOLÓGICAS DA PRÁTICA MÉDICA III",
+        "CargaHorariaTeorico": 0,
+        "CargaHorariaPratica": 0,
+        "ListaPrequisitos": []
+      },
+      {
+        "Id": 43650,
+        "Codigo": "0709.001.048-8",
+        "Descricao": "BASES BIOLÓGICAS DA PRÁTICA MÉDICA VI",
+        "Semestre": "0",
+        "Apelido": "BASES BIOLÓGICAS DA PRÁTICA MÉDICA VI",
+        "CargaHorariaTeorico": 0,
+        "CargaHorariaPratica": 0,
+        "ListaPrequisitos": []
+      },
+      {
+        "Id": 43651,
+        "Codigo": "0709.001.049-7",
+        "Descricao": "BASES BIOLÓGICAS DA PRÁTICA MÉDICA VII",
+        "Semestre": "0",
+        "Apelido": "BASES BIOLÓGICAS DA PRÁTICA MÉDICA VII",
+        "CargaHorariaTeorico": 0,
+        "CargaHorariaPratica": 0,
+        "ListaPrequisitos": []
+      },
+      {
+        "Id": 43661,
+        "Codigo": "0709.001.059-5",
+        "Descricao": "FUNDAMENTOS DA PRÁTICA MÉDICA VIII",
+        "Semestre": "0",
+        "Apelido": "FUNDAMENTOS DA PRÁTICA MÉDICA VIII",
+        "CargaHorariaTeorico": 0,
+        "CargaHorariaPratica": 0,
+        "ListaPrequisitos": []
+      },
+      {
+        "Id": 43674,
+        "Codigo": "0709.001.072-8",
+        "Descricao": "BASES BIOLÓGICAS DA PRÁTICA MÉDICA IV",
+        "Semestre": "0",
+        "Apelido": "BASES BIOLÓGICAS DA PRÁTICA MÉDICA IV",
+        "CargaHorariaTeorico": 0,
+        "CargaHorariaPratica": 0,
+        "ListaPrequisitos": []
+      },
+      {
+        "Id": 43675,
+        "Codigo": "0709.001.073-7",
+        "Descricao": "BASES PSICOSSOCIAIS DA PRÁTICA MÉDICA I",
+        "Semestre": "0",
+        "Apelido": "BASES PSICOSSOCIAIS DA PRÁTICA MÉDICA I",
+        "CargaHorariaTeorico": 0,
+        "CargaHorariaPratica": 0,
+        "ListaPrequisitos": []
+      },
+      {
+        "Id": 43676,
+        "Codigo": "0709.001.074-6",
+        "Descricao": "BASES PSICOSSOCIAIS DA PRÁTICA MÉDICA IV",
+        "Semestre": "0",
+        "Apelido": "BASES PSICOSSOCIAIS DA PRÁTICA MÉDICA IV",
+        "CargaHorariaTeorico": 0,
+        "CargaHorariaPratica": 0,
+        "ListaPrequisitos": []
+      },
+      {
+        "Id": 43677,
+        "Codigo": "0709.001.075-5",
+        "Descricao": "BASES PSICOSSOCIAIS DA PRÁTICA MÉDICA V",
+        "Semestre": "0",
+        "Apelido": "BASES PSICOSSOCIAIS DA PRÁTICA MÉDICA V",
+        "CargaHorariaTeorico": 0,
+        "CargaHorariaPratica": 0,
+        "ListaPrequisitos": []
+      },
+      {
+        "Id": 43678,
+        "Codigo": "0709.001.076-4",
+        "Descricao": "BASES PSICOSSOCIAIS DA PRÁTICA MÉDICA VI",
+        "Semestre": "0",
+        "Apelido": "BASES PSICOSSOCIAIS DA PRÁTICA MÉDICA VI",
+        "CargaHorariaTeorico": 0,
+        "CargaHorariaPratica": 0,
+        "ListaPrequisitos": []
+      },
+      {
+        "Id": 43679,
+        "Codigo": "0709.001.077-3",
+        "Descricao": "BASES PSICOSSOCIAIS DA PRÁTICA MÉDICA VIII",
+        "Semestre": "0",
+        "Apelido": "BASES PSICOSSOCIAIS DA PRÁTICA MÉDICA VIII",
+        "CargaHorariaTeorico": 0,
+        "CargaHorariaPratica": 0,
+        "ListaPrequisitos": []
+      },
+      {
+        "Id": 51558,
+        "Codigo": "0709.002.282-7",
+        "Descricao": "URGÊNCIA E EMERGÊNCIA IV",
+        "Semestre": "0",
+        "Apelido": "URGÊNCIA E EMERGÊNCIA IV",
+        "CargaHorariaTeorico": 0,
+        "CargaHorariaPratica": 0,
+        "ListaPrequisitos": []
+      },
+      {
+        "Id": 51559,
+        "Codigo": "0709.002.283-6",
+        "Descricao": "CIRURGIA I",
+        "Semestre": "0",
+        "Apelido": "CIRURGIA I",
+        "CargaHorariaTeorico": 0,
+        "CargaHorariaPratica": 0,
+        "ListaPrequisitos": []
+      },
+      {
+        "Id": 51560,
+        "Codigo": "0709.002.284-5",
+        "Descricao": "CIRURGIA III",
+        "Semestre": "0",
+        "Apelido": "CIRURGIA III",
+        "CargaHorariaTeorico": 0,
+        "CargaHorariaPratica": 0,
+        "ListaPrequisitos": []
+      },
+      {
+        "Id": 51561,
+        "Codigo": "0709.002.285-4",
+        "Descricao": "URGÊNCIA E EMERGÊNCIA I",
+        "Semestre": "0",
+        "Apelido": "URGÊNCIA E EMERGÊNCIA I",
+        "CargaHorariaTeorico": 0,
+        "CargaHorariaPratica": 0,
+        "ListaPrequisitos": []
+      },
+      {
+        "Id": 51562,
+        "Codigo": "0709.002.286-3",
+        "Descricao": "BASES BIOLOGICAS DA PRÁTICA MÉDICA I",
+        "Semestre": "0",
+        "Apelido": "BASES BIOLOGICAS DA PRÁTICA MÉDICA I",
+        "CargaHorariaTeorico": 0,
+        "CargaHorariaPratica": 0,
+        "ListaPrequisitos": []
+      },
+      {
+        "Id": 51563,
+        "Codigo": "0709.002.287-2",
+        "Descricao": "BASES BIOLOGICAS DA PRÁTICA MÉDICA II",
+        "Semestre": "0",
+        "Apelido": "BASES BIOLOGICAS DA PRÁTICA MÉDICA II",
+        "CargaHorariaTeorico": 0,
+        "CargaHorariaPratica": 0,
+        "ListaPrequisitos": []
+      },
+      {
+        "Id": 51564,
+        "Codigo": "0709.002.288-1",
+        "Descricao": "URGÊNCIA E EMERGÊNCIA III",
+        "Semestre": "0",
+        "Apelido": "URGÊNCIA E EMERGÊNCIA III",
+        "CargaHorariaTeorico": 0,
+        "CargaHorariaPratica": 0,
+        "ListaPrequisitos": []
+      },
+      {
+        "Id": 51566,
+        "Codigo": "0709.002.290-7",
+        "Descricao": "BASES BIOLÓGICAS DA PRÁTICA MÉDICA VIII",
+        "Semestre": "0",
+        "Apelido": "BASES BIOLÓGICAS DA PRÁTICA MÉDICA VIII",
+        "CargaHorariaTeorico": 0,
+        "CargaHorariaPratica": 0,
+        "ListaPrequisitos": []
+      },
+      {
+        "Id": 51567,
+        "Codigo": "0709.002.291-6",
+        "Descricao": "URGÊNCIA E EMERGÊNCIA II",
+        "Semestre": "0",
+        "Apelido": "URGÊNCIA E EMERGÊNCIA II",
+        "CargaHorariaTeorico": 0,
+        "CargaHorariaPratica": 0,
+        "ListaPrequisitos": []
+      },
+      {
+        "Id": 51570,
+        "Codigo": "0709.002.294-3",
+        "Descricao": "CIRURGIA II",
+        "Semestre": "0",
+        "Apelido": "CIRURGIA II",
+        "CargaHorariaTeorico": 0,
+        "CargaHorariaPratica": 0,
+        "ListaPrequisitos": []
+      }
+    ]
+  },
+  {
+    "Id": 51569,
+    "Codigo": "0709.002.293-4",
+    "Tipo": "OBR",
+    "Descricao": "ESTÁGIO OBRIGATÓRIO EM URGÊNCIAS E EMERGÊNCIAS CIRÚRGICAS",
+    "Semestre": 10,
+    "Apelido": "ESTÁGIO OBRIGATÓRIO EM URGÊNCIAS E EMERGÊNCIAS CIRÚRGICAS",
+    "CargaHorariaTeorico": 160,
+    "CargaHorariaPratica": null,
+    "ListaPrequisitos": [
+      {
+        "Id": 43582,
+        "Codigo": "0709.000.980-7",
+        "Descricao": "FUNDAMENTOS DA PRÁTICA MÉDICA II",
+        "Semestre": "0",
+        "Apelido": "FUNDAMENTOS DA PRÁTICA MÉDICA II",
+        "CargaHorariaTeorico": 0,
+        "CargaHorariaPratica": 0,
+        "ListaPrequisitos": []
+      },
+      {
+        "Id": 43583,
+        "Codigo": "0709.000.981-6",
+        "Descricao": "FUNDAMENTOS DA PRÁTICA MÉDICA III",
+        "Semestre": "0",
+        "Apelido": "FUNDAMENTOS DA PRÁTICA MÉDICA III",
+        "CargaHorariaTeorico": 0,
+        "CargaHorariaPratica": 0,
+        "ListaPrequisitos": []
+      },
+      {
+        "Id": 43584,
+        "Codigo": "0709.000.982-5",
+        "Descricao": "FUNDAMENTOS DA PRÁTICA MÉDICA IV",
+        "Semestre": "0",
+        "Apelido": "FUNDAMENTOS DA PRÁTICA MÉDICA IV",
+        "CargaHorariaTeorico": 0,
+        "CargaHorariaPratica": 0,
+        "ListaPrequisitos": []
+      },
+      {
+        "Id": 43586,
+        "Codigo": "0709.000.984-3",
+        "Descricao": "FUNDAMENTOS DA PRÁTICA MÉDICA V",
+        "Semestre": "0",
+        "Apelido": "FUNDAMENTOS DA PRÁTICA MÉDICA V",
+        "CargaHorariaTeorico": 0,
+        "CargaHorariaPratica": 0,
+        "ListaPrequisitos": []
+      },
+      {
+        "Id": 43587,
+        "Codigo": "0709.000.985-2",
+        "Descricao": "FUNDAMENTOS DA PRÁTICA MÉDICA VI",
+        "Semestre": "0",
+        "Apelido": "FUNDAMENTOS DA PRÁTICA MÉDICA VI",
+        "CargaHorariaTeorico": 0,
+        "CargaHorariaPratica": 0,
+        "ListaPrequisitos": []
+      },
+      {
+        "Id": 43602,
+        "Codigo": "0709.001.000-2",
+        "Descricao": "BASES BIOLÓGICAS DA PRÁTICA MÉDICA V",
+        "Semestre": "0",
+        "Apelido": "BASES BIOLÓGICAS DA PRÁTICA MÉDICA V",
+        "CargaHorariaTeorico": 0,
+        "CargaHorariaPratica": 0,
+        "ListaPrequisitos": []
+      },
+      {
+        "Id": 43614,
+        "Codigo": "0709.001.012-9",
+        "Descricao": "FUNDAMENTOS DA PRÁTICA MÉDICA I",
+        "Semestre": "0",
+        "Apelido": "FUNDAMENTOS DA PRÁTICA MÉDICA I",
+        "CargaHorariaTeorico": 0,
+        "CargaHorariaPratica": 0,
+        "ListaPrequisitos": []
+      },
+      {
+        "Id": 43616,
+        "Codigo": "0709.001.014-7",
+        "Descricao": "FUNDAMENTOS DA PRÁTICA MÉDICA VII",
+        "Semestre": "0",
+        "Apelido": "FUNDAMENTOS DA PRÁTICA MÉDICA VII",
+        "CargaHorariaTeorico": 0,
+        "CargaHorariaPratica": 0,
+        "ListaPrequisitos": []
+      },
+      {
+        "Id": 43621,
+        "Codigo": "0709.001.019-2",
+        "Descricao": "BASES PSICOSSOCIAIS DA PRÁTICA MÉDICA VII",
+        "Semestre": "0",
+        "Apelido": "BASES PSICOSSOCIAIS DA PRÁTICA MÉDICA VII",
+        "CargaHorariaTeorico": 0,
+        "CargaHorariaPratica": 0,
+        "ListaPrequisitos": []
+      },
+      {
+        "Id": 43625,
+        "Codigo": "0709.001.023-6",
+        "Descricao": "BASES PSICOSSOCIAIS DA PRÁTICA MÉDICA III",
+        "Semestre": "0",
+        "Apelido": "BASES PSICOSSOCIAIS DA PRÁTICA MÉDICA III",
+        "CargaHorariaTeorico": 0,
+        "CargaHorariaPratica": 0,
+        "ListaPrequisitos": []
+      },
+      {
+        "Id": 43628,
+        "Codigo": "0709.001.026-3",
+        "Descricao": "BASES PSICOSSOCIAIS DA PRÁTICA MÉDICA II",
+        "Semestre": "0",
+        "Apelido": "BASES PSICOSSOCIAIS DA PRÁTICA MÉDICA II",
+        "CargaHorariaTeorico": 0,
+        "CargaHorariaPratica": 0,
+        "ListaPrequisitos": []
+      },
+      {
+        "Id": 43630,
+        "Codigo": "0709.001.028-1",
+        "Descricao": "PRÁTICA DE INTEGRAÇÃO: ENSINO, SERVIÇO E COMUNIDADE I",
+        "Semestre": "0",
+        "Apelido": "PRÁTICA DE INTEGRAÇÃO: ENSINO, SERVIÇO E COMUNIDADE I",
+        "CargaHorariaTeorico": 0,
+        "CargaHorariaPratica": 0,
+        "ListaPrequisitos": []
+      },
+      {
+        "Id": 43631,
+        "Codigo": "0709.001.029-0",
+        "Descricao": "PRÁTICA DE INTEGRAÇÃO: ENSINO, SERVIÇO E COMUNIDADE II",
+        "Semestre": "0",
+        "Apelido": "PRÁTICA DE INTEGRAÇÃO: ENSINO, SERVIÇO E COMUNIDADE II",
+        "CargaHorariaTeorico": 0,
+        "CargaHorariaPratica": 0,
+        "ListaPrequisitos": []
+      },
+      {
+        "Id": 43632,
+        "Codigo": "0709.001.030-7",
+        "Descricao": "PRÁTICA DE INTEGRAÇÃO: ENSINO, SERVIÇO E COMUNIDADE III",
+        "Semestre": "0",
+        "Apelido": "PRÁTICA DE INTEGRAÇÃO: ENSINO, SERVIÇO E COMUNIDADE III",
+        "CargaHorariaTeorico": 0,
+        "CargaHorariaPratica": 0,
+        "ListaPrequisitos": []
+      },
+      {
+        "Id": 43633,
+        "Codigo": "0709.001.031-6",
+        "Descricao": "PRÁTICA DE INTEGRAÇÃO: ENSINO, SERVIÇO E COMUNIDADE V",
+        "Semestre": "0",
+        "Apelido": "PRÁTICA DE INTEGRAÇÃO: ENSINO, SERVIÇO E COMUNIDADE V",
+        "CargaHorariaTeorico": 0,
+        "CargaHorariaPratica": 0,
+        "ListaPrequisitos": []
+      },
+      {
+        "Id": 43634,
+        "Codigo": "0709.001.032-5",
+        "Descricao": "PRÁTICA DE INTEGRAÇÃO: ENSINO, SERVIÇO E COMUNIDADE VI",
+        "Semestre": "0",
+        "Apelido": "PRÁTICA DE INTEGRAÇÃO: ENSINO, SERVIÇO E COMUNIDADE VI",
+        "CargaHorariaTeorico": 0,
+        "CargaHorariaPratica": 0,
+        "ListaPrequisitos": []
+      },
+      {
+        "Id": 43636,
+        "Codigo": "0709.001.034-3",
+        "Descricao": "PRÁTICA DE INTEGRAÇÃO: ENSINO, SERVIÇO E COMUNIDADE IV",
+        "Semestre": "0",
+        "Apelido": "PRÁTICA DE INTEGRAÇÃO: ENSINO, SERVIÇO E COMUNIDADE IV",
+        "CargaHorariaTeorico": 0,
+        "CargaHorariaPratica": 0,
+        "ListaPrequisitos": []
+      },
+      {
+        "Id": 43637,
+        "Codigo": "0709.001.035-2",
+        "Descricao": "PRÁTICA DE INTEGRAÇÃO: ENSINO, SERVIÇO E COMUNIDADE VIII",
+        "Semestre": "0",
+        "Apelido": "PRÁTICA DE INTEGRAÇÃO: ENSINO, SERVIÇO E COMUNIDADE VIII",
+        "CargaHorariaTeorico": 0,
+        "CargaHorariaPratica": 0,
+        "ListaPrequisitos": []
+      },
+      {
+        "Id": 43646,
+        "Codigo": "0709.001.044-1",
+        "Descricao": "PRÁTICA DE INTEGRAÇÃO: ENSINO, SERVIÇO E COMUNIDADE VII",
+        "Semestre": "0",
+        "Apelido": "PRÁTICA DE INTEGRAÇÃO: ENSINO, SERVIÇO E COMUNIDADE VII",
+        "CargaHorariaTeorico": 0,
+        "CargaHorariaPratica": 0,
+        "ListaPrequisitos": []
+      },
+      {
+        "Id": 43649,
+        "Codigo": "0709.001.047-9",
+        "Descricao": "BASES BIOLÓGICAS DA PRÁTICA MÉDICA III",
+        "Semestre": "0",
+        "Apelido": "BASES BIOLÓGICAS DA PRÁTICA MÉDICA III",
+        "CargaHorariaTeorico": 0,
+        "CargaHorariaPratica": 0,
+        "ListaPrequisitos": []
+      },
+      {
+        "Id": 43650,
+        "Codigo": "0709.001.048-8",
+        "Descricao": "BASES BIOLÓGICAS DA PRÁTICA MÉDICA VI",
+        "Semestre": "0",
+        "Apelido": "BASES BIOLÓGICAS DA PRÁTICA MÉDICA VI",
+        "CargaHorariaTeorico": 0,
+        "CargaHorariaPratica": 0,
+        "ListaPrequisitos": []
+      },
+      {
+        "Id": 43651,
+        "Codigo": "0709.001.049-7",
+        "Descricao": "BASES BIOLÓGICAS DA PRÁTICA MÉDICA VII",
+        "Semestre": "0",
+        "Apelido": "BASES BIOLÓGICAS DA PRÁTICA MÉDICA VII",
+        "CargaHorariaTeorico": 0,
+        "CargaHorariaPratica": 0,
+        "ListaPrequisitos": []
+      },
+      {
+        "Id": 43661,
+        "Codigo": "0709.001.059-5",
+        "Descricao": "FUNDAMENTOS DA PRÁTICA MÉDICA VIII",
+        "Semestre": "0",
+        "Apelido": "FUNDAMENTOS DA PRÁTICA MÉDICA VIII",
+        "CargaHorariaTeorico": 0,
+        "CargaHorariaPratica": 0,
+        "ListaPrequisitos": []
+      },
+      {
+        "Id": 43674,
+        "Codigo": "0709.001.072-8",
+        "Descricao": "BASES BIOLÓGICAS DA PRÁTICA MÉDICA IV",
+        "Semestre": "0",
+        "Apelido": "BASES BIOLÓGICAS DA PRÁTICA MÉDICA IV",
+        "CargaHorariaTeorico": 0,
+        "CargaHorariaPratica": 0,
+        "ListaPrequisitos": []
+      },
+      {
+        "Id": 43675,
+        "Codigo": "0709.001.073-7",
+        "Descricao": "BASES PSICOSSOCIAIS DA PRÁTICA MÉDICA I",
+        "Semestre": "0",
+        "Apelido": "BASES PSICOSSOCIAIS DA PRÁTICA MÉDICA I",
+        "CargaHorariaTeorico": 0,
+        "CargaHorariaPratica": 0,
+        "ListaPrequisitos": []
+      },
+      {
+        "Id": 43676,
+        "Codigo": "0709.001.074-6",
+        "Descricao": "BASES PSICOSSOCIAIS DA PRÁTICA MÉDICA IV",
+        "Semestre": "0",
+        "Apelido": "BASES PSICOSSOCIAIS DA PRÁTICA MÉDICA IV",
+        "CargaHorariaTeorico": 0,
+        "CargaHorariaPratica": 0,
+        "ListaPrequisitos": []
+      },
+      {
+        "Id": 43677,
+        "Codigo": "0709.001.075-5",
+        "Descricao": "BASES PSICOSSOCIAIS DA PRÁTICA MÉDICA V",
+        "Semestre": "0",
+        "Apelido": "BASES PSICOSSOCIAIS DA PRÁTICA MÉDICA V",
+        "CargaHorariaTeorico": 0,
+        "CargaHorariaPratica": 0,
+        "ListaPrequisitos": []
+      },
+      {
+        "Id": 43678,
+        "Codigo": "0709.001.076-4",
+        "Descricao": "BASES PSICOSSOCIAIS DA PRÁTICA MÉDICA VI",
+        "Semestre": "0",
+        "Apelido": "BASES PSICOSSOCIAIS DA PRÁTICA MÉDICA VI",
+        "CargaHorariaTeorico": 0,
+        "CargaHorariaPratica": 0,
+        "ListaPrequisitos": []
+      },
+      {
+        "Id": 43679,
+        "Codigo": "0709.001.077-3",
+        "Descricao": "BASES PSICOSSOCIAIS DA PRÁTICA MÉDICA VIII",
+        "Semestre": "0",
+        "Apelido": "BASES PSICOSSOCIAIS DA PRÁTICA MÉDICA VIII",
+        "CargaHorariaTeorico": 0,
+        "CargaHorariaPratica": 0,
+        "ListaPrequisitos": []
+      },
+      {
+        "Id": 51558,
+        "Codigo": "0709.002.282-7",
+        "Descricao": "URGÊNCIA E EMERGÊNCIA IV",
+        "Semestre": "0",
+        "Apelido": "URGÊNCIA E EMERGÊNCIA IV",
+        "CargaHorariaTeorico": 0,
+        "CargaHorariaPratica": 0,
+        "ListaPrequisitos": []
+      },
+      {
+        "Id": 51559,
+        "Codigo": "0709.002.283-6",
+        "Descricao": "CIRURGIA I",
+        "Semestre": "0",
+        "Apelido": "CIRURGIA I",
+        "CargaHorariaTeorico": 0,
+        "CargaHorariaPratica": 0,
+        "ListaPrequisitos": []
+      },
+      {
+        "Id": 51560,
+        "Codigo": "0709.002.284-5",
+        "Descricao": "CIRURGIA III",
+        "Semestre": "0",
+        "Apelido": "CIRURGIA III",
+        "CargaHorariaTeorico": 0,
+        "CargaHorariaPratica": 0,
+        "ListaPrequisitos": []
+      },
+      {
+        "Id": 51561,
+        "Codigo": "0709.002.285-4",
+        "Descricao": "URGÊNCIA E EMERGÊNCIA I",
+        "Semestre": "0",
+        "Apelido": "URGÊNCIA E EMERGÊNCIA I",
+        "CargaHorariaTeorico": 0,
+        "CargaHorariaPratica": 0,
+        "ListaPrequisitos": []
+      },
+      {
+        "Id": 51562,
+        "Codigo": "0709.002.286-3",
+        "Descricao": "BASES BIOLOGICAS DA PRÁTICA MÉDICA I",
+        "Semestre": "0",
+        "Apelido": "BASES BIOLOGICAS DA PRÁTICA MÉDICA I",
+        "CargaHorariaTeorico": 0,
+        "CargaHorariaPratica": 0,
+        "ListaPrequisitos": []
+      },
+      {
+        "Id": 51563,
+        "Codigo": "0709.002.287-2",
+        "Descricao": "BASES BIOLOGICAS DA PRÁTICA MÉDICA II",
+        "Semestre": "0",
+        "Apelido": "BASES BIOLOGICAS DA PRÁTICA MÉDICA II",
+        "CargaHorariaTeorico": 0,
+        "CargaHorariaPratica": 0,
+        "ListaPrequisitos": []
+      },
+      {
+        "Id": 51564,
+        "Codigo": "0709.002.288-1",
+        "Descricao": "URGÊNCIA E EMERGÊNCIA III",
+        "Semestre": "0",
+        "Apelido": "URGÊNCIA E EMERGÊNCIA III",
+        "CargaHorariaTeorico": 0,
+        "CargaHorariaPratica": 0,
+        "ListaPrequisitos": []
+      },
+      {
+        "Id": 51566,
+        "Codigo": "0709.002.290-7",
+        "Descricao": "BASES BIOLÓGICAS DA PRÁTICA MÉDICA VIII",
+        "Semestre": "0",
+        "Apelido": "BASES BIOLÓGICAS DA PRÁTICA MÉDICA VIII",
+        "CargaHorariaTeorico": 0,
+        "CargaHorariaPratica": 0,
+        "ListaPrequisitos": []
+      },
+      {
+        "Id": 51567,
+        "Codigo": "0709.002.291-6",
+        "Descricao": "URGÊNCIA E EMERGÊNCIA II",
+        "Semestre": "0",
+        "Apelido": "URGÊNCIA E EMERGÊNCIA II",
+        "CargaHorariaTeorico": 0,
+        "CargaHorariaPratica": 0,
+        "ListaPrequisitos": []
+      },
+      {
+        "Id": 51570,
+        "Codigo": "0709.002.294-3",
+        "Descricao": "CIRURGIA II",
+        "Semestre": "0",
+        "Apelido": "CIRURGIA II",
+        "CargaHorariaTeorico": 0,
+        "CargaHorariaPratica": 0,
+        "ListaPrequisitos": []
+      }
+    ]
+  },
+  {
+    "Id": 51543,
+    "Codigo": "0709.002.267-6",
+    "Tipo": "OBR",
+    "Descricao": "ESTÁGIO OBRIGATÓRIO EM CIRURGIA II",
+    "Semestre": 11,
+    "Apelido": "ESTÁGIO OBRIGATÓRIO EM CIRURGIA II",
+    "CargaHorariaTeorico": 320,
+    "CargaHorariaPratica": null,
+    "ListaPrequisitos": [
+      {
+        "Id": 51568,
+        "Codigo": "0709.002.292-5",
+        "Descricao": "ESTÁGIO OBRIGATÓRIO EM CIRURGIA I",
+        "Semestre": "0",
+        "Apelido": "ESTÁGIO OBRIGATÓRIO EM CIRURGIA I",
+        "CargaHorariaTeorico": 0,
+        "CargaHorariaPratica": 0,
+        "ListaPrequisitos": []
+      },
+      {
+        "Id": 51569,
+        "Codigo": "0709.002.293-4",
+        "Descricao": "ESTÁGIO OBRIGATÓRIO EM URGÊNCIAS E EMERGÊNCIAS CIRÚRGICAS",
+        "Semestre": "0",
+        "Apelido": "ESTÁGIO OBRIGATÓRIO EM URGÊNCIAS E EMERGÊNCIAS CIRÚRGICAS",
+        "CargaHorariaTeorico": 0,
+        "CargaHorariaPratica": 0,
+        "ListaPrequisitos": []
+      }
+    ]
+  },
+  {
+    "Id": 51549,
+    "Codigo": "0709.002.273-8",
+    "Tipo": "OBR",
+    "Descricao": "ESTÁGIO OBRIGATÓRIO EM PEDIATRIA II",
+    "Semestre": 11,
+    "Apelido": "ESTÁGIO OBRIGATÓRIO EM PEDIATRIA II",
+    "CargaHorariaTeorico": 320,
+    "CargaHorariaPratica": null,
+    "ListaPrequisitos": [
+      {
+        "Id": 51548,
+        "Codigo": "0709.002.272-9",
+        "Descricao": "ESTÁGIO OBRIGATÓRIO EM PEDIATRIA I",
+        "Semestre": "0",
+        "Apelido": "ESTÁGIO OBRIGATÓRIO EM PEDIATRIA I",
+        "CargaHorariaTeorico": 0,
+        "CargaHorariaPratica": 0,
+        "ListaPrequisitos": []
+      }
+    ]
+  },
+  {
+    "Id": 51550,
+    "Codigo": "0709.002.274-7",
+    "Tipo": "OBR",
+    "Descricao": "ESTÁGIO OBRIGATÓRIO EM SAÚDE DA MULHER II",
+    "Semestre": 11,
+    "Apelido": "ESTÁGIO OBRIGATÓRIO EM SAÚDE DA MULHER II",
+    "CargaHorariaTeorico": 160,
+    "CargaHorariaPratica": null,
+    "ListaPrequisitos": [
+      {
+        "Id": 51557,
+        "Codigo": "0709.002.281-8",
+        "Descricao": "ESTÁGIO OBRIGATÓRIO EM SAÚDE DA MULHER I",
+        "Semestre": "0",
+        "Apelido": "ESTÁGIO OBRIGATÓRIO EM SAÚDE DA MULHER I",
+        "CargaHorariaTeorico": 0,
+        "CargaHorariaPratica": 0,
+        "ListaPrequisitos": []
+      }
+    ]
+  },
+  {
+    "Id": 51565,
+    "Codigo": "0709.002.289-0",
+    "Tipo": "OBR",
+    "Descricao": "ESTÁGIO OBRIGATÓRIO EM ATENÇÃO BÁSICA: MEDICINA DA FAMÍLIA, COMUNIDADE E SAÚDE COLETIVA III",
+    "Semestre": 12,
+    "Apelido": "ESTÁGIO OBRIGATÓRIO EM ATENÇÃO BÁSICA: MEDICINA DA FAMÍLIA, COMUNIDADE E SAÚDE COLETIVA III",
+    "CargaHorariaTeorico": 160,
+    "CargaHorariaPratica": null,
+    "ListaPrequisitos": [
+      {
+        "Id": 51556,
+        "Codigo": "0709.002.280-9",
+        "Descricao": "ESTÁGIO OBRIGATÓRIO EM ATENÇÃO BÁSICA: MEDICINA DA FAMÍLIA, COMUNIDADE E SAÚDE COLETIVA II",
+        "Semestre": "0",
+        "Apelido": "ESTÁGIO OBRIGATÓRIO EM ATENÇÃO BÁSICA: MEDICINA DA FAMÍLIA, COMUNIDADE E SAÚDE COLETIVA II",
+        "CargaHorariaTeorico": 0,
+        "CargaHorariaPratica": 0,
+        "ListaPrequisitos": []
+      }
+    ]
+  },
+  {
+    "Id": 51551,
+    "Codigo": "0709.002.275-6",
+    "Tipo": "OBR",
+    "Descricao": "ESTÁGIO OBRIGATÓRIO EM ATENÇÃO BÁSICA: MEDICINA DA FAMÍLIA E COMUNIDADE E SAÚDE COLETIVA IV",
+    "Semestre": 12,
+    "Apelido": "ESTÁGIO OBRIGATÓRIO EM ATENÇÃO BÁSICA: MEDICINA DA FAMÍLIA E COMUNIDADE E SAÚDE COLETIVA IV",
+    "CargaHorariaTeorico": 160,
+    "CargaHorariaPratica": null,
+    "ListaPrequisitos": [
+      {
+        "Id": 51556,
+        "Codigo": "0709.002.280-9",
+        "Descricao": "ESTÁGIO OBRIGATÓRIO EM ATENÇÃO BÁSICA: MEDICINA DA FAMÍLIA, COMUNIDADE E SAÚDE COLETIVA II",
+        "Semestre": "0",
+        "Apelido": "ESTÁGIO OBRIGATÓRIO EM ATENÇÃO BÁSICA: MEDICINA DA FAMÍLIA, COMUNIDADE E SAÚDE COLETIVA II",
+        "CargaHorariaTeorico": 0,
+        "CargaHorariaPratica": 0,
+        "ListaPrequisitos": []
+      }
+    ]
+  },
+  {
+    "Id": 51554,
+    "Codigo": "0709.002.278-3",
+    "Tipo": "OBR",
+    "Descricao": "ESTÁGIO OBRIGATÓRIO EM CLÍNICA MÉDICA II",
+    "Semestre": 12,
+    "Apelido": "ESTÁGIO OBRIGATÓRIO EM CLÍNICA MÉDICA II",
+    "CargaHorariaTeorico": 320,
+    "CargaHorariaPratica": null,
+    "ListaPrequisitos": [
+      {
+        "Id": 51553,
+        "Codigo": "0709.002.277-4",
+        "Descricao": "ESTÁGIO OBRIGATÓRIO EM CLÍNICA MÉDICA I",
+        "Semestre": "0",
+        "Apelido": "ESTÁGIO OBRIGATÓRIO EM CLÍNICA MÉDICA I",
+        "CargaHorariaTeorico": 0,
+        "CargaHorariaPratica": 0,
+        "ListaPrequisitos": []
+      }
+    ]
+  },
+  {
+    "Id": 43673,
+    "Codigo": "0709.001.071-9",
+    "Tipo": "OPT",
+    "Descricao": "AÇÕES EDUCATIVAS DE SAÚDE - SAÚDE E EDUCAÇÃO POPULAR - EDUCAÇÃO POPULAR E SAÚDE - PRÁTICAS EDUCATIVAS DE SAÚDE",
+    "Semestre": 99,
+    "Apelido": "AÇÕES EDUCATIVAS DE SAÚDE - SAÚDE E EDUCAÇÃO POPULAR - EDUCAÇÃO POPULAR E SAÚDE - PRÁTICAS EDUCATIVAS DE SAÚDE",
+    "CargaHorariaTeorico": 34,
+    "CargaHorariaPratica": null,
+    "ListaPrequisitos": []
+  },
+  {
+    "Id": 39062,
+    "Codigo": "0709.000.679-5",
+    "Tipo": "OPT",
+    "Descricao": "AMBIENTE, SAÚDE E SOCIEDADE",
+    "Semestre": 99,
+    "Apelido": "AMBIENTE, SAÚDE E SOCIEDADE",
+    "CargaHorariaTeorico": 34,
+    "CargaHorariaPratica": null,
+    "ListaPrequisitos": []
+  },
+  {
+    "Id": 43595,
+    "Codigo": "0709.000.993-2",
+    "Tipo": "OPT",
+    "Descricao": "ANÁLISE E INTERPRETAÇÃO DE EXAMES LABORATORIAIS",
+    "Semestre": 99,
+    "Apelido": "ANÁLISE E INTERPRETAÇÃO DE EXAMES LABORATORIAIS",
+    "CargaHorariaTeorico": 68,
+    "CargaHorariaPratica": null,
+    "ListaPrequisitos": []
+  },
+  {
+    "Id": 46087,
+    "Codigo": "0709.001.346-1",
+    "Tipo": "OPT",
+    "Descricao": "ANEMIAS HEREDITÁRIAS E ADQUIRIDAS: FISIOPATOLOGIA E DIAGNÓSTICO DIFERENCIAL",
+    "Semestre": 99,
+    "Apelido": "ANEMIAS HEREDITÁRIAS E ADQUIRIDAS: FISIOPATOLOGIA E DIAGNÓSTICO DIFERENCIAL",
+    "CargaHorariaTeorico": 34,
+    "CargaHorariaPratica": null,
+    "ListaPrequisitos": []
+  },
+  {
+    "Id": 46073,
+    "Codigo": "0709.001.332-7",
+    "Tipo": "OPT",
+    "Descricao": "APRENDIZADO ANATÔMICO PELA DISSECAÇÃO",
+    "Semestre": 99,
+    "Apelido": "APRENDIZADO ANATÔMICO PELA DISSECAÇÃO",
+    "CargaHorariaTeorico": 51,
+    "CargaHorariaPratica": null,
+    "ListaPrequisitos": []
+  },
+  {
+    "Id": 46095,
+    "Codigo": "0709.001.354-1",
+    "Tipo": "OPT",
+    "Descricao": "ASPECTOS BIOQUÍMICOS, IMUNOPATOLÓGICOS E TERAPÊUTICOS DE DOENÇAS INFECCIOSAS E NÃO INFECCIOSAS",
+    "Semestre": 99,
+    "Apelido": "ASPECTOS BIOQUÍMICOS, IMUNOPATOLÓGICOS E TERAPÊUTICOS DE DOENÇAS INFECCIOSAS E NÃO INFECCIOSAS",
+    "CargaHorariaTeorico": 68,
+    "CargaHorariaPratica": null,
+    "ListaPrequisitos": []
+  },
+  {
+    "Id": 46083,
+    "Codigo": "0709.001.342-5",
+    "Tipo": "OPT",
+    "Descricao": "BIOESTATÍSTICA BÁSICA",
+    "Semestre": 99,
+    "Apelido": "BIOESTATÍSTICA BÁSICA",
+    "CargaHorariaTeorico": 51,
+    "CargaHorariaPratica": null,
+    "ListaPrequisitos": []
+  },
+  {
+    "Id": 43609,
+    "Codigo": "0709.001.007-6",
+    "Tipo": "OPT",
+    "Descricao": "CIRURGIA VASCULAR E ENDOVASCULAR",
+    "Semestre": 99,
+    "Apelido": "CIRURGIA VASCULAR E ENDOVASCULAR",
+    "CargaHorariaTeorico": 51,
+    "CargaHorariaPratica": null,
+    "ListaPrequisitos": []
+  },
+  {
+    "Id": 43611,
+    "Codigo": "0709.001.009-4",
+    "Tipo": "OPT",
+    "Descricao": "CUIDADOS PALIATIVOS EM SAÚDE",
+    "Semestre": 99,
+    "Apelido": "CUIDADOS PALIATIVOS EM SAÚDE",
+    "CargaHorariaTeorico": 51,
+    "CargaHorariaPratica": null,
+    "ListaPrequisitos": []
+  },
+  {
+    "Id": 43592,
+    "Codigo": "0709.000.990-5",
+    "Tipo": "OPT",
+    "Descricao": "DIREITO E SAÚDE NO BRASIL",
+    "Semestre": 99,
+    "Apelido": "DIREITO E SAÚDE NO BRASIL",
+    "CargaHorariaTeorico": 68,
+    "CargaHorariaPratica": null,
+    "ListaPrequisitos": []
+  },
+  {
+    "Id": 46085,
+    "Codigo": "0709.001.344-3",
+    "Tipo": "OPT",
+    "Descricao": "DOENÇAS EMERGENTES, RE-EMERGENTES E NEGLIGENCIADAS",
+    "Semestre": 99,
+    "Apelido": "DOENÇAS EMERGENTES, RE-EMERGENTES E NEGLIGENCIADAS",
+    "CargaHorariaTeorico": 68,
+    "CargaHorariaPratica": null,
+    "ListaPrequisitos": []
+  },
+  {
+    "Id": 43680,
+    "Codigo": "0709.001.078-2",
+    "Tipo": "OPT",
+    "Descricao": "EDUCAÇÃO, CIDADANIA E DIREITOS HUMANOS",
+    "Semestre": 99,
+    "Apelido": "EDUCAÇÃO, CIDADANIA E DIREITOS HUMANOS",
+    "CargaHorariaTeorico": 34,
+    "CargaHorariaPratica": null,
+    "ListaPrequisitos": []
+  },
+  {
+    "Id": 35261,
+    "Codigo": "0709.000.318-4",
+    "Tipo": "OPT",
+    "Descricao": "EDUCAÇÃO DAS RELAÇÕES ÉTNICO-RACIAIS NO BRASIL",
+    "Semestre": 99,
+    "Apelido": "EDUCAÇÃO DAS RELAÇÕES ÉTNICO-RACIAIS NO BRASIL",
+    "CargaHorariaTeorico": 34,
+    "CargaHorariaPratica": null,
+    "ListaPrequisitos": []
+  },
+  {
+    "Id": 43593,
+    "Codigo": "0709.000.991-4",
+    "Tipo": "OPT",
+    "Descricao": "EDUCAÇÃO E SAÚDE NO CONTEXTO ESCOLAR",
+    "Semestre": 99,
+    "Apelido": "EDUCAÇÃO E SAÚDE NO CONTEXTO ESCOLAR",
+    "CargaHorariaTeorico": 51,
+    "CargaHorariaPratica": null,
+    "ListaPrequisitos": []
+  },
+  {
+    "Id": 43686,
+    "Codigo": "1991.000.004-3",
+    "Tipo": "OPT",
+    "Descricao": "EMPREENDEDORISMO E INOVAÇÃO",
+    "Semestre": 99,
+    "Apelido": "EMPREENDEDORISMO E INOVAÇÃO",
+    "CargaHorariaTeorico": 68,
+    "CargaHorariaPratica": null,
+    "ListaPrequisitos": []
+  },
+  {
+    "Id": 34565,
+    "Codigo": "0709.000.080-0",
+    "Tipo": "OPT",
+    "Descricao": "ESTUDO DE LIBRAS",
+    "Semestre": 99,
+    "Apelido": "ESTUDO DE LIBRAS",
+    "CargaHorariaTeorico": 51,
+    "CargaHorariaPratica": null,
+    "ListaPrequisitos": []
+  },
+  {
+    "Id": 43597,
+    "Codigo": "0709.000.995-0",
+    "Tipo": "OPT",
+    "Descricao": "ÉTICA E BIOÉTICA EM SAÚDE",
+    "Semestre": 99,
+    "Apelido": "ÉTICA E BIOÉTICA EM SAÚDE",
+    "CargaHorariaTeorico": 51,
+    "CargaHorariaPratica": null,
+    "ListaPrequisitos": []
+  },
+  {
+    "Id": 43660,
+    "Codigo": "0709.001.058-6",
+    "Tipo": "OPT",
+    "Descricao": "FARMACOLOGIA APLICADA ÀS PRINCIPAIS DOENÇAS METABÓLICAS",
+    "Semestre": 99,
+    "Apelido": "FARMACOLOGIA APLICADA ÀS PRINCIPAIS DOENÇAS METABÓLICAS",
+    "CargaHorariaTeorico": 68,
+    "CargaHorariaPratica": null,
+    "ListaPrequisitos": []
+  },
+  {
+    "Id": 43594,
+    "Codigo": "0709.000.992-3",
+    "Tipo": "OPT",
+    "Descricao": "FISIOPATOLOGIA E TERAPÊUTICA DE DOENÇAS CRÔNICAS",
+    "Semestre": 99,
+    "Apelido": "FISIOPATOLOGIA E TERAPÊUTICA DE DOENÇAS CRÔNICAS",
+    "CargaHorariaTeorico": 68,
+    "CargaHorariaPratica": null,
+    "ListaPrequisitos": []
+  },
+  {
+    "Id": 43596,
+    "Codigo": "0709.000.994-1",
+    "Tipo": "OPT",
+    "Descricao": "FUNDAMENTOS DA MEDICINA DE FAMÍLIA E COMUNIDADE",
+    "Semestre": 99,
+    "Apelido": "FUNDAMENTOS DA MEDICINA DE FAMÍLIA E COMUNIDADE",
+    "CargaHorariaTeorico": 68,
+    "CargaHorariaPratica": null,
+    "ListaPrequisitos": []
+  },
+  {
+    "Id": 46092,
+    "Codigo": "0709.001.351-4",
+    "Tipo": "OPT",
+    "Descricao": "FUNDAMENTOS DE FARMACOEPIDEMIOLOGIA CLÍNICA",
+    "Semestre": 99,
+    "Apelido": "FUNDAMENTOS DE FARMACOEPIDEMIOLOGIA CLÍNICA",
+    "CargaHorariaTeorico": 68,
+    "CargaHorariaPratica": null,
+    "ListaPrequisitos": []
+  },
+  {
+    "Id": 43598,
+    "Codigo": "0709.000.996-0",
+    "Tipo": "OPT",
+    "Descricao": "FUNDAMENTOS DO USO RACIONAL DE FÁRMACOS",
+    "Semestre": 99,
+    "Apelido": "FUNDAMENTOS DO USO RACIONAL DE FÁRMACOS",
+    "CargaHorariaTeorico": 51,
+    "CargaHorariaPratica": null,
+    "ListaPrequisitos": []
+  },
+  {
+    "Id": 43664,
+    "Codigo": "0709.001.062-0",
+    "Tipo": "OPT",
+    "Descricao": "GERENCIAMENTO DE DOENÇAS CRÔNICAS",
+    "Semestre": 99,
+    "Apelido": "GERENCIAMENTO DE DOENÇAS CRÔNICAS",
+    "CargaHorariaTeorico": 68,
+    "CargaHorariaPratica": null,
+    "ListaPrequisitos": []
+  },
+  {
+    "Id": 43662,
+    "Codigo": "0709.001.060-1",
+    "Tipo": "OPT",
+    "Descricao": "GESTÃO EM SAÚDE PÚBLICA",
+    "Semestre": 99,
+    "Apelido": "GESTÃO EM SAÚDE PÚBLICA",
+    "CargaHorariaTeorico": 68,
+    "CargaHorariaPratica": null,
+    "ListaPrequisitos": []
+  },
+  {
+    "Id": 43652,
+    "Codigo": "0709.001.050-3",
+    "Tipo": "OPT",
+    "Descricao": "GRUPOS, RODAS E ESPAÇOS DE CONVERSA: ESTRATÉGIAS DE ATENÇÃO À SAÚDE",
+    "Semestre": 99,
+    "Apelido": "GRUPOS, RODAS E ESPAÇOS DE CONVERSA: ESTRATÉGIAS DE ATENÇÃO À SAÚDE",
+    "CargaHorariaTeorico": 68,
+    "CargaHorariaPratica": null,
+    "ListaPrequisitos": []
+  },
+  {
+    "Id": 46094,
+    "Codigo": "0709.001.353-2",
+    "Tipo": "OPT",
+    "Descricao": "HUMANIZAÇÃO DO PARTO E DO NASCIMENTO",
+    "Semestre": 99,
+    "Apelido": "HUMANIZAÇÃO DO PARTO E DO NASCIMENTO",
+    "CargaHorariaTeorico": 34,
+    "CargaHorariaPratica": null,
+    "ListaPrequisitos": []
+  },
+  {
+    "Id": 46097,
+    "Codigo": "0709.001.356-0",
+    "Tipo": "OPT",
+    "Descricao": "IMUNOLOGIA CLÍNICA",
+    "Semestre": 99,
+    "Apelido": "IMUNOLOGIA CLÍNICA",
+    "CargaHorariaTeorico": 68,
+    "CargaHorariaPratica": null,
+    "ListaPrequisitos": []
+  },
+  {
+    "Id": 43588,
+    "Codigo": "0709.000.986-1",
+    "Tipo": "OPT",
+    "Descricao": "IMUNOPATOLOGIA E FARMACOLOGIA CLÍNICA DOS PROCESSOS INFECCIOSOS",
+    "Semestre": 99,
+    "Apelido": "IMUNOPATOLOGIA E FARMACOLOGIA CLÍNICA DOS PROCESSOS INFECCIOSOS",
+    "CargaHorariaTeorico": 68,
+    "CargaHorariaPratica": null,
+    "ListaPrequisitos": []
+  },
+  {
+    "Id": 40105,
+    "Codigo": "0709.000.839-9",
+    "Tipo": "OPT",
+    "Descricao": "INFECTOLOGIA E SUAS INTERFACES",
+    "Semestre": 99,
+    "Apelido": "INFECTOLOGIA E SUAS INTERFACES",
+    "CargaHorariaTeorico": 51,
+    "CargaHorariaPratica": null,
+    "ListaPrequisitos": []
+  },
+  {
+    "Id": 43608,
+    "Codigo": "0709.001.006-7",
+    "Tipo": "OPT",
+    "Descricao": "INFORMÁTICA APLICADA À MEDICINA",
+    "Semestre": 99,
+    "Apelido": "INFORMÁTICA APLICADA À MEDICINA",
+    "CargaHorariaTeorico": 34,
+    "CargaHorariaPratica": null,
+    "ListaPrequisitos": []
+  },
+  {
+    "Id": 46093,
+    "Codigo": "0709.001.352-3",
+    "Tipo": "OPT",
+    "Descricao": "INICIAÇÃO À DOCÊNCIA MÉDICA",
+    "Semestre": 99,
+    "Apelido": "INICIAÇÃO À DOCÊNCIA MÉDICA",
+    "CargaHorariaTeorico": 68,
+    "CargaHorariaPratica": null,
+    "ListaPrequisitos": []
+  },
+  {
+    "Id": 51545,
+    "Codigo": "0709.002.269-4",
+    "Tipo": "OPT",
+    "Descricao": "INTELIGÊNCIA ARTIFICIAL APLICADA A SAÚDE",
+    "Semestre": 99,
+    "Apelido": "INTELIGÊNCIA ARTIFICIAL APLICADA A SAÚDE",
+    "CargaHorariaTeorico": 68,
+    "CargaHorariaPratica": null,
+    "ListaPrequisitos": []
+  },
+  {
+    "Id": 46078,
+    "Codigo": "0709.001.337-2",
+    "Tipo": "OPT",
+    "Descricao": "INTRODUÇÃO À MEDICINA GENÔMICA",
+    "Semestre": 99,
+    "Apelido": "INTRODUÇÃO À MEDICINA GENÔMICA",
+    "CargaHorariaTeorico": 34,
+    "CargaHorariaPratica": null,
+    "ListaPrequisitos": []
+  },
+  {
+    "Id": 43613,
+    "Codigo": "0709.001.011-0",
+    "Tipo": "OPT",
+    "Descricao": "INTRODUÇÃO ÀS PRÁTICAS INTEGRATIVAS E COMPLEMENTARES EM SAÚDE",
+    "Semestre": 99,
+    "Apelido": "INTRODUÇÃO ÀS PRÁTICAS INTEGRATIVAS E COMPLEMENTARES EM SAÚDE",
+    "CargaHorariaTeorico": 34,
+    "CargaHorariaPratica": null,
+    "ListaPrequisitos": []
+  },
+  {
+    "Id": 43603,
+    "Codigo": "0709.001.001-1",
+    "Tipo": "OPT",
+    "Descricao": "INTRODUÇÃO ÀS PRÁTICAS LABORATORIAIS",
+    "Semestre": 99,
+    "Apelido": "INTRODUÇÃO ÀS PRÁTICAS LABORATORIAIS",
+    "CargaHorariaTeorico": 68,
+    "CargaHorariaPratica": null,
+    "ListaPrequisitos": []
+  },
+  {
+    "Id": 37831,
+    "Codigo": "0709.000.566-7",
+    "Tipo": "OPT",
+    "Descricao": "LÍNGUA INGLESA INSTRUMENTAL",
+    "Semestre": 99,
+    "Apelido": "LÍNGUA INGLESA INSTRUMENTAL",
+    "CargaHorariaTeorico": 34,
+    "CargaHorariaPratica": null,
+    "ListaPrequisitos": []
+  },
+  {
+    "Id": 43667,
+    "Codigo": "0709.001.065-7",
+    "Tipo": "OPT",
+    "Descricao": "MEDICINA LEGAL",
+    "Semestre": 99,
+    "Apelido": "MEDICINA LEGAL",
+    "CargaHorariaTeorico": 34,
+    "CargaHorariaPratica": null,
+    "ListaPrequisitos": []
+  },
+  {
+    "Id": 43615,
+    "Codigo": "0709.001.013-8",
+    "Tipo": "OPT",
+    "Descricao": "NEUROIMAGEM",
+    "Semestre": 99,
+    "Apelido": "NEUROIMAGEM",
+    "CargaHorariaTeorico": 51,
+    "CargaHorariaPratica": null,
+    "ListaPrequisitos": []
+  },
+  {
+    "Id": 46086,
+    "Codigo": "0709.001.345-2",
+    "Tipo": "OPT",
+    "Descricao": "NEUROIMUNOMODULAÇÃO: O PAPEL DA DISAUTONOMIA NA FISIOPATOLOGIA DE DOENÇAS CRÔNICAS INFLAMATÓRIAS",
+    "Semestre": 99,
+    "Apelido": "NEUROIMUNOMODULAÇÃO: O PAPEL DA DISAUTONOMIA NA FISIOPATOLOGIA DE DOENÇAS CRÔNICAS INFLAMATÓRIAS",
+    "CargaHorariaTeorico": 68,
+    "CargaHorariaPratica": null,
+    "ListaPrequisitos": []
+  },
+  {
+    "Id": 43668,
+    "Codigo": "0709.001.066-6",
+    "Tipo": "OPT",
+    "Descricao": "NEUROPSICOFARMACOLOGIA",
+    "Semestre": 99,
+    "Apelido": "NEUROPSICOFARMACOLOGIA",
+    "CargaHorariaTeorico": 68,
+    "CargaHorariaPratica": null,
+    "ListaPrequisitos": []
+  },
+  {
+    "Id": 43682,
+    "Codigo": "0709.001.080-8",
+    "Tipo": "OPT",
+    "Descricao": "ORTOPEDIA E CIRURGIA DE URGÊNCIA",
+    "Semestre": 99,
+    "Apelido": "ORTOPEDIA E CIRURGIA DE URGÊNCIA",
+    "CargaHorariaTeorico": 34,
+    "CargaHorariaPratica": null,
+    "ListaPrequisitos": []
+  },
+  {
+    "Id": 43601,
+    "Codigo": "0709.000.999-7",
+    "Tipo": "OPT",
+    "Descricao": "PLANTAS MEDICINAIS, FITOTERAPIA E FITOQUÍMICA",
+    "Semestre": 99,
+    "Apelido": "PLANTAS MEDICINAIS, FITOTERAPIA E FITOQUÍMICA",
+    "CargaHorariaTeorico": 51,
+    "CargaHorariaPratica": null,
+    "ListaPrequisitos": []
+  },
+  {
+    "Id": 40113,
+    "Codigo": "0709.000.847-0",
+    "Tipo": "OPT",
+    "Descricao": "PROMOÇÃO DE SAÚDE E QUALIDADE DE VIDA NO ENVELHECIMENTO",
+    "Semestre": 99,
+    "Apelido": "PROMOÇÃO DE SAÚDE E QUALIDADE DE VIDA NO ENVELHECIMENTO",
+    "CargaHorariaTeorico": 51,
+    "CargaHorariaPratica": null,
+    "ListaPrequisitos": []
+  },
+  {
+    "Id": 43617,
+    "Codigo": "0709.001.015-6",
+    "Tipo": "OPT",
+    "Descricao": "REGULAÇÃO, CONTROLE, AVALIAÇÃO E AUDITORIA EM SAÚDE",
+    "Semestre": 99,
+    "Apelido": "REGULAÇÃO, CONTROLE, AVALIAÇÃO E AUDITORIA EM SAÚDE",
+    "CargaHorariaTeorico": 51,
+    "CargaHorariaPratica": null,
+    "ListaPrequisitos": []
+  },
+  {
+    "Id": 43618,
+    "Codigo": "0709.001.016-5",
+    "Tipo": "OPT",
+    "Descricao": "SAÚDE E ESPIRITUALIDADE",
+    "Semestre": 99,
+    "Apelido": "SAÚDE E ESPIRITUALIDADE",
+    "CargaHorariaTeorico": 68,
+    "CargaHorariaPratica": null,
+    "ListaPrequisitos": []
+  },
+  {
+    "Id": 46067,
+    "Codigo": "0709.001.326-5",
+    "Tipo": "OPT",
+    "Descricao": "TÓPICOS ATUAIS EM ANESTESIOLOGIA",
+    "Semestre": 99,
+    "Apelido": "TÓPICOS ATUAIS EM ANESTESIOLOGIA",
+    "CargaHorariaTeorico": 34,
+    "CargaHorariaPratica": null,
+    "ListaPrequisitos": []
+  },
+  {
+    "Id": 46072,
+    "Codigo": "0709.001.331-8",
+    "Tipo": "OPT",
+    "Descricao": "TÓPICOS ATUAIS EM BIOLOGIA CELULAR - CONTEXTOS BÁSICOS E CLÍNICOS",
+    "Semestre": 99,
+    "Apelido": "TÓPICOS ATUAIS EM BIOLOGIA CELULAR - CONTEXTOS BÁSICOS E CLÍNICOS",
+    "CargaHorariaTeorico": 34,
+    "CargaHorariaPratica": null,
+    "ListaPrequisitos": []
+  },
+  {
+    "Id": 46068,
+    "Codigo": "0709.001.327-4",
+    "Tipo": "OPT",
+    "Descricao": "TÓPICOS ATUAIS EM CARDIOLOGIA",
+    "Semestre": 99,
+    "Apelido": "TÓPICOS ATUAIS EM CARDIOLOGIA",
+    "CargaHorariaTeorico": 34,
+    "CargaHorariaPratica": null,
+    "ListaPrequisitos": []
+  },
+  {
+    "Id": 43669,
+    "Codigo": "0709.001.067-5",
+    "Tipo": "OPT",
+    "Descricao": "TÓPICOS ATUAIS EM CIRURGIA",
+    "Semestre": 99,
+    "Apelido": "TÓPICOS ATUAIS EM CIRURGIA",
+    "CargaHorariaTeorico": 34,
+    "CargaHorariaPratica": null,
+    "ListaPrequisitos": []
+  },
+  {
+    "Id": 46166,
+    "Codigo": "0709.001.358-8",
+    "Tipo": "OPT",
+    "Descricao": "TÓPICOS ATUAIS EM DIABETOLOGIA",
+    "Semestre": 99,
+    "Apelido": "TÓPICOS ATUAIS EM DIABETOLOGIA",
+    "CargaHorariaTeorico": 34,
+    "CargaHorariaPratica": null,
+    "ListaPrequisitos": []
+  },
+  {
+    "Id": 46186,
+    "Codigo": "0709.001.378-4",
+    "Tipo": "OPT",
+    "Descricao": "TÓPICOS ATUAIS EM MASTOLOGIA",
+    "Semestre": 99,
+    "Apelido": "TÓPICOS ATUAIS EM MASTOLOGIA",
+    "CargaHorariaTeorico": 34,
+    "CargaHorariaPratica": null,
+    "ListaPrequisitos": []
+  },
+  {
+    "Id": 46069,
+    "Codigo": "0709.001.328-3",
+    "Tipo": "OPT",
+    "Descricao": "TÓPICOS ATUAIS EM NEFROLOGIA E UROLOGIA",
+    "Semestre": 99,
+    "Apelido": "TÓPICOS ATUAIS EM NEFROLOGIA E UROLOGIA",
+    "CargaHorariaTeorico": 34,
+    "CargaHorariaPratica": null,
+    "ListaPrequisitos": []
+  },
+  {
+    "Id": 43619,
+    "Codigo": "0709.001.017-4",
+    "Tipo": "OPT",
+    "Descricao": "TÓPICOS ATUAIS EM NEUROLOGIA, SAÚDE MENTAL E PSIQUIATRIA",
+    "Semestre": 99,
+    "Apelido": "TÓPICOS ATUAIS EM NEUROLOGIA, SAÚDE MENTAL E PSIQUIATRIA",
+    "CargaHorariaTeorico": 34,
+    "CargaHorariaPratica": null,
+    "ListaPrequisitos": []
+  },
+  {
+    "Id": 46066,
+    "Codigo": "0709.001.325-6",
+    "Tipo": "OPT",
+    "Descricao": "TÓPICOS ATUAIS EM PEDIATRIA",
+    "Semestre": 99,
+    "Apelido": "TÓPICOS ATUAIS EM PEDIATRIA",
+    "CargaHorariaTeorico": 34,
+    "CargaHorariaPratica": null,
+    "ListaPrequisitos": []
+  },
+  {
+    "Id": 46070,
+    "Codigo": "0709.001.329-2",
+    "Tipo": "OPT",
+    "Descricao": "TÓPICOS ATUAIS EM REUMATOLOGIA",
+    "Semestre": 99,
+    "Apelido": "TÓPICOS ATUAIS EM REUMATOLOGIA",
+    "CargaHorariaTeorico": 34,
+    "CargaHorariaPratica": null,
+    "ListaPrequisitos": []
+  },
+  {
+    "Id": 46063,
+    "Codigo": "0709.001.322-9",
+    "Tipo": "OPT",
+    "Descricao": "TÓPICOS ATUAIS EM TOXICOLOGIA",
+    "Semestre": 99,
+    "Apelido": "TÓPICOS ATUAIS EM TOXICOLOGIA",
+    "CargaHorariaTeorico": 34,
+    "CargaHorariaPratica": null,
+    "ListaPrequisitos": []
+  },
+  {
+    "Id": 46178,
+    "Codigo": "0709.001.370-1",
+    "Tipo": "OPT",
+    "Descricao": "TÓPICOS ATUAIS NO POTENCIAL TERAPÊUTICO DE CANABINOIDES",
+    "Semestre": 99,
+    "Apelido": "TÓPICOS ATUAIS NO POTENCIAL TERAPÊUTICO DE CANABINOIDES",
+    "CargaHorariaTeorico": 34,
+    "CargaHorariaPratica": null,
+    "ListaPrequisitos": []
+  },
+  {
+    "Id": 43624,
+    "Codigo": "0709.001.022-7",
+    "Tipo": "OPT",
+    "Descricao": "TÓPICOS AVANÇADOS DA ANATOMIA APLICADA À PALPAÇÃO E IMAGENOLOGIA",
+    "Semestre": 99,
+    "Apelido": "TÓPICOS AVANÇADOS DA ANATOMIA APLICADA À PALPAÇÃO E IMAGENOLOGIA",
+    "CargaHorariaTeorico": 51,
+    "CargaHorariaPratica": null,
+    "ListaPrequisitos": []
+  },
+  {
+    "Id": 46065,
+    "Codigo": "0709.001.324-7",
+    "Tipo": "OPT",
+    "Descricao": "TÓPICOS AVANÇADOS EM DOR",
+    "Semestre": 99,
+    "Apelido": "TÓPICOS AVANÇADOS EM DOR",
+    "CargaHorariaTeorico": 34,
+    "CargaHorariaPratica": null,
+    "ListaPrequisitos": []
+  },
+  {
+    "Id": 46088,
+    "Codigo": "0709.001.347-0",
+    "Tipo": "OPT",
+    "Descricao": "TÓPICOS AVANÇADOS EM EMBRIOLOGIA CLÍNICA",
+    "Semestre": 99,
+    "Apelido": "TÓPICOS AVANÇADOS EM EMBRIOLOGIA CLÍNICA",
+    "CargaHorariaTeorico": 51,
+    "CargaHorariaPratica": null,
+    "ListaPrequisitos": []
+  },
+  {
+    "Id": 46172,
+    "Codigo": "0709.001.364-0",
+    "Tipo": "OPT",
+    "Descricao": "TÓPICOS AVANÇADOS EM GINECOLOGIA E OBSTETRÍCIA",
+    "Semestre": 99,
+    "Apelido": "TÓPICOS AVANÇADOS EM GINECOLOGIA E OBSTETRÍCIA",
+    "CargaHorariaTeorico": 34,
+    "CargaHorariaPratica": null,
+    "ListaPrequisitos": []
+  },
+  {
+    "Id": 46177,
+    "Codigo": "0709.001.369-5",
+    "Tipo": "OPT",
+    "Descricao": "TÓPICOS AVANÇADOS EM NEONATOLOGIA",
+    "Semestre": 99,
+    "Apelido": "TÓPICOS AVANÇADOS EM NEONATOLOGIA",
+    "CargaHorariaTeorico": 34,
+    "CargaHorariaPratica": null,
+    "ListaPrequisitos": []
+  },
+  {
+    "Id": 43670,
+    "Codigo": "0709.001.068-4",
+    "Tipo": "OPT",
+    "Descricao": "TÓPICOS AVANÇADOS EM NEUROCIÊNCIAS",
+    "Semestre": 99,
+    "Apelido": "TÓPICOS AVANÇADOS EM NEUROCIÊNCIAS",
+    "CargaHorariaTeorico": 51,
+    "CargaHorariaPratica": null,
+    "ListaPrequisitos": []
+  },
+  {
+    "Id": 46169,
+    "Codigo": "0709.001.361-2",
+    "Tipo": "OPT",
+    "Descricao": "TÓPICOS AVANÇADOS EM RADIOLOGIA",
+    "Semestre": 99,
+    "Apelido": "TÓPICOS AVANÇADOS EM RADIOLOGIA",
+    "CargaHorariaTeorico": 34,
+    "CargaHorariaPratica": null,
+    "ListaPrequisitos": []
+  },
+  {
+    "Id": 46064,
+    "Codigo": "0709.001.323-8",
+    "Tipo": "OPT",
+    "Descricao": "TÓPICOS AVANÇADOS NO DIAGNÓSTICO DAS DOENÇAS INFECCIOSAS",
+    "Semestre": 99,
+    "Apelido": "TÓPICOS AVANÇADOS NO DIAGNÓSTICO DAS DOENÇAS INFECCIOSAS",
+    "CargaHorariaTeorico": 51,
+    "CargaHorariaPratica": null,
+    "ListaPrequisitos": []
+  },
+  {
+    "Id": 46082,
+    "Codigo": "0709.001.341-6",
+    "Tipo": "OPT",
+    "Descricao": "TÓPICOS AVANÇADOS NO DIAGNÓSTICO IMUNOLÓGICO",
+    "Semestre": 99,
+    "Apelido": "TÓPICOS AVANÇADOS NO DIAGNÓSTICO IMUNOLÓGICO",
+    "CargaHorariaTeorico": 51,
+    "CargaHorariaPratica": null,
+    "ListaPrequisitos": []
+  },
+  {
+    "Id": 51546,
+    "Codigo": "0709.002.270-0",
+    "Tipo": "OPT",
+    "Descricao": "TÓPICOS EM ACOLHIMENTO ACADÊMICO I",
+    "Semestre": 99,
+    "Apelido": "TÓPICOS EM ACOLHIMENTO ACADÊMICO I",
+    "CargaHorariaTeorico": 34,
+    "CargaHorariaPratica": null,
+    "ListaPrequisitos": []
+  },
+  {
+    "Id": 51544,
+    "Codigo": "0709.002.268-5",
+    "Tipo": "OPT",
+    "Descricao": "TÓPICOS EM ACOLHIMENTO ACADÊMICO II",
+    "Semestre": 99,
+    "Apelido": "TÓPICOS EM ACOLHIMENTO ACADÊMICO II",
+    "CargaHorariaTeorico": 34,
+    "CargaHorariaPratica": null,
+    "ListaPrequisitos": []
+  },
+  {
+    "Id": 46089,
+    "Codigo": "0709.001.348-0",
+    "Tipo": "OPT",
+    "Descricao": "TÓPICOS EM COMUNICAÇÃO CIENTÍFICA APLICADA A ÁREAS BIOMÉDICAS",
+    "Semestre": 99,
+    "Apelido": "TÓPICOS EM COMUNICAÇÃO CIENTÍFICA APLICADA A ÁREAS BIOMÉDICAS",
+    "CargaHorariaTeorico": 34,
+    "CargaHorariaPratica": null,
+    "ListaPrequisitos": []
+  },
+  {
+    "Id": 46061,
+    "Codigo": "0709.001.320-0",
+    "Tipo": "OPT",
+    "Descricao": "TÓPICOS EM ENDOCRINOLOGIA E NUTROLOGIA",
+    "Semestre": 99,
+    "Apelido": "TÓPICOS EM ENDOCRINOLOGIA E NUTROLOGIA",
+    "CargaHorariaTeorico": 34,
+    "CargaHorariaPratica": null,
+    "ListaPrequisitos": []
+  },
+  {
+    "Id": 46084,
+    "Codigo": "0709.001.343-4",
+    "Tipo": "OPT",
+    "Descricao": "TÓPICOS EM FARMACOLOGIA BASEADA EM EVIDÊNCIAS",
+    "Semestre": 99,
+    "Apelido": "TÓPICOS EM FARMACOLOGIA BASEADA EM EVIDÊNCIAS",
+    "CargaHorariaTeorico": 34,
+    "CargaHorariaPratica": null,
+    "ListaPrequisitos": []
+  },
+  {
+    "Id": 46090,
+    "Codigo": "0709.001.349-9",
+    "Tipo": "OPT",
+    "Descricao": "TÓPICOS EM FILOSOFIA APLICADA AO PENSAMENTO CIENTÍFICO",
+    "Semestre": 99,
+    "Apelido": "TÓPICOS EM FILOSOFIA APLICADA AO PENSAMENTO CIENTÍFICO",
+    "CargaHorariaTeorico": 34,
+    "CargaHorariaPratica": null,
+    "ListaPrequisitos": []
+  },
+  {
+    "Id": 46170,
+    "Codigo": "0709.001.362-1",
+    "Tipo": "OPT",
+    "Descricao": "TÓPICOS EM PSIQUIATRIA INFANTIL",
+    "Semestre": 99,
+    "Apelido": "TÓPICOS EM PSIQUIATRIA INFANTIL",
+    "CargaHorariaTeorico": 34,
+    "CargaHorariaPratica": null,
+    "ListaPrequisitos": []
+  },
+  {
+    "Id": 51547,
+    "Codigo": "0709.002.271-0",
+    "Tipo": "OPT",
+    "Descricao": "TÓPICOS ESPECIAIS DOS SISTEMAS BIOLÓGICOS",
+    "Semestre": 99,
+    "Apelido": "TÓPICOS ESPECIAIS DOS SISTEMAS BIOLÓGICOS",
+    "CargaHorariaTeorico": 68,
+    "CargaHorariaPratica": null,
+    "ListaPrequisitos": []
+  },
+  {
+    "Id": 46174,
+    "Codigo": "0709.001.366-8",
+    "Tipo": "OPT",
+    "Descricao": "TÓPICOS ESPECIAIS EM ALERGOLOGIA",
+    "Semestre": 99,
+    "Apelido": "TÓPICOS ESPECIAIS EM ALERGOLOGIA",
+    "CargaHorariaTeorico": 34,
+    "CargaHorariaPratica": null,
+    "ListaPrequisitos": []
+  },
+  {
+    "Id": 46179,
+    "Codigo": "0709.001.371-0",
+    "Tipo": "OPT",
+    "Descricao": "TÓPICOS ESPECIAIS EM COLOPROCTOLOGIA",
+    "Semestre": 99,
+    "Apelido": "TÓPICOS ESPECIAIS EM COLOPROCTOLOGIA",
+    "CargaHorariaTeorico": 34,
+    "CargaHorariaPratica": null,
+    "ListaPrequisitos": []
+  },
+  {
+    "Id": 46182,
+    "Codigo": "0709.001.374-8",
+    "Tipo": "OPT",
+    "Descricao": "TÓPICOS ESPECIAIS EM OFTALMOLOGIA",
+    "Semestre": 99,
+    "Apelido": "TÓPICOS ESPECIAIS EM OFTALMOLOGIA",
+    "CargaHorariaTeorico": 34,
+    "CargaHorariaPratica": null,
+    "ListaPrequisitos": []
+  },
+  {
+    "Id": 46176,
+    "Codigo": "0709.001.368-6",
+    "Tipo": "OPT",
+    "Descricao": "TÓPICOS ESPECIAIS EM SAÚDE DO TRABALHADOR",
+    "Semestre": 99,
+    "Apelido": "TÓPICOS ESPECIAIS EM SAÚDE DO TRABALHADOR",
+    "CargaHorariaTeorico": 34,
+    "CargaHorariaPratica": null,
+    "ListaPrequisitos": []
+  },
+  {
+    "Id": 46062,
+    "Codigo": "0709.001.321-0",
+    "Tipo": "OPT",
+    "Descricao": "TÓPICOS ESSENCIAIS PARA O ALEITAMENTO MATERNO",
+    "Semestre": 99,
+    "Apelido": "TÓPICOS ESSENCIAIS PARA O ALEITAMENTO MATERNO",
+    "CargaHorariaTeorico": 34,
+    "CargaHorariaPratica": null,
+    "ListaPrequisitos": []
+  },
+  {
+    "Id": 43620,
+    "Codigo": "0709.001.018-3",
+    "Tipo": "OPT",
+    "Descricao": "VIROLOGIA CLÍNICA",
+    "Semestre": 99,
+    "Apelido": "VIROLOGIA CLÍNICA",
+    "CargaHorariaTeorico": 51,
+    "CargaHorariaPratica": null,
+    "ListaPrequisitos": []
+  },
+  {
+    "Id": 43672,
+    "Codigo": "0709.001.070-0",
+    "Tipo": "OPT",
+    "Descricao": "ZOONOSES",
+    "Semestre": 99,
+    "Apelido": "ZOONOSES",
+    "CargaHorariaTeorico": 51,
+    "CargaHorariaPratica": null,
+    "ListaPrequisitos": []
+  }
+]

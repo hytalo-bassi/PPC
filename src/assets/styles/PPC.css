@@ -1,0 +1,280 @@
+@import url('https://fonts.googleapis.com/css2?family=Nunito:wght@300&family=Poppins:wght@400;600&display=swap');
+@import "tailwindcss";
+
+body {
+  @apply w-screen h-screen text-[white] overflow-auto;
+  font-family: "Poppins", sans-serif;
+}
+.discipline {
+  @apply flex flex-col justify-center overflow-hidden border bg-[rgb(0,0,0,0.2)] text-center h-[58px] px-2 rounded-lg border-[rgb(255,255,255,0.5)] transition-all;
+  
+  h1 {
+    @apply font-semibold text-[12px]/[12px] first-letter:uppercase;
+  }
+
+  p {
+    @apply hidden transition-all;
+  }
+}
+.discipline-focused {
+  @apply 
+    flex flex-col justify-center overflow-hidden border bg-[rgb(0,0,0,0.2)] h-[82px]
+    text-center px-2 rounded-lg border-[rgb(255,255,255,0.5)] transition-all
+    shadow-xl scale-x-110;
+
+  h1 {
+    @apply font-semibold text-[12px]/[12px] first-letter:uppercase;
+  }
+
+  p {
+    @apply block text-[8px] transition-all;
+  }
+}
+
+/*
+*{
+    text-align: center;
+    margin: 0px;
+    padding: 0px;
+    box-sizing: border-box;
+}
+
+body{
+    background: linear-gradient(90deg, rgb(81, 134, 239), rgb(218, 41, 41));
+}
+
+header{
+    display: flex;
+    flex-direction: column;
+    justify-content:space-between;
+    height: 11vh;
+    width: 100%;
+    color: aliceblue;
+}
+
+.Header_Content{
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+}
+
+.Titulo{
+    color: rgb(255, 255, 255);
+    font-size: 2.5vw;
+    letter-spacing: 0.2vw;
+    outline: none;
+    user-select: text;
+    -webkit-user-select: none;
+    top: 50%;
+    bottom: 50%;
+}
+
+#Options{
+    display: flex;
+    flex-direction: row;
+    align-items:center;
+    justify-content:center;
+    height: 34%;
+}
+
+label{
+    position: relative;
+    display: flex;
+    flex-direction: row;
+    justify-content:space-around;
+    align-items: center;
+    width: 25%;
+    height: 100%;
+    margin: 0px 2%;
+}
+
+label input{
+    position: relative;
+    display: flex;
+    appearance: none;
+    -webkit-appearance: none;
+}
+
+label span{
+    position: relative;
+    width: 20%;
+    height: 100%;
+}
+
+label input ~ span:before{
+    content: '';
+    position: absolute;
+    width: 100%;
+    height: 100%;
+    left: 0;
+    border-radius: 2vh;
+    background:rgba(255, 5, 55, 0.5);
+    transition: .5s;
+}
+
+label input:hover ~ span:before{
+    content: '';
+    position: absolute;
+    width: 100%;
+    height: 100%;
+    left: 0;
+    background:rgba(255, 5, 55, 0.9);
+    transition: .3s;
+}
+
+label input:checked ~ span:before{
+    content: '';
+    background: #00ccff;
+    transition: .5s;
+}
+
+label span::after{
+    content: '';
+    position: absolute;
+    left: 5%;
+    top: 12%;
+    aspect-ratio: 1/1;
+    height: 76%;
+    background: #fff;
+    border-radius: 50%;
+    transition: .5s;
+}
+
+label input:checked ~ span::after{
+    left: 67%;
+    transition: .5s;
+}
+
+label h1{
+    font-family: 'Nunito', sans-serif;
+    font-size: 1.1vw;
+}
+
+.Line{
+    content: '';
+    display: flex;
+    height: 0.5px;
+    width: 80%;
+    justify-content: center;
+    background-color: rgba(255, 255, 255, 0.5);
+    margin: 1% auto;
+}
+
+
+.CCD h1{
+    font-size: 1.2vw;
+}
+
+.CCD p{
+    font-size: 1vw;
+}
+
+.CCD{
+    position: relative;
+    color: #fff;
+    border-radius: 2vh;
+    display: flex;
+    flex-direction: column;
+    justify-content:space-around;
+    align-items:center;
+    height: 95%;
+    width: 16%;
+    padding: 1%;
+    background-color:rgb(0, 0, 0, 0.2);
+    border: 0.3vh solid rgba(255, 255, 255, 0.4);
+    transition: 0.5s;
+    overflow: hidden;
+}
+
+.CCD:hover{
+    height: 100%;
+    width: 16%;
+    padding: 0 1%;
+    background-color:rgb(255, 255, 255, 0.1);
+}
+
+.CCD::before{
+    content: '';
+    position:absolute;
+    top: 0;
+    left: 95%;
+    width: 1vw;
+    height: 100%;
+    transform: skewX(-45deg) translateX(10vw);
+    transition: 0.4s;
+}
+
+.CCD:hover::before{
+    background-color: rgba(255, 255, 255, 0.2);
+    transform: skewX(-45deg) translateX(-30vw);
+}
+
+.BT_CCD{
+    display: none;
+    margin-top: 5%;
+    width: 50%;
+    height: 15%;
+    background: rgba(255, 255, 255, 0.1);
+    border: 0.3vh solid rgba(255, 255, 255, 0.7);
+    border-radius: 2vh;
+    font-family: 'Poppins', sans-serif;
+    font-size: 0.8vw;
+    color: #ffffff;
+    transition: 0.5s;
+}
+
+.CCD:hover .BT_CCD{
+    display:initial;
+}
+
+.CCD:hover .BT_CCD:hover{
+    width: 55%;
+    height: 17%;
+    font-size: 0.9vw;
+    transition: .5s;
+}
+
+#Info_CCD{
+    display: hidden;
+    margin: auto;
+    width: 70%;
+    height: 50vh;
+    padding: 1%;
+    background: rgba(255, 255, 255, 0.1);
+    border: 0.2vh solid rgba(255, 255, 255, 0.5);
+    border-top: 0.4vh solid rgba(255, 255, 255, 0.8);
+    border-left: 0.4vh solid rgba(255, 255, 255, 0.8);
+    border-radius: 2vh;
+    flex-direction: column;
+    align-items: center;
+    justify-content:end;
+    color: rgb(255, 255, 255);
+    font-family: 'Nunito', sans-serif;
+    font-size: 2vw;
+    box-shadow: 0 0 1em rgba(0, 0, 0, 0.3);
+    backdrop-filter: blur(5px);
+}
+
+#Info_CCD::backdrop{
+    background: rgba(0, 0, 0, 0.5);
+}
+
+#Info_CCD button{
+    margin-top: 5%;
+    width: 15%;
+    height: 10%;
+    background: none;
+    border: 0.3vh solid rgba(255, 255, 255, 0.4);
+    border-radius: 1vh;
+    font-family: 'Poppins', sans-serif;
+    font-size: 1vw;
+    color: #ffffff;
+    transition: .5s;
+}
+
+#Info_CCD button:hover{
+    width: 17%;
+    height: 12%;
+    font-size: 1vw;
+    transition: .5s;
+} */

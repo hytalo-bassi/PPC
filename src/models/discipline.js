@@ -21,5 +21,5 @@ export class Discipline {
 
     this.requisitoDe = requisitoDe;
     if (!requisitoDe) this.requisitoDe = [];
-  }
+  } 
 }

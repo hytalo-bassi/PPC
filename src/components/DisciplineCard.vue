@@ -1,10 +1,35 @@
 <script setup>
-defineProps(['discipline'])
+import { ref } from 'vue';
+
+const focused = ref(false);
+
+const props = defineProps(['discipline'])
+const emits = defineEmits(['inFocus', 'outFocus'])
+
+const focusDiscipline = (b) => {
+    focused.value = b;
+}
+
+function handleFocus(signal) {
+    emits(signal);
+    if (signal === 'inFocus')
+        focused.value = true;
+    else
+        focused.value = false;
+}
+
+defineExpose({
+    focusDiscipline,
+    getDiscipline: () => props.discipline
+});
 </script>
 
 <template>
-    <div class="discipline">
-        <h1 class="font-semibold text-[12px]/[12px] first-letter:uppercase">{{ discipline.apelido }}</h1>
-        <p class="hidden">CH: {{ discipline.carga_horaria }} horas</p>
+    <div
+        @mouseenter="handleFocus('inFocus')"
+        @mouseleave="handleFocus('outFocus')"
+        :class="{ discipline: !focused, 'discipline-focused': focused }">
+        <h1>{{ discipline.apelido }}</h1>
+        <p>CH: {{ discipline.carga_horaria }} horas</p>
     </div>
 </template>

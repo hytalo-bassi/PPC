@@ -41,4 +41,4 @@ export function getDisciplines(codigo) {
         return semesters;
       })
       .catch((err) => console.error("Erro ao obter disciplinas!", err));
-  }
+}

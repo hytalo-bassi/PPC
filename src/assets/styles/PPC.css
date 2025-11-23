@@ -6,11 +6,26 @@ body {
   font-family: "Poppins", sans-serif;
 }
 .discipline {
-  @apply flex flex-col justify-center overflow-hidden border bg-[rgb(0,0,0,0.2)] text-center h-[58px] px-2 rounded-lg border-[rgb(255,255,255,0.5)];
-  /* rounded-lg text-center px-2 overflow-hidden border border-white/50 bg-black/20 h-22 flex flex-col justify-center */
+  @apply flex flex-col justify-center overflow-hidden border bg-[rgb(0,0,0,0.2)] text-center h-[58px] px-2 rounded-lg border-[rgb(255,255,255,0.5)] transition-all;
+  
+  h1 {
+    @apply font-semibold text-[12px]/[12px] first-letter:uppercase;
+  }
+
+  p {
+    @apply hidden transition-all;
+  }
 }
 .discipline-focused {
-  @apply flex flex-col justify-center overflow-hidden border bg-[rgb(0,0,0,0.2)] h-[82px] text-center px-2 rounded-lg border-[rgb(255,255,255,0.5)];
+  @apply flex flex-col justify-center overflow-hidden border bg-[rgb(0,0,0,0.2)] h-[82px] text-center px-2 rounded-lg border-[rgb(255,255,255,0.5)] transition-all;
+
+  h1 {
+    @apply font-semibold text-[12px]/[12px] first-letter:uppercase;
+  }
+
+  p {
+    @apply block text-[8px] transition-all;
+  }
 }
 
 /*

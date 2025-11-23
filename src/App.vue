@@ -20,9 +20,8 @@ onMounted(async () => {
     <header class="text-center w-full pb-12">
         <div class="Header_Content"><h1 class="text-4xl font-semibold">Quadro de Semestralização e Pré-Requisitos</h1></div>
     </header>
-    <div class="flex flex-row space-x-12 overflow-x-scroll">
-        <SemestersScreen :semesters="semesters"/>
-    </div>
+    <SemestersScreen :semesters="semesters"/>
+
     <div class="Line"></div>
   </div>
 </template>

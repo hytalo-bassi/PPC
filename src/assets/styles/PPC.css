@@ -17,7 +17,10 @@ body {
   }
 }
 .discipline-focused {
-  @apply flex flex-col justify-center overflow-hidden border bg-[rgb(0,0,0,0.2)] h-[82px] text-center px-2 rounded-lg border-[rgb(255,255,255,0.5)] transition-all;
+  @apply 
+    flex flex-col justify-center overflow-hidden border bg-[rgb(0,0,0,0.2)] h-[82px]
+    text-center px-2 rounded-lg border-[rgb(255,255,255,0.5)] transition-all
+    shadow-xl scale-x-110;
 
   h1 {
     @apply font-semibold text-[12px]/[12px] first-letter:uppercase;

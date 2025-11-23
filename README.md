@@ -16,7 +16,7 @@ Solução web desenvolvida para facilitar o processo de semestralização dos cu
 Para iniciar o servidor local e visualizar o projeto:
 
 ```bash
-python -m http.server 8000
+npm run dev
 ```
 
 Após executar o comando, acesse `http://localhost:8000` no seu navegador.
@@ -26,7 +26,7 @@ Após executar o comando, acesse `http://localhost:8000` no seu navegador.
 Para fazer o download dos dados mais recentes dos cursos:
 
 ```bash
-npm run dev
+python scripts/data_scraper.py
 ```
 
 ## Tecnologias Utilizadas

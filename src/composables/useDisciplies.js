@@ -1,5 +1,5 @@
 import { ref, watch } from 'vue';
-import { getDisciplines } from '../services/api.js';
+import { getDisciplines, getDisciplinesV2 } from '../services/api.js';
 
 /**
  * Composable Vue para gerenciamento de disciplinas de cursos.
@@ -110,8 +110,9 @@ export function useDisciplines(initialCode = '1905') {
     error.value = null;
     
     try {
-      semesters.value = await getDisciplines(code);
+      semesters.value = await getDisciplinesV2(code);
     } catch (e) {
+      console.error("Erro ao carregar disciplinas!", e);
       error.value = e;
     } finally {
       loading.value = false;

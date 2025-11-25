@@ -23,6 +23,26 @@ async function load_json(code) {
   return data;
 }
 
+// TODO(Documentar)
+function transformToDiscipline(obj) {
+  const tipo = obj.Tipo === "OBR" 
+    ? TipoCurso.Obrigatoria 
+    : TipoCurso.Optativa;
+  
+  const lista_pre_requisitos = obj.ListaPrequisitos.map((sub_disciplina_obj) => {
+    return sub_disciplina_obj.Id;
+  });
+  
+  return new Discipline(
+    obj.Apelido,
+    obj.CargaHorariaTeorico,
+    obj.Id,
+    tipo,
+    obj.Semestre,
+    lista_pre_requisitos
+  );
+}
+
 /**
  * Obtém e processa as disciplinas de um curso específico, organizando-as por semestre.
  * 
@@ -107,5 +127,38 @@ export async function getDisciplines(codigo) {
     mapIdDisciplinas[disciplina_obj.Id] = disciplina;
   }
   
+  return semesters;
+}
+
+
+// TODO(Documentar)
+export async function getDisciplinesV2(codigo) {
+  const idToDiscipline = new Map();
+  let semesters = [];
+  
+  const data = await load_json(codigo);
+
+  for (const disciplina_obj of data) {
+    const disciplina = transformToDiscipline(disciplina_obj);
+    
+    if (disciplina_obj.Semestre !== 99 && semesters.length < disciplina_obj.Semestre) {
+      for (let i = 0; i < disciplina_obj.Semestre - semesters.length; i++) {
+        semesters.push([]);
+      }
+    }
+
+    if (disciplina_obj.Semestre !== 99) {
+      semesters[disciplina_obj.Semestre - 1].push(disciplina);
+    }
+    
+    for (const id of disciplina.pre_requisitos) {
+      if (disciplina_obj.Semestre !== 99)
+        idToDiscipline.get(id).requisitoDe.push(disciplina.id_curso);
+    }
+
+
+    idToDiscipline.set(disciplina.id_curso, disciplina);
+  }
+
   return semesters;
 }

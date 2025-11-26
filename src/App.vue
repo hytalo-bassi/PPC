@@ -1,6 +1,6 @@
 <script setup>
 import SemestersScreen from './components/SemestersScreen.vue';
-import { useDisciplines } from './composables/useDisciplies.js';
+import { useSemestralizacaoGrafo } from './composables/useDiscipline.js';
 import { ref } from 'vue';
 
 /**
@@ -22,7 +22,7 @@ import { ref } from 'vue';
  * - Erro: Card de erro com opção de retry
  */
 
-const { courseCode, semesters, loading, error } = useDisciplines('1905');
+const { codigoCurso, semestres, carregando, erro } = useSemestralizacaoGrafo('1905');
 const inputValue = ref('1905');
 
 /**
@@ -53,9 +53,10 @@ const inputValue = ref('1905');
  */
 const handleInput = () => {
   if (/^\d{4}$/.test(inputValue.value)) {
-    courseCode.value = inputValue.value;
+    codigoCurso.value = inputValue.value;
   }
 };
+
 </script>
 
 <template>
@@ -80,7 +81,7 @@ const handleInput = () => {
           @input="handleInput"
         />
         
-        <div v-if="loading" class="ml-1">
+        <div v-if="carregando" class="ml-1">
           <div class="animate-spin h-4 w-4 border-2 border-white border-t-transparent rounded-full"></div>
         </div>
         
@@ -90,16 +91,16 @@ const handleInput = () => {
       </div>
     </header>
 
-    <div v-if="loading" class="flex flex-col items-center justify-center py-20">
+    <div v-if="carregando" class="flex flex-col items-center justify-center py-20">
       <div class="animate-spin h-12 w-12 border-4 border-white border-t-transparent rounded-full mb-4"></div>
       <p class="text-white text-xl font-semibold">Carregando disciplinas...</p>
     </div>
 
-    <div v-else-if="error" class="flex flex-col items-center justify-center py-20">
+    <div v-else-if="erro" class="flex flex-col items-center justify-center py-20">
       <div class="bg-red-500/20 border-2 border-red-300 rounded-lg p-8 max-w-md">
         <div class="text-6xl mb-4">⚠️</div>
         <h2 class="text-white text-2xl font-bold mb-2">Erro ao carregar dados</h2>
-        <p class="text-red-100 mb-4">{{ error.message || 'Não foi possível carregar as disciplinas do curso.' }}</p>
+        <p class="text-red-100 mb-4">{{ erro.message || 'Não foi possível carregar as disciplinas do curso.' }}</p>
 
         <button 
           @click="inputValue = '1905'; handleInput()"
@@ -111,7 +112,7 @@ const handleInput = () => {
     </div>
     
     <template v-else>
-      <SemestersScreen :semesters="semesters"/>
+      <SemestersScreen :semestres="semestres"/>
       <div class="Line"></div>
     </template>
   </div>

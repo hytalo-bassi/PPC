@@ -22,7 +22,7 @@ import { ref } from 'vue';
  * - Erro: Card de erro com opção de retry
  */
 
-const { codigoCurso, semestres, carregando, erro } = useSemestralizacaoGrafo('1905');
+const { codigoCurso, semestres, grafo, carregando, erro } = useSemestralizacaoGrafo('1905');
 const inputValue = ref('1905');
 
 /**
@@ -112,7 +112,7 @@ const handleInput = () => {
     </div>
     
     <template v-else>
-      <SemestersScreen :semestres="semestres"/>
+      <SemestersScreen :semestres="semestres" :grafo="grafo"/>
       <div class="Line"></div>
     </template>
   </div>

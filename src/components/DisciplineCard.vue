@@ -21,7 +21,9 @@ import { ref } from 'vue';
  * - Focado: classe 'discipline-focused' (hover ou foco programático)
  * - Desfocado: 'grayscale opacity-50' (quando outras disciplinas estão em foco)
  */
+
 const focused = ref(false);
+const clicked = ref(false);
 
 /**
  * Props do componente.
@@ -91,6 +93,11 @@ const focusDiscipline = (b) => {
   focused.value = b;
 };
 
+const disciplineClicked = (bool) => {
+  clicked.value = bool;
+  focusDiscipline(bool);
+}
+
 /**
  * Manipula eventos de foco acionados por interação do mouse.
  * 
@@ -120,6 +127,8 @@ const focusDiscipline = (b) => {
  * <div @mouseenter="handleFocus('inFocus')">...</div>
  */
 function handleFocus(signal) {
+  if (clicked.value) return;
+
   // Emite evento para componente pai
   emits(signal);
   
@@ -129,6 +138,14 @@ function handleFocus(signal) {
   } else {
     focused.value = false;
   }
+}
+
+function handleClick() {
+  clicked.value = !clicked.value;
+  focused.value = clicked.value;
+
+  if (clicked.value) emits("onClick");
+  else emits("offClick");
 }
 
 /**
@@ -162,6 +179,7 @@ function handleFocus(signal) {
  */
 defineExpose({
   focusDiscipline,
+  disciplineClicked,
   getDiscipline: () => props.discipline
 });
 </script>
@@ -170,6 +188,7 @@ defineExpose({
   <div
     @mouseenter="handleFocus('inFocus')"
     @mouseleave="handleFocus('outFocus')"
+    @click="handleClick()"
     :class="{ 
       discipline: !focused,
       'discipline-focused': focused, 

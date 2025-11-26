@@ -27,11 +27,12 @@ import DisciplineCard from './DisciplineCard.vue';
 /**
  * Props do componente.
  * 
- * @property {Array<Array<Discipline>>} semesters - Array bidimensional contendo disciplinas organizadas por semestre.
+ * @property {Array<Array<Discipline>>} semestres - Array bidimensional contendo disciplinas organizadas por semestre.
  *           Cada índice representa um semestre (0-indexed) com um array de objetos Discipline.
  * 
+ * @property {DisciplinesGraph} grafo - Representa um grafo de relações entre as matérias.
  * @example
- * // Estrutura esperada
+ * // Estrutura esperada de semestres
  * [
  *   [ // Semestre 1
  *     { id_curso: '12345', apelido: 'algoritmos', pre_requisitos: [], ... },
@@ -45,30 +46,44 @@ import DisciplineCard from './DisciplineCard.vue';
 const props = defineProps({
   semestres: {
     default: []
-  }
+  },
+  grafo: {
+    default: null
+  },
 });
 
 const elementRefsById = ref({});
 const grayScaleMode = ref(false);
+const proximasDisciplinas = ref(false);
 
 const TEMPO_DE_EFEITO_CASCATA_EM_MS = 75;
 
-function configuraFocoListaDeDisciplinas({listaDeDisciplinas, foco = true, recursivo = true, sub = true}) {
+function focoCascataDisciplinas({ id, foco = true, recursivo = true, sub = true, proximas = false }) {
   grayScaleMode.value = foco;
+  if (!props.grafo) return;
+  
+  const listaRecursiva = proximas ?
+    props.grafo.getNextDisciplines(id) : props.grafo.getPreRequisites(id);
 
-  for (const id of listaDeDisciplinas) {
-    const el = elementRefsById.value[id];
-    const subPreRequisites = el.getDiscipline().pre_requisitos;
+  if (listaRecursiva.length === 0) return;
+
+  for (const idImediato of listaRecursiva) {
+    const el = elementRefsById.value[idImediato];
     
-    el.focusDiscipline(foco);
+    if (proximas) {
+      el.disciplineClicked(foco);
+    } else {
+      el.focusDiscipline(foco);
+    }
     
-    if (recursivo && subPreRequisites.length > 0) {
+    if (recursivo) {
       setTimeout(
-        () => configuraFocoListaDeDisciplinas({
-          listaDeDisciplinas: subPreRequisites,
+        () => focoCascataDisciplinas({
+          id: idImediato,
           foco,
           recursivo,
-          sub
+          sub,
+          proximas,
         }),
         TEMPO_DE_EFEITO_CASCATA_EM_MS
       );
@@ -86,12 +101,21 @@ function configuraFocoListaDeDisciplinas({listaDeDisciplinas, foco = true, recur
       <div class="flex justify-around flex-col h-full">
         <DisciplineCard
           v-for="discipline in semestres[i - 1]"
-          @inFocus="configuraFocoListaDeDisciplinas({
-            listaDeDisciplinas: discipline.pre_requisitos
+          @inFocus="focoCascataDisciplinas({
+            id: discipline.id_curso
           })"
-          @outFocus="configuraFocoListaDeDisciplinas({
-            listaDeDisciplinas: discipline.pre_requisitos,
+          @outFocus="focoCascataDisciplinas({
+            id: discipline.id_curso,
             foco: false
+          })"
+          @onClick="focoCascataDisciplinas({
+            id: discipline.id_curso,
+            proximas: true,
+          })"
+          @offClick="focoCascataDisciplinas({
+            id: discipline.id_curso,
+            foco: false,
+            proximas: true,
           })"
           :key="discipline.id_curso"
           :ref="el => elementRefsById[discipline.id_curso] = el"

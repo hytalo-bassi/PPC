@@ -42,61 +42,36 @@ import DisciplineCard from './DisciplineCard.vue';
  *   ]
  * ]
  */
-defineProps(['semesters']);
+const props = defineProps({
+  semestres: {
+    default: []
+  }
+});
 
 const elementRefsById = ref({});
-
 const grayScaleMode = ref(false);
 
-/**
- * Foca recursivamente uma disciplina e todos os seus pré-requisitos.
- * 
- * @function focusPreRequisites
- * @param {Array<string|number>} pre_requisites_id - Array de IDs das disciplinas a serem focadas.
- * @param {boolean} [b=true] - Se true, ativa o foco; se false, desativa o foco.
- * @param {boolean} [full=true] - Se true, processa pré-requisitos recursivamente (cadeia completa);
- *                                se false, processa apenas o nível direto.
- * @returns {void}
- * 
- * @description
- * Implementa o sistema de destaque visual de dependências entre disciplinas.
- * Percorre recursivamente a árvore de pré-requisitos, ativando o modo de foco
- * em cada disciplina encontrada.
- * 
- * **Algoritmo:**
- * 1. Ativa/desativa o modo grayscale global
- * 2. Para cada ID de pré-requisito:
- *    a. Busca a referência do componente no mapa
- *    b. Recupera os pré-requisitos da disciplina
- *    c. Ativa/desativa o foco visual no componente
- *    d. Se `full=true` e há sub-pré-requisitos, chama recursivamente
- * 
- * **Recursão:**
- * - Profundidade ilimitada (segue toda a cadeia de dependências)
- * - Pode processar árvores complexas de pré-requisitos
- * - Exemplo: A → B → C → D (todos destacados quando hover em A)
- * 
- * **Casos de uso:**
- * - Hover sobre disciplina: `focusPreRequisites(ids, true, true)` - destaca cadeia completa
- * - Mouse sai da disciplina: `focusPreRequisites(ids, false, true)` - remove destaque
- * - Foco parcial: `focusPreRequisites(ids, true, false)` - apenas pré-requisitos diretos
- * 
- * @throws {TypeError} Pode lançar erro se `elementRefsById` não contiver o ID procurado
- *                     ou se o componente não implementar os métodos esperados.
- */
-function focusPreRequisites(pre_requisites_id, b = true, full = true) {
-  grayScaleMode.value = b;
-  
-  for (const id of pre_requisites_id) {
+const TEMPO_DE_EFEITO_CASCATA_EM_MS = 75;
+
+function configuraFocoListaDeDisciplinas({listaDeDisciplinas, foco = true, recursivo = true, sub = true}) {
+  grayScaleMode.value = foco;
+
+  for (const id of listaDeDisciplinas) {
     const el = elementRefsById.value[id];
-    
     const subPreRequisites = el.getDiscipline().pre_requisitos;
     
-    el.focusDiscipline(b);
+    el.focusDiscipline(foco);
     
-    // Se modo recursivo ativo e há sub-pré-requisitos, processa recursivamente
-    if (full && subPreRequisites.length > 0) {
-      focusPreRequisites(subPreRequisites, b, full);
+    if (recursivo && subPreRequisites.length > 0) {
+      setTimeout(
+        () => configuraFocoListaDeDisciplinas({
+          listaDeDisciplinas: subPreRequisites,
+          foco,
+          recursivo,
+          sub
+        }),
+        TEMPO_DE_EFEITO_CASCATA_EM_MS
+      );
     }
   }
 }
@@ -104,21 +79,29 @@ function focusPreRequisites(pre_requisites_id, b = true, full = true) {
 
 <template>
   <div class="flex flex-row h-[500px] overflow-x-auto overflow-y-hidden space-x-12 px-6">
-    <div class="flex-1 py-6" v-for="i in semesters.length" :key="i">
+    <div class="flex-1 py-6" v-for="i in semestres.length" :key="i">
       <div class="rounded-full text-center border border-white/50 bg-black/20 h-6 mb-2">
         <span class="text-sm">{{ i }}</span>
       </div>
       <div class="flex justify-around flex-col h-full">
         <DisciplineCard
-          v-for="discipline in semesters[i - 1]"
-          @inFocus="focusPreRequisites(discipline.pre_requisitos)"
-          @outFocus="focusPreRequisites(discipline.pre_requisitos, false)"
+          v-for="discipline in semestres[i - 1]"
+          @inFocus="configuraFocoListaDeDisciplinas({
+            listaDeDisciplinas: discipline.pre_requisitos
+          })"
+          @outFocus="configuraFocoListaDeDisciplinas({
+            listaDeDisciplinas: discipline.pre_requisitos,
+            foco: false
+          })"
           :key="discipline.id_curso"
           :ref="el => elementRefsById[discipline.id_curso] = el"
           :discipline="discipline"
           :gray-scale-mode="grayScaleMode"
         />
       </div>
+    </div>
+    <div v-if="semestres.length === 0" class="flex justify-center items-center flex-1 h-full">
+      <h2 class="text-4xl font-extrabold">Nenhuma matéria!</h2>
     </div>
   </div>
 </template>

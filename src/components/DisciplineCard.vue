@@ -1,4 +1,5 @@
-<script setup>
+<script setup lang="ts">
+import { Discipline } from '@/models/discipline';
 import { ref } from 'vue';
 
 /**
@@ -7,7 +8,8 @@ import { ref } from 'vue';
  * @component DisciplineCard
  * @description
  * Componente responsável por renderizar um card individual de disciplina com
- * interatividade de hover e sistema de foco para destaque de pré-requisitos.
+ * interatividade de hover e sistema de foco para destaque de pré-requisitos e matérias
+ * que a disciplina tranca.
  * 
  * **Funcionalidades principais:**
  * 1. Exibição das informações básicas da disciplina (nome e carga horária)
@@ -18,7 +20,7 @@ import { ref } from 'vue';
  * 
  * **Hierarquia de estados visuais:**
  * - Normal: classe 'discipline' (estado padrão)
- * - Focado: classe 'discipline-focused' (hover ou foco programático)
+ * - Focado: classe 'discipline-focused' (hover, click ou foco programático)
  * - Desfocado: 'grayscale opacity-50' (quando outras disciplinas estão em foco)
  */
 
@@ -31,47 +33,48 @@ const clicked = ref(false);
  * @property {Discipline} discipline - Objeto contendo os dados da disciplina.
  * @property {boolean} grayScaleMode - Indica se o modo grayscale global está ativo.
  * 
- * @typedef {Object} Discipline
- * @property {string} apelido - Nome/sigla da disciplina em minúsculas.
- * @property {number} carga_horaria - Carga horária teórica em horas.
- * @property {string|number} id_curso - Identificador único da disciplina.
- * @property {number} tipo - Tipo da disciplina (0: Obrigatória, 1: Optativa).
- * @property {number} semestre - Número do semestre.
- * @property {Array<string|number>} pre_requisitos - IDs dos pré-requisitos.
- * @property {Array<string|number>} requisitoDe - IDs das disciplinas dependentes.
- * 
  * @example
  * <DisciplineCard
- *   :discipline="{ apelido: 'algoritmos', carga_horaria: 60, ... }"
+ *   :discipline="new Discipline(1234, 'algoritmos', ...)"
  *   :gray-scale-mode="false"
  * />
  */
-const props = defineProps(['discipline', 'grayScaleMode']);
+const props = defineProps({
+  discipline: {
+    type: Discipline,
+  },
+  grayScaleMode: {
+    type: Boolean,
+  }
+})
 
 /**
  * Eventos emitidos pelo componente.
  * 
  * @event inFocus - Emitido quando o mouse entra no card (mouseenter).
  * @event outFocus - Emitido quando o mouse sai do card (mouseleave).
+ * @event onClick - Emitido quando houver um click no card (click).
+ * @event offClick - Emitido quando o card já estava 'clicado' e foi clicado novamente (click). 
  * 
  * @description
  * Estes eventos são capturados pelo componente pai (SemestersScreen) para
- * acionar o sistema de destaque recursivo de pré-requisitos.
+ * acionar o sistema de destaque recursivo de pré-requisitos ou matérias que vêm depois.
  * 
  * @example
  * // No componente pai
  * <DisciplineCard
- *   @inFocus="focusPreRequisites(discipline.pre_requisitos)"
- *   @outFocus="focusPreRequisites(discipline.pre_requisitos, false)"
+ *   @inFocus="focoCascata(...)"
+ *   @outFocus="focoCascata(...)"
+ *   ...
  * />
  */
-const emits = defineEmits(['inFocus', 'outFocus']);
+const emits = defineEmits(['inFocus', 'outFocus', 'onClick', 'offClick']);
 
 /**
  * Define o estado de foco da disciplina programaticamente.
  * 
  * @function focusDiscipline
- * @param {boolean} b - Se true, ativa o foco; se false, desativa o foco.
+ * @param {boolean} bool - Se true, ativa o foco; se false, desativa o foco.
  * @returns {void}
  * 
  * @description
@@ -85,15 +88,31 @@ const emits = defineEmits(['inFocus', 'outFocus']);
  * 
  * @example
  * // Chamado pelo componente pai via ref
- * const cardRef = ref(null);
+ * // ... cardRef referenciando o componente
  * cardRef.value.focusDiscipline(true); // Ativa foco
  * cardRef.value.focusDiscipline(false); // Desativa foco
  */
-const focusDiscipline = (b) => {
-  focused.value = b;
+const focusDiscipline = (bool: boolean): void => {
+  focused.value = bool;
 };
 
-const disciplineClicked = (bool) => {
+/**
+ * Define o estado de 'click' do card programaticamente.
+ * 
+ * @param {boolean} bool - Se true, o card age como se tivesse sido clickado ativando o foco, se false volta ao normal.
+ * @returns {void}
+ * 
+ * @description
+ * Método exposto publicamente que permite o componente pai controlar
+ * o estado de click da card, alterando o foco e o estado de click programaticamente.
+ * 
+ * @example
+ * // Chamado pelo componente pai via ref
+ * const refElem = ref(null);
+ * refElem.value.disciplineClicked(true)  // força um click falso
+ * refElem.value.disciplineClicked(false) // tira o click
+ */
+const disciplineClicked = (bool: boolean): void => {
   clicked.value = bool;
   focusDiscipline(bool);
 }
@@ -102,7 +121,8 @@ const disciplineClicked = (bool) => {
  * Manipula eventos de foco acionados por interação do mouse.
  * 
  * @function handleFocus
- * @param {'inFocus'|'outFocus'} signal - Nome do evento a ser emitido ('inFocus' ou 'outFocus').
+ * @param {'inFocus'|'outFocus'|'onClick'|'offClick'} signal - Nome do evento a ser emitido
+ *                                                            ('inFocus', 'outFocus', 'onClick' ou 'offClick').
  * @returns {void}
  * 
  * @description
@@ -126,7 +146,7 @@ const disciplineClicked = (bool) => {
  * // Uso interno no template
  * <div @mouseenter="handleFocus('inFocus')">...</div>
  */
-function handleFocus(signal) {
+function handleFocus(signal: 'inFocus'|'outFocus'): void {
   if (clicked.value) return;
 
   // Emite evento para componente pai
@@ -140,7 +160,21 @@ function handleFocus(signal) {
   }
 }
 
-function handleClick() {
+/**
+ * Manipula o estado de click do componente.
+ * 
+ * @function handleClick
+ * 
+ * @returns {void}
+ * @description
+ * 
+ * Função centralizada que:
+ * 1. Alterna o estado de click (!clicked),
+ * 2. Define o estado de foco de acordo com o click,
+ * 3. Emite ao componente pai o evento "onClick", se o componente
+ *    estiver clicado, ou "offClick", caso contrário.
+ */
+function handleClick(): void {
   clicked.value = !clicked.value;
   focused.value = clicked.value;
 
@@ -168,9 +202,13 @@ function handleClick() {
  * @returns {Discipline} Objeto completo da disciplina
  * @description Retorna os dados da disciplina para acesso pelo componente pai
  * 
+ * @method disciplineClicked
+ * @param {boolean} bool - Estado de click desejado
+ * @description Ativa/desativa o visual clickado desta disciplina
+ * 
  * @example
  * // No componente pai
- * const cardRef = ref(null);
+ * ... cardRef definido para a disciplina
  * 
  * // Acessar métodos expostos
  * cardRef.value.focusDiscipline(true);
@@ -194,7 +232,7 @@ defineExpose({
       'discipline-focused': focused, 
       'grayscale opacity-50': grayScaleMode && !focused 
     }">
-    <h1>{{ discipline.apelido }}</h1>
-    <p>CH: {{ discipline.carga_horaria }} horas</p>
+    <h1>{{ discipline!.pegaApelido() }}</h1>
+    <p>CH: {{ discipline!.pegaCarga() }} horas</p>
   </div>
 </template>

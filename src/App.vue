@@ -1,6 +1,6 @@
-<script setup>
+<script setup lang="ts">
 import SemestersScreen from './components/SemestersScreen.vue';
-import { useSemestralizacaoGrafo } from './composables/useDiscipline.js';
+import { useSemestralizacaoGrafo } from './composables/useDiscipline';
 import { ref } from 'vue';
 
 /**
@@ -22,7 +22,7 @@ import { ref } from 'vue';
  * - Erro: Card de erro com opção de retry
  */
 
-const { codigoCurso, semestres, grafo, carregando, erro } = useSemestralizacaoGrafo('1905');
+const { codigoCurso, semestres, grafo, carregando, erro } = useSemestralizacaoGrafo(1905);
 const inputValue = ref('1905');
 
 /**
@@ -33,7 +33,7 @@ const inputValue = ref('1905');
  * 
  * @description
  * Valida o valor digitado e, se atender aos critérios (4 dígitos numéricos),
- * atualiza o `courseCode` que dispara automaticamente o carregamento das
+ * atualiza o `codigoCurso` que dispara automaticamente o carregamento das
  * disciplinas através do watcher no composable.
  * 
  * **Validação:**
@@ -51,9 +51,9 @@ const inputValue = ref('1905');
  * inputValue.value = '12345'; // ✗ Mais de 4 dígitos
  * inputValue.value = 'abcd';  // ✗ Não numérico
  */
-const handleInput = () => {
+const handleInput = (): void => {
   if (/^\d{4}$/.test(inputValue.value)) {
-    codigoCurso.value = inputValue.value;
+    codigoCurso.value = Number(inputValue.value);
   }
 };
 

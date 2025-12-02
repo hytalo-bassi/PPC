@@ -1,16 +1,56 @@
-import { ref, watch } from 'vue';
+import { ref, watch, type Ref } from 'vue';
 import { pegarSemestralizacao, pegarSemestralizacaoLista } from '../services/disciplines-api';
+import { Discipline } from '@/models/discipline.js';
 import DisciplinesGraph from '../core/disciplines-graph';
+
+/**
+ * Objeto de refêrencias para busca de cursos, juntamente com sua semestralização e grafo de relacionamentos.
+ * 
+ * @interface SemestralizacaoGrafoI
+ * @property {Ref<number>} codigoCurso - Referência sobre o número do curso para busca
+ * @property {Ref<Array<Array<Discipline>>>} semestres - Referência da matriz bidimensional de semestres,
+ *                                                       onde cada elemento é representa um semestre, e cada sub-elemento
+ *                                                       são as disciplinas do semestre.
+ * @property {DisciplinesGraph} grafo - Instância do grafo de relacionamento, ele se limpa e re-cria automaticamente.
+ * @property {Ref<boolean>} carregando - Referência se está carregando o curso, se true os dados ainda estão
+ *                                       sendo processados, se false significa que a requisição concluiu com
+ *                                       sucesso ou erro.
+ * @property {Ref<Error | null>} erro - Referência de erro, caso a requisição tenha falhado, ou null se tudo
+ *                                      correu como esperado.
+ */
+interface SemestralizacaoGrafoI {
+  codigoCurso: Ref<number>,
+  semestres: Ref<Array<Array<Discipline>>>,
+  grafo: DisciplinesGraph,
+  carregando: Ref<boolean>,
+  erro: Ref<Error | null>,
+}
+
+/**
+ * Objeto de refêrencias para busca de cursos, juntamente com sua semestralização.
+ * 
+ * @interface SemestralizacaoGrafoI
+ * @property {Ref<number>} codigoCurso - Referência sobre o número do curso para busca
+ * @property {Ref<Array<Array<Discipline>>>} semestres - Referência da matriz bidimensional de semestres,
+ *                                                       onde cada elemento é representa um semestre, e cada sub-elemento
+ *                                                       são as disciplinas do semestre.
+ * @property {Ref<boolean>} carregando - Referência se está carregando o curso, se true os dados ainda estão
+ *                                       sendo processados, se false significa que a requisição concluiu com
+ *                                       sucesso ou erro.
+ * @property {Ref<Error | null>} erro - Referência de erro, caso a requisição tenha falhado, ou null se tudo
+ *                                      correu como esperado.
+ */
+interface SemestralizacaoI {
+  codigoCurso: Ref<number>,
+  semestres: Ref<Array<Array<Discipline>>>,
+  carregando: Ref<boolean>,
+  erro: Ref<Error | null>,
+}
 
 /**
  * Composable Vue para gerenciamento de disciplinas de cursos.
  * 
- * @param {string} [initialCode='1905'] - Código inicial do curso (formato: 4 dígitos numéricos).
- * @returns {Object} Objeto contendo refs reativos e estados do composable.
- * @returns {import('vue').Ref<string>} return.codigoCurso - Código do curso atual (reativo).
- * @returns {import('vue').Ref<Array<Array<Discipline>>>} return.semestres - Array bidimensional de disciplinas organizadas por semestre.
- * @returns {import('vue').Ref<boolean>} return.carregando - Indica se há uma requisição em andamento.
- * @returns {import('vue').Ref<Error|null>} return.erro - Armazena o último erro ocorrido ou null se não houver erros.
+ * @param {number} [codigo] - Código inicial do curso (formato: 4 dígitos numéricos).
  * 
  * @description
  * Este composable implementa o padrão de composição do Vue 3 para encapsular a lógica de:
@@ -39,18 +79,18 @@ import DisciplinesGraph from '../core/disciplines-graph';
  * 
  * @see {@link pegarSemestralizacao} - Função de serviço utilizada para carregar os dados
  */
-export function useSemestralizacao(codigo) {
+export function useSemestralizacao(codigo: number): SemestralizacaoI {
   const codigoCurso = ref(codigo);
-  const semestres = ref([]);
+  const semestres: Ref<Array<Array<Discipline>>> = ref([]);
   const carregando = ref(false);
-  const erro = ref(null);
+  const erro: Ref<Error|null> = ref(null);
   
   /**
    * Carrega as disciplinas de um curso específico.
    * 
    * @private
    * @async
-   * @param {string} code - Código do curso a ser carregado (deve ter 4 dígitos).
+   * @param {string} codigo - Código do curso a ser carregado (deve ter 4 dígitos).
    * @returns {Promise<void>}
    * 
    * @description
@@ -62,7 +102,7 @@ export function useSemestralizacao(codigo) {
    * 5. Captura e armazena erros em caso de falha
    * 6. Desativa o estado de loading ao finalizar
    */
-  const load = async (codigo) => {
+  const load = async (codigo: number): Promise<void> => {
     carregando.value = true;
     
     try {
@@ -70,7 +110,7 @@ export function useSemestralizacao(codigo) {
       erro.value = null;
     } catch (e) {
       console.error("Erro ao carregar disciplinas!", e);
-      erro.value = e;
+      erro.value = e as Error;
     } finally {
       carregando.value = false;
     }
@@ -91,7 +131,7 @@ export function useSemestralizacao(codigo) {
    * - $ : fim da string
    */
   watch(codigoCurso, (novoCodigo) => {
-    if (/^\d{4}$/.test(novoCodigo)) {
+    if (/^\d{4}$/.test(String(novoCodigo))) {
       load(novoCodigo);
     }
   }, { immediate: true });
@@ -102,14 +142,6 @@ export function useSemestralizacao(codigo) {
 /**
  * Composable Vue para gerenciamento de disciplinas de cursos e grafo de relações.
  * 
- * @param {string} [initialCode='1905'] - Código inicial do curso (formato: 4 dígitos numéricos).
- * @returns {Object} Objeto contendo refs reativos e estados do composable.
- * @returns {import('vue').Ref<string>} return.codigoCurso - Código do curso atual (reativo).
- * @returns {DisciplinesGraph} return.grafo - o grafo das relações entre disciplinas.
- * @returns {import('vue').Ref<Array<Array<Discipline>>>} return.semestres - Array bidimensional de disciplinas organizadas por semestre.
- * @returns {import('vue').Ref<boolean>} return.carregando - Indica se há uma requisição em andamento.
- * @returns {import('vue').Ref<Error|null>} return.erro - Armazena o último erro ocorrido ou null se não houver erros.
- * 
  * **Estados:**
  * - `carregando`: true durante a requisição, false após conclusão (sucesso ou erro)
  * - `erro`: null em caso de sucesso, contém o objeto Error em caso de falha
@@ -119,19 +151,19 @@ export function useSemestralizacao(codigo) {
  * 
  * @see {@link pegarSemestralizacaoLista} - Função de serviço utilizada para carregar os dados
  */
-export function useSemestralizacaoGrafo(codigo) {
+export function useSemestralizacaoGrafo(codigo: number): SemestralizacaoGrafoI {
   const codigoCurso = ref(codigo);
   const grafo = new DisciplinesGraph();
-  const semestres = ref([]);
+  const semestres: Ref<Array<Array<Discipline>>> = ref([]);
   const carregando = ref(false);
-  const erro = ref(null);
+  const erro: Ref<Error|null> = ref(null);
   
   /**
    * Carrega as disciplinas de um curso específico.
    * 
    * @private
    * @async
-   * @param {string} code - Código do curso a ser carregado (deve ter 4 dígitos).
+   * @param {string} codigo - Código do curso a ser carregado (deve ter 4 dígitos).
    * @returns {Promise<void>}
    * 
    * @description
@@ -143,11 +175,11 @@ export function useSemestralizacaoGrafo(codigo) {
    * 5. Captura e armazena erros em caso de falha
    * 6. Desativa o estado de loading ao finalizar
    */
-  const load = async (codigo) => {
+  const load = async (codigo: number): Promise<void> => {
     carregando.value = true;
     
     try {
-      const { semestres: _semestres, disciplinas } = await pegarSemestralizacaoLista(Number(codigo)) 
+      const { semestres: _semestres, disciplinas } = await pegarSemestralizacaoLista(codigo) 
       semestres.value = _semestres;
 
       grafo.clear();
@@ -156,7 +188,7 @@ export function useSemestralizacaoGrafo(codigo) {
       erro.value = null;
     } catch (e) {
       console.error("Erro ao carregar disciplinas!", e);
-      erro.value = e;
+      erro.value = e as Error;
     } finally {
       carregando.value = false;
     }
@@ -177,7 +209,7 @@ export function useSemestralizacaoGrafo(codigo) {
    * - $ : fim da string
    */
   watch(codigoCurso, (novoCodigo) => {
-    if (/^\d{4}$/.test(novoCodigo)) {
+    if (/^\d{4}$/.test(String(novoCodigo))) {
       load(novoCodigo);
     }
   }, { immediate: true });

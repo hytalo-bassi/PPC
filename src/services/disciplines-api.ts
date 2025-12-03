@@ -7,7 +7,7 @@ import DisciplinesGraph from "../core/disciplines-graph.js";
  * @private
  * @async
  * @param {number} code - Código identificador de 4 dígitos do arquivo JSON a ser carregado (sem extensão)
- * @returns {Promise<Array<Object>>} Promise que resolve para um array de objetos representando disciplinas no formato bruto do JSON
+ * @returns {Promise<Array<Record<string, unknown>>>} Promise que resolve para um array de objetos representando disciplinas no formato bruto do JSON
  * @throws {Error} Lança erro se o arquivo não for encontrado (HTTP 404) ou se houver falha na conexão de rede
  * @throws {SyntaxError} Lança erro se o conteúdo do arquivo não for um JSON válido
  *
@@ -37,7 +37,9 @@ import DisciplinesGraph from "../core/disciplines-graph.js";
  * const dadosBrutos = await load_json(1905);
  * console.log(dadosBrutos[0].Apelido); // Nome da primeira disciplina
  */
-async function load_json(code: number): Promise<Array<any>> {
+async function load_json(
+  code: number,
+): Promise<Array<Record<string, unknown>>> {
   const res = await fetch(`/data/${String(code).padStart(4)}.json`);
   const data = await res.json();
   return data;
@@ -65,7 +67,7 @@ async function load_json(code: number): Promise<Array<any>> {
  * tipoParaEnum("OPT"); // TipoCurso.Optativa (1)
  * tipoParaEnum("qualquer coisa"); // TipoCurso.Optativa (1)
  */
-function tipoParaEnum(tipo: any): TipoCurso {
+function tipoParaEnum(tipo: unknown): TipoCurso {
   return tipo === "OBR" ? TipoCurso.Obrigatoria : TipoCurso.Optativa;
 }
 
@@ -73,7 +75,7 @@ function tipoParaEnum(tipo: any): TipoCurso {
  * Extrai uma lista de IDs de disciplinas a partir de uma lista de objetos.
  *
  * @private
- * @param {Array<Object>} listaObjeto - Array de objetos onde cada objeto deve conter a propriedade `Id`
+ * @param {Array<Record<string, unknown>>} listaObjeto - Array de objetos onde cada objeto deve conter a propriedade `Id`
  * @returns {Array<number>} Array contendo apenas os IDs extraídos dos objetos
  * @throws {Error} Lança erro se algum objeto no array não contiver a propriedade `Id`
  *
@@ -99,15 +101,17 @@ function tipoParaEnum(tipo: any): TipoCurso {
  * const ids = expandirListaParaIds(objetos);
  * console.log(ids); // [101, 102]
  */
-function expandirListaParaIds(listaObjeto: any): Array<number> {
-  return listaObjeto.map((sub_disciplina_obj: any) => {
-    if (!sub_disciplina_obj.Id)
+function expandirListaParaIds(
+  listaObjeto: Record<string, unknown>[],
+): Array<number> {
+  return listaObjeto.map((sub_disciplina_obj) => {
+    if (!sub_disciplina_obj["Id"]) {
       throw new Error(
-        "Objeto fora de forma padrão! Objeto recebido:",
-        sub_disciplina_obj,
+        `Objeto fora de forma padrão! Objeto recebido: ${JSON.stringify(sub_disciplina_obj)}`,
       );
+    }
 
-    return sub_disciplina_obj.Id;
+    return sub_disciplina_obj["Id"] as number;
   });
 }
 
@@ -115,13 +119,13 @@ function expandirListaParaIds(listaObjeto: any): Array<number> {
  * Transforma um objeto no formato JSON padrão em uma instância de Discipline.
  *
  * @private
- * @param {Object} obj - Objeto contendo os dados da disciplina no formato do JSON
- * @param {string} obj.Apelido - Nome ou sigla da disciplina
- * @param {number} obj.CargaHorariaTeorico - Carga horária teórica em horas
- * @param {number} obj.Id - Identificador único da disciplina
- * @param {string} obj.Tipo - Tipo da disciplina ("OBR" ou "OPT")
- * @param {number} obj.Semestre - Número do semestre (1-N ou 99 para sem período fixo)
- * @param {Array<Object>} obj.ListaPrequisitos - Array de objetos representando pré-requisitos
+ * @param {Record<string, unknown>} obj - Objeto contendo os dados da disciplina no formato do JSON
+ * @param {unknown} obj.Apelido - Nome ou sigla da disciplina. Tipo esperado: string
+ * @param {unknown} obj.CargaHorariaTeorico - Carga horária teórica em horas. Tipo esperado: number
+ * @param {unknown} obj.Id - Identificador único da disciplina. Tipo esperado: number
+ * @param {unknown} obj.Tipo - Tipo da disciplina ("OBR" ou "OPT"). Tipo esperado: number
+ * @param {unknown} obj.Semestre - Número do semestre (1-N ou 99 para sem período fixo). Tipo esperado: number
+ * @param {Array<Record<string, unknown>>} obj.ListaPrequisitos - Array de objetos representando pré-requisitos
  * @returns {Discipline} Nova instância de Discipline com os dados processados
  * @throws {Error} Lança erro se alguma propriedade obrigatória estiver ausente no objeto
  *
@@ -164,7 +168,7 @@ function expandirListaParaIds(listaObjeto: any): Array<number> {
  * const disciplina = transformarEmDisciplina(objJson);
  * console.log(disciplina.apelido); // "algoritmos" (normalizado)
  */
-function transformarEmDisciplina(obj: any): Discipline {
+function transformarEmDisciplina(obj: Record<string, unknown>): Discipline {
   const { Apelido, CargaHorariaTeorico, Id, Tipo, Semestre, ListaPrequisitos } =
     obj;
 
@@ -174,7 +178,8 @@ function transformarEmDisciplina(obj: any): Discipline {
     !Id ||
     !Tipo ||
     !Semestre ||
-    !ListaPrequisitos
+    !Array.isArray(ListaPrequisitos) ||
+    ListaPrequisitos.length === 0
   ) {
     throw new Error("Objeto fora da forma padrão! Objeto recebido: ", obj);
   }
@@ -184,11 +189,11 @@ function transformarEmDisciplina(obj: any): Discipline {
   const lista_pre_requisitos = expandirListaParaIds(ListaPrequisitos);
 
   return new Discipline(
-    Apelido,
-    CargaHorariaTeorico,
-    Id,
+    String(Apelido),
+    Number(CargaHorariaTeorico),
+    Number(Id),
     tipo,
-    Semestre,
+    Number(Semestre),
     lista_pre_requisitos,
   );
 }
@@ -240,33 +245,35 @@ function transformarEmDisciplina(obj: any): Discipline {
 export async function pegarSemestralizacao(
   codigo: number,
 ): Promise<Array<Array<Discipline>>> {
-  let semestres: Array<Array<Discipline>> = [];
+  const semestres: Array<Array<Discipline>> = [];
 
   const dados = await load_json(codigo);
 
   for (const disciplinaObj of dados) {
     const disciplina = transformarEmDisciplina(disciplinaObj);
-    if (!disciplinaObj.Semestre) {
+    if (!disciplinaObj["Semestre"]) {
       console.info(
-        `Dados da disciplina de ID ${disciplinaObj.Id} em formato inesperado (sem campo Semestres), ignorando...`,
+        `Dados da disciplina de ID ${disciplinaObj["Id"]} em formato inesperado (sem campo Semestres), ignorando...`,
       );
       continue;
     }
 
+    disciplinaObj["Semestre"] = Number(disciplinaObj["Semestre"]);
+
     if (
-      disciplinaObj.Semestre !== 99 &&
-      semestres.length < disciplinaObj.Semestre
+      disciplinaObj["Semestre"] !== 99 &&
+      semestres.length < (disciplinaObj["Semestre"] as number)
     ) {
-      semestres.length = disciplinaObj.Semestre;
+      semestres.length = disciplinaObj["Semestre"] as number;
       for (let i = 0; i < semestres.length; i++) {
         if (!semestres[i]) semestres[i] = [];
       }
     }
 
-    if (disciplinaObj.Semestre !== 99) {
+    if ((disciplinaObj["Semestre"] as number) !== 99) {
       // O TSC irá reclamar se remover !, pois o item é um Array, possívelmente undefined.
       // No entanto, garantimos pelo código anterior que todos os items estejam definidos antes do acesso.
-      semestres[disciplinaObj.Semestre - 1]!.push(disciplina);
+      semestres[(disciplinaObj["Semestre"] as number) - 1]!.push(disciplina);
     }
   }
 
@@ -399,41 +406,40 @@ export async function pegarDisciplinas(
  * const totalGeral = disciplinas.length;
  * console.log(`Optativas livres: ${totalGeral - totalSemestres}`);
  */
-export async function pegarSemestralizacaoLista(
-  codigo: number,
-): Promise<{
+export async function pegarSemestralizacaoLista(codigo: number): Promise<{
   semestres: Array<Array<Discipline>>;
   disciplinas: Array<Discipline>;
 }> {
-  let semestres: Array<Array<Discipline>> = [];
-  let disciplinas: Array<Discipline> = [];
+  const semestres: Array<Array<Discipline>> = [];
+  const disciplinas: Array<Discipline> = [];
 
   const dados = await load_json(codigo);
 
   for (const disciplinaObj of dados) {
     const disciplina = transformarEmDisciplina(disciplinaObj);
 
-    if (!disciplinaObj.Semestre) {
+    if (!disciplinaObj["Semestre"]) {
       console.info(
-        `Dados da disciplina de ID ${disciplinaObj.Id} em formato inesperado (sem campo Semestres), ignorando...`,
+        `Dados da disciplina de ID ${disciplinaObj["Id"]} em formato inesperado (sem campo Semestres), ignorando...`,
       );
       continue;
     }
 
+    disciplinaObj["Semestre"] = Number(disciplinaObj["Semestre"]);
     if (
-      disciplinaObj.Semestre !== 99 &&
-      semestres.length < disciplinaObj.Semestre
+      disciplinaObj["Semestre"] !== 99 &&
+      semestres.length < (disciplinaObj["Semestre"] as number)
     ) {
-      semestres.length = disciplinaObj.Semestre;
+      semestres.length = disciplinaObj["Semestre"] as number;
       for (let i = 0; i < semestres.length; i++) {
         if (!semestres[i]) semestres[i] = [];
       }
     }
 
-    if (disciplinaObj.Semestre !== 99) {
+    if (disciplinaObj["Semestre"] !== 99) {
       // O TSC irá reclamar se remover !, pois o item é um Array, possívelmente undefined.
       // No entanto, garantimos pelo código anterior que todos os items estejam definidos antes do acesso.
-      semestres[disciplinaObj.Semestre - 1]!.push(disciplina);
+      semestres[(disciplinaObj["Semestre"] as number) - 1]!.push(disciplina);
     }
 
     disciplinas.push(disciplina);

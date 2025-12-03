@@ -21,17 +21,15 @@ npm run dev
 
 Após executar o comando, acesse `http://localhost:8000` no seu navegador.
 
-### Atualizando os Dados
-
-Para fazer o download dos dados mais recentes dos cursos:
-
-```bash
-python scripts/data_scraper.py
-```
-
 ## Tecnologias Utilizadas
 
 - HTML/CSS/JavaScript
 - Vue.js + Vite
 - Tailwind CSS
 - Python (para coleta de dados)
+
+## Desenvolvendo
+
+Se você gostou do projeto e têm idéia de algo que pode melhorar, um problema que consegue resolver, ou somente quer colocar algo a mais no seu currículo, você é bem-vindo aqui para desenvolver conosco!
+
+Mas, antes de começar, dê uma lida no [guia de desenvolvimento](./docs/DESENVOLVENDO.md).

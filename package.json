@@ -19,7 +19,11 @@
     "lint": "eslint src/",
     "build": "prettier --check src/ && vue-tsc -b && vite build",
     "preview": "vite preview",
-    "prepare": "husky install"
+    "prepare": "husky install",
+    "coverage": "vitest run --coverage",
+    "coverage:watch": "vitest --coverage",
+    "coverage:ui": "vitest --ui --coverage",
+    "coverage:html": "vitest run --coverage && open coverage/index.html"
   },
   "husky": {
     "hooks": {
@@ -42,19 +46,26 @@
     "@eslint/css": "0.14.1",
     "@eslint/js": "9.39.1",
     "@eslint/markdown": "7.5.1",
+    "@testing-library/user-event": "14.6.1",
+    "@testing-library/vue": "8.1.0",
     "@tsconfig/strictest": "2.0.8",
     "@types/node": "24.10.1",
     "@vitejs/plugin-vue": "6.0.2",
+    "@vitest/coverage-v8": "4.0.15",
+    "@vue/test-utils": "2.4.6",
     "eslint": "9.39.1",
     "eslint-config-prettier": "10.1.8",
     "eslint-plugin-vue": "10.6.2",
     "globals": "16.5.0",
+    "happy-dom": "20.0.11",
     "husky": "8.0.0",
     "lint-staged": "16.2.7",
+    "msw": "2.12.3",
     "prettier": "3.7.3",
     "typescript": "5.9.3",
     "typescript-eslint": "8.48.1",
     "vite": "7.2.4",
+    "vitest": "4.0.15",
     "vue-eslint-parser": "10.2.0",
     "vue-tsc": "3.1.5"
   }

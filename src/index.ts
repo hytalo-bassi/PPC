@@ -1,7 +1,7 @@
-import { createApp } from 'vue';
-import App from './App.vue';
-import './assets/styles/PPC.css';
+import { createApp } from "vue";
+import App from "./App.vue";
+import "./assets/styles/PPC.css";
 
 const app = createApp(App);
 
-app.mount('#app');
+app.mount("#app");

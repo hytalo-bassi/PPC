@@ -21,7 +21,7 @@ export default defineConfig({
 
       reportsDirectory: "./coverage",
 
-      include: ["src/**/*.{ts, js, vue}"],
+      include: ["src/**/*.{ts,js,vue}"],
 
       exclude: [
         "node_modules/",

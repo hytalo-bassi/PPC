@@ -11,13 +11,7 @@ export default defineConfig({
     coverage: {
       provider: "v8",
 
-      reporter: [
-        "text", // Terminal output
-        "text-summary", // Brief summary
-        "json", // JSON file
-        "json-summary", // JSON summary
-        "html", // Interactive HTML report
-      ],
+      reporter: ["text", "text-summary", "json", "json-summary", "html"],
 
       reportsDirectory: "./coverage",
 
@@ -30,7 +24,7 @@ export default defineConfig({
         "src/**/*.spec.js",
         "**/*.config.js",
         "**/mock/**",
-        "src/index.ts", // Entry point
+        "src/index.ts",
       ],
 
       thresholds: {

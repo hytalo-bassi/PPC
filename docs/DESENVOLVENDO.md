@@ -15,13 +15,14 @@ O projeto é construído com o seguinte stack:
 
 Para manter o código limpo, legível e livre de erros comuns, utilizamos:
 
+- **Vitest** – Responsável por testar o projeto.
 - **Prettier** – Formatação automática do código (configurado em `.prettierrc` e `.prettierignore`).
 - **ESLint** – Análise estática com regras específicas do projeto (arquivo `eslint.config.mts`). Inclui regras do Vue e boas práticas de acessibilidade e performance.
 - **Husky + lint-staged** – Hooks de Git que executam automaticamente:
 
   ```bash
-  npm run lint   # eslint --fix
-  npm run format # prettier --write
+  npm run lint      # eslint src/
+  npm run test:run  # npx vitest run
   ```
 
   Esses comandos são disparados em todo `git commit`.  
@@ -63,12 +64,14 @@ Regra prática: se houver dúvida, use pt-BR. Se o termo em inglês for claramen
 ### Scripts NPM Mais Usados
 
 ```bash
-npm run dev          # Vite dev server (HMR)
-npm run build        # Build de produção
-npm run preview      # Preview do build local
-npm run lint         # Executa ESLint
-npm run format       # Executa Prettier
-npm run prepare      # Instala Husky (executar uma vez após clone)
+npm run dev                 # Vite dev server
+npm run build               # Build de produção
+npm run preview             # Preview do build local
+npm run lint                # Executa ESLint
+npm run format              # Executa Prettier
+npm run test                # Testa projeto
+npm run test:coverage:html  # Cria um html mostrando o tanto do projeto que está sendo testado
+npm run prepare             # Instala Husky (executar uma vez após clone)
 ```
 
 ### Fluxo Recomendado de Trabalho
@@ -77,7 +80,7 @@ npm run prepare      # Instala Husky (executar uma vez após clone)
 2. Crie sua branch: `feature/nome-da-funcionalidade` ou `fix/descricao-do-bug`
 3. Desenvolva normalmente
 4. Ao terminar: `git add .`
-5. `git commit` → o Husky vai rodar lint + format automaticamente
+5. `git commit` → o Husky vai rodar lint + format + testes automaticamente
    - Se houver erros, corrija-os e tente commitar novamente
 6. Push e abra o Pull Request
 
@@ -92,3 +95,13 @@ Para fazer o download dos dados mais recentes dos cursos, rode este comando na r
 ```bash
 python scripts/data_scraper.py
 ```
+
+## Sobre o uso de IAs
+
+As Large-Language-Models (LLM) se mostraram muito eficientes para fazerem uma míriade de diferentes tarefas, com uma eficácia muitas vezes além de simplesmente "profissional". No entanto, alguns cuidados devem ser tomados ao se utilizar de IAs para a produção deste projeto:
+
+- Não confiar na IA como um profissional qualificado.
+- Deter conhecimento signficativo da tarefa que foi solicitada para a IA.
+- Testar e analisar a solução da IA e sua aplicabilidade no contexto.
+- Descobrir possíveis outras soluções e escolher a mais adequada.
+- Garantir que todas as outras recomendações deste projeto sejam respeitadas.

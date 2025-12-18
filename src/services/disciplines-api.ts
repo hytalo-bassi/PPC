@@ -40,7 +40,7 @@ import DisciplinesGraph from "../core/disciplines-graph.js";
 async function load_json(
   code: number,
 ): Promise<Array<Record<string, unknown>>> {
-  const res = await fetch(`/data/${String(code).padStart(4)}.json`);
+  const res = await fetch(`/data/${String(code).padStart(4, "0")}.json`);
   const data = await res.json();
   return data;
 }

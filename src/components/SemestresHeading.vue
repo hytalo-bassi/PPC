@@ -11,6 +11,8 @@
         :value="inputValue"
         class="w-16 text-right text-sm bg-transparent focus:outline-none text-white placeholder-white/50"
         placeholder="0000"
+        required
+        aria-describedby="hint codeError"
         type="text"
         inputmode="numeric"
         pattern="\d{4}"

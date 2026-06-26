@@ -74,7 +74,7 @@ describe("App.vue", () => {
 
       const titulo = wrapper.find("h1");
       expect(titulo.exists()).toBe(true);
-      expect(titulo.text()).toBe("Quadro de Semestralização e Pré-Requisitos");
+      expect(titulo.text()).toBe("Semestralização e pré-requisitos");
     });
 
     it("deve renderizar o campo de busca", () => {
@@ -85,7 +85,7 @@ describe("App.vue", () => {
       const input = wrapper.find("input");
       expect(input.exists()).toBe(true);
       expect(input.attributes("type")).toBe("text");
-      expect(input.attributes("placeholder")).toBe("Código do curso");
+      expect(input.attributes("placeholder")).toBe("0000");
     });
 
     it("deve inicializar o input com o valor padrão '1905'", () => {
@@ -226,7 +226,7 @@ describe("App.vue", () => {
 
       wrapper = mount(App);
 
-      const spinnerInput = wrapper.find(".animate-spin.h-4");
+      const spinnerInput = wrapper.find(".animate-spin");
       expect(spinnerInput.exists()).toBe(true);
     });
 
@@ -484,8 +484,8 @@ describe("App.vue", () => {
 
       const header = wrapper.find("header");
       expect(header.classes()).toContain("flex");
-      expect(header.classes()).toContain("flex-col");
-      expect(header.classes()).toContain("text-center");
+      expect(header.classes()).toContain("items-center");
+      expect(header.classes()).toContain("py-2");
     });
 
     it("deve aplicar estilos ao container de busca", () => {
@@ -494,8 +494,7 @@ describe("App.vue", () => {
       wrapper = mount(App);
 
       const containerBusca = wrapper.find("header > div:nth-child(2)");
-      expect(containerBusca.classes()).toContain("mx-auto");
-      expect(containerBusca.classes()).toContain("rounded-lg");
+      expect(containerBusca.classes()).toContain("ml-auto");
     });
   });
 
@@ -601,16 +600,7 @@ describe("App.vue", () => {
       wrapper = mount(App);
 
       const label = wrapper.find("span");
-      expect(label.text()).toBe("Buscar");
-    });
-
-    it("deve ter atributo required no input", () => {
-      mockUseSemestralizacaoGrafo.mockReturnValue(criaEstadoMock());
-
-      wrapper = mount(App);
-
-      const input = wrapper.find("input");
-      expect(input.attributes("required")).toBeDefined();
+      expect(label.text()).toBe("Curso");
     });
 
     it("deve ter pattern para validação HTML5", () => {

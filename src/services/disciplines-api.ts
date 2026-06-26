@@ -178,9 +178,9 @@ function transformarEmDisciplina(obj: Record<string, unknown>): Discipline {
     !Id ||
     !Tipo ||
     !Semestre ||
-    !Array.isArray(ListaPrequisitos) ||
-    ListaPrequisitos.length === 0
+    !Array.isArray(ListaPrequisitos)
   ) {
+    console.log(obj);
     throw new Error("Objeto fora da forma padrão! Objeto recebido: ", obj);
   }
 

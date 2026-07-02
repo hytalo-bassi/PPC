@@ -227,11 +227,9 @@ defineExpose({
     @mouseenter="handleFocus('inFocus')"
     @mouseleave="handleFocus('outFocus')"
     @click="handleClick()"
-    :class="{
-      discipline: !focused,
-      'discipline-focused': focused,
-      'grayscale opacity-50': grayScaleMode && !focused,
-    }"
+    class="discipline"
+    :data-focused="focused || undefined"
+    :class="{ 'grayscale opacity-50': grayScaleMode && !focused }"
   >
     <h1>{{ discipline!.pegaApelido() }}</h1>
     <p>CH: {{ discipline!.pegaCarga() }} horas</p>

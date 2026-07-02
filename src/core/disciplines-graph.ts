@@ -213,7 +213,7 @@ export default class DisciplinesGraph {
    * console.log(graph.getPreRequisites(203)); // [202]
    * console.log(graph.getNextDisciplines(201, true)); // [202, 203]
    */
-  buildGraph(listDisciplines: any): void {
+  buildGraph(listDisciplines: Array<Discipline>): void {
     this.clear();
     for (const discipline of listDisciplines) {
       const id = discipline.id_curso;
@@ -225,5 +225,21 @@ export default class DisciplinesGraph {
         this.afterList.set(preRequisite, newAfterList);
       }
     }
+  }
+
+  getDepths(id: number, direction: "before" | "after"): Map<number, number> {
+    const list = direction === "before" ? this.beforeList : this.afterList;
+    const depths = new Map<number, number>();
+    const queue: Array<[number, number]> = [[id, 0]];
+    while (queue.length) {
+      const [current, depth] = queue.shift()!;
+      for (const neighbor of list.get(current) ?? []) {
+        if (!depths.has(neighbor)) {
+          depths.set(neighbor, depth + 1);
+          queue.push([neighbor, depth + 1]);
+        }
+      }
+    }
+    return depths;
   }
 }

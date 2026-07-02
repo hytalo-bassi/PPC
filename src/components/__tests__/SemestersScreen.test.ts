@@ -76,6 +76,44 @@ describe("SemestersScreen", () => {
         };
         return proximas[id] || [];
       }),
+      getDepths: vi.fn((id: number, direction: "before" | "after") => {
+        // BFS to compute depths from id in given direction using the other mocked methods
+        const depths = new Map<number, number>();
+        const visited = new Set<number>();
+        const queue: Array<{ node: number; depth: number }> = [];
+
+        visited.add(id);
+
+        const getNeighbors = (node: number) =>
+          direction === "before"
+            ? // prerequisites (parents)
+              (grafoMock.getPreRequisites as (id: number) => number[])(node)
+            : // next disciplines (children)
+              (grafoMock.getNextDisciplines as (id: number) => number[])(node);
+
+        const startNeighbors = getNeighbors(id) || [];
+        for (const n of startNeighbors) {
+          if (!visited.has(n)) {
+            visited.add(n);
+            depths.set(n, 1);
+            queue.push({ node: n, depth: 1 });
+          }
+        }
+
+        while (queue.length > 0) {
+          const { node, depth } = queue.shift()!;
+          const neigh = getNeighbors(node) || [];
+          for (const m of neigh) {
+            if (!visited.has(m)) {
+              visited.add(m);
+              depths.set(m, depth + 1);
+              queue.push({ node: m, depth: depth + 1 });
+            }
+          }
+        }
+
+        return depths;
+      }),
     } as unknown as DisciplinesGraph;
   });
 
@@ -121,7 +159,9 @@ describe("SemestersScreen", () => {
       const semestres = [[disciplina1], [disciplina2], [disciplina3]];
       const wrapper = criarWrapper({ semestres });
 
-      const numerosSpans = wrapper.findAll(".text-sm");
+      const numerosSpans = wrapper.findAll(
+        "span[data-test-semester-label='true']",
+      );
 
       expect(numerosSpans).toHaveLength(3);
 
@@ -239,6 +279,17 @@ describe("SemestersScreen", () => {
     });
 
     it("propaga foco recursivamente através da cadeia de pré-requisitos", async () => {
+      grafoMock.getDepths = vi.fn(
+        (id: number, direction: "before" | "after") => {
+          const depths = new Map<number, number>();
+          if (direction === "before" && id === 3001) {
+            depths.set(2001, 1);
+            depths.set(1001, 2);
+          }
+          return depths;
+        },
+      );
+
       const semestres = [
         [disciplina1], // Cálculo I
         [disciplina3], // Cálculo II (depende de Cálculo I)
@@ -254,15 +305,29 @@ describe("SemestersScreen", () => {
       await calculoIII!.trigger("mouseenter");
       await wrapper.vm.$nextTick();
 
-      expect(grafoMock.getPreRequisites).toHaveBeenCalledWith(3001);
+      const calculoII = cards.find(
+        (c) => c.props("discipline")!.pegaId() === 2001,
+      );
+      const calculoI = cards.find(
+        (c) => c.props("discipline")!.pegaId() === 1001,
+      );
 
-      vi.advanceTimersByTime(75);
-      await wrapper.vm.$nextTick();
-
-      expect(grafoMock.getPreRequisites).toHaveBeenCalledWith(2001);
+      expect(calculoII!.element.style.transitionDelay).toBe("75ms");
+      expect(calculoI!.element.style.transitionDelay).toBe("150ms");
     });
 
     it("usa delay correto entre níveis de recursão", async () => {
+      grafoMock.getDepths = vi.fn(
+        (id: number, direction: "before" | "after") => {
+          const depths = new Map<number, number>();
+          if (direction === "before" && id === 3001) {
+            depths.set(2001, 1);
+            depths.set(1001, 2);
+          }
+          return depths;
+        },
+      );
+
       const semestres = [[disciplina1], [disciplina3], [disciplina5]];
       const wrapper = criarWrapper({ semestres });
 
@@ -274,15 +339,15 @@ describe("SemestersScreen", () => {
       await calculoIII!.trigger("mouseenter");
       await wrapper.vm.$nextTick();
 
-      expect(grafoMock.getPreRequisites).toHaveBeenCalledTimes(1);
+      const calculoII = cards.find(
+        (c) => c.props("discipline")!.pegaId() === 2001,
+      );
+      const calculoI = cards.find(
+        (c) => c.props("discipline")!.pegaId() === 1001,
+      );
 
-      vi.advanceTimersByTime(74); // Menos que o delay
-      await wrapper.vm.$nextTick();
-      expect(grafoMock.getPreRequisites).toHaveBeenCalledTimes(1);
-
-      vi.advanceTimersByTime(1); // Completa os 75ms
-      await wrapper.vm.$nextTick();
-      expect(grafoMock.getPreRequisites).toHaveBeenCalledTimes(2);
+      expect(calculoII!.element.style.transitionDelay).toBe("75ms");
+      expect(calculoI!.element.style.transitionDelay).toBe("150ms");
     });
   });
 
@@ -310,6 +375,17 @@ describe("SemestersScreen", () => {
     });
 
     it("propaga foco para próximas disciplinas recursivamente", async () => {
+      grafoMock.getDepths = vi.fn(
+        (id: number, direction: "before" | "after") => {
+          const depths = new Map<number, number>();
+          if (direction === "after" && id === 1001) {
+            depths.set(2001, 1);
+            depths.set(3001, 2);
+          }
+          return depths;
+        },
+      );
+
       const semestres = [
         [disciplina1], // Cálculo I
         [disciplina3], // Cálculo II
@@ -325,12 +401,15 @@ describe("SemestersScreen", () => {
       await calculoI!.trigger("click");
       await wrapper.vm.$nextTick();
 
-      expect(grafoMock.getNextDisciplines).toHaveBeenCalledWith(1001);
+      const calculoII = cards.find(
+        (c) => c.props("discipline")!.pegaId() === 2001,
+      );
+      const calculoIII = cards.find(
+        (c) => c.props("discipline")!.pegaId() === 3001,
+      );
 
-      vi.advanceTimersByTime(75);
-      await wrapper.vm.$nextTick();
-
-      expect(grafoMock.getNextDisciplines).toHaveBeenCalledWith(2001);
+      expect(calculoII!.element.style.transitionDelay).toBe("75ms");
+      expect(calculoIII!.element.style.transitionDelay).toBe("150ms");
     });
   });
 
@@ -451,11 +530,7 @@ describe("SemestersScreen", () => {
       const wrapper = criarWrapper();
       const container = wrapper.find(".flex.flex-row");
 
-      expect(container.classes()).toContain("h-[500px]");
-      expect(container.classes()).toContain("overflow-x-auto");
-      expect(container.classes()).toContain("overflow-y-hidden");
-      expect(container.classes()).toContain("space-x-12");
-      expect(container.classes()).toContain("px-6");
+      expect(container.classes()).toContain("h-full");
     });
 
     it("renderiza semestres em layout horizontal", () => {

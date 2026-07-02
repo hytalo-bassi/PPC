@@ -15,12 +15,6 @@ type DisciplineCardType = InstanceType<typeof DisciplineCard>;
  * @property {boolean} [foco=true] - Define o estado visual da disciplina. Se foco for:
  * - `true`: Aplica o destaque (remove grayscale, aplica classe correta).
  * - `false`: Remove o destaque ou restaura o estado padrão.
- * @property {boolean} [recursivo=true] - Controla a propagação do efeito.
- *                                        Se `true`, a função continuará buscando nós adjacentes
- *                                        (pré-requisitos ou próximas) e aplicará o efeito com um
- *                                        delay (`TEMPO_DE_EFEITO_CASCATA_EM_MS`).
- * @property {boolean} [sub=true] - Flag auxiliar para indicar se a execução atual
- *                                  é uma sub-chamada (parte de uma cadeia) ou a interação inicial do usuário.
  * @property {boolean} [proximas=false] - Determina a direção da travessia no grafo. Se proximas for:
  * - `false` (Padrão): Percorre para trás (busca **Pré-requisitos**).
  * - `true`: Percorre para frente (busca disciplinas que **libera** / Próximas).
@@ -28,8 +22,6 @@ type DisciplineCardType = InstanceType<typeof DisciplineCard>;
 interface FocoCascataDisciplinasOpcoes {
   id: number;
   foco?: boolean;
-  recursivo?: boolean;
-  sub?: boolean;
   proximas?: boolean;
 }
 
@@ -94,8 +86,23 @@ const props = defineProps({
 const elementRefsById: Ref<Record<number, DisciplineCardType>> = ref({});
 const grayScaleMode = ref(false);
 
-/** Define o tempo que a animação recursiva de foco vai levar para mostrar níveis mais profundos */
-const TEMPO_DE_EFEITO_CASCATA_EM_MS = 75;
+const zoom = ref(1);
+const ZOOM_MIN = 0.5;
+const ZOOM_MAX = 2;
+const ZOOM_STEP = 0.1;
+
+// Sensibilidade do wheel: multiplicador direto sobre deltaY, sem múltiplicar por ZOOM_STEP
+const WHEEL_SENSITIVITY = 0.0015;
+
+const getCascadeDelay = (): number => {
+  if (typeof window !== "undefined") {
+    const style = getComputedStyle(document.documentElement);
+    const duration = style.getPropertyValue("--duration-cascade").trim();
+    if (duration.endsWith("ms")) return parseFloat(duration) || 75;
+    if (duration.endsWith("s")) return (parseFloat(duration) || 0.075) * 1000;
+  }
+  return 75;
+};
 
 /**
  * Gerencia a lógica de propagação visual de foco através do grafo de disciplinas.
@@ -103,21 +110,19 @@ const TEMPO_DE_EFEITO_CASCATA_EM_MS = 75;
  * @param {FocoCascataDisciplinasOpcoes} opcoes - Objeto desestruturado contendo os parâmetros de controle.
  * @param {number} opcoes.id - ID da disciplina atual no loop de recursão.
  * @param {boolean} [opcoes.foco] - Estado desejado (ativar ou desativar foco).
- * @param {boolean} [opcoes.recursivo] - Se deve continuar propagando para o próximo nível.
  * @param {boolean} [opcoes.proximas] - Direção do grafo (trás/pré-requisitos ou frente/próximas).
  *
  * @description
  * Executa uma travessia (traversal) no grafo de dependências, acionando métodos nos
- * componentes filhos (`DisciplineCard`) para criar uma animação sequencial.
+ * componentes filhos (`DisciplineCard`) para criar uma animação escalonada via CSS transition-delay.
  *
  * **Fluxo de Execução:**
  * 1. Ativa/Desativa o modo `grayScaleMode` globalmente.
- * 2. Consulta o grafo (`props.grafo`) para obter os IDs relacionados (pais ou filhos).
- * 3. Localiza a referência do componente da disciplina correspondente via `elementRefsById`.
+ * 2. Usa BFS no grafo para obter profundidade de cada nó alcançável.
+ * 3. Aplica `transition-delay` proporcional à profundidade em cada card.
  * 4. Aciona o método de destaque no componente filho:
  *  - `disciplineClicked()` se estiver buscando disciplinas futuras (`proximas: true`).
  *  - `focusDiscipline()` se estiver buscando pré-requisitos (`proximas: false`).
- * 5. Se `recursivo` for true, agenda a próxima execução com para criar o efeito visual de "cascata".
  *
  * @see {@link DisciplinesGraph.getNextDisciplines} - Função do grafo de relacionamentos que pega
  *                                                    as matérias que precisam.
@@ -125,105 +130,171 @@ const TEMPO_DE_EFEITO_CASCATA_EM_MS = 75;
 function focoCascataDisciplinas({
   id,
   foco = true,
-  recursivo = true,
-  sub = true,
   proximas = false,
 }: FocoCascataDisciplinasOpcoes) {
   grayScaleMode.value = foco;
   if (!props.grafo) return;
 
-  const listaRecursiva = proximas
-    ? props.grafo.getNextDisciplines(id)
-    : props.grafo.getPreRequisites(id);
+  const direction = proximas ? "after" : "before";
+  const depths = props.grafo.getDepths(id, direction);
 
-  if (listaRecursiva.length === 0) return;
+  if (depths.size === 0) return;
 
-  for (const idImediato of listaRecursiva) {
-    const el = elementRefsById.value[idImediato];
+  for (const [depId, depth] of depths) {
+    const el = elementRefsById.value[depId];
 
     if (!el) {
       console.error(
         "Erro ao tentar focar em cascata. Elemento desconhecido (possivelmente uma optativa) de ID:",
-        idImediato,
+        depId,
       );
-      return;
+      continue;
     }
+
+    el.$el.style.transitionDelay = foco ? `${depth * getCascadeDelay()}ms` : "0ms";
 
     if (proximas) {
       el.disciplineClicked(foco);
     } else {
       el.focusDiscipline(foco);
     }
-
-    if (recursivo) {
-      setTimeout(
-        () =>
-          focoCascataDisciplinas({
-            id: idImediato,
-            foco,
-            recursivo,
-            sub,
-            proximas,
-          }),
-        TEMPO_DE_EFEITO_CASCATA_EM_MS,
-      );
-    }
   }
+}
+
+function setZoom(valor: number) {
+  zoom.value = Math.min(ZOOM_MAX, Math.max(ZOOM_MIN, valor));
+}
+
+function zoomIn() {
+  setZoom(zoom.value + ZOOM_STEP);
+}
+
+function zoomOut() {
+  setZoom(zoom.value - ZOOM_STEP);
+}
+
+
+/**
+ * Detecta Ctrl+wheel (Windows/Linux) e Cmd+wheel (Mac) para aplicar zoom.
+ * O preventDefault evita o zoom nativo do navegador na página inteira.
+ */
+function handleWheel(e: WheelEvent) {
+  if (!e.ctrlKey && !e.metaKey) return;
+  e.preventDefault();
+  setZoom(zoom.value * (1 - e.deltaY * WHEEL_SENSITIVITY));
+}
+
+/** Estado do gesto de pinch (touch) para zoom em dispositivos móveis. */
+let pinchStartDist = 0;
+let pinchStartZoom = 1;
+
+function getPinchDist(touches: TouchList): number {
+  const [a, b] = [touches[0], touches[1]];
+  return Math.hypot(a.clientX - b.clientX, a.clientY - b.clientY);
+}
+
+function handleTouchStart(e: TouchEvent) {
+  if (e.touches.length === 2) {
+    pinchStartDist = getPinchDist(e.touches);
+    pinchStartZoom = zoom.value;
+  }
+}
+
+function handleTouchMove(e: TouchEvent) {
+  if (e.touches.length !== 2) return;
+  e.preventDefault();
+  const dist = getPinchDist(e.touches);
+  setZoom(pinchStartZoom * (dist / pinchStartDist));
 }
 </script>
 
 <template>
   <div
-    class="flex flex-row h-[500px] overflow-x-auto overflow-y-hidden space-x-12 px-6"
+    class="relative h-[500px] overflow-hidden space-x-12 px-6"
+    @wheel="handleWheel"
+    @touchstart="handleTouchStart"
+    @touchmove="handleTouchMove"
   >
-    <div class="flex-1 py-6" v-for="i in semestres.length" :key="i">
-      <div
-        class="rounded-full text-center border border-white/50 bg-black/20 h-6 mb-2"
-      >
-        <span class="text-sm">{{ i }}</span>
+    <div
+      class="flex flex-row h-full overflow-x-auto overflow-y-hidden space-x-12 px-6 origin-top-left transition-transform duration-100"
+      :style="{ transform: `scale(${zoom})`, width: `${100 / zoom}%`, height: `${100 / zoom}%` }"
+    >
+      <div class="flex-1 py-6" v-for="i in semestres.length" :key="i">
+        <div
+          class="rounded-full text-center border border-white/50 bg-black/20 h-6 mb-2"
+        >
+          <span class="text-sm" data-test-semester-label="true">{{ i }}</span>
+        </div>
+        <!--
+          TransitionGroup anima a entrada dos cards ao carregar dados de um novo curso.
+          O tag "div" preserva o layout flex existente; cada card recebe o delay
+          de profundidade definido em focoCascataDisciplinas via el.$el.style.transitionDelay.
+          @see https://vuejs.org/guide/built-ins/transition-group.html
+        -->
+        <TransitionGroup name="card" tag="div" class="flex justify-around flex-col h-full">
+          <DisciplineCard
+            v-for="discipline in semestres[i - 1]"
+            @inFocus="
+              focoCascataDisciplinas({
+                id: discipline.pegaId(),
+              })
+            "
+            @outFocus="
+              focoCascataDisciplinas({
+                id: discipline.pegaId(),
+                foco: false,
+              })
+            "
+            @onClick="
+              focoCascataDisciplinas({
+                id: discipline.pegaId(),
+                proximas: true,
+              })
+            "
+            @offClick="
+              focoCascataDisciplinas({
+                id: discipline.pegaId(),
+                foco: false,
+                proximas: true,
+              })
+            "
+            :key="discipline.pegaId()"
+            :ref="
+              (el) =>
+                (elementRefsById[discipline.pegaId()] = el as DisciplineCardType)
+            "
+            :discipline="discipline"
+            :gray-scale-mode="grayScaleMode"
+          />
+        </TransitionGroup>
       </div>
-      <div class="flex justify-around flex-col h-full">
-        <DisciplineCard
-          v-for="discipline in semestres[i - 1]"
-          @inFocus="
-            focoCascataDisciplinas({
-              id: discipline.pegaId(),
-            })
-          "
-          @outFocus="
-            focoCascataDisciplinas({
-              id: discipline.pegaId(),
-              foco: false,
-            })
-          "
-          @onClick="
-            focoCascataDisciplinas({
-              id: discipline.pegaId(),
-              proximas: true,
-            })
-          "
-          @offClick="
-            focoCascataDisciplinas({
-              id: discipline.pegaId(),
-              foco: false,
-              proximas: true,
-            })
-          "
-          :key="discipline.pegaId()"
-          :ref="
-            (el) =>
-              (elementRefsById[discipline.pegaId()] = el as DisciplineCardType)
-          "
-          :discipline="discipline"
-          :gray-scale-mode="grayScaleMode"
-        />
+      <div
+        v-if="semestres.length === 0"
+        class="flex justify-center items-center flex-1 h-full"
+      >
+        <h2 class="text-4xl font-extrabold">Nenhuma matéria!</h2>
       </div>
     </div>
+
+    <!-- Controle de zoom flutuante -->
     <div
-      v-if="semestres.length === 0"
-      class="flex justify-center items-center flex-1 h-full"
+      class="absolute bottom-6 right-6 flex items-center gap-2 bg-black/60 backdrop-blur rounded-full px-3 py-1.5 select-none z-10 transition-transform"
     >
-      <h2 class="text-4xl font-extrabold">Nenhuma matéria!</h2>
+      <button
+        @click="zoomOut"
+        class="w-6 h-6 flex items-center justify-center rounded-full hover:bg-white/20 transition-colors"
+        aria-label="Diminuir zoom"
+      >
+        -
+      </button>
+      <span class="text-sm w-10 text-center tabular-nums">{{ Math.round(zoom * 100) }}%</span>
+      <button
+        @click="zoomIn"
+        class="w-6 h-6 flex items-center justify-center rounded-full hover:bg-white/20 transition-colors"
+        aria-label="Aumentar zoom"
+      >
+        +
+      </button>
     </div>
   </div>
 </template>

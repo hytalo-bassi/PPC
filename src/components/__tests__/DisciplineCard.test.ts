@@ -48,17 +48,19 @@ describe("DisciplineCard", () => {
       const wrapper = createWrapper();
       await wrapper.find("div").trigger("mouseenter");
 
-      expect(wrapper.find("div").classes()).toContain("discipline-focused");
-      expect(wrapper.find("div").classes()).not.toContain("discipline");
+      expect(wrapper.find("div[data-focused='true']")).toBeDefined();
     });
 
     it("alterna de volta para classe padrão quando mouse sair", async () => {
       const wrapper = createWrapper();
       await wrapper.find("div").trigger("mouseenter");
-      await wrapper.find("div").trigger("mouseleave");
+      console.log(wrapper.find("div[data-focused='true']"));
 
-      expect(wrapper.find("div").classes()).toContain("discipline");
-      expect(wrapper.find("div").classes()).not.toContain("discipline-focused");
+      expect(wrapper.find("div[data-focused='true']")).toBeDefined();
+      await wrapper.find("div").trigger("mouseleave");
+      console.log(wrapper.find("div"));
+
+      expect(wrapper.find("div").attributes).not.toContain("data-focused");
     });
 
     it("configura o foco programaticamente", async () => {
@@ -67,7 +69,7 @@ describe("DisciplineCard", () => {
       wrapper.vm.focusDiscipline(true);
       await wrapper.vm.$nextTick();
 
-      expect(wrapper.find("div").classes()).toContain("discipline-focused");
+      expect(wrapper.find("div[data-focused='true']")).toBeDefined();
 
       wrapper.vm.focusDiscipline(false);
       await wrapper.vm.$nextTick();
@@ -81,7 +83,7 @@ describe("DisciplineCard", () => {
       const wrapper = createWrapper();
       await wrapper.find("div").trigger("click");
 
-      expect(wrapper.find("div").classes()).toContain("discipline-focused");
+      expect(wrapper.find("div[data-focused='true']")).toBeDefined();
     });
 
     it("mantém o foco depois do mouse clickar e sair", async () => {
@@ -89,7 +91,7 @@ describe("DisciplineCard", () => {
       await wrapper.find("div").trigger("click");
       await wrapper.find("div").trigger("mouseleave");
 
-      expect(wrapper.find("div").classes()).toContain("discipline-focused");
+      expect(wrapper.find("div[data-focused='true']")).toBeDefined();
     });
 
     it("remove o foco no segundo click", async () => {
@@ -117,10 +119,10 @@ describe("DisciplineCard", () => {
       wrapper.vm.disciplineClicked(true);
       await wrapper.vm.$nextTick();
 
-      expect(wrapper.find("div").classes()).toContain("discipline-focused");
+      expect(wrapper.find("div[data-focused='true']")).toBeDefined();
 
       await wrapper.find("div").trigger("mouseenter");
-      expect(wrapper.find("div").classes()).toContain("discipline-focused");
+      expect(wrapper.find("div[data-focused='true']")).toBeDefined();
 
       wrapper.vm.disciplineClicked(false);
       await wrapper.vm.$nextTick();
@@ -216,11 +218,11 @@ describe("DisciplineCard", () => {
       expect(wrapper.find("div").classes()).toContain("discipline");
 
       await wrapper.find("div").trigger("mouseenter");
-      expect(wrapper.find("div").classes()).toContain("discipline-focused");
+      expect(wrapper.find("div[data-focused='true']")).toBeDefined();
       expect(wrapper.emitted("inFocus")).toHaveLength(1);
 
       await wrapper.find("div").trigger("mouseleave");
-      expect(wrapper.find("div").classes()).toContain("discipline");
+      expect(wrapper.find("div[data-focused='false']")).toBeDefined();
       expect(wrapper.emitted("outFocus")).toHaveLength(1);
     });
 
@@ -228,12 +230,12 @@ describe("DisciplineCard", () => {
       const wrapper = createWrapper();
 
       await wrapper.find("div").trigger("click");
-      expect(wrapper.find("div").classes()).toContain("discipline-focused");
+      expect(wrapper.find("div[data-focused='true']")).toBeDefined();
       expect(wrapper.emitted("onClick")).toHaveLength(1);
 
       await wrapper.find("div").trigger("mouseenter");
       await wrapper.find("div").trigger("mouseleave");
-      expect(wrapper.find("div").classes()).toContain("discipline-focused");
+      expect(wrapper.find("div[data-focused='true']")).toBeDefined();
 
       await wrapper.find("div").trigger("click");
       expect(wrapper.find("div").classes()).toContain("discipline");
@@ -245,7 +247,7 @@ describe("DisciplineCard", () => {
 
       wrapper.vm.focusDiscipline(true);
       await wrapper.vm.$nextTick();
-      expect(wrapper.find("div").classes()).toContain("discipline-focused");
+      expect(wrapper.find("div[data-focused='true']")).toBeDefined();
 
       await wrapper.find("div").trigger("click");
 

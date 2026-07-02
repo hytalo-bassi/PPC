@@ -59,47 +59,81 @@ const handleInput = (): void => {
     console.log("Codigo curso", inputValue.value);
   }
 };
-
 </script>
 
 <template>
-  <div id="app" class="bg-linear-65 from-blue-400 to-rose-500 w-full h-full px-24 overflow-auto pb-8">
-    <SemestresHeading :model-value="inputValue" :carregando="carregando"
-      @update:model-value="(v: string) => {
-        inputValue = v;
-        handleInput();
-      }" />
-
-    <div v-if="carregando" class="flex flex-col items-center justify-center py-20">
-      <div class="animate-spin h-12 w-12 border-4 border-white border-t-transparent rounded-full mb-4"></div>
-      <p class="text-white text-xl font-semibold">Carregando disciplinas...</p>
-    </div>
-
-    <div v-else-if="erro" class="flex flex-col items-center justify-center py-20">
-      <div class="bg-red-500/20 border-2 border-red-300 rounded-lg p-8 max-w-md">
-        <div class="text-6xl mb-4">⚠️</div>
-        <h2 class="text-white text-2xl font-bold mb-2">
-          Erro ao carregar dados
-        </h2>
-        <p class="text-red-100 mb-4">
-          {{
-            erro.message || "Não foi possível carregar as disciplinas do curso."
-          }}
-        </p>
-
-        <button @click="() => {
-          inputValue = '1905';
+  <div
+    id="app"
+    class="bg-linear-65 from-blue-400 to-rose-500 w-full h-full px-24 overflow-auto pb-8"
+  >
+    <SemestresHeading
+      :model-value="inputValue"
+      :carregando="carregando"
+      @update:model-value="
+        (v: string) => {
+          inputValue = v;
           handleInput();
-        }"
-        class="bg-white text-red-600 px-6 py-2 rounded-lg font-semibold hover:bg-red-50 transition-colors">
-          Tentar novamente com código padrão
-        </button>
-      </div>
-    </div>
+        }
+      "
+    />
 
-    <template v-else>
-      <SemestersScreen :semestres="semestres" :grafo="grafo" />
-      <div class="Line"></div>
-    </template>
+    <!--
+      Transition entre os estados de loading, erro e sucesso.
+      O modo "out-in" garante que o elemento saindo complete sua animação
+      antes do próximo entrar, evitando sobreposição visual.
+      @see https://vuejs.org/guide/built-ins/transition.html
+    -->
+    <Transition name="fade" mode="out-in">
+      <div
+        v-if="carregando"
+        key="loading"
+        class="flex flex-col items-center justify-center py-20"
+      >
+        <div
+          class="animate-spin h-12 w-12 border-4 border-white border-t-transparent rounded-full mb-4"
+        ></div>
+        <p class="text-white text-xl font-semibold">
+          Carregando disciplinas...
+        </p>
+      </div>
+
+      <div
+        v-else-if="erro"
+        key="erro"
+        class="flex flex-col items-center justify-center py-20"
+      >
+        <div
+          class="bg-red-500/20 border-2 border-red-300 rounded-lg p-8 max-w-md"
+        >
+          <div class="text-6xl mb-4">⚠️</div>
+          <h2 class="text-white text-2xl font-bold mb-2">
+            Erro ao carregar dados
+          </h2>
+          <p class="text-red-100 mb-4">
+            {{
+              erro.message ||
+              "Não foi possível carregar as disciplinas do curso."
+            }}
+          </p>
+
+          <button
+            @click="
+              () => {
+                inputValue = '1905';
+                handleInput();
+              }
+            "
+            class="bg-white text-red-600 px-6 py-2 rounded-lg font-semibold hover:bg-red-50 transition-colors"
+          >
+            Tentar novamente com código padrão
+          </button>
+        </div>
+      </div>
+
+      <div v-else key="conteudo">
+        <SemestersScreen :semestres="semestres" :grafo="grafo" />
+        <div class="Line"></div>
+      </div>
+    </Transition>
   </div>
 </template>

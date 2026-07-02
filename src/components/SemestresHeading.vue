@@ -33,21 +33,21 @@
 </template>
 
 <script setup lang="ts">
-import { computed } from 'vue'
+import { computed } from "vue";
 
 const props = defineProps<{
-  modelValue: string
-  carregando?: boolean
-}>()
+  modelValue: string;
+  carregando?: boolean;
+}>();
 
 const emit = defineEmits<{
-  (e: 'update:modelValue', value: string): void
-}>()
+  (e: "update:modelValue", value: string): void;
+}>();
 
 const inputValue = computed({
   get: () => props.modelValue,
-  set: (value: string) => emit('update:modelValue', value),
-})
+  set: (value: string) => emit("update:modelValue", value),
+});
 
-const carregando = computed(() => props.carregando ?? false)
+const carregando = computed(() => props.carregando ?? false);
 </script>

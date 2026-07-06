@@ -1,0 +1,1875 @@
+[
+  {
+    "Id": 54210,
+    "Codigo": "1302.000.519-9",
+    "Tipo": "OBR",
+    "Descricao": "BIOLOGIA CELULAR",
+    "Semestre": 1,
+    "Apelido": "BIOLOGIA CELULAR",
+    "CargaHorariaTeorico": 45,
+    "CargaHorariaPratica": null,
+    "ListaPrequisitos": []
+  },
+  {
+    "Id": 54217,
+    "Codigo": "1302.000.526-0",
+    "Tipo": "OBR",
+    "Descricao": "DESENHO TÉCNICO",
+    "Semestre": 1,
+    "Apelido": "DESENHO TÉCNICO",
+    "CargaHorariaTeorico": 45,
+    "CargaHorariaPratica": null,
+    "ListaPrequisitos": []
+  },
+  {
+    "Id": 54196,
+    "Codigo": "1302.000.505-4",
+    "Tipo": "OBR",
+    "Descricao": "INICIAÇÃO A AGRONOMIA REGIONAL",
+    "Semestre": 1,
+    "Apelido": "INICIAÇÃO A AGRONOMIA REGIONAL",
+    "CargaHorariaTeorico": 30,
+    "CargaHorariaPratica": null,
+    "ListaPrequisitos": []
+  },
+  {
+    "Id": 54174,
+    "Codigo": "1302.000.483-4",
+    "Tipo": "OBR",
+    "Descricao": "MATEMÁTICA APLICADA",
+    "Semestre": 1,
+    "Apelido": "MATEMÁTICA APLICADA",
+    "CargaHorariaTeorico": 60,
+    "CargaHorariaPratica": null,
+    "ListaPrequisitos": []
+  },
+  {
+    "Id": 52581,
+    "Codigo": "1302.000.410-0",
+    "Tipo": "OBR",
+    "Descricao": "MORFOLOGIA E TAXONOMIA VEGETAL",
+    "Semestre": 1,
+    "Apelido": "MORFOLOGIA E TAXONOMIA VEGETAL",
+    "CargaHorariaTeorico": 60,
+    "CargaHorariaPratica": null,
+    "ListaPrequisitos": []
+  },
+  {
+    "Id": 54184,
+    "Codigo": "1302.000.493-2",
+    "Tipo": "OBR",
+    "Descricao": "QUÍMICA GERAL",
+    "Semestre": 1,
+    "Apelido": "QUÍMICA GERAL",
+    "CargaHorariaTeorico": 45,
+    "CargaHorariaPratica": null,
+    "ListaPrequisitos": []
+  },
+  {
+    "Id": 52536,
+    "Codigo": "1302.000.365-9",
+    "Tipo": "OBR",
+    "Descricao": "ANATOMIA VEGETAL",
+    "Semestre": 2,
+    "Apelido": "ANATOMIA VEGETAL",
+    "CargaHorariaTeorico": 60,
+    "CargaHorariaPratica": null,
+    "ListaPrequisitos": []
+  },
+  {
+    "Id": 54198,
+    "Codigo": "1302.000.507-2",
+    "Tipo": "OBR",
+    "Descricao": "BIOQUÍMICA APLICADA",
+    "Semestre": 2,
+    "Apelido": "BIOQUÍMICA APLICADA",
+    "CargaHorariaTeorico": 60,
+    "CargaHorariaPratica": null,
+    "ListaPrequisitos": []
+  },
+  {
+    "Id": 52500,
+    "Codigo": "1302.000.329-2",
+    "Tipo": "OBR",
+    "Descricao": "DEONTOLOGIA E RECEITUÁRIO AGRONÔMICO",
+    "Semestre": 2,
+    "Apelido": "DEONTOLOGIA E RECEITUÁRIO AGRONÔMICO",
+    "CargaHorariaTeorico": 30,
+    "CargaHorariaPratica": null,
+    "ListaPrequisitos": []
+  },
+  {
+    "Id": 52547,
+    "Codigo": "1302.000.376-6",
+    "Tipo": "OBR",
+    "Descricao": "ECOLOGIA",
+    "Semestre": 2,
+    "Apelido": "ECOLOGIA",
+    "CargaHorariaTeorico": 30,
+    "CargaHorariaPratica": null,
+    "ListaPrequisitos": []
+  },
+  {
+    "Id": 54165,
+    "Codigo": "1302.000.474-5",
+    "Tipo": "OBR",
+    "Descricao": "ESTATÍSTICA",
+    "Semestre": 2,
+    "Apelido": "ESTATÍSTICA",
+    "CargaHorariaTeorico": 60,
+    "CargaHorariaPratica": null,
+    "ListaPrequisitos": []
+  },
+  {
+    "Id": 54185,
+    "Codigo": "1302.000.494-1",
+    "Tipo": "OBR",
+    "Descricao": "QUÍMICA ANALÍTICA",
+    "Semestre": 2,
+    "Apelido": "QUÍMICA ANALÍTICA",
+    "CargaHorariaTeorico": 45,
+    "CargaHorariaPratica": null,
+    "ListaPrequisitos": []
+  },
+  {
+    "Id": 54203,
+    "Codigo": "1302.000.512-5",
+    "Tipo": "OBR",
+    "Descricao": "ZOOLOGIA E PARASITOLOGIA AGRÍCOLA",
+    "Semestre": 2,
+    "Apelido": "ZOOLOGIA E PARASITOLOGIA AGRÍCOLA",
+    "CargaHorariaTeorico": 45,
+    "CargaHorariaPratica": null,
+    "ListaPrequisitos": []
+  },
+  {
+    "Id": 54206,
+    "Codigo": "1302.000.515-2",
+    "Tipo": "OBR",
+    "Descricao": "ENTOMOLOGIA GERAL",
+    "Semestre": 3,
+    "Apelido": "ENTOMOLOGIA GERAL",
+    "CargaHorariaTeorico": 60,
+    "CargaHorariaPratica": null,
+    "ListaPrequisitos": []
+  },
+  {
+    "Id": 52483,
+    "Codigo": "1302.000.312-0",
+    "Tipo": "OBR",
+    "Descricao": "GENÉTICA APLICADA",
+    "Semestre": 3,
+    "Apelido": "GENÉTICA APLICADA",
+    "CargaHorariaTeorico": 60,
+    "CargaHorariaPratica": null,
+    "ListaPrequisitos": []
+  },
+  {
+    "Id": 54186,
+    "Codigo": "1302.000.495-0",
+    "Tipo": "OBR",
+    "Descricao": "INICIAÇÃO A PESQUISA APLICADA",
+    "Semestre": 3,
+    "Apelido": "INICIAÇÃO A PESQUISA APLICADA",
+    "CargaHorariaTeorico": 45,
+    "CargaHorariaPratica": null,
+    "ListaPrequisitos": []
+  },
+  {
+    "Id": 54195,
+    "Codigo": "1302.000.504-5",
+    "Tipo": "OBR",
+    "Descricao": "MECÂNICA E MÁQUINAS MOTORAS",
+    "Semestre": 3,
+    "Apelido": "MECÂNICA E MÁQUINAS MOTORAS",
+    "CargaHorariaTeorico": 45,
+    "CargaHorariaPratica": null,
+    "ListaPrequisitos": []
+  },
+  {
+    "Id": 52566,
+    "Codigo": "1302.000.395-3",
+    "Tipo": "OBR",
+    "Descricao": "MORFOLOGIA E GÊNESE DO SOLO",
+    "Semestre": 3,
+    "Apelido": "MORFOLOGIA E GÊNESE DO SOLO",
+    "CargaHorariaTeorico": 60,
+    "CargaHorariaPratica": null,
+    "ListaPrequisitos": []
+  },
+  {
+    "Id": 52489,
+    "Codigo": "1302.000.318-5",
+    "Tipo": "OBR",
+    "Descricao": "TOPOGRAFIA E GEODESIA APLICADAS",
+    "Semestre": 3,
+    "Apelido": "TOPOGRAFIA E GEODESIA APLICADAS",
+    "CargaHorariaTeorico": 60,
+    "CargaHorariaPratica": null,
+    "ListaPrequisitos": []
+  },
+  {
+    "Id": 52507,
+    "Codigo": "1302.000.336-3",
+    "Tipo": "OBR",
+    "Descricao": "CARTOGRAFIA E SISTEMAS DE INFORMAÇÕES GEOGRÁFICAS",
+    "Semestre": 4,
+    "Apelido": "CARTOGRAFIA E SISTEMAS DE INFORMAÇÕES GEOGRÁFICAS",
+    "CargaHorariaTeorico": 60,
+    "CargaHorariaPratica": null,
+    "ListaPrequisitos": []
+  },
+  {
+    "Id": 52477,
+    "Codigo": "1302.000.306-9",
+    "Tipo": "OBR",
+    "Descricao": "CLASSIFICAÇÃO E FÍSICA DO SOLO",
+    "Semestre": 4,
+    "Apelido": "CLASSIFICAÇÃO E FÍSICA DO SOLO",
+    "CargaHorariaTeorico": 60,
+    "CargaHorariaPratica": null,
+    "ListaPrequisitos": []
+  },
+  {
+    "Id": 54178,
+    "Codigo": "1302.000.487-0",
+    "Tipo": "OBR",
+    "Descricao": "EXPERIMENTAÇÃO AGRÍCOLA",
+    "Semestre": 4,
+    "Apelido": "EXPERIMENTAÇÃO AGRÍCOLA",
+    "CargaHorariaTeorico": 60,
+    "CargaHorariaPratica": null,
+    "ListaPrequisitos": [
+      {
+        "Id": 54165,
+        "Codigo": "1302.000.474-5",
+        "Descricao": "ESTATÍSTICA",
+        "Semestre": "0",
+        "Apelido": "ESTATÍSTICA",
+        "CargaHorariaTeorico": 0,
+        "CargaHorariaPratica": 0,
+        "ListaPrequisitos": []
+      }
+    ]
+  },
+  {
+    "Id": 52476,
+    "Codigo": "1302.000.305-0",
+    "Tipo": "OBR",
+    "Descricao": "FISIOLOGIA VEGETAL",
+    "Semestre": 4,
+    "Apelido": "FISIOLOGIA VEGETAL",
+    "CargaHorariaTeorico": 60,
+    "CargaHorariaPratica": null,
+    "ListaPrequisitos": [
+      {
+        "Id": 52536,
+        "Codigo": "1302.000.365-9",
+        "Descricao": "ANATOMIA VEGETAL",
+        "Semestre": "0",
+        "Apelido": "ANATOMIA VEGETAL",
+        "CargaHorariaTeorico": 0,
+        "CargaHorariaPratica": 0,
+        "ListaPrequisitos": []
+      },
+      {
+        "Id": 54198,
+        "Codigo": "1302.000.507-2",
+        "Descricao": "BIOQUÍMICA APLICADA",
+        "Semestre": "0",
+        "Apelido": "BIOQUÍMICA APLICADA",
+        "CargaHorariaTeorico": 0,
+        "CargaHorariaPratica": 0,
+        "ListaPrequisitos": []
+      }
+    ]
+  },
+  {
+    "Id": 52526,
+    "Codigo": "1302.000.355-0",
+    "Tipo": "OBR",
+    "Descricao": "MICROBIOLOGIA AGRÍCOLA",
+    "Semestre": 4,
+    "Apelido": "MICROBIOLOGIA AGRÍCOLA",
+    "CargaHorariaTeorico": 60,
+    "CargaHorariaPratica": null,
+    "ListaPrequisitos": [
+      {
+        "Id": 54210,
+        "Codigo": "1302.000.519-9",
+        "Descricao": "BIOLOGIA CELULAR",
+        "Semestre": "0",
+        "Apelido": "BIOLOGIA CELULAR",
+        "CargaHorariaTeorico": 0,
+        "CargaHorariaPratica": 0,
+        "ListaPrequisitos": []
+      }
+    ]
+  },
+  {
+    "Id": 54176,
+    "Codigo": "1302.000.485-2",
+    "Tipo": "OBR",
+    "Descricao": "SOCIOLOGIA RURAL",
+    "Semestre": 4,
+    "Apelido": "SOCIOLOGIA RURAL",
+    "CargaHorariaTeorico": 30,
+    "CargaHorariaPratica": null,
+    "ListaPrequisitos": []
+  },
+  {
+    "Id": 54191,
+    "Codigo": "1302.000.500-9",
+    "Tipo": "OBR",
+    "Descricao": "ZOOTECNIA GERAL",
+    "Semestre": 4,
+    "Apelido": "ZOOTECNIA GERAL",
+    "CargaHorariaTeorico": 60,
+    "CargaHorariaPratica": null,
+    "ListaPrequisitos": []
+  },
+  {
+    "Id": 54167,
+    "Codigo": "1302.000.476-3",
+    "Tipo": "OBR",
+    "Descricao": "CONSTRUÇÕES RURAIS",
+    "Semestre": 5,
+    "Apelido": "CONSTRUÇÕES RURAIS",
+    "CargaHorariaTeorico": 45,
+    "CargaHorariaPratica": null,
+    "ListaPrequisitos": [
+      {
+        "Id": 54217,
+        "Codigo": "1302.000.526-0",
+        "Descricao": "DESENHO TÉCNICO",
+        "Semestre": "0",
+        "Apelido": "DESENHO TÉCNICO",
+        "CargaHorariaTeorico": 0,
+        "CargaHorariaPratica": 0,
+        "ListaPrequisitos": []
+      }
+    ]
+  },
+  {
+    "Id": 54201,
+    "Codigo": "1302.000.510-7",
+    "Tipo": "OBR",
+    "Descricao": "ENTOMOLOGIA APLICADA - PRAGAS I",
+    "Semestre": 5,
+    "Apelido": "ENTOMOLOGIA APLICADA - PRAGAS I",
+    "CargaHorariaTeorico": 60,
+    "CargaHorariaPratica": null,
+    "ListaPrequisitos": [
+      {
+        "Id": 54206,
+        "Codigo": "1302.000.515-2",
+        "Descricao": "ENTOMOLOGIA GERAL",
+        "Semestre": "0",
+        "Apelido": "ENTOMOLOGIA GERAL",
+        "CargaHorariaTeorico": 0,
+        "CargaHorariaPratica": 0,
+        "ListaPrequisitos": []
+      }
+    ]
+  },
+  {
+    "Id": 54218,
+    "Codigo": "1302.000.527-9",
+    "Tipo": "OBR",
+    "Descricao": "EXTENSÃO RURAL E COMUNICAÇÃO",
+    "Semestre": 5,
+    "Apelido": "EXTENSÃO RURAL E COMUNICAÇÃO",
+    "CargaHorariaTeorico": 60,
+    "CargaHorariaPratica": null,
+    "ListaPrequisitos": [
+      {
+        "Id": 54176,
+        "Codigo": "1302.000.485-2",
+        "Descricao": "SOCIOLOGIA RURAL",
+        "Semestre": "0",
+        "Apelido": "SOCIOLOGIA RURAL",
+        "CargaHorariaTeorico": 0,
+        "CargaHorariaPratica": 0,
+        "ListaPrequisitos": []
+      }
+    ]
+  },
+  {
+    "Id": 54182,
+    "Codigo": "1302.000.491-4",
+    "Tipo": "OBR",
+    "Descricao": "FERTILIDADE DO SOLO E NUTRIÇÃO DE PLANTAS",
+    "Semestre": 5,
+    "Apelido": "FERTILIDADE DO SOLO E NUTRIÇÃO DE PLANTAS",
+    "CargaHorariaTeorico": 60,
+    "CargaHorariaPratica": null,
+    "ListaPrequisitos": [
+      {
+        "Id": 52476,
+        "Codigo": "1302.000.305-0",
+        "Descricao": "FISIOLOGIA VEGETAL",
+        "Semestre": "0",
+        "Apelido": "FISIOLOGIA VEGETAL",
+        "CargaHorariaTeorico": 0,
+        "CargaHorariaPratica": 0,
+        "ListaPrequisitos": []
+      },
+      {
+        "Id": 52566,
+        "Codigo": "1302.000.395-3",
+        "Descricao": "MORFOLOGIA E GÊNESE DO SOLO",
+        "Semestre": "0",
+        "Apelido": "MORFOLOGIA E GÊNESE DO SOLO",
+        "CargaHorariaTeorico": 0,
+        "CargaHorariaPratica": 0,
+        "ListaPrequisitos": []
+      }
+    ]
+  },
+  {
+    "Id": 54170,
+    "Codigo": "1302.000.479-0",
+    "Tipo": "OBR",
+    "Descricao": "FOTOINTERPRETAÇÃO E SENSORIAMENTO REMOTO",
+    "Semestre": 5,
+    "Apelido": "FOTOINTERPRETAÇÃO E SENSORIAMENTO REMOTO",
+    "CargaHorariaTeorico": 45,
+    "CargaHorariaPratica": null,
+    "ListaPrequisitos": [
+      {
+        "Id": 52507,
+        "Codigo": "1302.000.336-3",
+        "Descricao": "CARTOGRAFIA E SISTEMAS DE INFORMAÇÕES GEOGRÁFICAS",
+        "Semestre": "0",
+        "Apelido": "CARTOGRAFIA E SISTEMAS DE INFORMAÇÕES GEOGRÁFICAS",
+        "CargaHorariaTeorico": 0,
+        "CargaHorariaPratica": 0,
+        "ListaPrequisitos": []
+      }
+    ]
+  },
+  {
+    "Id": 52555,
+    "Codigo": "1302.000.384-6",
+    "Tipo": "OBR",
+    "Descricao": "HIDRÁULICA",
+    "Semestre": 5,
+    "Apelido": "HIDRÁULICA",
+    "CargaHorariaTeorico": 60,
+    "CargaHorariaPratica": null,
+    "ListaPrequisitos": [
+      {
+        "Id": 54174,
+        "Codigo": "1302.000.483-4",
+        "Descricao": "MATEMÁTICA APLICADA",
+        "Semestre": "0",
+        "Apelido": "MATEMÁTICA APLICADA",
+        "CargaHorariaTeorico": 0,
+        "CargaHorariaPratica": 0,
+        "ListaPrequisitos": []
+      }
+    ]
+  },
+  {
+    "Id": 54187,
+    "Codigo": "1302.000.496-0",
+    "Tipo": "OBR",
+    "Descricao": "NUTRIÇÃO E ALIMENTAÇÃO ANIMAL",
+    "Semestre": 5,
+    "Apelido": "NUTRIÇÃO E ALIMENTAÇÃO ANIMAL",
+    "CargaHorariaTeorico": 60,
+    "CargaHorariaPratica": null,
+    "ListaPrequisitos": [
+      {
+        "Id": 54191,
+        "Codigo": "1302.000.500-9",
+        "Descricao": "ZOOTECNIA GERAL",
+        "Semestre": "0",
+        "Apelido": "ZOOTECNIA GERAL",
+        "CargaHorariaTeorico": 0,
+        "CargaHorariaPratica": 0,
+        "ListaPrequisitos": []
+      }
+    ]
+  },
+  {
+    "Id": 52538,
+    "Codigo": "1302.000.367-7",
+    "Tipo": "OBR",
+    "Descricao": "AGROMETEOROLOGIA",
+    "Semestre": 6,
+    "Apelido": "AGROMETEOROLOGIA",
+    "CargaHorariaTeorico": 60,
+    "CargaHorariaPratica": null,
+    "ListaPrequisitos": [
+      {
+        "Id": 54174,
+        "Codigo": "1302.000.483-4",
+        "Descricao": "MATEMÁTICA APLICADA",
+        "Semestre": "0",
+        "Apelido": "MATEMÁTICA APLICADA",
+        "CargaHorariaTeorico": 0,
+        "CargaHorariaPratica": 0,
+        "ListaPrequisitos": []
+      }
+    ]
+  },
+  {
+    "Id": 54190,
+    "Codigo": "1302.000.499-7",
+    "Tipo": "OBR",
+    "Descricao": "BIOLOGIA E CONTROLE DE PLANTAS DANINHAS",
+    "Semestre": 6,
+    "Apelido": "BIOLOGIA E CONTROLE DE PLANTAS DANINHAS",
+    "CargaHorariaTeorico": 60,
+    "CargaHorariaPratica": null,
+    "ListaPrequisitos": [
+      {
+        "Id": 52476,
+        "Codigo": "1302.000.305-0",
+        "Descricao": "FISIOLOGIA VEGETAL",
+        "Semestre": "0",
+        "Apelido": "FISIOLOGIA VEGETAL",
+        "CargaHorariaTeorico": 0,
+        "CargaHorariaPratica": 0,
+        "ListaPrequisitos": []
+      }
+    ]
+  },
+  {
+    "Id": 54202,
+    "Codigo": "1302.000.511-6",
+    "Tipo": "OBR",
+    "Descricao": "ECONOMIA RURAL, MARKETING E AGRONEGÓCIOS",
+    "Semestre": 6,
+    "Apelido": "ECONOMIA RURAL, MARKETING E AGRONEGÓCIOS",
+    "CargaHorariaTeorico": 60,
+    "CargaHorariaPratica": null,
+    "ListaPrequisitos": [
+      {
+        "Id": 54174,
+        "Codigo": "1302.000.483-4",
+        "Descricao": "MATEMÁTICA APLICADA",
+        "Semestre": "0",
+        "Apelido": "MATEMÁTICA APLICADA",
+        "CargaHorariaTeorico": 0,
+        "CargaHorariaPratica": 0,
+        "ListaPrequisitos": []
+      }
+    ]
+  },
+  {
+    "Id": 54207,
+    "Codigo": "1302.000.516-1",
+    "Tipo": "OBR",
+    "Descricao": "ENTOMOLOGIA APLICADA - PRAGAS II",
+    "Semestre": 6,
+    "Apelido": "ENTOMOLOGIA APLICADA - PRAGAS II",
+    "CargaHorariaTeorico": 45,
+    "CargaHorariaPratica": null,
+    "ListaPrequisitos": [
+      {
+        "Id": 54206,
+        "Codigo": "1302.000.515-2",
+        "Descricao": "ENTOMOLOGIA GERAL",
+        "Semestre": "0",
+        "Apelido": "ENTOMOLOGIA GERAL",
+        "CargaHorariaTeorico": 0,
+        "CargaHorariaPratica": 0,
+        "ListaPrequisitos": []
+      }
+    ]
+  },
+  {
+    "Id": 54199,
+    "Codigo": "1302.000.508-1",
+    "Tipo": "OBR",
+    "Descricao": "FITOPATOLOGIA",
+    "Semestre": 6,
+    "Apelido": "FITOPATOLOGIA",
+    "CargaHorariaTeorico": 60,
+    "CargaHorariaPratica": null,
+    "ListaPrequisitos": [
+      {
+        "Id": 52526,
+        "Codigo": "1302.000.355-0",
+        "Descricao": "MICROBIOLOGIA AGRÍCOLA",
+        "Semestre": "0",
+        "Apelido": "MICROBIOLOGIA AGRÍCOLA",
+        "CargaHorariaTeorico": 0,
+        "CargaHorariaPratica": 0,
+        "ListaPrequisitos": []
+      }
+    ]
+  },
+  {
+    "Id": 54194,
+    "Codigo": "1302.000.503-6",
+    "Tipo": "OBR",
+    "Descricao": "MELHORAMENTO DE PLANTAS",
+    "Semestre": 6,
+    "Apelido": "MELHORAMENTO DE PLANTAS",
+    "CargaHorariaTeorico": 60,
+    "CargaHorariaPratica": null,
+    "ListaPrequisitos": [
+      {
+        "Id": 52483,
+        "Codigo": "1302.000.312-0",
+        "Descricao": "GENÉTICA APLICADA",
+        "Semestre": "0",
+        "Apelido": "GENÉTICA APLICADA",
+        "CargaHorariaTeorico": 0,
+        "CargaHorariaPratica": 0,
+        "ListaPrequisitos": []
+      }
+    ]
+  },
+  {
+    "Id": 54208,
+    "Codigo": "1302.000.517-0",
+    "Tipo": "OBR",
+    "Descricao": "ADMINISTRAÇÃO RURAL E PROJETOS AGROPECUÁRIOS",
+    "Semestre": 7,
+    "Apelido": "ADMINISTRAÇÃO RURAL E PROJETOS AGROPECUÁRIOS",
+    "CargaHorariaTeorico": 60,
+    "CargaHorariaPratica": null,
+    "ListaPrequisitos": [
+      {
+        "Id": 54202,
+        "Codigo": "1302.000.511-6",
+        "Descricao": "ECONOMIA RURAL, MARKETING E AGRONEGÓCIOS",
+        "Semestre": "0",
+        "Apelido": "ECONOMIA RURAL, MARKETING E AGRONEGÓCIOS",
+        "CargaHorariaTeorico": 0,
+        "CargaHorariaPratica": 0,
+        "ListaPrequisitos": []
+      }
+    ]
+  },
+  {
+    "Id": 54171,
+    "Codigo": "1302.000.480-7",
+    "Tipo": "OBR",
+    "Descricao": "CULTURA DE CEREAIS",
+    "Semestre": 7,
+    "Apelido": "CULTURA DE CEREAIS",
+    "CargaHorariaTeorico": 60,
+    "CargaHorariaPratica": null,
+    "ListaPrequisitos": [
+      {
+        "Id": 54182,
+        "Codigo": "1302.000.491-4",
+        "Descricao": "FERTILIDADE DO SOLO E NUTRIÇÃO DE PLANTAS",
+        "Semestre": "0",
+        "Apelido": "FERTILIDADE DO SOLO E NUTRIÇÃO DE PLANTAS",
+        "CargaHorariaTeorico": 0,
+        "CargaHorariaPratica": 0,
+        "ListaPrequisitos": []
+      }
+    ]
+  },
+  {
+    "Id": 54213,
+    "Codigo": "1302.000.522-3",
+    "Tipo": "OBR",
+    "Descricao": "DOENÇAS DAS PLANTAS CULTIVADAS",
+    "Semestre": 7,
+    "Apelido": "DOENÇAS DAS PLANTAS CULTIVADAS",
+    "CargaHorariaTeorico": 45,
+    "CargaHorariaPratica": null,
+    "ListaPrequisitos": [
+      {
+        "Id": 54199,
+        "Codigo": "1302.000.508-1",
+        "Descricao": "FITOPATOLOGIA",
+        "Semestre": "0",
+        "Apelido": "FITOPATOLOGIA",
+        "CargaHorariaTeorico": 0,
+        "CargaHorariaPratica": 0,
+        "ListaPrequisitos": []
+      }
+    ]
+  },
+  {
+    "Id": 52532,
+    "Codigo": "1302.000.361-2",
+    "Tipo": "OBR",
+    "Descricao": "FLORICULTURA E PAISAGISMO",
+    "Semestre": 7,
+    "Apelido": "FLORICULTURA E PAISAGISMO",
+    "CargaHorariaTeorico": 60,
+    "CargaHorariaPratica": null,
+    "ListaPrequisitos": [
+      {
+        "Id": 52581,
+        "Codigo": "1302.000.410-0",
+        "Descricao": "MORFOLOGIA E TAXONOMIA VEGETAL",
+        "Semestre": "0",
+        "Apelido": "MORFOLOGIA E TAXONOMIA VEGETAL",
+        "CargaHorariaTeorico": 0,
+        "CargaHorariaPratica": 0,
+        "ListaPrequisitos": []
+      }
+    ]
+  },
+  {
+    "Id": 52539,
+    "Codigo": "1302.000.368-6",
+    "Tipo": "OBR",
+    "Descricao": "MANEJO E CONSERVAÇÃO DO SOLO",
+    "Semestre": 7,
+    "Apelido": "MANEJO E CONSERVAÇÃO DO SOLO",
+    "CargaHorariaTeorico": 60,
+    "CargaHorariaPratica": null,
+    "ListaPrequisitos": [
+      {
+        "Id": 52477,
+        "Codigo": "1302.000.306-9",
+        "Descricao": "CLASSIFICAÇÃO E FÍSICA DO SOLO",
+        "Semestre": "0",
+        "Apelido": "CLASSIFICAÇÃO E FÍSICA DO SOLO",
+        "CargaHorariaTeorico": 0,
+        "CargaHorariaPratica": 0,
+        "ListaPrequisitos": []
+      }
+    ]
+  },
+  {
+    "Id": 54211,
+    "Codigo": "1302.000.520-5",
+    "Tipo": "OBR",
+    "Descricao": "MÁQUINAS E IMPLEMENTOS AGRÍCOLAS",
+    "Semestre": 7,
+    "Apelido": "MÁQUINAS E IMPLEMENTOS AGRÍCOLAS",
+    "CargaHorariaTeorico": 60,
+    "CargaHorariaPratica": null,
+    "ListaPrequisitos": [
+      {
+        "Id": 54195,
+        "Codigo": "1302.000.504-5",
+        "Descricao": "MECÂNICA E MÁQUINAS MOTORAS",
+        "Semestre": "0",
+        "Apelido": "MECÂNICA E MÁQUINAS MOTORAS",
+        "CargaHorariaTeorico": 0,
+        "CargaHorariaPratica": 0,
+        "ListaPrequisitos": []
+      }
+    ]
+  },
+  {
+    "Id": 54177,
+    "Codigo": "1302.000.486-1",
+    "Tipo": "OBR",
+    "Descricao": "OLERICULTURA",
+    "Semestre": 7,
+    "Apelido": "OLERICULTURA",
+    "CargaHorariaTeorico": 60,
+    "CargaHorariaPratica": null,
+    "ListaPrequisitos": [
+      {
+        "Id": 54182,
+        "Codigo": "1302.000.491-4",
+        "Descricao": "FERTILIDADE DO SOLO E NUTRIÇÃO DE PLANTAS",
+        "Semestre": "0",
+        "Apelido": "FERTILIDADE DO SOLO E NUTRIÇÃO DE PLANTAS",
+        "CargaHorariaTeorico": 0,
+        "CargaHorariaPratica": 0,
+        "ListaPrequisitos": []
+      }
+    ]
+  },
+  {
+    "Id": 54205,
+    "Codigo": "1302.000.514-3",
+    "Tipo": "OBR",
+    "Descricao": "CULTURA DE PLANTAS OLEAGINOSAS E ESTIMULANTES",
+    "Semestre": 8,
+    "Apelido": "CULTURA DE PLANTAS OLEAGINOSAS E ESTIMULANTES",
+    "CargaHorariaTeorico": 60,
+    "CargaHorariaPratica": null,
+    "ListaPrequisitos": [
+      {
+        "Id": 54182,
+        "Codigo": "1302.000.491-4",
+        "Descricao": "FERTILIDADE DO SOLO E NUTRIÇÃO DE PLANTAS",
+        "Semestre": "0",
+        "Apelido": "FERTILIDADE DO SOLO E NUTRIÇÃO DE PLANTAS",
+        "CargaHorariaTeorico": 0,
+        "CargaHorariaPratica": 0,
+        "ListaPrequisitos": []
+      }
+    ]
+  },
+  {
+    "Id": 52567,
+    "Codigo": "1302.000.396-2",
+    "Tipo": "OBR",
+    "Descricao": "FRUTICULTURA",
+    "Semestre": 8,
+    "Apelido": "FRUTICULTURA",
+    "CargaHorariaTeorico": 60,
+    "CargaHorariaPratica": null,
+    "ListaPrequisitos": [
+      {
+        "Id": 54182,
+        "Codigo": "1302.000.491-4",
+        "Descricao": "FERTILIDADE DO SOLO E NUTRIÇÃO DE PLANTAS",
+        "Semestre": "0",
+        "Apelido": "FERTILIDADE DO SOLO E NUTRIÇÃO DE PLANTAS",
+        "CargaHorariaTeorico": 0,
+        "CargaHorariaPratica": 0,
+        "ListaPrequisitos": []
+      }
+    ]
+  },
+  {
+    "Id": 54173,
+    "Codigo": "1302.000.482-5",
+    "Tipo": "OBR",
+    "Descricao": "IRRIGAÇÃO E DRENAGEM",
+    "Semestre": 8,
+    "Apelido": "IRRIGAÇÃO E DRENAGEM",
+    "CargaHorariaTeorico": 60,
+    "CargaHorariaPratica": null,
+    "ListaPrequisitos": [
+      {
+        "Id": 52538,
+        "Codigo": "1302.000.367-7",
+        "Descricao": "AGROMETEOROLOGIA",
+        "Semestre": "0",
+        "Apelido": "AGROMETEOROLOGIA",
+        "CargaHorariaTeorico": 0,
+        "CargaHorariaPratica": 0,
+        "ListaPrequisitos": []
+      },
+      {
+        "Id": 52555,
+        "Codigo": "1302.000.384-6",
+        "Descricao": "HIDRÁULICA",
+        "Semestre": "0",
+        "Apelido": "HIDRÁULICA",
+        "CargaHorariaTeorico": 0,
+        "CargaHorariaPratica": 0,
+        "ListaPrequisitos": []
+      }
+    ]
+  },
+  {
+    "Id": 54192,
+    "Codigo": "1302.000.501-8",
+    "Tipo": "OBR",
+    "Descricao": "PRÉ-PROCESSAMENTO E ARMAZENAMENTO DE GRÃOS",
+    "Semestre": 8,
+    "Apelido": "PRÉ-PROCESSAMENTO E ARMAZENAMENTO DE GRÃOS",
+    "CargaHorariaTeorico": 60,
+    "CargaHorariaPratica": null,
+    "ListaPrequisitos": [
+      {
+        "Id": 52538,
+        "Codigo": "1302.000.367-7",
+        "Descricao": "AGROMETEOROLOGIA",
+        "Semestre": "0",
+        "Apelido": "AGROMETEOROLOGIA",
+        "CargaHorariaTeorico": 0,
+        "CargaHorariaPratica": 0,
+        "ListaPrequisitos": []
+      },
+      {
+        "Id": 54198,
+        "Codigo": "1302.000.507-2",
+        "Descricao": "BIOQUÍMICA APLICADA",
+        "Semestre": "0",
+        "Apelido": "BIOQUÍMICA APLICADA",
+        "CargaHorariaTeorico": 0,
+        "CargaHorariaPratica": 0,
+        "ListaPrequisitos": []
+      }
+    ]
+  },
+  {
+    "Id": 54200,
+    "Codigo": "1302.000.509-0",
+    "Tipo": "OBR",
+    "Descricao": "PRODUÇÃO DE ANIMAIS DE PEQUENO PORTE",
+    "Semestre": 8,
+    "Apelido": "PRODUÇÃO DE ANIMAIS DE PEQUENO PORTE",
+    "CargaHorariaTeorico": 60,
+    "CargaHorariaPratica": null,
+    "ListaPrequisitos": [
+      {
+        "Id": 54187,
+        "Codigo": "1302.000.496-0",
+        "Descricao": "NUTRIÇÃO E ALIMENTAÇÃO ANIMAL",
+        "Semestre": "0",
+        "Apelido": "NUTRIÇÃO E ALIMENTAÇÃO ANIMAL",
+        "CargaHorariaTeorico": 0,
+        "CargaHorariaPratica": 0,
+        "ListaPrequisitos": []
+      }
+    ]
+  },
+  {
+    "Id": 54175,
+    "Codigo": "1302.000.484-3",
+    "Tipo": "OBR",
+    "Descricao": "SILVICULTURA",
+    "Semestre": 8,
+    "Apelido": "SILVICULTURA",
+    "CargaHorariaTeorico": 60,
+    "CargaHorariaPratica": null,
+    "ListaPrequisitos": [
+      {
+        "Id": 54182,
+        "Codigo": "1302.000.491-4",
+        "Descricao": "FERTILIDADE DO SOLO E NUTRIÇÃO DE PLANTAS",
+        "Semestre": "0",
+        "Apelido": "FERTILIDADE DO SOLO E NUTRIÇÃO DE PLANTAS",
+        "CargaHorariaTeorico": 0,
+        "CargaHorariaPratica": 0,
+        "ListaPrequisitos": []
+      }
+    ]
+  },
+  {
+    "Id": 54169,
+    "Codigo": "1302.000.478-1",
+    "Tipo": "OBR",
+    "Descricao": "BOVINOCULTURA",
+    "Semestre": 9,
+    "Apelido": "BOVINOCULTURA",
+    "CargaHorariaTeorico": 60,
+    "CargaHorariaPratica": null,
+    "ListaPrequisitos": [
+      {
+        "Id": 54187,
+        "Codigo": "1302.000.496-0",
+        "Descricao": "NUTRIÇÃO E ALIMENTAÇÃO ANIMAL",
+        "Semestre": "0",
+        "Apelido": "NUTRIÇÃO E ALIMENTAÇÃO ANIMAL",
+        "CargaHorariaTeorico": 0,
+        "CargaHorariaPratica": 0,
+        "ListaPrequisitos": []
+      }
+    ]
+  },
+  {
+    "Id": 54180,
+    "Codigo": "1302.000.489-9",
+    "Tipo": "OBR",
+    "Descricao": "CULTURA DE PLANTAS ENERGÉTICAS E FIBROSAS",
+    "Semestre": 9,
+    "Apelido": "CULTURA DE PLANTAS ENERGÉTICAS E FIBROSAS",
+    "CargaHorariaTeorico": 60,
+    "CargaHorariaPratica": null,
+    "ListaPrequisitos": [
+      {
+        "Id": 54182,
+        "Codigo": "1302.000.491-4",
+        "Descricao": "FERTILIDADE DO SOLO E NUTRIÇÃO DE PLANTAS",
+        "Semestre": "0",
+        "Apelido": "FERTILIDADE DO SOLO E NUTRIÇÃO DE PLANTAS",
+        "CargaHorariaTeorico": 0,
+        "CargaHorariaPratica": 0,
+        "ListaPrequisitos": []
+      }
+    ]
+  },
+  {
+    "Id": 54204,
+    "Codigo": "1302.000.513-4",
+    "Tipo": "OBR",
+    "Descricao": "FORRAGICULTURA",
+    "Semestre": 9,
+    "Apelido": "FORRAGICULTURA",
+    "CargaHorariaTeorico": 45,
+    "CargaHorariaPratica": null,
+    "ListaPrequisitos": [
+      {
+        "Id": 54182,
+        "Codigo": "1302.000.491-4",
+        "Descricao": "FERTILIDADE DO SOLO E NUTRIÇÃO DE PLANTAS",
+        "Semestre": "0",
+        "Apelido": "FERTILIDADE DO SOLO E NUTRIÇÃO DE PLANTAS",
+        "CargaHorariaTeorico": 0,
+        "CargaHorariaPratica": 0,
+        "ListaPrequisitos": []
+      }
+    ]
+  },
+  {
+    "Id": 54209,
+    "Codigo": "1302.000.518-0",
+    "Tipo": "OBR",
+    "Descricao": "MANEJO DE RECURSOS NATURAIS RENOVÁVEIS",
+    "Semestre": 9,
+    "Apelido": "MANEJO DE RECURSOS NATURAIS RENOVÁVEIS",
+    "CargaHorariaTeorico": 60,
+    "CargaHorariaPratica": null,
+    "ListaPrequisitos": [
+      {
+        "Id": 52539,
+        "Codigo": "1302.000.368-6",
+        "Descricao": "MANEJO E CONSERVAÇÃO DO SOLO",
+        "Semestre": "0",
+        "Apelido": "MANEJO E CONSERVAÇÃO DO SOLO",
+        "CargaHorariaTeorico": 0,
+        "CargaHorariaPratica": 0,
+        "ListaPrequisitos": []
+      }
+    ]
+  },
+  {
+    "Id": 54183,
+    "Codigo": "1302.000.492-3",
+    "Tipo": "OBR",
+    "Descricao": "TECNOLOGIA DE PRODUTOS AGROPECUÁRIOS",
+    "Semestre": 9,
+    "Apelido": "TECNOLOGIA DE PRODUTOS AGROPECUÁRIOS",
+    "CargaHorariaTeorico": 30,
+    "CargaHorariaPratica": null,
+    "ListaPrequisitos": [
+      {
+        "Id": 54198,
+        "Codigo": "1302.000.507-2",
+        "Descricao": "BIOQUÍMICA APLICADA",
+        "Semestre": "0",
+        "Apelido": "BIOQUÍMICA APLICADA",
+        "CargaHorariaTeorico": 0,
+        "CargaHorariaPratica": 0,
+        "ListaPrequisitos": []
+      }
+    ]
+  },
+  {
+    "Id": 54179,
+    "Codigo": "1302.000.488-0",
+    "Tipo": "OBR",
+    "Descricao": "TECNOLOGIA DE SEMENTES",
+    "Semestre": 9,
+    "Apelido": "TECNOLOGIA DE SEMENTES",
+    "CargaHorariaTeorico": 60,
+    "CargaHorariaPratica": null,
+    "ListaPrequisitos": [
+      {
+        "Id": 52476,
+        "Codigo": "1302.000.305-0",
+        "Descricao": "FISIOLOGIA VEGETAL",
+        "Semestre": "0",
+        "Apelido": "FISIOLOGIA VEGETAL",
+        "CargaHorariaTeorico": 0,
+        "CargaHorariaPratica": 0,
+        "ListaPrequisitos": []
+      },
+      {
+        "Id": 52581,
+        "Codigo": "1302.000.410-0",
+        "Descricao": "MORFOLOGIA E TAXONOMIA VEGETAL",
+        "Semestre": "0",
+        "Apelido": "MORFOLOGIA E TAXONOMIA VEGETAL",
+        "CargaHorariaTeorico": 0,
+        "CargaHorariaPratica": 0,
+        "ListaPrequisitos": []
+      }
+    ]
+  },
+  {
+    "Id": 52486,
+    "Codigo": "1302.000.315-8",
+    "Tipo": "OPT",
+    "Descricao": "ACAROLOGIA",
+    "Semestre": 99,
+    "Apelido": "ACAROLOGIA",
+    "CargaHorariaTeorico": 30,
+    "CargaHorariaPratica": null,
+    "ListaPrequisitos": [
+      {
+        "Id": 54206,
+        "Codigo": "1302.000.515-2",
+        "Descricao": "ENTOMOLOGIA GERAL",
+        "Semestre": "0",
+        "Apelido": "ENTOMOLOGIA GERAL",
+        "CargaHorariaTeorico": 0,
+        "CargaHorariaPratica": 0,
+        "ListaPrequisitos": []
+      }
+    ]
+  },
+  {
+    "Id": 52569,
+    "Codigo": "1302.000.398-0",
+    "Tipo": "OPT",
+    "Descricao": "AGRICULTURA DE PRECISÃO",
+    "Semestre": 99,
+    "Apelido": "AGRICULTURA DE PRECISÃO",
+    "CargaHorariaTeorico": 45,
+    "CargaHorariaPratica": null,
+    "ListaPrequisitos": [
+      {
+        "Id": 54211,
+        "Codigo": "1302.000.520-5",
+        "Descricao": "MÁQUINAS E IMPLEMENTOS AGRÍCOLAS",
+        "Semestre": "0",
+        "Apelido": "MÁQUINAS E IMPLEMENTOS AGRÍCOLAS",
+        "CargaHorariaTeorico": 0,
+        "CargaHorariaPratica": 0,
+        "ListaPrequisitos": []
+      }
+    ]
+  },
+  {
+    "Id": 52474,
+    "Codigo": "1302.000.303-1",
+    "Tipo": "OPT",
+    "Descricao": "ANÁLISE COMPUTACIONAL DE DADOS NAS CIÊNCIAS AGRÁRIAS",
+    "Semestre": 99,
+    "Apelido": "ANÁLISE COMPUTACIONAL DE DADOS NAS CIÊNCIAS AGRÁRIAS",
+    "CargaHorariaTeorico": 30,
+    "CargaHorariaPratica": null,
+    "ListaPrequisitos": []
+  },
+  {
+    "Id": 54188,
+    "Codigo": "1302.000.497-9",
+    "Tipo": "OPT",
+    "Descricao": "BIOMETRIA FLORESTAL",
+    "Semestre": 99,
+    "Apelido": "BIOMETRIA FLORESTAL",
+    "CargaHorariaTeorico": 60,
+    "CargaHorariaPratica": null,
+    "ListaPrequisitos": [
+      {
+        "Id": 54165,
+        "Codigo": "1302.000.474-5",
+        "Descricao": "ESTATÍSTICA",
+        "Semestre": "0",
+        "Apelido": "ESTATÍSTICA",
+        "CargaHorariaTeorico": 0,
+        "CargaHorariaPratica": 0,
+        "ListaPrequisitos": []
+      }
+    ]
+  },
+  {
+    "Id": 54193,
+    "Codigo": "1302.000.502-7",
+    "Tipo": "OPT",
+    "Descricao": "COMPONENTES QUÍMICOS E ANATÔMICOS DA MADEIRA",
+    "Semestre": 99,
+    "Apelido": "COMPONENTES QUÍMICOS E ANATÔMICOS DA MADEIRA",
+    "CargaHorariaTeorico": 45,
+    "CargaHorariaPratica": null,
+    "ListaPrequisitos": [
+      {
+        "Id": 52536,
+        "Codigo": "1302.000.365-9",
+        "Descricao": "ANATOMIA VEGETAL",
+        "Semestre": "0",
+        "Apelido": "ANATOMIA VEGETAL",
+        "CargaHorariaTeorico": 0,
+        "CargaHorariaPratica": 0,
+        "ListaPrequisitos": []
+      }
+    ]
+  },
+  {
+    "Id": 52553,
+    "Codigo": "1302.000.382-8",
+    "Tipo": "OPT",
+    "Descricao": "CONTROLE BIOLÓGICO DE PRAGAS, FITOPATÓGENOS E FITONEMATOIDES",
+    "Semestre": 99,
+    "Apelido": "CONTROLE BIOLÓGICO DE PRAGAS, FITOPATÓGENOS E FITONEMATOIDES",
+    "CargaHorariaTeorico": 60,
+    "CargaHorariaPratica": null,
+    "ListaPrequisitos": [
+      {
+        "Id": 54206,
+        "Codigo": "1302.000.515-2",
+        "Descricao": "ENTOMOLOGIA GERAL",
+        "Semestre": "0",
+        "Apelido": "ENTOMOLOGIA GERAL",
+        "CargaHorariaTeorico": 0,
+        "CargaHorariaPratica": 0,
+        "ListaPrequisitos": []
+      }
+    ]
+  },
+  {
+    "Id": 54168,
+    "Codigo": "1302.000.477-2",
+    "Tipo": "OPT",
+    "Descricao": "CULTURA DA MANDIOCA, PINHÃO MANSO E MAMONA",
+    "Semestre": 99,
+    "Apelido": "CULTURA DA MANDIOCA, PINHÃO MANSO E MAMONA",
+    "CargaHorariaTeorico": 45,
+    "CargaHorariaPratica": null,
+    "ListaPrequisitos": [
+      {
+        "Id": 54182,
+        "Codigo": "1302.000.491-4",
+        "Descricao": "FERTILIDADE DO SOLO E NUTRIÇÃO DE PLANTAS",
+        "Semestre": "0",
+        "Apelido": "FERTILIDADE DO SOLO E NUTRIÇÃO DE PLANTAS",
+        "CargaHorariaTeorico": 0,
+        "CargaHorariaPratica": 0,
+        "ListaPrequisitos": []
+      }
+    ]
+  },
+  {
+    "Id": 52485,
+    "Codigo": "1302.000.314-9",
+    "Tipo": "OPT",
+    "Descricao": "DESENHO TOPOGRÁFICO DIGITAL",
+    "Semestre": 99,
+    "Apelido": "DESENHO TOPOGRÁFICO DIGITAL",
+    "CargaHorariaTeorico": 45,
+    "CargaHorariaPratica": null,
+    "ListaPrequisitos": []
+  },
+  {
+    "Id": 52549,
+    "Codigo": "1302.000.378-4",
+    "Tipo": "OPT",
+    "Descricao": "DIVERSIDADE MICROBIANA DO SOLO",
+    "Semestre": 99,
+    "Apelido": "DIVERSIDADE MICROBIANA DO SOLO",
+    "CargaHorariaTeorico": 60,
+    "CargaHorariaPratica": null,
+    "ListaPrequisitos": [
+      {
+        "Id": 52526,
+        "Codigo": "1302.000.355-0",
+        "Descricao": "MICROBIOLOGIA AGRÍCOLA",
+        "Semestre": "0",
+        "Apelido": "MICROBIOLOGIA AGRÍCOLA",
+        "CargaHorariaTeorico": 0,
+        "CargaHorariaPratica": 0,
+        "ListaPrequisitos": []
+      }
+    ]
+  },
+  {
+    "Id": 52478,
+    "Codigo": "1302.000.307-8",
+    "Tipo": "OPT",
+    "Descricao": "ECOFISIOLOGIA VEGETAL",
+    "Semestre": 99,
+    "Apelido": "ECOFISIOLOGIA VEGETAL",
+    "CargaHorariaTeorico": 60,
+    "CargaHorariaPratica": null,
+    "ListaPrequisitos": [
+      {
+        "Id": 52476,
+        "Codigo": "1302.000.305-0",
+        "Descricao": "FISIOLOGIA VEGETAL",
+        "Semestre": "0",
+        "Apelido": "FISIOLOGIA VEGETAL",
+        "CargaHorariaTeorico": 0,
+        "CargaHorariaPratica": 0,
+        "ListaPrequisitos": []
+      }
+    ]
+  },
+  {
+    "Id": 52548,
+    "Codigo": "1302.000.377-5",
+    "Tipo": "OPT",
+    "Descricao": "EDUCAÇÃO AMBIENTAL",
+    "Semestre": 99,
+    "Apelido": "EDUCAÇÃO AMBIENTAL",
+    "CargaHorariaTeorico": 30,
+    "CargaHorariaPratica": null,
+    "ListaPrequisitos": [
+      {
+        "Id": 54218,
+        "Codigo": "1302.000.527-9",
+        "Descricao": "EXTENSÃO RURAL E COMUNICAÇÃO",
+        "Semestre": "0",
+        "Apelido": "EXTENSÃO RURAL E COMUNICAÇÃO",
+        "CargaHorariaTeorico": 0,
+        "CargaHorariaPratica": 0,
+        "ListaPrequisitos": []
+      }
+    ]
+  },
+  {
+    "Id": 52573,
+    "Codigo": "1302.000.402-0",
+    "Tipo": "OPT",
+    "Descricao": "EDUCAÇÃO DAS RELAÇÕES ÉTNICO-RACIAIS",
+    "Semestre": 99,
+    "Apelido": "EDUCAÇÃO DAS RELAÇÕES ÉTNICO-RACIAIS",
+    "CargaHorariaTeorico": 30,
+    "CargaHorariaPratica": null,
+    "ListaPrequisitos": []
+  },
+  {
+    "Id": 54163,
+    "Codigo": "1302.000.472-7",
+    "Tipo": "OPT",
+    "Descricao": "EMPREENDEDORISMO AGRONOMIA E ENGENHARIA FLORESTAL",
+    "Semestre": 99,
+    "Apelido": "EMPREENDEDORISMO AGRONOMIA E ENGENHARIA FLORESTAL",
+    "CargaHorariaTeorico": 30,
+    "CargaHorariaPratica": null,
+    "ListaPrequisitos": []
+  },
+  {
+    "Id": 52308,
+    "Codigo": "0100.000.003-0",
+    "Tipo": "NFC",
+    "Descricao": "EMPREENDEDORISMO E INOVAÇÃO",
+    "Semestre": 99,
+    "Apelido": "EMPREENDEDORISMO E INOVAÇÃO",
+    "CargaHorariaTeorico": 30,
+    "CargaHorariaPratica": null,
+    "ListaPrequisitos": []
+  },
+  {
+    "Id": 54214,
+    "Codigo": "1302.000.523-2",
+    "Tipo": "OPT",
+    "Descricao": "ESTRUTURAS DE MADEIRA",
+    "Semestre": 99,
+    "Apelido": "ESTRUTURAS DE MADEIRA",
+    "CargaHorariaTeorico": 30,
+    "CargaHorariaPratica": null,
+    "ListaPrequisitos": [
+      {
+        "Id": 54167,
+        "Codigo": "1302.000.476-3",
+        "Descricao": "CONSTRUÇÕES RURAIS",
+        "Semestre": "0",
+        "Apelido": "CONSTRUÇÕES RURAIS",
+        "CargaHorariaTeorico": 0,
+        "CargaHorariaPratica": 0,
+        "ListaPrequisitos": []
+      }
+    ]
+  },
+  {
+    "Id": 52559,
+    "Codigo": "1302.000.388-2",
+    "Tipo": "OPT",
+    "Descricao": "ESTUDO DE LIBRAS",
+    "Semestre": 99,
+    "Apelido": "ESTUDO DE LIBRAS",
+    "CargaHorariaTeorico": 45,
+    "CargaHorariaPratica": null,
+    "ListaPrequisitos": []
+  },
+  {
+    "Id": 52514,
+    "Codigo": "1302.000.343-4",
+    "Tipo": "OPT",
+    "Descricao": "GEORREFERENCIAMENTO DE IMÓVEIS RURAIS",
+    "Semestre": 99,
+    "Apelido": "GEORREFERENCIAMENTO DE IMÓVEIS RURAIS",
+    "CargaHorariaTeorico": 45,
+    "CargaHorariaPratica": null,
+    "ListaPrequisitos": [
+      {
+        "Id": 54170,
+        "Codigo": "1302.000.479-0",
+        "Descricao": "FOTOINTERPRETAÇÃO E SENSORIAMENTO REMOTO",
+        "Semestre": "0",
+        "Apelido": "FOTOINTERPRETAÇÃO E SENSORIAMENTO REMOTO",
+        "CargaHorariaTeorico": 0,
+        "CargaHorariaPratica": 0,
+        "ListaPrequisitos": []
+      }
+    ]
+  },
+  {
+    "Id": 54189,
+    "Codigo": "1302.000.498-8",
+    "Tipo": "OPT",
+    "Descricao": "GESTÃO DE PESSOAS",
+    "Semestre": 99,
+    "Apelido": "GESTÃO DE PESSOAS",
+    "CargaHorariaTeorico": 60,
+    "CargaHorariaPratica": null,
+    "ListaPrequisitos": []
+  },
+  {
+    "Id": 54164,
+    "Codigo": "1302.000.473-6",
+    "Tipo": "OPT",
+    "Descricao": "GESTÃO FLORESTAL",
+    "Semestre": 99,
+    "Apelido": "GESTÃO FLORESTAL",
+    "CargaHorariaTeorico": 60,
+    "CargaHorariaPratica": null,
+    "ListaPrequisitos": [
+      {
+        "Id": 54208,
+        "Codigo": "1302.000.517-0",
+        "Descricao": "ADMINISTRAÇÃO RURAL E PROJETOS AGROPECUÁRIOS",
+        "Semestre": "0",
+        "Apelido": "ADMINISTRAÇÃO RURAL E PROJETOS AGROPECUÁRIOS",
+        "CargaHorariaTeorico": 0,
+        "CargaHorariaPratica": 0,
+        "ListaPrequisitos": []
+      }
+    ]
+  },
+  {
+    "Id": 52519,
+    "Codigo": "1302.000.348-0",
+    "Tipo": "OPT",
+    "Descricao": "HIDROLOGIA",
+    "Semestre": 99,
+    "Apelido": "HIDROLOGIA",
+    "CargaHorariaTeorico": 30,
+    "CargaHorariaPratica": null,
+    "ListaPrequisitos": [
+      {
+        "Id": 52538,
+        "Codigo": "1302.000.367-7",
+        "Descricao": "AGROMETEOROLOGIA",
+        "Semestre": "0",
+        "Apelido": "AGROMETEOROLOGIA",
+        "CargaHorariaTeorico": 0,
+        "CargaHorariaPratica": 0,
+        "ListaPrequisitos": []
+      }
+    ]
+  },
+  {
+    "Id": 54181,
+    "Codigo": "1302.000.490-5",
+    "Tipo": "OPT",
+    "Descricao": "INDUSTRIALIZAÇÃO DE PRODUTOS FLORESTAIS",
+    "Semestre": 99,
+    "Apelido": "INDUSTRIALIZAÇÃO DE PRODUTOS FLORESTAIS",
+    "CargaHorariaTeorico": 60,
+    "CargaHorariaPratica": null,
+    "ListaPrequisitos": [
+      {
+        "Id": 54216,
+        "Codigo": "1302.000.525-0",
+        "Descricao": "TECNOLOGIA E UTILIZAÇÃO DE PRODUTOS FLORESTAIS",
+        "Semestre": "0",
+        "Apelido": "TECNOLOGIA E UTILIZAÇÃO DE PRODUTOS FLORESTAIS",
+        "CargaHorariaTeorico": 0,
+        "CargaHorariaPratica": 0,
+        "ListaPrequisitos": []
+      }
+    ]
+  },
+  {
+    "Id": 52496,
+    "Codigo": "1302.000.325-6",
+    "Tipo": "OPT",
+    "Descricao": "INTEGRAÇÃO LAVOURA-PECUÁRIA-FLORESTA",
+    "Semestre": 99,
+    "Apelido": "INTEGRAÇÃO LAVOURA-PECUÁRIA-FLORESTA",
+    "CargaHorariaTeorico": 60,
+    "CargaHorariaPratica": null,
+    "ListaPrequisitos": [
+      {
+        "Id": 52477,
+        "Codigo": "1302.000.306-9",
+        "Descricao": "CLASSIFICAÇÃO E FÍSICA DO SOLO",
+        "Semestre": "0",
+        "Apelido": "CLASSIFICAÇÃO E FÍSICA DO SOLO",
+        "CargaHorariaTeorico": 0,
+        "CargaHorariaPratica": 0,
+        "ListaPrequisitos": []
+      },
+      {
+        "Id": 54182,
+        "Codigo": "1302.000.491-4",
+        "Descricao": "FERTILIDADE DO SOLO E NUTRIÇÃO DE PLANTAS",
+        "Semestre": "0",
+        "Apelido": "FERTILIDADE DO SOLO E NUTRIÇÃO DE PLANTAS",
+        "CargaHorariaTeorico": 0,
+        "CargaHorariaPratica": 0,
+        "ListaPrequisitos": []
+      }
+    ]
+  },
+  {
+    "Id": 52306,
+    "Codigo": "0100.000.001-1",
+    "Tipo": "NFC",
+    "Descricao": "INTELIGÊNCIA ARTIFICIAL: FUNDAMENTOS E PRÁTICAS",
+    "Semestre": 99,
+    "Apelido": "INTELIGÊNCIA ARTIFICIAL: FUNDAMENTOS E PRÁTICAS",
+    "CargaHorariaTeorico": 30,
+    "CargaHorariaPratica": null,
+    "ListaPrequisitos": []
+  },
+  {
+    "Id": 54166,
+    "Codigo": "1302.000.475-4",
+    "Tipo": "OPT",
+    "Descricao": "INVENTÁRIO FLORESTAL",
+    "Semestre": 99,
+    "Apelido": "INVENTÁRIO FLORESTAL",
+    "CargaHorariaTeorico": 60,
+    "CargaHorariaPratica": null,
+    "ListaPrequisitos": [
+      {
+        "Id": 54188,
+        "Codigo": "1302.000.497-9",
+        "Descricao": "BIOMETRIA FLORESTAL",
+        "Semestre": "0",
+        "Apelido": "BIOMETRIA FLORESTAL",
+        "CargaHorariaTeorico": 0,
+        "CargaHorariaPratica": 0,
+        "ListaPrequisitos": []
+      }
+    ]
+  },
+  {
+    "Id": 52491,
+    "Codigo": "1302.000.320-0",
+    "Tipo": "OPT",
+    "Descricao": "LEITURA E INTERPRETAÇÃO DE CARTAS TOPOGRÁFICAS",
+    "Semestre": 99,
+    "Apelido": "LEITURA E INTERPRETAÇÃO DE CARTAS TOPOGRÁFICAS",
+    "CargaHorariaTeorico": 30,
+    "CargaHorariaPratica": null,
+    "ListaPrequisitos": []
+  },
+  {
+    "Id": 52585,
+    "Codigo": "1302.000.414-6",
+    "Tipo": "OPT",
+    "Descricao": "LEVANTAMENTO TOPOGRÁFICO COM VEÍCULOS AÉREOS NÃO TRIPULADOS (VANT)",
+    "Semestre": 99,
+    "Apelido": "LEVANTAMENTO TOPOGRÁFICO COM VEÍCULOS AÉREOS NÃO TRIPULADOS (VANT)",
+    "CargaHorariaTeorico": 45,
+    "CargaHorariaPratica": null,
+    "ListaPrequisitos": []
+  },
+  {
+    "Id": 54215,
+    "Codigo": "1302.000.524-1",
+    "Tipo": "OPT",
+    "Descricao": "MANEJO DE BACIAS HIDROGRÁFICAS",
+    "Semestre": 99,
+    "Apelido": "MANEJO DE BACIAS HIDROGRÁFICAS",
+    "CargaHorariaTeorico": 60,
+    "CargaHorariaPratica": null,
+    "ListaPrequisitos": []
+  },
+  {
+    "Id": 52480,
+    "Codigo": "1302.000.309-6",
+    "Tipo": "OPT",
+    "Descricao": "NEMATOLOGIA APLICADA",
+    "Semestre": 99,
+    "Apelido": "NEMATOLOGIA APLICADA",
+    "CargaHorariaTeorico": 30,
+    "CargaHorariaPratica": null,
+    "ListaPrequisitos": [
+      {
+        "Id": 54203,
+        "Codigo": "1302.000.512-5",
+        "Descricao": "ZOOLOGIA E PARASITOLOGIA AGRÍCOLA",
+        "Semestre": "0",
+        "Apelido": "ZOOLOGIA E PARASITOLOGIA AGRÍCOLA",
+        "CargaHorariaTeorico": 0,
+        "CargaHorariaPratica": 0,
+        "ListaPrequisitos": []
+      }
+    ]
+  },
+  {
+    "Id": 52498,
+    "Codigo": "1302.000.327-4",
+    "Tipo": "OPT",
+    "Descricao": "PATOLOGIA FLORESTAL",
+    "Semestre": 99,
+    "Apelido": "PATOLOGIA FLORESTAL",
+    "CargaHorariaTeorico": 60,
+    "CargaHorariaPratica": null,
+    "ListaPrequisitos": [
+      {
+        "Id": 52526,
+        "Codigo": "1302.000.355-0",
+        "Descricao": "MICROBIOLOGIA AGRÍCOLA",
+        "Semestre": "0",
+        "Apelido": "MICROBIOLOGIA AGRÍCOLA",
+        "CargaHorariaTeorico": 0,
+        "CargaHorariaPratica": 0,
+        "ListaPrequisitos": []
+      }
+    ]
+  },
+  {
+    "Id": 52499,
+    "Codigo": "1302.000.328-3",
+    "Tipo": "OPT",
+    "Descricao": "PRODUTOS ENERGÉTICOS FLORESTAIS",
+    "Semestre": 99,
+    "Apelido": "PRODUTOS ENERGÉTICOS FLORESTAIS",
+    "CargaHorariaTeorico": 60,
+    "CargaHorariaPratica": null,
+    "ListaPrequisitos": [
+      {
+        "Id": 54198,
+        "Codigo": "1302.000.507-2",
+        "Descricao": "BIOQUÍMICA APLICADA",
+        "Semestre": "0",
+        "Apelido": "BIOQUÍMICA APLICADA",
+        "CargaHorariaTeorico": 0,
+        "CargaHorariaPratica": 0,
+        "ListaPrequisitos": []
+      },
+      {
+        "Id": 54216,
+        "Codigo": "1302.000.525-0",
+        "Descricao": "TECNOLOGIA E UTILIZAÇÃO DE PRODUTOS FLORESTAIS",
+        "Semestre": "0",
+        "Apelido": "TECNOLOGIA E UTILIZAÇÃO DE PRODUTOS FLORESTAIS",
+        "CargaHorariaTeorico": 0,
+        "CargaHorariaPratica": 0,
+        "ListaPrequisitos": []
+      }
+    ]
+  },
+  {
+    "Id": 52568,
+    "Codigo": "1302.000.397-1",
+    "Tipo": "OPT",
+    "Descricao": "PROGRAMAÇÃO EM LINGUAGEM R",
+    "Semestre": 99,
+    "Apelido": "PROGRAMAÇÃO EM LINGUAGEM R",
+    "CargaHorariaTeorico": 60,
+    "CargaHorariaPratica": null,
+    "ListaPrequisitos": [
+      {
+        "Id": 54178,
+        "Codigo": "1302.000.487-0",
+        "Descricao": "EXPERIMENTAÇÃO AGRÍCOLA",
+        "Semestre": "0",
+        "Apelido": "EXPERIMENTAÇÃO AGRÍCOLA",
+        "CargaHorariaTeorico": 0,
+        "CargaHorariaPratica": 0,
+        "ListaPrequisitos": []
+      }
+    ]
+  },
+  {
+    "Id": 52497,
+    "Codigo": "1302.000.326-5",
+    "Tipo": "OPT",
+    "Descricao": "REDAÇÃO CIENTÍFICA",
+    "Semestre": 99,
+    "Apelido": "REDAÇÃO CIENTÍFICA",
+    "CargaHorariaTeorico": 30,
+    "CargaHorariaPratica": null,
+    "ListaPrequisitos": [
+      {
+        "Id": 54186,
+        "Codigo": "1302.000.495-0",
+        "Descricao": "INICIAÇÃO A PESQUISA APLICADA",
+        "Semestre": "0",
+        "Apelido": "INICIAÇÃO A PESQUISA APLICADA",
+        "CargaHorariaTeorico": 0,
+        "CargaHorariaPratica": 0,
+        "ListaPrequisitos": []
+      }
+    ]
+  },
+  {
+    "Id": 54197,
+    "Codigo": "1302.000.506-3",
+    "Tipo": "OPT",
+    "Descricao": "SANIDADE DE SEMENTES AGRÍCOLAS E FLORESTAIS",
+    "Semestre": 99,
+    "Apelido": "SANIDADE DE SEMENTES AGRÍCOLAS E FLORESTAIS",
+    "CargaHorariaTeorico": 45,
+    "CargaHorariaPratica": null,
+    "ListaPrequisitos": [
+      {
+        "Id": 54199,
+        "Codigo": "1302.000.508-1",
+        "Descricao": "FITOPATOLOGIA",
+        "Semestre": "0",
+        "Apelido": "FITOPATOLOGIA",
+        "CargaHorariaTeorico": 0,
+        "CargaHorariaPratica": 0,
+        "ListaPrequisitos": []
+      }
+    ]
+  },
+  {
+    "Id": 52475,
+    "Codigo": "1302.000.304-0",
+    "Tipo": "OPT",
+    "Descricao": "SEMENTES E VIVEIROS FLORESTAIS",
+    "Semestre": 99,
+    "Apelido": "SEMENTES E VIVEIROS FLORESTAIS",
+    "CargaHorariaTeorico": 60,
+    "CargaHorariaPratica": null,
+    "ListaPrequisitos": [
+      {
+        "Id": 52476,
+        "Codigo": "1302.000.305-0",
+        "Descricao": "FISIOLOGIA VEGETAL",
+        "Semestre": "0",
+        "Apelido": "FISIOLOGIA VEGETAL",
+        "CargaHorariaTeorico": 0,
+        "CargaHorariaPratica": 0,
+        "ListaPrequisitos": []
+      }
+    ]
+  },
+  {
+    "Id": 52504,
+    "Codigo": "1302.000.333-6",
+    "Tipo": "OPT",
+    "Descricao": "SISTEMAS DE INFORMAÇÕES GEOGRÁFICAS AVANÇADO",
+    "Semestre": 99,
+    "Apelido": "SISTEMAS DE INFORMAÇÕES GEOGRÁFICAS AVANÇADO",
+    "CargaHorariaTeorico": 45,
+    "CargaHorariaPratica": null,
+    "ListaPrequisitos": [
+      {
+        "Id": 52507,
+        "Codigo": "1302.000.336-3",
+        "Descricao": "CARTOGRAFIA E SISTEMAS DE INFORMAÇÕES GEOGRÁFICAS",
+        "Semestre": "0",
+        "Apelido": "CARTOGRAFIA E SISTEMAS DE INFORMAÇÕES GEOGRÁFICAS",
+        "CargaHorariaTeorico": 0,
+        "CargaHorariaPratica": 0,
+        "ListaPrequisitos": []
+      }
+    ]
+  },
+  {
+    "Id": 54212,
+    "Codigo": "1302.000.521-4",
+    "Tipo": "OPT",
+    "Descricao": "SISTEMAS DE PRODUÇÃO",
+    "Semestre": 99,
+    "Apelido": "SISTEMAS DE PRODUÇÃO",
+    "CargaHorariaTeorico": 60,
+    "CargaHorariaPratica": null,
+    "ListaPrequisitos": [
+      {
+        "Id": 54171,
+        "Codigo": "1302.000.480-7",
+        "Descricao": "CULTURA DE CEREAIS",
+        "Semestre": "0",
+        "Apelido": "CULTURA DE CEREAIS",
+        "CargaHorariaTeorico": 0,
+        "CargaHorariaPratica": 0,
+        "ListaPrequisitos": []
+      }
+    ]
+  },
+  {
+    "Id": 52584,
+    "Codigo": "1302.000.413-7",
+    "Tipo": "OPT",
+    "Descricao": "TECNOLOGIA DE APLICAÇÃO DE DEFENSIVOS AGRÍCOLAS",
+    "Semestre": 99,
+    "Apelido": "TECNOLOGIA DE APLICAÇÃO DE DEFENSIVOS AGRÍCOLAS",
+    "CargaHorariaTeorico": 45,
+    "CargaHorariaPratica": null,
+    "ListaPrequisitos": [
+      {
+        "Id": 54211,
+        "Codigo": "1302.000.520-5",
+        "Descricao": "MÁQUINAS E IMPLEMENTOS AGRÍCOLAS",
+        "Semestre": "0",
+        "Apelido": "MÁQUINAS E IMPLEMENTOS AGRÍCOLAS",
+        "CargaHorariaTeorico": 0,
+        "CargaHorariaPratica": 0,
+        "ListaPrequisitos": []
+      }
+    ]
+  },
+  {
+    "Id": 54172,
+    "Codigo": "1302.000.481-6",
+    "Tipo": "OPT",
+    "Descricao": "TECNOLOGIA DO AÇÚCAR E DO ÁLCOOL",
+    "Semestre": 99,
+    "Apelido": "TECNOLOGIA DO AÇÚCAR E DO ÁLCOOL",
+    "CargaHorariaTeorico": 45,
+    "CargaHorariaPratica": null,
+    "ListaPrequisitos": [
+      {
+        "Id": 52526,
+        "Codigo": "1302.000.355-0",
+        "Descricao": "MICROBIOLOGIA AGRÍCOLA",
+        "Semestre": "0",
+        "Apelido": "MICROBIOLOGIA AGRÍCOLA",
+        "CargaHorariaTeorico": 0,
+        "CargaHorariaPratica": 0,
+        "ListaPrequisitos": []
+      },
+      {
+        "Id": 54198,
+        "Codigo": "1302.000.507-2",
+        "Descricao": "BIOQUÍMICA APLICADA",
+        "Semestre": "0",
+        "Apelido": "BIOQUÍMICA APLICADA",
+        "CargaHorariaTeorico": 0,
+        "CargaHorariaPratica": 0,
+        "ListaPrequisitos": []
+      }
+    ]
+  },
+  {
+    "Id": 54216,
+    "Codigo": "1302.000.525-0",
+    "Tipo": "OPT",
+    "Descricao": "TECNOLOGIA E UTILIZAÇÃO DE PRODUTOS FLORESTAIS",
+    "Semestre": 99,
+    "Apelido": "TECNOLOGIA E UTILIZAÇÃO DE PRODUTOS FLORESTAIS",
+    "CargaHorariaTeorico": 60,
+    "CargaHorariaPratica": null,
+    "ListaPrequisitos": [
+      {
+        "Id": 54193,
+        "Codigo": "1302.000.502-7",
+        "Descricao": "COMPONENTES QUÍMICOS E ANATÔMICOS DA MADEIRA",
+        "Semestre": "0",
+        "Apelido": "COMPONENTES QUÍMICOS E ANATÔMICOS DA MADEIRA",
+        "CargaHorariaTeorico": 0,
+        "CargaHorariaPratica": 0,
+        "ListaPrequisitos": []
+      }
+    ]
+  },
+  {
+    "Id": 52571,
+    "Codigo": "1302.000.400-1",
+    "Tipo": "OPT",
+    "Descricao": "TÓPICOS AVANÇADOS EM SENSORIAMENTO REMOTO",
+    "Semestre": 99,
+    "Apelido": "TÓPICOS AVANÇADOS EM SENSORIAMENTO REMOTO",
+    "CargaHorariaTeorico": 30,
+    "CargaHorariaPratica": null,
+    "ListaPrequisitos": [
+      {
+        "Id": 54170,
+        "Codigo": "1302.000.479-0",
+        "Descricao": "FOTOINTERPRETAÇÃO E SENSORIAMENTO REMOTO",
+        "Semestre": "0",
+        "Apelido": "FOTOINTERPRETAÇÃO E SENSORIAMENTO REMOTO",
+        "CargaHorariaTeorico": 0,
+        "CargaHorariaPratica": 0,
+        "ListaPrequisitos": []
+      }
+    ]
+  },
+  {
+    "Id": 52307,
+    "Codigo": "0100.000.002-0",
+    "Tipo": "NFC",
+    "Descricao": "VIDA, CIDADANIA E SUSTENTABILIDADE",
+    "Semestre": 99,
+    "Apelido": "VIDA, CIDADANIA E SUSTENTABILIDADE",
+    "CargaHorariaTeorico": 30,
+    "CargaHorariaPratica": null,
+    "ListaPrequisitos": []
+  }
+]

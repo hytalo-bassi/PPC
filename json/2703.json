@@ -1,0 +1,1118 @@
+[
+  {
+    "Id": 53008,
+    "Codigo": "2701.000.551-1",
+    "Tipo": "OBR",
+    "Descricao": "ANATOMIA GERAL E HUMANA",
+    "Semestre": 1,
+    "Apelido": "ANATOMIA GERAL E HUMANA",
+    "CargaHorariaTeorico": 45,
+    "CargaHorariaPratica": null,
+    "ListaPrequisitos": []
+  },
+  {
+    "Id": 54748,
+    "Codigo": "2401.000.417-0",
+    "Tipo": "OBR",
+    "Descricao": "BASES CONCEITUAIS DE FÍSICA PARA O ENSINO BÁSICO",
+    "Semestre": 1,
+    "Apelido": "BASES CONCEITUAIS DE FÍSICA PARA O ENSINO BÁSICO",
+    "CargaHorariaTeorico": 60,
+    "CargaHorariaPratica": null,
+    "ListaPrequisitos": []
+  },
+  {
+    "Id": 54762,
+    "Codigo": "2701.000.657-3",
+    "Tipo": "OBR",
+    "Descricao": "BASES DE ENSINO DE BIOLOGIA CELULAR",
+    "Semestre": 1,
+    "Apelido": "BASES DE ENSINO DE BIOLOGIA CELULAR",
+    "CargaHorariaTeorico": 60,
+    "CargaHorariaPratica": null,
+    "ListaPrequisitos": []
+  },
+  {
+    "Id": 53017,
+    "Codigo": "2701.000.559-4",
+    "Tipo": "OBR",
+    "Descricao": "BIOSSISTEMÁTICA",
+    "Semestre": 1,
+    "Apelido": "BIOSSISTEMÁTICA",
+    "CargaHorariaTeorico": 30,
+    "CargaHorariaPratica": null,
+    "ListaPrequisitos": []
+  },
+  {
+    "Id": 53026,
+    "Codigo": "2901.001.254-7",
+    "Tipo": "OBR",
+    "Descricao": "LEITURA E PRODUÇÃO DE TEXTO",
+    "Semestre": 1,
+    "Apelido": "LEITURA E PRODUÇÃO DE TEXTO",
+    "CargaHorariaTeorico": 30,
+    "CargaHorariaPratica": null,
+    "ListaPrequisitos": []
+  },
+  {
+    "Id": 54753,
+    "Codigo": "2701.000.648-4",
+    "Tipo": "OBR",
+    "Descricao": "MATEMÁTICA",
+    "Semestre": 1,
+    "Apelido": "MATEMÁTICA",
+    "CargaHorariaTeorico": 30,
+    "CargaHorariaPratica": null,
+    "ListaPrequisitos": []
+  },
+  {
+    "Id": 54746,
+    "Codigo": "2701.000.642-0",
+    "Tipo": "OBR",
+    "Descricao": "MORFOLOGIA VEGETAL",
+    "Semestre": 1,
+    "Apelido": "MORFOLOGIA VEGETAL",
+    "CargaHorariaTeorico": 45,
+    "CargaHorariaPratica": null,
+    "ListaPrequisitos": []
+  },
+  {
+    "Id": 52341,
+    "Codigo": "3101.000.709-6",
+    "Tipo": "OBR",
+    "Descricao": "POLÍTICAS EDUCACIONAIS",
+    "Semestre": 1,
+    "Apelido": "POLÍTICAS EDUCACIONAIS",
+    "CargaHorariaTeorico": 45,
+    "CargaHorariaPratica": null,
+    "ListaPrequisitos": []
+  },
+  {
+    "Id": 54731,
+    "Codigo": "2701.000.627-9",
+    "Tipo": "OBR",
+    "Descricao": "BASES DE ENSINO DE GENÉTICA",
+    "Semestre": 2,
+    "Apelido": "BASES DE ENSINO DE GENÉTICA",
+    "CargaHorariaTeorico": 60,
+    "CargaHorariaPratica": null,
+    "ListaPrequisitos": []
+  },
+  {
+    "Id": 52987,
+    "Codigo": "2701.000.530-6",
+    "Tipo": "OBR",
+    "Descricao": "BIODIVERSIDADE DE FUNGOS",
+    "Semestre": 2,
+    "Apelido": "BIODIVERSIDADE DE FUNGOS",
+    "CargaHorariaTeorico": 45,
+    "CargaHorariaPratica": null,
+    "ListaPrequisitos": []
+  },
+  {
+    "Id": 54724,
+    "Codigo": "2701.000.620-5",
+    "Tipo": "OBR",
+    "Descricao": "BIOESTATÍSTICA",
+    "Semestre": 2,
+    "Apelido": "BIOESTATÍSTICA",
+    "CargaHorariaTeorico": 30,
+    "CargaHorariaPratica": null,
+    "ListaPrequisitos": []
+  },
+  {
+    "Id": 53590,
+    "Codigo": "2701.000.612-5",
+    "Tipo": "OBR",
+    "Descricao": "BIOSSEGURANÇA",
+    "Semestre": 2,
+    "Apelido": "BIOSSEGURANÇA",
+    "CargaHorariaTeorico": 30,
+    "CargaHorariaPratica": null,
+    "ListaPrequisitos": []
+  },
+  {
+    "Id": 54726,
+    "Codigo": "2701.000.622-3",
+    "Tipo": "OBR",
+    "Descricao": "HISTOLOGIA",
+    "Semestre": 2,
+    "Apelido": "HISTOLOGIA",
+    "CargaHorariaTeorico": 45,
+    "CargaHorariaPratica": null,
+    "ListaPrequisitos": []
+  },
+  {
+    "Id": 54740,
+    "Codigo": "2701.000.636-8",
+    "Tipo": "OBR",
+    "Descricao": "INSTRUMENTAÇÃO PARA O ENSINO E A PESQUISA EM BIOLOGIA",
+    "Semestre": 2,
+    "Apelido": "INSTRUMENTAÇÃO PARA O ENSINO E A PESQUISA EM BIOLOGIA",
+    "CargaHorariaTeorico": 30,
+    "CargaHorariaPratica": null,
+    "ListaPrequisitos": []
+  },
+  {
+    "Id": 54776,
+    "Codigo": "2701.000.670-6",
+    "Tipo": "OBR",
+    "Descricao": "PRÁTICA DE ENSINO E SABERES NECESSÁRIOS À DOCÊNCIA",
+    "Semestre": 2,
+    "Apelido": "PRÁTICA DE ENSINO E SABERES NECESSÁRIOS À DOCÊNCIA",
+    "CargaHorariaTeorico": 60,
+    "CargaHorariaPratica": null,
+    "ListaPrequisitos": []
+  },
+  {
+    "Id": 52342,
+    "Codigo": "3001.000.738-0",
+    "Tipo": "OBR",
+    "Descricao": "PSICOLOGIA E EDUCAÇÃO",
+    "Semestre": 2,
+    "Apelido": "PSICOLOGIA E EDUCAÇÃO",
+    "CargaHorariaTeorico": 45,
+    "CargaHorariaPratica": null,
+    "ListaPrequisitos": []
+  },
+  {
+    "Id": 54767,
+    "Codigo": "2301.000.423-0",
+    "Tipo": "OBR",
+    "Descricao": "BASES DE ENSINO DE QUÍMICA",
+    "Semestre": 3,
+    "Apelido": "BASES DE ENSINO DE QUÍMICA",
+    "CargaHorariaTeorico": 60,
+    "CargaHorariaPratica": null,
+    "ListaPrequisitos": []
+  },
+  {
+    "Id": 54750,
+    "Codigo": "2701.000.645-7",
+    "Tipo": "OBR",
+    "Descricao": "FILOSOFIA E HISTÓRIA DA EDUCAÇÃO EM CIÊNCIAS",
+    "Semestre": 3,
+    "Apelido": "FILOSOFIA E HISTÓRIA DA EDUCAÇÃO EM CIÊNCIAS",
+    "CargaHorariaTeorico": 45,
+    "CargaHorariaPratica": null,
+    "ListaPrequisitos": []
+  },
+  {
+    "Id": 52339,
+    "Codigo": "3101.000.708-7",
+    "Tipo": "OBR",
+    "Descricao": "FUNDAMENTOS DE DIDÁTICA",
+    "Semestre": 3,
+    "Apelido": "FUNDAMENTOS DE DIDÁTICA",
+    "CargaHorariaTeorico": 45,
+    "CargaHorariaPratica": null,
+    "ListaPrequisitos": []
+  },
+  {
+    "Id": 54723,
+    "Codigo": "2701.000.619-9",
+    "Tipo": "OBR",
+    "Descricao": "GENÉTICA MOLECULAR",
+    "Semestre": 3,
+    "Apelido": "GENÉTICA MOLECULAR",
+    "CargaHorariaTeorico": 30,
+    "CargaHorariaPratica": null,
+    "ListaPrequisitos": []
+  },
+  {
+    "Id": 54733,
+    "Codigo": "2701.000.629-7",
+    "Tipo": "OBR",
+    "Descricao": "INVERTEBRADOS I",
+    "Semestre": 3,
+    "Apelido": "INVERTEBRADOS I",
+    "CargaHorariaTeorico": 45,
+    "CargaHorariaPratica": null,
+    "ListaPrequisitos": []
+  },
+  {
+    "Id": 52943,
+    "Codigo": "2701.000.489-1",
+    "Tipo": "OBR",
+    "Descricao": "MICROBIOLOGIA",
+    "Semestre": 3,
+    "Apelido": "MICROBIOLOGIA",
+    "CargaHorariaTeorico": 45,
+    "CargaHorariaPratica": null,
+    "ListaPrequisitos": []
+  },
+  {
+    "Id": 54769,
+    "Codigo": "2701.000.663-5",
+    "Tipo": "OBR",
+    "Descricao": "MÍDIAS E TECNOLOGIA DIGITAIS NO ENSINO DE CIÊNCIAS BIOLÓGICAS",
+    "Semestre": 3,
+    "Apelido": "MÍDIAS E TECNOLOGIA DIGITAIS NO ENSINO DE CIÊNCIAS BIOLÓGICAS",
+    "CargaHorariaTeorico": 30,
+    "CargaHorariaPratica": null,
+    "ListaPrequisitos": []
+  },
+  {
+    "Id": 54768,
+    "Codigo": "2701.000.662-6",
+    "Tipo": "OBR",
+    "Descricao": "PRÁTICA DE ENSINO E EPISTEMOLOGIAS DAS CIÊNCIAS",
+    "Semestre": 3,
+    "Apelido": "PRÁTICA DE ENSINO E EPISTEMOLOGIAS DAS CIÊNCIAS",
+    "CargaHorariaTeorico": 60,
+    "CargaHorariaPratica": null,
+    "ListaPrequisitos": []
+  },
+  {
+    "Id": 54777,
+    "Codigo": "2701.000.671-5",
+    "Tipo": "OBR",
+    "Descricao": "ANATOMIA VEGETAL",
+    "Semestre": 4,
+    "Apelido": "ANATOMIA VEGETAL",
+    "CargaHorariaTeorico": 45,
+    "CargaHorariaPratica": null,
+    "ListaPrequisitos": []
+  },
+  {
+    "Id": 54743,
+    "Codigo": "2701.000.639-5",
+    "Tipo": "OBR",
+    "Descricao": "BASES PARA ENSINO DE EMBRIOLOGIA",
+    "Semestre": 4,
+    "Apelido": "BASES PARA ENSINO DE EMBRIOLOGIA",
+    "CargaHorariaTeorico": 60,
+    "CargaHorariaPratica": null,
+    "ListaPrequisitos": []
+  },
+  {
+    "Id": 52291,
+    "Codigo": "3101.000.706-9",
+    "Tipo": "OBR",
+    "Descricao": "EDUCAÇÃO ESPECIAL",
+    "Semestre": 4,
+    "Apelido": "EDUCAÇÃO ESPECIAL",
+    "CargaHorariaTeorico": 45,
+    "CargaHorariaPratica": null,
+    "ListaPrequisitos": []
+  },
+  {
+    "Id": 54742,
+    "Codigo": "2701.000.638-6",
+    "Tipo": "OBR",
+    "Descricao": "FISIOLOGIA GERAL E HUMANA",
+    "Semestre": 4,
+    "Apelido": "FISIOLOGIA GERAL E HUMANA",
+    "CargaHorariaTeorico": 45,
+    "CargaHorariaPratica": null,
+    "ListaPrequisitos": []
+  },
+  {
+    "Id": 53025,
+    "Codigo": "2101.001.616-7",
+    "Tipo": "OBR",
+    "Descricao": "GEOLOGIA",
+    "Semestre": 4,
+    "Apelido": "GEOLOGIA",
+    "CargaHorariaTeorico": 45,
+    "CargaHorariaPratica": null,
+    "ListaPrequisitos": []
+  },
+  {
+    "Id": 54734,
+    "Codigo": "2701.000.630-3",
+    "Tipo": "OBR",
+    "Descricao": "INVERTEBRADOS II",
+    "Semestre": 4,
+    "Apelido": "INVERTEBRADOS II",
+    "CargaHorariaTeorico": 45,
+    "CargaHorariaPratica": null,
+    "ListaPrequisitos": []
+  },
+  {
+    "Id": 54751,
+    "Codigo": "2701.000.646-6",
+    "Tipo": "OBR",
+    "Descricao": "PRÁTICA DE ENSINO E O CURRÍCULO",
+    "Semestre": 4,
+    "Apelido": "PRÁTICA DE ENSINO E O CURRÍCULO",
+    "CargaHorariaTeorico": 60,
+    "CargaHorariaPratica": null,
+    "ListaPrequisitos": []
+  },
+  {
+    "Id": 53018,
+    "Codigo": "2701.000.560-0",
+    "Tipo": "OBR",
+    "Descricao": "BIOQUÍMICA I",
+    "Semestre": 5,
+    "Apelido": "BIOQUÍMICA I",
+    "CargaHorariaTeorico": 45,
+    "CargaHorariaPratica": null,
+    "ListaPrequisitos": []
+  },
+  {
+    "Id": 50773,
+    "Codigo": "2701.000.356-2",
+    "Tipo": "OBR",
+    "Descricao": "ESTÁGIO OBRIGATÓRIO EM CIÊNCIAS FÍSICAS E BIOLÓGICAS I",
+    "Semestre": 5,
+    "Apelido": "ESTÁGIO OBRIGATÓRIO EM CIÊNCIAS FÍSICAS E BIOLÓGICAS I",
+    "CargaHorariaTeorico": 100,
+    "CargaHorariaPratica": null,
+    "ListaPrequisitos": [
+      {
+        "Id": 52339,
+        "Codigo": "3101.000.708-7",
+        "Descricao": "FUNDAMENTOS DE DIDÁTICA",
+        "Semestre": "0",
+        "Apelido": "FUNDAMENTOS DE DIDÁTICA",
+        "CargaHorariaTeorico": 0,
+        "CargaHorariaPratica": 0,
+        "ListaPrequisitos": []
+      },
+      {
+        "Id": 52342,
+        "Codigo": "3001.000.738-0",
+        "Descricao": "PSICOLOGIA E EDUCAÇÃO",
+        "Semestre": "0",
+        "Apelido": "PSICOLOGIA E EDUCAÇÃO",
+        "CargaHorariaTeorico": 0,
+        "CargaHorariaPratica": 0,
+        "ListaPrequisitos": []
+      },
+      {
+        "Id": 54776,
+        "Codigo": "2701.000.670-6",
+        "Descricao": "PRÁTICA DE ENSINO E SABERES NECESSÁRIOS À DOCÊNCIA",
+        "Semestre": "0",
+        "Apelido": "PRÁTICA DE ENSINO E SABERES NECESSÁRIOS À DOCÊNCIA",
+        "CargaHorariaTeorico": 0,
+        "CargaHorariaPratica": 0,
+        "ListaPrequisitos": []
+      }
+    ]
+  },
+  {
+    "Id": 54741,
+    "Codigo": "2701.000.637-7",
+    "Tipo": "OBR",
+    "Descricao": "FISIOLOGIA VEGETAL",
+    "Semestre": 5,
+    "Apelido": "FISIOLOGIA VEGETAL",
+    "CargaHorariaTeorico": 60,
+    "CargaHorariaPratica": null,
+    "ListaPrequisitos": []
+  },
+  {
+    "Id": 53009,
+    "Codigo": "2101.001.615-8",
+    "Tipo": "OBR",
+    "Descricao": "PALEONTOLOGIA",
+    "Semestre": 5,
+    "Apelido": "PALEONTOLOGIA",
+    "CargaHorariaTeorico": 45,
+    "CargaHorariaPratica": null,
+    "ListaPrequisitos": []
+  },
+  {
+    "Id": 54761,
+    "Codigo": "2701.000.656-4",
+    "Tipo": "OBR",
+    "Descricao": "PRÁTICA DE ENSINO EM AVALIAÇÃO E EDUCAÇÃO INCLUSIVA",
+    "Semestre": 5,
+    "Apelido": "PRÁTICA DE ENSINO EM AVALIAÇÃO E EDUCAÇÃO INCLUSIVA",
+    "CargaHorariaTeorico": 60,
+    "CargaHorariaPratica": null,
+    "ListaPrequisitos": []
+  },
+  {
+    "Id": 54771,
+    "Codigo": "2701.000.665-3",
+    "Tipo": "OBR",
+    "Descricao": "SISTEMÁTICA DE CRIPTÓGAMAS",
+    "Semestre": 5,
+    "Apelido": "SISTEMÁTICA DE CRIPTÓGAMAS",
+    "CargaHorariaTeorico": 45,
+    "CargaHorariaPratica": null,
+    "ListaPrequisitos": []
+  },
+  {
+    "Id": 54763,
+    "Codigo": "2701.000.658-2",
+    "Tipo": "OBR",
+    "Descricao": "BIOQUÍMICA II",
+    "Semestre": 6,
+    "Apelido": "BIOQUÍMICA II",
+    "CargaHorariaTeorico": 30,
+    "CargaHorariaPratica": null,
+    "ListaPrequisitos": []
+  },
+  {
+    "Id": 54725,
+    "Codigo": "2701.000.621-4",
+    "Tipo": "OBR",
+    "Descricao": "DEUTEROSTOMIA I",
+    "Semestre": 6,
+    "Apelido": "DEUTEROSTOMIA I",
+    "CargaHorariaTeorico": 45,
+    "CargaHorariaPratica": null,
+    "ListaPrequisitos": []
+  },
+  {
+    "Id": 50774,
+    "Codigo": "2701.000.357-1",
+    "Tipo": "OBR",
+    "Descricao": "ESTÁGIO OBRIGATÓRIO EM CIÊNCIAS FÍSICAS E BIOLÓGICAS II",
+    "Semestre": 6,
+    "Apelido": "ESTÁGIO OBRIGATÓRIO EM CIÊNCIAS FÍSICAS E BIOLÓGICAS II",
+    "CargaHorariaTeorico": 100,
+    "CargaHorariaPratica": null,
+    "ListaPrequisitos": [
+      {
+        "Id": 50773,
+        "Codigo": "2701.000.356-2",
+        "Descricao": "ESTÁGIO OBRIGATÓRIO EM CIÊNCIAS FÍSICAS E BIOLÓGICAS I",
+        "Semestre": "0",
+        "Apelido": "ESTÁGIO OBRIGATÓRIO EM CIÊNCIAS FÍSICAS E BIOLÓGICAS I",
+        "CargaHorariaTeorico": 0,
+        "CargaHorariaPratica": 0,
+        "ListaPrequisitos": []
+      }
+    ]
+  },
+  {
+    "Id": 53010,
+    "Codigo": "2701.000.552-0",
+    "Tipo": "OBR",
+    "Descricao": "IMUNOLOGIA",
+    "Semestre": 6,
+    "Apelido": "IMUNOLOGIA",
+    "CargaHorariaTeorico": 45,
+    "CargaHorariaPratica": null,
+    "ListaPrequisitos": []
+  },
+  {
+    "Id": 54732,
+    "Codigo": "2701.000.628-8",
+    "Tipo": "OBR",
+    "Descricao": "PRÁTICA DE ENSINO INTERDISCIPLINAR",
+    "Semestre": 6,
+    "Apelido": "PRÁTICA DE ENSINO INTERDISCIPLINAR",
+    "CargaHorariaTeorico": 60,
+    "CargaHorariaPratica": null,
+    "ListaPrequisitos": []
+  },
+  {
+    "Id": 54730,
+    "Codigo": "2701.000.626-0",
+    "Tipo": "OBR",
+    "Descricao": "SISTEMÁTICA DE FANERÓGAMAS",
+    "Semestre": 6,
+    "Apelido": "SISTEMÁTICA DE FANERÓGAMAS",
+    "CargaHorariaTeorico": 60,
+    "CargaHorariaPratica": null,
+    "ListaPrequisitos": []
+  },
+  {
+    "Id": 54752,
+    "Codigo": "2701.000.647-5",
+    "Tipo": "OBR",
+    "Descricao": "DEUTEROSTOMIA II",
+    "Semestre": 7,
+    "Apelido": "DEUTEROSTOMIA II",
+    "CargaHorariaTeorico": 45,
+    "CargaHorariaPratica": null,
+    "ListaPrequisitos": []
+  },
+  {
+    "Id": 54774,
+    "Codigo": "2701.000.668-0",
+    "Tipo": "OBR",
+    "Descricao": "ECOLOGIA DE ORGANISMOS E POPULAÇÃO",
+    "Semestre": 7,
+    "Apelido": "ECOLOGIA DE ORGANISMOS E POPULAÇÃO",
+    "CargaHorariaTeorico": 45,
+    "CargaHorariaPratica": null,
+    "ListaPrequisitos": []
+  },
+  {
+    "Id": 50771,
+    "Codigo": "2701.000.354-4",
+    "Tipo": "OBR",
+    "Descricao": "ESTÁGIO OBRIGATÓRIO EM BIOLOGIA I",
+    "Semestre": 7,
+    "Apelido": "ESTÁGIO OBRIGATÓRIO EM BIOLOGIA I",
+    "CargaHorariaTeorico": 100,
+    "CargaHorariaPratica": null,
+    "ListaPrequisitos": [
+      {
+        "Id": 50773,
+        "Codigo": "2701.000.356-2",
+        "Descricao": "ESTÁGIO OBRIGATÓRIO EM CIÊNCIAS FÍSICAS E BIOLÓGICAS I",
+        "Semestre": "0",
+        "Apelido": "ESTÁGIO OBRIGATÓRIO EM CIÊNCIAS FÍSICAS E BIOLÓGICAS I",
+        "CargaHorariaTeorico": 0,
+        "CargaHorariaPratica": 0,
+        "ListaPrequisitos": []
+      },
+      {
+        "Id": 50774,
+        "Codigo": "2701.000.357-1",
+        "Descricao": "ESTÁGIO OBRIGATÓRIO EM CIÊNCIAS FÍSICAS E BIOLÓGICAS II",
+        "Semestre": "0",
+        "Apelido": "ESTÁGIO OBRIGATÓRIO EM CIÊNCIAS FÍSICAS E BIOLÓGICAS II",
+        "CargaHorariaTeorico": 0,
+        "CargaHorariaPratica": 0,
+        "ListaPrequisitos": []
+      }
+    ]
+  },
+  {
+    "Id": 52303,
+    "Codigo": "3101.000.707-8",
+    "Tipo": "OBR",
+    "Descricao": "ESTUDO DE LIBRAS",
+    "Semestre": 7,
+    "Apelido": "ESTUDO DE LIBRAS",
+    "CargaHorariaTeorico": 45,
+    "CargaHorariaPratica": null,
+    "ListaPrequisitos": []
+  },
+  {
+    "Id": 53024,
+    "Codigo": "2701.000.564-7",
+    "Tipo": "OBR",
+    "Descricao": "EVOLUÇÃO",
+    "Semestre": 7,
+    "Apelido": "EVOLUÇÃO",
+    "CargaHorariaTeorico": 60,
+    "CargaHorariaPratica": null,
+    "ListaPrequisitos": []
+  },
+  {
+    "Id": 54764,
+    "Codigo": "2701.000.659-1",
+    "Tipo": "OBR",
+    "Descricao": "PRÁTICA DE ENSINO EM CONTEÚDOS ESPECÍFICOS",
+    "Semestre": 7,
+    "Apelido": "PRÁTICA DE ENSINO EM CONTEÚDOS ESPECÍFICOS",
+    "CargaHorariaTeorico": 60,
+    "CargaHorariaPratica": null,
+    "ListaPrequisitos": []
+  },
+  {
+    "Id": 52981,
+    "Codigo": "2701.000.525-3",
+    "Tipo": "OBR",
+    "Descricao": "BIOGEOGRAFIA",
+    "Semestre": 8,
+    "Apelido": "BIOGEOGRAFIA",
+    "CargaHorariaTeorico": 30,
+    "CargaHorariaPratica": null,
+    "ListaPrequisitos": []
+  },
+  {
+    "Id": 53023,
+    "Codigo": "2701.000.563-8",
+    "Tipo": "OBR",
+    "Descricao": "BIOLOGIA DA CONSERVAÇÃO",
+    "Semestre": 8,
+    "Apelido": "BIOLOGIA DA CONSERVAÇÃO",
+    "CargaHorariaTeorico": 45,
+    "CargaHorariaPratica": null,
+    "ListaPrequisitos": []
+  },
+  {
+    "Id": 54755,
+    "Codigo": "2701.000.650-0",
+    "Tipo": "OBR",
+    "Descricao": "BIOLOGIA MOLECULAR",
+    "Semestre": 8,
+    "Apelido": "BIOLOGIA MOLECULAR",
+    "CargaHorariaTeorico": 30,
+    "CargaHorariaPratica": null,
+    "ListaPrequisitos": []
+  },
+  {
+    "Id": 54754,
+    "Codigo": "2701.000.649-3",
+    "Tipo": "OBR",
+    "Descricao": "ECOLOGIA DE COMUNIDADES E ECOSSISTEMAS",
+    "Semestre": 8,
+    "Apelido": "ECOLOGIA DE COMUNIDADES E ECOSSISTEMAS",
+    "CargaHorariaTeorico": 45,
+    "CargaHorariaPratica": null,
+    "ListaPrequisitos": []
+  },
+  {
+    "Id": 54757,
+    "Codigo": "2701.000.652-8",
+    "Tipo": "OBR",
+    "Descricao": "EDUCAÇÃO AMBIENTAL",
+    "Semestre": 8,
+    "Apelido": "EDUCAÇÃO AMBIENTAL",
+    "CargaHorariaTeorico": 45,
+    "CargaHorariaPratica": null,
+    "ListaPrequisitos": []
+  },
+  {
+    "Id": 50772,
+    "Codigo": "2701.000.355-3",
+    "Tipo": "OBR",
+    "Descricao": "ESTÁGIO OBRIGATÓRIO EM BIOLOGIA II",
+    "Semestre": 8,
+    "Apelido": "ESTÁGIO OBRIGATÓRIO EM BIOLOGIA II",
+    "CargaHorariaTeorico": 100,
+    "CargaHorariaPratica": null,
+    "ListaPrequisitos": [
+      {
+        "Id": 50771,
+        "Codigo": "2701.000.354-4",
+        "Descricao": "ESTÁGIO OBRIGATÓRIO EM BIOLOGIA I",
+        "Semestre": "0",
+        "Apelido": "ESTÁGIO OBRIGATÓRIO EM BIOLOGIA I",
+        "CargaHorariaTeorico": 0,
+        "CargaHorariaPratica": 0,
+        "ListaPrequisitos": []
+      },
+      {
+        "Id": 50773,
+        "Codigo": "2701.000.356-2",
+        "Descricao": "ESTÁGIO OBRIGATÓRIO EM CIÊNCIAS FÍSICAS E BIOLÓGICAS I",
+        "Semestre": "0",
+        "Apelido": "ESTÁGIO OBRIGATÓRIO EM CIÊNCIAS FÍSICAS E BIOLÓGICAS I",
+        "CargaHorariaTeorico": 0,
+        "CargaHorariaPratica": 0,
+        "ListaPrequisitos": []
+      },
+      {
+        "Id": 50774,
+        "Codigo": "2701.000.357-1",
+        "Descricao": "ESTÁGIO OBRIGATÓRIO EM CIÊNCIAS FÍSICAS E BIOLÓGICAS II",
+        "Semestre": "0",
+        "Apelido": "ESTÁGIO OBRIGATÓRIO EM CIÊNCIAS FÍSICAS E BIOLÓGICAS II",
+        "CargaHorariaTeorico": 0,
+        "CargaHorariaPratica": 0,
+        "ListaPrequisitos": []
+      }
+    ]
+  },
+  {
+    "Id": 52986,
+    "Codigo": "2701.000.529-0",
+    "Tipo": "OBR",
+    "Descricao": "PARASITOLOGIA HUMANA",
+    "Semestre": 8,
+    "Apelido": "PARASITOLOGIA HUMANA",
+    "CargaHorariaTeorico": 45,
+    "CargaHorariaPratica": null,
+    "ListaPrequisitos": []
+  },
+  {
+    "Id": 53013,
+    "Codigo": "2701.000.555-8",
+    "Tipo": "OPT",
+    "Descricao": "ANATOMIA COMPARADA DOS VERTEBRADOS",
+    "Semestre": 99,
+    "Apelido": "ANATOMIA COMPARADA DOS VERTEBRADOS",
+    "CargaHorariaTeorico": 30,
+    "CargaHorariaPratica": null,
+    "ListaPrequisitos": []
+  },
+  {
+    "Id": 54737,
+    "Codigo": "2701.000.633-0",
+    "Tipo": "OPT",
+    "Descricao": "BIOÉTICA",
+    "Semestre": 99,
+    "Apelido": "BIOÉTICA",
+    "CargaHorariaTeorico": 45,
+    "CargaHorariaPratica": null,
+    "ListaPrequisitos": []
+  },
+  {
+    "Id": 54728,
+    "Codigo": "2701.000.624-1",
+    "Tipo": "OPT",
+    "Descricao": "BIOLOGIA INSTRUMENTAL",
+    "Semestre": 99,
+    "Apelido": "BIOLOGIA INSTRUMENTAL",
+    "CargaHorariaTeorico": 60,
+    "CargaHorariaPratica": null,
+    "ListaPrequisitos": []
+  },
+  {
+    "Id": 54745,
+    "Codigo": "2701.000.641-0",
+    "Tipo": "OPT",
+    "Descricao": "CITOGENETICA GERAL",
+    "Semestre": 99,
+    "Apelido": "CITOGENETICA GERAL",
+    "CargaHorariaTeorico": 60,
+    "CargaHorariaPratica": null,
+    "ListaPrequisitos": [
+      {
+        "Id": 54762,
+        "Codigo": "2701.000.657-3",
+        "Descricao": "BASES DE ENSINO DE BIOLOGIA CELULAR",
+        "Semestre": "0",
+        "Apelido": "BASES DE ENSINO DE BIOLOGIA CELULAR",
+        "CargaHorariaTeorico": 0,
+        "CargaHorariaPratica": 0,
+        "ListaPrequisitos": []
+      }
+    ]
+  },
+  {
+    "Id": 54778,
+    "Codigo": "2701.000.672-4",
+    "Tipo": "OPT",
+    "Descricao": "COMPORTAMENTO DE AVES",
+    "Semestre": 99,
+    "Apelido": "COMPORTAMENTO DE AVES",
+    "CargaHorariaTeorico": 45,
+    "CargaHorariaPratica": null,
+    "ListaPrequisitos": []
+  },
+  {
+    "Id": 53006,
+    "Codigo": "2701.000.549-6",
+    "Tipo": "OPT",
+    "Descricao": "DOENÇAS TROPICAIS NEGLIGENCIADAS E SUAS IMPLICAÇÕES NA SAÚDE PÚBLICA",
+    "Semestre": 99,
+    "Apelido": "DOENÇAS TROPICAIS NEGLIGENCIADAS E SUAS IMPLICAÇÕES NA SAÚDE PÚBLICA",
+    "CargaHorariaTeorico": 45,
+    "CargaHorariaPratica": null,
+    "ListaPrequisitos": []
+  },
+  {
+    "Id": 54766,
+    "Codigo": "2701.000.661-7",
+    "Tipo": "OPT",
+    "Descricao": "ECOLOGIA DE CAMPO",
+    "Semestre": 99,
+    "Apelido": "ECOLOGIA DE CAMPO",
+    "CargaHorariaTeorico": 60,
+    "CargaHorariaPratica": null,
+    "ListaPrequisitos": [
+      {
+        "Id": 54754,
+        "Codigo": "2701.000.649-3",
+        "Descricao": "ECOLOGIA DE COMUNIDADES E ECOSSISTEMAS",
+        "Semestre": "0",
+        "Apelido": "ECOLOGIA DE COMUNIDADES E ECOSSISTEMAS",
+        "CargaHorariaTeorico": 0,
+        "CargaHorariaPratica": 0,
+        "ListaPrequisitos": []
+      },
+      {
+        "Id": 54774,
+        "Codigo": "2701.000.668-0",
+        "Descricao": "ECOLOGIA DE ORGANISMOS E POPULAÇÃO",
+        "Semestre": "0",
+        "Apelido": "ECOLOGIA DE ORGANISMOS E POPULAÇÃO",
+        "CargaHorariaTeorico": 0,
+        "CargaHorariaPratica": 0,
+        "ListaPrequisitos": []
+      }
+    ]
+  },
+  {
+    "Id": 54772,
+    "Codigo": "2701.000.666-2",
+    "Tipo": "OPT",
+    "Descricao": "ECOLOGIA URBANA",
+    "Semestre": 99,
+    "Apelido": "ECOLOGIA URBANA",
+    "CargaHorariaTeorico": 45,
+    "CargaHorariaPratica": null,
+    "ListaPrequisitos": []
+  },
+  {
+    "Id": 52340,
+    "Codigo": "3001.000.737-0",
+    "Tipo": "OPT",
+    "Descricao": "EDUCAÇÃO DAS RELAÇÕES ÉTNICO-RACIAIS",
+    "Semestre": 99,
+    "Apelido": "EDUCAÇÃO DAS RELAÇÕES ÉTNICO-RACIAIS",
+    "CargaHorariaTeorico": 45,
+    "CargaHorariaPratica": null,
+    "ListaPrequisitos": []
+  },
+  {
+    "Id": 52308,
+    "Codigo": "0100.000.003-0",
+    "Tipo": "NFC",
+    "Descricao": "EMPREENDEDORISMO E INOVAÇÃO",
+    "Semestre": 99,
+    "Apelido": "EMPREENDEDORISMO E INOVAÇÃO",
+    "CargaHorariaTeorico": 30,
+    "CargaHorariaPratica": null,
+    "ListaPrequisitos": []
+  },
+  {
+    "Id": 54756,
+    "Codigo": "2701.000.651-9",
+    "Tipo": "OPT",
+    "Descricao": "ENSAIOS BIOLÓGICOS APLICADOS À PESQUISA",
+    "Semestre": 99,
+    "Apelido": "ENSAIOS BIOLÓGICOS APLICADOS À PESQUISA",
+    "CargaHorariaTeorico": 60,
+    "CargaHorariaPratica": null,
+    "ListaPrequisitos": []
+  },
+  {
+    "Id": 52984,
+    "Codigo": "2701.000.527-1",
+    "Tipo": "OPT",
+    "Descricao": "EXTENSÃO EM CIÊNCIAS BIOLÓGICAS I",
+    "Semestre": 99,
+    "Apelido": "EXTENSÃO EM CIÊNCIAS BIOLÓGICAS I",
+    "CargaHorariaTeorico": 60,
+    "CargaHorariaPratica": null,
+    "ListaPrequisitos": []
+  },
+  {
+    "Id": 52980,
+    "Codigo": "2701.000.524-4",
+    "Tipo": "OPT",
+    "Descricao": "EXTENSÃO EM CIÊNCIAS BIOLÓGICAS II",
+    "Semestre": 99,
+    "Apelido": "EXTENSÃO EM CIÊNCIAS BIOLÓGICAS II",
+    "CargaHorariaTeorico": 60,
+    "CargaHorariaPratica": null,
+    "ListaPrequisitos": []
+  },
+  {
+    "Id": 54758,
+    "Codigo": "2701.000.653-7",
+    "Tipo": "OPT",
+    "Descricao": "FUNDAMENTOS E PRÁTICA EM ATENDIMENTO EDUCACIONAL EM AMBIENTE HOSPITALAR I",
+    "Semestre": 99,
+    "Apelido": "FUNDAMENTOS E PRÁTICA EM ATENDIMENTO EDUCACIONAL EM AMBIENTE HOSPITALAR I",
+    "CargaHorariaTeorico": 60,
+    "CargaHorariaPratica": null,
+    "ListaPrequisitos": []
+  },
+  {
+    "Id": 54759,
+    "Codigo": "2701.000.654-6",
+    "Tipo": "OPT",
+    "Descricao": "FUNDAMENTOS E PRÁTICA EM ATENDIMENTO EDUCACIONAL EM AMBIENTE HOSPITALAR II",
+    "Semestre": 99,
+    "Apelido": "FUNDAMENTOS E PRÁTICA EM ATENDIMENTO EDUCACIONAL EM AMBIENTE HOSPITALAR II",
+    "CargaHorariaTeorico": 60,
+    "CargaHorariaPratica": null,
+    "ListaPrequisitos": []
+  },
+  {
+    "Id": 54765,
+    "Codigo": "2701.000.660-8",
+    "Tipo": "OPT",
+    "Descricao": "GENÉTICA HUMANA",
+    "Semestre": 99,
+    "Apelido": "GENÉTICA HUMANA",
+    "CargaHorariaTeorico": 60,
+    "CargaHorariaPratica": null,
+    "ListaPrequisitos": [
+      {
+        "Id": 54731,
+        "Codigo": "2701.000.627-9",
+        "Descricao": "BASES DE ENSINO DE GENÉTICA",
+        "Semestre": "0",
+        "Apelido": "BASES DE ENSINO DE GENÉTICA",
+        "CargaHorariaTeorico": 0,
+        "CargaHorariaPratica": 0,
+        "ListaPrequisitos": []
+      }
+    ]
+  },
+  {
+    "Id": 54739,
+    "Codigo": "2701.000.635-9",
+    "Tipo": "OPT",
+    "Descricao": "HERPETOFAUNA REGIONAL",
+    "Semestre": 99,
+    "Apelido": "HERPETOFAUNA REGIONAL",
+    "CargaHorariaTeorico": 60,
+    "CargaHorariaPratica": null,
+    "ListaPrequisitos": []
+  },
+  {
+    "Id": 54775,
+    "Codigo": "2701.000.669-0",
+    "Tipo": "OPT",
+    "Descricao": "HISTOLOGIA DOS SISTEMAS",
+    "Semestre": 99,
+    "Apelido": "HISTOLOGIA DOS SISTEMAS",
+    "CargaHorariaTeorico": 60,
+    "CargaHorariaPratica": null,
+    "ListaPrequisitos": [
+      {
+        "Id": 54726,
+        "Codigo": "2701.000.622-3",
+        "Descricao": "HISTOLOGIA",
+        "Semestre": "0",
+        "Apelido": "HISTOLOGIA",
+        "CargaHorariaTeorico": 0,
+        "CargaHorariaPratica": 0,
+        "ListaPrequisitos": []
+      }
+    ]
+  },
+  {
+    "Id": 54760,
+    "Codigo": "2701.000.655-5",
+    "Tipo": "OPT",
+    "Descricao": "HISTOLOGIA EM JOGO: DA AULA TRADICIONAL PARA APRENDIZAGEM INOVADORA",
+    "Semestre": 99,
+    "Apelido": "HISTOLOGIA EM JOGO: DA AULA TRADICIONAL PARA APRENDIZAGEM INOVADORA",
+    "CargaHorariaTeorico": 30,
+    "CargaHorariaPratica": null,
+    "ListaPrequisitos": []
+  },
+  {
+    "Id": 54773,
+    "Codigo": "2701.000.667-1",
+    "Tipo": "OPT",
+    "Descricao": "HISTÓRIA DA BIOLOGIA",
+    "Semestre": 99,
+    "Apelido": "HISTÓRIA DA BIOLOGIA",
+    "CargaHorariaTeorico": 45,
+    "CargaHorariaPratica": null,
+    "ListaPrequisitos": []
+  },
+  {
+    "Id": 54749,
+    "Codigo": "2701.000.644-8",
+    "Tipo": "OPT",
+    "Descricao": "HISTÓRIA DA CIÊNCIA",
+    "Semestre": 99,
+    "Apelido": "HISTÓRIA DA CIÊNCIA",
+    "CargaHorariaTeorico": 30,
+    "CargaHorariaPratica": null,
+    "ListaPrequisitos": []
+  },
+  {
+    "Id": 52306,
+    "Codigo": "0100.000.001-1",
+    "Tipo": "NFC",
+    "Descricao": "INTELIGÊNCIA ARTIFICIAL: FUNDAMENTOS E PRÁTICAS",
+    "Semestre": 99,
+    "Apelido": "INTELIGÊNCIA ARTIFICIAL: FUNDAMENTOS E PRÁTICAS",
+    "CargaHorariaTeorico": 30,
+    "CargaHorariaPratica": null,
+    "ListaPrequisitos": []
+  },
+  {
+    "Id": 54729,
+    "Codigo": "2701.000.625-0",
+    "Tipo": "OPT",
+    "Descricao": "INTRODUÇÃO À EDUCAÇÃO MIDIÁTICA",
+    "Semestre": 99,
+    "Apelido": "INTRODUÇÃO À EDUCAÇÃO MIDIÁTICA",
+    "CargaHorariaTeorico": 45,
+    "CargaHorariaPratica": null,
+    "ListaPrequisitos": []
+  },
+  {
+    "Id": 54744,
+    "Codigo": "2701.000.640-1",
+    "Tipo": "OPT",
+    "Descricao": "INTRODUÇÃO À ORNITOLOGIA",
+    "Semestre": 99,
+    "Apelido": "INTRODUÇÃO À ORNITOLOGIA",
+    "CargaHorariaTeorico": 45,
+    "CargaHorariaPratica": null,
+    "ListaPrequisitos": []
+  },
+  {
+    "Id": 54735,
+    "Codigo": "2701.000.631-2",
+    "Tipo": "OPT",
+    "Descricao": "MÉTODO CIENTÍFICO NO ENSINO BÁSICO",
+    "Semestre": 99,
+    "Apelido": "MÉTODO CIENTÍFICO NO ENSINO BÁSICO",
+    "CargaHorariaTeorico": 60,
+    "CargaHorariaPratica": null,
+    "ListaPrequisitos": []
+  },
+  {
+    "Id": 54736,
+    "Codigo": "2701.000.632-1",
+    "Tipo": "OPT",
+    "Descricao": "MICROBIOLOGIA MÉDICA",
+    "Semestre": 99,
+    "Apelido": "MICROBIOLOGIA MÉDICA",
+    "CargaHorariaTeorico": 30,
+    "CargaHorariaPratica": null,
+    "ListaPrequisitos": [
+      {
+        "Id": 52943,
+        "Codigo": "2701.000.489-1",
+        "Descricao": "MICROBIOLOGIA",
+        "Semestre": "0",
+        "Apelido": "MICROBIOLOGIA",
+        "CargaHorariaTeorico": 0,
+        "CargaHorariaPratica": 0,
+        "ListaPrequisitos": []
+      }
+    ]
+  },
+  {
+    "Id": 54738,
+    "Codigo": "2701.000.634-0",
+    "Tipo": "OPT",
+    "Descricao": "TÓPICOS DE SEMINÁRIOS EM BIOLOGIA E EDUCAÇÃO",
+    "Semestre": 99,
+    "Apelido": "TÓPICOS DE SEMINÁRIOS EM BIOLOGIA E EDUCAÇÃO",
+    "CargaHorariaTeorico": 60,
+    "CargaHorariaPratica": null,
+    "ListaPrequisitos": []
+  },
+  {
+    "Id": 54727,
+    "Codigo": "2701.000.623-2",
+    "Tipo": "OPT",
+    "Descricao": "TÓPICOS ESPECIAIS EM CIÊNCIAS BIOLÓGICAS",
+    "Semestre": 99,
+    "Apelido": "TÓPICOS ESPECIAIS EM CIÊNCIAS BIOLÓGICAS",
+    "CargaHorariaTeorico": 30,
+    "CargaHorariaPratica": null,
+    "ListaPrequisitos": []
+  },
+  {
+    "Id": 54770,
+    "Codigo": "2701.000.664-4",
+    "Tipo": "OPT",
+    "Descricao": "TÓPICOS ESPECIAIS EM CIÊNCIAS BIOLÓGICAS II",
+    "Semestre": 99,
+    "Apelido": "TÓPICOS ESPECIAIS EM CIÊNCIAS BIOLÓGICAS II",
+    "CargaHorariaTeorico": 30,
+    "CargaHorariaPratica": null,
+    "ListaPrequisitos": []
+  },
+  {
+    "Id": 54747,
+    "Codigo": "2701.000.643-9",
+    "Tipo": "OPT",
+    "Descricao": "TÓPICOS ESPECIAIS EM CIÊNCIAS BIOLÓGICAS III",
+    "Semestre": 99,
+    "Apelido": "TÓPICOS ESPECIAIS EM CIÊNCIAS BIOLÓGICAS III",
+    "CargaHorariaTeorico": 45,
+    "CargaHorariaPratica": null,
+    "ListaPrequisitos": []
+  },
+  {
+    "Id": 52307,
+    "Codigo": "0100.000.002-0",
+    "Tipo": "NFC",
+    "Descricao": "VIDA, CIDADANIA E SUSTENTABILIDADE",
+    "Semestre": 99,
+    "Apelido": "VIDA, CIDADANIA E SUSTENTABILIDADE",
+    "CargaHorariaTeorico": 30,
+    "CargaHorariaPratica": null,
+    "ListaPrequisitos": []
+  }
+]

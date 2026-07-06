@@ -1,0 +1,1485 @@
+[
+  {
+    "Id": 58525,
+    "Codigo": "0709.002.864-2",
+    "Tipo": "OBR",
+    "Descricao": "ANATOMIA HUMANA I",
+    "Semestre": 1,
+    "Apelido": "ANATOMIA HUMANA I",
+    "CargaHorariaTeorico": 60,
+    "CargaHorariaPratica": null,
+    "ListaPrequisitos": []
+  },
+  {
+    "Id": 58483,
+    "Codigo": "0709.002.822-1",
+    "Tipo": "OBR",
+    "Descricao": "ANTROPOLOGIA E SAÚDE",
+    "Semestre": 1,
+    "Apelido": "ANTROPOLOGIA E SAÚDE",
+    "CargaHorariaTeorico": 45,
+    "CargaHorariaPratica": null,
+    "ListaPrequisitos": []
+  },
+  {
+    "Id": 58466,
+    "Codigo": "0709.002.805-2",
+    "Tipo": "OBR",
+    "Descricao": "BIOLOGIA CELULAR",
+    "Semestre": 1,
+    "Apelido": "BIOLOGIA CELULAR",
+    "CargaHorariaTeorico": 45,
+    "CargaHorariaPratica": null,
+    "ListaPrequisitos": []
+  },
+  {
+    "Id": 58472,
+    "Codigo": "0709.002.811-4",
+    "Tipo": "OBR",
+    "Descricao": "FISIOLOGIA I",
+    "Semestre": 1,
+    "Apelido": "FISIOLOGIA I",
+    "CargaHorariaTeorico": 60,
+    "CargaHorariaPratica": null,
+    "ListaPrequisitos": []
+  },
+  {
+    "Id": 58479,
+    "Codigo": "0709.002.818-8",
+    "Tipo": "OBR",
+    "Descricao": "HISTOLOGIA",
+    "Semestre": 1,
+    "Apelido": "HISTOLOGIA",
+    "CargaHorariaTeorico": 60,
+    "CargaHorariaPratica": null,
+    "ListaPrequisitos": []
+  },
+  {
+    "Id": 58502,
+    "Codigo": "0709.002.841-9",
+    "Tipo": "OBR",
+    "Descricao": "HISTÓRIA DA ENFERMAGEM",
+    "Semestre": 1,
+    "Apelido": "HISTÓRIA DA ENFERMAGEM",
+    "CargaHorariaTeorico": 45,
+    "CargaHorariaPratica": null,
+    "ListaPrequisitos": []
+  },
+  {
+    "Id": 58487,
+    "Codigo": "0709.002.826-8",
+    "Tipo": "OBR",
+    "Descricao": "SUPORTE BÁSICO DE VIDA",
+    "Semestre": 1,
+    "Apelido": "SUPORTE BÁSICO DE VIDA",
+    "CargaHorariaTeorico": 45,
+    "CargaHorariaPratica": null,
+    "ListaPrequisitos": []
+  },
+  {
+    "Id": 58499,
+    "Codigo": "0709.002.838-4",
+    "Tipo": "OBR",
+    "Descricao": "ANATOMIA HUMANA II",
+    "Semestre": 2,
+    "Apelido": "ANATOMIA HUMANA II",
+    "CargaHorariaTeorico": 60,
+    "CargaHorariaPratica": null,
+    "ListaPrequisitos": []
+  },
+  {
+    "Id": 58521,
+    "Codigo": "0709.002.860-6",
+    "Tipo": "OBR",
+    "Descricao": "BASES CONCEITUAIS DA SAÚDE COLETIVA",
+    "Semestre": 2,
+    "Apelido": "BASES CONCEITUAIS DA SAÚDE COLETIVA",
+    "CargaHorariaTeorico": 60,
+    "CargaHorariaPratica": null,
+    "ListaPrequisitos": []
+  },
+  {
+    "Id": 58518,
+    "Codigo": "0709.002.857-1",
+    "Tipo": "OBR",
+    "Descricao": "BIOQUÍMICA",
+    "Semestre": 2,
+    "Apelido": "BIOQUÍMICA",
+    "CargaHorariaTeorico": 45,
+    "CargaHorariaPratica": null,
+    "ListaPrequisitos": []
+  },
+  {
+    "Id": 58463,
+    "Codigo": "0709.002.802-5",
+    "Tipo": "OBR",
+    "Descricao": "EMBRIOLOGIA",
+    "Semestre": 2,
+    "Apelido": "EMBRIOLOGIA",
+    "CargaHorariaTeorico": 45,
+    "CargaHorariaPratica": null,
+    "ListaPrequisitos": []
+  },
+  {
+    "Id": 58507,
+    "Codigo": "0709.002.846-4",
+    "Tipo": "OBR",
+    "Descricao": "FISIOLOGIA II",
+    "Semestre": 2,
+    "Apelido": "FISIOLOGIA II",
+    "CargaHorariaTeorico": 60,
+    "CargaHorariaPratica": null,
+    "ListaPrequisitos": []
+  },
+  {
+    "Id": 58506,
+    "Codigo": "0709.002.845-5",
+    "Tipo": "OBR",
+    "Descricao": "INVESTIGAÇÃO EM SAÚDE I",
+    "Semestre": 2,
+    "Apelido": "INVESTIGAÇÃO EM SAÚDE I",
+    "CargaHorariaTeorico": 45,
+    "CargaHorariaPratica": null,
+    "ListaPrequisitos": []
+  },
+  {
+    "Id": 58469,
+    "Codigo": "0709.002.808-0",
+    "Tipo": "OBR",
+    "Descricao": "MICROBIOLOGIA BÁSICA E CLÍNICA",
+    "Semestre": 2,
+    "Apelido": "MICROBIOLOGIA BÁSICA E CLÍNICA",
+    "CargaHorariaTeorico": 60,
+    "CargaHorariaPratica": null,
+    "ListaPrequisitos": []
+  },
+  {
+    "Id": 58492,
+    "Codigo": "0709.002.831-0",
+    "Tipo": "OBR",
+    "Descricao": "PSICOLOGIA APLICADA À SAÚDE",
+    "Semestre": 2,
+    "Apelido": "PSICOLOGIA APLICADA À SAÚDE",
+    "CargaHorariaTeorico": 45,
+    "CargaHorariaPratica": null,
+    "ListaPrequisitos": []
+  },
+  {
+    "Id": 58524,
+    "Codigo": "0709.002.863-3",
+    "Tipo": "OBR",
+    "Descricao": "FARMACOLOGIA APLICADA À ENFERMAGEM I",
+    "Semestre": 3,
+    "Apelido": "FARMACOLOGIA APLICADA À ENFERMAGEM I",
+    "CargaHorariaTeorico": 45,
+    "CargaHorariaPratica": null,
+    "ListaPrequisitos": [
+      {
+        "Id": 58472,
+        "Codigo": "0709.002.811-4",
+        "Descricao": "FISIOLOGIA I",
+        "Semestre": "0",
+        "Apelido": "FISIOLOGIA I",
+        "CargaHorariaTeorico": 0,
+        "CargaHorariaPratica": 0,
+        "ListaPrequisitos": []
+      },
+      {
+        "Id": 58507,
+        "Codigo": "0709.002.846-4",
+        "Descricao": "FISIOLOGIA II",
+        "Semestre": "0",
+        "Apelido": "FISIOLOGIA II",
+        "CargaHorariaTeorico": 0,
+        "CargaHorariaPratica": 0,
+        "ListaPrequisitos": []
+      }
+    ]
+  },
+  {
+    "Id": 58515,
+    "Codigo": "0709.002.854-4",
+    "Tipo": "OBR",
+    "Descricao": "FUNDAMENTOS DE ENFERMAGEM I",
+    "Semestre": 3,
+    "Apelido": "FUNDAMENTOS DE ENFERMAGEM I",
+    "CargaHorariaTeorico": 105,
+    "CargaHorariaPratica": null,
+    "ListaPrequisitos": [
+      {
+        "Id": 58472,
+        "Codigo": "0709.002.811-4",
+        "Descricao": "FISIOLOGIA I",
+        "Semestre": "0",
+        "Apelido": "FISIOLOGIA I",
+        "CargaHorariaTeorico": 0,
+        "CargaHorariaPratica": 0,
+        "ListaPrequisitos": []
+      },
+      {
+        "Id": 58499,
+        "Codigo": "0709.002.838-4",
+        "Descricao": "ANATOMIA HUMANA II",
+        "Semestre": "0",
+        "Apelido": "ANATOMIA HUMANA II",
+        "CargaHorariaTeorico": 0,
+        "CargaHorariaPratica": 0,
+        "ListaPrequisitos": []
+      },
+      {
+        "Id": 58525,
+        "Codigo": "0709.002.864-2",
+        "Descricao": "ANATOMIA HUMANA I",
+        "Semestre": "0",
+        "Apelido": "ANATOMIA HUMANA I",
+        "CargaHorariaTeorico": 0,
+        "CargaHorariaPratica": 0,
+        "ListaPrequisitos": []
+      }
+    ]
+  },
+  {
+    "Id": 58517,
+    "Codigo": "0709.002.856-2",
+    "Tipo": "OBR",
+    "Descricao": "LEGISLAÇÃO, ÉTICA E BIOÉTICA APLICADAS À ENFERMAGEM",
+    "Semestre": 3,
+    "Apelido": "LEGISLAÇÃO, ÉTICA E BIOÉTICA APLICADAS À ENFERMAGEM",
+    "CargaHorariaTeorico": 45,
+    "CargaHorariaPratica": null,
+    "ListaPrequisitos": []
+  },
+  {
+    "Id": 58527,
+    "Codigo": "0709.002.866-0",
+    "Tipo": "OBR",
+    "Descricao": "PARASITOLOGIA HUMANA",
+    "Semestre": 3,
+    "Apelido": "PARASITOLOGIA HUMANA",
+    "CargaHorariaTeorico": 45,
+    "CargaHorariaPratica": null,
+    "ListaPrequisitos": []
+  },
+  {
+    "Id": 58480,
+    "Codigo": "0709.002.819-7",
+    "Tipo": "OBR",
+    "Descricao": "PATOLOGIA GERAL",
+    "Semestre": 3,
+    "Apelido": "PATOLOGIA GERAL",
+    "CargaHorariaTeorico": 45,
+    "CargaHorariaPratica": null,
+    "ListaPrequisitos": []
+  },
+  {
+    "Id": 58481,
+    "Codigo": "0709.002.820-3",
+    "Tipo": "OBR",
+    "Descricao": "SEMIOLOGIA E SEMIOTÉCNICA APLICADAS À ENFERMAGEM",
+    "Semestre": 3,
+    "Apelido": "SEMIOLOGIA E SEMIOTÉCNICA APLICADAS À ENFERMAGEM",
+    "CargaHorariaTeorico": 60,
+    "CargaHorariaPratica": null,
+    "ListaPrequisitos": [
+      {
+        "Id": 58499,
+        "Codigo": "0709.002.838-4",
+        "Descricao": "ANATOMIA HUMANA II",
+        "Semestre": "0",
+        "Apelido": "ANATOMIA HUMANA II",
+        "CargaHorariaTeorico": 0,
+        "CargaHorariaPratica": 0,
+        "ListaPrequisitos": []
+      },
+      {
+        "Id": 58507,
+        "Codigo": "0709.002.846-4",
+        "Descricao": "FISIOLOGIA II",
+        "Semestre": "0",
+        "Apelido": "FISIOLOGIA II",
+        "CargaHorariaTeorico": 0,
+        "CargaHorariaPratica": 0,
+        "ListaPrequisitos": []
+      },
+      {
+        "Id": 58525,
+        "Codigo": "0709.002.864-2",
+        "Descricao": "ANATOMIA HUMANA I",
+        "Semestre": "0",
+        "Apelido": "ANATOMIA HUMANA I",
+        "CargaHorariaTeorico": 0,
+        "CargaHorariaPratica": 0,
+        "ListaPrequisitos": []
+      }
+    ]
+  },
+  {
+    "Id": 58467,
+    "Codigo": "0709.002.806-1",
+    "Tipo": "OBR",
+    "Descricao": "BIOESTATÍSTICA",
+    "Semestre": 4,
+    "Apelido": "BIOESTATÍSTICA",
+    "CargaHorariaTeorico": 30,
+    "CargaHorariaPratica": null,
+    "ListaPrequisitos": []
+  },
+  {
+    "Id": 58526,
+    "Codigo": "0709.002.865-1",
+    "Tipo": "OBR",
+    "Descricao": "EDUCAÇÃO EM SAÚDE",
+    "Semestre": 4,
+    "Apelido": "EDUCAÇÃO EM SAÚDE",
+    "CargaHorariaTeorico": 45,
+    "CargaHorariaPratica": null,
+    "ListaPrequisitos": []
+  },
+  {
+    "Id": 58536,
+    "Codigo": "0709.002.875-0",
+    "Tipo": "OBR",
+    "Descricao": "ENFERMAGEM NA SEGURANÇA DO PACIENTE E NO CONTROLE DE INFECÇÕES",
+    "Semestre": 4,
+    "Apelido": "ENFERMAGEM NA SEGURANÇA DO PACIENTE E NO CONTROLE DE INFECÇÕES",
+    "CargaHorariaTeorico": 30,
+    "CargaHorariaPratica": null,
+    "ListaPrequisitos": []
+  },
+  {
+    "Id": 58510,
+    "Codigo": "0709.002.849-1",
+    "Tipo": "OBR",
+    "Descricao": "FARMACOLOGIA APLICADA À ENFERMAGEM II",
+    "Semestre": 4,
+    "Apelido": "FARMACOLOGIA APLICADA À ENFERMAGEM II",
+    "CargaHorariaTeorico": 60,
+    "CargaHorariaPratica": null,
+    "ListaPrequisitos": [
+      {
+        "Id": 58524,
+        "Codigo": "0709.002.863-3",
+        "Descricao": "FARMACOLOGIA APLICADA À ENFERMAGEM I",
+        "Semestre": "0",
+        "Apelido": "FARMACOLOGIA APLICADA À ENFERMAGEM I",
+        "CargaHorariaTeorico": 0,
+        "CargaHorariaPratica": 0,
+        "ListaPrequisitos": []
+      }
+    ]
+  },
+  {
+    "Id": 58508,
+    "Codigo": "0709.002.847-3",
+    "Tipo": "OBR",
+    "Descricao": "FUNDAMENTOS DE ENFERMAGEM II",
+    "Semestre": 4,
+    "Apelido": "FUNDAMENTOS DE ENFERMAGEM II",
+    "CargaHorariaTeorico": 120,
+    "CargaHorariaPratica": null,
+    "ListaPrequisitos": [
+      {
+        "Id": 58515,
+        "Codigo": "0709.002.854-4",
+        "Descricao": "FUNDAMENTOS DE ENFERMAGEM I",
+        "Semestre": "0",
+        "Apelido": "FUNDAMENTOS DE ENFERMAGEM I",
+        "CargaHorariaTeorico": 0,
+        "CargaHorariaPratica": 0,
+        "ListaPrequisitos": []
+      }
+    ]
+  },
+  {
+    "Id": 58495,
+    "Codigo": "0709.002.834-8",
+    "Tipo": "OBR",
+    "Descricao": "GENÉTICA HUMANA",
+    "Semestre": 4,
+    "Apelido": "GENÉTICA HUMANA",
+    "CargaHorariaTeorico": 45,
+    "CargaHorariaPratica": null,
+    "ListaPrequisitos": []
+  },
+  {
+    "Id": 58513,
+    "Codigo": "0709.002.852-6",
+    "Tipo": "OBR",
+    "Descricao": "IMUNOLOGIA",
+    "Semestre": 4,
+    "Apelido": "IMUNOLOGIA",
+    "CargaHorariaTeorico": 45,
+    "CargaHorariaPratica": null,
+    "ListaPrequisitos": []
+  },
+  {
+    "Id": 58470,
+    "Codigo": "0709.002.809-9",
+    "Tipo": "OBR",
+    "Descricao": "PROCESSO DE ENFERMAGEM",
+    "Semestre": 4,
+    "Apelido": "PROCESSO DE ENFERMAGEM",
+    "CargaHorariaTeorico": 30,
+    "CargaHorariaPratica": null,
+    "ListaPrequisitos": [
+      {
+        "Id": 58481,
+        "Codigo": "0709.002.820-3",
+        "Descricao": "SEMIOLOGIA E SEMIOTÉCNICA APLICADAS À ENFERMAGEM",
+        "Semestre": "0",
+        "Apelido": "SEMIOLOGIA E SEMIOTÉCNICA APLICADAS À ENFERMAGEM",
+        "CargaHorariaTeorico": 0,
+        "CargaHorariaPratica": 0,
+        "ListaPrequisitos": []
+      }
+    ]
+  },
+  {
+    "Id": 58491,
+    "Codigo": "0709.002.830-1",
+    "Tipo": "OBR",
+    "Descricao": "ENFERMAGEM EM SAÚDE COLETIVA I",
+    "Semestre": 5,
+    "Apelido": "ENFERMAGEM EM SAÚDE COLETIVA I",
+    "CargaHorariaTeorico": 90,
+    "CargaHorariaPratica": null,
+    "ListaPrequisitos": [
+      {
+        "Id": 58470,
+        "Codigo": "0709.002.809-9",
+        "Descricao": "PROCESSO DE ENFERMAGEM",
+        "Semestre": "0",
+        "Apelido": "PROCESSO DE ENFERMAGEM",
+        "CargaHorariaTeorico": 0,
+        "CargaHorariaPratica": 0,
+        "ListaPrequisitos": []
+      },
+      {
+        "Id": 58508,
+        "Codigo": "0709.002.847-3",
+        "Descricao": "FUNDAMENTOS DE ENFERMAGEM II",
+        "Semestre": "0",
+        "Apelido": "FUNDAMENTOS DE ENFERMAGEM II",
+        "CargaHorariaTeorico": 0,
+        "CargaHorariaPratica": 0,
+        "ListaPrequisitos": []
+      },
+      {
+        "Id": 58521,
+        "Codigo": "0709.002.860-6",
+        "Descricao": "BASES CONCEITUAIS DA SAÚDE COLETIVA",
+        "Semestre": "0",
+        "Apelido": "BASES CONCEITUAIS DA SAÚDE COLETIVA",
+        "CargaHorariaTeorico": 0,
+        "CargaHorariaPratica": 0,
+        "ListaPrequisitos": []
+      }
+    ]
+  },
+  {
+    "Id": 58464,
+    "Codigo": "0709.002.803-4",
+    "Tipo": "OBR",
+    "Descricao": "ENFERMAGEM EM SAÚDE MENTAL I",
+    "Semestre": 5,
+    "Apelido": "ENFERMAGEM EM SAÚDE MENTAL I",
+    "CargaHorariaTeorico": 60,
+    "CargaHorariaPratica": null,
+    "ListaPrequisitos": [
+      {
+        "Id": 58492,
+        "Codigo": "0709.002.831-0",
+        "Descricao": "PSICOLOGIA APLICADA À SAÚDE",
+        "Semestre": "0",
+        "Apelido": "PSICOLOGIA APLICADA À SAÚDE",
+        "CargaHorariaTeorico": 0,
+        "CargaHorariaPratica": 0,
+        "ListaPrequisitos": []
+      }
+    ]
+  },
+  {
+    "Id": 58494,
+    "Codigo": "0709.002.833-9",
+    "Tipo": "OBR",
+    "Descricao": "ENFERMAGEM NA SAÚDE DA CRIANÇA E DO ADOLESCENTE I",
+    "Semestre": 5,
+    "Apelido": "ENFERMAGEM NA SAÚDE DA CRIANÇA E DO ADOLESCENTE I",
+    "CargaHorariaTeorico": 90,
+    "CargaHorariaPratica": null,
+    "ListaPrequisitos": [
+      {
+        "Id": 58470,
+        "Codigo": "0709.002.809-9",
+        "Descricao": "PROCESSO DE ENFERMAGEM",
+        "Semestre": "0",
+        "Apelido": "PROCESSO DE ENFERMAGEM",
+        "CargaHorariaTeorico": 0,
+        "CargaHorariaPratica": 0,
+        "ListaPrequisitos": []
+      },
+      {
+        "Id": 58508,
+        "Codigo": "0709.002.847-3",
+        "Descricao": "FUNDAMENTOS DE ENFERMAGEM II",
+        "Semestre": "0",
+        "Apelido": "FUNDAMENTOS DE ENFERMAGEM II",
+        "CargaHorariaTeorico": 0,
+        "CargaHorariaPratica": 0,
+        "ListaPrequisitos": []
+      }
+    ]
+  },
+  {
+    "Id": 58516,
+    "Codigo": "0709.002.855-3",
+    "Tipo": "OBR",
+    "Descricao": "ENFERMAGEM NA SAÚDE SEXUAL E REPRODUTIVA I",
+    "Semestre": 5,
+    "Apelido": "ENFERMAGEM NA SAÚDE SEXUAL E REPRODUTIVA I",
+    "CargaHorariaTeorico": 90,
+    "CargaHorariaPratica": null,
+    "ListaPrequisitos": [
+      {
+        "Id": 58470,
+        "Codigo": "0709.002.809-9",
+        "Descricao": "PROCESSO DE ENFERMAGEM",
+        "Semestre": "0",
+        "Apelido": "PROCESSO DE ENFERMAGEM",
+        "CargaHorariaTeorico": 0,
+        "CargaHorariaPratica": 0,
+        "ListaPrequisitos": []
+      },
+      {
+        "Id": 58508,
+        "Codigo": "0709.002.847-3",
+        "Descricao": "FUNDAMENTOS DE ENFERMAGEM II",
+        "Semestre": "0",
+        "Apelido": "FUNDAMENTOS DE ENFERMAGEM II",
+        "CargaHorariaTeorico": 0,
+        "CargaHorariaPratica": 0,
+        "ListaPrequisitos": []
+      }
+    ]
+  },
+  {
+    "Id": 58533,
+    "Codigo": "0709.002.872-2",
+    "Tipo": "OBR",
+    "Descricao": "EPIDEMIOLOGIA",
+    "Semestre": 5,
+    "Apelido": "EPIDEMIOLOGIA",
+    "CargaHorariaTeorico": 60,
+    "CargaHorariaPratica": null,
+    "ListaPrequisitos": [
+      {
+        "Id": 58521,
+        "Codigo": "0709.002.860-6",
+        "Descricao": "BASES CONCEITUAIS DA SAÚDE COLETIVA",
+        "Semestre": "0",
+        "Apelido": "BASES CONCEITUAIS DA SAÚDE COLETIVA",
+        "CargaHorariaTeorico": 0,
+        "CargaHorariaPratica": 0,
+        "ListaPrequisitos": []
+      }
+    ]
+  },
+  {
+    "Id": 58505,
+    "Codigo": "0709.002.844-6",
+    "Tipo": "OBR",
+    "Descricao": "ENFERMAGEM EM DOENÇAS TRANSMISSÍVEIS",
+    "Semestre": 6,
+    "Apelido": "ENFERMAGEM EM DOENÇAS TRANSMISSÍVEIS",
+    "CargaHorariaTeorico": 45,
+    "CargaHorariaPratica": null,
+    "ListaPrequisitos": []
+  },
+  {
+    "Id": 58465,
+    "Codigo": "0709.002.804-3",
+    "Tipo": "OBR",
+    "Descricao": "ENFERMAGEM EM SAÚDE COLETIVA II",
+    "Semestre": 6,
+    "Apelido": "ENFERMAGEM EM SAÚDE COLETIVA II",
+    "CargaHorariaTeorico": 90,
+    "CargaHorariaPratica": null,
+    "ListaPrequisitos": [
+      {
+        "Id": 58491,
+        "Codigo": "0709.002.830-1",
+        "Descricao": "ENFERMAGEM EM SAÚDE COLETIVA I",
+        "Semestre": "0",
+        "Apelido": "ENFERMAGEM EM SAÚDE COLETIVA I",
+        "CargaHorariaTeorico": 0,
+        "CargaHorariaPratica": 0,
+        "ListaPrequisitos": []
+      }
+    ]
+  },
+  {
+    "Id": 58461,
+    "Codigo": "0709.002.800-7",
+    "Tipo": "OBR",
+    "Descricao": "ENFERMAGEM EM SAÚDE MENTAL II",
+    "Semestre": 6,
+    "Apelido": "ENFERMAGEM EM SAÚDE MENTAL II",
+    "CargaHorariaTeorico": 75,
+    "CargaHorariaPratica": null,
+    "ListaPrequisitos": [
+      {
+        "Id": 58464,
+        "Codigo": "0709.002.803-4",
+        "Descricao": "ENFERMAGEM EM SAÚDE MENTAL I",
+        "Semestre": "0",
+        "Apelido": "ENFERMAGEM EM SAÚDE MENTAL I",
+        "CargaHorariaTeorico": 0,
+        "CargaHorariaPratica": 0,
+        "ListaPrequisitos": []
+      }
+    ]
+  },
+  {
+    "Id": 58490,
+    "Codigo": "0709.002.829-5",
+    "Tipo": "OBR",
+    "Descricao": "ENFERMAGEM NA SAÚDE DA CRIANÇA E DO ADOLESCENTE II",
+    "Semestre": 6,
+    "Apelido": "ENFERMAGEM NA SAÚDE DA CRIANÇA E DO ADOLESCENTE II",
+    "CargaHorariaTeorico": 90,
+    "CargaHorariaPratica": null,
+    "ListaPrequisitos": [
+      {
+        "Id": 58494,
+        "Codigo": "0709.002.833-9",
+        "Descricao": "ENFERMAGEM NA SAÚDE DA CRIANÇA E DO ADOLESCENTE I",
+        "Semestre": "0",
+        "Apelido": "ENFERMAGEM NA SAÚDE DA CRIANÇA E DO ADOLESCENTE I",
+        "CargaHorariaTeorico": 0,
+        "CargaHorariaPratica": 0,
+        "ListaPrequisitos": []
+      }
+    ]
+  },
+  {
+    "Id": 58514,
+    "Codigo": "0709.002.853-5",
+    "Tipo": "OBR",
+    "Descricao": "ENFERMAGEM NA SAÚDE SEXUAL E REPRODUTIVA II",
+    "Semestre": 6,
+    "Apelido": "ENFERMAGEM NA SAÚDE SEXUAL E REPRODUTIVA II",
+    "CargaHorariaTeorico": 90,
+    "CargaHorariaPratica": null,
+    "ListaPrequisitos": [
+      {
+        "Id": 58516,
+        "Codigo": "0709.002.855-3",
+        "Descricao": "ENFERMAGEM NA SAÚDE SEXUAL E REPRODUTIVA I",
+        "Semestre": "0",
+        "Apelido": "ENFERMAGEM NA SAÚDE SEXUAL E REPRODUTIVA I",
+        "CargaHorariaTeorico": 0,
+        "CargaHorariaPratica": 0,
+        "ListaPrequisitos": []
+      }
+    ]
+  },
+  {
+    "Id": 58486,
+    "Codigo": "0709.002.825-9",
+    "Tipo": "OBR",
+    "Descricao": "DIDÁTICA APLICADA À ENFERMAGEM",
+    "Semestre": 7,
+    "Apelido": "DIDÁTICA APLICADA À ENFERMAGEM",
+    "CargaHorariaTeorico": 30,
+    "CargaHorariaPratica": null,
+    "ListaPrequisitos": []
+  },
+  {
+    "Id": 58488,
+    "Codigo": "0709.002.827-7",
+    "Tipo": "OBR",
+    "Descricao": "ENFERMAGEM NA SAÚDE DA PESSOA ADULTA",
+    "Semestre": 7,
+    "Apelido": "ENFERMAGEM NA SAÚDE DA PESSOA ADULTA",
+    "CargaHorariaTeorico": 90,
+    "CargaHorariaPratica": null,
+    "ListaPrequisitos": [
+      {
+        "Id": 58470,
+        "Codigo": "0709.002.809-9",
+        "Descricao": "PROCESSO DE ENFERMAGEM",
+        "Semestre": "0",
+        "Apelido": "PROCESSO DE ENFERMAGEM",
+        "CargaHorariaTeorico": 0,
+        "CargaHorariaPratica": 0,
+        "ListaPrequisitos": []
+      },
+      {
+        "Id": 58508,
+        "Codigo": "0709.002.847-3",
+        "Descricao": "FUNDAMENTOS DE ENFERMAGEM II",
+        "Semestre": "0",
+        "Apelido": "FUNDAMENTOS DE ENFERMAGEM II",
+        "CargaHorariaTeorico": 0,
+        "CargaHorariaPratica": 0,
+        "ListaPrequisitos": []
+      }
+    ]
+  },
+  {
+    "Id": 58473,
+    "Codigo": "0709.002.812-3",
+    "Tipo": "OBR",
+    "Descricao": "ENFERMAGEM NA SAÚDE DA PESSOA IDOSA",
+    "Semestre": 7,
+    "Apelido": "ENFERMAGEM NA SAÚDE DA PESSOA IDOSA",
+    "CargaHorariaTeorico": 60,
+    "CargaHorariaPratica": null,
+    "ListaPrequisitos": [
+      {
+        "Id": 58470,
+        "Codigo": "0709.002.809-9",
+        "Descricao": "PROCESSO DE ENFERMAGEM",
+        "Semestre": "0",
+        "Apelido": "PROCESSO DE ENFERMAGEM",
+        "CargaHorariaTeorico": 0,
+        "CargaHorariaPratica": 0,
+        "ListaPrequisitos": []
+      },
+      {
+        "Id": 58508,
+        "Codigo": "0709.002.847-3",
+        "Descricao": "FUNDAMENTOS DE ENFERMAGEM II",
+        "Semestre": "0",
+        "Apelido": "FUNDAMENTOS DE ENFERMAGEM II",
+        "CargaHorariaTeorico": 0,
+        "CargaHorariaPratica": 0,
+        "ListaPrequisitos": []
+      }
+    ]
+  },
+  {
+    "Id": 58501,
+    "Codigo": "0709.002.840-0",
+    "Tipo": "OBR",
+    "Descricao": "ENFERMAGEM NAS PRÁTICAS INTEGRATIVAS E COMPLEMENTARES I",
+    "Semestre": 7,
+    "Apelido": "ENFERMAGEM NAS PRÁTICAS INTEGRATIVAS E COMPLEMENTARES I",
+    "CargaHorariaTeorico": 45,
+    "CargaHorariaPratica": null,
+    "ListaPrequisitos": []
+  },
+  {
+    "Id": 58471,
+    "Codigo": "0709.002.810-5",
+    "Tipo": "OBR",
+    "Descricao": "GESTÃO EM SAÚDE COLETIVA",
+    "Semestre": 7,
+    "Apelido": "GESTÃO EM SAÚDE COLETIVA",
+    "CargaHorariaTeorico": 60,
+    "CargaHorariaPratica": null,
+    "ListaPrequisitos": [
+      {
+        "Id": 58465,
+        "Codigo": "0709.002.804-3",
+        "Descricao": "ENFERMAGEM EM SAÚDE COLETIVA II",
+        "Semestre": "0",
+        "Apelido": "ENFERMAGEM EM SAÚDE COLETIVA II",
+        "CargaHorariaTeorico": 0,
+        "CargaHorariaPratica": 0,
+        "ListaPrequisitos": []
+      }
+    ]
+  },
+  {
+    "Id": 58509,
+    "Codigo": "0709.002.848-2",
+    "Tipo": "OBR",
+    "Descricao": "INVESTIGAÇÃO EM SAÚDE II",
+    "Semestre": 7,
+    "Apelido": "INVESTIGAÇÃO EM SAÚDE II",
+    "CargaHorariaTeorico": 30,
+    "CargaHorariaPratica": null,
+    "ListaPrequisitos": [
+      {
+        "Id": 58506,
+        "Codigo": "0709.002.845-5",
+        "Descricao": "INVESTIGAÇÃO EM SAÚDE I",
+        "Semestre": "0",
+        "Apelido": "INVESTIGAÇÃO EM SAÚDE I",
+        "CargaHorariaTeorico": 0,
+        "CargaHorariaPratica": 0,
+        "ListaPrequisitos": []
+      }
+    ]
+  },
+  {
+    "Id": 58530,
+    "Codigo": "0709.002.869-8",
+    "Tipo": "OBR",
+    "Descricao": "SAÚDE E SOCIEDADE",
+    "Semestre": 7,
+    "Apelido": "SAÚDE E SOCIEDADE",
+    "CargaHorariaTeorico": 45,
+    "CargaHorariaPratica": null,
+    "ListaPrequisitos": []
+  },
+  {
+    "Id": 58497,
+    "Codigo": "0709.002.836-6",
+    "Tipo": "OBR",
+    "Descricao": "ENFERMAGEM NAS PRÁTICAS INTEGRATIVAS E COMPLEMENTARES II",
+    "Semestre": 8,
+    "Apelido": "ENFERMAGEM NAS PRÁTICAS INTEGRATIVAS E COMPLEMENTARES II",
+    "CargaHorariaTeorico": 45,
+    "CargaHorariaPratica": null,
+    "ListaPrequisitos": [
+      {
+        "Id": 58501,
+        "Codigo": "0709.002.840-0",
+        "Descricao": "ENFERMAGEM NAS PRÁTICAS INTEGRATIVAS E COMPLEMENTARES I",
+        "Semestre": "0",
+        "Apelido": "ENFERMAGEM NAS PRÁTICAS INTEGRATIVAS E COMPLEMENTARES I",
+        "CargaHorariaTeorico": 0,
+        "CargaHorariaPratica": 0,
+        "ListaPrequisitos": []
+      }
+    ]
+  },
+  {
+    "Id": 58532,
+    "Codigo": "0709.002.871-3",
+    "Tipo": "OBR",
+    "Descricao": "ENFERMAGEM NO CUIDADO DO PACIENTE CRÍTICO",
+    "Semestre": 8,
+    "Apelido": "ENFERMAGEM NO CUIDADO DO PACIENTE CRÍTICO",
+    "CargaHorariaTeorico": 90,
+    "CargaHorariaPratica": null,
+    "ListaPrequisitos": [
+      {
+        "Id": 58470,
+        "Codigo": "0709.002.809-9",
+        "Descricao": "PROCESSO DE ENFERMAGEM",
+        "Semestre": "0",
+        "Apelido": "PROCESSO DE ENFERMAGEM",
+        "CargaHorariaTeorico": 0,
+        "CargaHorariaPratica": 0,
+        "ListaPrequisitos": []
+      },
+      {
+        "Id": 58508,
+        "Codigo": "0709.002.847-3",
+        "Descricao": "FUNDAMENTOS DE ENFERMAGEM II",
+        "Semestre": "0",
+        "Apelido": "FUNDAMENTOS DE ENFERMAGEM II",
+        "CargaHorariaTeorico": 0,
+        "CargaHorariaPratica": 0,
+        "ListaPrequisitos": []
+      },
+      {
+        "Id": 58510,
+        "Codigo": "0709.002.849-1",
+        "Descricao": "FARMACOLOGIA APLICADA À ENFERMAGEM II",
+        "Semestre": "0",
+        "Apelido": "FARMACOLOGIA APLICADA À ENFERMAGEM II",
+        "CargaHorariaTeorico": 0,
+        "CargaHorariaPratica": 0,
+        "ListaPrequisitos": []
+      }
+    ]
+  },
+  {
+    "Id": 58520,
+    "Codigo": "0709.002.859-0",
+    "Tipo": "OBR",
+    "Descricao": "ENFERMAGEM PERIOPERATÓRIA",
+    "Semestre": 8,
+    "Apelido": "ENFERMAGEM PERIOPERATÓRIA",
+    "CargaHorariaTeorico": 105,
+    "CargaHorariaPratica": null,
+    "ListaPrequisitos": [
+      {
+        "Id": 58470,
+        "Codigo": "0709.002.809-9",
+        "Descricao": "PROCESSO DE ENFERMAGEM",
+        "Semestre": "0",
+        "Apelido": "PROCESSO DE ENFERMAGEM",
+        "CargaHorariaTeorico": 0,
+        "CargaHorariaPratica": 0,
+        "ListaPrequisitos": []
+      },
+      {
+        "Id": 58508,
+        "Codigo": "0709.002.847-3",
+        "Descricao": "FUNDAMENTOS DE ENFERMAGEM II",
+        "Semestre": "0",
+        "Apelido": "FUNDAMENTOS DE ENFERMAGEM II",
+        "CargaHorariaTeorico": 0,
+        "CargaHorariaPratica": 0,
+        "ListaPrequisitos": []
+      }
+    ]
+  },
+  {
+    "Id": 58519,
+    "Codigo": "0709.002.858-0",
+    "Tipo": "OBR",
+    "Descricao": "GERENCIAMENTO APLICADO À ENFERMAGEM HOSPITALAR",
+    "Semestre": 8,
+    "Apelido": "GERENCIAMENTO APLICADO À ENFERMAGEM HOSPITALAR",
+    "CargaHorariaTeorico": 60,
+    "CargaHorariaPratica": null,
+    "ListaPrequisitos": [
+      {
+        "Id": 58488,
+        "Codigo": "0709.002.827-7",
+        "Descricao": "ENFERMAGEM NA SAÚDE DA PESSOA ADULTA",
+        "Semestre": "0",
+        "Apelido": "ENFERMAGEM NA SAÚDE DA PESSOA ADULTA",
+        "CargaHorariaTeorico": 0,
+        "CargaHorariaPratica": 0,
+        "ListaPrequisitos": []
+      }
+    ]
+  },
+  {
+    "Id": 58482,
+    "Codigo": "0709.002.821-2",
+    "Tipo": "OBR",
+    "Descricao": "INVESTIGAÇÃO EM SAÚDE III",
+    "Semestre": 8,
+    "Apelido": "INVESTIGAÇÃO EM SAÚDE III",
+    "CargaHorariaTeorico": 30,
+    "CargaHorariaPratica": null,
+    "ListaPrequisitos": [
+      {
+        "Id": 58509,
+        "Codigo": "0709.002.848-2",
+        "Descricao": "INVESTIGAÇÃO EM SAÚDE II",
+        "Semestre": "0",
+        "Apelido": "INVESTIGAÇÃO EM SAÚDE II",
+        "CargaHorariaTeorico": 0,
+        "CargaHorariaPratica": 0,
+        "ListaPrequisitos": []
+      }
+    ]
+  },
+  {
+    "Id": 49207,
+    "Codigo": "0709.001.731-7",
+    "Tipo": "OBR",
+    "Descricao": "ESTÁGIO OBRIGATÓRIO EM REDES DE SERVIÇOS DE SAÚDE I",
+    "Semestre": 9,
+    "Apelido": "ESTÁGIO OBRIGATÓRIO EM REDES DE SERVIÇOS DE SAÚDE I",
+    "CargaHorariaTeorico": 440,
+    "CargaHorariaPratica": null,
+    "ListaPrequisitos": [
+      {
+        "Id": 58471,
+        "Codigo": "0709.002.810-5",
+        "Descricao": "GESTÃO EM SAÚDE COLETIVA",
+        "Semestre": "0",
+        "Apelido": "GESTÃO EM SAÚDE COLETIVA",
+        "CargaHorariaTeorico": 0,
+        "CargaHorariaPratica": 0,
+        "ListaPrequisitos": []
+      },
+      {
+        "Id": 58490,
+        "Codigo": "0709.002.829-5",
+        "Descricao": "ENFERMAGEM NA SAÚDE DA CRIANÇA E DO ADOLESCENTE II",
+        "Semestre": "0",
+        "Apelido": "ENFERMAGEM NA SAÚDE DA CRIANÇA E DO ADOLESCENTE II",
+        "CargaHorariaTeorico": 0,
+        "CargaHorariaPratica": 0,
+        "ListaPrequisitos": []
+      },
+      {
+        "Id": 58502,
+        "Codigo": "0709.002.841-9",
+        "Descricao": "HISTÓRIA DA ENFERMAGEM",
+        "Semestre": "0",
+        "Apelido": "HISTÓRIA DA ENFERMAGEM",
+        "CargaHorariaTeorico": 0,
+        "CargaHorariaPratica": 0,
+        "ListaPrequisitos": []
+      },
+      {
+        "Id": 58514,
+        "Codigo": "0709.002.853-5",
+        "Descricao": "ENFERMAGEM NA SAÚDE SEXUAL E REPRODUTIVA II",
+        "Semestre": "0",
+        "Apelido": "ENFERMAGEM NA SAÚDE SEXUAL E REPRODUTIVA II",
+        "CargaHorariaTeorico": 0,
+        "CargaHorariaPratica": 0,
+        "ListaPrequisitos": []
+      },
+      {
+        "Id": 58533,
+        "Codigo": "0709.002.872-2",
+        "Descricao": "EPIDEMIOLOGIA",
+        "Semestre": "0",
+        "Apelido": "EPIDEMIOLOGIA",
+        "CargaHorariaTeorico": 0,
+        "CargaHorariaPratica": 0,
+        "ListaPrequisitos": []
+      }
+    ]
+  },
+  {
+    "Id": 49208,
+    "Codigo": "0709.001.732-6",
+    "Tipo": "OBR",
+    "Descricao": "ESTÁGIO OBRIGATÓRIO EM REDES DE SERVIÇOS DE SAÚDE II",
+    "Semestre": 10,
+    "Apelido": "ESTÁGIO OBRIGATÓRIO EM REDES DE SERVIÇOS DE SAÚDE II",
+    "CargaHorariaTeorico": 440,
+    "CargaHorariaPratica": null,
+    "ListaPrequisitos": [
+      {
+        "Id": 58519,
+        "Codigo": "0709.002.858-0",
+        "Descricao": "GERENCIAMENTO APLICADO À ENFERMAGEM HOSPITALAR",
+        "Semestre": "0",
+        "Apelido": "GERENCIAMENTO APLICADO À ENFERMAGEM HOSPITALAR",
+        "CargaHorariaTeorico": 0,
+        "CargaHorariaPratica": 0,
+        "ListaPrequisitos": []
+      },
+      {
+        "Id": 58520,
+        "Codigo": "0709.002.859-0",
+        "Descricao": "ENFERMAGEM PERIOPERATÓRIA",
+        "Semestre": "0",
+        "Apelido": "ENFERMAGEM PERIOPERATÓRIA",
+        "CargaHorariaTeorico": 0,
+        "CargaHorariaPratica": 0,
+        "ListaPrequisitos": []
+      },
+      {
+        "Id": 58532,
+        "Codigo": "0709.002.871-3",
+        "Descricao": "ENFERMAGEM NO CUIDADO DO PACIENTE CRÍTICO",
+        "Semestre": "0",
+        "Apelido": "ENFERMAGEM NO CUIDADO DO PACIENTE CRÍTICO",
+        "CargaHorariaTeorico": 0,
+        "CargaHorariaPratica": 0,
+        "ListaPrequisitos": []
+      }
+    ]
+  },
+  {
+    "Id": 58529,
+    "Codigo": "0709.002.868-9",
+    "Tipo": "OPT",
+    "Descricao": "ASPECTOS BIOQUÍMICOS, IMUNOPATOLÓGICOS E TERAPÊUTICOS DE DOENÇAS INFECCIOSAS E NÃO INFECCIOSAS",
+    "Semestre": 99,
+    "Apelido": "ASPECTOS BIOQUÍMICOS, IMUNOPATOLÓGICOS E TERAPÊUTICOS DE DOENÇAS INFECCIOSAS E NÃO INFECCIOSAS",
+    "CargaHorariaTeorico": 60,
+    "CargaHorariaPratica": null,
+    "ListaPrequisitos": []
+  },
+  {
+    "Id": 58484,
+    "Codigo": "0709.002.823-0",
+    "Tipo": "OPT",
+    "Descricao": "ASSISTÊNCIA DE ENFERMAGEM À SAÚDE NEONATAL",
+    "Semestre": 99,
+    "Apelido": "ASSISTÊNCIA DE ENFERMAGEM À SAÚDE NEONATAL",
+    "CargaHorariaTeorico": 30,
+    "CargaHorariaPratica": null,
+    "ListaPrequisitos": [
+      {
+        "Id": 58490,
+        "Codigo": "0709.002.829-5",
+        "Descricao": "ENFERMAGEM NA SAÚDE DA CRIANÇA E DO ADOLESCENTE II",
+        "Semestre": "0",
+        "Apelido": "ENFERMAGEM NA SAÚDE DA CRIANÇA E DO ADOLESCENTE II",
+        "CargaHorariaTeorico": 0,
+        "CargaHorariaPratica": 0,
+        "ListaPrequisitos": []
+      }
+    ]
+  },
+  {
+    "Id": 58500,
+    "Codigo": "0709.002.839-3",
+    "Tipo": "OPT",
+    "Descricao": "COMUNICAÇÃO E LIDERANÇA EM ENFERMAGEM",
+    "Semestre": 99,
+    "Apelido": "COMUNICAÇÃO E LIDERANÇA EM ENFERMAGEM",
+    "CargaHorariaTeorico": 30,
+    "CargaHorariaPratica": null,
+    "ListaPrequisitos": []
+  },
+  {
+    "Id": 58503,
+    "Codigo": "0709.002.842-8",
+    "Tipo": "OPT",
+    "Descricao": "CUIDADOS PALIATIVOS E A ENFERMAGEM",
+    "Semestre": 99,
+    "Apelido": "CUIDADOS PALIATIVOS E A ENFERMAGEM",
+    "CargaHorariaTeorico": 45,
+    "CargaHorariaPratica": null,
+    "ListaPrequisitos": []
+  },
+  {
+    "Id": 58504,
+    "Codigo": "0709.002.843-7",
+    "Tipo": "OPT",
+    "Descricao": "DIAGNÓSTICO DAS DOENÇAS TORÁCICAS POR IMAGEM",
+    "Semestre": 99,
+    "Apelido": "DIAGNÓSTICO DAS DOENÇAS TORÁCICAS POR IMAGEM",
+    "CargaHorariaTeorico": 45,
+    "CargaHorariaPratica": null,
+    "ListaPrequisitos": [
+      {
+        "Id": 58499,
+        "Codigo": "0709.002.838-4",
+        "Descricao": "ANATOMIA HUMANA II",
+        "Semestre": "0",
+        "Apelido": "ANATOMIA HUMANA II",
+        "CargaHorariaTeorico": 0,
+        "CargaHorariaPratica": 0,
+        "ListaPrequisitos": []
+      }
+    ]
+  },
+  {
+    "Id": 58477,
+    "Codigo": "0709.002.816-0",
+    "Tipo": "OPT",
+    "Descricao": "EDUCAÇÃO FINANCEIRA E EMPREENDEDORISMO",
+    "Semestre": 99,
+    "Apelido": "EDUCAÇÃO FINANCEIRA E EMPREENDEDORISMO",
+    "CargaHorariaTeorico": 30,
+    "CargaHorariaPratica": null,
+    "ListaPrequisitos": []
+  },
+  {
+    "Id": 52345,
+    "Codigo": "0100.000.004-9",
+    "Tipo": "OPT",
+    "Descricao": "EMPREENDEDORISMO E INOVAÇÃO",
+    "Semestre": 99,
+    "Apelido": "EMPREENDEDORISMO E INOVAÇÃO",
+    "CargaHorariaTeorico": 60,
+    "CargaHorariaPratica": null,
+    "ListaPrequisitos": []
+  },
+  {
+    "Id": 58512,
+    "Codigo": "0709.002.851-7",
+    "Tipo": "OPT",
+    "Descricao": "ENFERMAGEM EM SAÚDE DO TRABALHADOR",
+    "Semestre": 99,
+    "Apelido": "ENFERMAGEM EM SAÚDE DO TRABALHADOR",
+    "CargaHorariaTeorico": 30,
+    "CargaHorariaPratica": null,
+    "ListaPrequisitos": []
+  },
+  {
+    "Id": 58476,
+    "Codigo": "0709.002.815-0",
+    "Tipo": "OPT",
+    "Descricao": "ENFERMAGEM NA ATENÇÃO À SAÚDE DA POPULAÇÃO LGBT+",
+    "Semestre": 99,
+    "Apelido": "ENFERMAGEM NA ATENÇÃO À SAÚDE DA POPULAÇÃO LGBT+",
+    "CargaHorariaTeorico": 45,
+    "CargaHorariaPratica": null,
+    "ListaPrequisitos": []
+  },
+  {
+    "Id": 58511,
+    "Codigo": "0709.002.850-8",
+    "Tipo": "OPT",
+    "Descricao": "ENFERMAGEM NA ATENÇÃO À SAÚDE DO HOMEM",
+    "Semestre": 99,
+    "Apelido": "ENFERMAGEM NA ATENÇÃO À SAÚDE DO HOMEM",
+    "CargaHorariaTeorico": 45,
+    "CargaHorariaPratica": null,
+    "ListaPrequisitos": []
+  },
+  {
+    "Id": 58523,
+    "Codigo": "0709.002.862-4",
+    "Tipo": "OPT",
+    "Descricao": "ENFERMAGEM NA ATENÇÃO DOMICILIAR",
+    "Semestre": 99,
+    "Apelido": "ENFERMAGEM NA ATENÇÃO DOMICILIAR",
+    "CargaHorariaTeorico": 45,
+    "CargaHorariaPratica": null,
+    "ListaPrequisitos": []
+  },
+  {
+    "Id": 58496,
+    "Codigo": "0709.002.835-7",
+    "Tipo": "OPT",
+    "Descricao": "ENFERMAGEM ONCOLÓGICA",
+    "Semestre": 99,
+    "Apelido": "ENFERMAGEM ONCOLÓGICA",
+    "CargaHorariaTeorico": 45,
+    "CargaHorariaPratica": null,
+    "ListaPrequisitos": []
+  },
+  {
+    "Id": 55430,
+    "Codigo": "0709.002.344-0",
+    "Tipo": "OPT",
+    "Descricao": "ESTUDO DE LIBRAS",
+    "Semestre": 99,
+    "Apelido": "ESTUDO DE LIBRAS",
+    "CargaHorariaTeorico": 60,
+    "CargaHorariaPratica": null,
+    "ListaPrequisitos": []
+  },
+  {
+    "Id": 58531,
+    "Codigo": "0709.002.870-4",
+    "Tipo": "OPT",
+    "Descricao": "FISIOPATOLOGIA E TERAPÊUTICA DE DOENÇAS CRÔNICAS",
+    "Semestre": 99,
+    "Apelido": "FISIOPATOLOGIA E TERAPÊUTICA DE DOENÇAS CRÔNICAS",
+    "CargaHorariaTeorico": 45,
+    "CargaHorariaPratica": null,
+    "ListaPrequisitos": []
+  },
+  {
+    "Id": 58534,
+    "Codigo": "0709.002.873-1",
+    "Tipo": "OPT",
+    "Descricao": "FOTOTERAPIA E APLICAÇÕES CLÍNICAS",
+    "Semestre": 99,
+    "Apelido": "FOTOTERAPIA E APLICAÇÕES CLÍNICAS",
+    "CargaHorariaTeorico": 60,
+    "CargaHorariaPratica": null,
+    "ListaPrequisitos": []
+  },
+  {
+    "Id": 58493,
+    "Codigo": "0709.002.832-0",
+    "Tipo": "OPT",
+    "Descricao": "INTERAÇÕES MEDICAMENTOSAS",
+    "Semestre": 99,
+    "Apelido": "INTERAÇÕES MEDICAMENTOSAS",
+    "CargaHorariaTeorico": 60,
+    "CargaHorariaPratica": null,
+    "ListaPrequisitos": [
+      {
+        "Id": 58510,
+        "Codigo": "0709.002.849-1",
+        "Descricao": "FARMACOLOGIA APLICADA À ENFERMAGEM II",
+        "Semestre": "0",
+        "Apelido": "FARMACOLOGIA APLICADA À ENFERMAGEM II",
+        "CargaHorariaTeorico": 0,
+        "CargaHorariaPratica": 0,
+        "ListaPrequisitos": []
+      }
+    ]
+  },
+  {
+    "Id": 58468,
+    "Codigo": "0709.002.807-0",
+    "Tipo": "OPT",
+    "Descricao": "INTERPRETAÇÃO DE EXAMES LABORATORIAIS",
+    "Semestre": 99,
+    "Apelido": "INTERPRETAÇÃO DE EXAMES LABORATORIAIS",
+    "CargaHorariaTeorico": 45,
+    "CargaHorariaPratica": null,
+    "ListaPrequisitos": [
+      {
+        "Id": 58508,
+        "Codigo": "0709.002.847-3",
+        "Descricao": "FUNDAMENTOS DE ENFERMAGEM II",
+        "Semestre": "0",
+        "Apelido": "FUNDAMENTOS DE ENFERMAGEM II",
+        "CargaHorariaTeorico": 0,
+        "CargaHorariaPratica": 0,
+        "ListaPrequisitos": []
+      }
+    ]
+  },
+  {
+    "Id": 58498,
+    "Codigo": "0709.002.837-5",
+    "Tipo": "OPT",
+    "Descricao": "INTERPRETAÇÃO DO ELETROCARDIOGRAMA",
+    "Semestre": 99,
+    "Apelido": "INTERPRETAÇÃO DO ELETROCARDIOGRAMA",
+    "CargaHorariaTeorico": 45,
+    "CargaHorariaPratica": null,
+    "ListaPrequisitos": [
+      {
+        "Id": 58472,
+        "Codigo": "0709.002.811-4",
+        "Descricao": "FISIOLOGIA I",
+        "Semestre": "0",
+        "Apelido": "FISIOLOGIA I",
+        "CargaHorariaTeorico": 0,
+        "CargaHorariaPratica": 0,
+        "ListaPrequisitos": []
+      }
+    ]
+  },
+  {
+    "Id": 58475,
+    "Codigo": "0709.002.814-1",
+    "Tipo": "OPT",
+    "Descricao": "MANEJO E CUIDADO NAS PATOLOGIAS E DISFUNÇÕES DA PELE",
+    "Semestre": 99,
+    "Apelido": "MANEJO E CUIDADO NAS PATOLOGIAS E DISFUNÇÕES DA PELE",
+    "CargaHorariaTeorico": 60,
+    "CargaHorariaPratica": null,
+    "ListaPrequisitos": []
+  },
+  {
+    "Id": 58478,
+    "Codigo": "0709.002.817-9",
+    "Tipo": "OPT",
+    "Descricao": "NEUROCIÊNCIA E FISIOPATOLOGIA DAS DOENÇAS NEUROLÓGICAS",
+    "Semestre": 99,
+    "Apelido": "NEUROCIÊNCIA E FISIOPATOLOGIA DAS DOENÇAS NEUROLÓGICAS",
+    "CargaHorariaTeorico": 45,
+    "CargaHorariaPratica": null,
+    "ListaPrequisitos": []
+  },
+  {
+    "Id": 58474,
+    "Codigo": "0709.002.813-2",
+    "Tipo": "OPT",
+    "Descricao": "NEUROPSICOFARMACOLOGIA",
+    "Semestre": 99,
+    "Apelido": "NEUROPSICOFARMACOLOGIA",
+    "CargaHorariaTeorico": 45,
+    "CargaHorariaPratica": null,
+    "ListaPrequisitos": []
+  },
+  {
+    "Id": 58528,
+    "Codigo": "0709.002.867-0",
+    "Tipo": "OPT",
+    "Descricao": "NUTRIÇÃO APLICADA A SAÚDE",
+    "Semestre": 99,
+    "Apelido": "NUTRIÇÃO APLICADA A SAÚDE",
+    "CargaHorariaTeorico": 60,
+    "CargaHorariaPratica": null,
+    "ListaPrequisitos": []
+  },
+  {
+    "Id": 58522,
+    "Codigo": "0709.002.861-5",
+    "Tipo": "OPT",
+    "Descricao": "OZONIOTERAPIA E APLICAÇÕES CLÍNICAS",
+    "Semestre": 99,
+    "Apelido": "OZONIOTERAPIA E APLICAÇÕES CLÍNICAS",
+    "CargaHorariaTeorico": 45,
+    "CargaHorariaPratica": null,
+    "ListaPrequisitos": []
+  },
+  {
+    "Id": 58485,
+    "Codigo": "0709.002.824-0",
+    "Tipo": "OPT",
+    "Descricao": "PRÁTICAS EM ATENÇÃO PRIMÁRIA À SAÚDE",
+    "Semestre": 99,
+    "Apelido": "PRÁTICAS EM ATENÇÃO PRIMÁRIA À SAÚDE",
+    "CargaHorariaTeorico": 30,
+    "CargaHorariaPratica": null,
+    "ListaPrequisitos": [
+      {
+        "Id": 58470,
+        "Codigo": "0709.002.809-9",
+        "Descricao": "PROCESSO DE ENFERMAGEM",
+        "Semestre": "0",
+        "Apelido": "PROCESSO DE ENFERMAGEM",
+        "CargaHorariaTeorico": 0,
+        "CargaHorariaPratica": 0,
+        "ListaPrequisitos": []
+      },
+      {
+        "Id": 58508,
+        "Codigo": "0709.002.847-3",
+        "Descricao": "FUNDAMENTOS DE ENFERMAGEM II",
+        "Semestre": "0",
+        "Apelido": "FUNDAMENTOS DE ENFERMAGEM II",
+        "CargaHorariaTeorico": 0,
+        "CargaHorariaPratica": 0,
+        "ListaPrequisitos": []
+      },
+      {
+        "Id": 58510,
+        "Codigo": "0709.002.849-1",
+        "Descricao": "FARMACOLOGIA APLICADA À ENFERMAGEM II",
+        "Semestre": "0",
+        "Apelido": "FARMACOLOGIA APLICADA À ENFERMAGEM II",
+        "CargaHorariaTeorico": 0,
+        "CargaHorariaPratica": 0,
+        "ListaPrequisitos": []
+      }
+    ]
+  },
+  {
+    "Id": 58535,
+    "Codigo": "0709.002.874-0",
+    "Tipo": "OPT",
+    "Descricao": "PRÁTICAS HOSPITALARES",
+    "Semestre": 99,
+    "Apelido": "PRÁTICAS HOSPITALARES",
+    "CargaHorariaTeorico": 30,
+    "CargaHorariaPratica": null,
+    "ListaPrequisitos": [
+      {
+        "Id": 58470,
+        "Codigo": "0709.002.809-9",
+        "Descricao": "PROCESSO DE ENFERMAGEM",
+        "Semestre": "0",
+        "Apelido": "PROCESSO DE ENFERMAGEM",
+        "CargaHorariaTeorico": 0,
+        "CargaHorariaPratica": 0,
+        "ListaPrequisitos": []
+      },
+      {
+        "Id": 58508,
+        "Codigo": "0709.002.847-3",
+        "Descricao": "FUNDAMENTOS DE ENFERMAGEM II",
+        "Semestre": "0",
+        "Apelido": "FUNDAMENTOS DE ENFERMAGEM II",
+        "CargaHorariaTeorico": 0,
+        "CargaHorariaPratica": 0,
+        "ListaPrequisitos": []
+      },
+      {
+        "Id": 58510,
+        "Codigo": "0709.002.849-1",
+        "Descricao": "FARMACOLOGIA APLICADA À ENFERMAGEM II",
+        "Semestre": "0",
+        "Apelido": "FARMACOLOGIA APLICADA À ENFERMAGEM II",
+        "CargaHorariaTeorico": 0,
+        "CargaHorariaPratica": 0,
+        "ListaPrequisitos": []
+      }
+    ]
+  },
+  {
+    "Id": 58489,
+    "Codigo": "0709.002.828-6",
+    "Tipo": "OPT",
+    "Descricao": "REDAÇÃO E DIVULGAÇÃO CIENTÍFICA",
+    "Semestre": 99,
+    "Apelido": "REDAÇÃO E DIVULGAÇÃO CIENTÍFICA",
+    "CargaHorariaTeorico": 60,
+    "CargaHorariaPratica": null,
+    "ListaPrequisitos": []
+  },
+  {
+    "Id": 58462,
+    "Codigo": "0709.002.801-6",
+    "Tipo": "OPT",
+    "Descricao": "SAÚDE, DIREITOS HUMANOS E CIDADANIA",
+    "Semestre": 99,
+    "Apelido": "SAÚDE, DIREITOS HUMANOS E CIDADANIA",
+    "CargaHorariaTeorico": 45,
+    "CargaHorariaPratica": null,
+    "ListaPrequisitos": []
+  }
+]

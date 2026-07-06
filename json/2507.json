@@ -1,0 +1,717 @@
+[
+  {
+    "Id": 61116,
+    "Codigo": "2501.000.589-5",
+    "Tipo": "OBR",
+    "Descricao": "CIÊNCIA POLÍTICA",
+    "Semestre": 1,
+    "Apelido": "CIÊNCIA POLÍTICA",
+    "CargaHorariaTeorico": 30,
+    "CargaHorariaPratica": null,
+    "ListaPrequisitos": []
+  },
+  {
+    "Id": 61121,
+    "Codigo": "2501.000.594-8",
+    "Tipo": "OBR",
+    "Descricao": "HISTÓRIA DAS RELAÇÕES INTERNACIONAIS I",
+    "Semestre": 1,
+    "Apelido": "HISTÓRIA DAS RELAÇÕES INTERNACIONAIS I",
+    "CargaHorariaTeorico": 60,
+    "CargaHorariaPratica": null,
+    "ListaPrequisitos": []
+  },
+  {
+    "Id": 55535,
+    "Codigo": "2501.000.491-3",
+    "Tipo": "OBR",
+    "Descricao": "INTRODUÇÃO À ECONOMIA",
+    "Semestre": 1,
+    "Apelido": "INTRODUÇÃO À ECONOMIA",
+    "CargaHorariaTeorico": 60,
+    "CargaHorariaPratica": null,
+    "ListaPrequisitos": []
+  },
+  {
+    "Id": 61125,
+    "Codigo": "2501.000.598-4",
+    "Tipo": "OBR",
+    "Descricao": "INTRODUÇÃO ÀS CIÊNCIAS SOCIAIS",
+    "Semestre": 1,
+    "Apelido": "INTRODUÇÃO ÀS CIÊNCIAS SOCIAIS",
+    "CargaHorariaTeorico": 30,
+    "CargaHorariaPratica": null,
+    "ListaPrequisitos": []
+  },
+  {
+    "Id": 61115,
+    "Codigo": "2501.000.588-6",
+    "Tipo": "OBR",
+    "Descricao": "INTRODUÇÃO ÀS RELAÇÕES INTERNACIONAIS",
+    "Semestre": 1,
+    "Apelido": "INTRODUÇÃO ÀS RELAÇÕES INTERNACIONAIS",
+    "CargaHorariaTeorico": 60,
+    "CargaHorariaPratica": null,
+    "ListaPrequisitos": []
+  },
+  {
+    "Id": 55536,
+    "Codigo": "2201.000.263-7",
+    "Tipo": "OBR",
+    "Descricao": "MATEMÁTICA",
+    "Semestre": 1,
+    "Apelido": "MATEMÁTICA",
+    "CargaHorariaTeorico": 60,
+    "CargaHorariaPratica": null,
+    "ListaPrequisitos": []
+  },
+  {
+    "Id": 61118,
+    "Codigo": "2501.000.591-0",
+    "Tipo": "OBR",
+    "Descricao": "ECONOMIA POLÍTICA INTERNACIONAL I",
+    "Semestre": 2,
+    "Apelido": "ECONOMIA POLÍTICA INTERNACIONAL I",
+    "CargaHorariaTeorico": 60,
+    "CargaHorariaPratica": null,
+    "ListaPrequisitos": []
+  },
+  {
+    "Id": 61124,
+    "Codigo": "2501.000.597-5",
+    "Tipo": "OBR",
+    "Descricao": "ESTATÍSTICA",
+    "Semestre": 2,
+    "Apelido": "ESTATÍSTICA",
+    "CargaHorariaTeorico": 60,
+    "CargaHorariaPratica": null,
+    "ListaPrequisitos": []
+  },
+  {
+    "Id": 61117,
+    "Codigo": "2501.000.590-1",
+    "Tipo": "OBR",
+    "Descricao": "HISTÓRIA DAS RELAÇÕES INTERNACIONAIS II",
+    "Semestre": 2,
+    "Apelido": "HISTÓRIA DAS RELAÇÕES INTERNACIONAIS II",
+    "CargaHorariaTeorico": 60,
+    "CargaHorariaPratica": null,
+    "ListaPrequisitos": [
+      {
+        "Id": 61121,
+        "Codigo": "2501.000.594-8",
+        "Descricao": "HISTÓRIA DAS RELAÇÕES INTERNACIONAIS I",
+        "Semestre": "0",
+        "Apelido": "HISTÓRIA DAS RELAÇÕES INTERNACIONAIS I",
+        "CargaHorariaTeorico": 0,
+        "CargaHorariaPratica": 0,
+        "ListaPrequisitos": []
+      }
+    ]
+  },
+  {
+    "Id": 61120,
+    "Codigo": "2501.000.593-9",
+    "Tipo": "OBR",
+    "Descricao": "INSTITUIÇÕES DE DIREITO",
+    "Semestre": 2,
+    "Apelido": "INSTITUIÇÕES DE DIREITO",
+    "CargaHorariaTeorico": 60,
+    "CargaHorariaPratica": null,
+    "ListaPrequisitos": []
+  },
+  {
+    "Id": 61122,
+    "Codigo": "2501.000.595-7",
+    "Tipo": "OBR",
+    "Descricao": "MICROECONOMIA",
+    "Semestre": 2,
+    "Apelido": "MICROECONOMIA",
+    "CargaHorariaTeorico": 60,
+    "CargaHorariaPratica": null,
+    "ListaPrequisitos": []
+  },
+  {
+    "Id": 61127,
+    "Codigo": "2501.000.600-5",
+    "Tipo": "OBR",
+    "Descricao": "DIREITO INTERNACIONAL",
+    "Semestre": 3,
+    "Apelido": "DIREITO INTERNACIONAL",
+    "CargaHorariaTeorico": 60,
+    "CargaHorariaPratica": null,
+    "ListaPrequisitos": []
+  },
+  {
+    "Id": 61119,
+    "Codigo": "2501.000.592-0",
+    "Tipo": "OBR",
+    "Descricao": "ECONOMIA POLÍTICA INTERNACIONAL II",
+    "Semestre": 3,
+    "Apelido": "ECONOMIA POLÍTICA INTERNACIONAL II",
+    "CargaHorariaTeorico": 60,
+    "CargaHorariaPratica": null,
+    "ListaPrequisitos": [
+      {
+        "Id": 61118,
+        "Codigo": "2501.000.591-0",
+        "Descricao": "ECONOMIA POLÍTICA INTERNACIONAL I",
+        "Semestre": "0",
+        "Apelido": "ECONOMIA POLÍTICA INTERNACIONAL I",
+        "CargaHorariaTeorico": 0,
+        "CargaHorariaPratica": 0,
+        "ListaPrequisitos": []
+      }
+    ]
+  },
+  {
+    "Id": 61123,
+    "Codigo": "2501.000.596-6",
+    "Tipo": "OBR",
+    "Descricao": "ORGANISMOS INTERNACIONAIS",
+    "Semestre": 3,
+    "Apelido": "ORGANISMOS INTERNACIONAIS",
+    "CargaHorariaTeorico": 60,
+    "CargaHorariaPratica": null,
+    "ListaPrequisitos": []
+  },
+  {
+    "Id": 61131,
+    "Codigo": "2501.000.604-1",
+    "Tipo": "OBR",
+    "Descricao": "PRÁTICA EXTENSIONISTA I",
+    "Semestre": 3,
+    "Apelido": "PRÁTICA EXTENSIONISTA I",
+    "CargaHorariaTeorico": 60,
+    "CargaHorariaPratica": null,
+    "ListaPrequisitos": []
+  },
+  {
+    "Id": 61126,
+    "Codigo": "2501.000.599-3",
+    "Tipo": "OBR",
+    "Descricao": "TEORIA DAS RELAÇÕES INTERNACIONAIS I",
+    "Semestre": 3,
+    "Apelido": "TEORIA DAS RELAÇÕES INTERNACIONAIS I",
+    "CargaHorariaTeorico": 60,
+    "CargaHorariaPratica": null,
+    "ListaPrequisitos": []
+  },
+  {
+    "Id": 55509,
+    "Codigo": "2501.000.465-5",
+    "Tipo": "OBR",
+    "Descricao": "TEORIA MACROECONÔMICA I",
+    "Semestre": 3,
+    "Apelido": "TEORIA MACROECONÔMICA I",
+    "CargaHorariaTeorico": 60,
+    "CargaHorariaPratica": null,
+    "ListaPrequisitos": []
+  },
+  {
+    "Id": 55514,
+    "Codigo": "2501.000.470-8",
+    "Tipo": "OBR",
+    "Descricao": "ECONOMIA INTERNACIONAL I",
+    "Semestre": 4,
+    "Apelido": "ECONOMIA INTERNACIONAL I",
+    "CargaHorariaTeorico": 60,
+    "CargaHorariaPratica": null,
+    "ListaPrequisitos": [
+      {
+        "Id": 61122,
+        "Codigo": "2501.000.595-7",
+        "Descricao": "MICROECONOMIA",
+        "Semestre": "0",
+        "Apelido": "MICROECONOMIA",
+        "CargaHorariaTeorico": 0,
+        "CargaHorariaPratica": 0,
+        "ListaPrequisitos": []
+      }
+    ]
+  },
+  {
+    "Id": 61133,
+    "Codigo": "2501.000.606-0",
+    "Tipo": "OBR",
+    "Descricao": "NEGOCIAÇÃO INTERNACIONAL",
+    "Semestre": 4,
+    "Apelido": "NEGOCIAÇÃO INTERNACIONAL",
+    "CargaHorariaTeorico": 60,
+    "CargaHorariaPratica": null,
+    "ListaPrequisitos": []
+  },
+  {
+    "Id": 61137,
+    "Codigo": "2501.000.610-3",
+    "Tipo": "OBR",
+    "Descricao": "PRÁTICA EXTENSIONISTA II",
+    "Semestre": 4,
+    "Apelido": "PRÁTICA EXTENSIONISTA II",
+    "CargaHorariaTeorico": 60,
+    "CargaHorariaPratica": null,
+    "ListaPrequisitos": []
+  },
+  {
+    "Id": 61138,
+    "Codigo": "2501.000.611-2",
+    "Tipo": "OBR",
+    "Descricao": "TEORIA DAS RELAÇÕES INTERNACIONAIS II",
+    "Semestre": 4,
+    "Apelido": "TEORIA DAS RELAÇÕES INTERNACIONAIS II",
+    "CargaHorariaTeorico": 60,
+    "CargaHorariaPratica": null,
+    "ListaPrequisitos": [
+      {
+        "Id": 61126,
+        "Codigo": "2501.000.599-3",
+        "Descricao": "TEORIA DAS RELAÇÕES INTERNACIONAIS I",
+        "Semestre": "0",
+        "Apelido": "TEORIA DAS RELAÇÕES INTERNACIONAIS I",
+        "CargaHorariaTeorico": 0,
+        "CargaHorariaPratica": 0,
+        "ListaPrequisitos": []
+      }
+    ]
+  },
+  {
+    "Id": 55534,
+    "Codigo": "2501.000.490-4",
+    "Tipo": "OBR",
+    "Descricao": "TEORIA MACROECONÔMICA II",
+    "Semestre": 4,
+    "Apelido": "TEORIA MACROECONÔMICA II",
+    "CargaHorariaTeorico": 60,
+    "CargaHorariaPratica": null,
+    "ListaPrequisitos": []
+  },
+  {
+    "Id": 61139,
+    "Codigo": "2501.000.612-1",
+    "Tipo": "OBR",
+    "Descricao": "ANÁLISE DE POLÍTICA EXTERNA",
+    "Semestre": 5,
+    "Apelido": "ANÁLISE DE POLÍTICA EXTERNA",
+    "CargaHorariaTeorico": 60,
+    "CargaHorariaPratica": null,
+    "ListaPrequisitos": []
+  },
+  {
+    "Id": 55507,
+    "Codigo": "2501.000.463-7",
+    "Tipo": "OBR",
+    "Descricao": "ECONOMIA INTERNACIONAL II",
+    "Semestre": 5,
+    "Apelido": "ECONOMIA INTERNACIONAL II",
+    "CargaHorariaTeorico": 60,
+    "CargaHorariaPratica": null,
+    "ListaPrequisitos": [
+      {
+        "Id": 55534,
+        "Codigo": "2501.000.490-4",
+        "Descricao": "TEORIA MACROECONÔMICA II",
+        "Semestre": "0",
+        "Apelido": "TEORIA MACROECONÔMICA II",
+        "CargaHorariaTeorico": 0,
+        "CargaHorariaPratica": 0,
+        "ListaPrequisitos": []
+      }
+    ]
+  },
+  {
+    "Id": 61135,
+    "Codigo": "2501.000.608-8",
+    "Tipo": "OBR",
+    "Descricao": "GEOPOLÍTICA INTERNACIONAL",
+    "Semestre": 5,
+    "Apelido": "GEOPOLÍTICA INTERNACIONAL",
+    "CargaHorariaTeorico": 60,
+    "CargaHorariaPratica": null,
+    "ListaPrequisitos": []
+  },
+  {
+    "Id": 61140,
+    "Codigo": "2501.000.613-0",
+    "Tipo": "OBR",
+    "Descricao": "PRÁTICA EXTENSIONISTA III",
+    "Semestre": 5,
+    "Apelido": "PRÁTICA EXTENSIONISTA III",
+    "CargaHorariaTeorico": 60,
+    "CargaHorariaPratica": null,
+    "ListaPrequisitos": []
+  },
+  {
+    "Id": 61154,
+    "Codigo": "2501.000.627-5",
+    "Tipo": "OBR",
+    "Descricao": "SISTEMÁTICA DO COMÉRCIO EXTERIOR",
+    "Semestre": 5,
+    "Apelido": "SISTEMÁTICA DO COMÉRCIO EXTERIOR",
+    "CargaHorariaTeorico": 60,
+    "CargaHorariaPratica": null,
+    "ListaPrequisitos": [
+      {
+        "Id": 55514,
+        "Codigo": "2501.000.470-8",
+        "Descricao": "ECONOMIA INTERNACIONAL I",
+        "Semestre": "0",
+        "Apelido": "ECONOMIA INTERNACIONAL I",
+        "CargaHorariaTeorico": 0,
+        "CargaHorariaPratica": 0,
+        "ListaPrequisitos": []
+      }
+    ]
+  },
+  {
+    "Id": 61128,
+    "Codigo": "2501.000.601-4",
+    "Tipo": "OBR",
+    "Descricao": "LOGÍSTICA INTERNACIONAL",
+    "Semestre": 6,
+    "Apelido": "LOGÍSTICA INTERNACIONAL",
+    "CargaHorariaTeorico": 60,
+    "CargaHorariaPratica": null,
+    "ListaPrequisitos": []
+  },
+  {
+    "Id": 61134,
+    "Codigo": "2501.000.607-9",
+    "Tipo": "OBR",
+    "Descricao": "MARKETING INTERNACIONAL",
+    "Semestre": 6,
+    "Apelido": "MARKETING INTERNACIONAL",
+    "CargaHorariaTeorico": 60,
+    "CargaHorariaPratica": null,
+    "ListaPrequisitos": []
+  },
+  {
+    "Id": 61152,
+    "Codigo": "2501.000.625-7",
+    "Tipo": "OBR",
+    "Descricao": "MÉTODO E TÉCNICA DE PESQUISA EM RELAÇÕES INTERNACIONAIS",
+    "Semestre": 6,
+    "Apelido": "MÉTODO E TÉCNICA DE PESQUISA EM RELAÇÕES INTERNACIONAIS",
+    "CargaHorariaTeorico": 60,
+    "CargaHorariaPratica": null,
+    "ListaPrequisitos": []
+  },
+  {
+    "Id": 61157,
+    "Codigo": "2501.000.630-0",
+    "Tipo": "OBR",
+    "Descricao": "PRÁTICA EXTENSIONISTA IV",
+    "Semestre": 6,
+    "Apelido": "PRÁTICA EXTENSIONISTA IV",
+    "CargaHorariaTeorico": 90,
+    "CargaHorariaPratica": null,
+    "ListaPrequisitos": []
+  },
+  {
+    "Id": 61155,
+    "Codigo": "2501.000.628-4",
+    "Tipo": "OBR",
+    "Descricao": "SEGURANÇA, ESTUDOS ESTRATÉGICOS E DEFESA",
+    "Semestre": 6,
+    "Apelido": "SEGURANÇA, ESTUDOS ESTRATÉGICOS E DEFESA",
+    "CargaHorariaTeorico": 60,
+    "CargaHorariaPratica": null,
+    "ListaPrequisitos": []
+  },
+  {
+    "Id": 61130,
+    "Codigo": "2501.000.603-2",
+    "Tipo": "OBR",
+    "Descricao": "TEORIA DA INTEGRAÇÃO ECONÔMICA",
+    "Semestre": 6,
+    "Apelido": "TEORIA DA INTEGRAÇÃO ECONÔMICA",
+    "CargaHorariaTeorico": 60,
+    "CargaHorariaPratica": null,
+    "ListaPrequisitos": []
+  },
+  {
+    "Id": 55528,
+    "Codigo": "2501.000.484-2",
+    "Tipo": "OBR",
+    "Descricao": "DESENVOLVIMENTO SOCIOECONÔMICO",
+    "Semestre": 7,
+    "Apelido": "DESENVOLVIMENTO SOCIOECONÔMICO",
+    "CargaHorariaTeorico": 60,
+    "CargaHorariaPratica": null,
+    "ListaPrequisitos": []
+  },
+  {
+    "Id": 61136,
+    "Codigo": "2501.000.609-7",
+    "Tipo": "OBR",
+    "Descricao": "ECONOMIA BRASILERIA CONTEMPORÂNEA",
+    "Semestre": 7,
+    "Apelido": "ECONOMIA BRASILERIA CONTEMPORÂNEA",
+    "CargaHorariaTeorico": 60,
+    "CargaHorariaPratica": null,
+    "ListaPrequisitos": []
+  },
+  {
+    "Id": 61132,
+    "Codigo": "2501.000.605-0",
+    "Tipo": "OBR",
+    "Descricao": "ESTUDOS SIMULADOS",
+    "Semestre": 7,
+    "Apelido": "ESTUDOS SIMULADOS",
+    "CargaHorariaTeorico": 60,
+    "CargaHorariaPratica": null,
+    "ListaPrequisitos": [
+      {
+        "Id": 61139,
+        "Codigo": "2501.000.612-1",
+        "Descricao": "ANÁLISE DE POLÍTICA EXTERNA",
+        "Semestre": "0",
+        "Apelido": "ANÁLISE DE POLÍTICA EXTERNA",
+        "CargaHorariaTeorico": 0,
+        "CargaHorariaPratica": 0,
+        "ListaPrequisitos": []
+      }
+    ]
+  },
+  {
+    "Id": 61129,
+    "Codigo": "2501.000.602-3",
+    "Tipo": "OBR",
+    "Descricao": "LEGISLAÇÃO ADUANEIRA",
+    "Semestre": 7,
+    "Apelido": "LEGISLAÇÃO ADUANEIRA",
+    "CargaHorariaTeorico": 60,
+    "CargaHorariaPratica": null,
+    "ListaPrequisitos": []
+  },
+  {
+    "Id": 61142,
+    "Codigo": "2501.000.615-9",
+    "Tipo": "OPT",
+    "Descricao": "COOPERAÇÃO INTERNACIONAL",
+    "Semestre": 99,
+    "Apelido": "COOPERAÇÃO INTERNACIONAL",
+    "CargaHorariaTeorico": 60,
+    "CargaHorariaPratica": null,
+    "ListaPrequisitos": []
+  },
+  {
+    "Id": 61114,
+    "Codigo": "2501.000.587-7",
+    "Tipo": "OPT",
+    "Descricao": "CORREDORES LOGÍSTICOS",
+    "Semestre": 99,
+    "Apelido": "CORREDORES LOGÍSTICOS",
+    "CargaHorariaTeorico": 60,
+    "CargaHorariaPratica": null,
+    "ListaPrequisitos": []
+  },
+  {
+    "Id": 61146,
+    "Codigo": "2501.000.619-5",
+    "Tipo": "OPT",
+    "Descricao": "DESAFIOS CLIMÁTICOS, NEGÓCIOS E TURISMO",
+    "Semestre": 99,
+    "Apelido": "DESAFIOS CLIMÁTICOS, NEGÓCIOS E TURISMO",
+    "CargaHorariaTeorico": 60,
+    "CargaHorariaPratica": null,
+    "ListaPrequisitos": []
+  },
+  {
+    "Id": 55548,
+    "Codigo": "2501.000.503-5",
+    "Tipo": "OPT",
+    "Descricao": "ECONOMETRIA I",
+    "Semestre": 99,
+    "Apelido": "ECONOMETRIA I",
+    "CargaHorariaTeorico": 60,
+    "CargaHorariaPratica": null,
+    "ListaPrequisitos": []
+  },
+  {
+    "Id": 55526,
+    "Codigo": "2501.000.482-4",
+    "Tipo": "OPT",
+    "Descricao": "ECONOMETRIA II",
+    "Semestre": 99,
+    "Apelido": "ECONOMETRIA II",
+    "CargaHorariaTeorico": 60,
+    "CargaHorariaPratica": null,
+    "ListaPrequisitos": []
+  },
+  {
+    "Id": 55551,
+    "Codigo": "2501.000.506-2",
+    "Tipo": "OPT",
+    "Descricao": "ECONOMIA DOS RECURSOS NATURAIS",
+    "Semestre": 99,
+    "Apelido": "ECONOMIA DOS RECURSOS NATURAIS",
+    "CargaHorariaTeorico": 60,
+    "CargaHorariaPratica": null,
+    "ListaPrequisitos": []
+  },
+  {
+    "Id": 52308,
+    "Codigo": "0100.000.003-0",
+    "Tipo": "NFC",
+    "Descricao": "EMPREENDEDORISMO E INOVAÇÃO",
+    "Semestre": 99,
+    "Apelido": "EMPREENDEDORISMO E INOVAÇÃO",
+    "CargaHorariaTeorico": 30,
+    "CargaHorariaPratica": null,
+    "ListaPrequisitos": []
+  },
+  {
+    "Id": 58005,
+    "Codigo": "3201.000.554-9",
+    "Tipo": "OPT",
+    "Descricao": "ESTUDO DE LIBRAS",
+    "Semestre": 99,
+    "Apelido": "ESTUDO DE LIBRAS",
+    "CargaHorariaTeorico": 45,
+    "CargaHorariaPratica": null,
+    "ListaPrequisitos": []
+  },
+  {
+    "Id": 52306,
+    "Codigo": "0100.000.001-1",
+    "Tipo": "NFC",
+    "Descricao": "INTELIGÊNCIA ARTIFICIAL: FUNDAMENTOS E PRÁTICAS",
+    "Semestre": 99,
+    "Apelido": "INTELIGÊNCIA ARTIFICIAL: FUNDAMENTOS E PRÁTICAS",
+    "CargaHorariaTeorico": 30,
+    "CargaHorariaPratica": null,
+    "ListaPrequisitos": []
+  },
+  {
+    "Id": 61156,
+    "Codigo": "2501.000.629-3",
+    "Tipo": "OPT",
+    "Descricao": "PRÁTICA EM LÍNGUA ESTRANGERIA -ESPANHOL",
+    "Semestre": 99,
+    "Apelido": "PRÁTICA EM LÍNGUA ESTRANGERIA -ESPANHOL",
+    "CargaHorariaTeorico": 60,
+    "CargaHorariaPratica": null,
+    "ListaPrequisitos": []
+  },
+  {
+    "Id": 61153,
+    "Codigo": "2501.000.626-6",
+    "Tipo": "OPT",
+    "Descricao": "PRÁTICA EM LÍNGUA ESTRANGERIA -INGLÊS",
+    "Semestre": 99,
+    "Apelido": "PRÁTICA EM LÍNGUA ESTRANGERIA -INGLÊS",
+    "CargaHorariaTeorico": 60,
+    "CargaHorariaPratica": null,
+    "ListaPrequisitos": []
+  },
+  {
+    "Id": 61143,
+    "Codigo": "2501.000.616-8",
+    "Tipo": "OPT",
+    "Descricao": "TERRITÓRIOS TRANSFRONTEIRIÇOS",
+    "Semestre": 99,
+    "Apelido": "TERRITÓRIOS TRANSFRONTEIRIÇOS",
+    "CargaHorariaTeorico": 60,
+    "CargaHorariaPratica": null,
+    "ListaPrequisitos": []
+  },
+  {
+    "Id": 61150,
+    "Codigo": "2501.000.623-9",
+    "Tipo": "OPT",
+    "Descricao": "TÓPICO EM ESTRATÉGIA E DEFESA",
+    "Semestre": 99,
+    "Apelido": "TÓPICO EM ESTRATÉGIA E DEFESA",
+    "CargaHorariaTeorico": 60,
+    "CargaHorariaPratica": null,
+    "ListaPrequisitos": []
+  },
+  {
+    "Id": 61151,
+    "Codigo": "2501.000.624-8",
+    "Tipo": "OPT",
+    "Descricao": "TÓPICO EM GOVERNANÇA GLOBAL",
+    "Semestre": 99,
+    "Apelido": "TÓPICO EM GOVERNANÇA GLOBAL",
+    "CargaHorariaTeorico": 60,
+    "CargaHorariaPratica": null,
+    "ListaPrequisitos": []
+  },
+  {
+    "Id": 61144,
+    "Codigo": "2501.000.617-7",
+    "Tipo": "OPT",
+    "Descricao": "TÓPICO EM NEGOCIAÇÃO INTERNACIONAL",
+    "Semestre": 99,
+    "Apelido": "TÓPICO EM NEGOCIAÇÃO INTERNACIONAL",
+    "CargaHorariaTeorico": 60,
+    "CargaHorariaPratica": null,
+    "ListaPrequisitos": []
+  },
+  {
+    "Id": 61141,
+    "Codigo": "2501.000.614-0",
+    "Tipo": "OPT",
+    "Descricao": "TÓPICO EM RELAÇÕES INTERNACIONAIS I",
+    "Semestre": 99,
+    "Apelido": "TÓPICO EM RELAÇÕES INTERNACIONAIS I",
+    "CargaHorariaTeorico": 60,
+    "CargaHorariaPratica": null,
+    "ListaPrequisitos": []
+  },
+  {
+    "Id": 61145,
+    "Codigo": "2501.000.618-6",
+    "Tipo": "OPT",
+    "Descricao": "TÓPICO EM RELAÇÕES INTERNACIONAIS II",
+    "Semestre": 99,
+    "Apelido": "TÓPICO EM RELAÇÕES INTERNACIONAIS II",
+    "CargaHorariaTeorico": 60,
+    "CargaHorariaPratica": null,
+    "ListaPrequisitos": []
+  },
+  {
+    "Id": 61147,
+    "Codigo": "2501.000.620-1",
+    "Tipo": "OPT",
+    "Descricao": "TÓPICO EM RELAÇÕES INTERNACIONAIS III",
+    "Semestre": 99,
+    "Apelido": "TÓPICO EM RELAÇÕES INTERNACIONAIS III",
+    "CargaHorariaTeorico": 60,
+    "CargaHorariaPratica": null,
+    "ListaPrequisitos": []
+  },
+  {
+    "Id": 61148,
+    "Codigo": "2501.000.621-0",
+    "Tipo": "OPT",
+    "Descricao": "TÓPICO EM RELAÇÕES INTERNACIONAIS IV",
+    "Semestre": 99,
+    "Apelido": "TÓPICO EM RELAÇÕES INTERNACIONAIS IV",
+    "CargaHorariaTeorico": 60,
+    "CargaHorariaPratica": null,
+    "ListaPrequisitos": []
+  },
+  {
+    "Id": 61149,
+    "Codigo": "2501.000.622-0",
+    "Tipo": "OPT",
+    "Descricao": "TÓPICOS EM POLÍTICA EXTERNA",
+    "Semestre": 99,
+    "Apelido": "TÓPICOS EM POLÍTICA EXTERNA",
+    "CargaHorariaTeorico": 60,
+    "CargaHorariaPratica": null,
+    "ListaPrequisitos": []
+  },
+  {
+    "Id": 52307,
+    "Codigo": "0100.000.002-0",
+    "Tipo": "NFC",
+    "Descricao": "VIDA, CIDADANIA E SUSTENTABILIDADE",
+    "Semestre": 99,
+    "Apelido": "VIDA, CIDADANIA E SUSTENTABILIDADE",
+    "CargaHorariaTeorico": 30,
+    "CargaHorariaPratica": null,
+    "ListaPrequisitos": []
+  }
+]

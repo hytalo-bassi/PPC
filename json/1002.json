@@ -1,0 +1,5969 @@
+[
+  {
+    "Id": 60213,
+    "Codigo": "1005.000.208-5",
+    "Tipo": "OBR",
+    "Descricao": "ATENÇÃO PRIMÁRIA I",
+    "Semestre": 1,
+    "Apelido": "ATENÇÃO PRIMÁRIA I",
+    "CargaHorariaTeorico": 60,
+    "CargaHorariaPratica": null,
+    "ListaPrequisitos": []
+  },
+  {
+    "Id": 60217,
+    "Codigo": "2701.000.691-1",
+    "Tipo": "OBR",
+    "Descricao": "BASES BIOLÓGICAS DA PRÁTICA MÉDICA I",
+    "Semestre": 1,
+    "Apelido": "BASES BIOLÓGICAS DA PRÁTICA MÉDICA I",
+    "CargaHorariaTeorico": 240,
+    "CargaHorariaPratica": null,
+    "ListaPrequisitos": []
+  },
+  {
+    "Id": 60190,
+    "Codigo": "1005.000.185-6",
+    "Tipo": "OBR",
+    "Descricao": "BASES COMPLEMENTARES DA MEDICINA I",
+    "Semestre": 1,
+    "Apelido": "BASES COMPLEMENTARES DA MEDICINA I",
+    "CargaHorariaTeorico": 45,
+    "CargaHorariaPratica": null,
+    "ListaPrequisitos": []
+  },
+  {
+    "Id": 60179,
+    "Codigo": "1005.000.174-9",
+    "Tipo": "OBR",
+    "Descricao": "HABILIDADES CLÍNICAS DA PRÁTICA MÉDICA I",
+    "Semestre": 1,
+    "Apelido": "HABILIDADES CLÍNICAS DA PRÁTICA MÉDICA I",
+    "CargaHorariaTeorico": 60,
+    "CargaHorariaPratica": null,
+    "ListaPrequisitos": []
+  },
+  {
+    "Id": 60184,
+    "Codigo": "1005.000.179-4",
+    "Tipo": "OBR",
+    "Descricao": "URGÊNCIA E EMERGÊNCIA I",
+    "Semestre": 1,
+    "Apelido": "URGÊNCIA E EMERGÊNCIA I",
+    "CargaHorariaTeorico": 30,
+    "CargaHorariaPratica": null,
+    "ListaPrequisitos": []
+  },
+  {
+    "Id": 60212,
+    "Codigo": "1005.000.207-6",
+    "Tipo": "OBR",
+    "Descricao": "ATENÇÃO PRIMÁRIA II",
+    "Semestre": 2,
+    "Apelido": "ATENÇÃO PRIMÁRIA II",
+    "CargaHorariaTeorico": 60,
+    "CargaHorariaPratica": null,
+    "ListaPrequisitos": []
+  },
+  {
+    "Id": 60218,
+    "Codigo": "2701.000.692-0",
+    "Tipo": "OBR",
+    "Descricao": "BASES BIOLÓGICAS DA PRÁTICA MÉDICA II",
+    "Semestre": 2,
+    "Apelido": "BASES BIOLÓGICAS DA PRÁTICA MÉDICA II",
+    "CargaHorariaTeorico": 240,
+    "CargaHorariaPratica": null,
+    "ListaPrequisitos": []
+  },
+  {
+    "Id": 60163,
+    "Codigo": "1005.000.158-9",
+    "Tipo": "OBR",
+    "Descricao": "BASES COMPLEMENTARES DA MEDICINA II",
+    "Semestre": 2,
+    "Apelido": "BASES COMPLEMENTARES DA MEDICINA II",
+    "CargaHorariaTeorico": 45,
+    "CargaHorariaPratica": null,
+    "ListaPrequisitos": []
+  },
+  {
+    "Id": 60152,
+    "Codigo": "1005.000.147-1",
+    "Tipo": "OBR",
+    "Descricao": "CIRURGIA I",
+    "Semestre": 2,
+    "Apelido": "CIRURGIA I",
+    "CargaHorariaTeorico": 45,
+    "CargaHorariaPratica": null,
+    "ListaPrequisitos": []
+  },
+  {
+    "Id": 60180,
+    "Codigo": "1005.000.175-8",
+    "Tipo": "OBR",
+    "Descricao": "HABILIDADES CLÍNICAS DA PRÁTICA MÉDICA II",
+    "Semestre": 2,
+    "Apelido": "HABILIDADES CLÍNICAS DA PRÁTICA MÉDICA II",
+    "CargaHorariaTeorico": 60,
+    "CargaHorariaPratica": null,
+    "ListaPrequisitos": []
+  },
+  {
+    "Id": 60208,
+    "Codigo": "1005.000.203-0",
+    "Tipo": "OBR",
+    "Descricao": "ATENÇÃO PRIMÁRIA III",
+    "Semestre": 3,
+    "Apelido": "ATENÇÃO PRIMÁRIA III",
+    "CargaHorariaTeorico": 60,
+    "CargaHorariaPratica": null,
+    "ListaPrequisitos": []
+  },
+  {
+    "Id": 60156,
+    "Codigo": "1005.000.151-5",
+    "Tipo": "OBR",
+    "Descricao": "BASES BIOLÓGICAS DA PRÁTICA MÉDICA III",
+    "Semestre": 3,
+    "Apelido": "BASES BIOLÓGICAS DA PRÁTICA MÉDICA III",
+    "CargaHorariaTeorico": 240,
+    "CargaHorariaPratica": null,
+    "ListaPrequisitos": []
+  },
+  {
+    "Id": 60210,
+    "Codigo": "1005.000.205-8",
+    "Tipo": "OBR",
+    "Descricao": "BASES COMPLEMENTARES DA MEDICINA III",
+    "Semestre": 3,
+    "Apelido": "BASES COMPLEMENTARES DA MEDICINA III",
+    "CargaHorariaTeorico": 45,
+    "CargaHorariaPratica": null,
+    "ListaPrequisitos": []
+  },
+  {
+    "Id": 60155,
+    "Codigo": "1005.000.150-6",
+    "Tipo": "OBR",
+    "Descricao": "HABILIDADES CLÍNICAS DA PRÁTICA MÉDICA III",
+    "Semestre": 3,
+    "Apelido": "HABILIDADES CLÍNICAS DA PRÁTICA MÉDICA III",
+    "CargaHorariaTeorico": 60,
+    "CargaHorariaPratica": null,
+    "ListaPrequisitos": [
+      {
+        "Id": 60179,
+        "Codigo": "1005.000.174-9",
+        "Descricao": "HABILIDADES CLÍNICAS DA PRÁTICA MÉDICA I",
+        "Semestre": "0",
+        "Apelido": "HABILIDADES CLÍNICAS DA PRÁTICA MÉDICA I",
+        "CargaHorariaTeorico": 0,
+        "CargaHorariaPratica": 0,
+        "ListaPrequisitos": []
+      },
+      {
+        "Id": 60180,
+        "Codigo": "1005.000.175-8",
+        "Descricao": "HABILIDADES CLÍNICAS DA PRÁTICA MÉDICA II",
+        "Semestre": "0",
+        "Apelido": "HABILIDADES CLÍNICAS DA PRÁTICA MÉDICA II",
+        "CargaHorariaTeorico": 0,
+        "CargaHorariaPratica": 0,
+        "ListaPrequisitos": []
+      }
+    ]
+  },
+  {
+    "Id": 60178,
+    "Codigo": "1005.000.173-0",
+    "Tipo": "OBR",
+    "Descricao": "URGÊNCIA E EMERGÊNCIA II",
+    "Semestre": 3,
+    "Apelido": "URGÊNCIA E EMERGÊNCIA II",
+    "CargaHorariaTeorico": 45,
+    "CargaHorariaPratica": null,
+    "ListaPrequisitos": [
+      {
+        "Id": 60184,
+        "Codigo": "1005.000.179-4",
+        "Descricao": "URGÊNCIA E EMERGÊNCIA I",
+        "Semestre": "0",
+        "Apelido": "URGÊNCIA E EMERGÊNCIA I",
+        "CargaHorariaTeorico": 0,
+        "CargaHorariaPratica": 0,
+        "ListaPrequisitos": []
+      }
+    ]
+  },
+  {
+    "Id": 60209,
+    "Codigo": "1005.000.204-9",
+    "Tipo": "OBR",
+    "Descricao": "ATENÇÃO PRIMÁRIA IV",
+    "Semestre": 4,
+    "Apelido": "ATENÇÃO PRIMÁRIA IV",
+    "CargaHorariaTeorico": 60,
+    "CargaHorariaPratica": null,
+    "ListaPrequisitos": []
+  },
+  {
+    "Id": 60214,
+    "Codigo": "1005.000.209-4",
+    "Tipo": "OBR",
+    "Descricao": "BASES BIOLÓGICAS DA PRÁTICA MÉDICA IV",
+    "Semestre": 4,
+    "Apelido": "BASES BIOLÓGICAS DA PRÁTICA MÉDICA IV",
+    "CargaHorariaTeorico": 255,
+    "CargaHorariaPratica": null,
+    "ListaPrequisitos": []
+  },
+  {
+    "Id": 60197,
+    "Codigo": "1005.000.192-7",
+    "Tipo": "OBR",
+    "Descricao": "BASES COMPLEMENTARES DA MEDICINA IV",
+    "Semestre": 4,
+    "Apelido": "BASES COMPLEMENTARES DA MEDICINA IV",
+    "CargaHorariaTeorico": 45,
+    "CargaHorariaPratica": null,
+    "ListaPrequisitos": []
+  },
+  {
+    "Id": 60168,
+    "Codigo": "1005.000.163-1",
+    "Tipo": "OBR",
+    "Descricao": "HABILIDADES CLÍNICAS DA PRÁTICA MÉDICA IV",
+    "Semestre": 4,
+    "Apelido": "HABILIDADES CLÍNICAS DA PRÁTICA MÉDICA IV",
+    "CargaHorariaTeorico": 60,
+    "CargaHorariaPratica": null,
+    "ListaPrequisitos": [
+      {
+        "Id": 60179,
+        "Codigo": "1005.000.174-9",
+        "Descricao": "HABILIDADES CLÍNICAS DA PRÁTICA MÉDICA I",
+        "Semestre": "0",
+        "Apelido": "HABILIDADES CLÍNICAS DA PRÁTICA MÉDICA I",
+        "CargaHorariaTeorico": 0,
+        "CargaHorariaPratica": 0,
+        "ListaPrequisitos": []
+      },
+      {
+        "Id": 60180,
+        "Codigo": "1005.000.175-8",
+        "Descricao": "HABILIDADES CLÍNICAS DA PRÁTICA MÉDICA II",
+        "Semestre": "0",
+        "Apelido": "HABILIDADES CLÍNICAS DA PRÁTICA MÉDICA II",
+        "CargaHorariaTeorico": 0,
+        "CargaHorariaPratica": 0,
+        "ListaPrequisitos": []
+      }
+    ]
+  },
+  {
+    "Id": 60191,
+    "Codigo": "1005.000.186-5",
+    "Tipo": "OBR",
+    "Descricao": "URGÊNCIA E EMERGÊNCIA III",
+    "Semestre": 4,
+    "Apelido": "URGÊNCIA E EMERGÊNCIA III",
+    "CargaHorariaTeorico": 45,
+    "CargaHorariaPratica": null,
+    "ListaPrequisitos": [
+      {
+        "Id": 60184,
+        "Codigo": "1005.000.179-4",
+        "Descricao": "URGÊNCIA E EMERGÊNCIA I",
+        "Semestre": "0",
+        "Apelido": "URGÊNCIA E EMERGÊNCIA I",
+        "CargaHorariaTeorico": 0,
+        "CargaHorariaPratica": 0,
+        "ListaPrequisitos": []
+      }
+    ]
+  },
+  {
+    "Id": 60193,
+    "Codigo": "1005.000.188-3",
+    "Tipo": "OBR",
+    "Descricao": "ATENÇÃO PRIMÁRIA V",
+    "Semestre": 5,
+    "Apelido": "ATENÇÃO PRIMÁRIA V",
+    "CargaHorariaTeorico": 60,
+    "CargaHorariaPratica": null,
+    "ListaPrequisitos": []
+  },
+  {
+    "Id": 60176,
+    "Codigo": "1005.000.171-1",
+    "Tipo": "OBR",
+    "Descricao": "BASES BIOLÓGICAS DA PRÁTICA MÉDICA V",
+    "Semestre": 5,
+    "Apelido": "BASES BIOLÓGICAS DA PRÁTICA MÉDICA V",
+    "CargaHorariaTeorico": 135,
+    "CargaHorariaPratica": null,
+    "ListaPrequisitos": []
+  },
+  {
+    "Id": 60177,
+    "Codigo": "1005.000.172-0",
+    "Tipo": "OBR",
+    "Descricao": "BASES BIOLÓGICAS DA PRÁTICA MÉDICA VI",
+    "Semestre": 5,
+    "Apelido": "BASES BIOLÓGICAS DA PRÁTICA MÉDICA VI",
+    "CargaHorariaTeorico": 135,
+    "CargaHorariaPratica": null,
+    "ListaPrequisitos": []
+  },
+  {
+    "Id": 60170,
+    "Codigo": "1005.000.165-0",
+    "Tipo": "OBR",
+    "Descricao": "BASES COMPLEMENTARES DA MEDICINA V",
+    "Semestre": 5,
+    "Apelido": "BASES COMPLEMENTARES DA MEDICINA V",
+    "CargaHorariaTeorico": 30,
+    "CargaHorariaPratica": null,
+    "ListaPrequisitos": []
+  },
+  {
+    "Id": 60161,
+    "Codigo": "1005.000.156-0",
+    "Tipo": "OBR",
+    "Descricao": "CIRURGIA II",
+    "Semestre": 5,
+    "Apelido": "CIRURGIA II",
+    "CargaHorariaTeorico": 60,
+    "CargaHorariaPratica": null,
+    "ListaPrequisitos": []
+  },
+  {
+    "Id": 60201,
+    "Codigo": "1005.000.196-3",
+    "Tipo": "OBR",
+    "Descricao": "HABILIDADES CLÍNICAS DA PRÁTICA MÉDICA V",
+    "Semestre": 5,
+    "Apelido": "HABILIDADES CLÍNICAS DA PRÁTICA MÉDICA V",
+    "CargaHorariaTeorico": 30,
+    "CargaHorariaPratica": null,
+    "ListaPrequisitos": [
+      {
+        "Id": 60179,
+        "Codigo": "1005.000.174-9",
+        "Descricao": "HABILIDADES CLÍNICAS DA PRÁTICA MÉDICA I",
+        "Semestre": "0",
+        "Apelido": "HABILIDADES CLÍNICAS DA PRÁTICA MÉDICA I",
+        "CargaHorariaTeorico": 0,
+        "CargaHorariaPratica": 0,
+        "ListaPrequisitos": []
+      },
+      {
+        "Id": 60180,
+        "Codigo": "1005.000.175-8",
+        "Descricao": "HABILIDADES CLÍNICAS DA PRÁTICA MÉDICA II",
+        "Semestre": "0",
+        "Apelido": "HABILIDADES CLÍNICAS DA PRÁTICA MÉDICA II",
+        "CargaHorariaTeorico": 0,
+        "CargaHorariaPratica": 0,
+        "ListaPrequisitos": []
+      }
+    ]
+  },
+  {
+    "Id": 60194,
+    "Codigo": "1005.000.189-2",
+    "Tipo": "OBR",
+    "Descricao": "HABILIDADES CLÍNICAS DA PRÁTICA MÉDICA VI",
+    "Semestre": 5,
+    "Apelido": "HABILIDADES CLÍNICAS DA PRÁTICA MÉDICA VI",
+    "CargaHorariaTeorico": 30,
+    "CargaHorariaPratica": null,
+    "ListaPrequisitos": [
+      {
+        "Id": 60179,
+        "Codigo": "1005.000.174-9",
+        "Descricao": "HABILIDADES CLÍNICAS DA PRÁTICA MÉDICA I",
+        "Semestre": "0",
+        "Apelido": "HABILIDADES CLÍNICAS DA PRÁTICA MÉDICA I",
+        "CargaHorariaTeorico": 0,
+        "CargaHorariaPratica": 0,
+        "ListaPrequisitos": []
+      },
+      {
+        "Id": 60180,
+        "Codigo": "1005.000.175-8",
+        "Descricao": "HABILIDADES CLÍNICAS DA PRÁTICA MÉDICA II",
+        "Semestre": "0",
+        "Apelido": "HABILIDADES CLÍNICAS DA PRÁTICA MÉDICA II",
+        "CargaHorariaTeorico": 0,
+        "CargaHorariaPratica": 0,
+        "ListaPrequisitos": []
+      }
+    ]
+  },
+  {
+    "Id": 60196,
+    "Codigo": "1005.000.191-8",
+    "Tipo": "OBR",
+    "Descricao": "ATENÇÃO PRIMÁRIA VI",
+    "Semestre": 6,
+    "Apelido": "ATENÇÃO PRIMÁRIA VI",
+    "CargaHorariaTeorico": 60,
+    "CargaHorariaPratica": null,
+    "ListaPrequisitos": []
+  },
+  {
+    "Id": 60157,
+    "Codigo": "1005.000.152-4",
+    "Tipo": "OBR",
+    "Descricao": "BASES BIOLÓGICAS DA PRÁTICA MÉDICA VII",
+    "Semestre": 6,
+    "Apelido": "BASES BIOLÓGICAS DA PRÁTICA MÉDICA VII",
+    "CargaHorariaTeorico": 135,
+    "CargaHorariaPratica": null,
+    "ListaPrequisitos": []
+  },
+  {
+    "Id": 60158,
+    "Codigo": "1005.000.153-3",
+    "Tipo": "OBR",
+    "Descricao": "BASES BIOLÓGICAS DA PRÁTICA MÉDICA VIII",
+    "Semestre": 6,
+    "Apelido": "BASES BIOLÓGICAS DA PRÁTICA MÉDICA VIII",
+    "CargaHorariaTeorico": 135,
+    "CargaHorariaPratica": null,
+    "ListaPrequisitos": []
+  },
+  {
+    "Id": 60187,
+    "Codigo": "1005.000.182-9",
+    "Tipo": "OBR",
+    "Descricao": "BASES COMPLEMENTARES DA MEDICINA VI",
+    "Semestre": 6,
+    "Apelido": "BASES COMPLEMENTARES DA MEDICINA VI",
+    "CargaHorariaTeorico": 30,
+    "CargaHorariaPratica": null,
+    "ListaPrequisitos": []
+  },
+  {
+    "Id": 60147,
+    "Codigo": "1005.000.142-6",
+    "Tipo": "OBR",
+    "Descricao": "CIRURGIA III",
+    "Semestre": 6,
+    "Apelido": "CIRURGIA III",
+    "CargaHorariaTeorico": 60,
+    "CargaHorariaPratica": null,
+    "ListaPrequisitos": [
+      {
+        "Id": 60152,
+        "Codigo": "1005.000.147-1",
+        "Descricao": "CIRURGIA I",
+        "Semestre": "0",
+        "Apelido": "CIRURGIA I",
+        "CargaHorariaTeorico": 0,
+        "CargaHorariaPratica": 0,
+        "ListaPrequisitos": []
+      }
+    ]
+  },
+  {
+    "Id": 60175,
+    "Codigo": "1005.000.170-2",
+    "Tipo": "OBR",
+    "Descricao": "HABILIDADES CLÍNICAS DA PRÁTICA MÉDICA VII",
+    "Semestre": 6,
+    "Apelido": "HABILIDADES CLÍNICAS DA PRÁTICA MÉDICA VII",
+    "CargaHorariaTeorico": 30,
+    "CargaHorariaPratica": null,
+    "ListaPrequisitos": [
+      {
+        "Id": 60179,
+        "Codigo": "1005.000.174-9",
+        "Descricao": "HABILIDADES CLÍNICAS DA PRÁTICA MÉDICA I",
+        "Semestre": "0",
+        "Apelido": "HABILIDADES CLÍNICAS DA PRÁTICA MÉDICA I",
+        "CargaHorariaTeorico": 0,
+        "CargaHorariaPratica": 0,
+        "ListaPrequisitos": []
+      },
+      {
+        "Id": 60180,
+        "Codigo": "1005.000.175-8",
+        "Descricao": "HABILIDADES CLÍNICAS DA PRÁTICA MÉDICA II",
+        "Semestre": "0",
+        "Apelido": "HABILIDADES CLÍNICAS DA PRÁTICA MÉDICA II",
+        "CargaHorariaTeorico": 0,
+        "CargaHorariaPratica": 0,
+        "ListaPrequisitos": []
+      }
+    ]
+  },
+  {
+    "Id": 60162,
+    "Codigo": "1005.000.157-0",
+    "Tipo": "OBR",
+    "Descricao": "HABILIDADES CLÍNICAS DA PRÁTICA MÉDICA VIII",
+    "Semestre": 6,
+    "Apelido": "HABILIDADES CLÍNICAS DA PRÁTICA MÉDICA VIII",
+    "CargaHorariaTeorico": 30,
+    "CargaHorariaPratica": null,
+    "ListaPrequisitos": [
+      {
+        "Id": 60179,
+        "Codigo": "1005.000.174-9",
+        "Descricao": "HABILIDADES CLÍNICAS DA PRÁTICA MÉDICA I",
+        "Semestre": "0",
+        "Apelido": "HABILIDADES CLÍNICAS DA PRÁTICA MÉDICA I",
+        "CargaHorariaTeorico": 0,
+        "CargaHorariaPratica": 0,
+        "ListaPrequisitos": []
+      },
+      {
+        "Id": 60180,
+        "Codigo": "1005.000.175-8",
+        "Descricao": "HABILIDADES CLÍNICAS DA PRÁTICA MÉDICA II",
+        "Semestre": "0",
+        "Apelido": "HABILIDADES CLÍNICAS DA PRÁTICA MÉDICA II",
+        "CargaHorariaTeorico": 0,
+        "CargaHorariaPratica": 0,
+        "ListaPrequisitos": []
+      }
+    ]
+  },
+  {
+    "Id": 60167,
+    "Codigo": "1005.000.162-2",
+    "Tipo": "OBR",
+    "Descricao": "ATENÇÃO PRIMÁRIA VII",
+    "Semestre": 7,
+    "Apelido": "ATENÇÃO PRIMÁRIA VII",
+    "CargaHorariaTeorico": 60,
+    "CargaHorariaPratica": null,
+    "ListaPrequisitos": []
+  },
+  {
+    "Id": 60159,
+    "Codigo": "1005.000.154-2",
+    "Tipo": "OBR",
+    "Descricao": "BASES BIOLÓGICAS DA PRÁTICA MÉDICA IX",
+    "Semestre": 7,
+    "Apelido": "BASES BIOLÓGICAS DA PRÁTICA MÉDICA IX",
+    "CargaHorariaTeorico": 135,
+    "CargaHorariaPratica": null,
+    "ListaPrequisitos": []
+  },
+  {
+    "Id": 60211,
+    "Codigo": "1005.000.206-7",
+    "Tipo": "OBR",
+    "Descricao": "BASES BIOLÓGICAS DA PRÁTICA MÉDICA X",
+    "Semestre": 7,
+    "Apelido": "BASES BIOLÓGICAS DA PRÁTICA MÉDICA X",
+    "CargaHorariaTeorico": 135,
+    "CargaHorariaPratica": null,
+    "ListaPrequisitos": []
+  },
+  {
+    "Id": 60202,
+    "Codigo": "1005.000.197-2",
+    "Tipo": "OBR",
+    "Descricao": "BASES COMPLEMENTARES DA MEDICINA VII",
+    "Semestre": 7,
+    "Apelido": "BASES COMPLEMENTARES DA MEDICINA VII",
+    "CargaHorariaTeorico": 30,
+    "CargaHorariaPratica": null,
+    "ListaPrequisitos": []
+  },
+  {
+    "Id": 60198,
+    "Codigo": "1005.000.193-6",
+    "Tipo": "OBR",
+    "Descricao": "CIRURGIA IV",
+    "Semestre": 7,
+    "Apelido": "CIRURGIA IV",
+    "CargaHorariaTeorico": 60,
+    "CargaHorariaPratica": null,
+    "ListaPrequisitos": [
+      {
+        "Id": 60152,
+        "Codigo": "1005.000.147-1",
+        "Descricao": "CIRURGIA I",
+        "Semestre": "0",
+        "Apelido": "CIRURGIA I",
+        "CargaHorariaTeorico": 0,
+        "CargaHorariaPratica": 0,
+        "ListaPrequisitos": []
+      }
+    ]
+  },
+  {
+    "Id": 60174,
+    "Codigo": "1005.000.169-6",
+    "Tipo": "OBR",
+    "Descricao": "HABILIDADES CLÍNICAS DA PRÁTICA MÉDICA IX",
+    "Semestre": 7,
+    "Apelido": "HABILIDADES CLÍNICAS DA PRÁTICA MÉDICA IX",
+    "CargaHorariaTeorico": 30,
+    "CargaHorariaPratica": null,
+    "ListaPrequisitos": [
+      {
+        "Id": 60179,
+        "Codigo": "1005.000.174-9",
+        "Descricao": "HABILIDADES CLÍNICAS DA PRÁTICA MÉDICA I",
+        "Semestre": "0",
+        "Apelido": "HABILIDADES CLÍNICAS DA PRÁTICA MÉDICA I",
+        "CargaHorariaTeorico": 0,
+        "CargaHorariaPratica": 0,
+        "ListaPrequisitos": []
+      },
+      {
+        "Id": 60180,
+        "Codigo": "1005.000.175-8",
+        "Descricao": "HABILIDADES CLÍNICAS DA PRÁTICA MÉDICA II",
+        "Semestre": "0",
+        "Apelido": "HABILIDADES CLÍNICAS DA PRÁTICA MÉDICA II",
+        "CargaHorariaTeorico": 0,
+        "CargaHorariaPratica": 0,
+        "ListaPrequisitos": []
+      }
+    ]
+  },
+  {
+    "Id": 60164,
+    "Codigo": "1005.000.159-8",
+    "Tipo": "OBR",
+    "Descricao": "HABILIDADES CLÍNICAS DA PRÁTICA MÉDICA X",
+    "Semestre": 7,
+    "Apelido": "HABILIDADES CLÍNICAS DA PRÁTICA MÉDICA X",
+    "CargaHorariaTeorico": 30,
+    "CargaHorariaPratica": null,
+    "ListaPrequisitos": [
+      {
+        "Id": 60179,
+        "Codigo": "1005.000.174-9",
+        "Descricao": "HABILIDADES CLÍNICAS DA PRÁTICA MÉDICA I",
+        "Semestre": "0",
+        "Apelido": "HABILIDADES CLÍNICAS DA PRÁTICA MÉDICA I",
+        "CargaHorariaTeorico": 0,
+        "CargaHorariaPratica": 0,
+        "ListaPrequisitos": []
+      },
+      {
+        "Id": 60180,
+        "Codigo": "1005.000.175-8",
+        "Descricao": "HABILIDADES CLÍNICAS DA PRÁTICA MÉDICA II",
+        "Semestre": "0",
+        "Apelido": "HABILIDADES CLÍNICAS DA PRÁTICA MÉDICA II",
+        "CargaHorariaTeorico": 0,
+        "CargaHorariaPratica": 0,
+        "ListaPrequisitos": []
+      }
+    ]
+  },
+  {
+    "Id": 60160,
+    "Codigo": "1005.000.155-1",
+    "Tipo": "OBR",
+    "Descricao": "ATENÇÃO PRIMÁRIA VIII",
+    "Semestre": 8,
+    "Apelido": "ATENÇÃO PRIMÁRIA VIII",
+    "CargaHorariaTeorico": 60,
+    "CargaHorariaPratica": null,
+    "ListaPrequisitos": []
+  },
+  {
+    "Id": 60186,
+    "Codigo": "1005.000.181-0",
+    "Tipo": "OBR",
+    "Descricao": "BASES BIOLÓGICAS DA PRÁTICA MÉDICA XI",
+    "Semestre": 8,
+    "Apelido": "BASES BIOLÓGICAS DA PRÁTICA MÉDICA XI",
+    "CargaHorariaTeorico": 135,
+    "CargaHorariaPratica": null,
+    "ListaPrequisitos": []
+  },
+  {
+    "Id": 60149,
+    "Codigo": "1005.000.144-4",
+    "Tipo": "OBR",
+    "Descricao": "BASES BIOLOGICAS DA PRÁTICA MÉDICA XII",
+    "Semestre": 8,
+    "Apelido": "BASES BIOLOGICAS DA PRÁTICA MÉDICA XII",
+    "CargaHorariaTeorico": 135,
+    "CargaHorariaPratica": null,
+    "ListaPrequisitos": []
+  },
+  {
+    "Id": 60206,
+    "Codigo": "1005.000.201-1",
+    "Tipo": "OBR",
+    "Descricao": "BASES COMPLEMENTARES DA MEDICINA VIII",
+    "Semestre": 8,
+    "Apelido": "BASES COMPLEMENTARES DA MEDICINA VIII",
+    "CargaHorariaTeorico": 30,
+    "CargaHorariaPratica": null,
+    "ListaPrequisitos": []
+  },
+  {
+    "Id": 60146,
+    "Codigo": "1005.000.141-7",
+    "Tipo": "OBR",
+    "Descricao": "HABILIDADES CLÍNICAS DA PRÁTICA MÉDICA XI",
+    "Semestre": 8,
+    "Apelido": "HABILIDADES CLÍNICAS DA PRÁTICA MÉDICA XI",
+    "CargaHorariaTeorico": 30,
+    "CargaHorariaPratica": null,
+    "ListaPrequisitos": [
+      {
+        "Id": 60179,
+        "Codigo": "1005.000.174-9",
+        "Descricao": "HABILIDADES CLÍNICAS DA PRÁTICA MÉDICA I",
+        "Semestre": "0",
+        "Apelido": "HABILIDADES CLÍNICAS DA PRÁTICA MÉDICA I",
+        "CargaHorariaTeorico": 0,
+        "CargaHorariaPratica": 0,
+        "ListaPrequisitos": []
+      },
+      {
+        "Id": 60180,
+        "Codigo": "1005.000.175-8",
+        "Descricao": "HABILIDADES CLÍNICAS DA PRÁTICA MÉDICA II",
+        "Semestre": "0",
+        "Apelido": "HABILIDADES CLÍNICAS DA PRÁTICA MÉDICA II",
+        "CargaHorariaTeorico": 0,
+        "CargaHorariaPratica": 0,
+        "ListaPrequisitos": []
+      }
+    ]
+  },
+  {
+    "Id": 60195,
+    "Codigo": "1005.000.190-9",
+    "Tipo": "OBR",
+    "Descricao": "HABILIDADES CLÍNICAS DA PRÁTICA MÉDICA XII",
+    "Semestre": 8,
+    "Apelido": "HABILIDADES CLÍNICAS DA PRÁTICA MÉDICA XII",
+    "CargaHorariaTeorico": 30,
+    "CargaHorariaPratica": null,
+    "ListaPrequisitos": [
+      {
+        "Id": 60179,
+        "Codigo": "1005.000.174-9",
+        "Descricao": "HABILIDADES CLÍNICAS DA PRÁTICA MÉDICA I",
+        "Semestre": "0",
+        "Apelido": "HABILIDADES CLÍNICAS DA PRÁTICA MÉDICA I",
+        "CargaHorariaTeorico": 0,
+        "CargaHorariaPratica": 0,
+        "ListaPrequisitos": []
+      },
+      {
+        "Id": 60180,
+        "Codigo": "1005.000.175-8",
+        "Descricao": "HABILIDADES CLÍNICAS DA PRÁTICA MÉDICA II",
+        "Semestre": "0",
+        "Apelido": "HABILIDADES CLÍNICAS DA PRÁTICA MÉDICA II",
+        "CargaHorariaTeorico": 0,
+        "CargaHorariaPratica": 0,
+        "ListaPrequisitos": []
+      }
+    ]
+  },
+  {
+    "Id": 60189,
+    "Codigo": "1005.000.184-7",
+    "Tipo": "OBR",
+    "Descricao": "URGÊNCIA E EMERGÊNCIA IV",
+    "Semestre": 8,
+    "Apelido": "URGÊNCIA E EMERGÊNCIA IV",
+    "CargaHorariaTeorico": 60,
+    "CargaHorariaPratica": null,
+    "ListaPrequisitos": [
+      {
+        "Id": 60184,
+        "Codigo": "1005.000.179-4",
+        "Descricao": "URGÊNCIA E EMERGÊNCIA I",
+        "Semestre": "0",
+        "Apelido": "URGÊNCIA E EMERGÊNCIA I",
+        "CargaHorariaTeorico": 0,
+        "CargaHorariaPratica": 0,
+        "ListaPrequisitos": []
+      }
+    ]
+  },
+  {
+    "Id": 51492,
+    "Codigo": "1005.000.089-5",
+    "Tipo": "OBR",
+    "Descricao": "ESTÁGIO OBRIGATÓRIO EM CIRURGIA I",
+    "Semestre": 9,
+    "Apelido": "ESTÁGIO OBRIGATÓRIO EM CIRURGIA I",
+    "CargaHorariaTeorico": 160,
+    "CargaHorariaPratica": null,
+    "ListaPrequisitos": [
+      {
+        "Id": 60146,
+        "Codigo": "1005.000.141-7",
+        "Descricao": "HABILIDADES CLÍNICAS DA PRÁTICA MÉDICA XI",
+        "Semestre": "0",
+        "Apelido": "HABILIDADES CLÍNICAS DA PRÁTICA MÉDICA XI",
+        "CargaHorariaTeorico": 0,
+        "CargaHorariaPratica": 0,
+        "ListaPrequisitos": []
+      },
+      {
+        "Id": 60147,
+        "Codigo": "1005.000.142-6",
+        "Descricao": "CIRURGIA III",
+        "Semestre": "0",
+        "Apelido": "CIRURGIA III",
+        "CargaHorariaTeorico": 0,
+        "CargaHorariaPratica": 0,
+        "ListaPrequisitos": []
+      },
+      {
+        "Id": 60149,
+        "Codigo": "1005.000.144-4",
+        "Descricao": "BASES BIOLOGICAS DA PRÁTICA MÉDICA XII",
+        "Semestre": "0",
+        "Apelido": "BASES BIOLOGICAS DA PRÁTICA MÉDICA XII",
+        "CargaHorariaTeorico": 0,
+        "CargaHorariaPratica": 0,
+        "ListaPrequisitos": []
+      },
+      {
+        "Id": 60152,
+        "Codigo": "1005.000.147-1",
+        "Descricao": "CIRURGIA I",
+        "Semestre": "0",
+        "Apelido": "CIRURGIA I",
+        "CargaHorariaTeorico": 0,
+        "CargaHorariaPratica": 0,
+        "ListaPrequisitos": []
+      },
+      {
+        "Id": 60155,
+        "Codigo": "1005.000.150-6",
+        "Descricao": "HABILIDADES CLÍNICAS DA PRÁTICA MÉDICA III",
+        "Semestre": "0",
+        "Apelido": "HABILIDADES CLÍNICAS DA PRÁTICA MÉDICA III",
+        "CargaHorariaTeorico": 0,
+        "CargaHorariaPratica": 0,
+        "ListaPrequisitos": []
+      },
+      {
+        "Id": 60156,
+        "Codigo": "1005.000.151-5",
+        "Descricao": "BASES BIOLÓGICAS DA PRÁTICA MÉDICA III",
+        "Semestre": "0",
+        "Apelido": "BASES BIOLÓGICAS DA PRÁTICA MÉDICA III",
+        "CargaHorariaTeorico": 0,
+        "CargaHorariaPratica": 0,
+        "ListaPrequisitos": []
+      },
+      {
+        "Id": 60157,
+        "Codigo": "1005.000.152-4",
+        "Descricao": "BASES BIOLÓGICAS DA PRÁTICA MÉDICA VII",
+        "Semestre": "0",
+        "Apelido": "BASES BIOLÓGICAS DA PRÁTICA MÉDICA VII",
+        "CargaHorariaTeorico": 0,
+        "CargaHorariaPratica": 0,
+        "ListaPrequisitos": []
+      },
+      {
+        "Id": 60158,
+        "Codigo": "1005.000.153-3",
+        "Descricao": "BASES BIOLÓGICAS DA PRÁTICA MÉDICA VIII",
+        "Semestre": "0",
+        "Apelido": "BASES BIOLÓGICAS DA PRÁTICA MÉDICA VIII",
+        "CargaHorariaTeorico": 0,
+        "CargaHorariaPratica": 0,
+        "ListaPrequisitos": []
+      },
+      {
+        "Id": 60159,
+        "Codigo": "1005.000.154-2",
+        "Descricao": "BASES BIOLÓGICAS DA PRÁTICA MÉDICA IX",
+        "Semestre": "0",
+        "Apelido": "BASES BIOLÓGICAS DA PRÁTICA MÉDICA IX",
+        "CargaHorariaTeorico": 0,
+        "CargaHorariaPratica": 0,
+        "ListaPrequisitos": []
+      },
+      {
+        "Id": 60160,
+        "Codigo": "1005.000.155-1",
+        "Descricao": "ATENÇÃO PRIMÁRIA VIII",
+        "Semestre": "0",
+        "Apelido": "ATENÇÃO PRIMÁRIA VIII",
+        "CargaHorariaTeorico": 0,
+        "CargaHorariaPratica": 0,
+        "ListaPrequisitos": []
+      },
+      {
+        "Id": 60161,
+        "Codigo": "1005.000.156-0",
+        "Descricao": "CIRURGIA II",
+        "Semestre": "0",
+        "Apelido": "CIRURGIA II",
+        "CargaHorariaTeorico": 0,
+        "CargaHorariaPratica": 0,
+        "ListaPrequisitos": []
+      },
+      {
+        "Id": 60162,
+        "Codigo": "1005.000.157-0",
+        "Descricao": "HABILIDADES CLÍNICAS DA PRÁTICA MÉDICA VIII",
+        "Semestre": "0",
+        "Apelido": "HABILIDADES CLÍNICAS DA PRÁTICA MÉDICA VIII",
+        "CargaHorariaTeorico": 0,
+        "CargaHorariaPratica": 0,
+        "ListaPrequisitos": []
+      },
+      {
+        "Id": 60163,
+        "Codigo": "1005.000.158-9",
+        "Descricao": "BASES COMPLEMENTARES DA MEDICINA II",
+        "Semestre": "0",
+        "Apelido": "BASES COMPLEMENTARES DA MEDICINA II",
+        "CargaHorariaTeorico": 0,
+        "CargaHorariaPratica": 0,
+        "ListaPrequisitos": []
+      },
+      {
+        "Id": 60164,
+        "Codigo": "1005.000.159-8",
+        "Descricao": "HABILIDADES CLÍNICAS DA PRÁTICA MÉDICA X",
+        "Semestre": "0",
+        "Apelido": "HABILIDADES CLÍNICAS DA PRÁTICA MÉDICA X",
+        "CargaHorariaTeorico": 0,
+        "CargaHorariaPratica": 0,
+        "ListaPrequisitos": []
+      },
+      {
+        "Id": 60167,
+        "Codigo": "1005.000.162-2",
+        "Descricao": "ATENÇÃO PRIMÁRIA VII",
+        "Semestre": "0",
+        "Apelido": "ATENÇÃO PRIMÁRIA VII",
+        "CargaHorariaTeorico": 0,
+        "CargaHorariaPratica": 0,
+        "ListaPrequisitos": []
+      },
+      {
+        "Id": 60168,
+        "Codigo": "1005.000.163-1",
+        "Descricao": "HABILIDADES CLÍNICAS DA PRÁTICA MÉDICA IV",
+        "Semestre": "0",
+        "Apelido": "HABILIDADES CLÍNICAS DA PRÁTICA MÉDICA IV",
+        "CargaHorariaTeorico": 0,
+        "CargaHorariaPratica": 0,
+        "ListaPrequisitos": []
+      },
+      {
+        "Id": 60170,
+        "Codigo": "1005.000.165-0",
+        "Descricao": "BASES COMPLEMENTARES DA MEDICINA V",
+        "Semestre": "0",
+        "Apelido": "BASES COMPLEMENTARES DA MEDICINA V",
+        "CargaHorariaTeorico": 0,
+        "CargaHorariaPratica": 0,
+        "ListaPrequisitos": []
+      },
+      {
+        "Id": 60174,
+        "Codigo": "1005.000.169-6",
+        "Descricao": "HABILIDADES CLÍNICAS DA PRÁTICA MÉDICA IX",
+        "Semestre": "0",
+        "Apelido": "HABILIDADES CLÍNICAS DA PRÁTICA MÉDICA IX",
+        "CargaHorariaTeorico": 0,
+        "CargaHorariaPratica": 0,
+        "ListaPrequisitos": []
+      },
+      {
+        "Id": 60175,
+        "Codigo": "1005.000.170-2",
+        "Descricao": "HABILIDADES CLÍNICAS DA PRÁTICA MÉDICA VII",
+        "Semestre": "0",
+        "Apelido": "HABILIDADES CLÍNICAS DA PRÁTICA MÉDICA VII",
+        "CargaHorariaTeorico": 0,
+        "CargaHorariaPratica": 0,
+        "ListaPrequisitos": []
+      },
+      {
+        "Id": 60176,
+        "Codigo": "1005.000.171-1",
+        "Descricao": "BASES BIOLÓGICAS DA PRÁTICA MÉDICA V",
+        "Semestre": "0",
+        "Apelido": "BASES BIOLÓGICAS DA PRÁTICA MÉDICA V",
+        "CargaHorariaTeorico": 0,
+        "CargaHorariaPratica": 0,
+        "ListaPrequisitos": []
+      },
+      {
+        "Id": 60177,
+        "Codigo": "1005.000.172-0",
+        "Descricao": "BASES BIOLÓGICAS DA PRÁTICA MÉDICA VI",
+        "Semestre": "0",
+        "Apelido": "BASES BIOLÓGICAS DA PRÁTICA MÉDICA VI",
+        "CargaHorariaTeorico": 0,
+        "CargaHorariaPratica": 0,
+        "ListaPrequisitos": []
+      },
+      {
+        "Id": 60178,
+        "Codigo": "1005.000.173-0",
+        "Descricao": "URGÊNCIA E EMERGÊNCIA II",
+        "Semestre": "0",
+        "Apelido": "URGÊNCIA E EMERGÊNCIA II",
+        "CargaHorariaTeorico": 0,
+        "CargaHorariaPratica": 0,
+        "ListaPrequisitos": []
+      },
+      {
+        "Id": 60179,
+        "Codigo": "1005.000.174-9",
+        "Descricao": "HABILIDADES CLÍNICAS DA PRÁTICA MÉDICA I",
+        "Semestre": "0",
+        "Apelido": "HABILIDADES CLÍNICAS DA PRÁTICA MÉDICA I",
+        "CargaHorariaTeorico": 0,
+        "CargaHorariaPratica": 0,
+        "ListaPrequisitos": []
+      },
+      {
+        "Id": 60180,
+        "Codigo": "1005.000.175-8",
+        "Descricao": "HABILIDADES CLÍNICAS DA PRÁTICA MÉDICA II",
+        "Semestre": "0",
+        "Apelido": "HABILIDADES CLÍNICAS DA PRÁTICA MÉDICA II",
+        "CargaHorariaTeorico": 0,
+        "CargaHorariaPratica": 0,
+        "ListaPrequisitos": []
+      },
+      {
+        "Id": 60184,
+        "Codigo": "1005.000.179-4",
+        "Descricao": "URGÊNCIA E EMERGÊNCIA I",
+        "Semestre": "0",
+        "Apelido": "URGÊNCIA E EMERGÊNCIA I",
+        "CargaHorariaTeorico": 0,
+        "CargaHorariaPratica": 0,
+        "ListaPrequisitos": []
+      },
+      {
+        "Id": 60186,
+        "Codigo": "1005.000.181-0",
+        "Descricao": "BASES BIOLÓGICAS DA PRÁTICA MÉDICA XI",
+        "Semestre": "0",
+        "Apelido": "BASES BIOLÓGICAS DA PRÁTICA MÉDICA XI",
+        "CargaHorariaTeorico": 0,
+        "CargaHorariaPratica": 0,
+        "ListaPrequisitos": []
+      },
+      {
+        "Id": 60187,
+        "Codigo": "1005.000.182-9",
+        "Descricao": "BASES COMPLEMENTARES DA MEDICINA VI",
+        "Semestre": "0",
+        "Apelido": "BASES COMPLEMENTARES DA MEDICINA VI",
+        "CargaHorariaTeorico": 0,
+        "CargaHorariaPratica": 0,
+        "ListaPrequisitos": []
+      },
+      {
+        "Id": 60189,
+        "Codigo": "1005.000.184-7",
+        "Descricao": "URGÊNCIA E EMERGÊNCIA IV",
+        "Semestre": "0",
+        "Apelido": "URGÊNCIA E EMERGÊNCIA IV",
+        "CargaHorariaTeorico": 0,
+        "CargaHorariaPratica": 0,
+        "ListaPrequisitos": []
+      },
+      {
+        "Id": 60190,
+        "Codigo": "1005.000.185-6",
+        "Descricao": "BASES COMPLEMENTARES DA MEDICINA I",
+        "Semestre": "0",
+        "Apelido": "BASES COMPLEMENTARES DA MEDICINA I",
+        "CargaHorariaTeorico": 0,
+        "CargaHorariaPratica": 0,
+        "ListaPrequisitos": []
+      },
+      {
+        "Id": 60191,
+        "Codigo": "1005.000.186-5",
+        "Descricao": "URGÊNCIA E EMERGÊNCIA III",
+        "Semestre": "0",
+        "Apelido": "URGÊNCIA E EMERGÊNCIA III",
+        "CargaHorariaTeorico": 0,
+        "CargaHorariaPratica": 0,
+        "ListaPrequisitos": []
+      },
+      {
+        "Id": 60193,
+        "Codigo": "1005.000.188-3",
+        "Descricao": "ATENÇÃO PRIMÁRIA V",
+        "Semestre": "0",
+        "Apelido": "ATENÇÃO PRIMÁRIA V",
+        "CargaHorariaTeorico": 0,
+        "CargaHorariaPratica": 0,
+        "ListaPrequisitos": []
+      },
+      {
+        "Id": 60194,
+        "Codigo": "1005.000.189-2",
+        "Descricao": "HABILIDADES CLÍNICAS DA PRÁTICA MÉDICA VI",
+        "Semestre": "0",
+        "Apelido": "HABILIDADES CLÍNICAS DA PRÁTICA MÉDICA VI",
+        "CargaHorariaTeorico": 0,
+        "CargaHorariaPratica": 0,
+        "ListaPrequisitos": []
+      },
+      {
+        "Id": 60195,
+        "Codigo": "1005.000.190-9",
+        "Descricao": "HABILIDADES CLÍNICAS DA PRÁTICA MÉDICA XII",
+        "Semestre": "0",
+        "Apelido": "HABILIDADES CLÍNICAS DA PRÁTICA MÉDICA XII",
+        "CargaHorariaTeorico": 0,
+        "CargaHorariaPratica": 0,
+        "ListaPrequisitos": []
+      },
+      {
+        "Id": 60196,
+        "Codigo": "1005.000.191-8",
+        "Descricao": "ATENÇÃO PRIMÁRIA VI",
+        "Semestre": "0",
+        "Apelido": "ATENÇÃO PRIMÁRIA VI",
+        "CargaHorariaTeorico": 0,
+        "CargaHorariaPratica": 0,
+        "ListaPrequisitos": []
+      },
+      {
+        "Id": 60197,
+        "Codigo": "1005.000.192-7",
+        "Descricao": "BASES COMPLEMENTARES DA MEDICINA IV",
+        "Semestre": "0",
+        "Apelido": "BASES COMPLEMENTARES DA MEDICINA IV",
+        "CargaHorariaTeorico": 0,
+        "CargaHorariaPratica": 0,
+        "ListaPrequisitos": []
+      },
+      {
+        "Id": 60198,
+        "Codigo": "1005.000.193-6",
+        "Descricao": "CIRURGIA IV",
+        "Semestre": "0",
+        "Apelido": "CIRURGIA IV",
+        "CargaHorariaTeorico": 0,
+        "CargaHorariaPratica": 0,
+        "ListaPrequisitos": []
+      },
+      {
+        "Id": 60201,
+        "Codigo": "1005.000.196-3",
+        "Descricao": "HABILIDADES CLÍNICAS DA PRÁTICA MÉDICA V",
+        "Semestre": "0",
+        "Apelido": "HABILIDADES CLÍNICAS DA PRÁTICA MÉDICA V",
+        "CargaHorariaTeorico": 0,
+        "CargaHorariaPratica": 0,
+        "ListaPrequisitos": []
+      },
+      {
+        "Id": 60202,
+        "Codigo": "1005.000.197-2",
+        "Descricao": "BASES COMPLEMENTARES DA MEDICINA VII",
+        "Semestre": "0",
+        "Apelido": "BASES COMPLEMENTARES DA MEDICINA VII",
+        "CargaHorariaTeorico": 0,
+        "CargaHorariaPratica": 0,
+        "ListaPrequisitos": []
+      },
+      {
+        "Id": 60206,
+        "Codigo": "1005.000.201-1",
+        "Descricao": "BASES COMPLEMENTARES DA MEDICINA VIII",
+        "Semestre": "0",
+        "Apelido": "BASES COMPLEMENTARES DA MEDICINA VIII",
+        "CargaHorariaTeorico": 0,
+        "CargaHorariaPratica": 0,
+        "ListaPrequisitos": []
+      },
+      {
+        "Id": 60208,
+        "Codigo": "1005.000.203-0",
+        "Descricao": "ATENÇÃO PRIMÁRIA III",
+        "Semestre": "0",
+        "Apelido": "ATENÇÃO PRIMÁRIA III",
+        "CargaHorariaTeorico": 0,
+        "CargaHorariaPratica": 0,
+        "ListaPrequisitos": []
+      },
+      {
+        "Id": 60209,
+        "Codigo": "1005.000.204-9",
+        "Descricao": "ATENÇÃO PRIMÁRIA IV",
+        "Semestre": "0",
+        "Apelido": "ATENÇÃO PRIMÁRIA IV",
+        "CargaHorariaTeorico": 0,
+        "CargaHorariaPratica": 0,
+        "ListaPrequisitos": []
+      },
+      {
+        "Id": 60210,
+        "Codigo": "1005.000.205-8",
+        "Descricao": "BASES COMPLEMENTARES DA MEDICINA III",
+        "Semestre": "0",
+        "Apelido": "BASES COMPLEMENTARES DA MEDICINA III",
+        "CargaHorariaTeorico": 0,
+        "CargaHorariaPratica": 0,
+        "ListaPrequisitos": []
+      },
+      {
+        "Id": 60211,
+        "Codigo": "1005.000.206-7",
+        "Descricao": "BASES BIOLÓGICAS DA PRÁTICA MÉDICA X",
+        "Semestre": "0",
+        "Apelido": "BASES BIOLÓGICAS DA PRÁTICA MÉDICA X",
+        "CargaHorariaTeorico": 0,
+        "CargaHorariaPratica": 0,
+        "ListaPrequisitos": []
+      },
+      {
+        "Id": 60212,
+        "Codigo": "1005.000.207-6",
+        "Descricao": "ATENÇÃO PRIMÁRIA II",
+        "Semestre": "0",
+        "Apelido": "ATENÇÃO PRIMÁRIA II",
+        "CargaHorariaTeorico": 0,
+        "CargaHorariaPratica": 0,
+        "ListaPrequisitos": []
+      },
+      {
+        "Id": 60213,
+        "Codigo": "1005.000.208-5",
+        "Descricao": "ATENÇÃO PRIMÁRIA I",
+        "Semestre": "0",
+        "Apelido": "ATENÇÃO PRIMÁRIA I",
+        "CargaHorariaTeorico": 0,
+        "CargaHorariaPratica": 0,
+        "ListaPrequisitos": []
+      },
+      {
+        "Id": 60214,
+        "Codigo": "1005.000.209-4",
+        "Descricao": "BASES BIOLÓGICAS DA PRÁTICA MÉDICA IV",
+        "Semestre": "0",
+        "Apelido": "BASES BIOLÓGICAS DA PRÁTICA MÉDICA IV",
+        "CargaHorariaTeorico": 0,
+        "CargaHorariaPratica": 0,
+        "ListaPrequisitos": []
+      },
+      {
+        "Id": 60217,
+        "Codigo": "2701.000.691-1",
+        "Descricao": "BASES BIOLÓGICAS DA PRÁTICA MÉDICA I",
+        "Semestre": "0",
+        "Apelido": "BASES BIOLÓGICAS DA PRÁTICA MÉDICA I",
+        "CargaHorariaTeorico": 0,
+        "CargaHorariaPratica": 0,
+        "ListaPrequisitos": []
+      },
+      {
+        "Id": 60218,
+        "Codigo": "2701.000.692-0",
+        "Descricao": "BASES BIOLÓGICAS DA PRÁTICA MÉDICA II",
+        "Semestre": "0",
+        "Apelido": "BASES BIOLÓGICAS DA PRÁTICA MÉDICA II",
+        "CargaHorariaTeorico": 0,
+        "CargaHorariaPratica": 0,
+        "ListaPrequisitos": []
+      }
+    ]
+  },
+  {
+    "Id": 51487,
+    "Codigo": "1005.000.084-0",
+    "Tipo": "OBR",
+    "Descricao": "ESTÁGIO OBRIGATÓRIO EM CLÍNICA MÉDICA I",
+    "Semestre": 9,
+    "Apelido": "ESTÁGIO OBRIGATÓRIO EM CLÍNICA MÉDICA I",
+    "CargaHorariaTeorico": 160,
+    "CargaHorariaPratica": null,
+    "ListaPrequisitos": [
+      {
+        "Id": 60146,
+        "Codigo": "1005.000.141-7",
+        "Descricao": "HABILIDADES CLÍNICAS DA PRÁTICA MÉDICA XI",
+        "Semestre": "0",
+        "Apelido": "HABILIDADES CLÍNICAS DA PRÁTICA MÉDICA XI",
+        "CargaHorariaTeorico": 0,
+        "CargaHorariaPratica": 0,
+        "ListaPrequisitos": []
+      },
+      {
+        "Id": 60147,
+        "Codigo": "1005.000.142-6",
+        "Descricao": "CIRURGIA III",
+        "Semestre": "0",
+        "Apelido": "CIRURGIA III",
+        "CargaHorariaTeorico": 0,
+        "CargaHorariaPratica": 0,
+        "ListaPrequisitos": []
+      },
+      {
+        "Id": 60149,
+        "Codigo": "1005.000.144-4",
+        "Descricao": "BASES BIOLOGICAS DA PRÁTICA MÉDICA XII",
+        "Semestre": "0",
+        "Apelido": "BASES BIOLOGICAS DA PRÁTICA MÉDICA XII",
+        "CargaHorariaTeorico": 0,
+        "CargaHorariaPratica": 0,
+        "ListaPrequisitos": []
+      },
+      {
+        "Id": 60152,
+        "Codigo": "1005.000.147-1",
+        "Descricao": "CIRURGIA I",
+        "Semestre": "0",
+        "Apelido": "CIRURGIA I",
+        "CargaHorariaTeorico": 0,
+        "CargaHorariaPratica": 0,
+        "ListaPrequisitos": []
+      },
+      {
+        "Id": 60155,
+        "Codigo": "1005.000.150-6",
+        "Descricao": "HABILIDADES CLÍNICAS DA PRÁTICA MÉDICA III",
+        "Semestre": "0",
+        "Apelido": "HABILIDADES CLÍNICAS DA PRÁTICA MÉDICA III",
+        "CargaHorariaTeorico": 0,
+        "CargaHorariaPratica": 0,
+        "ListaPrequisitos": []
+      },
+      {
+        "Id": 60156,
+        "Codigo": "1005.000.151-5",
+        "Descricao": "BASES BIOLÓGICAS DA PRÁTICA MÉDICA III",
+        "Semestre": "0",
+        "Apelido": "BASES BIOLÓGICAS DA PRÁTICA MÉDICA III",
+        "CargaHorariaTeorico": 0,
+        "CargaHorariaPratica": 0,
+        "ListaPrequisitos": []
+      },
+      {
+        "Id": 60157,
+        "Codigo": "1005.000.152-4",
+        "Descricao": "BASES BIOLÓGICAS DA PRÁTICA MÉDICA VII",
+        "Semestre": "0",
+        "Apelido": "BASES BIOLÓGICAS DA PRÁTICA MÉDICA VII",
+        "CargaHorariaTeorico": 0,
+        "CargaHorariaPratica": 0,
+        "ListaPrequisitos": []
+      },
+      {
+        "Id": 60158,
+        "Codigo": "1005.000.153-3",
+        "Descricao": "BASES BIOLÓGICAS DA PRÁTICA MÉDICA VIII",
+        "Semestre": "0",
+        "Apelido": "BASES BIOLÓGICAS DA PRÁTICA MÉDICA VIII",
+        "CargaHorariaTeorico": 0,
+        "CargaHorariaPratica": 0,
+        "ListaPrequisitos": []
+      },
+      {
+        "Id": 60159,
+        "Codigo": "1005.000.154-2",
+        "Descricao": "BASES BIOLÓGICAS DA PRÁTICA MÉDICA IX",
+        "Semestre": "0",
+        "Apelido": "BASES BIOLÓGICAS DA PRÁTICA MÉDICA IX",
+        "CargaHorariaTeorico": 0,
+        "CargaHorariaPratica": 0,
+        "ListaPrequisitos": []
+      },
+      {
+        "Id": 60160,
+        "Codigo": "1005.000.155-1",
+        "Descricao": "ATENÇÃO PRIMÁRIA VIII",
+        "Semestre": "0",
+        "Apelido": "ATENÇÃO PRIMÁRIA VIII",
+        "CargaHorariaTeorico": 0,
+        "CargaHorariaPratica": 0,
+        "ListaPrequisitos": []
+      },
+      {
+        "Id": 60161,
+        "Codigo": "1005.000.156-0",
+        "Descricao": "CIRURGIA II",
+        "Semestre": "0",
+        "Apelido": "CIRURGIA II",
+        "CargaHorariaTeorico": 0,
+        "CargaHorariaPratica": 0,
+        "ListaPrequisitos": []
+      },
+      {
+        "Id": 60162,
+        "Codigo": "1005.000.157-0",
+        "Descricao": "HABILIDADES CLÍNICAS DA PRÁTICA MÉDICA VIII",
+        "Semestre": "0",
+        "Apelido": "HABILIDADES CLÍNICAS DA PRÁTICA MÉDICA VIII",
+        "CargaHorariaTeorico": 0,
+        "CargaHorariaPratica": 0,
+        "ListaPrequisitos": []
+      },
+      {
+        "Id": 60163,
+        "Codigo": "1005.000.158-9",
+        "Descricao": "BASES COMPLEMENTARES DA MEDICINA II",
+        "Semestre": "0",
+        "Apelido": "BASES COMPLEMENTARES DA MEDICINA II",
+        "CargaHorariaTeorico": 0,
+        "CargaHorariaPratica": 0,
+        "ListaPrequisitos": []
+      },
+      {
+        "Id": 60164,
+        "Codigo": "1005.000.159-8",
+        "Descricao": "HABILIDADES CLÍNICAS DA PRÁTICA MÉDICA X",
+        "Semestre": "0",
+        "Apelido": "HABILIDADES CLÍNICAS DA PRÁTICA MÉDICA X",
+        "CargaHorariaTeorico": 0,
+        "CargaHorariaPratica": 0,
+        "ListaPrequisitos": []
+      },
+      {
+        "Id": 60167,
+        "Codigo": "1005.000.162-2",
+        "Descricao": "ATENÇÃO PRIMÁRIA VII",
+        "Semestre": "0",
+        "Apelido": "ATENÇÃO PRIMÁRIA VII",
+        "CargaHorariaTeorico": 0,
+        "CargaHorariaPratica": 0,
+        "ListaPrequisitos": []
+      },
+      {
+        "Id": 60168,
+        "Codigo": "1005.000.163-1",
+        "Descricao": "HABILIDADES CLÍNICAS DA PRÁTICA MÉDICA IV",
+        "Semestre": "0",
+        "Apelido": "HABILIDADES CLÍNICAS DA PRÁTICA MÉDICA IV",
+        "CargaHorariaTeorico": 0,
+        "CargaHorariaPratica": 0,
+        "ListaPrequisitos": []
+      },
+      {
+        "Id": 60170,
+        "Codigo": "1005.000.165-0",
+        "Descricao": "BASES COMPLEMENTARES DA MEDICINA V",
+        "Semestre": "0",
+        "Apelido": "BASES COMPLEMENTARES DA MEDICINA V",
+        "CargaHorariaTeorico": 0,
+        "CargaHorariaPratica": 0,
+        "ListaPrequisitos": []
+      },
+      {
+        "Id": 60174,
+        "Codigo": "1005.000.169-6",
+        "Descricao": "HABILIDADES CLÍNICAS DA PRÁTICA MÉDICA IX",
+        "Semestre": "0",
+        "Apelido": "HABILIDADES CLÍNICAS DA PRÁTICA MÉDICA IX",
+        "CargaHorariaTeorico": 0,
+        "CargaHorariaPratica": 0,
+        "ListaPrequisitos": []
+      },
+      {
+        "Id": 60175,
+        "Codigo": "1005.000.170-2",
+        "Descricao": "HABILIDADES CLÍNICAS DA PRÁTICA MÉDICA VII",
+        "Semestre": "0",
+        "Apelido": "HABILIDADES CLÍNICAS DA PRÁTICA MÉDICA VII",
+        "CargaHorariaTeorico": 0,
+        "CargaHorariaPratica": 0,
+        "ListaPrequisitos": []
+      },
+      {
+        "Id": 60176,
+        "Codigo": "1005.000.171-1",
+        "Descricao": "BASES BIOLÓGICAS DA PRÁTICA MÉDICA V",
+        "Semestre": "0",
+        "Apelido": "BASES BIOLÓGICAS DA PRÁTICA MÉDICA V",
+        "CargaHorariaTeorico": 0,
+        "CargaHorariaPratica": 0,
+        "ListaPrequisitos": []
+      },
+      {
+        "Id": 60177,
+        "Codigo": "1005.000.172-0",
+        "Descricao": "BASES BIOLÓGICAS DA PRÁTICA MÉDICA VI",
+        "Semestre": "0",
+        "Apelido": "BASES BIOLÓGICAS DA PRÁTICA MÉDICA VI",
+        "CargaHorariaTeorico": 0,
+        "CargaHorariaPratica": 0,
+        "ListaPrequisitos": []
+      },
+      {
+        "Id": 60178,
+        "Codigo": "1005.000.173-0",
+        "Descricao": "URGÊNCIA E EMERGÊNCIA II",
+        "Semestre": "0",
+        "Apelido": "URGÊNCIA E EMERGÊNCIA II",
+        "CargaHorariaTeorico": 0,
+        "CargaHorariaPratica": 0,
+        "ListaPrequisitos": []
+      },
+      {
+        "Id": 60179,
+        "Codigo": "1005.000.174-9",
+        "Descricao": "HABILIDADES CLÍNICAS DA PRÁTICA MÉDICA I",
+        "Semestre": "0",
+        "Apelido": "HABILIDADES CLÍNICAS DA PRÁTICA MÉDICA I",
+        "CargaHorariaTeorico": 0,
+        "CargaHorariaPratica": 0,
+        "ListaPrequisitos": []
+      },
+      {
+        "Id": 60180,
+        "Codigo": "1005.000.175-8",
+        "Descricao": "HABILIDADES CLÍNICAS DA PRÁTICA MÉDICA II",
+        "Semestre": "0",
+        "Apelido": "HABILIDADES CLÍNICAS DA PRÁTICA MÉDICA II",
+        "CargaHorariaTeorico": 0,
+        "CargaHorariaPratica": 0,
+        "ListaPrequisitos": []
+      },
+      {
+        "Id": 60184,
+        "Codigo": "1005.000.179-4",
+        "Descricao": "URGÊNCIA E EMERGÊNCIA I",
+        "Semestre": "0",
+        "Apelido": "URGÊNCIA E EMERGÊNCIA I",
+        "CargaHorariaTeorico": 0,
+        "CargaHorariaPratica": 0,
+        "ListaPrequisitos": []
+      },
+      {
+        "Id": 60186,
+        "Codigo": "1005.000.181-0",
+        "Descricao": "BASES BIOLÓGICAS DA PRÁTICA MÉDICA XI",
+        "Semestre": "0",
+        "Apelido": "BASES BIOLÓGICAS DA PRÁTICA MÉDICA XI",
+        "CargaHorariaTeorico": 0,
+        "CargaHorariaPratica": 0,
+        "ListaPrequisitos": []
+      },
+      {
+        "Id": 60187,
+        "Codigo": "1005.000.182-9",
+        "Descricao": "BASES COMPLEMENTARES DA MEDICINA VI",
+        "Semestre": "0",
+        "Apelido": "BASES COMPLEMENTARES DA MEDICINA VI",
+        "CargaHorariaTeorico": 0,
+        "CargaHorariaPratica": 0,
+        "ListaPrequisitos": []
+      },
+      {
+        "Id": 60189,
+        "Codigo": "1005.000.184-7",
+        "Descricao": "URGÊNCIA E EMERGÊNCIA IV",
+        "Semestre": "0",
+        "Apelido": "URGÊNCIA E EMERGÊNCIA IV",
+        "CargaHorariaTeorico": 0,
+        "CargaHorariaPratica": 0,
+        "ListaPrequisitos": []
+      },
+      {
+        "Id": 60190,
+        "Codigo": "1005.000.185-6",
+        "Descricao": "BASES COMPLEMENTARES DA MEDICINA I",
+        "Semestre": "0",
+        "Apelido": "BASES COMPLEMENTARES DA MEDICINA I",
+        "CargaHorariaTeorico": 0,
+        "CargaHorariaPratica": 0,
+        "ListaPrequisitos": []
+      },
+      {
+        "Id": 60191,
+        "Codigo": "1005.000.186-5",
+        "Descricao": "URGÊNCIA E EMERGÊNCIA III",
+        "Semestre": "0",
+        "Apelido": "URGÊNCIA E EMERGÊNCIA III",
+        "CargaHorariaTeorico": 0,
+        "CargaHorariaPratica": 0,
+        "ListaPrequisitos": []
+      },
+      {
+        "Id": 60193,
+        "Codigo": "1005.000.188-3",
+        "Descricao": "ATENÇÃO PRIMÁRIA V",
+        "Semestre": "0",
+        "Apelido": "ATENÇÃO PRIMÁRIA V",
+        "CargaHorariaTeorico": 0,
+        "CargaHorariaPratica": 0,
+        "ListaPrequisitos": []
+      },
+      {
+        "Id": 60194,
+        "Codigo": "1005.000.189-2",
+        "Descricao": "HABILIDADES CLÍNICAS DA PRÁTICA MÉDICA VI",
+        "Semestre": "0",
+        "Apelido": "HABILIDADES CLÍNICAS DA PRÁTICA MÉDICA VI",
+        "CargaHorariaTeorico": 0,
+        "CargaHorariaPratica": 0,
+        "ListaPrequisitos": []
+      },
+      {
+        "Id": 60195,
+        "Codigo": "1005.000.190-9",
+        "Descricao": "HABILIDADES CLÍNICAS DA PRÁTICA MÉDICA XII",
+        "Semestre": "0",
+        "Apelido": "HABILIDADES CLÍNICAS DA PRÁTICA MÉDICA XII",
+        "CargaHorariaTeorico": 0,
+        "CargaHorariaPratica": 0,
+        "ListaPrequisitos": []
+      },
+      {
+        "Id": 60196,
+        "Codigo": "1005.000.191-8",
+        "Descricao": "ATENÇÃO PRIMÁRIA VI",
+        "Semestre": "0",
+        "Apelido": "ATENÇÃO PRIMÁRIA VI",
+        "CargaHorariaTeorico": 0,
+        "CargaHorariaPratica": 0,
+        "ListaPrequisitos": []
+      },
+      {
+        "Id": 60197,
+        "Codigo": "1005.000.192-7",
+        "Descricao": "BASES COMPLEMENTARES DA MEDICINA IV",
+        "Semestre": "0",
+        "Apelido": "BASES COMPLEMENTARES DA MEDICINA IV",
+        "CargaHorariaTeorico": 0,
+        "CargaHorariaPratica": 0,
+        "ListaPrequisitos": []
+      },
+      {
+        "Id": 60198,
+        "Codigo": "1005.000.193-6",
+        "Descricao": "CIRURGIA IV",
+        "Semestre": "0",
+        "Apelido": "CIRURGIA IV",
+        "CargaHorariaTeorico": 0,
+        "CargaHorariaPratica": 0,
+        "ListaPrequisitos": []
+      },
+      {
+        "Id": 60201,
+        "Codigo": "1005.000.196-3",
+        "Descricao": "HABILIDADES CLÍNICAS DA PRÁTICA MÉDICA V",
+        "Semestre": "0",
+        "Apelido": "HABILIDADES CLÍNICAS DA PRÁTICA MÉDICA V",
+        "CargaHorariaTeorico": 0,
+        "CargaHorariaPratica": 0,
+        "ListaPrequisitos": []
+      },
+      {
+        "Id": 60202,
+        "Codigo": "1005.000.197-2",
+        "Descricao": "BASES COMPLEMENTARES DA MEDICINA VII",
+        "Semestre": "0",
+        "Apelido": "BASES COMPLEMENTARES DA MEDICINA VII",
+        "CargaHorariaTeorico": 0,
+        "CargaHorariaPratica": 0,
+        "ListaPrequisitos": []
+      },
+      {
+        "Id": 60206,
+        "Codigo": "1005.000.201-1",
+        "Descricao": "BASES COMPLEMENTARES DA MEDICINA VIII",
+        "Semestre": "0",
+        "Apelido": "BASES COMPLEMENTARES DA MEDICINA VIII",
+        "CargaHorariaTeorico": 0,
+        "CargaHorariaPratica": 0,
+        "ListaPrequisitos": []
+      },
+      {
+        "Id": 60208,
+        "Codigo": "1005.000.203-0",
+        "Descricao": "ATENÇÃO PRIMÁRIA III",
+        "Semestre": "0",
+        "Apelido": "ATENÇÃO PRIMÁRIA III",
+        "CargaHorariaTeorico": 0,
+        "CargaHorariaPratica": 0,
+        "ListaPrequisitos": []
+      },
+      {
+        "Id": 60209,
+        "Codigo": "1005.000.204-9",
+        "Descricao": "ATENÇÃO PRIMÁRIA IV",
+        "Semestre": "0",
+        "Apelido": "ATENÇÃO PRIMÁRIA IV",
+        "CargaHorariaTeorico": 0,
+        "CargaHorariaPratica": 0,
+        "ListaPrequisitos": []
+      },
+      {
+        "Id": 60210,
+        "Codigo": "1005.000.205-8",
+        "Descricao": "BASES COMPLEMENTARES DA MEDICINA III",
+        "Semestre": "0",
+        "Apelido": "BASES COMPLEMENTARES DA MEDICINA III",
+        "CargaHorariaTeorico": 0,
+        "CargaHorariaPratica": 0,
+        "ListaPrequisitos": []
+      },
+      {
+        "Id": 60211,
+        "Codigo": "1005.000.206-7",
+        "Descricao": "BASES BIOLÓGICAS DA PRÁTICA MÉDICA X",
+        "Semestre": "0",
+        "Apelido": "BASES BIOLÓGICAS DA PRÁTICA MÉDICA X",
+        "CargaHorariaTeorico": 0,
+        "CargaHorariaPratica": 0,
+        "ListaPrequisitos": []
+      },
+      {
+        "Id": 60212,
+        "Codigo": "1005.000.207-6",
+        "Descricao": "ATENÇÃO PRIMÁRIA II",
+        "Semestre": "0",
+        "Apelido": "ATENÇÃO PRIMÁRIA II",
+        "CargaHorariaTeorico": 0,
+        "CargaHorariaPratica": 0,
+        "ListaPrequisitos": []
+      },
+      {
+        "Id": 60213,
+        "Codigo": "1005.000.208-5",
+        "Descricao": "ATENÇÃO PRIMÁRIA I",
+        "Semestre": "0",
+        "Apelido": "ATENÇÃO PRIMÁRIA I",
+        "CargaHorariaTeorico": 0,
+        "CargaHorariaPratica": 0,
+        "ListaPrequisitos": []
+      },
+      {
+        "Id": 60214,
+        "Codigo": "1005.000.209-4",
+        "Descricao": "BASES BIOLÓGICAS DA PRÁTICA MÉDICA IV",
+        "Semestre": "0",
+        "Apelido": "BASES BIOLÓGICAS DA PRÁTICA MÉDICA IV",
+        "CargaHorariaTeorico": 0,
+        "CargaHorariaPratica": 0,
+        "ListaPrequisitos": []
+      },
+      {
+        "Id": 60217,
+        "Codigo": "2701.000.691-1",
+        "Descricao": "BASES BIOLÓGICAS DA PRÁTICA MÉDICA I",
+        "Semestre": "0",
+        "Apelido": "BASES BIOLÓGICAS DA PRÁTICA MÉDICA I",
+        "CargaHorariaTeorico": 0,
+        "CargaHorariaPratica": 0,
+        "ListaPrequisitos": []
+      },
+      {
+        "Id": 60218,
+        "Codigo": "2701.000.692-0",
+        "Descricao": "BASES BIOLÓGICAS DA PRÁTICA MÉDICA II",
+        "Semestre": "0",
+        "Apelido": "BASES BIOLÓGICAS DA PRÁTICA MÉDICA II",
+        "CargaHorariaTeorico": 0,
+        "CargaHorariaPratica": 0,
+        "ListaPrequisitos": []
+      }
+    ]
+  },
+  {
+    "Id": 51523,
+    "Codigo": "1005.000.120-1",
+    "Tipo": "OBR",
+    "Descricao": "ESTÁGIO OBRIGATÓRIO EM SAÚDE DA MULHER I",
+    "Semestre": 9,
+    "Apelido": "ESTÁGIO OBRIGATÓRIO EM SAÚDE DA MULHER I",
+    "CargaHorariaTeorico": 320,
+    "CargaHorariaPratica": null,
+    "ListaPrequisitos": [
+      {
+        "Id": 60146,
+        "Codigo": "1005.000.141-7",
+        "Descricao": "HABILIDADES CLÍNICAS DA PRÁTICA MÉDICA XI",
+        "Semestre": "0",
+        "Apelido": "HABILIDADES CLÍNICAS DA PRÁTICA MÉDICA XI",
+        "CargaHorariaTeorico": 0,
+        "CargaHorariaPratica": 0,
+        "ListaPrequisitos": []
+      },
+      {
+        "Id": 60147,
+        "Codigo": "1005.000.142-6",
+        "Descricao": "CIRURGIA III",
+        "Semestre": "0",
+        "Apelido": "CIRURGIA III",
+        "CargaHorariaTeorico": 0,
+        "CargaHorariaPratica": 0,
+        "ListaPrequisitos": []
+      },
+      {
+        "Id": 60149,
+        "Codigo": "1005.000.144-4",
+        "Descricao": "BASES BIOLOGICAS DA PRÁTICA MÉDICA XII",
+        "Semestre": "0",
+        "Apelido": "BASES BIOLOGICAS DA PRÁTICA MÉDICA XII",
+        "CargaHorariaTeorico": 0,
+        "CargaHorariaPratica": 0,
+        "ListaPrequisitos": []
+      },
+      {
+        "Id": 60152,
+        "Codigo": "1005.000.147-1",
+        "Descricao": "CIRURGIA I",
+        "Semestre": "0",
+        "Apelido": "CIRURGIA I",
+        "CargaHorariaTeorico": 0,
+        "CargaHorariaPratica": 0,
+        "ListaPrequisitos": []
+      },
+      {
+        "Id": 60155,
+        "Codigo": "1005.000.150-6",
+        "Descricao": "HABILIDADES CLÍNICAS DA PRÁTICA MÉDICA III",
+        "Semestre": "0",
+        "Apelido": "HABILIDADES CLÍNICAS DA PRÁTICA MÉDICA III",
+        "CargaHorariaTeorico": 0,
+        "CargaHorariaPratica": 0,
+        "ListaPrequisitos": []
+      },
+      {
+        "Id": 60156,
+        "Codigo": "1005.000.151-5",
+        "Descricao": "BASES BIOLÓGICAS DA PRÁTICA MÉDICA III",
+        "Semestre": "0",
+        "Apelido": "BASES BIOLÓGICAS DA PRÁTICA MÉDICA III",
+        "CargaHorariaTeorico": 0,
+        "CargaHorariaPratica": 0,
+        "ListaPrequisitos": []
+      },
+      {
+        "Id": 60157,
+        "Codigo": "1005.000.152-4",
+        "Descricao": "BASES BIOLÓGICAS DA PRÁTICA MÉDICA VII",
+        "Semestre": "0",
+        "Apelido": "BASES BIOLÓGICAS DA PRÁTICA MÉDICA VII",
+        "CargaHorariaTeorico": 0,
+        "CargaHorariaPratica": 0,
+        "ListaPrequisitos": []
+      },
+      {
+        "Id": 60158,
+        "Codigo": "1005.000.153-3",
+        "Descricao": "BASES BIOLÓGICAS DA PRÁTICA MÉDICA VIII",
+        "Semestre": "0",
+        "Apelido": "BASES BIOLÓGICAS DA PRÁTICA MÉDICA VIII",
+        "CargaHorariaTeorico": 0,
+        "CargaHorariaPratica": 0,
+        "ListaPrequisitos": []
+      },
+      {
+        "Id": 60159,
+        "Codigo": "1005.000.154-2",
+        "Descricao": "BASES BIOLÓGICAS DA PRÁTICA MÉDICA IX",
+        "Semestre": "0",
+        "Apelido": "BASES BIOLÓGICAS DA PRÁTICA MÉDICA IX",
+        "CargaHorariaTeorico": 0,
+        "CargaHorariaPratica": 0,
+        "ListaPrequisitos": []
+      },
+      {
+        "Id": 60160,
+        "Codigo": "1005.000.155-1",
+        "Descricao": "ATENÇÃO PRIMÁRIA VIII",
+        "Semestre": "0",
+        "Apelido": "ATENÇÃO PRIMÁRIA VIII",
+        "CargaHorariaTeorico": 0,
+        "CargaHorariaPratica": 0,
+        "ListaPrequisitos": []
+      },
+      {
+        "Id": 60161,
+        "Codigo": "1005.000.156-0",
+        "Descricao": "CIRURGIA II",
+        "Semestre": "0",
+        "Apelido": "CIRURGIA II",
+        "CargaHorariaTeorico": 0,
+        "CargaHorariaPratica": 0,
+        "ListaPrequisitos": []
+      },
+      {
+        "Id": 60162,
+        "Codigo": "1005.000.157-0",
+        "Descricao": "HABILIDADES CLÍNICAS DA PRÁTICA MÉDICA VIII",
+        "Semestre": "0",
+        "Apelido": "HABILIDADES CLÍNICAS DA PRÁTICA MÉDICA VIII",
+        "CargaHorariaTeorico": 0,
+        "CargaHorariaPratica": 0,
+        "ListaPrequisitos": []
+      },
+      {
+        "Id": 60163,
+        "Codigo": "1005.000.158-9",
+        "Descricao": "BASES COMPLEMENTARES DA MEDICINA II",
+        "Semestre": "0",
+        "Apelido": "BASES COMPLEMENTARES DA MEDICINA II",
+        "CargaHorariaTeorico": 0,
+        "CargaHorariaPratica": 0,
+        "ListaPrequisitos": []
+      },
+      {
+        "Id": 60164,
+        "Codigo": "1005.000.159-8",
+        "Descricao": "HABILIDADES CLÍNICAS DA PRÁTICA MÉDICA X",
+        "Semestre": "0",
+        "Apelido": "HABILIDADES CLÍNICAS DA PRÁTICA MÉDICA X",
+        "CargaHorariaTeorico": 0,
+        "CargaHorariaPratica": 0,
+        "ListaPrequisitos": []
+      },
+      {
+        "Id": 60167,
+        "Codigo": "1005.000.162-2",
+        "Descricao": "ATENÇÃO PRIMÁRIA VII",
+        "Semestre": "0",
+        "Apelido": "ATENÇÃO PRIMÁRIA VII",
+        "CargaHorariaTeorico": 0,
+        "CargaHorariaPratica": 0,
+        "ListaPrequisitos": []
+      },
+      {
+        "Id": 60168,
+        "Codigo": "1005.000.163-1",
+        "Descricao": "HABILIDADES CLÍNICAS DA PRÁTICA MÉDICA IV",
+        "Semestre": "0",
+        "Apelido": "HABILIDADES CLÍNICAS DA PRÁTICA MÉDICA IV",
+        "CargaHorariaTeorico": 0,
+        "CargaHorariaPratica": 0,
+        "ListaPrequisitos": []
+      },
+      {
+        "Id": 60170,
+        "Codigo": "1005.000.165-0",
+        "Descricao": "BASES COMPLEMENTARES DA MEDICINA V",
+        "Semestre": "0",
+        "Apelido": "BASES COMPLEMENTARES DA MEDICINA V",
+        "CargaHorariaTeorico": 0,
+        "CargaHorariaPratica": 0,
+        "ListaPrequisitos": []
+      },
+      {
+        "Id": 60174,
+        "Codigo": "1005.000.169-6",
+        "Descricao": "HABILIDADES CLÍNICAS DA PRÁTICA MÉDICA IX",
+        "Semestre": "0",
+        "Apelido": "HABILIDADES CLÍNICAS DA PRÁTICA MÉDICA IX",
+        "CargaHorariaTeorico": 0,
+        "CargaHorariaPratica": 0,
+        "ListaPrequisitos": []
+      },
+      {
+        "Id": 60175,
+        "Codigo": "1005.000.170-2",
+        "Descricao": "HABILIDADES CLÍNICAS DA PRÁTICA MÉDICA VII",
+        "Semestre": "0",
+        "Apelido": "HABILIDADES CLÍNICAS DA PRÁTICA MÉDICA VII",
+        "CargaHorariaTeorico": 0,
+        "CargaHorariaPratica": 0,
+        "ListaPrequisitos": []
+      },
+      {
+        "Id": 60176,
+        "Codigo": "1005.000.171-1",
+        "Descricao": "BASES BIOLÓGICAS DA PRÁTICA MÉDICA V",
+        "Semestre": "0",
+        "Apelido": "BASES BIOLÓGICAS DA PRÁTICA MÉDICA V",
+        "CargaHorariaTeorico": 0,
+        "CargaHorariaPratica": 0,
+        "ListaPrequisitos": []
+      },
+      {
+        "Id": 60177,
+        "Codigo": "1005.000.172-0",
+        "Descricao": "BASES BIOLÓGICAS DA PRÁTICA MÉDICA VI",
+        "Semestre": "0",
+        "Apelido": "BASES BIOLÓGICAS DA PRÁTICA MÉDICA VI",
+        "CargaHorariaTeorico": 0,
+        "CargaHorariaPratica": 0,
+        "ListaPrequisitos": []
+      },
+      {
+        "Id": 60178,
+        "Codigo": "1005.000.173-0",
+        "Descricao": "URGÊNCIA E EMERGÊNCIA II",
+        "Semestre": "0",
+        "Apelido": "URGÊNCIA E EMERGÊNCIA II",
+        "CargaHorariaTeorico": 0,
+        "CargaHorariaPratica": 0,
+        "ListaPrequisitos": []
+      },
+      {
+        "Id": 60179,
+        "Codigo": "1005.000.174-9",
+        "Descricao": "HABILIDADES CLÍNICAS DA PRÁTICA MÉDICA I",
+        "Semestre": "0",
+        "Apelido": "HABILIDADES CLÍNICAS DA PRÁTICA MÉDICA I",
+        "CargaHorariaTeorico": 0,
+        "CargaHorariaPratica": 0,
+        "ListaPrequisitos": []
+      },
+      {
+        "Id": 60180,
+        "Codigo": "1005.000.175-8",
+        "Descricao": "HABILIDADES CLÍNICAS DA PRÁTICA MÉDICA II",
+        "Semestre": "0",
+        "Apelido": "HABILIDADES CLÍNICAS DA PRÁTICA MÉDICA II",
+        "CargaHorariaTeorico": 0,
+        "CargaHorariaPratica": 0,
+        "ListaPrequisitos": []
+      },
+      {
+        "Id": 60184,
+        "Codigo": "1005.000.179-4",
+        "Descricao": "URGÊNCIA E EMERGÊNCIA I",
+        "Semestre": "0",
+        "Apelido": "URGÊNCIA E EMERGÊNCIA I",
+        "CargaHorariaTeorico": 0,
+        "CargaHorariaPratica": 0,
+        "ListaPrequisitos": []
+      },
+      {
+        "Id": 60186,
+        "Codigo": "1005.000.181-0",
+        "Descricao": "BASES BIOLÓGICAS DA PRÁTICA MÉDICA XI",
+        "Semestre": "0",
+        "Apelido": "BASES BIOLÓGICAS DA PRÁTICA MÉDICA XI",
+        "CargaHorariaTeorico": 0,
+        "CargaHorariaPratica": 0,
+        "ListaPrequisitos": []
+      },
+      {
+        "Id": 60187,
+        "Codigo": "1005.000.182-9",
+        "Descricao": "BASES COMPLEMENTARES DA MEDICINA VI",
+        "Semestre": "0",
+        "Apelido": "BASES COMPLEMENTARES DA MEDICINA VI",
+        "CargaHorariaTeorico": 0,
+        "CargaHorariaPratica": 0,
+        "ListaPrequisitos": []
+      },
+      {
+        "Id": 60189,
+        "Codigo": "1005.000.184-7",
+        "Descricao": "URGÊNCIA E EMERGÊNCIA IV",
+        "Semestre": "0",
+        "Apelido": "URGÊNCIA E EMERGÊNCIA IV",
+        "CargaHorariaTeorico": 0,
+        "CargaHorariaPratica": 0,
+        "ListaPrequisitos": []
+      },
+      {
+        "Id": 60190,
+        "Codigo": "1005.000.185-6",
+        "Descricao": "BASES COMPLEMENTARES DA MEDICINA I",
+        "Semestre": "0",
+        "Apelido": "BASES COMPLEMENTARES DA MEDICINA I",
+        "CargaHorariaTeorico": 0,
+        "CargaHorariaPratica": 0,
+        "ListaPrequisitos": []
+      },
+      {
+        "Id": 60191,
+        "Codigo": "1005.000.186-5",
+        "Descricao": "URGÊNCIA E EMERGÊNCIA III",
+        "Semestre": "0",
+        "Apelido": "URGÊNCIA E EMERGÊNCIA III",
+        "CargaHorariaTeorico": 0,
+        "CargaHorariaPratica": 0,
+        "ListaPrequisitos": []
+      },
+      {
+        "Id": 60193,
+        "Codigo": "1005.000.188-3",
+        "Descricao": "ATENÇÃO PRIMÁRIA V",
+        "Semestre": "0",
+        "Apelido": "ATENÇÃO PRIMÁRIA V",
+        "CargaHorariaTeorico": 0,
+        "CargaHorariaPratica": 0,
+        "ListaPrequisitos": []
+      },
+      {
+        "Id": 60194,
+        "Codigo": "1005.000.189-2",
+        "Descricao": "HABILIDADES CLÍNICAS DA PRÁTICA MÉDICA VI",
+        "Semestre": "0",
+        "Apelido": "HABILIDADES CLÍNICAS DA PRÁTICA MÉDICA VI",
+        "CargaHorariaTeorico": 0,
+        "CargaHorariaPratica": 0,
+        "ListaPrequisitos": []
+      },
+      {
+        "Id": 60195,
+        "Codigo": "1005.000.190-9",
+        "Descricao": "HABILIDADES CLÍNICAS DA PRÁTICA MÉDICA XII",
+        "Semestre": "0",
+        "Apelido": "HABILIDADES CLÍNICAS DA PRÁTICA MÉDICA XII",
+        "CargaHorariaTeorico": 0,
+        "CargaHorariaPratica": 0,
+        "ListaPrequisitos": []
+      },
+      {
+        "Id": 60196,
+        "Codigo": "1005.000.191-8",
+        "Descricao": "ATENÇÃO PRIMÁRIA VI",
+        "Semestre": "0",
+        "Apelido": "ATENÇÃO PRIMÁRIA VI",
+        "CargaHorariaTeorico": 0,
+        "CargaHorariaPratica": 0,
+        "ListaPrequisitos": []
+      },
+      {
+        "Id": 60197,
+        "Codigo": "1005.000.192-7",
+        "Descricao": "BASES COMPLEMENTARES DA MEDICINA IV",
+        "Semestre": "0",
+        "Apelido": "BASES COMPLEMENTARES DA MEDICINA IV",
+        "CargaHorariaTeorico": 0,
+        "CargaHorariaPratica": 0,
+        "ListaPrequisitos": []
+      },
+      {
+        "Id": 60198,
+        "Codigo": "1005.000.193-6",
+        "Descricao": "CIRURGIA IV",
+        "Semestre": "0",
+        "Apelido": "CIRURGIA IV",
+        "CargaHorariaTeorico": 0,
+        "CargaHorariaPratica": 0,
+        "ListaPrequisitos": []
+      },
+      {
+        "Id": 60201,
+        "Codigo": "1005.000.196-3",
+        "Descricao": "HABILIDADES CLÍNICAS DA PRÁTICA MÉDICA V",
+        "Semestre": "0",
+        "Apelido": "HABILIDADES CLÍNICAS DA PRÁTICA MÉDICA V",
+        "CargaHorariaTeorico": 0,
+        "CargaHorariaPratica": 0,
+        "ListaPrequisitos": []
+      },
+      {
+        "Id": 60202,
+        "Codigo": "1005.000.197-2",
+        "Descricao": "BASES COMPLEMENTARES DA MEDICINA VII",
+        "Semestre": "0",
+        "Apelido": "BASES COMPLEMENTARES DA MEDICINA VII",
+        "CargaHorariaTeorico": 0,
+        "CargaHorariaPratica": 0,
+        "ListaPrequisitos": []
+      },
+      {
+        "Id": 60206,
+        "Codigo": "1005.000.201-1",
+        "Descricao": "BASES COMPLEMENTARES DA MEDICINA VIII",
+        "Semestre": "0",
+        "Apelido": "BASES COMPLEMENTARES DA MEDICINA VIII",
+        "CargaHorariaTeorico": 0,
+        "CargaHorariaPratica": 0,
+        "ListaPrequisitos": []
+      },
+      {
+        "Id": 60208,
+        "Codigo": "1005.000.203-0",
+        "Descricao": "ATENÇÃO PRIMÁRIA III",
+        "Semestre": "0",
+        "Apelido": "ATENÇÃO PRIMÁRIA III",
+        "CargaHorariaTeorico": 0,
+        "CargaHorariaPratica": 0,
+        "ListaPrequisitos": []
+      },
+      {
+        "Id": 60209,
+        "Codigo": "1005.000.204-9",
+        "Descricao": "ATENÇÃO PRIMÁRIA IV",
+        "Semestre": "0",
+        "Apelido": "ATENÇÃO PRIMÁRIA IV",
+        "CargaHorariaTeorico": 0,
+        "CargaHorariaPratica": 0,
+        "ListaPrequisitos": []
+      },
+      {
+        "Id": 60210,
+        "Codigo": "1005.000.205-8",
+        "Descricao": "BASES COMPLEMENTARES DA MEDICINA III",
+        "Semestre": "0",
+        "Apelido": "BASES COMPLEMENTARES DA MEDICINA III",
+        "CargaHorariaTeorico": 0,
+        "CargaHorariaPratica": 0,
+        "ListaPrequisitos": []
+      },
+      {
+        "Id": 60211,
+        "Codigo": "1005.000.206-7",
+        "Descricao": "BASES BIOLÓGICAS DA PRÁTICA MÉDICA X",
+        "Semestre": "0",
+        "Apelido": "BASES BIOLÓGICAS DA PRÁTICA MÉDICA X",
+        "CargaHorariaTeorico": 0,
+        "CargaHorariaPratica": 0,
+        "ListaPrequisitos": []
+      },
+      {
+        "Id": 60212,
+        "Codigo": "1005.000.207-6",
+        "Descricao": "ATENÇÃO PRIMÁRIA II",
+        "Semestre": "0",
+        "Apelido": "ATENÇÃO PRIMÁRIA II",
+        "CargaHorariaTeorico": 0,
+        "CargaHorariaPratica": 0,
+        "ListaPrequisitos": []
+      },
+      {
+        "Id": 60213,
+        "Codigo": "1005.000.208-5",
+        "Descricao": "ATENÇÃO PRIMÁRIA I",
+        "Semestre": "0",
+        "Apelido": "ATENÇÃO PRIMÁRIA I",
+        "CargaHorariaTeorico": 0,
+        "CargaHorariaPratica": 0,
+        "ListaPrequisitos": []
+      },
+      {
+        "Id": 60214,
+        "Codigo": "1005.000.209-4",
+        "Descricao": "BASES BIOLÓGICAS DA PRÁTICA MÉDICA IV",
+        "Semestre": "0",
+        "Apelido": "BASES BIOLÓGICAS DA PRÁTICA MÉDICA IV",
+        "CargaHorariaTeorico": 0,
+        "CargaHorariaPratica": 0,
+        "ListaPrequisitos": []
+      },
+      {
+        "Id": 60217,
+        "Codigo": "2701.000.691-1",
+        "Descricao": "BASES BIOLÓGICAS DA PRÁTICA MÉDICA I",
+        "Semestre": "0",
+        "Apelido": "BASES BIOLÓGICAS DA PRÁTICA MÉDICA I",
+        "CargaHorariaTeorico": 0,
+        "CargaHorariaPratica": 0,
+        "ListaPrequisitos": []
+      },
+      {
+        "Id": 60218,
+        "Codigo": "2701.000.692-0",
+        "Descricao": "BASES BIOLÓGICAS DA PRÁTICA MÉDICA II",
+        "Semestre": "0",
+        "Apelido": "BASES BIOLÓGICAS DA PRÁTICA MÉDICA II",
+        "CargaHorariaTeorico": 0,
+        "CargaHorariaPratica": 0,
+        "ListaPrequisitos": []
+      }
+    ]
+  },
+  {
+    "Id": 51476,
+    "Codigo": "1005.000.073-2",
+    "Tipo": "OBR",
+    "Descricao": "ESTÁGIO OBRIGATÓRIO EM URGÊNCIAS E EMERGÊNCIAS CIRÚRGICAS",
+    "Semestre": 9,
+    "Apelido": "ESTÁGIO OBRIGATÓRIO EM URGÊNCIAS E EMERGÊNCIAS CIRÚRGICAS",
+    "CargaHorariaTeorico": 160,
+    "CargaHorariaPratica": null,
+    "ListaPrequisitos": [
+      {
+        "Id": 60146,
+        "Codigo": "1005.000.141-7",
+        "Descricao": "HABILIDADES CLÍNICAS DA PRÁTICA MÉDICA XI",
+        "Semestre": "0",
+        "Apelido": "HABILIDADES CLÍNICAS DA PRÁTICA MÉDICA XI",
+        "CargaHorariaTeorico": 0,
+        "CargaHorariaPratica": 0,
+        "ListaPrequisitos": []
+      },
+      {
+        "Id": 60147,
+        "Codigo": "1005.000.142-6",
+        "Descricao": "CIRURGIA III",
+        "Semestre": "0",
+        "Apelido": "CIRURGIA III",
+        "CargaHorariaTeorico": 0,
+        "CargaHorariaPratica": 0,
+        "ListaPrequisitos": []
+      },
+      {
+        "Id": 60149,
+        "Codigo": "1005.000.144-4",
+        "Descricao": "BASES BIOLOGICAS DA PRÁTICA MÉDICA XII",
+        "Semestre": "0",
+        "Apelido": "BASES BIOLOGICAS DA PRÁTICA MÉDICA XII",
+        "CargaHorariaTeorico": 0,
+        "CargaHorariaPratica": 0,
+        "ListaPrequisitos": []
+      },
+      {
+        "Id": 60152,
+        "Codigo": "1005.000.147-1",
+        "Descricao": "CIRURGIA I",
+        "Semestre": "0",
+        "Apelido": "CIRURGIA I",
+        "CargaHorariaTeorico": 0,
+        "CargaHorariaPratica": 0,
+        "ListaPrequisitos": []
+      },
+      {
+        "Id": 60155,
+        "Codigo": "1005.000.150-6",
+        "Descricao": "HABILIDADES CLÍNICAS DA PRÁTICA MÉDICA III",
+        "Semestre": "0",
+        "Apelido": "HABILIDADES CLÍNICAS DA PRÁTICA MÉDICA III",
+        "CargaHorariaTeorico": 0,
+        "CargaHorariaPratica": 0,
+        "ListaPrequisitos": []
+      },
+      {
+        "Id": 60156,
+        "Codigo": "1005.000.151-5",
+        "Descricao": "BASES BIOLÓGICAS DA PRÁTICA MÉDICA III",
+        "Semestre": "0",
+        "Apelido": "BASES BIOLÓGICAS DA PRÁTICA MÉDICA III",
+        "CargaHorariaTeorico": 0,
+        "CargaHorariaPratica": 0,
+        "ListaPrequisitos": []
+      },
+      {
+        "Id": 60157,
+        "Codigo": "1005.000.152-4",
+        "Descricao": "BASES BIOLÓGICAS DA PRÁTICA MÉDICA VII",
+        "Semestre": "0",
+        "Apelido": "BASES BIOLÓGICAS DA PRÁTICA MÉDICA VII",
+        "CargaHorariaTeorico": 0,
+        "CargaHorariaPratica": 0,
+        "ListaPrequisitos": []
+      },
+      {
+        "Id": 60158,
+        "Codigo": "1005.000.153-3",
+        "Descricao": "BASES BIOLÓGICAS DA PRÁTICA MÉDICA VIII",
+        "Semestre": "0",
+        "Apelido": "BASES BIOLÓGICAS DA PRÁTICA MÉDICA VIII",
+        "CargaHorariaTeorico": 0,
+        "CargaHorariaPratica": 0,
+        "ListaPrequisitos": []
+      },
+      {
+        "Id": 60159,
+        "Codigo": "1005.000.154-2",
+        "Descricao": "BASES BIOLÓGICAS DA PRÁTICA MÉDICA IX",
+        "Semestre": "0",
+        "Apelido": "BASES BIOLÓGICAS DA PRÁTICA MÉDICA IX",
+        "CargaHorariaTeorico": 0,
+        "CargaHorariaPratica": 0,
+        "ListaPrequisitos": []
+      },
+      {
+        "Id": 60160,
+        "Codigo": "1005.000.155-1",
+        "Descricao": "ATENÇÃO PRIMÁRIA VIII",
+        "Semestre": "0",
+        "Apelido": "ATENÇÃO PRIMÁRIA VIII",
+        "CargaHorariaTeorico": 0,
+        "CargaHorariaPratica": 0,
+        "ListaPrequisitos": []
+      },
+      {
+        "Id": 60161,
+        "Codigo": "1005.000.156-0",
+        "Descricao": "CIRURGIA II",
+        "Semestre": "0",
+        "Apelido": "CIRURGIA II",
+        "CargaHorariaTeorico": 0,
+        "CargaHorariaPratica": 0,
+        "ListaPrequisitos": []
+      },
+      {
+        "Id": 60162,
+        "Codigo": "1005.000.157-0",
+        "Descricao": "HABILIDADES CLÍNICAS DA PRÁTICA MÉDICA VIII",
+        "Semestre": "0",
+        "Apelido": "HABILIDADES CLÍNICAS DA PRÁTICA MÉDICA VIII",
+        "CargaHorariaTeorico": 0,
+        "CargaHorariaPratica": 0,
+        "ListaPrequisitos": []
+      },
+      {
+        "Id": 60163,
+        "Codigo": "1005.000.158-9",
+        "Descricao": "BASES COMPLEMENTARES DA MEDICINA II",
+        "Semestre": "0",
+        "Apelido": "BASES COMPLEMENTARES DA MEDICINA II",
+        "CargaHorariaTeorico": 0,
+        "CargaHorariaPratica": 0,
+        "ListaPrequisitos": []
+      },
+      {
+        "Id": 60164,
+        "Codigo": "1005.000.159-8",
+        "Descricao": "HABILIDADES CLÍNICAS DA PRÁTICA MÉDICA X",
+        "Semestre": "0",
+        "Apelido": "HABILIDADES CLÍNICAS DA PRÁTICA MÉDICA X",
+        "CargaHorariaTeorico": 0,
+        "CargaHorariaPratica": 0,
+        "ListaPrequisitos": []
+      },
+      {
+        "Id": 60167,
+        "Codigo": "1005.000.162-2",
+        "Descricao": "ATENÇÃO PRIMÁRIA VII",
+        "Semestre": "0",
+        "Apelido": "ATENÇÃO PRIMÁRIA VII",
+        "CargaHorariaTeorico": 0,
+        "CargaHorariaPratica": 0,
+        "ListaPrequisitos": []
+      },
+      {
+        "Id": 60168,
+        "Codigo": "1005.000.163-1",
+        "Descricao": "HABILIDADES CLÍNICAS DA PRÁTICA MÉDICA IV",
+        "Semestre": "0",
+        "Apelido": "HABILIDADES CLÍNICAS DA PRÁTICA MÉDICA IV",
+        "CargaHorariaTeorico": 0,
+        "CargaHorariaPratica": 0,
+        "ListaPrequisitos": []
+      },
+      {
+        "Id": 60170,
+        "Codigo": "1005.000.165-0",
+        "Descricao": "BASES COMPLEMENTARES DA MEDICINA V",
+        "Semestre": "0",
+        "Apelido": "BASES COMPLEMENTARES DA MEDICINA V",
+        "CargaHorariaTeorico": 0,
+        "CargaHorariaPratica": 0,
+        "ListaPrequisitos": []
+      },
+      {
+        "Id": 60174,
+        "Codigo": "1005.000.169-6",
+        "Descricao": "HABILIDADES CLÍNICAS DA PRÁTICA MÉDICA IX",
+        "Semestre": "0",
+        "Apelido": "HABILIDADES CLÍNICAS DA PRÁTICA MÉDICA IX",
+        "CargaHorariaTeorico": 0,
+        "CargaHorariaPratica": 0,
+        "ListaPrequisitos": []
+      },
+      {
+        "Id": 60175,
+        "Codigo": "1005.000.170-2",
+        "Descricao": "HABILIDADES CLÍNICAS DA PRÁTICA MÉDICA VII",
+        "Semestre": "0",
+        "Apelido": "HABILIDADES CLÍNICAS DA PRÁTICA MÉDICA VII",
+        "CargaHorariaTeorico": 0,
+        "CargaHorariaPratica": 0,
+        "ListaPrequisitos": []
+      },
+      {
+        "Id": 60176,
+        "Codigo": "1005.000.171-1",
+        "Descricao": "BASES BIOLÓGICAS DA PRÁTICA MÉDICA V",
+        "Semestre": "0",
+        "Apelido": "BASES BIOLÓGICAS DA PRÁTICA MÉDICA V",
+        "CargaHorariaTeorico": 0,
+        "CargaHorariaPratica": 0,
+        "ListaPrequisitos": []
+      },
+      {
+        "Id": 60177,
+        "Codigo": "1005.000.172-0",
+        "Descricao": "BASES BIOLÓGICAS DA PRÁTICA MÉDICA VI",
+        "Semestre": "0",
+        "Apelido": "BASES BIOLÓGICAS DA PRÁTICA MÉDICA VI",
+        "CargaHorariaTeorico": 0,
+        "CargaHorariaPratica": 0,
+        "ListaPrequisitos": []
+      },
+      {
+        "Id": 60178,
+        "Codigo": "1005.000.173-0",
+        "Descricao": "URGÊNCIA E EMERGÊNCIA II",
+        "Semestre": "0",
+        "Apelido": "URGÊNCIA E EMERGÊNCIA II",
+        "CargaHorariaTeorico": 0,
+        "CargaHorariaPratica": 0,
+        "ListaPrequisitos": []
+      },
+      {
+        "Id": 60179,
+        "Codigo": "1005.000.174-9",
+        "Descricao": "HABILIDADES CLÍNICAS DA PRÁTICA MÉDICA I",
+        "Semestre": "0",
+        "Apelido": "HABILIDADES CLÍNICAS DA PRÁTICA MÉDICA I",
+        "CargaHorariaTeorico": 0,
+        "CargaHorariaPratica": 0,
+        "ListaPrequisitos": []
+      },
+      {
+        "Id": 60180,
+        "Codigo": "1005.000.175-8",
+        "Descricao": "HABILIDADES CLÍNICAS DA PRÁTICA MÉDICA II",
+        "Semestre": "0",
+        "Apelido": "HABILIDADES CLÍNICAS DA PRÁTICA MÉDICA II",
+        "CargaHorariaTeorico": 0,
+        "CargaHorariaPratica": 0,
+        "ListaPrequisitos": []
+      },
+      {
+        "Id": 60184,
+        "Codigo": "1005.000.179-4",
+        "Descricao": "URGÊNCIA E EMERGÊNCIA I",
+        "Semestre": "0",
+        "Apelido": "URGÊNCIA E EMERGÊNCIA I",
+        "CargaHorariaTeorico": 0,
+        "CargaHorariaPratica": 0,
+        "ListaPrequisitos": []
+      },
+      {
+        "Id": 60186,
+        "Codigo": "1005.000.181-0",
+        "Descricao": "BASES BIOLÓGICAS DA PRÁTICA MÉDICA XI",
+        "Semestre": "0",
+        "Apelido": "BASES BIOLÓGICAS DA PRÁTICA MÉDICA XI",
+        "CargaHorariaTeorico": 0,
+        "CargaHorariaPratica": 0,
+        "ListaPrequisitos": []
+      },
+      {
+        "Id": 60187,
+        "Codigo": "1005.000.182-9",
+        "Descricao": "BASES COMPLEMENTARES DA MEDICINA VI",
+        "Semestre": "0",
+        "Apelido": "BASES COMPLEMENTARES DA MEDICINA VI",
+        "CargaHorariaTeorico": 0,
+        "CargaHorariaPratica": 0,
+        "ListaPrequisitos": []
+      },
+      {
+        "Id": 60189,
+        "Codigo": "1005.000.184-7",
+        "Descricao": "URGÊNCIA E EMERGÊNCIA IV",
+        "Semestre": "0",
+        "Apelido": "URGÊNCIA E EMERGÊNCIA IV",
+        "CargaHorariaTeorico": 0,
+        "CargaHorariaPratica": 0,
+        "ListaPrequisitos": []
+      },
+      {
+        "Id": 60190,
+        "Codigo": "1005.000.185-6",
+        "Descricao": "BASES COMPLEMENTARES DA MEDICINA I",
+        "Semestre": "0",
+        "Apelido": "BASES COMPLEMENTARES DA MEDICINA I",
+        "CargaHorariaTeorico": 0,
+        "CargaHorariaPratica": 0,
+        "ListaPrequisitos": []
+      },
+      {
+        "Id": 60191,
+        "Codigo": "1005.000.186-5",
+        "Descricao": "URGÊNCIA E EMERGÊNCIA III",
+        "Semestre": "0",
+        "Apelido": "URGÊNCIA E EMERGÊNCIA III",
+        "CargaHorariaTeorico": 0,
+        "CargaHorariaPratica": 0,
+        "ListaPrequisitos": []
+      },
+      {
+        "Id": 60193,
+        "Codigo": "1005.000.188-3",
+        "Descricao": "ATENÇÃO PRIMÁRIA V",
+        "Semestre": "0",
+        "Apelido": "ATENÇÃO PRIMÁRIA V",
+        "CargaHorariaTeorico": 0,
+        "CargaHorariaPratica": 0,
+        "ListaPrequisitos": []
+      },
+      {
+        "Id": 60194,
+        "Codigo": "1005.000.189-2",
+        "Descricao": "HABILIDADES CLÍNICAS DA PRÁTICA MÉDICA VI",
+        "Semestre": "0",
+        "Apelido": "HABILIDADES CLÍNICAS DA PRÁTICA MÉDICA VI",
+        "CargaHorariaTeorico": 0,
+        "CargaHorariaPratica": 0,
+        "ListaPrequisitos": []
+      },
+      {
+        "Id": 60195,
+        "Codigo": "1005.000.190-9",
+        "Descricao": "HABILIDADES CLÍNICAS DA PRÁTICA MÉDICA XII",
+        "Semestre": "0",
+        "Apelido": "HABILIDADES CLÍNICAS DA PRÁTICA MÉDICA XII",
+        "CargaHorariaTeorico": 0,
+        "CargaHorariaPratica": 0,
+        "ListaPrequisitos": []
+      },
+      {
+        "Id": 60196,
+        "Codigo": "1005.000.191-8",
+        "Descricao": "ATENÇÃO PRIMÁRIA VI",
+        "Semestre": "0",
+        "Apelido": "ATENÇÃO PRIMÁRIA VI",
+        "CargaHorariaTeorico": 0,
+        "CargaHorariaPratica": 0,
+        "ListaPrequisitos": []
+      },
+      {
+        "Id": 60197,
+        "Codigo": "1005.000.192-7",
+        "Descricao": "BASES COMPLEMENTARES DA MEDICINA IV",
+        "Semestre": "0",
+        "Apelido": "BASES COMPLEMENTARES DA MEDICINA IV",
+        "CargaHorariaTeorico": 0,
+        "CargaHorariaPratica": 0,
+        "ListaPrequisitos": []
+      },
+      {
+        "Id": 60198,
+        "Codigo": "1005.000.193-6",
+        "Descricao": "CIRURGIA IV",
+        "Semestre": "0",
+        "Apelido": "CIRURGIA IV",
+        "CargaHorariaTeorico": 0,
+        "CargaHorariaPratica": 0,
+        "ListaPrequisitos": []
+      },
+      {
+        "Id": 60201,
+        "Codigo": "1005.000.196-3",
+        "Descricao": "HABILIDADES CLÍNICAS DA PRÁTICA MÉDICA V",
+        "Semestre": "0",
+        "Apelido": "HABILIDADES CLÍNICAS DA PRÁTICA MÉDICA V",
+        "CargaHorariaTeorico": 0,
+        "CargaHorariaPratica": 0,
+        "ListaPrequisitos": []
+      },
+      {
+        "Id": 60202,
+        "Codigo": "1005.000.197-2",
+        "Descricao": "BASES COMPLEMENTARES DA MEDICINA VII",
+        "Semestre": "0",
+        "Apelido": "BASES COMPLEMENTARES DA MEDICINA VII",
+        "CargaHorariaTeorico": 0,
+        "CargaHorariaPratica": 0,
+        "ListaPrequisitos": []
+      },
+      {
+        "Id": 60206,
+        "Codigo": "1005.000.201-1",
+        "Descricao": "BASES COMPLEMENTARES DA MEDICINA VIII",
+        "Semestre": "0",
+        "Apelido": "BASES COMPLEMENTARES DA MEDICINA VIII",
+        "CargaHorariaTeorico": 0,
+        "CargaHorariaPratica": 0,
+        "ListaPrequisitos": []
+      },
+      {
+        "Id": 60208,
+        "Codigo": "1005.000.203-0",
+        "Descricao": "ATENÇÃO PRIMÁRIA III",
+        "Semestre": "0",
+        "Apelido": "ATENÇÃO PRIMÁRIA III",
+        "CargaHorariaTeorico": 0,
+        "CargaHorariaPratica": 0,
+        "ListaPrequisitos": []
+      },
+      {
+        "Id": 60209,
+        "Codigo": "1005.000.204-9",
+        "Descricao": "ATENÇÃO PRIMÁRIA IV",
+        "Semestre": "0",
+        "Apelido": "ATENÇÃO PRIMÁRIA IV",
+        "CargaHorariaTeorico": 0,
+        "CargaHorariaPratica": 0,
+        "ListaPrequisitos": []
+      },
+      {
+        "Id": 60210,
+        "Codigo": "1005.000.205-8",
+        "Descricao": "BASES COMPLEMENTARES DA MEDICINA III",
+        "Semestre": "0",
+        "Apelido": "BASES COMPLEMENTARES DA MEDICINA III",
+        "CargaHorariaTeorico": 0,
+        "CargaHorariaPratica": 0,
+        "ListaPrequisitos": []
+      },
+      {
+        "Id": 60211,
+        "Codigo": "1005.000.206-7",
+        "Descricao": "BASES BIOLÓGICAS DA PRÁTICA MÉDICA X",
+        "Semestre": "0",
+        "Apelido": "BASES BIOLÓGICAS DA PRÁTICA MÉDICA X",
+        "CargaHorariaTeorico": 0,
+        "CargaHorariaPratica": 0,
+        "ListaPrequisitos": []
+      },
+      {
+        "Id": 60212,
+        "Codigo": "1005.000.207-6",
+        "Descricao": "ATENÇÃO PRIMÁRIA II",
+        "Semestre": "0",
+        "Apelido": "ATENÇÃO PRIMÁRIA II",
+        "CargaHorariaTeorico": 0,
+        "CargaHorariaPratica": 0,
+        "ListaPrequisitos": []
+      },
+      {
+        "Id": 60213,
+        "Codigo": "1005.000.208-5",
+        "Descricao": "ATENÇÃO PRIMÁRIA I",
+        "Semestre": "0",
+        "Apelido": "ATENÇÃO PRIMÁRIA I",
+        "CargaHorariaTeorico": 0,
+        "CargaHorariaPratica": 0,
+        "ListaPrequisitos": []
+      },
+      {
+        "Id": 60214,
+        "Codigo": "1005.000.209-4",
+        "Descricao": "BASES BIOLÓGICAS DA PRÁTICA MÉDICA IV",
+        "Semestre": "0",
+        "Apelido": "BASES BIOLÓGICAS DA PRÁTICA MÉDICA IV",
+        "CargaHorariaTeorico": 0,
+        "CargaHorariaPratica": 0,
+        "ListaPrequisitos": []
+      },
+      {
+        "Id": 60217,
+        "Codigo": "2701.000.691-1",
+        "Descricao": "BASES BIOLÓGICAS DA PRÁTICA MÉDICA I",
+        "Semestre": "0",
+        "Apelido": "BASES BIOLÓGICAS DA PRÁTICA MÉDICA I",
+        "CargaHorariaTeorico": 0,
+        "CargaHorariaPratica": 0,
+        "ListaPrequisitos": []
+      },
+      {
+        "Id": 60218,
+        "Codigo": "2701.000.692-0",
+        "Descricao": "BASES BIOLÓGICAS DA PRÁTICA MÉDICA II",
+        "Semestre": "0",
+        "Apelido": "BASES BIOLÓGICAS DA PRÁTICA MÉDICA II",
+        "CargaHorariaTeorico": 0,
+        "CargaHorariaPratica": 0,
+        "ListaPrequisitos": []
+      }
+    ]
+  },
+  {
+    "Id": 51493,
+    "Codigo": "1005.000.090-1",
+    "Tipo": "OBR",
+    "Descricao": "ESTÁGIO OBRIGATÓRIO EM URGÊNCIAS E EMERGÊNCIAS CLÍNICAS",
+    "Semestre": 9,
+    "Apelido": "ESTÁGIO OBRIGATÓRIO EM URGÊNCIAS E EMERGÊNCIAS CLÍNICAS",
+    "CargaHorariaTeorico": 160,
+    "CargaHorariaPratica": null,
+    "ListaPrequisitos": [
+      {
+        "Id": 60146,
+        "Codigo": "1005.000.141-7",
+        "Descricao": "HABILIDADES CLÍNICAS DA PRÁTICA MÉDICA XI",
+        "Semestre": "0",
+        "Apelido": "HABILIDADES CLÍNICAS DA PRÁTICA MÉDICA XI",
+        "CargaHorariaTeorico": 0,
+        "CargaHorariaPratica": 0,
+        "ListaPrequisitos": []
+      },
+      {
+        "Id": 60147,
+        "Codigo": "1005.000.142-6",
+        "Descricao": "CIRURGIA III",
+        "Semestre": "0",
+        "Apelido": "CIRURGIA III",
+        "CargaHorariaTeorico": 0,
+        "CargaHorariaPratica": 0,
+        "ListaPrequisitos": []
+      },
+      {
+        "Id": 60149,
+        "Codigo": "1005.000.144-4",
+        "Descricao": "BASES BIOLOGICAS DA PRÁTICA MÉDICA XII",
+        "Semestre": "0",
+        "Apelido": "BASES BIOLOGICAS DA PRÁTICA MÉDICA XII",
+        "CargaHorariaTeorico": 0,
+        "CargaHorariaPratica": 0,
+        "ListaPrequisitos": []
+      },
+      {
+        "Id": 60152,
+        "Codigo": "1005.000.147-1",
+        "Descricao": "CIRURGIA I",
+        "Semestre": "0",
+        "Apelido": "CIRURGIA I",
+        "CargaHorariaTeorico": 0,
+        "CargaHorariaPratica": 0,
+        "ListaPrequisitos": []
+      },
+      {
+        "Id": 60155,
+        "Codigo": "1005.000.150-6",
+        "Descricao": "HABILIDADES CLÍNICAS DA PRÁTICA MÉDICA III",
+        "Semestre": "0",
+        "Apelido": "HABILIDADES CLÍNICAS DA PRÁTICA MÉDICA III",
+        "CargaHorariaTeorico": 0,
+        "CargaHorariaPratica": 0,
+        "ListaPrequisitos": []
+      },
+      {
+        "Id": 60156,
+        "Codigo": "1005.000.151-5",
+        "Descricao": "BASES BIOLÓGICAS DA PRÁTICA MÉDICA III",
+        "Semestre": "0",
+        "Apelido": "BASES BIOLÓGICAS DA PRÁTICA MÉDICA III",
+        "CargaHorariaTeorico": 0,
+        "CargaHorariaPratica": 0,
+        "ListaPrequisitos": []
+      },
+      {
+        "Id": 60157,
+        "Codigo": "1005.000.152-4",
+        "Descricao": "BASES BIOLÓGICAS DA PRÁTICA MÉDICA VII",
+        "Semestre": "0",
+        "Apelido": "BASES BIOLÓGICAS DA PRÁTICA MÉDICA VII",
+        "CargaHorariaTeorico": 0,
+        "CargaHorariaPratica": 0,
+        "ListaPrequisitos": []
+      },
+      {
+        "Id": 60158,
+        "Codigo": "1005.000.153-3",
+        "Descricao": "BASES BIOLÓGICAS DA PRÁTICA MÉDICA VIII",
+        "Semestre": "0",
+        "Apelido": "BASES BIOLÓGICAS DA PRÁTICA MÉDICA VIII",
+        "CargaHorariaTeorico": 0,
+        "CargaHorariaPratica": 0,
+        "ListaPrequisitos": []
+      },
+      {
+        "Id": 60159,
+        "Codigo": "1005.000.154-2",
+        "Descricao": "BASES BIOLÓGICAS DA PRÁTICA MÉDICA IX",
+        "Semestre": "0",
+        "Apelido": "BASES BIOLÓGICAS DA PRÁTICA MÉDICA IX",
+        "CargaHorariaTeorico": 0,
+        "CargaHorariaPratica": 0,
+        "ListaPrequisitos": []
+      },
+      {
+        "Id": 60160,
+        "Codigo": "1005.000.155-1",
+        "Descricao": "ATENÇÃO PRIMÁRIA VIII",
+        "Semestre": "0",
+        "Apelido": "ATENÇÃO PRIMÁRIA VIII",
+        "CargaHorariaTeorico": 0,
+        "CargaHorariaPratica": 0,
+        "ListaPrequisitos": []
+      },
+      {
+        "Id": 60161,
+        "Codigo": "1005.000.156-0",
+        "Descricao": "CIRURGIA II",
+        "Semestre": "0",
+        "Apelido": "CIRURGIA II",
+        "CargaHorariaTeorico": 0,
+        "CargaHorariaPratica": 0,
+        "ListaPrequisitos": []
+      },
+      {
+        "Id": 60162,
+        "Codigo": "1005.000.157-0",
+        "Descricao": "HABILIDADES CLÍNICAS DA PRÁTICA MÉDICA VIII",
+        "Semestre": "0",
+        "Apelido": "HABILIDADES CLÍNICAS DA PRÁTICA MÉDICA VIII",
+        "CargaHorariaTeorico": 0,
+        "CargaHorariaPratica": 0,
+        "ListaPrequisitos": []
+      },
+      {
+        "Id": 60163,
+        "Codigo": "1005.000.158-9",
+        "Descricao": "BASES COMPLEMENTARES DA MEDICINA II",
+        "Semestre": "0",
+        "Apelido": "BASES COMPLEMENTARES DA MEDICINA II",
+        "CargaHorariaTeorico": 0,
+        "CargaHorariaPratica": 0,
+        "ListaPrequisitos": []
+      },
+      {
+        "Id": 60164,
+        "Codigo": "1005.000.159-8",
+        "Descricao": "HABILIDADES CLÍNICAS DA PRÁTICA MÉDICA X",
+        "Semestre": "0",
+        "Apelido": "HABILIDADES CLÍNICAS DA PRÁTICA MÉDICA X",
+        "CargaHorariaTeorico": 0,
+        "CargaHorariaPratica": 0,
+        "ListaPrequisitos": []
+      },
+      {
+        "Id": 60167,
+        "Codigo": "1005.000.162-2",
+        "Descricao": "ATENÇÃO PRIMÁRIA VII",
+        "Semestre": "0",
+        "Apelido": "ATENÇÃO PRIMÁRIA VII",
+        "CargaHorariaTeorico": 0,
+        "CargaHorariaPratica": 0,
+        "ListaPrequisitos": []
+      },
+      {
+        "Id": 60168,
+        "Codigo": "1005.000.163-1",
+        "Descricao": "HABILIDADES CLÍNICAS DA PRÁTICA MÉDICA IV",
+        "Semestre": "0",
+        "Apelido": "HABILIDADES CLÍNICAS DA PRÁTICA MÉDICA IV",
+        "CargaHorariaTeorico": 0,
+        "CargaHorariaPratica": 0,
+        "ListaPrequisitos": []
+      },
+      {
+        "Id": 60170,
+        "Codigo": "1005.000.165-0",
+        "Descricao": "BASES COMPLEMENTARES DA MEDICINA V",
+        "Semestre": "0",
+        "Apelido": "BASES COMPLEMENTARES DA MEDICINA V",
+        "CargaHorariaTeorico": 0,
+        "CargaHorariaPratica": 0,
+        "ListaPrequisitos": []
+      },
+      {
+        "Id": 60174,
+        "Codigo": "1005.000.169-6",
+        "Descricao": "HABILIDADES CLÍNICAS DA PRÁTICA MÉDICA IX",
+        "Semestre": "0",
+        "Apelido": "HABILIDADES CLÍNICAS DA PRÁTICA MÉDICA IX",
+        "CargaHorariaTeorico": 0,
+        "CargaHorariaPratica": 0,
+        "ListaPrequisitos": []
+      },
+      {
+        "Id": 60175,
+        "Codigo": "1005.000.170-2",
+        "Descricao": "HABILIDADES CLÍNICAS DA PRÁTICA MÉDICA VII",
+        "Semestre": "0",
+        "Apelido": "HABILIDADES CLÍNICAS DA PRÁTICA MÉDICA VII",
+        "CargaHorariaTeorico": 0,
+        "CargaHorariaPratica": 0,
+        "ListaPrequisitos": []
+      },
+      {
+        "Id": 60176,
+        "Codigo": "1005.000.171-1",
+        "Descricao": "BASES BIOLÓGICAS DA PRÁTICA MÉDICA V",
+        "Semestre": "0",
+        "Apelido": "BASES BIOLÓGICAS DA PRÁTICA MÉDICA V",
+        "CargaHorariaTeorico": 0,
+        "CargaHorariaPratica": 0,
+        "ListaPrequisitos": []
+      },
+      {
+        "Id": 60177,
+        "Codigo": "1005.000.172-0",
+        "Descricao": "BASES BIOLÓGICAS DA PRÁTICA MÉDICA VI",
+        "Semestre": "0",
+        "Apelido": "BASES BIOLÓGICAS DA PRÁTICA MÉDICA VI",
+        "CargaHorariaTeorico": 0,
+        "CargaHorariaPratica": 0,
+        "ListaPrequisitos": []
+      },
+      {
+        "Id": 60178,
+        "Codigo": "1005.000.173-0",
+        "Descricao": "URGÊNCIA E EMERGÊNCIA II",
+        "Semestre": "0",
+        "Apelido": "URGÊNCIA E EMERGÊNCIA II",
+        "CargaHorariaTeorico": 0,
+        "CargaHorariaPratica": 0,
+        "ListaPrequisitos": []
+      },
+      {
+        "Id": 60179,
+        "Codigo": "1005.000.174-9",
+        "Descricao": "HABILIDADES CLÍNICAS DA PRÁTICA MÉDICA I",
+        "Semestre": "0",
+        "Apelido": "HABILIDADES CLÍNICAS DA PRÁTICA MÉDICA I",
+        "CargaHorariaTeorico": 0,
+        "CargaHorariaPratica": 0,
+        "ListaPrequisitos": []
+      },
+      {
+        "Id": 60180,
+        "Codigo": "1005.000.175-8",
+        "Descricao": "HABILIDADES CLÍNICAS DA PRÁTICA MÉDICA II",
+        "Semestre": "0",
+        "Apelido": "HABILIDADES CLÍNICAS DA PRÁTICA MÉDICA II",
+        "CargaHorariaTeorico": 0,
+        "CargaHorariaPratica": 0,
+        "ListaPrequisitos": []
+      },
+      {
+        "Id": 60184,
+        "Codigo": "1005.000.179-4",
+        "Descricao": "URGÊNCIA E EMERGÊNCIA I",
+        "Semestre": "0",
+        "Apelido": "URGÊNCIA E EMERGÊNCIA I",
+        "CargaHorariaTeorico": 0,
+        "CargaHorariaPratica": 0,
+        "ListaPrequisitos": []
+      },
+      {
+        "Id": 60186,
+        "Codigo": "1005.000.181-0",
+        "Descricao": "BASES BIOLÓGICAS DA PRÁTICA MÉDICA XI",
+        "Semestre": "0",
+        "Apelido": "BASES BIOLÓGICAS DA PRÁTICA MÉDICA XI",
+        "CargaHorariaTeorico": 0,
+        "CargaHorariaPratica": 0,
+        "ListaPrequisitos": []
+      },
+      {
+        "Id": 60187,
+        "Codigo": "1005.000.182-9",
+        "Descricao": "BASES COMPLEMENTARES DA MEDICINA VI",
+        "Semestre": "0",
+        "Apelido": "BASES COMPLEMENTARES DA MEDICINA VI",
+        "CargaHorariaTeorico": 0,
+        "CargaHorariaPratica": 0,
+        "ListaPrequisitos": []
+      },
+      {
+        "Id": 60189,
+        "Codigo": "1005.000.184-7",
+        "Descricao": "URGÊNCIA E EMERGÊNCIA IV",
+        "Semestre": "0",
+        "Apelido": "URGÊNCIA E EMERGÊNCIA IV",
+        "CargaHorariaTeorico": 0,
+        "CargaHorariaPratica": 0,
+        "ListaPrequisitos": []
+      },
+      {
+        "Id": 60190,
+        "Codigo": "1005.000.185-6",
+        "Descricao": "BASES COMPLEMENTARES DA MEDICINA I",
+        "Semestre": "0",
+        "Apelido": "BASES COMPLEMENTARES DA MEDICINA I",
+        "CargaHorariaTeorico": 0,
+        "CargaHorariaPratica": 0,
+        "ListaPrequisitos": []
+      },
+      {
+        "Id": 60191,
+        "Codigo": "1005.000.186-5",
+        "Descricao": "URGÊNCIA E EMERGÊNCIA III",
+        "Semestre": "0",
+        "Apelido": "URGÊNCIA E EMERGÊNCIA III",
+        "CargaHorariaTeorico": 0,
+        "CargaHorariaPratica": 0,
+        "ListaPrequisitos": []
+      },
+      {
+        "Id": 60193,
+        "Codigo": "1005.000.188-3",
+        "Descricao": "ATENÇÃO PRIMÁRIA V",
+        "Semestre": "0",
+        "Apelido": "ATENÇÃO PRIMÁRIA V",
+        "CargaHorariaTeorico": 0,
+        "CargaHorariaPratica": 0,
+        "ListaPrequisitos": []
+      },
+      {
+        "Id": 60194,
+        "Codigo": "1005.000.189-2",
+        "Descricao": "HABILIDADES CLÍNICAS DA PRÁTICA MÉDICA VI",
+        "Semestre": "0",
+        "Apelido": "HABILIDADES CLÍNICAS DA PRÁTICA MÉDICA VI",
+        "CargaHorariaTeorico": 0,
+        "CargaHorariaPratica": 0,
+        "ListaPrequisitos": []
+      },
+      {
+        "Id": 60195,
+        "Codigo": "1005.000.190-9",
+        "Descricao": "HABILIDADES CLÍNICAS DA PRÁTICA MÉDICA XII",
+        "Semestre": "0",
+        "Apelido": "HABILIDADES CLÍNICAS DA PRÁTICA MÉDICA XII",
+        "CargaHorariaTeorico": 0,
+        "CargaHorariaPratica": 0,
+        "ListaPrequisitos": []
+      },
+      {
+        "Id": 60196,
+        "Codigo": "1005.000.191-8",
+        "Descricao": "ATENÇÃO PRIMÁRIA VI",
+        "Semestre": "0",
+        "Apelido": "ATENÇÃO PRIMÁRIA VI",
+        "CargaHorariaTeorico": 0,
+        "CargaHorariaPratica": 0,
+        "ListaPrequisitos": []
+      },
+      {
+        "Id": 60197,
+        "Codigo": "1005.000.192-7",
+        "Descricao": "BASES COMPLEMENTARES DA MEDICINA IV",
+        "Semestre": "0",
+        "Apelido": "BASES COMPLEMENTARES DA MEDICINA IV",
+        "CargaHorariaTeorico": 0,
+        "CargaHorariaPratica": 0,
+        "ListaPrequisitos": []
+      },
+      {
+        "Id": 60198,
+        "Codigo": "1005.000.193-6",
+        "Descricao": "CIRURGIA IV",
+        "Semestre": "0",
+        "Apelido": "CIRURGIA IV",
+        "CargaHorariaTeorico": 0,
+        "CargaHorariaPratica": 0,
+        "ListaPrequisitos": []
+      },
+      {
+        "Id": 60201,
+        "Codigo": "1005.000.196-3",
+        "Descricao": "HABILIDADES CLÍNICAS DA PRÁTICA MÉDICA V",
+        "Semestre": "0",
+        "Apelido": "HABILIDADES CLÍNICAS DA PRÁTICA MÉDICA V",
+        "CargaHorariaTeorico": 0,
+        "CargaHorariaPratica": 0,
+        "ListaPrequisitos": []
+      },
+      {
+        "Id": 60202,
+        "Codigo": "1005.000.197-2",
+        "Descricao": "BASES COMPLEMENTARES DA MEDICINA VII",
+        "Semestre": "0",
+        "Apelido": "BASES COMPLEMENTARES DA MEDICINA VII",
+        "CargaHorariaTeorico": 0,
+        "CargaHorariaPratica": 0,
+        "ListaPrequisitos": []
+      },
+      {
+        "Id": 60206,
+        "Codigo": "1005.000.201-1",
+        "Descricao": "BASES COMPLEMENTARES DA MEDICINA VIII",
+        "Semestre": "0",
+        "Apelido": "BASES COMPLEMENTARES DA MEDICINA VIII",
+        "CargaHorariaTeorico": 0,
+        "CargaHorariaPratica": 0,
+        "ListaPrequisitos": []
+      },
+      {
+        "Id": 60208,
+        "Codigo": "1005.000.203-0",
+        "Descricao": "ATENÇÃO PRIMÁRIA III",
+        "Semestre": "0",
+        "Apelido": "ATENÇÃO PRIMÁRIA III",
+        "CargaHorariaTeorico": 0,
+        "CargaHorariaPratica": 0,
+        "ListaPrequisitos": []
+      },
+      {
+        "Id": 60209,
+        "Codigo": "1005.000.204-9",
+        "Descricao": "ATENÇÃO PRIMÁRIA IV",
+        "Semestre": "0",
+        "Apelido": "ATENÇÃO PRIMÁRIA IV",
+        "CargaHorariaTeorico": 0,
+        "CargaHorariaPratica": 0,
+        "ListaPrequisitos": []
+      },
+      {
+        "Id": 60210,
+        "Codigo": "1005.000.205-8",
+        "Descricao": "BASES COMPLEMENTARES DA MEDICINA III",
+        "Semestre": "0",
+        "Apelido": "BASES COMPLEMENTARES DA MEDICINA III",
+        "CargaHorariaTeorico": 0,
+        "CargaHorariaPratica": 0,
+        "ListaPrequisitos": []
+      },
+      {
+        "Id": 60211,
+        "Codigo": "1005.000.206-7",
+        "Descricao": "BASES BIOLÓGICAS DA PRÁTICA MÉDICA X",
+        "Semestre": "0",
+        "Apelido": "BASES BIOLÓGICAS DA PRÁTICA MÉDICA X",
+        "CargaHorariaTeorico": 0,
+        "CargaHorariaPratica": 0,
+        "ListaPrequisitos": []
+      },
+      {
+        "Id": 60212,
+        "Codigo": "1005.000.207-6",
+        "Descricao": "ATENÇÃO PRIMÁRIA II",
+        "Semestre": "0",
+        "Apelido": "ATENÇÃO PRIMÁRIA II",
+        "CargaHorariaTeorico": 0,
+        "CargaHorariaPratica": 0,
+        "ListaPrequisitos": []
+      },
+      {
+        "Id": 60213,
+        "Codigo": "1005.000.208-5",
+        "Descricao": "ATENÇÃO PRIMÁRIA I",
+        "Semestre": "0",
+        "Apelido": "ATENÇÃO PRIMÁRIA I",
+        "CargaHorariaTeorico": 0,
+        "CargaHorariaPratica": 0,
+        "ListaPrequisitos": []
+      },
+      {
+        "Id": 60214,
+        "Codigo": "1005.000.209-4",
+        "Descricao": "BASES BIOLÓGICAS DA PRÁTICA MÉDICA IV",
+        "Semestre": "0",
+        "Apelido": "BASES BIOLÓGICAS DA PRÁTICA MÉDICA IV",
+        "CargaHorariaTeorico": 0,
+        "CargaHorariaPratica": 0,
+        "ListaPrequisitos": []
+      },
+      {
+        "Id": 60217,
+        "Codigo": "2701.000.691-1",
+        "Descricao": "BASES BIOLÓGICAS DA PRÁTICA MÉDICA I",
+        "Semestre": "0",
+        "Apelido": "BASES BIOLÓGICAS DA PRÁTICA MÉDICA I",
+        "CargaHorariaTeorico": 0,
+        "CargaHorariaPratica": 0,
+        "ListaPrequisitos": []
+      },
+      {
+        "Id": 60218,
+        "Codigo": "2701.000.692-0",
+        "Descricao": "BASES BIOLÓGICAS DA PRÁTICA MÉDICA II",
+        "Semestre": "0",
+        "Apelido": "BASES BIOLÓGICAS DA PRÁTICA MÉDICA II",
+        "CargaHorariaTeorico": 0,
+        "CargaHorariaPratica": 0,
+        "ListaPrequisitos": []
+      }
+    ]
+  },
+  {
+    "Id": 60215,
+    "Codigo": "1005.000.210-0",
+    "Tipo": "OBR",
+    "Descricao": "ESTÁGIO OBRIGATÓRIO DE ESPECIALIDADE ELETIVA",
+    "Semestre": 10,
+    "Apelido": "ESTÁGIO OBRIGATÓRIO DE ESPECIALIDADE ELETIVA",
+    "CargaHorariaTeorico": 100,
+    "CargaHorariaPratica": null,
+    "ListaPrequisitos": []
+  },
+  {
+    "Id": 51507,
+    "Codigo": "1005.000.104-1",
+    "Tipo": "OBR",
+    "Descricao": "ESTÁGIO OBRIGATÓRIO EM ATENÇÃO BÁSICA: MEDICINA DA FAMÍLIA, COMUNIDADE E SAÚDE COLETIVA I",
+    "Semestre": 10,
+    "Apelido": "ESTÁGIO OBRIGATÓRIO EM ATENÇÃO BÁSICA: MEDICINA DA FAMÍLIA, COMUNIDADE E SAÚDE COLETIVA I",
+    "CargaHorariaTeorico": 160,
+    "CargaHorariaPratica": null,
+    "ListaPrequisitos": [
+      {
+        "Id": 60146,
+        "Codigo": "1005.000.141-7",
+        "Descricao": "HABILIDADES CLÍNICAS DA PRÁTICA MÉDICA XI",
+        "Semestre": "0",
+        "Apelido": "HABILIDADES CLÍNICAS DA PRÁTICA MÉDICA XI",
+        "CargaHorariaTeorico": 0,
+        "CargaHorariaPratica": 0,
+        "ListaPrequisitos": []
+      },
+      {
+        "Id": 60147,
+        "Codigo": "1005.000.142-6",
+        "Descricao": "CIRURGIA III",
+        "Semestre": "0",
+        "Apelido": "CIRURGIA III",
+        "CargaHorariaTeorico": 0,
+        "CargaHorariaPratica": 0,
+        "ListaPrequisitos": []
+      },
+      {
+        "Id": 60149,
+        "Codigo": "1005.000.144-4",
+        "Descricao": "BASES BIOLOGICAS DA PRÁTICA MÉDICA XII",
+        "Semestre": "0",
+        "Apelido": "BASES BIOLOGICAS DA PRÁTICA MÉDICA XII",
+        "CargaHorariaTeorico": 0,
+        "CargaHorariaPratica": 0,
+        "ListaPrequisitos": []
+      },
+      {
+        "Id": 60152,
+        "Codigo": "1005.000.147-1",
+        "Descricao": "CIRURGIA I",
+        "Semestre": "0",
+        "Apelido": "CIRURGIA I",
+        "CargaHorariaTeorico": 0,
+        "CargaHorariaPratica": 0,
+        "ListaPrequisitos": []
+      },
+      {
+        "Id": 60155,
+        "Codigo": "1005.000.150-6",
+        "Descricao": "HABILIDADES CLÍNICAS DA PRÁTICA MÉDICA III",
+        "Semestre": "0",
+        "Apelido": "HABILIDADES CLÍNICAS DA PRÁTICA MÉDICA III",
+        "CargaHorariaTeorico": 0,
+        "CargaHorariaPratica": 0,
+        "ListaPrequisitos": []
+      },
+      {
+        "Id": 60156,
+        "Codigo": "1005.000.151-5",
+        "Descricao": "BASES BIOLÓGICAS DA PRÁTICA MÉDICA III",
+        "Semestre": "0",
+        "Apelido": "BASES BIOLÓGICAS DA PRÁTICA MÉDICA III",
+        "CargaHorariaTeorico": 0,
+        "CargaHorariaPratica": 0,
+        "ListaPrequisitos": []
+      },
+      {
+        "Id": 60157,
+        "Codigo": "1005.000.152-4",
+        "Descricao": "BASES BIOLÓGICAS DA PRÁTICA MÉDICA VII",
+        "Semestre": "0",
+        "Apelido": "BASES BIOLÓGICAS DA PRÁTICA MÉDICA VII",
+        "CargaHorariaTeorico": 0,
+        "CargaHorariaPratica": 0,
+        "ListaPrequisitos": []
+      },
+      {
+        "Id": 60158,
+        "Codigo": "1005.000.153-3",
+        "Descricao": "BASES BIOLÓGICAS DA PRÁTICA MÉDICA VIII",
+        "Semestre": "0",
+        "Apelido": "BASES BIOLÓGICAS DA PRÁTICA MÉDICA VIII",
+        "CargaHorariaTeorico": 0,
+        "CargaHorariaPratica": 0,
+        "ListaPrequisitos": []
+      },
+      {
+        "Id": 60159,
+        "Codigo": "1005.000.154-2",
+        "Descricao": "BASES BIOLÓGICAS DA PRÁTICA MÉDICA IX",
+        "Semestre": "0",
+        "Apelido": "BASES BIOLÓGICAS DA PRÁTICA MÉDICA IX",
+        "CargaHorariaTeorico": 0,
+        "CargaHorariaPratica": 0,
+        "ListaPrequisitos": []
+      },
+      {
+        "Id": 60160,
+        "Codigo": "1005.000.155-1",
+        "Descricao": "ATENÇÃO PRIMÁRIA VIII",
+        "Semestre": "0",
+        "Apelido": "ATENÇÃO PRIMÁRIA VIII",
+        "CargaHorariaTeorico": 0,
+        "CargaHorariaPratica": 0,
+        "ListaPrequisitos": []
+      },
+      {
+        "Id": 60161,
+        "Codigo": "1005.000.156-0",
+        "Descricao": "CIRURGIA II",
+        "Semestre": "0",
+        "Apelido": "CIRURGIA II",
+        "CargaHorariaTeorico": 0,
+        "CargaHorariaPratica": 0,
+        "ListaPrequisitos": []
+      },
+      {
+        "Id": 60162,
+        "Codigo": "1005.000.157-0",
+        "Descricao": "HABILIDADES CLÍNICAS DA PRÁTICA MÉDICA VIII",
+        "Semestre": "0",
+        "Apelido": "HABILIDADES CLÍNICAS DA PRÁTICA MÉDICA VIII",
+        "CargaHorariaTeorico": 0,
+        "CargaHorariaPratica": 0,
+        "ListaPrequisitos": []
+      },
+      {
+        "Id": 60163,
+        "Codigo": "1005.000.158-9",
+        "Descricao": "BASES COMPLEMENTARES DA MEDICINA II",
+        "Semestre": "0",
+        "Apelido": "BASES COMPLEMENTARES DA MEDICINA II",
+        "CargaHorariaTeorico": 0,
+        "CargaHorariaPratica": 0,
+        "ListaPrequisitos": []
+      },
+      {
+        "Id": 60164,
+        "Codigo": "1005.000.159-8",
+        "Descricao": "HABILIDADES CLÍNICAS DA PRÁTICA MÉDICA X",
+        "Semestre": "0",
+        "Apelido": "HABILIDADES CLÍNICAS DA PRÁTICA MÉDICA X",
+        "CargaHorariaTeorico": 0,
+        "CargaHorariaPratica": 0,
+        "ListaPrequisitos": []
+      },
+      {
+        "Id": 60167,
+        "Codigo": "1005.000.162-2",
+        "Descricao": "ATENÇÃO PRIMÁRIA VII",
+        "Semestre": "0",
+        "Apelido": "ATENÇÃO PRIMÁRIA VII",
+        "CargaHorariaTeorico": 0,
+        "CargaHorariaPratica": 0,
+        "ListaPrequisitos": []
+      },
+      {
+        "Id": 60168,
+        "Codigo": "1005.000.163-1",
+        "Descricao": "HABILIDADES CLÍNICAS DA PRÁTICA MÉDICA IV",
+        "Semestre": "0",
+        "Apelido": "HABILIDADES CLÍNICAS DA PRÁTICA MÉDICA IV",
+        "CargaHorariaTeorico": 0,
+        "CargaHorariaPratica": 0,
+        "ListaPrequisitos": []
+      },
+      {
+        "Id": 60170,
+        "Codigo": "1005.000.165-0",
+        "Descricao": "BASES COMPLEMENTARES DA MEDICINA V",
+        "Semestre": "0",
+        "Apelido": "BASES COMPLEMENTARES DA MEDICINA V",
+        "CargaHorariaTeorico": 0,
+        "CargaHorariaPratica": 0,
+        "ListaPrequisitos": []
+      },
+      {
+        "Id": 60174,
+        "Codigo": "1005.000.169-6",
+        "Descricao": "HABILIDADES CLÍNICAS DA PRÁTICA MÉDICA IX",
+        "Semestre": "0",
+        "Apelido": "HABILIDADES CLÍNICAS DA PRÁTICA MÉDICA IX",
+        "CargaHorariaTeorico": 0,
+        "CargaHorariaPratica": 0,
+        "ListaPrequisitos": []
+      },
+      {
+        "Id": 60175,
+        "Codigo": "1005.000.170-2",
+        "Descricao": "HABILIDADES CLÍNICAS DA PRÁTICA MÉDICA VII",
+        "Semestre": "0",
+        "Apelido": "HABILIDADES CLÍNICAS DA PRÁTICA MÉDICA VII",
+        "CargaHorariaTeorico": 0,
+        "CargaHorariaPratica": 0,
+        "ListaPrequisitos": []
+      },
+      {
+        "Id": 60176,
+        "Codigo": "1005.000.171-1",
+        "Descricao": "BASES BIOLÓGICAS DA PRÁTICA MÉDICA V",
+        "Semestre": "0",
+        "Apelido": "BASES BIOLÓGICAS DA PRÁTICA MÉDICA V",
+        "CargaHorariaTeorico": 0,
+        "CargaHorariaPratica": 0,
+        "ListaPrequisitos": []
+      },
+      {
+        "Id": 60177,
+        "Codigo": "1005.000.172-0",
+        "Descricao": "BASES BIOLÓGICAS DA PRÁTICA MÉDICA VI",
+        "Semestre": "0",
+        "Apelido": "BASES BIOLÓGICAS DA PRÁTICA MÉDICA VI",
+        "CargaHorariaTeorico": 0,
+        "CargaHorariaPratica": 0,
+        "ListaPrequisitos": []
+      },
+      {
+        "Id": 60178,
+        "Codigo": "1005.000.173-0",
+        "Descricao": "URGÊNCIA E EMERGÊNCIA II",
+        "Semestre": "0",
+        "Apelido": "URGÊNCIA E EMERGÊNCIA II",
+        "CargaHorariaTeorico": 0,
+        "CargaHorariaPratica": 0,
+        "ListaPrequisitos": []
+      },
+      {
+        "Id": 60179,
+        "Codigo": "1005.000.174-9",
+        "Descricao": "HABILIDADES CLÍNICAS DA PRÁTICA MÉDICA I",
+        "Semestre": "0",
+        "Apelido": "HABILIDADES CLÍNICAS DA PRÁTICA MÉDICA I",
+        "CargaHorariaTeorico": 0,
+        "CargaHorariaPratica": 0,
+        "ListaPrequisitos": []
+      },
+      {
+        "Id": 60180,
+        "Codigo": "1005.000.175-8",
+        "Descricao": "HABILIDADES CLÍNICAS DA PRÁTICA MÉDICA II",
+        "Semestre": "0",
+        "Apelido": "HABILIDADES CLÍNICAS DA PRÁTICA MÉDICA II",
+        "CargaHorariaTeorico": 0,
+        "CargaHorariaPratica": 0,
+        "ListaPrequisitos": []
+      },
+      {
+        "Id": 60184,
+        "Codigo": "1005.000.179-4",
+        "Descricao": "URGÊNCIA E EMERGÊNCIA I",
+        "Semestre": "0",
+        "Apelido": "URGÊNCIA E EMERGÊNCIA I",
+        "CargaHorariaTeorico": 0,
+        "CargaHorariaPratica": 0,
+        "ListaPrequisitos": []
+      },
+      {
+        "Id": 60186,
+        "Codigo": "1005.000.181-0",
+        "Descricao": "BASES BIOLÓGICAS DA PRÁTICA MÉDICA XI",
+        "Semestre": "0",
+        "Apelido": "BASES BIOLÓGICAS DA PRÁTICA MÉDICA XI",
+        "CargaHorariaTeorico": 0,
+        "CargaHorariaPratica": 0,
+        "ListaPrequisitos": []
+      },
+      {
+        "Id": 60187,
+        "Codigo": "1005.000.182-9",
+        "Descricao": "BASES COMPLEMENTARES DA MEDICINA VI",
+        "Semestre": "0",
+        "Apelido": "BASES COMPLEMENTARES DA MEDICINA VI",
+        "CargaHorariaTeorico": 0,
+        "CargaHorariaPratica": 0,
+        "ListaPrequisitos": []
+      },
+      {
+        "Id": 60189,
+        "Codigo": "1005.000.184-7",
+        "Descricao": "URGÊNCIA E EMERGÊNCIA IV",
+        "Semestre": "0",
+        "Apelido": "URGÊNCIA E EMERGÊNCIA IV",
+        "CargaHorariaTeorico": 0,
+        "CargaHorariaPratica": 0,
+        "ListaPrequisitos": []
+      },
+      {
+        "Id": 60190,
+        "Codigo": "1005.000.185-6",
+        "Descricao": "BASES COMPLEMENTARES DA MEDICINA I",
+        "Semestre": "0",
+        "Apelido": "BASES COMPLEMENTARES DA MEDICINA I",
+        "CargaHorariaTeorico": 0,
+        "CargaHorariaPratica": 0,
+        "ListaPrequisitos": []
+      },
+      {
+        "Id": 60191,
+        "Codigo": "1005.000.186-5",
+        "Descricao": "URGÊNCIA E EMERGÊNCIA III",
+        "Semestre": "0",
+        "Apelido": "URGÊNCIA E EMERGÊNCIA III",
+        "CargaHorariaTeorico": 0,
+        "CargaHorariaPratica": 0,
+        "ListaPrequisitos": []
+      },
+      {
+        "Id": 60193,
+        "Codigo": "1005.000.188-3",
+        "Descricao": "ATENÇÃO PRIMÁRIA V",
+        "Semestre": "0",
+        "Apelido": "ATENÇÃO PRIMÁRIA V",
+        "CargaHorariaTeorico": 0,
+        "CargaHorariaPratica": 0,
+        "ListaPrequisitos": []
+      },
+      {
+        "Id": 60194,
+        "Codigo": "1005.000.189-2",
+        "Descricao": "HABILIDADES CLÍNICAS DA PRÁTICA MÉDICA VI",
+        "Semestre": "0",
+        "Apelido": "HABILIDADES CLÍNICAS DA PRÁTICA MÉDICA VI",
+        "CargaHorariaTeorico": 0,
+        "CargaHorariaPratica": 0,
+        "ListaPrequisitos": []
+      },
+      {
+        "Id": 60195,
+        "Codigo": "1005.000.190-9",
+        "Descricao": "HABILIDADES CLÍNICAS DA PRÁTICA MÉDICA XII",
+        "Semestre": "0",
+        "Apelido": "HABILIDADES CLÍNICAS DA PRÁTICA MÉDICA XII",
+        "CargaHorariaTeorico": 0,
+        "CargaHorariaPratica": 0,
+        "ListaPrequisitos": []
+      },
+      {
+        "Id": 60196,
+        "Codigo": "1005.000.191-8",
+        "Descricao": "ATENÇÃO PRIMÁRIA VI",
+        "Semestre": "0",
+        "Apelido": "ATENÇÃO PRIMÁRIA VI",
+        "CargaHorariaTeorico": 0,
+        "CargaHorariaPratica": 0,
+        "ListaPrequisitos": []
+      },
+      {
+        "Id": 60197,
+        "Codigo": "1005.000.192-7",
+        "Descricao": "BASES COMPLEMENTARES DA MEDICINA IV",
+        "Semestre": "0",
+        "Apelido": "BASES COMPLEMENTARES DA MEDICINA IV",
+        "CargaHorariaTeorico": 0,
+        "CargaHorariaPratica": 0,
+        "ListaPrequisitos": []
+      },
+      {
+        "Id": 60198,
+        "Codigo": "1005.000.193-6",
+        "Descricao": "CIRURGIA IV",
+        "Semestre": "0",
+        "Apelido": "CIRURGIA IV",
+        "CargaHorariaTeorico": 0,
+        "CargaHorariaPratica": 0,
+        "ListaPrequisitos": []
+      },
+      {
+        "Id": 60201,
+        "Codigo": "1005.000.196-3",
+        "Descricao": "HABILIDADES CLÍNICAS DA PRÁTICA MÉDICA V",
+        "Semestre": "0",
+        "Apelido": "HABILIDADES CLÍNICAS DA PRÁTICA MÉDICA V",
+        "CargaHorariaTeorico": 0,
+        "CargaHorariaPratica": 0,
+        "ListaPrequisitos": []
+      },
+      {
+        "Id": 60202,
+        "Codigo": "1005.000.197-2",
+        "Descricao": "BASES COMPLEMENTARES DA MEDICINA VII",
+        "Semestre": "0",
+        "Apelido": "BASES COMPLEMENTARES DA MEDICINA VII",
+        "CargaHorariaTeorico": 0,
+        "CargaHorariaPratica": 0,
+        "ListaPrequisitos": []
+      },
+      {
+        "Id": 60206,
+        "Codigo": "1005.000.201-1",
+        "Descricao": "BASES COMPLEMENTARES DA MEDICINA VIII",
+        "Semestre": "0",
+        "Apelido": "BASES COMPLEMENTARES DA MEDICINA VIII",
+        "CargaHorariaTeorico": 0,
+        "CargaHorariaPratica": 0,
+        "ListaPrequisitos": []
+      },
+      {
+        "Id": 60208,
+        "Codigo": "1005.000.203-0",
+        "Descricao": "ATENÇÃO PRIMÁRIA III",
+        "Semestre": "0",
+        "Apelido": "ATENÇÃO PRIMÁRIA III",
+        "CargaHorariaTeorico": 0,
+        "CargaHorariaPratica": 0,
+        "ListaPrequisitos": []
+      },
+      {
+        "Id": 60209,
+        "Codigo": "1005.000.204-9",
+        "Descricao": "ATENÇÃO PRIMÁRIA IV",
+        "Semestre": "0",
+        "Apelido": "ATENÇÃO PRIMÁRIA IV",
+        "CargaHorariaTeorico": 0,
+        "CargaHorariaPratica": 0,
+        "ListaPrequisitos": []
+      },
+      {
+        "Id": 60210,
+        "Codigo": "1005.000.205-8",
+        "Descricao": "BASES COMPLEMENTARES DA MEDICINA III",
+        "Semestre": "0",
+        "Apelido": "BASES COMPLEMENTARES DA MEDICINA III",
+        "CargaHorariaTeorico": 0,
+        "CargaHorariaPratica": 0,
+        "ListaPrequisitos": []
+      },
+      {
+        "Id": 60211,
+        "Codigo": "1005.000.206-7",
+        "Descricao": "BASES BIOLÓGICAS DA PRÁTICA MÉDICA X",
+        "Semestre": "0",
+        "Apelido": "BASES BIOLÓGICAS DA PRÁTICA MÉDICA X",
+        "CargaHorariaTeorico": 0,
+        "CargaHorariaPratica": 0,
+        "ListaPrequisitos": []
+      },
+      {
+        "Id": 60212,
+        "Codigo": "1005.000.207-6",
+        "Descricao": "ATENÇÃO PRIMÁRIA II",
+        "Semestre": "0",
+        "Apelido": "ATENÇÃO PRIMÁRIA II",
+        "CargaHorariaTeorico": 0,
+        "CargaHorariaPratica": 0,
+        "ListaPrequisitos": []
+      },
+      {
+        "Id": 60213,
+        "Codigo": "1005.000.208-5",
+        "Descricao": "ATENÇÃO PRIMÁRIA I",
+        "Semestre": "0",
+        "Apelido": "ATENÇÃO PRIMÁRIA I",
+        "CargaHorariaTeorico": 0,
+        "CargaHorariaPratica": 0,
+        "ListaPrequisitos": []
+      },
+      {
+        "Id": 60214,
+        "Codigo": "1005.000.209-4",
+        "Descricao": "BASES BIOLÓGICAS DA PRÁTICA MÉDICA IV",
+        "Semestre": "0",
+        "Apelido": "BASES BIOLÓGICAS DA PRÁTICA MÉDICA IV",
+        "CargaHorariaTeorico": 0,
+        "CargaHorariaPratica": 0,
+        "ListaPrequisitos": []
+      },
+      {
+        "Id": 60217,
+        "Codigo": "2701.000.691-1",
+        "Descricao": "BASES BIOLÓGICAS DA PRÁTICA MÉDICA I",
+        "Semestre": "0",
+        "Apelido": "BASES BIOLÓGICAS DA PRÁTICA MÉDICA I",
+        "CargaHorariaTeorico": 0,
+        "CargaHorariaPratica": 0,
+        "ListaPrequisitos": []
+      },
+      {
+        "Id": 60218,
+        "Codigo": "2701.000.692-0",
+        "Descricao": "BASES BIOLÓGICAS DA PRÁTICA MÉDICA II",
+        "Semestre": "0",
+        "Apelido": "BASES BIOLÓGICAS DA PRÁTICA MÉDICA II",
+        "CargaHorariaTeorico": 0,
+        "CargaHorariaPratica": 0,
+        "ListaPrequisitos": []
+      }
+    ]
+  },
+  {
+    "Id": 51525,
+    "Codigo": "1005.000.122-0",
+    "Tipo": "OBR",
+    "Descricao": "ESTÁGIO OBRIGATÓRIO EM ATENÇÃO BÁSICA: MEDICINA DA FAMÍLIA, COMUNIDADE E SAÚDE COLETIVA II",
+    "Semestre": 10,
+    "Apelido": "ESTÁGIO OBRIGATÓRIO EM ATENÇÃO BÁSICA: MEDICINA DA FAMÍLIA, COMUNIDADE E SAÚDE COLETIVA II",
+    "CargaHorariaTeorico": 160,
+    "CargaHorariaPratica": null,
+    "ListaPrequisitos": [
+      {
+        "Id": 60146,
+        "Codigo": "1005.000.141-7",
+        "Descricao": "HABILIDADES CLÍNICAS DA PRÁTICA MÉDICA XI",
+        "Semestre": "0",
+        "Apelido": "HABILIDADES CLÍNICAS DA PRÁTICA MÉDICA XI",
+        "CargaHorariaTeorico": 0,
+        "CargaHorariaPratica": 0,
+        "ListaPrequisitos": []
+      },
+      {
+        "Id": 60147,
+        "Codigo": "1005.000.142-6",
+        "Descricao": "CIRURGIA III",
+        "Semestre": "0",
+        "Apelido": "CIRURGIA III",
+        "CargaHorariaTeorico": 0,
+        "CargaHorariaPratica": 0,
+        "ListaPrequisitos": []
+      },
+      {
+        "Id": 60149,
+        "Codigo": "1005.000.144-4",
+        "Descricao": "BASES BIOLOGICAS DA PRÁTICA MÉDICA XII",
+        "Semestre": "0",
+        "Apelido": "BASES BIOLOGICAS DA PRÁTICA MÉDICA XII",
+        "CargaHorariaTeorico": 0,
+        "CargaHorariaPratica": 0,
+        "ListaPrequisitos": []
+      },
+      {
+        "Id": 60152,
+        "Codigo": "1005.000.147-1",
+        "Descricao": "CIRURGIA I",
+        "Semestre": "0",
+        "Apelido": "CIRURGIA I",
+        "CargaHorariaTeorico": 0,
+        "CargaHorariaPratica": 0,
+        "ListaPrequisitos": []
+      },
+      {
+        "Id": 60155,
+        "Codigo": "1005.000.150-6",
+        "Descricao": "HABILIDADES CLÍNICAS DA PRÁTICA MÉDICA III",
+        "Semestre": "0",
+        "Apelido": "HABILIDADES CLÍNICAS DA PRÁTICA MÉDICA III",
+        "CargaHorariaTeorico": 0,
+        "CargaHorariaPratica": 0,
+        "ListaPrequisitos": []
+      },
+      {
+        "Id": 60156,
+        "Codigo": "1005.000.151-5",
+        "Descricao": "BASES BIOLÓGICAS DA PRÁTICA MÉDICA III",
+        "Semestre": "0",
+        "Apelido": "BASES BIOLÓGICAS DA PRÁTICA MÉDICA III",
+        "CargaHorariaTeorico": 0,
+        "CargaHorariaPratica": 0,
+        "ListaPrequisitos": []
+      },
+      {
+        "Id": 60157,
+        "Codigo": "1005.000.152-4",
+        "Descricao": "BASES BIOLÓGICAS DA PRÁTICA MÉDICA VII",
+        "Semestre": "0",
+        "Apelido": "BASES BIOLÓGICAS DA PRÁTICA MÉDICA VII",
+        "CargaHorariaTeorico": 0,
+        "CargaHorariaPratica": 0,
+        "ListaPrequisitos": []
+      },
+      {
+        "Id": 60158,
+        "Codigo": "1005.000.153-3",
+        "Descricao": "BASES BIOLÓGICAS DA PRÁTICA MÉDICA VIII",
+        "Semestre": "0",
+        "Apelido": "BASES BIOLÓGICAS DA PRÁTICA MÉDICA VIII",
+        "CargaHorariaTeorico": 0,
+        "CargaHorariaPratica": 0,
+        "ListaPrequisitos": []
+      },
+      {
+        "Id": 60159,
+        "Codigo": "1005.000.154-2",
+        "Descricao": "BASES BIOLÓGICAS DA PRÁTICA MÉDICA IX",
+        "Semestre": "0",
+        "Apelido": "BASES BIOLÓGICAS DA PRÁTICA MÉDICA IX",
+        "CargaHorariaTeorico": 0,
+        "CargaHorariaPratica": 0,
+        "ListaPrequisitos": []
+      },
+      {
+        "Id": 60160,
+        "Codigo": "1005.000.155-1",
+        "Descricao": "ATENÇÃO PRIMÁRIA VIII",
+        "Semestre": "0",
+        "Apelido": "ATENÇÃO PRIMÁRIA VIII",
+        "CargaHorariaTeorico": 0,
+        "CargaHorariaPratica": 0,
+        "ListaPrequisitos": []
+      },
+      {
+        "Id": 60161,
+        "Codigo": "1005.000.156-0",
+        "Descricao": "CIRURGIA II",
+        "Semestre": "0",
+        "Apelido": "CIRURGIA II",
+        "CargaHorariaTeorico": 0,
+        "CargaHorariaPratica": 0,
+        "ListaPrequisitos": []
+      },
+      {
+        "Id": 60162,
+        "Codigo": "1005.000.157-0",
+        "Descricao": "HABILIDADES CLÍNICAS DA PRÁTICA MÉDICA VIII",
+        "Semestre": "0",
+        "Apelido": "HABILIDADES CLÍNICAS DA PRÁTICA MÉDICA VIII",
+        "CargaHorariaTeorico": 0,
+        "CargaHorariaPratica": 0,
+        "ListaPrequisitos": []
+      },
+      {
+        "Id": 60163,
+        "Codigo": "1005.000.158-9",
+        "Descricao": "BASES COMPLEMENTARES DA MEDICINA II",
+        "Semestre": "0",
+        "Apelido": "BASES COMPLEMENTARES DA MEDICINA II",
+        "CargaHorariaTeorico": 0,
+        "CargaHorariaPratica": 0,
+        "ListaPrequisitos": []
+      },
+      {
+        "Id": 60164,
+        "Codigo": "1005.000.159-8",
+        "Descricao": "HABILIDADES CLÍNICAS DA PRÁTICA MÉDICA X",
+        "Semestre": "0",
+        "Apelido": "HABILIDADES CLÍNICAS DA PRÁTICA MÉDICA X",
+        "CargaHorariaTeorico": 0,
+        "CargaHorariaPratica": 0,
+        "ListaPrequisitos": []
+      },
+      {
+        "Id": 60167,
+        "Codigo": "1005.000.162-2",
+        "Descricao": "ATENÇÃO PRIMÁRIA VII",
+        "Semestre": "0",
+        "Apelido": "ATENÇÃO PRIMÁRIA VII",
+        "CargaHorariaTeorico": 0,
+        "CargaHorariaPratica": 0,
+        "ListaPrequisitos": []
+      },
+      {
+        "Id": 60168,
+        "Codigo": "1005.000.163-1",
+        "Descricao": "HABILIDADES CLÍNICAS DA PRÁTICA MÉDICA IV",
+        "Semestre": "0",
+        "Apelido": "HABILIDADES CLÍNICAS DA PRÁTICA MÉDICA IV",
+        "CargaHorariaTeorico": 0,
+        "CargaHorariaPratica": 0,
+        "ListaPrequisitos": []
+      },
+      {
+        "Id": 60170,
+        "Codigo": "1005.000.165-0",
+        "Descricao": "BASES COMPLEMENTARES DA MEDICINA V",
+        "Semestre": "0",
+        "Apelido": "BASES COMPLEMENTARES DA MEDICINA V",
+        "CargaHorariaTeorico": 0,
+        "CargaHorariaPratica": 0,
+        "ListaPrequisitos": []
+      },
+      {
+        "Id": 60174,
+        "Codigo": "1005.000.169-6",
+        "Descricao": "HABILIDADES CLÍNICAS DA PRÁTICA MÉDICA IX",
+        "Semestre": "0",
+        "Apelido": "HABILIDADES CLÍNICAS DA PRÁTICA MÉDICA IX",
+        "CargaHorariaTeorico": 0,
+        "CargaHorariaPratica": 0,
+        "ListaPrequisitos": []
+      },
+      {
+        "Id": 60175,
+        "Codigo": "1005.000.170-2",
+        "Descricao": "HABILIDADES CLÍNICAS DA PRÁTICA MÉDICA VII",
+        "Semestre": "0",
+        "Apelido": "HABILIDADES CLÍNICAS DA PRÁTICA MÉDICA VII",
+        "CargaHorariaTeorico": 0,
+        "CargaHorariaPratica": 0,
+        "ListaPrequisitos": []
+      },
+      {
+        "Id": 60176,
+        "Codigo": "1005.000.171-1",
+        "Descricao": "BASES BIOLÓGICAS DA PRÁTICA MÉDICA V",
+        "Semestre": "0",
+        "Apelido": "BASES BIOLÓGICAS DA PRÁTICA MÉDICA V",
+        "CargaHorariaTeorico": 0,
+        "CargaHorariaPratica": 0,
+        "ListaPrequisitos": []
+      },
+      {
+        "Id": 60177,
+        "Codigo": "1005.000.172-0",
+        "Descricao": "BASES BIOLÓGICAS DA PRÁTICA MÉDICA VI",
+        "Semestre": "0",
+        "Apelido": "BASES BIOLÓGICAS DA PRÁTICA MÉDICA VI",
+        "CargaHorariaTeorico": 0,
+        "CargaHorariaPratica": 0,
+        "ListaPrequisitos": []
+      },
+      {
+        "Id": 60178,
+        "Codigo": "1005.000.173-0",
+        "Descricao": "URGÊNCIA E EMERGÊNCIA II",
+        "Semestre": "0",
+        "Apelido": "URGÊNCIA E EMERGÊNCIA II",
+        "CargaHorariaTeorico": 0,
+        "CargaHorariaPratica": 0,
+        "ListaPrequisitos": []
+      },
+      {
+        "Id": 60179,
+        "Codigo": "1005.000.174-9",
+        "Descricao": "HABILIDADES CLÍNICAS DA PRÁTICA MÉDICA I",
+        "Semestre": "0",
+        "Apelido": "HABILIDADES CLÍNICAS DA PRÁTICA MÉDICA I",
+        "CargaHorariaTeorico": 0,
+        "CargaHorariaPratica": 0,
+        "ListaPrequisitos": []
+      },
+      {
+        "Id": 60180,
+        "Codigo": "1005.000.175-8",
+        "Descricao": "HABILIDADES CLÍNICAS DA PRÁTICA MÉDICA II",
+        "Semestre": "0",
+        "Apelido": "HABILIDADES CLÍNICAS DA PRÁTICA MÉDICA II",
+        "CargaHorariaTeorico": 0,
+        "CargaHorariaPratica": 0,
+        "ListaPrequisitos": []
+      },
+      {
+        "Id": 60184,
+        "Codigo": "1005.000.179-4",
+        "Descricao": "URGÊNCIA E EMERGÊNCIA I",
+        "Semestre": "0",
+        "Apelido": "URGÊNCIA E EMERGÊNCIA I",
+        "CargaHorariaTeorico": 0,
+        "CargaHorariaPratica": 0,
+        "ListaPrequisitos": []
+      },
+      {
+        "Id": 60186,
+        "Codigo": "1005.000.181-0",
+        "Descricao": "BASES BIOLÓGICAS DA PRÁTICA MÉDICA XI",
+        "Semestre": "0",
+        "Apelido": "BASES BIOLÓGICAS DA PRÁTICA MÉDICA XI",
+        "CargaHorariaTeorico": 0,
+        "CargaHorariaPratica": 0,
+        "ListaPrequisitos": []
+      },
+      {
+        "Id": 60187,
+        "Codigo": "1005.000.182-9",
+        "Descricao": "BASES COMPLEMENTARES DA MEDICINA VI",
+        "Semestre": "0",
+        "Apelido": "BASES COMPLEMENTARES DA MEDICINA VI",
+        "CargaHorariaTeorico": 0,
+        "CargaHorariaPratica": 0,
+        "ListaPrequisitos": []
+      },
+      {
+        "Id": 60189,
+        "Codigo": "1005.000.184-7",
+        "Descricao": "URGÊNCIA E EMERGÊNCIA IV",
+        "Semestre": "0",
+        "Apelido": "URGÊNCIA E EMERGÊNCIA IV",
+        "CargaHorariaTeorico": 0,
+        "CargaHorariaPratica": 0,
+        "ListaPrequisitos": []
+      },
+      {
+        "Id": 60190,
+        "Codigo": "1005.000.185-6",
+        "Descricao": "BASES COMPLEMENTARES DA MEDICINA I",
+        "Semestre": "0",
+        "Apelido": "BASES COMPLEMENTARES DA MEDICINA I",
+        "CargaHorariaTeorico": 0,
+        "CargaHorariaPratica": 0,
+        "ListaPrequisitos": []
+      },
+      {
+        "Id": 60191,
+        "Codigo": "1005.000.186-5",
+        "Descricao": "URGÊNCIA E EMERGÊNCIA III",
+        "Semestre": "0",
+        "Apelido": "URGÊNCIA E EMERGÊNCIA III",
+        "CargaHorariaTeorico": 0,
+        "CargaHorariaPratica": 0,
+        "ListaPrequisitos": []
+      },
+      {
+        "Id": 60193,
+        "Codigo": "1005.000.188-3",
+        "Descricao": "ATENÇÃO PRIMÁRIA V",
+        "Semestre": "0",
+        "Apelido": "ATENÇÃO PRIMÁRIA V",
+        "CargaHorariaTeorico": 0,
+        "CargaHorariaPratica": 0,
+        "ListaPrequisitos": []
+      },
+      {
+        "Id": 60194,
+        "Codigo": "1005.000.189-2",
+        "Descricao": "HABILIDADES CLÍNICAS DA PRÁTICA MÉDICA VI",
+        "Semestre": "0",
+        "Apelido": "HABILIDADES CLÍNICAS DA PRÁTICA MÉDICA VI",
+        "CargaHorariaTeorico": 0,
+        "CargaHorariaPratica": 0,
+        "ListaPrequisitos": []
+      },
+      {
+        "Id": 60195,
+        "Codigo": "1005.000.190-9",
+        "Descricao": "HABILIDADES CLÍNICAS DA PRÁTICA MÉDICA XII",
+        "Semestre": "0",
+        "Apelido": "HABILIDADES CLÍNICAS DA PRÁTICA MÉDICA XII",
+        "CargaHorariaTeorico": 0,
+        "CargaHorariaPratica": 0,
+        "ListaPrequisitos": []
+      },
+      {
+        "Id": 60196,
+        "Codigo": "1005.000.191-8",
+        "Descricao": "ATENÇÃO PRIMÁRIA VI",
+        "Semestre": "0",
+        "Apelido": "ATENÇÃO PRIMÁRIA VI",
+        "CargaHorariaTeorico": 0,
+        "CargaHorariaPratica": 0,
+        "ListaPrequisitos": []
+      },
+      {
+        "Id": 60197,
+        "Codigo": "1005.000.192-7",
+        "Descricao": "BASES COMPLEMENTARES DA MEDICINA IV",
+        "Semestre": "0",
+        "Apelido": "BASES COMPLEMENTARES DA MEDICINA IV",
+        "CargaHorariaTeorico": 0,
+        "CargaHorariaPratica": 0,
+        "ListaPrequisitos": []
+      },
+      {
+        "Id": 60198,
+        "Codigo": "1005.000.193-6",
+        "Descricao": "CIRURGIA IV",
+        "Semestre": "0",
+        "Apelido": "CIRURGIA IV",
+        "CargaHorariaTeorico": 0,
+        "CargaHorariaPratica": 0,
+        "ListaPrequisitos": []
+      },
+      {
+        "Id": 60201,
+        "Codigo": "1005.000.196-3",
+        "Descricao": "HABILIDADES CLÍNICAS DA PRÁTICA MÉDICA V",
+        "Semestre": "0",
+        "Apelido": "HABILIDADES CLÍNICAS DA PRÁTICA MÉDICA V",
+        "CargaHorariaTeorico": 0,
+        "CargaHorariaPratica": 0,
+        "ListaPrequisitos": []
+      },
+      {
+        "Id": 60202,
+        "Codigo": "1005.000.197-2",
+        "Descricao": "BASES COMPLEMENTARES DA MEDICINA VII",
+        "Semestre": "0",
+        "Apelido": "BASES COMPLEMENTARES DA MEDICINA VII",
+        "CargaHorariaTeorico": 0,
+        "CargaHorariaPratica": 0,
+        "ListaPrequisitos": []
+      },
+      {
+        "Id": 60206,
+        "Codigo": "1005.000.201-1",
+        "Descricao": "BASES COMPLEMENTARES DA MEDICINA VIII",
+        "Semestre": "0",
+        "Apelido": "BASES COMPLEMENTARES DA MEDICINA VIII",
+        "CargaHorariaTeorico": 0,
+        "CargaHorariaPratica": 0,
+        "ListaPrequisitos": []
+      },
+      {
+        "Id": 60208,
+        "Codigo": "1005.000.203-0",
+        "Descricao": "ATENÇÃO PRIMÁRIA III",
+        "Semestre": "0",
+        "Apelido": "ATENÇÃO PRIMÁRIA III",
+        "CargaHorariaTeorico": 0,
+        "CargaHorariaPratica": 0,
+        "ListaPrequisitos": []
+      },
+      {
+        "Id": 60209,
+        "Codigo": "1005.000.204-9",
+        "Descricao": "ATENÇÃO PRIMÁRIA IV",
+        "Semestre": "0",
+        "Apelido": "ATENÇÃO PRIMÁRIA IV",
+        "CargaHorariaTeorico": 0,
+        "CargaHorariaPratica": 0,
+        "ListaPrequisitos": []
+      },
+      {
+        "Id": 60210,
+        "Codigo": "1005.000.205-8",
+        "Descricao": "BASES COMPLEMENTARES DA MEDICINA III",
+        "Semestre": "0",
+        "Apelido": "BASES COMPLEMENTARES DA MEDICINA III",
+        "CargaHorariaTeorico": 0,
+        "CargaHorariaPratica": 0,
+        "ListaPrequisitos": []
+      },
+      {
+        "Id": 60211,
+        "Codigo": "1005.000.206-7",
+        "Descricao": "BASES BIOLÓGICAS DA PRÁTICA MÉDICA X",
+        "Semestre": "0",
+        "Apelido": "BASES BIOLÓGICAS DA PRÁTICA MÉDICA X",
+        "CargaHorariaTeorico": 0,
+        "CargaHorariaPratica": 0,
+        "ListaPrequisitos": []
+      },
+      {
+        "Id": 60212,
+        "Codigo": "1005.000.207-6",
+        "Descricao": "ATENÇÃO PRIMÁRIA II",
+        "Semestre": "0",
+        "Apelido": "ATENÇÃO PRIMÁRIA II",
+        "CargaHorariaTeorico": 0,
+        "CargaHorariaPratica": 0,
+        "ListaPrequisitos": []
+      },
+      {
+        "Id": 60213,
+        "Codigo": "1005.000.208-5",
+        "Descricao": "ATENÇÃO PRIMÁRIA I",
+        "Semestre": "0",
+        "Apelido": "ATENÇÃO PRIMÁRIA I",
+        "CargaHorariaTeorico": 0,
+        "CargaHorariaPratica": 0,
+        "ListaPrequisitos": []
+      },
+      {
+        "Id": 60214,
+        "Codigo": "1005.000.209-4",
+        "Descricao": "BASES BIOLÓGICAS DA PRÁTICA MÉDICA IV",
+        "Semestre": "0",
+        "Apelido": "BASES BIOLÓGICAS DA PRÁTICA MÉDICA IV",
+        "CargaHorariaTeorico": 0,
+        "CargaHorariaPratica": 0,
+        "ListaPrequisitos": []
+      },
+      {
+        "Id": 60217,
+        "Codigo": "2701.000.691-1",
+        "Descricao": "BASES BIOLÓGICAS DA PRÁTICA MÉDICA I",
+        "Semestre": "0",
+        "Apelido": "BASES BIOLÓGICAS DA PRÁTICA MÉDICA I",
+        "CargaHorariaTeorico": 0,
+        "CargaHorariaPratica": 0,
+        "ListaPrequisitos": []
+      },
+      {
+        "Id": 60218,
+        "Codigo": "2701.000.692-0",
+        "Descricao": "BASES BIOLÓGICAS DA PRÁTICA MÉDICA II",
+        "Semestre": "0",
+        "Apelido": "BASES BIOLÓGICAS DA PRÁTICA MÉDICA II",
+        "CargaHorariaTeorico": 0,
+        "CargaHorariaPratica": 0,
+        "ListaPrequisitos": []
+      }
+    ]
+  },
+  {
+    "Id": 51474,
+    "Codigo": "1005.000.071-4",
+    "Tipo": "OBR",
+    "Descricao": "ESTÁGIO OBRIGATÓRIO EM PEDIATRIA I",
+    "Semestre": 10,
+    "Apelido": "ESTÁGIO OBRIGATÓRIO EM PEDIATRIA I",
+    "CargaHorariaTeorico": 160,
+    "CargaHorariaPratica": null,
+    "ListaPrequisitos": [
+      {
+        "Id": 60146,
+        "Codigo": "1005.000.141-7",
+        "Descricao": "HABILIDADES CLÍNICAS DA PRÁTICA MÉDICA XI",
+        "Semestre": "0",
+        "Apelido": "HABILIDADES CLÍNICAS DA PRÁTICA MÉDICA XI",
+        "CargaHorariaTeorico": 0,
+        "CargaHorariaPratica": 0,
+        "ListaPrequisitos": []
+      },
+      {
+        "Id": 60147,
+        "Codigo": "1005.000.142-6",
+        "Descricao": "CIRURGIA III",
+        "Semestre": "0",
+        "Apelido": "CIRURGIA III",
+        "CargaHorariaTeorico": 0,
+        "CargaHorariaPratica": 0,
+        "ListaPrequisitos": []
+      },
+      {
+        "Id": 60149,
+        "Codigo": "1005.000.144-4",
+        "Descricao": "BASES BIOLOGICAS DA PRÁTICA MÉDICA XII",
+        "Semestre": "0",
+        "Apelido": "BASES BIOLOGICAS DA PRÁTICA MÉDICA XII",
+        "CargaHorariaTeorico": 0,
+        "CargaHorariaPratica": 0,
+        "ListaPrequisitos": []
+      },
+      {
+        "Id": 60152,
+        "Codigo": "1005.000.147-1",
+        "Descricao": "CIRURGIA I",
+        "Semestre": "0",
+        "Apelido": "CIRURGIA I",
+        "CargaHorariaTeorico": 0,
+        "CargaHorariaPratica": 0,
+        "ListaPrequisitos": []
+      },
+      {
+        "Id": 60155,
+        "Codigo": "1005.000.150-6",
+        "Descricao": "HABILIDADES CLÍNICAS DA PRÁTICA MÉDICA III",
+        "Semestre": "0",
+        "Apelido": "HABILIDADES CLÍNICAS DA PRÁTICA MÉDICA III",
+        "CargaHorariaTeorico": 0,
+        "CargaHorariaPratica": 0,
+        "ListaPrequisitos": []
+      },
+      {
+        "Id": 60156,
+        "Codigo": "1005.000.151-5",
+        "Descricao": "BASES BIOLÓGICAS DA PRÁTICA MÉDICA III",
+        "Semestre": "0",
+        "Apelido": "BASES BIOLÓGICAS DA PRÁTICA MÉDICA III",
+        "CargaHorariaTeorico": 0,
+        "CargaHorariaPratica": 0,
+        "ListaPrequisitos": []
+      },
+      {
+        "Id": 60157,
+        "Codigo": "1005.000.152-4",
+        "Descricao": "BASES BIOLÓGICAS DA PRÁTICA MÉDICA VII",
+        "Semestre": "0",
+        "Apelido": "BASES BIOLÓGICAS DA PRÁTICA MÉDICA VII",
+        "CargaHorariaTeorico": 0,
+        "CargaHorariaPratica": 0,
+        "ListaPrequisitos": []
+      },
+      {
+        "Id": 60158,
+        "Codigo": "1005.000.153-3",
+        "Descricao": "BASES BIOLÓGICAS DA PRÁTICA MÉDICA VIII",
+        "Semestre": "0",
+        "Apelido": "BASES BIOLÓGICAS DA PRÁTICA MÉDICA VIII",
+        "CargaHorariaTeorico": 0,
+        "CargaHorariaPratica": 0,
+        "ListaPrequisitos": []
+      },
+      {
+        "Id": 60159,
+        "Codigo": "1005.000.154-2",
+        "Descricao": "BASES BIOLÓGICAS DA PRÁTICA MÉDICA IX",
+        "Semestre": "0",
+        "Apelido": "BASES BIOLÓGICAS DA PRÁTICA MÉDICA IX",
+        "CargaHorariaTeorico": 0,
+        "CargaHorariaPratica": 0,
+        "ListaPrequisitos": []
+      },
+      {
+        "Id": 60160,
+        "Codigo": "1005.000.155-1",
+        "Descricao": "ATENÇÃO PRIMÁRIA VIII",
+        "Semestre": "0",
+        "Apelido": "ATENÇÃO PRIMÁRIA VIII",
+        "CargaHorariaTeorico": 0,
+        "CargaHorariaPratica": 0,
+        "ListaPrequisitos": []
+      },
+      {
+        "Id": 60161,
+        "Codigo": "1005.000.156-0",
+        "Descricao": "CIRURGIA II",
+        "Semestre": "0",
+        "Apelido": "CIRURGIA II",
+        "CargaHorariaTeorico": 0,
+        "CargaHorariaPratica": 0,
+        "ListaPrequisitos": []
+      },
+      {
+        "Id": 60162,
+        "Codigo": "1005.000.157-0",
+        "Descricao": "HABILIDADES CLÍNICAS DA PRÁTICA MÉDICA VIII",
+        "Semestre": "0",
+        "Apelido": "HABILIDADES CLÍNICAS DA PRÁTICA MÉDICA VIII",
+        "CargaHorariaTeorico": 0,
+        "CargaHorariaPratica": 0,
+        "ListaPrequisitos": []
+      },
+      {
+        "Id": 60163,
+        "Codigo": "1005.000.158-9",
+        "Descricao": "BASES COMPLEMENTARES DA MEDICINA II",
+        "Semestre": "0",
+        "Apelido": "BASES COMPLEMENTARES DA MEDICINA II",
+        "CargaHorariaTeorico": 0,
+        "CargaHorariaPratica": 0,
+        "ListaPrequisitos": []
+      },
+      {
+        "Id": 60164,
+        "Codigo": "1005.000.159-8",
+        "Descricao": "HABILIDADES CLÍNICAS DA PRÁTICA MÉDICA X",
+        "Semestre": "0",
+        "Apelido": "HABILIDADES CLÍNICAS DA PRÁTICA MÉDICA X",
+        "CargaHorariaTeorico": 0,
+        "CargaHorariaPratica": 0,
+        "ListaPrequisitos": []
+      },
+      {
+        "Id": 60167,
+        "Codigo": "1005.000.162-2",
+        "Descricao": "ATENÇÃO PRIMÁRIA VII",
+        "Semestre": "0",
+        "Apelido": "ATENÇÃO PRIMÁRIA VII",
+        "CargaHorariaTeorico": 0,
+        "CargaHorariaPratica": 0,
+        "ListaPrequisitos": []
+      },
+      {
+        "Id": 60168,
+        "Codigo": "1005.000.163-1",
+        "Descricao": "HABILIDADES CLÍNICAS DA PRÁTICA MÉDICA IV",
+        "Semestre": "0",
+        "Apelido": "HABILIDADES CLÍNICAS DA PRÁTICA MÉDICA IV",
+        "CargaHorariaTeorico": 0,
+        "CargaHorariaPratica": 0,
+        "ListaPrequisitos": []
+      },
+      {
+        "Id": 60170,
+        "Codigo": "1005.000.165-0",
+        "Descricao": "BASES COMPLEMENTARES DA MEDICINA V",
+        "Semestre": "0",
+        "Apelido": "BASES COMPLEMENTARES DA MEDICINA V",
+        "CargaHorariaTeorico": 0,
+        "CargaHorariaPratica": 0,
+        "ListaPrequisitos": []
+      },
+      {
+        "Id": 60174,
+        "Codigo": "1005.000.169-6",
+        "Descricao": "HABILIDADES CLÍNICAS DA PRÁTICA MÉDICA IX",
+        "Semestre": "0",
+        "Apelido": "HABILIDADES CLÍNICAS DA PRÁTICA MÉDICA IX",
+        "CargaHorariaTeorico": 0,
+        "CargaHorariaPratica": 0,
+        "ListaPrequisitos": []
+      },
+      {
+        "Id": 60175,
+        "Codigo": "1005.000.170-2",
+        "Descricao": "HABILIDADES CLÍNICAS DA PRÁTICA MÉDICA VII",
+        "Semestre": "0",
+        "Apelido": "HABILIDADES CLÍNICAS DA PRÁTICA MÉDICA VII",
+        "CargaHorariaTeorico": 0,
+        "CargaHorariaPratica": 0,
+        "ListaPrequisitos": []
+      },
+      {
+        "Id": 60176,
+        "Codigo": "1005.000.171-1",
+        "Descricao": "BASES BIOLÓGICAS DA PRÁTICA MÉDICA V",
+        "Semestre": "0",
+        "Apelido": "BASES BIOLÓGICAS DA PRÁTICA MÉDICA V",
+        "CargaHorariaTeorico": 0,
+        "CargaHorariaPratica": 0,
+        "ListaPrequisitos": []
+      },
+      {
+        "Id": 60177,
+        "Codigo": "1005.000.172-0",
+        "Descricao": "BASES BIOLÓGICAS DA PRÁTICA MÉDICA VI",
+        "Semestre": "0",
+        "Apelido": "BASES BIOLÓGICAS DA PRÁTICA MÉDICA VI",
+        "CargaHorariaTeorico": 0,
+        "CargaHorariaPratica": 0,
+        "ListaPrequisitos": []
+      },
+      {
+        "Id": 60178,
+        "Codigo": "1005.000.173-0",
+        "Descricao": "URGÊNCIA E EMERGÊNCIA II",
+        "Semestre": "0",
+        "Apelido": "URGÊNCIA E EMERGÊNCIA II",
+        "CargaHorariaTeorico": 0,
+        "CargaHorariaPratica": 0,
+        "ListaPrequisitos": []
+      },
+      {
+        "Id": 60179,
+        "Codigo": "1005.000.174-9",
+        "Descricao": "HABILIDADES CLÍNICAS DA PRÁTICA MÉDICA I",
+        "Semestre": "0",
+        "Apelido": "HABILIDADES CLÍNICAS DA PRÁTICA MÉDICA I",
+        "CargaHorariaTeorico": 0,
+        "CargaHorariaPratica": 0,
+        "ListaPrequisitos": []
+      },
+      {
+        "Id": 60180,
+        "Codigo": "1005.000.175-8",
+        "Descricao": "HABILIDADES CLÍNICAS DA PRÁTICA MÉDICA II",
+        "Semestre": "0",
+        "Apelido": "HABILIDADES CLÍNICAS DA PRÁTICA MÉDICA II",
+        "CargaHorariaTeorico": 0,
+        "CargaHorariaPratica": 0,
+        "ListaPrequisitos": []
+      },
+      {
+        "Id": 60184,
+        "Codigo": "1005.000.179-4",
+        "Descricao": "URGÊNCIA E EMERGÊNCIA I",
+        "Semestre": "0",
+        "Apelido": "URGÊNCIA E EMERGÊNCIA I",
+        "CargaHorariaTeorico": 0,
+        "CargaHorariaPratica": 0,
+        "ListaPrequisitos": []
+      },
+      {
+        "Id": 60186,
+        "Codigo": "1005.000.181-0",
+        "Descricao": "BASES BIOLÓGICAS DA PRÁTICA MÉDICA XI",
+        "Semestre": "0",
+        "Apelido": "BASES BIOLÓGICAS DA PRÁTICA MÉDICA XI",
+        "CargaHorariaTeorico": 0,
+        "CargaHorariaPratica": 0,
+        "ListaPrequisitos": []
+      },
+      {
+        "Id": 60187,
+        "Codigo": "1005.000.182-9",
+        "Descricao": "BASES COMPLEMENTARES DA MEDICINA VI",
+        "Semestre": "0",
+        "Apelido": "BASES COMPLEMENTARES DA MEDICINA VI",
+        "CargaHorariaTeorico": 0,
+        "CargaHorariaPratica": 0,
+        "ListaPrequisitos": []
+      },
+      {
+        "Id": 60189,
+        "Codigo": "1005.000.184-7",
+        "Descricao": "URGÊNCIA E EMERGÊNCIA IV",
+        "Semestre": "0",
+        "Apelido": "URGÊNCIA E EMERGÊNCIA IV",
+        "CargaHorariaTeorico": 0,
+        "CargaHorariaPratica": 0,
+        "ListaPrequisitos": []
+      },
+      {
+        "Id": 60190,
+        "Codigo": "1005.000.185-6",
+        "Descricao": "BASES COMPLEMENTARES DA MEDICINA I",
+        "Semestre": "0",
+        "Apelido": "BASES COMPLEMENTARES DA MEDICINA I",
+        "CargaHorariaTeorico": 0,
+        "CargaHorariaPratica": 0,
+        "ListaPrequisitos": []
+      },
+      {
+        "Id": 60191,
+        "Codigo": "1005.000.186-5",
+        "Descricao": "URGÊNCIA E EMERGÊNCIA III",
+        "Semestre": "0",
+        "Apelido": "URGÊNCIA E EMERGÊNCIA III",
+        "CargaHorariaTeorico": 0,
+        "CargaHorariaPratica": 0,
+        "ListaPrequisitos": []
+      },
+      {
+        "Id": 60193,
+        "Codigo": "1005.000.188-3",
+        "Descricao": "ATENÇÃO PRIMÁRIA V",
+        "Semestre": "0",
+        "Apelido": "ATENÇÃO PRIMÁRIA V",
+        "CargaHorariaTeorico": 0,
+        "CargaHorariaPratica": 0,
+        "ListaPrequisitos": []
+      },
+      {
+        "Id": 60194,
+        "Codigo": "1005.000.189-2",
+        "Descricao": "HABILIDADES CLÍNICAS DA PRÁTICA MÉDICA VI",
+        "Semestre": "0",
+        "Apelido": "HABILIDADES CLÍNICAS DA PRÁTICA MÉDICA VI",
+        "CargaHorariaTeorico": 0,
+        "CargaHorariaPratica": 0,
+        "ListaPrequisitos": []
+      },
+      {
+        "Id": 60195,
+        "Codigo": "1005.000.190-9",
+        "Descricao": "HABILIDADES CLÍNICAS DA PRÁTICA MÉDICA XII",
+        "Semestre": "0",
+        "Apelido": "HABILIDADES CLÍNICAS DA PRÁTICA MÉDICA XII",
+        "CargaHorariaTeorico": 0,
+        "CargaHorariaPratica": 0,
+        "ListaPrequisitos": []
+      },
+      {
+        "Id": 60196,
+        "Codigo": "1005.000.191-8",
+        "Descricao": "ATENÇÃO PRIMÁRIA VI",
+        "Semestre": "0",
+        "Apelido": "ATENÇÃO PRIMÁRIA VI",
+        "CargaHorariaTeorico": 0,
+        "CargaHorariaPratica": 0,
+        "ListaPrequisitos": []
+      },
+      {
+        "Id": 60197,
+        "Codigo": "1005.000.192-7",
+        "Descricao": "BASES COMPLEMENTARES DA MEDICINA IV",
+        "Semestre": "0",
+        "Apelido": "BASES COMPLEMENTARES DA MEDICINA IV",
+        "CargaHorariaTeorico": 0,
+        "CargaHorariaPratica": 0,
+        "ListaPrequisitos": []
+      },
+      {
+        "Id": 60198,
+        "Codigo": "1005.000.193-6",
+        "Descricao": "CIRURGIA IV",
+        "Semestre": "0",
+        "Apelido": "CIRURGIA IV",
+        "CargaHorariaTeorico": 0,
+        "CargaHorariaPratica": 0,
+        "ListaPrequisitos": []
+      },
+      {
+        "Id": 60201,
+        "Codigo": "1005.000.196-3",
+        "Descricao": "HABILIDADES CLÍNICAS DA PRÁTICA MÉDICA V",
+        "Semestre": "0",
+        "Apelido": "HABILIDADES CLÍNICAS DA PRÁTICA MÉDICA V",
+        "CargaHorariaTeorico": 0,
+        "CargaHorariaPratica": 0,
+        "ListaPrequisitos": []
+      },
+      {
+        "Id": 60202,
+        "Codigo": "1005.000.197-2",
+        "Descricao": "BASES COMPLEMENTARES DA MEDICINA VII",
+        "Semestre": "0",
+        "Apelido": "BASES COMPLEMENTARES DA MEDICINA VII",
+        "CargaHorariaTeorico": 0,
+        "CargaHorariaPratica": 0,
+        "ListaPrequisitos": []
+      },
+      {
+        "Id": 60206,
+        "Codigo": "1005.000.201-1",
+        "Descricao": "BASES COMPLEMENTARES DA MEDICINA VIII",
+        "Semestre": "0",
+        "Apelido": "BASES COMPLEMENTARES DA MEDICINA VIII",
+        "CargaHorariaTeorico": 0,
+        "CargaHorariaPratica": 0,
+        "ListaPrequisitos": []
+      },
+      {
+        "Id": 60208,
+        "Codigo": "1005.000.203-0",
+        "Descricao": "ATENÇÃO PRIMÁRIA III",
+        "Semestre": "0",
+        "Apelido": "ATENÇÃO PRIMÁRIA III",
+        "CargaHorariaTeorico": 0,
+        "CargaHorariaPratica": 0,
+        "ListaPrequisitos": []
+      },
+      {
+        "Id": 60209,
+        "Codigo": "1005.000.204-9",
+        "Descricao": "ATENÇÃO PRIMÁRIA IV",
+        "Semestre": "0",
+        "Apelido": "ATENÇÃO PRIMÁRIA IV",
+        "CargaHorariaTeorico": 0,
+        "CargaHorariaPratica": 0,
+        "ListaPrequisitos": []
+      },
+      {
+        "Id": 60210,
+        "Codigo": "1005.000.205-8",
+        "Descricao": "BASES COMPLEMENTARES DA MEDICINA III",
+        "Semestre": "0",
+        "Apelido": "BASES COMPLEMENTARES DA MEDICINA III",
+        "CargaHorariaTeorico": 0,
+        "CargaHorariaPratica": 0,
+        "ListaPrequisitos": []
+      },
+      {
+        "Id": 60211,
+        "Codigo": "1005.000.206-7",
+        "Descricao": "BASES BIOLÓGICAS DA PRÁTICA MÉDICA X",
+        "Semestre": "0",
+        "Apelido": "BASES BIOLÓGICAS DA PRÁTICA MÉDICA X",
+        "CargaHorariaTeorico": 0,
+        "CargaHorariaPratica": 0,
+        "ListaPrequisitos": []
+      },
+      {
+        "Id": 60212,
+        "Codigo": "1005.000.207-6",
+        "Descricao": "ATENÇÃO PRIMÁRIA II",
+        "Semestre": "0",
+        "Apelido": "ATENÇÃO PRIMÁRIA II",
+        "CargaHorariaTeorico": 0,
+        "CargaHorariaPratica": 0,
+        "ListaPrequisitos": []
+      },
+      {
+        "Id": 60213,
+        "Codigo": "1005.000.208-5",
+        "Descricao": "ATENÇÃO PRIMÁRIA I",
+        "Semestre": "0",
+        "Apelido": "ATENÇÃO PRIMÁRIA I",
+        "CargaHorariaTeorico": 0,
+        "CargaHorariaPratica": 0,
+        "ListaPrequisitos": []
+      },
+      {
+        "Id": 60214,
+        "Codigo": "1005.000.209-4",
+        "Descricao": "BASES BIOLÓGICAS DA PRÁTICA MÉDICA IV",
+        "Semestre": "0",
+        "Apelido": "BASES BIOLÓGICAS DA PRÁTICA MÉDICA IV",
+        "CargaHorariaTeorico": 0,
+        "CargaHorariaPratica": 0,
+        "ListaPrequisitos": []
+      },
+      {
+        "Id": 60217,
+        "Codigo": "2701.000.691-1",
+        "Descricao": "BASES BIOLÓGICAS DA PRÁTICA MÉDICA I",
+        "Semestre": "0",
+        "Apelido": "BASES BIOLÓGICAS DA PRÁTICA MÉDICA I",
+        "CargaHorariaTeorico": 0,
+        "CargaHorariaPratica": 0,
+        "ListaPrequisitos": []
+      },
+      {
+        "Id": 60218,
+        "Codigo": "2701.000.692-0",
+        "Descricao": "BASES BIOLÓGICAS DA PRÁTICA MÉDICA II",
+        "Semestre": "0",
+        "Apelido": "BASES BIOLÓGICAS DA PRÁTICA MÉDICA II",
+        "CargaHorariaTeorico": 0,
+        "CargaHorariaPratica": 0,
+        "ListaPrequisitos": []
+      }
+    ]
+  },
+  {
+    "Id": 51486,
+    "Codigo": "1005.000.083-0",
+    "Tipo": "OBR",
+    "Descricao": "ESTÁGIO OBRIGATÓRIO EM URGÊNCIAS E EMERGÊNCIAS PEDIÁTRICAS",
+    "Semestre": 10,
+    "Apelido": "ESTÁGIO OBRIGATÓRIO EM URGÊNCIAS E EMERGÊNCIAS PEDIÁTRICAS",
+    "CargaHorariaTeorico": 160,
+    "CargaHorariaPratica": null,
+    "ListaPrequisitos": [
+      {
+        "Id": 60146,
+        "Codigo": "1005.000.141-7",
+        "Descricao": "HABILIDADES CLÍNICAS DA PRÁTICA MÉDICA XI",
+        "Semestre": "0",
+        "Apelido": "HABILIDADES CLÍNICAS DA PRÁTICA MÉDICA XI",
+        "CargaHorariaTeorico": 0,
+        "CargaHorariaPratica": 0,
+        "ListaPrequisitos": []
+      },
+      {
+        "Id": 60147,
+        "Codigo": "1005.000.142-6",
+        "Descricao": "CIRURGIA III",
+        "Semestre": "0",
+        "Apelido": "CIRURGIA III",
+        "CargaHorariaTeorico": 0,
+        "CargaHorariaPratica": 0,
+        "ListaPrequisitos": []
+      },
+      {
+        "Id": 60149,
+        "Codigo": "1005.000.144-4",
+        "Descricao": "BASES BIOLOGICAS DA PRÁTICA MÉDICA XII",
+        "Semestre": "0",
+        "Apelido": "BASES BIOLOGICAS DA PRÁTICA MÉDICA XII",
+        "CargaHorariaTeorico": 0,
+        "CargaHorariaPratica": 0,
+        "ListaPrequisitos": []
+      },
+      {
+        "Id": 60152,
+        "Codigo": "1005.000.147-1",
+        "Descricao": "CIRURGIA I",
+        "Semestre": "0",
+        "Apelido": "CIRURGIA I",
+        "CargaHorariaTeorico": 0,
+        "CargaHorariaPratica": 0,
+        "ListaPrequisitos": []
+      },
+      {
+        "Id": 60155,
+        "Codigo": "1005.000.150-6",
+        "Descricao": "HABILIDADES CLÍNICAS DA PRÁTICA MÉDICA III",
+        "Semestre": "0",
+        "Apelido": "HABILIDADES CLÍNICAS DA PRÁTICA MÉDICA III",
+        "CargaHorariaTeorico": 0,
+        "CargaHorariaPratica": 0,
+        "ListaPrequisitos": []
+      },
+      {
+        "Id": 60156,
+        "Codigo": "1005.000.151-5",
+        "Descricao": "BASES BIOLÓGICAS DA PRÁTICA MÉDICA III",
+        "Semestre": "0",
+        "Apelido": "BASES BIOLÓGICAS DA PRÁTICA MÉDICA III",
+        "CargaHorariaTeorico": 0,
+        "CargaHorariaPratica": 0,
+        "ListaPrequisitos": []
+      },
+      {
+        "Id": 60157,
+        "Codigo": "1005.000.152-4",
+        "Descricao": "BASES BIOLÓGICAS DA PRÁTICA MÉDICA VII",
+        "Semestre": "0",
+        "Apelido": "BASES BIOLÓGICAS DA PRÁTICA MÉDICA VII",
+        "CargaHorariaTeorico": 0,
+        "CargaHorariaPratica": 0,
+        "ListaPrequisitos": []
+      },
+      {
+        "Id": 60158,
+        "Codigo": "1005.000.153-3",
+        "Descricao": "BASES BIOLÓGICAS DA PRÁTICA MÉDICA VIII",
+        "Semestre": "0",
+        "Apelido": "BASES BIOLÓGICAS DA PRÁTICA MÉDICA VIII",
+        "CargaHorariaTeorico": 0,
+        "CargaHorariaPratica": 0,
+        "ListaPrequisitos": []
+      },
+      {
+        "Id": 60159,
+        "Codigo": "1005.000.154-2",
+        "Descricao": "BASES BIOLÓGICAS DA PRÁTICA MÉDICA IX",
+        "Semestre": "0",
+        "Apelido": "BASES BIOLÓGICAS DA PRÁTICA MÉDICA IX",
+        "CargaHorariaTeorico": 0,
+        "CargaHorariaPratica": 0,
+        "ListaPrequisitos": []
+      },
+      {
+        "Id": 60160,
+        "Codigo": "1005.000.155-1",
+        "Descricao": "ATENÇÃO PRIMÁRIA VIII",
+        "Semestre": "0",
+        "Apelido": "ATENÇÃO PRIMÁRIA VIII",
+        "CargaHorariaTeorico": 0,
+        "CargaHorariaPratica": 0,
+        "ListaPrequisitos": []
+      },
+      {
+        "Id": 60161,
+        "Codigo": "1005.000.156-0",
+        "Descricao": "CIRURGIA II",
+        "Semestre": "0",
+        "Apelido": "CIRURGIA II",
+        "CargaHorariaTeorico": 0,
+        "CargaHorariaPratica": 0,
+        "ListaPrequisitos": []
+      },
+      {
+        "Id": 60162,
+        "Codigo": "1005.000.157-0",
+        "Descricao": "HABILIDADES CLÍNICAS DA PRÁTICA MÉDICA VIII",
+        "Semestre": "0",
+        "Apelido": "HABILIDADES CLÍNICAS DA PRÁTICA MÉDICA VIII",
+        "CargaHorariaTeorico": 0,
+        "CargaHorariaPratica": 0,
+        "ListaPrequisitos": []
+      },
+      {
+        "Id": 60163,
+        "Codigo": "1005.000.158-9",
+        "Descricao": "BASES COMPLEMENTARES DA MEDICINA II",
+        "Semestre": "0",
+        "Apelido": "BASES COMPLEMENTARES DA MEDICINA II",
+        "CargaHorariaTeorico": 0,
+        "CargaHorariaPratica": 0,
+        "ListaPrequisitos": []
+      },
+      {
+        "Id": 60164,
+        "Codigo": "1005.000.159-8",
+        "Descricao": "HABILIDADES CLÍNICAS DA PRÁTICA MÉDICA X",
+        "Semestre": "0",
+        "Apelido": "HABILIDADES CLÍNICAS DA PRÁTICA MÉDICA X",
+        "CargaHorariaTeorico": 0,
+        "CargaHorariaPratica": 0,
+        "ListaPrequisitos": []
+      },
+      {
+        "Id": 60167,
+        "Codigo": "1005.000.162-2",
+        "Descricao": "ATENÇÃO PRIMÁRIA VII",
+        "Semestre": "0",
+        "Apelido": "ATENÇÃO PRIMÁRIA VII",
+        "CargaHorariaTeorico": 0,
+        "CargaHorariaPratica": 0,
+        "ListaPrequisitos": []
+      },
+      {
+        "Id": 60168,
+        "Codigo": "1005.000.163-1",
+        "Descricao": "HABILIDADES CLÍNICAS DA PRÁTICA MÉDICA IV",
+        "Semestre": "0",
+        "Apelido": "HABILIDADES CLÍNICAS DA PRÁTICA MÉDICA IV",
+        "CargaHorariaTeorico": 0,
+        "CargaHorariaPratica": 0,
+        "ListaPrequisitos": []
+      },
+      {
+        "Id": 60170,
+        "Codigo": "1005.000.165-0",
+        "Descricao": "BASES COMPLEMENTARES DA MEDICINA V",
+        "Semestre": "0",
+        "Apelido": "BASES COMPLEMENTARES DA MEDICINA V",
+        "CargaHorariaTeorico": 0,
+        "CargaHorariaPratica": 0,
+        "ListaPrequisitos": []
+      },
+      {
+        "Id": 60174,
+        "Codigo": "1005.000.169-6",
+        "Descricao": "HABILIDADES CLÍNICAS DA PRÁTICA MÉDICA IX",
+        "Semestre": "0",
+        "Apelido": "HABILIDADES CLÍNICAS DA PRÁTICA MÉDICA IX",
+        "CargaHorariaTeorico": 0,
+        "CargaHorariaPratica": 0,
+        "ListaPrequisitos": []
+      },
+      {
+        "Id": 60175,
+        "Codigo": "1005.000.170-2",
+        "Descricao": "HABILIDADES CLÍNICAS DA PRÁTICA MÉDICA VII",
+        "Semestre": "0",
+        "Apelido": "HABILIDADES CLÍNICAS DA PRÁTICA MÉDICA VII",
+        "CargaHorariaTeorico": 0,
+        "CargaHorariaPratica": 0,
+        "ListaPrequisitos": []
+      },
+      {
+        "Id": 60176,
+        "Codigo": "1005.000.171-1",
+        "Descricao": "BASES BIOLÓGICAS DA PRÁTICA MÉDICA V",
+        "Semestre": "0",
+        "Apelido": "BASES BIOLÓGICAS DA PRÁTICA MÉDICA V",
+        "CargaHorariaTeorico": 0,
+        "CargaHorariaPratica": 0,
+        "ListaPrequisitos": []
+      },
+      {
+        "Id": 60177,
+        "Codigo": "1005.000.172-0",
+        "Descricao": "BASES BIOLÓGICAS DA PRÁTICA MÉDICA VI",
+        "Semestre": "0",
+        "Apelido": "BASES BIOLÓGICAS DA PRÁTICA MÉDICA VI",
+        "CargaHorariaTeorico": 0,
+        "CargaHorariaPratica": 0,
+        "ListaPrequisitos": []
+      },
+      {
+        "Id": 60178,
+        "Codigo": "1005.000.173-0",
+        "Descricao": "URGÊNCIA E EMERGÊNCIA II",
+        "Semestre": "0",
+        "Apelido": "URGÊNCIA E EMERGÊNCIA II",
+        "CargaHorariaTeorico": 0,
+        "CargaHorariaPratica": 0,
+        "ListaPrequisitos": []
+      },
+      {
+        "Id": 60179,
+        "Codigo": "1005.000.174-9",
+        "Descricao": "HABILIDADES CLÍNICAS DA PRÁTICA MÉDICA I",
+        "Semestre": "0",
+        "Apelido": "HABILIDADES CLÍNICAS DA PRÁTICA MÉDICA I",
+        "CargaHorariaTeorico": 0,
+        "CargaHorariaPratica": 0,
+        "ListaPrequisitos": []
+      },
+      {
+        "Id": 60180,
+        "Codigo": "1005.000.175-8",
+        "Descricao": "HABILIDADES CLÍNICAS DA PRÁTICA MÉDICA II",
+        "Semestre": "0",
+        "Apelido": "HABILIDADES CLÍNICAS DA PRÁTICA MÉDICA II",
+        "CargaHorariaTeorico": 0,
+        "CargaHorariaPratica": 0,
+        "ListaPrequisitos": []
+      },
+      {
+        "Id": 60184,
+        "Codigo": "1005.000.179-4",
+        "Descricao": "URGÊNCIA E EMERGÊNCIA I",
+        "Semestre": "0",
+        "Apelido": "URGÊNCIA E EMERGÊNCIA I",
+        "CargaHorariaTeorico": 0,
+        "CargaHorariaPratica": 0,
+        "ListaPrequisitos": []
+      },
+      {
+        "Id": 60186,
+        "Codigo": "1005.000.181-0",
+        "Descricao": "BASES BIOLÓGICAS DA PRÁTICA MÉDICA XI",
+        "Semestre": "0",
+        "Apelido": "BASES BIOLÓGICAS DA PRÁTICA MÉDICA XI",
+        "CargaHorariaTeorico": 0,
+        "CargaHorariaPratica": 0,
+        "ListaPrequisitos": []
+      },
+      {
+        "Id": 60187,
+        "Codigo": "1005.000.182-9",
+        "Descricao": "BASES COMPLEMENTARES DA MEDICINA VI",
+        "Semestre": "0",
+        "Apelido": "BASES COMPLEMENTARES DA MEDICINA VI",
+        "CargaHorariaTeorico": 0,
+        "CargaHorariaPratica": 0,
+        "ListaPrequisitos": []
+      },
+      {
+        "Id": 60189,
+        "Codigo": "1005.000.184-7",
+        "Descricao": "URGÊNCIA E EMERGÊNCIA IV",
+        "Semestre": "0",
+        "Apelido": "URGÊNCIA E EMERGÊNCIA IV",
+        "CargaHorariaTeorico": 0,
+        "CargaHorariaPratica": 0,
+        "ListaPrequisitos": []
+      },
+      {
+        "Id": 60190,
+        "Codigo": "1005.000.185-6",
+        "Descricao": "BASES COMPLEMENTARES DA MEDICINA I",
+        "Semestre": "0",
+        "Apelido": "BASES COMPLEMENTARES DA MEDICINA I",
+        "CargaHorariaTeorico": 0,
+        "CargaHorariaPratica": 0,
+        "ListaPrequisitos": []
+      },
+      {
+        "Id": 60191,
+        "Codigo": "1005.000.186-5",
+        "Descricao": "URGÊNCIA E EMERGÊNCIA III",
+        "Semestre": "0",
+        "Apelido": "URGÊNCIA E EMERGÊNCIA III",
+        "CargaHorariaTeorico": 0,
+        "CargaHorariaPratica": 0,
+        "ListaPrequisitos": []
+      },
+      {
+        "Id": 60193,
+        "Codigo": "1005.000.188-3",
+        "Descricao": "ATENÇÃO PRIMÁRIA V",
+        "Semestre": "0",
+        "Apelido": "ATENÇÃO PRIMÁRIA V",
+        "CargaHorariaTeorico": 0,
+        "CargaHorariaPratica": 0,
+        "ListaPrequisitos": []
+      },
+      {
+        "Id": 60194,
+        "Codigo": "1005.000.189-2",
+        "Descricao": "HABILIDADES CLÍNICAS DA PRÁTICA MÉDICA VI",
+        "Semestre": "0",
+        "Apelido": "HABILIDADES CLÍNICAS DA PRÁTICA MÉDICA VI",
+        "CargaHorariaTeorico": 0,
+        "CargaHorariaPratica": 0,
+        "ListaPrequisitos": []
+      },
+      {
+        "Id": 60195,
+        "Codigo": "1005.000.190-9",
+        "Descricao": "HABILIDADES CLÍNICAS DA PRÁTICA MÉDICA XII",
+        "Semestre": "0",
+        "Apelido": "HABILIDADES CLÍNICAS DA PRÁTICA MÉDICA XII",
+        "CargaHorariaTeorico": 0,
+        "CargaHorariaPratica": 0,
+        "ListaPrequisitos": []
+      },
+      {
+        "Id": 60196,
+        "Codigo": "1005.000.191-8",
+        "Descricao": "ATENÇÃO PRIMÁRIA VI",
+        "Semestre": "0",
+        "Apelido": "ATENÇÃO PRIMÁRIA VI",
+        "CargaHorariaTeorico": 0,
+        "CargaHorariaPratica": 0,
+        "ListaPrequisitos": []
+      },
+      {
+        "Id": 60197,
+        "Codigo": "1005.000.192-7",
+        "Descricao": "BASES COMPLEMENTARES DA MEDICINA IV",
+        "Semestre": "0",
+        "Apelido": "BASES COMPLEMENTARES DA MEDICINA IV",
+        "CargaHorariaTeorico": 0,
+        "CargaHorariaPratica": 0,
+        "ListaPrequisitos": []
+      },
+      {
+        "Id": 60198,
+        "Codigo": "1005.000.193-6",
+        "Descricao": "CIRURGIA IV",
+        "Semestre": "0",
+        "Apelido": "CIRURGIA IV",
+        "CargaHorariaTeorico": 0,
+        "CargaHorariaPratica": 0,
+        "ListaPrequisitos": []
+      },
+      {
+        "Id": 60201,
+        "Codigo": "1005.000.196-3",
+        "Descricao": "HABILIDADES CLÍNICAS DA PRÁTICA MÉDICA V",
+        "Semestre": "0",
+        "Apelido": "HABILIDADES CLÍNICAS DA PRÁTICA MÉDICA V",
+        "CargaHorariaTeorico": 0,
+        "CargaHorariaPratica": 0,
+        "ListaPrequisitos": []
+      },
+      {
+        "Id": 60202,
+        "Codigo": "1005.000.197-2",
+        "Descricao": "BASES COMPLEMENTARES DA MEDICINA VII",
+        "Semestre": "0",
+        "Apelido": "BASES COMPLEMENTARES DA MEDICINA VII",
+        "CargaHorariaTeorico": 0,
+        "CargaHorariaPratica": 0,
+        "ListaPrequisitos": []
+      },
+      {
+        "Id": 60206,
+        "Codigo": "1005.000.201-1",
+        "Descricao": "BASES COMPLEMENTARES DA MEDICINA VIII",
+        "Semestre": "0",
+        "Apelido": "BASES COMPLEMENTARES DA MEDICINA VIII",
+        "CargaHorariaTeorico": 0,
+        "CargaHorariaPratica": 0,
+        "ListaPrequisitos": []
+      },
+      {
+        "Id": 60208,
+        "Codigo": "1005.000.203-0",
+        "Descricao": "ATENÇÃO PRIMÁRIA III",
+        "Semestre": "0",
+        "Apelido": "ATENÇÃO PRIMÁRIA III",
+        "CargaHorariaTeorico": 0,
+        "CargaHorariaPratica": 0,
+        "ListaPrequisitos": []
+      },
+      {
+        "Id": 60209,
+        "Codigo": "1005.000.204-9",
+        "Descricao": "ATENÇÃO PRIMÁRIA IV",
+        "Semestre": "0",
+        "Apelido": "ATENÇÃO PRIMÁRIA IV",
+        "CargaHorariaTeorico": 0,
+        "CargaHorariaPratica": 0,
+        "ListaPrequisitos": []
+      },
+      {
+        "Id": 60210,
+        "Codigo": "1005.000.205-8",
+        "Descricao": "BASES COMPLEMENTARES DA MEDICINA III",
+        "Semestre": "0",
+        "Apelido": "BASES COMPLEMENTARES DA MEDICINA III",
+        "CargaHorariaTeorico": 0,
+        "CargaHorariaPratica": 0,
+        "ListaPrequisitos": []
+      },
+      {
+        "Id": 60211,
+        "Codigo": "1005.000.206-7",
+        "Descricao": "BASES BIOLÓGICAS DA PRÁTICA MÉDICA X",
+        "Semestre": "0",
+        "Apelido": "BASES BIOLÓGICAS DA PRÁTICA MÉDICA X",
+        "CargaHorariaTeorico": 0,
+        "CargaHorariaPratica": 0,
+        "ListaPrequisitos": []
+      },
+      {
+        "Id": 60212,
+        "Codigo": "1005.000.207-6",
+        "Descricao": "ATENÇÃO PRIMÁRIA II",
+        "Semestre": "0",
+        "Apelido": "ATENÇÃO PRIMÁRIA II",
+        "CargaHorariaTeorico": 0,
+        "CargaHorariaPratica": 0,
+        "ListaPrequisitos": []
+      },
+      {
+        "Id": 60213,
+        "Codigo": "1005.000.208-5",
+        "Descricao": "ATENÇÃO PRIMÁRIA I",
+        "Semestre": "0",
+        "Apelido": "ATENÇÃO PRIMÁRIA I",
+        "CargaHorariaTeorico": 0,
+        "CargaHorariaPratica": 0,
+        "ListaPrequisitos": []
+      },
+      {
+        "Id": 60214,
+        "Codigo": "1005.000.209-4",
+        "Descricao": "BASES BIOLÓGICAS DA PRÁTICA MÉDICA IV",
+        "Semestre": "0",
+        "Apelido": "BASES BIOLÓGICAS DA PRÁTICA MÉDICA IV",
+        "CargaHorariaTeorico": 0,
+        "CargaHorariaPratica": 0,
+        "ListaPrequisitos": []
+      },
+      {
+        "Id": 60217,
+        "Codigo": "2701.000.691-1",
+        "Descricao": "BASES BIOLÓGICAS DA PRÁTICA MÉDICA I",
+        "Semestre": "0",
+        "Apelido": "BASES BIOLÓGICAS DA PRÁTICA MÉDICA I",
+        "CargaHorariaTeorico": 0,
+        "CargaHorariaPratica": 0,
+        "ListaPrequisitos": []
+      },
+      {
+        "Id": 60218,
+        "Codigo": "2701.000.692-0",
+        "Descricao": "BASES BIOLÓGICAS DA PRÁTICA MÉDICA II",
+        "Semestre": "0",
+        "Apelido": "BASES BIOLÓGICAS DA PRÁTICA MÉDICA II",
+        "CargaHorariaTeorico": 0,
+        "CargaHorariaPratica": 0,
+        "ListaPrequisitos": []
+      }
+    ]
+  },
+  {
+    "Id": 51503,
+    "Codigo": "1005.000.100-5",
+    "Tipo": "OBR",
+    "Descricao": "ESTÁGIO OBRIGATÓRIO EM CIRURGIA II",
+    "Semestre": 11,
+    "Apelido": "ESTÁGIO OBRIGATÓRIO EM CIRURGIA II",
+    "CargaHorariaTeorico": 320,
+    "CargaHorariaPratica": null,
+    "ListaPrequisitos": [
+      {
+        "Id": 51492,
+        "Codigo": "1005.000.089-5",
+        "Descricao": "ESTÁGIO OBRIGATÓRIO EM CIRURGIA I",
+        "Semestre": "0",
+        "Apelido": "ESTÁGIO OBRIGATÓRIO EM CIRURGIA I",
+        "CargaHorariaTeorico": 0,
+        "CargaHorariaPratica": 0,
+        "ListaPrequisitos": []
+      },
+      {
+        "Id": 51493,
+        "Codigo": "1005.000.090-1",
+        "Descricao": "ESTÁGIO OBRIGATÓRIO EM URGÊNCIAS E EMERGÊNCIAS CLÍNICAS",
+        "Semestre": "0",
+        "Apelido": "ESTÁGIO OBRIGATÓRIO EM URGÊNCIAS E EMERGÊNCIAS CLÍNICAS",
+        "CargaHorariaTeorico": 0,
+        "CargaHorariaPratica": 0,
+        "ListaPrequisitos": []
+      }
+    ]
+  },
+  {
+    "Id": 51500,
+    "Codigo": "1005.000.097-5",
+    "Tipo": "OBR",
+    "Descricao": "ESTÁGIO OBRIGATÓRIO EM CLÍNICA MÉDICA II",
+    "Semestre": 11,
+    "Apelido": "ESTÁGIO OBRIGATÓRIO EM CLÍNICA MÉDICA II",
+    "CargaHorariaTeorico": 320,
+    "CargaHorariaPratica": null,
+    "ListaPrequisitos": [
+      {
+        "Id": 51487,
+        "Codigo": "1005.000.084-0",
+        "Descricao": "ESTÁGIO OBRIGATÓRIO EM CLÍNICA MÉDICA I",
+        "Semestre": "0",
+        "Apelido": "ESTÁGIO OBRIGATÓRIO EM CLÍNICA MÉDICA I",
+        "CargaHorariaTeorico": 0,
+        "CargaHorariaPratica": 0,
+        "ListaPrequisitos": []
+      },
+      {
+        "Id": 51493,
+        "Codigo": "1005.000.090-1",
+        "Descricao": "ESTÁGIO OBRIGATÓRIO EM URGÊNCIAS E EMERGÊNCIAS CLÍNICAS",
+        "Semestre": "0",
+        "Apelido": "ESTÁGIO OBRIGATÓRIO EM URGÊNCIAS E EMERGÊNCIAS CLÍNICAS",
+        "CargaHorariaTeorico": 0,
+        "CargaHorariaPratica": 0,
+        "ListaPrequisitos": []
+      }
+    ]
+  },
+  {
+    "Id": 51481,
+    "Codigo": "1005.000.078-8",
+    "Tipo": "OBR",
+    "Descricao": "ESTÁGIO OBRIGATÓRIO EM SAÚDE DA MULHER II",
+    "Semestre": 11,
+    "Apelido": "ESTÁGIO OBRIGATÓRIO EM SAÚDE DA MULHER II",
+    "CargaHorariaTeorico": 160,
+    "CargaHorariaPratica": null,
+    "ListaPrequisitos": [
+      {
+        "Id": 51523,
+        "Codigo": "1005.000.120-1",
+        "Descricao": "ESTÁGIO OBRIGATÓRIO EM SAÚDE DA MULHER I",
+        "Semestre": "0",
+        "Apelido": "ESTÁGIO OBRIGATÓRIO EM SAÚDE DA MULHER I",
+        "CargaHorariaTeorico": 0,
+        "CargaHorariaPratica": 0,
+        "ListaPrequisitos": []
+      }
+    ]
+  },
+  {
+    "Id": 51484,
+    "Codigo": "1005.000.081-2",
+    "Tipo": "OBR",
+    "Descricao": "ESTÁGIO OBRIGATÓRIO EM URGÊNCIAS E EMERGÊNCIAS GINECOLÓGICAS E OBSTÉTRICAS",
+    "Semestre": 11,
+    "Apelido": "ESTÁGIO OBRIGATÓRIO EM URGÊNCIAS E EMERGÊNCIAS GINECOLÓGICAS E OBSTÉTRICAS",
+    "CargaHorariaTeorico": 160,
+    "CargaHorariaPratica": null,
+    "ListaPrequisitos": [
+      {
+        "Id": 51523,
+        "Codigo": "1005.000.120-1",
+        "Descricao": "ESTÁGIO OBRIGATÓRIO EM SAÚDE DA MULHER I",
+        "Semestre": "0",
+        "Apelido": "ESTÁGIO OBRIGATÓRIO EM SAÚDE DA MULHER I",
+        "CargaHorariaTeorico": 0,
+        "CargaHorariaPratica": 0,
+        "ListaPrequisitos": []
+      }
+    ]
+  },
+  {
+    "Id": 51482,
+    "Codigo": "1005.000.079-7",
+    "Tipo": "OBR",
+    "Descricao": "ESTÁGIO OBRIGATÓRIO EM ATENÇÃO BÁSICA: MEDICINA DA FAMÍLIA, COMUNIDADE E SAÚDE COLETIVA III",
+    "Semestre": 12,
+    "Apelido": "ESTÁGIO OBRIGATÓRIO EM ATENÇÃO BÁSICA: MEDICINA DA FAMÍLIA, COMUNIDADE E SAÚDE COLETIVA III",
+    "CargaHorariaTeorico": 160,
+    "CargaHorariaPratica": null,
+    "ListaPrequisitos": [
+      {
+        "Id": 51507,
+        "Codigo": "1005.000.104-1",
+        "Descricao": "ESTÁGIO OBRIGATÓRIO EM ATENÇÃO BÁSICA: MEDICINA DA FAMÍLIA, COMUNIDADE E SAÚDE COLETIVA I",
+        "Semestre": "0",
+        "Apelido": "ESTÁGIO OBRIGATÓRIO EM ATENÇÃO BÁSICA: MEDICINA DA FAMÍLIA, COMUNIDADE E SAÚDE COLETIVA I",
+        "CargaHorariaTeorico": 0,
+        "CargaHorariaPratica": 0,
+        "ListaPrequisitos": []
+      },
+      {
+        "Id": 51525,
+        "Codigo": "1005.000.122-0",
+        "Descricao": "ESTÁGIO OBRIGATÓRIO EM ATENÇÃO BÁSICA: MEDICINA DA FAMÍLIA, COMUNIDADE E SAÚDE COLETIVA II",
+        "Semestre": "0",
+        "Apelido": "ESTÁGIO OBRIGATÓRIO EM ATENÇÃO BÁSICA: MEDICINA DA FAMÍLIA, COMUNIDADE E SAÚDE COLETIVA II",
+        "CargaHorariaTeorico": 0,
+        "CargaHorariaPratica": 0,
+        "ListaPrequisitos": []
+      },
+      {
+        "Id": 60157,
+        "Codigo": "1005.000.152-4",
+        "Descricao": "BASES BIOLÓGICAS DA PRÁTICA MÉDICA VII",
+        "Semestre": "0",
+        "Apelido": "BASES BIOLÓGICAS DA PRÁTICA MÉDICA VII",
+        "CargaHorariaTeorico": 0,
+        "CargaHorariaPratica": 0,
+        "ListaPrequisitos": []
+      }
+    ]
+  },
+  {
+    "Id": 51483,
+    "Codigo": "1005.000.080-3",
+    "Tipo": "OBR",
+    "Descricao": "ESTÁGIO OBRIGATÓRIO EM ATENÇÃO BÁSICA: MEDICINA DA FAMÍLIA, COMUNIDADE E SAÚDE COLETIVA IV",
+    "Semestre": 12,
+    "Apelido": "ESTÁGIO OBRIGATÓRIO EM ATENÇÃO BÁSICA: MEDICINA DA FAMÍLIA, COMUNIDADE E SAÚDE COLETIVA IV",
+    "CargaHorariaTeorico": 160,
+    "CargaHorariaPratica": null,
+    "ListaPrequisitos": [
+      {
+        "Id": 51507,
+        "Codigo": "1005.000.104-1",
+        "Descricao": "ESTÁGIO OBRIGATÓRIO EM ATENÇÃO BÁSICA: MEDICINA DA FAMÍLIA, COMUNIDADE E SAÚDE COLETIVA I",
+        "Semestre": "0",
+        "Apelido": "ESTÁGIO OBRIGATÓRIO EM ATENÇÃO BÁSICA: MEDICINA DA FAMÍLIA, COMUNIDADE E SAÚDE COLETIVA I",
+        "CargaHorariaTeorico": 0,
+        "CargaHorariaPratica": 0,
+        "ListaPrequisitos": []
+      },
+      {
+        "Id": 51525,
+        "Codigo": "1005.000.122-0",
+        "Descricao": "ESTÁGIO OBRIGATÓRIO EM ATENÇÃO BÁSICA: MEDICINA DA FAMÍLIA, COMUNIDADE E SAÚDE COLETIVA II",
+        "Semestre": "0",
+        "Apelido": "ESTÁGIO OBRIGATÓRIO EM ATENÇÃO BÁSICA: MEDICINA DA FAMÍLIA, COMUNIDADE E SAÚDE COLETIVA II",
+        "CargaHorariaTeorico": 0,
+        "CargaHorariaPratica": 0,
+        "ListaPrequisitos": []
+      }
+    ]
+  },
+  {
+    "Id": 51475,
+    "Codigo": "1005.000.072-3",
+    "Tipo": "OBR",
+    "Descricao": "ESTÁGIO OBRIGATÓRIO EM PEDIATRIA II",
+    "Semestre": 12,
+    "Apelido": "ESTÁGIO OBRIGATÓRIO EM PEDIATRIA II",
+    "CargaHorariaTeorico": 320,
+    "CargaHorariaPratica": null,
+    "ListaPrequisitos": [
+      {
+        "Id": 51474,
+        "Codigo": "1005.000.071-4",
+        "Descricao": "ESTÁGIO OBRIGATÓRIO EM PEDIATRIA I",
+        "Semestre": "0",
+        "Apelido": "ESTÁGIO OBRIGATÓRIO EM PEDIATRIA I",
+        "CargaHorariaTeorico": 0,
+        "CargaHorariaPratica": 0,
+        "ListaPrequisitos": []
+      },
+      {
+        "Id": 51486,
+        "Codigo": "1005.000.083-0",
+        "Descricao": "ESTÁGIO OBRIGATÓRIO EM URGÊNCIAS E EMERGÊNCIAS PEDIÁTRICAS",
+        "Semestre": "0",
+        "Apelido": "ESTÁGIO OBRIGATÓRIO EM URGÊNCIAS E EMERGÊNCIAS PEDIÁTRICAS",
+        "CargaHorariaTeorico": 0,
+        "CargaHorariaPratica": 0,
+        "ListaPrequisitos": []
+      }
+    ]
+  },
+  {
+    "Id": 60185,
+    "Codigo": "1005.000.180-0",
+    "Tipo": "OPT",
+    "Descricao": "ANATOMIA CLÍNICA HUMANA",
+    "Semestre": 99,
+    "Apelido": "ANATOMIA CLÍNICA HUMANA",
+    "CargaHorariaTeorico": 30,
+    "CargaHorariaPratica": null,
+    "ListaPrequisitos": [
+      {
+        "Id": 60217,
+        "Codigo": "2701.000.691-1",
+        "Descricao": "BASES BIOLÓGICAS DA PRÁTICA MÉDICA I",
+        "Semestre": "0",
+        "Apelido": "BASES BIOLÓGICAS DA PRÁTICA MÉDICA I",
+        "CargaHorariaTeorico": 0,
+        "CargaHorariaPratica": 0,
+        "ListaPrequisitos": []
+      },
+      {
+        "Id": 60218,
+        "Codigo": "2701.000.692-0",
+        "Descricao": "BASES BIOLÓGICAS DA PRÁTICA MÉDICA II",
+        "Semestre": "0",
+        "Apelido": "BASES BIOLÓGICAS DA PRÁTICA MÉDICA II",
+        "CargaHorariaTeorico": 0,
+        "CargaHorariaPratica": 0,
+        "ListaPrequisitos": []
+      }
+    ]
+  },
+  {
+    "Id": 60199,
+    "Codigo": "1005.000.194-5",
+    "Tipo": "OPT",
+    "Descricao": "BIOQUIMICA E A LÓGICA DA VIDA",
+    "Semestre": 99,
+    "Apelido": "BIOQUIMICA E A LÓGICA DA VIDA",
+    "CargaHorariaTeorico": 45,
+    "CargaHorariaPratica": null,
+    "ListaPrequisitos": []
+  },
+  {
+    "Id": 52366,
+    "Codigo": "2101.001.614-9",
+    "Tipo": "OPT",
+    "Descricao": "CIÊNCIAS DO AMBIENTE",
+    "Semestre": 99,
+    "Apelido": "CIÊNCIAS DO AMBIENTE",
+    "CargaHorariaTeorico": 30,
+    "CargaHorariaPratica": null,
+    "ListaPrequisitos": []
+  },
+  {
+    "Id": 60165,
+    "Codigo": "1005.000.160-4",
+    "Tipo": "OPT",
+    "Descricao": "DENGUE - CLASSIFICAÇÃO DE RISCO E ASSISTÊNCIA",
+    "Semestre": 99,
+    "Apelido": "DENGUE - CLASSIFICAÇÃO DE RISCO E ASSISTÊNCIA",
+    "CargaHorariaTeorico": 30,
+    "CargaHorariaPratica": null,
+    "ListaPrequisitos": []
+  },
+  {
+    "Id": 52887,
+    "Codigo": "3001.000.747-9",
+    "Tipo": "OPT",
+    "Descricao": "EDUCAÇÃO DAS RELAÇÕES ÉTNICO-RACIAIS",
+    "Semestre": 99,
+    "Apelido": "EDUCAÇÃO DAS RELAÇÕES ÉTNICO-RACIAIS",
+    "CargaHorariaTeorico": 30,
+    "CargaHorariaPratica": null,
+    "ListaPrequisitos": []
+  },
+  {
+    "Id": 60221,
+    "Codigo": "2701.000.695-8",
+    "Tipo": "OPT",
+    "Descricao": "ELABORAÇÃO DE ARTIGOS CIENTÍFICOS",
+    "Semestre": 99,
+    "Apelido": "ELABORAÇÃO DE ARTIGOS CIENTÍFICOS",
+    "CargaHorariaTeorico": 30,
+    "CargaHorariaPratica": null,
+    "ListaPrequisitos": []
+  },
+  {
+    "Id": 52345,
+    "Codigo": "0100.000.004-9",
+    "Tipo": "OPT",
+    "Descricao": "EMPREENDEDORISMO E INOVAÇÃO",
+    "Semestre": 99,
+    "Apelido": "EMPREENDEDORISMO E INOVAÇÃO",
+    "CargaHorariaTeorico": 60,
+    "CargaHorariaPratica": null,
+    "ListaPrequisitos": []
+  },
+  {
+    "Id": 52303,
+    "Codigo": "3101.000.707-8",
+    "Tipo": "OPT",
+    "Descricao": "ESTUDO DE LIBRAS",
+    "Semestre": 99,
+    "Apelido": "ESTUDO DE LIBRAS",
+    "CargaHorariaTeorico": 45,
+    "CargaHorariaPratica": null,
+    "ListaPrequisitos": []
+  },
+  {
+    "Id": 60216,
+    "Codigo": "2601.000.714-9",
+    "Tipo": "OPT",
+    "Descricao": "FARMACOLOGIA E TERAPEUTICA CLÍNICA",
+    "Semestre": 99,
+    "Apelido": "FARMACOLOGIA E TERAPEUTICA CLÍNICA",
+    "CargaHorariaTeorico": 60,
+    "CargaHorariaPratica": null,
+    "ListaPrequisitos": []
+  },
+  {
+    "Id": 60219,
+    "Codigo": "2701.000.693-0",
+    "Tipo": "OPT",
+    "Descricao": "FUNDAMENTOS TEÓRICO-PRÁTICOS EM GENÉTICA CLÍNICA",
+    "Semestre": 99,
+    "Apelido": "FUNDAMENTOS TEÓRICO-PRÁTICOS EM GENÉTICA CLÍNICA",
+    "CargaHorariaTeorico": 30,
+    "CargaHorariaPratica": null,
+    "ListaPrequisitos": []
+  },
+  {
+    "Id": 60223,
+    "Codigo": "2801.000.259-4",
+    "Tipo": "OPT",
+    "Descricao": "HABILIDADES INTERPESSOAIS",
+    "Semestre": 99,
+    "Apelido": "HABILIDADES INTERPESSOAIS",
+    "CargaHorariaTeorico": 45,
+    "CargaHorariaPratica": null,
+    "ListaPrequisitos": []
+  },
+  {
+    "Id": 60200,
+    "Codigo": "1005.000.195-4",
+    "Tipo": "OPT",
+    "Descricao": "INFECTOLOGIA E SUAS INTERFACES",
+    "Semestre": 99,
+    "Apelido": "INFECTOLOGIA E SUAS INTERFACES",
+    "CargaHorariaTeorico": 30,
+    "CargaHorariaPratica": null,
+    "ListaPrequisitos": []
+  },
+  {
+    "Id": 60224,
+    "Codigo": "2801.000.260-0",
+    "Tipo": "OPT",
+    "Descricao": "INTRODUÇÃO À HOMEOPATIA",
+    "Semestre": 99,
+    "Apelido": "INTRODUÇÃO À HOMEOPATIA",
+    "CargaHorariaTeorico": 30,
+    "CargaHorariaPratica": null,
+    "ListaPrequisitos": []
+  },
+  {
+    "Id": 60225,
+    "Codigo": "2901.001.806-8",
+    "Tipo": "OPT",
+    "Descricao": "LEITURAS EM INGLÊS",
+    "Semestre": 99,
+    "Apelido": "LEITURAS EM INGLÊS",
+    "CargaHorariaTeorico": 30,
+    "CargaHorariaPratica": null,
+    "ListaPrequisitos": []
+  },
+  {
+    "Id": 54736,
+    "Codigo": "2701.000.632-1",
+    "Tipo": "OPT",
+    "Descricao": "MICROBIOLOGIA MÉDICA",
+    "Semestre": 99,
+    "Apelido": "MICROBIOLOGIA MÉDICA",
+    "CargaHorariaTeorico": 30,
+    "CargaHorariaPratica": null,
+    "ListaPrequisitos": []
+  },
+  {
+    "Id": 60154,
+    "Codigo": "1005.000.149-0",
+    "Tipo": "OPT",
+    "Descricao": "PRINCÍPIOS DE CUIDADOS PALIATIVOS E TANATOLOGIA",
+    "Semestre": 99,
+    "Apelido": "PRINCÍPIOS DE CUIDADOS PALIATIVOS E TANATOLOGIA",
+    "CargaHorariaTeorico": 30,
+    "CargaHorariaPratica": null,
+    "ListaPrequisitos": []
+  },
+  {
+    "Id": 60171,
+    "Codigo": "1005.000.166-9",
+    "Tipo": "OPT",
+    "Descricao": "RADIOLOGIA E DIAGNÓSTICO POR IMAGEM I",
+    "Semestre": 99,
+    "Apelido": "RADIOLOGIA E DIAGNÓSTICO POR IMAGEM I",
+    "CargaHorariaTeorico": 30,
+    "CargaHorariaPratica": null,
+    "ListaPrequisitos": [
+      {
+        "Id": 60179,
+        "Codigo": "1005.000.174-9",
+        "Descricao": "HABILIDADES CLÍNICAS DA PRÁTICA MÉDICA I",
+        "Semestre": "0",
+        "Apelido": "HABILIDADES CLÍNICAS DA PRÁTICA MÉDICA I",
+        "CargaHorariaTeorico": 0,
+        "CargaHorariaPratica": 0,
+        "ListaPrequisitos": []
+      },
+      {
+        "Id": 60180,
+        "Codigo": "1005.000.175-8",
+        "Descricao": "HABILIDADES CLÍNICAS DA PRÁTICA MÉDICA II",
+        "Semestre": "0",
+        "Apelido": "HABILIDADES CLÍNICAS DA PRÁTICA MÉDICA II",
+        "CargaHorariaTeorico": 0,
+        "CargaHorariaPratica": 0,
+        "ListaPrequisitos": []
+      }
+    ]
+  },
+  {
+    "Id": 60166,
+    "Codigo": "1005.000.161-3",
+    "Tipo": "OPT",
+    "Descricao": "RADIOLOGIA E DIAGNÓSTICO POR IMAGEM II",
+    "Semestre": 99,
+    "Apelido": "RADIOLOGIA E DIAGNÓSTICO POR IMAGEM II",
+    "CargaHorariaTeorico": 30,
+    "CargaHorariaPratica": null,
+    "ListaPrequisitos": [
+      {
+        "Id": 60171,
+        "Codigo": "1005.000.166-9",
+        "Descricao": "RADIOLOGIA E DIAGNÓSTICO POR IMAGEM I",
+        "Semestre": "0",
+        "Apelido": "RADIOLOGIA E DIAGNÓSTICO POR IMAGEM I",
+        "CargaHorariaTeorico": 0,
+        "CargaHorariaPratica": 0,
+        "ListaPrequisitos": []
+      },
+      {
+        "Id": 60179,
+        "Codigo": "1005.000.174-9",
+        "Descricao": "HABILIDADES CLÍNICAS DA PRÁTICA MÉDICA I",
+        "Semestre": "0",
+        "Apelido": "HABILIDADES CLÍNICAS DA PRÁTICA MÉDICA I",
+        "CargaHorariaTeorico": 0,
+        "CargaHorariaPratica": 0,
+        "ListaPrequisitos": []
+      },
+      {
+        "Id": 60180,
+        "Codigo": "1005.000.175-8",
+        "Descricao": "HABILIDADES CLÍNICAS DA PRÁTICA MÉDICA II",
+        "Semestre": "0",
+        "Apelido": "HABILIDADES CLÍNICAS DA PRÁTICA MÉDICA II",
+        "CargaHorariaTeorico": 0,
+        "CargaHorariaPratica": 0,
+        "ListaPrequisitos": []
+      }
+    ]
+  },
+  {
+    "Id": 60188,
+    "Codigo": "1005.000.183-8",
+    "Tipo": "OPT",
+    "Descricao": "RADIOLOGIA E DIAGNÓSTICO POR IMAGEM III",
+    "Semestre": 99,
+    "Apelido": "RADIOLOGIA E DIAGNÓSTICO POR IMAGEM III",
+    "CargaHorariaTeorico": 30,
+    "CargaHorariaPratica": null,
+    "ListaPrequisitos": [
+      {
+        "Id": 60166,
+        "Codigo": "1005.000.161-3",
+        "Descricao": "RADIOLOGIA E DIAGNÓSTICO POR IMAGEM II",
+        "Semestre": "0",
+        "Apelido": "RADIOLOGIA E DIAGNÓSTICO POR IMAGEM II",
+        "CargaHorariaTeorico": 0,
+        "CargaHorariaPratica": 0,
+        "ListaPrequisitos": []
+      },
+      {
+        "Id": 60171,
+        "Codigo": "1005.000.166-9",
+        "Descricao": "RADIOLOGIA E DIAGNÓSTICO POR IMAGEM I",
+        "Semestre": "0",
+        "Apelido": "RADIOLOGIA E DIAGNÓSTICO POR IMAGEM I",
+        "CargaHorariaTeorico": 0,
+        "CargaHorariaPratica": 0,
+        "ListaPrequisitos": []
+      },
+      {
+        "Id": 60179,
+        "Codigo": "1005.000.174-9",
+        "Descricao": "HABILIDADES CLÍNICAS DA PRÁTICA MÉDICA I",
+        "Semestre": "0",
+        "Apelido": "HABILIDADES CLÍNICAS DA PRÁTICA MÉDICA I",
+        "CargaHorariaTeorico": 0,
+        "CargaHorariaPratica": 0,
+        "ListaPrequisitos": []
+      },
+      {
+        "Id": 60180,
+        "Codigo": "1005.000.175-8",
+        "Descricao": "HABILIDADES CLÍNICAS DA PRÁTICA MÉDICA II",
+        "Semestre": "0",
+        "Apelido": "HABILIDADES CLÍNICAS DA PRÁTICA MÉDICA II",
+        "CargaHorariaTeorico": 0,
+        "CargaHorariaPratica": 0,
+        "ListaPrequisitos": []
+      }
+    ]
+  },
+  {
+    "Id": 60226,
+    "Codigo": "3101.000.918-0",
+    "Tipo": "OPT",
+    "Descricao": "TECNOLOGIAS DIGITAIS APLICADAS AO ENSINO DO PORTUGUÊS",
+    "Semestre": 99,
+    "Apelido": "TECNOLOGIAS DIGITAIS APLICADAS AO ENSINO DO PORTUGUÊS",
+    "CargaHorariaTeorico": 60,
+    "CargaHorariaPratica": null,
+    "ListaPrequisitos": []
+  },
+  {
+    "Id": 60222,
+    "Codigo": "2701.000.696-7",
+    "Tipo": "OPT",
+    "Descricao": "TÓPICOS ATUAIS EM MORFOFISIOLOGIA HUMANA",
+    "Semestre": 99,
+    "Apelido": "TÓPICOS ATUAIS EM MORFOFISIOLOGIA HUMANA",
+    "CargaHorariaTeorico": 30,
+    "CargaHorariaPratica": null,
+    "ListaPrequisitos": []
+  },
+  {
+    "Id": 60204,
+    "Codigo": "1005.000.199-0",
+    "Tipo": "OPT",
+    "Descricao": "TÓPICOS ATUAIS EM SAÚDE DA COMUNIDADE",
+    "Semestre": 99,
+    "Apelido": "TÓPICOS ATUAIS EM SAÚDE DA COMUNIDADE",
+    "CargaHorariaTeorico": 45,
+    "CargaHorariaPratica": null,
+    "ListaPrequisitos": []
+  },
+  {
+    "Id": 60220,
+    "Codigo": "2701.000.694-9",
+    "Tipo": "OPT",
+    "Descricao": "TÓPICOS ESPECIAIS EM BIOQUÍMICA MÉDICA",
+    "Semestre": 99,
+    "Apelido": "TÓPICOS ESPECIAIS EM BIOQUÍMICA MÉDICA",
+    "CargaHorariaTeorico": 30,
+    "CargaHorariaPratica": null,
+    "ListaPrequisitos": []
+  },
+  {
+    "Id": 60181,
+    "Codigo": "1005.000.176-7",
+    "Tipo": "OPT",
+    "Descricao": "TÓPICOS ESPECIAIS EM CLÍNICA MÉDICA",
+    "Semestre": 99,
+    "Apelido": "TÓPICOS ESPECIAIS EM CLÍNICA MÉDICA",
+    "CargaHorariaTeorico": 60,
+    "CargaHorariaPratica": null,
+    "ListaPrequisitos": []
+  },
+  {
+    "Id": 60150,
+    "Codigo": "1005.000.145-3",
+    "Tipo": "OPT",
+    "Descricao": "TÓPICOS ESPECIAIS EM PRÁTICAS CLÍNICAS E CIRÚRGICAS",
+    "Semestre": 99,
+    "Apelido": "TÓPICOS ESPECIAIS EM PRÁTICAS CLÍNICAS E CIRÚRGICAS",
+    "CargaHorariaTeorico": 60,
+    "CargaHorariaPratica": null,
+    "ListaPrequisitos": []
+  },
+  {
+    "Id": 60203,
+    "Codigo": "1005.000.198-1",
+    "Tipo": "OPT",
+    "Descricao": "TÓPICOS ESPECIAIS EM PRÁTICAS INTEGRATIVAS E COMPLEMENTARES EM SAÚDE",
+    "Semestre": 99,
+    "Apelido": "TÓPICOS ESPECIAIS EM PRÁTICAS INTEGRATIVAS E COMPLEMENTARES EM SAÚDE",
+    "CargaHorariaTeorico": 45,
+    "CargaHorariaPratica": null,
+    "ListaPrequisitos": []
+  },
+  {
+    "Id": 60182,
+    "Codigo": "1005.000.177-6",
+    "Tipo": "OPT",
+    "Descricao": "TÓPICOS ESPECIAIS EM SAÚDE DA CRIANÇA E DO ADOLESCENTE",
+    "Semestre": 99,
+    "Apelido": "TÓPICOS ESPECIAIS EM SAÚDE DA CRIANÇA E DO ADOLESCENTE",
+    "CargaHorariaTeorico": 60,
+    "CargaHorariaPratica": null,
+    "ListaPrequisitos": []
+  },
+  {
+    "Id": 60183,
+    "Codigo": "1005.000.178-5",
+    "Tipo": "OPT",
+    "Descricao": "TÓPICOS ESPECIAIS EM SAÚDE DA MULHER",
+    "Semestre": 99,
+    "Apelido": "TÓPICOS ESPECIAIS EM SAÚDE DA MULHER",
+    "CargaHorariaTeorico": 60,
+    "CargaHorariaPratica": null,
+    "ListaPrequisitos": []
+  },
+  {
+    "Id": 60192,
+    "Codigo": "1005.000.187-4",
+    "Tipo": "OPT",
+    "Descricao": "TÓPICOS ESPECIAIS EM SAÚDE I",
+    "Semestre": 99,
+    "Apelido": "TÓPICOS ESPECIAIS EM SAÚDE I",
+    "CargaHorariaTeorico": 45,
+    "CargaHorariaPratica": null,
+    "ListaPrequisitos": []
+  },
+  {
+    "Id": 60148,
+    "Codigo": "1005.000.143-5",
+    "Tipo": "OPT",
+    "Descricao": "TÓPICOS ESPECIAIS EM SAÚDE II",
+    "Semestre": 99,
+    "Apelido": "TÓPICOS ESPECIAIS EM SAÚDE II",
+    "CargaHorariaTeorico": 45,
+    "CargaHorariaPratica": null,
+    "ListaPrequisitos": []
+  },
+  {
+    "Id": 60172,
+    "Codigo": "1005.000.167-8",
+    "Tipo": "OPT",
+    "Descricao": "TÓPICOS ESPECIAIS EM SAÚDE III",
+    "Semestre": 99,
+    "Apelido": "TÓPICOS ESPECIAIS EM SAÚDE III",
+    "CargaHorariaTeorico": 45,
+    "CargaHorariaPratica": null,
+    "ListaPrequisitos": []
+  },
+  {
+    "Id": 60173,
+    "Codigo": "1005.000.168-7",
+    "Tipo": "OPT",
+    "Descricao": "TÓPICOS ESPECIAIS EM SAÚDE IV",
+    "Semestre": 99,
+    "Apelido": "TÓPICOS ESPECIAIS EM SAÚDE IV",
+    "CargaHorariaTeorico": 45,
+    "CargaHorariaPratica": null,
+    "ListaPrequisitos": []
+  },
+  {
+    "Id": 60169,
+    "Codigo": "1005.000.164-0",
+    "Tipo": "OPT",
+    "Descricao": "TÓPICOS ESPECIAIS EM SAÚDE V",
+    "Semestre": 99,
+    "Apelido": "TÓPICOS ESPECIAIS EM SAÚDE V",
+    "CargaHorariaTeorico": 45,
+    "CargaHorariaPratica": null,
+    "ListaPrequisitos": []
+  },
+  {
+    "Id": 60153,
+    "Codigo": "1005.000.148-0",
+    "Tipo": "OPT",
+    "Descricao": "TÓPICOS ESPECIAIS EM SAÚDE VI",
+    "Semestre": 99,
+    "Apelido": "TÓPICOS ESPECIAIS EM SAÚDE VI",
+    "CargaHorariaTeorico": 45,
+    "CargaHorariaPratica": null,
+    "ListaPrequisitos": []
+  },
+  {
+    "Id": 60207,
+    "Codigo": "1005.000.202-0",
+    "Tipo": "OPT",
+    "Descricao": "TÓPICOS ESPECIAIS EM SAÚDE VII",
+    "Semestre": 99,
+    "Apelido": "TÓPICOS ESPECIAIS EM SAÚDE VII",
+    "CargaHorariaTeorico": 45,
+    "CargaHorariaPratica": null,
+    "ListaPrequisitos": []
+  },
+  {
+    "Id": 60205,
+    "Codigo": "1005.000.200-2",
+    "Tipo": "OPT",
+    "Descricao": "TÓPICOS ESPECIAIS EM SAÚDE VIII",
+    "Semestre": 99,
+    "Apelido": "TÓPICOS ESPECIAIS EM SAÚDE VIII",
+    "CargaHorariaTeorico": 45,
+    "CargaHorariaPratica": null,
+    "ListaPrequisitos": []
+  },
+  {
+    "Id": 60151,
+    "Codigo": "1005.000.146-2",
+    "Tipo": "OPT",
+    "Descricao": "TÓPICOS ESPECIAIS EM URGÊNCIA E EMERGÊNCIA",
+    "Semestre": 99,
+    "Apelido": "TÓPICOS ESPECIAIS EM URGÊNCIA E EMERGÊNCIA",
+    "CargaHorariaTeorico": 60,
+    "CargaHorariaPratica": null,
+    "ListaPrequisitos": []
+  }
+]

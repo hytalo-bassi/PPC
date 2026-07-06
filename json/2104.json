@@ -1,0 +1,1943 @@
+[
+  {
+    "Id": 53949,
+    "Codigo": "1919.000.462-8",
+    "Tipo": "OBR",
+    "Descricao": "ALGORITMOS E PROGRAMAÇÃO",
+    "Semestre": 1,
+    "Apelido": "ALGORITMOS E PROGRAMAÇÃO",
+    "CargaHorariaTeorico": 45,
+    "CargaHorariaPratica": null,
+    "ListaPrequisitos": []
+  },
+  {
+    "Id": 56475,
+    "Codigo": "2101.001.991-9",
+    "Tipo": "OBR",
+    "Descricao": "BIODIVERSIDADE E CONSERVAÇÃO",
+    "Semestre": 1,
+    "Apelido": "BIODIVERSIDADE E CONSERVAÇÃO",
+    "CargaHorariaTeorico": 45,
+    "CargaHorariaPratica": null,
+    "ListaPrequisitos": []
+  },
+  {
+    "Id": 52301,
+    "Codigo": "2201.000.253-9",
+    "Tipo": "OBR",
+    "Descricao": "CÁLCULO I",
+    "Semestre": 1,
+    "Apelido": "CÁLCULO I",
+    "CargaHorariaTeorico": 60,
+    "CargaHorariaPratica": null,
+    "ListaPrequisitos": []
+  },
+  {
+    "Id": 56501,
+    "Codigo": "2101.002.016-0",
+    "Tipo": "OBR",
+    "Descricao": "INTRODUÇÃO A ENGENHARIA AMBIENTAL",
+    "Semestre": 1,
+    "Apelido": "INTRODUÇÃO A ENGENHARIA AMBIENTAL",
+    "CargaHorariaTeorico": 30,
+    "CargaHorariaPratica": null,
+    "ListaPrequisitos": []
+  },
+  {
+    "Id": 56359,
+    "Codigo": "2101.001.880-4",
+    "Tipo": "OBR",
+    "Descricao": "LÓGICA DA PESQUISA CIENTÍFICA",
+    "Semestre": 1,
+    "Apelido": "LÓGICA DA PESQUISA CIENTÍFICA",
+    "CargaHorariaTeorico": 30,
+    "CargaHorariaPratica": null,
+    "ListaPrequisitos": []
+  },
+  {
+    "Id": 56472,
+    "Codigo": "2101.001.988-4",
+    "Tipo": "OBR",
+    "Descricao": "QUÍMICA APLICADA À ENGENHARIA AMBIENTAL I",
+    "Semestre": 1,
+    "Apelido": "QUÍMICA APLICADA À ENGENHARIA AMBIENTAL I",
+    "CargaHorariaTeorico": 60,
+    "CargaHorariaPratica": null,
+    "ListaPrequisitos": []
+  },
+  {
+    "Id": 52299,
+    "Codigo": "2201.000.251-0",
+    "Tipo": "OBR",
+    "Descricao": "VETORES E GEOMETRIA ANALÍTICA",
+    "Semestre": 1,
+    "Apelido": "VETORES E GEOMETRIA ANALÍTICA",
+    "CargaHorariaTeorico": 60,
+    "CargaHorariaPratica": null,
+    "ListaPrequisitos": []
+  },
+  {
+    "Id": 52364,
+    "Codigo": "2201.000.255-7",
+    "Tipo": "OBR",
+    "Descricao": "ÁLGEBRA LINEAR",
+    "Semestre": 2,
+    "Apelido": "ÁLGEBRA LINEAR",
+    "CargaHorariaTeorico": 60,
+    "CargaHorariaPratica": null,
+    "ListaPrequisitos": []
+  },
+  {
+    "Id": 52300,
+    "Codigo": "2201.000.252-0",
+    "Tipo": "OBR",
+    "Descricao": "CÁLCULO II",
+    "Semestre": 2,
+    "Apelido": "CÁLCULO II",
+    "CargaHorariaTeorico": 60,
+    "CargaHorariaPratica": null,
+    "ListaPrequisitos": [
+      {
+        "Id": 52301,
+        "Codigo": "2201.000.253-9",
+        "Descricao": "CÁLCULO I",
+        "Semestre": "0",
+        "Apelido": "CÁLCULO I",
+        "CargaHorariaTeorico": 0,
+        "CargaHorariaPratica": 0,
+        "ListaPrequisitos": []
+      }
+    ]
+  },
+  {
+    "Id": 53847,
+    "Codigo": "2101.001.628-3",
+    "Tipo": "OBR",
+    "Descricao": "DESENHO TÉCNICO",
+    "Semestre": 2,
+    "Apelido": "DESENHO TÉCNICO",
+    "CargaHorariaTeorico": 60,
+    "CargaHorariaPratica": null,
+    "ListaPrequisitos": []
+  },
+  {
+    "Id": 53868,
+    "Codigo": "2401.000.412-5",
+    "Tipo": "OBR",
+    "Descricao": "FUNDAMENTOS DE MECÂNICA",
+    "Semestre": 2,
+    "Apelido": "FUNDAMENTOS DE MECÂNICA",
+    "CargaHorariaTeorico": 60,
+    "CargaHorariaPratica": null,
+    "ListaPrequisitos": []
+  },
+  {
+    "Id": 56528,
+    "Codigo": "2101.002.041-9",
+    "Tipo": "OBR",
+    "Descricao": "QUÍMICA APLICADA À ENGENHARIA AMBIENTAL II",
+    "Semestre": 2,
+    "Apelido": "QUÍMICA APLICADA À ENGENHARIA AMBIENTAL II",
+    "CargaHorariaTeorico": 60,
+    "CargaHorariaPratica": null,
+    "ListaPrequisitos": []
+  },
+  {
+    "Id": 53874,
+    "Codigo": "2301.000.418-8",
+    "Tipo": "OBR",
+    "Descricao": "QUÍMICA GERAL EXPERIMENTAL",
+    "Semestre": 2,
+    "Apelido": "QUÍMICA GERAL EXPERIMENTAL",
+    "CargaHorariaTeorico": 30,
+    "CargaHorariaPratica": null,
+    "ListaPrequisitos": []
+  },
+  {
+    "Id": 52305,
+    "Codigo": "2201.000.254-8",
+    "Tipo": "OBR",
+    "Descricao": "CÁLCULO III",
+    "Semestre": 3,
+    "Apelido": "CÁLCULO III",
+    "CargaHorariaTeorico": 60,
+    "CargaHorariaPratica": null,
+    "ListaPrequisitos": [
+      {
+        "Id": 52300,
+        "Codigo": "2201.000.252-0",
+        "Descricao": "CÁLCULO II",
+        "Semestre": "0",
+        "Apelido": "CÁLCULO II",
+        "CargaHorariaTeorico": 0,
+        "CargaHorariaPratica": 0,
+        "ListaPrequisitos": []
+      }
+    ]
+  },
+  {
+    "Id": 53885,
+    "Codigo": "2101.001.658-8",
+    "Tipo": "OBR",
+    "Descricao": "ELETRICIDADE",
+    "Semestre": 3,
+    "Apelido": "ELETRICIDADE",
+    "CargaHorariaTeorico": 45,
+    "CargaHorariaPratica": null,
+    "ListaPrequisitos": []
+  },
+  {
+    "Id": 56506,
+    "Codigo": "2101.002.021-2",
+    "Tipo": "OBR",
+    "Descricao": "EPIDEMIOLOGIA E SAÚDE AMBIENTAL",
+    "Semestre": 3,
+    "Apelido": "EPIDEMIOLOGIA E SAÚDE AMBIENTAL",
+    "CargaHorariaTeorico": 30,
+    "CargaHorariaPratica": null,
+    "ListaPrequisitos": []
+  },
+  {
+    "Id": 53951,
+    "Codigo": "2101.001.717-3",
+    "Tipo": "OBR",
+    "Descricao": "FUNDAMENTOS DE ADMINISTRAÇÃO",
+    "Semestre": 3,
+    "Apelido": "FUNDAMENTOS DE ADMINISTRAÇÃO",
+    "CargaHorariaTeorico": 30,
+    "CargaHorariaPratica": null,
+    "ListaPrequisitos": []
+  },
+  {
+    "Id": 56232,
+    "Codigo": "2401.000.420-5",
+    "Tipo": "OBR",
+    "Descricao": "FUNDAMENTOS DE FLUIDOS, ONDAS E TERMODINÂMICA",
+    "Semestre": 3,
+    "Apelido": "FUNDAMENTOS DE FLUIDOS, ONDAS E TERMODINÂMICA",
+    "CargaHorariaTeorico": 60,
+    "CargaHorariaPratica": null,
+    "ListaPrequisitos": [
+      {
+        "Id": 53868,
+        "Codigo": "2401.000.412-5",
+        "Descricao": "FUNDAMENTOS DE MECÂNICA",
+        "Semestre": "0",
+        "Apelido": "FUNDAMENTOS DE MECÂNICA",
+        "CargaHorariaTeorico": 0,
+        "CargaHorariaPratica": 0,
+        "ListaPrequisitos": []
+      }
+    ]
+  },
+  {
+    "Id": 56304,
+    "Codigo": "2101.001.826-0",
+    "Tipo": "OBR",
+    "Descricao": "GEOLOGIA GERAL",
+    "Semestre": 3,
+    "Apelido": "GEOLOGIA GERAL",
+    "CargaHorariaTeorico": 60,
+    "CargaHorariaPratica": null,
+    "ListaPrequisitos": []
+  },
+  {
+    "Id": 53866,
+    "Codigo": "2401.000.411-6",
+    "Tipo": "OBR",
+    "Descricao": "LABORATÓRIO DE MECÂNICA, FLUIDOS E TERMODINÂMICA",
+    "Semestre": 3,
+    "Apelido": "LABORATÓRIO DE MECÂNICA, FLUIDOS E TERMODINÂMICA",
+    "CargaHorariaTeorico": 30,
+    "CargaHorariaPratica": null,
+    "ListaPrequisitos": [
+      {
+        "Id": 53868,
+        "Codigo": "2401.000.412-5",
+        "Descricao": "FUNDAMENTOS DE MECÂNICA",
+        "Semestre": "0",
+        "Apelido": "FUNDAMENTOS DE MECÂNICA",
+        "CargaHorariaTeorico": 0,
+        "CargaHorariaPratica": 0,
+        "ListaPrequisitos": []
+      }
+    ]
+  },
+  {
+    "Id": 52380,
+    "Codigo": "2201.000.257-5",
+    "Tipo": "OBR",
+    "Descricao": "PROBABILIDADE E ESTATÍSTICA",
+    "Semestre": 3,
+    "Apelido": "PROBABILIDADE E ESTATÍSTICA",
+    "CargaHorariaTeorico": 60,
+    "CargaHorariaPratica": null,
+    "ListaPrequisitos": []
+  },
+  {
+    "Id": 56185,
+    "Codigo": "2201.000.267-3",
+    "Tipo": "OBR",
+    "Descricao": "EQUAÇÕES DIFERENCIAIS ORDINÁRIAS",
+    "Semestre": 4,
+    "Apelido": "EQUAÇÕES DIFERENCIAIS ORDINÁRIAS",
+    "CargaHorariaTeorico": 30,
+    "CargaHorariaPratica": null,
+    "ListaPrequisitos": [
+      {
+        "Id": 52300,
+        "Codigo": "2201.000.252-0",
+        "Descricao": "CÁLCULO II",
+        "Semestre": "0",
+        "Apelido": "CÁLCULO II",
+        "CargaHorariaTeorico": 0,
+        "CargaHorariaPratica": 0,
+        "ListaPrequisitos": []
+      }
+    ]
+  },
+  {
+    "Id": 56293,
+    "Codigo": "2101.001.815-2",
+    "Tipo": "OBR",
+    "Descricao": "FENÔMENOS DE TRANSPORTE",
+    "Semestre": 4,
+    "Apelido": "FENÔMENOS DE TRANSPORTE",
+    "CargaHorariaTeorico": 75,
+    "CargaHorariaPratica": null,
+    "ListaPrequisitos": [
+      {
+        "Id": 56232,
+        "Codigo": "2401.000.420-5",
+        "Descricao": "FUNDAMENTOS DE FLUIDOS, ONDAS E TERMODINÂMICA",
+        "Semestre": "0",
+        "Apelido": "FUNDAMENTOS DE FLUIDOS, ONDAS E TERMODINÂMICA",
+        "CargaHorariaTeorico": 0,
+        "CargaHorariaPratica": 0,
+        "ListaPrequisitos": []
+      }
+    ]
+  },
+  {
+    "Id": 53917,
+    "Codigo": "2101.001.687-3",
+    "Tipo": "OBR",
+    "Descricao": "FUNDAMENTOS DE ECONOMIA",
+    "Semestre": 4,
+    "Apelido": "FUNDAMENTOS DE ECONOMIA",
+    "CargaHorariaTeorico": 30,
+    "CargaHorariaPratica": null,
+    "ListaPrequisitos": []
+  },
+  {
+    "Id": 56495,
+    "Codigo": "2101.002.010-5",
+    "Tipo": "OBR",
+    "Descricao": "GESTÃO AMBIENTAL",
+    "Semestre": 4,
+    "Apelido": "GESTÃO AMBIENTAL",
+    "CargaHorariaTeorico": 30,
+    "CargaHorariaPratica": null,
+    "ListaPrequisitos": []
+  },
+  {
+    "Id": 53871,
+    "Codigo": "2101.001.647-0",
+    "Tipo": "OBR",
+    "Descricao": "INSTALAÇÕES ELÉTRICAS",
+    "Semestre": 4,
+    "Apelido": "INSTALAÇÕES ELÉTRICAS",
+    "CargaHorariaTeorico": 45,
+    "CargaHorariaPratica": null,
+    "ListaPrequisitos": [
+      {
+        "Id": 53885,
+        "Codigo": "2101.001.658-8",
+        "Descricao": "ELETRICIDADE",
+        "Semestre": "0",
+        "Apelido": "ELETRICIDADE",
+        "CargaHorariaTeorico": 0,
+        "CargaHorariaPratica": 0,
+        "ListaPrequisitos": []
+      }
+    ]
+  },
+  {
+    "Id": 53916,
+    "Codigo": "2101.001.686-4",
+    "Tipo": "OBR",
+    "Descricao": "MECÂNICA DOS SÓLIDOS",
+    "Semestre": 4,
+    "Apelido": "MECÂNICA DOS SÓLIDOS",
+    "CargaHorariaTeorico": 45,
+    "CargaHorariaPratica": null,
+    "ListaPrequisitos": []
+  },
+  {
+    "Id": 53864,
+    "Codigo": "2201.000.260-0",
+    "Tipo": "OBR",
+    "Descricao": "MÉTODOS NUMÉRICOS",
+    "Semestre": 4,
+    "Apelido": "MÉTODOS NUMÉRICOS",
+    "CargaHorariaTeorico": 60,
+    "CargaHorariaPratica": null,
+    "ListaPrequisitos": [
+      {
+        "Id": 52300,
+        "Codigo": "2201.000.252-0",
+        "Descricao": "CÁLCULO II",
+        "Semestre": "0",
+        "Apelido": "CÁLCULO II",
+        "CargaHorariaTeorico": 0,
+        "CargaHorariaPratica": 0,
+        "ListaPrequisitos": []
+      },
+      {
+        "Id": 52364,
+        "Codigo": "2201.000.255-7",
+        "Descricao": "ÁLGEBRA LINEAR",
+        "Semestre": "0",
+        "Apelido": "ÁLGEBRA LINEAR",
+        "CargaHorariaTeorico": 0,
+        "CargaHorariaPratica": 0,
+        "ListaPrequisitos": []
+      }
+    ]
+  },
+  {
+    "Id": 56241,
+    "Codigo": "2101.001.763-8",
+    "Tipo": "OBR",
+    "Descricao": "TOPOGRAFIA",
+    "Semestre": 4,
+    "Apelido": "TOPOGRAFIA",
+    "CargaHorariaTeorico": 60,
+    "CargaHorariaPratica": null,
+    "ListaPrequisitos": []
+  },
+  {
+    "Id": 56515,
+    "Codigo": "2101.002.029-5",
+    "Tipo": "OBR",
+    "Descricao": "DIREITO AMBIENTAL",
+    "Semestre": 5,
+    "Apelido": "DIREITO AMBIENTAL",
+    "CargaHorariaTeorico": 30,
+    "CargaHorariaPratica": null,
+    "ListaPrequisitos": []
+  },
+  {
+    "Id": 56505,
+    "Codigo": "2101.002.020-3",
+    "Tipo": "OBR",
+    "Descricao": "GEOTECNOLOGIAS AMBIENTAIS",
+    "Semestre": 5,
+    "Apelido": "GEOTECNOLOGIAS AMBIENTAIS",
+    "CargaHorariaTeorico": 60,
+    "CargaHorariaPratica": null,
+    "ListaPrequisitos": []
+  },
+  {
+    "Id": 56226,
+    "Codigo": "2101.001.749-6",
+    "Tipo": "OBR",
+    "Descricao": "HIDRÁULICA I",
+    "Semestre": 5,
+    "Apelido": "HIDRÁULICA I",
+    "CargaHorariaTeorico": 45,
+    "CargaHorariaPratica": null,
+    "ListaPrequisitos": [
+      {
+        "Id": 56293,
+        "Codigo": "2101.001.815-2",
+        "Descricao": "FENÔMENOS DE TRANSPORTE",
+        "Semestre": "0",
+        "Apelido": "FENÔMENOS DE TRANSPORTE",
+        "CargaHorariaTeorico": 0,
+        "CargaHorariaPratica": 0,
+        "ListaPrequisitos": []
+      }
+    ]
+  },
+  {
+    "Id": 56490,
+    "Codigo": "2101.002.005-2",
+    "Tipo": "OBR",
+    "Descricao": "MATERIAIS DE CONSTRUÇÃO CIVIL",
+    "Semestre": 5,
+    "Apelido": "MATERIAIS DE CONSTRUÇÃO CIVIL",
+    "CargaHorariaTeorico": 45,
+    "CargaHorariaPratica": null,
+    "ListaPrequisitos": []
+  },
+  {
+    "Id": 56285,
+    "Codigo": "2101.001.807-2",
+    "Tipo": "OBR",
+    "Descricao": "MECÂNICA DOS SOLOS",
+    "Semestre": 5,
+    "Apelido": "MECÂNICA DOS SOLOS",
+    "CargaHorariaTeorico": 60,
+    "CargaHorariaPratica": null,
+    "ListaPrequisitos": [
+      {
+        "Id": 53916,
+        "Codigo": "2101.001.686-4",
+        "Descricao": "MECÂNICA DOS SÓLIDOS",
+        "Semestre": "0",
+        "Apelido": "MECÂNICA DOS SÓLIDOS",
+        "CargaHorariaTeorico": 0,
+        "CargaHorariaPratica": 0,
+        "ListaPrequisitos": []
+      }
+    ]
+  },
+  {
+    "Id": 56222,
+    "Codigo": "2101.001.745-0",
+    "Tipo": "OBR",
+    "Descricao": "MECÂNICA DOS SOLOS EXPERIMENTAL",
+    "Semestre": 5,
+    "Apelido": "MECÂNICA DOS SOLOS EXPERIMENTAL",
+    "CargaHorariaTeorico": 30,
+    "CargaHorariaPratica": null,
+    "ListaPrequisitos": [
+      {
+        "Id": 53916,
+        "Codigo": "2101.001.686-4",
+        "Descricao": "MECÂNICA DOS SÓLIDOS",
+        "Semestre": "0",
+        "Apelido": "MECÂNICA DOS SÓLIDOS",
+        "CargaHorariaTeorico": 0,
+        "CargaHorariaPratica": 0,
+        "ListaPrequisitos": []
+      }
+    ]
+  },
+  {
+    "Id": 56272,
+    "Codigo": "2101.001.794-1",
+    "Tipo": "OBR",
+    "Descricao": "MICROBIOLOGIA AMBIENTAL",
+    "Semestre": 5,
+    "Apelido": "MICROBIOLOGIA AMBIENTAL",
+    "CargaHorariaTeorico": 60,
+    "CargaHorariaPratica": null,
+    "ListaPrequisitos": []
+  },
+  {
+    "Id": 56532,
+    "Codigo": "2101.002.044-6",
+    "Tipo": "OBR",
+    "Descricao": "QUALIDADE DA ÁGUA",
+    "Semestre": 5,
+    "Apelido": "QUALIDADE DA ÁGUA",
+    "CargaHorariaTeorico": 60,
+    "CargaHorariaPratica": null,
+    "ListaPrequisitos": [
+      {
+        "Id": 56472,
+        "Codigo": "2101.001.988-4",
+        "Descricao": "QUÍMICA APLICADA À ENGENHARIA AMBIENTAL I",
+        "Semestre": "0",
+        "Apelido": "QUÍMICA APLICADA À ENGENHARIA AMBIENTAL I",
+        "CargaHorariaTeorico": 0,
+        "CargaHorariaPratica": 0,
+        "ListaPrequisitos": []
+      }
+    ]
+  },
+  {
+    "Id": 56513,
+    "Codigo": "2101.002.027-7",
+    "Tipo": "OBR",
+    "Descricao": "ECOLOGIA APLICADA À ENGENHARIA AMBIENTAL",
+    "Semestre": 6,
+    "Apelido": "ECOLOGIA APLICADA À ENGENHARIA AMBIENTAL",
+    "CargaHorariaTeorico": 60,
+    "CargaHorariaPratica": null,
+    "ListaPrequisitos": []
+  },
+  {
+    "Id": 56493,
+    "Codigo": "2101.002.008-0",
+    "Tipo": "OBR",
+    "Descricao": "ENGENHARIA DAS REAÇÕES QUÍMICAS",
+    "Semestre": 6,
+    "Apelido": "ENGENHARIA DAS REAÇÕES QUÍMICAS",
+    "CargaHorariaTeorico": 60,
+    "CargaHorariaPratica": null,
+    "ListaPrequisitos": [
+      {
+        "Id": 56472,
+        "Codigo": "2101.001.988-4",
+        "Descricao": "QUÍMICA APLICADA À ENGENHARIA AMBIENTAL I",
+        "Semestre": "0",
+        "Apelido": "QUÍMICA APLICADA À ENGENHARIA AMBIENTAL I",
+        "CargaHorariaTeorico": 0,
+        "CargaHorariaPratica": 0,
+        "ListaPrequisitos": []
+      }
+    ]
+  },
+  {
+    "Id": 56287,
+    "Codigo": "2101.001.809-0",
+    "Tipo": "OBR",
+    "Descricao": "HIDRÁULICA II",
+    "Semestre": 6,
+    "Apelido": "HIDRÁULICA II",
+    "CargaHorariaTeorico": 45,
+    "CargaHorariaPratica": null,
+    "ListaPrequisitos": [
+      {
+        "Id": 56293,
+        "Codigo": "2101.001.815-2",
+        "Descricao": "FENÔMENOS DE TRANSPORTE",
+        "Semestre": "0",
+        "Apelido": "FENÔMENOS DE TRANSPORTE",
+        "CargaHorariaTeorico": 0,
+        "CargaHorariaPratica": 0,
+        "ListaPrequisitos": []
+      }
+    ]
+  },
+  {
+    "Id": 56476,
+    "Codigo": "2101.001.992-8",
+    "Tipo": "OBR",
+    "Descricao": "HIDROLOGIA",
+    "Semestre": 6,
+    "Apelido": "HIDROLOGIA",
+    "CargaHorariaTeorico": 75,
+    "CargaHorariaPratica": null,
+    "ListaPrequisitos": [
+      {
+        "Id": 56232,
+        "Codigo": "2401.000.420-5",
+        "Descricao": "FUNDAMENTOS DE FLUIDOS, ONDAS E TERMODINÂMICA",
+        "Semestre": "0",
+        "Apelido": "FUNDAMENTOS DE FLUIDOS, ONDAS E TERMODINÂMICA",
+        "CargaHorariaTeorico": 0,
+        "CargaHorariaPratica": 0,
+        "ListaPrequisitos": []
+      }
+    ]
+  },
+  {
+    "Id": 56486,
+    "Codigo": "2401.000.422-3",
+    "Tipo": "OBR",
+    "Descricao": "METEOROLOGIA E CLIMATOLOGIA",
+    "Semestre": 6,
+    "Apelido": "METEOROLOGIA E CLIMATOLOGIA",
+    "CargaHorariaTeorico": 45,
+    "CargaHorariaPratica": null,
+    "ListaPrequisitos": [
+      {
+        "Id": 56232,
+        "Codigo": "2401.000.420-5",
+        "Descricao": "FUNDAMENTOS DE FLUIDOS, ONDAS E TERMODINÂMICA",
+        "Semestre": "0",
+        "Apelido": "FUNDAMENTOS DE FLUIDOS, ONDAS E TERMODINÂMICA",
+        "CargaHorariaTeorico": 0,
+        "CargaHorariaPratica": 0,
+        "ListaPrequisitos": []
+      }
+    ]
+  },
+  {
+    "Id": 56502,
+    "Codigo": "2101.002.017-9",
+    "Tipo": "OBR",
+    "Descricao": "MONITORAMENTO E ANÁLISES DE QUALIDADE DA ÁGUA",
+    "Semestre": 6,
+    "Apelido": "MONITORAMENTO E ANÁLISES DE QUALIDADE DA ÁGUA",
+    "CargaHorariaTeorico": 60,
+    "CargaHorariaPratica": null,
+    "ListaPrequisitos": [
+      {
+        "Id": 53874,
+        "Codigo": "2301.000.418-8",
+        "Descricao": "QUÍMICA GERAL EXPERIMENTAL",
+        "Semestre": "0",
+        "Apelido": "QUÍMICA GERAL EXPERIMENTAL",
+        "CargaHorariaTeorico": 0,
+        "CargaHorariaPratica": 0,
+        "ListaPrequisitos": []
+      },
+      {
+        "Id": 56532,
+        "Codigo": "2101.002.044-6",
+        "Descricao": "QUALIDADE DA ÁGUA",
+        "Semestre": "0",
+        "Apelido": "QUALIDADE DA ÁGUA",
+        "CargaHorariaTeorico": 0,
+        "CargaHorariaPratica": 0,
+        "ListaPrequisitos": []
+      }
+    ]
+  },
+  {
+    "Id": 56348,
+    "Codigo": "2101.001.869-0",
+    "Tipo": "OBR",
+    "Descricao": "OBRAS DE TERRA",
+    "Semestre": 6,
+    "Apelido": "OBRAS DE TERRA",
+    "CargaHorariaTeorico": 45,
+    "CargaHorariaPratica": null,
+    "ListaPrequisitos": [
+      {
+        "Id": 56285,
+        "Codigo": "2101.001.807-2",
+        "Descricao": "MECÂNICA DOS SOLOS",
+        "Semestre": "0",
+        "Apelido": "MECÂNICA DOS SOLOS",
+        "CargaHorariaTeorico": 0,
+        "CargaHorariaPratica": 0,
+        "ListaPrequisitos": []
+      }
+    ]
+  },
+  {
+    "Id": 56294,
+    "Codigo": "2101.001.816-1",
+    "Tipo": "OBR",
+    "Descricao": "ÁGUAS SUBTERRÂNEAS",
+    "Semestre": 7,
+    "Apelido": "ÁGUAS SUBTERRÂNEAS",
+    "CargaHorariaTeorico": 60,
+    "CargaHorariaPratica": null,
+    "ListaPrequisitos": [
+      {
+        "Id": 56304,
+        "Codigo": "2101.001.826-0",
+        "Descricao": "GEOLOGIA GERAL",
+        "Semestre": "0",
+        "Apelido": "GEOLOGIA GERAL",
+        "CargaHorariaTeorico": 0,
+        "CargaHorariaPratica": 0,
+        "ListaPrequisitos": []
+      }
+    ]
+  },
+  {
+    "Id": 56269,
+    "Codigo": "2101.001.791-4",
+    "Tipo": "OBR",
+    "Descricao": "AVALIAÇÃO DE IMPACTOS AMBIENTAIS",
+    "Semestre": 7,
+    "Apelido": "AVALIAÇÃO DE IMPACTOS AMBIENTAIS",
+    "CargaHorariaTeorico": 60,
+    "CargaHorariaPratica": null,
+    "ListaPrequisitos": [
+      {
+        "Id": 56515,
+        "Codigo": "2101.002.029-5",
+        "Descricao": "DIREITO AMBIENTAL",
+        "Semestre": "0",
+        "Apelido": "DIREITO AMBIENTAL",
+        "CargaHorariaTeorico": 0,
+        "CargaHorariaPratica": 0,
+        "ListaPrequisitos": []
+      }
+    ]
+  },
+  {
+    "Id": 56516,
+    "Codigo": "2101.002.030-1",
+    "Tipo": "OBR",
+    "Descricao": "MODELAGEM DE SISTEMAS AMBIENTAIS",
+    "Semestre": 7,
+    "Apelido": "MODELAGEM DE SISTEMAS AMBIENTAIS",
+    "CargaHorariaTeorico": 60,
+    "CargaHorariaPratica": null,
+    "ListaPrequisitos": [
+      {
+        "Id": 53864,
+        "Codigo": "2201.000.260-0",
+        "Descricao": "MÉTODOS NUMÉRICOS",
+        "Semestre": "0",
+        "Apelido": "MÉTODOS NUMÉRICOS",
+        "CargaHorariaTeorico": 0,
+        "CargaHorariaPratica": 0,
+        "ListaPrequisitos": []
+      }
+    ]
+  },
+  {
+    "Id": 56529,
+    "Codigo": "2401.000.424-1",
+    "Tipo": "OBR",
+    "Descricao": "POLUIÇÃO ATMOSFÉRICA",
+    "Semestre": 7,
+    "Apelido": "POLUIÇÃO ATMOSFÉRICA",
+    "CargaHorariaTeorico": 60,
+    "CargaHorariaPratica": null,
+    "ListaPrequisitos": [
+      {
+        "Id": 56486,
+        "Codigo": "2401.000.422-3",
+        "Descricao": "METEOROLOGIA E CLIMATOLOGIA",
+        "Semestre": "0",
+        "Apelido": "METEOROLOGIA E CLIMATOLOGIA",
+        "CargaHorariaTeorico": 0,
+        "CargaHorariaPratica": 0,
+        "ListaPrequisitos": []
+      }
+    ]
+  },
+  {
+    "Id": 56469,
+    "Codigo": "2101.001.985-7",
+    "Tipo": "OBR",
+    "Descricao": "PROJETOS DE SISTEMAS DE ABASTECIMENTO DE ÁGUA",
+    "Semestre": 7,
+    "Apelido": "PROJETOS DE SISTEMAS DE ABASTECIMENTO DE ÁGUA",
+    "CargaHorariaTeorico": 60,
+    "CargaHorariaPratica": null,
+    "ListaPrequisitos": [
+      {
+        "Id": 56226,
+        "Codigo": "2101.001.749-6",
+        "Descricao": "HIDRÁULICA I",
+        "Semestre": "0",
+        "Apelido": "HIDRÁULICA I",
+        "CargaHorariaTeorico": 0,
+        "CargaHorariaPratica": 0,
+        "ListaPrequisitos": []
+      }
+    ]
+  },
+  {
+    "Id": 56474,
+    "Codigo": "2101.001.990-0",
+    "Tipo": "OBR",
+    "Descricao": "TEORIA DAS ESTRUTURAS",
+    "Semestre": 7,
+    "Apelido": "TEORIA DAS ESTRUTURAS",
+    "CargaHorariaTeorico": 60,
+    "CargaHorariaPratica": null,
+    "ListaPrequisitos": [
+      {
+        "Id": 53916,
+        "Codigo": "2101.001.686-4",
+        "Descricao": "MECÂNICA DOS SÓLIDOS",
+        "Semestre": "0",
+        "Apelido": "MECÂNICA DOS SÓLIDOS",
+        "CargaHorariaTeorico": 0,
+        "CargaHorariaPratica": 0,
+        "ListaPrequisitos": []
+      }
+    ]
+  },
+  {
+    "Id": 56531,
+    "Codigo": "2101.002.043-7",
+    "Tipo": "OBR",
+    "Descricao": "TRATAMENTO DE ÁGUA",
+    "Semestre": 7,
+    "Apelido": "TRATAMENTO DE ÁGUA",
+    "CargaHorariaTeorico": 45,
+    "CargaHorariaPratica": null,
+    "ListaPrequisitos": [
+      {
+        "Id": 56532,
+        "Codigo": "2101.002.044-6",
+        "Descricao": "QUALIDADE DA ÁGUA",
+        "Semestre": "0",
+        "Apelido": "QUALIDADE DA ÁGUA",
+        "CargaHorariaTeorico": 0,
+        "CargaHorariaPratica": 0,
+        "ListaPrequisitos": []
+      }
+    ]
+  },
+  {
+    "Id": 56518,
+    "Codigo": "2101.002.032-0",
+    "Tipo": "OBR",
+    "Descricao": "EROSÃO E CONSERVAÇÃO DO SOLO",
+    "Semestre": 8,
+    "Apelido": "EROSÃO E CONSERVAÇÃO DO SOLO",
+    "CargaHorariaTeorico": 45,
+    "CargaHorariaPratica": null,
+    "ListaPrequisitos": [
+      {
+        "Id": 56505,
+        "Codigo": "2101.002.020-3",
+        "Descricao": "GEOTECNOLOGIAS AMBIENTAIS",
+        "Semestre": "0",
+        "Apelido": "GEOTECNOLOGIAS AMBIENTAIS",
+        "CargaHorariaTeorico": 0,
+        "CargaHorariaPratica": 0,
+        "ListaPrequisitos": []
+      }
+    ]
+  },
+  {
+    "Id": 56477,
+    "Codigo": "2101.001.993-7",
+    "Tipo": "OBR",
+    "Descricao": "ESTRUTURAS DE CONCRETO APLICADAS À ENGENHARIA AMBIENTAL",
+    "Semestre": 8,
+    "Apelido": "ESTRUTURAS DE CONCRETO APLICADAS À ENGENHARIA AMBIENTAL",
+    "CargaHorariaTeorico": 60,
+    "CargaHorariaPratica": null,
+    "ListaPrequisitos": [
+      {
+        "Id": 56474,
+        "Codigo": "2101.001.990-0",
+        "Descricao": "TEORIA DAS ESTRUTURAS",
+        "Semestre": "0",
+        "Apelido": "TEORIA DAS ESTRUTURAS",
+        "CargaHorariaTeorico": 0,
+        "CargaHorariaPratica": 0,
+        "ListaPrequisitos": []
+      }
+    ]
+  },
+  {
+    "Id": 56471,
+    "Codigo": "2101.001.987-5",
+    "Tipo": "OBR",
+    "Descricao": "PLANEJAMENTO AMBIENTAL",
+    "Semestre": 8,
+    "Apelido": "PLANEJAMENTO AMBIENTAL",
+    "CargaHorariaTeorico": 45,
+    "CargaHorariaPratica": null,
+    "ListaPrequisitos": [
+      {
+        "Id": 56505,
+        "Codigo": "2101.002.020-3",
+        "Descricao": "GEOTECNOLOGIAS AMBIENTAIS",
+        "Semestre": "0",
+        "Apelido": "GEOTECNOLOGIAS AMBIENTAIS",
+        "CargaHorariaTeorico": 0,
+        "CargaHorariaPratica": 0,
+        "ListaPrequisitos": []
+      }
+    ]
+  },
+  {
+    "Id": 56464,
+    "Codigo": "2101.001.980-1",
+    "Tipo": "OBR",
+    "Descricao": "PROJETO DE ESTAÇÃO DE TRATAMENTO DE ÁGUA",
+    "Semestre": 8,
+    "Apelido": "PROJETO DE ESTAÇÃO DE TRATAMENTO DE ÁGUA",
+    "CargaHorariaTeorico": 30,
+    "CargaHorariaPratica": null,
+    "ListaPrequisitos": [
+      {
+        "Id": 56531,
+        "Codigo": "2101.002.043-7",
+        "Descricao": "TRATAMENTO DE ÁGUA",
+        "Semestre": "0",
+        "Apelido": "TRATAMENTO DE ÁGUA",
+        "CargaHorariaTeorico": 0,
+        "CargaHorariaPratica": 0,
+        "ListaPrequisitos": []
+      }
+    ]
+  },
+  {
+    "Id": 56510,
+    "Codigo": "2101.002.025-9",
+    "Tipo": "OBR",
+    "Descricao": "PROJETO DE INSTALAÇÕES HIDRÁULICAS, SANITÁRIAS E GÁS",
+    "Semestre": 8,
+    "Apelido": "PROJETO DE INSTALAÇÕES HIDRÁULICAS, SANITÁRIAS E GÁS",
+    "CargaHorariaTeorico": 45,
+    "CargaHorariaPratica": null,
+    "ListaPrequisitos": [
+      {
+        "Id": 56226,
+        "Codigo": "2101.001.749-6",
+        "Descricao": "HIDRÁULICA I",
+        "Semestre": "0",
+        "Apelido": "HIDRÁULICA I",
+        "CargaHorariaTeorico": 0,
+        "CargaHorariaPratica": 0,
+        "ListaPrequisitos": []
+      }
+    ]
+  },
+  {
+    "Id": 56503,
+    "Codigo": "2101.002.018-8",
+    "Tipo": "OBR",
+    "Descricao": "PROJETOS DE SISTEMAS DE ESGOTAMENTO SANITÁRIO",
+    "Semestre": 8,
+    "Apelido": "PROJETOS DE SISTEMAS DE ESGOTAMENTO SANITÁRIO",
+    "CargaHorariaTeorico": 60,
+    "CargaHorariaPratica": null,
+    "ListaPrequisitos": [
+      {
+        "Id": 56226,
+        "Codigo": "2101.001.749-6",
+        "Descricao": "HIDRÁULICA I",
+        "Semestre": "0",
+        "Apelido": "HIDRÁULICA I",
+        "CargaHorariaTeorico": 0,
+        "CargaHorariaPratica": 0,
+        "ListaPrequisitos": []
+      },
+      {
+        "Id": 56287,
+        "Codigo": "2101.001.809-0",
+        "Descricao": "HIDRÁULICA II",
+        "Semestre": "0",
+        "Apelido": "HIDRÁULICA II",
+        "CargaHorariaTeorico": 0,
+        "CargaHorariaPratica": 0,
+        "ListaPrequisitos": []
+      }
+    ]
+  },
+  {
+    "Id": 56267,
+    "Codigo": "2101.001.789-9",
+    "Tipo": "OBR",
+    "Descricao": "RESÍDUOS SÓLIDOS URBANOS E INDUSTRIAIS",
+    "Semestre": 8,
+    "Apelido": "RESÍDUOS SÓLIDOS URBANOS E INDUSTRIAIS",
+    "CargaHorariaTeorico": 60,
+    "CargaHorariaPratica": null,
+    "ListaPrequisitos": []
+  },
+  {
+    "Id": 56526,
+    "Codigo": "2101.002.039-3",
+    "Tipo": "OBR",
+    "Descricao": "TRATAMENTO DE ESGOTO",
+    "Semestre": 8,
+    "Apelido": "TRATAMENTO DE ESGOTO",
+    "CargaHorariaTeorico": 60,
+    "CargaHorariaPratica": null,
+    "ListaPrequisitos": [
+      {
+        "Id": 56272,
+        "Codigo": "2101.001.794-1",
+        "Descricao": "MICROBIOLOGIA AMBIENTAL",
+        "Semestre": "0",
+        "Apelido": "MICROBIOLOGIA AMBIENTAL",
+        "CargaHorariaTeorico": 0,
+        "CargaHorariaPratica": 0,
+        "ListaPrequisitos": []
+      },
+      {
+        "Id": 56532,
+        "Codigo": "2101.002.044-6",
+        "Descricao": "QUALIDADE DA ÁGUA",
+        "Semestre": "0",
+        "Apelido": "QUALIDADE DA ÁGUA",
+        "CargaHorariaTeorico": 0,
+        "CargaHorariaPratica": 0,
+        "ListaPrequisitos": []
+      }
+    ]
+  },
+  {
+    "Id": 56243,
+    "Codigo": "2101.001.765-6",
+    "Tipo": "OBR",
+    "Descricao": "ANÁLISE ECONÔMICA DE PROJETOS",
+    "Semestre": 9,
+    "Apelido": "ANÁLISE ECONÔMICA DE PROJETOS",
+    "CargaHorariaTeorico": 30,
+    "CargaHorariaPratica": null,
+    "ListaPrequisitos": []
+  },
+  {
+    "Id": 56483,
+    "Codigo": "2101.001.999-1",
+    "Tipo": "OBR",
+    "Descricao": "ÁREAS DEGRADADAS, CONTAMINADAS E ALTERADAS",
+    "Semestre": 9,
+    "Apelido": "ÁREAS DEGRADADAS, CONTAMINADAS E ALTERADAS",
+    "CargaHorariaTeorico": 45,
+    "CargaHorariaPratica": null,
+    "ListaPrequisitos": [
+      {
+        "Id": 56269,
+        "Codigo": "2101.001.791-4",
+        "Descricao": "AVALIAÇÃO DE IMPACTOS AMBIENTAIS",
+        "Semestre": "0",
+        "Apelido": "AVALIAÇÃO DE IMPACTOS AMBIENTAIS",
+        "CargaHorariaTeorico": 0,
+        "CargaHorariaPratica": 0,
+        "ListaPrequisitos": []
+      }
+    ]
+  },
+  {
+    "Id": 56499,
+    "Codigo": "2101.002.014-1",
+    "Tipo": "OBR",
+    "Descricao": "GERENCIAMENTO AMBIENTAL DA INDÚSTRIA",
+    "Semestre": 9,
+    "Apelido": "GERENCIAMENTO AMBIENTAL DA INDÚSTRIA",
+    "CargaHorariaTeorico": 45,
+    "CargaHorariaPratica": null,
+    "ListaPrequisitos": [
+      {
+        "Id": 56495,
+        "Codigo": "2101.002.010-5",
+        "Descricao": "GESTÃO AMBIENTAL",
+        "Semestre": "0",
+        "Apelido": "GESTÃO AMBIENTAL",
+        "CargaHorariaTeorico": 0,
+        "CargaHorariaPratica": 0,
+        "ListaPrequisitos": []
+      }
+    ]
+  },
+  {
+    "Id": 56466,
+    "Codigo": "2101.001.982-0",
+    "Tipo": "OBR",
+    "Descricao": "HIDROSSEDIMENTOLOGIA",
+    "Semestre": 9,
+    "Apelido": "HIDROSSEDIMENTOLOGIA",
+    "CargaHorariaTeorico": 45,
+    "CargaHorariaPratica": null,
+    "ListaPrequisitos": [
+      {
+        "Id": 56287,
+        "Codigo": "2101.001.809-0",
+        "Descricao": "HIDRÁULICA II",
+        "Semestre": "0",
+        "Apelido": "HIDRÁULICA II",
+        "CargaHorariaTeorico": 0,
+        "CargaHorariaPratica": 0,
+        "ListaPrequisitos": []
+      },
+      {
+        "Id": 56518,
+        "Codigo": "2101.002.032-0",
+        "Descricao": "EROSÃO E CONSERVAÇÃO DO SOLO",
+        "Semestre": "0",
+        "Apelido": "EROSÃO E CONSERVAÇÃO DO SOLO",
+        "CargaHorariaTeorico": 0,
+        "CargaHorariaPratica": 0,
+        "ListaPrequisitos": []
+      }
+    ]
+  },
+  {
+    "Id": 56467,
+    "Codigo": "2101.001.983-9",
+    "Tipo": "OBR",
+    "Descricao": "PLANEJAMENTO E CONTROLE DE OBRAS",
+    "Semestre": 9,
+    "Apelido": "PLANEJAMENTO E CONTROLE DE OBRAS",
+    "CargaHorariaTeorico": 30,
+    "CargaHorariaPratica": null,
+    "ListaPrequisitos": []
+  },
+  {
+    "Id": 56489,
+    "Codigo": "2101.002.004-3",
+    "Tipo": "OBR",
+    "Descricao": "PROJETO DE ESTAÇÃO DE TRATAMENTO DE ESGOTO",
+    "Semestre": 9,
+    "Apelido": "PROJETO DE ESTAÇÃO DE TRATAMENTO DE ESGOTO",
+    "CargaHorariaTeorico": 30,
+    "CargaHorariaPratica": null,
+    "ListaPrequisitos": [
+      {
+        "Id": 56526,
+        "Codigo": "2101.002.039-3",
+        "Descricao": "TRATAMENTO DE ESGOTO",
+        "Semestre": "0",
+        "Apelido": "TRATAMENTO DE ESGOTO",
+        "CargaHorariaTeorico": 0,
+        "CargaHorariaPratica": 0,
+        "ListaPrequisitos": []
+      }
+    ]
+  },
+  {
+    "Id": 56473,
+    "Codigo": "2101.001.989-3",
+    "Tipo": "OBR",
+    "Descricao": "PROJETOS DE SISTEMAS DE DRENAGEM PLUVIAL",
+    "Semestre": 9,
+    "Apelido": "PROJETOS DE SISTEMAS DE DRENAGEM PLUVIAL",
+    "CargaHorariaTeorico": 60,
+    "CargaHorariaPratica": null,
+    "ListaPrequisitos": [
+      {
+        "Id": 56287,
+        "Codigo": "2101.001.809-0",
+        "Descricao": "HIDRÁULICA II",
+        "Semestre": "0",
+        "Apelido": "HIDRÁULICA II",
+        "CargaHorariaTeorico": 0,
+        "CargaHorariaPratica": 0,
+        "ListaPrequisitos": []
+      },
+      {
+        "Id": 56476,
+        "Codigo": "2101.001.992-8",
+        "Descricao": "HIDROLOGIA",
+        "Semestre": "0",
+        "Apelido": "HIDROLOGIA",
+        "CargaHorariaTeorico": 0,
+        "CargaHorariaPratica": 0,
+        "ListaPrequisitos": []
+      }
+    ]
+  },
+  {
+    "Id": 35094,
+    "Codigo": "2101.000.951-8",
+    "Tipo": "OBR",
+    "Descricao": "ESTÁGIO OBRIGATÓRIO",
+    "Semestre": 10,
+    "Apelido": "ESTÁGIO OBRIGATÓRIO",
+    "CargaHorariaTeorico": 160,
+    "CargaHorariaPratica": null,
+    "ListaPrequisitos": []
+  },
+  {
+    "Id": 56485,
+    "Codigo": "2101.002.001-6",
+    "Tipo": "OBR",
+    "Descricao": "GESTÃO DE RECURSOS HÍDRICOS",
+    "Semestre": 10,
+    "Apelido": "GESTÃO DE RECURSOS HÍDRICOS",
+    "CargaHorariaTeorico": 45,
+    "CargaHorariaPratica": null,
+    "ListaPrequisitos": [
+      {
+        "Id": 56476,
+        "Codigo": "2101.001.992-8",
+        "Descricao": "HIDROLOGIA",
+        "Semestre": "0",
+        "Apelido": "HIDROLOGIA",
+        "CargaHorariaTeorico": 0,
+        "CargaHorariaPratica": 0,
+        "ListaPrequisitos": []
+      }
+    ]
+  },
+  {
+    "Id": 53947,
+    "Codigo": "2101.001.715-5",
+    "Tipo": "OBR",
+    "Descricao": "SEGURANÇA DO TRABALHO",
+    "Semestre": 10,
+    "Apelido": "SEGURANÇA DO TRABALHO",
+    "CargaHorariaTeorico": 30,
+    "CargaHorariaPratica": null,
+    "ListaPrequisitos": []
+  },
+  {
+    "Id": 56530,
+    "Codigo": "2101.002.042-8",
+    "Tipo": "OBR",
+    "Descricao": "SOCIOLOGIA E MEIO AMBIENTE",
+    "Semestre": 10,
+    "Apelido": "SOCIOLOGIA E MEIO AMBIENTE",
+    "CargaHorariaTeorico": 30,
+    "CargaHorariaPratica": null,
+    "ListaPrequisitos": []
+  },
+  {
+    "Id": 56480,
+    "Codigo": "2101.001.996-4",
+    "Tipo": "OPT",
+    "Descricao": "ALTERNATIVAS ECOLÓGICAS EM SANEAMENTO",
+    "Semestre": 99,
+    "Apelido": "ALTERNATIVAS ECOLÓGICAS EM SANEAMENTO",
+    "CargaHorariaTeorico": 60,
+    "CargaHorariaPratica": null,
+    "ListaPrequisitos": []
+  },
+  {
+    "Id": 56492,
+    "Codigo": "2101.002.007-0",
+    "Tipo": "OPT",
+    "Descricao": "ANÁLISE DE RISCOS EM ENGENHARIA DE RECURSOS HÍDRICOS",
+    "Semestre": 99,
+    "Apelido": "ANÁLISE DE RISCOS EM ENGENHARIA DE RECURSOS HÍDRICOS",
+    "CargaHorariaTeorico": 45,
+    "CargaHorariaPratica": null,
+    "ListaPrequisitos": []
+  },
+  {
+    "Id": 56479,
+    "Codigo": "2101.001.995-5",
+    "Tipo": "OPT",
+    "Descricao": "ANÁLISE ESPACIAL DE DADOS",
+    "Semestre": 99,
+    "Apelido": "ANÁLISE ESPACIAL DE DADOS",
+    "CargaHorariaTeorico": 45,
+    "CargaHorariaPratica": null,
+    "ListaPrequisitos": []
+  },
+  {
+    "Id": 53959,
+    "Codigo": "2101.001.725-3",
+    "Tipo": "OPT",
+    "Descricao": "ANÁLISE MULTIVARIADA DE DADOS",
+    "Semestre": 99,
+    "Apelido": "ANÁLISE MULTIVARIADA DE DADOS",
+    "CargaHorariaTeorico": 30,
+    "CargaHorariaPratica": null,
+    "ListaPrequisitos": []
+  },
+  {
+    "Id": 56517,
+    "Codigo": "2101.002.031-0",
+    "Tipo": "OPT",
+    "Descricao": "APLICAÇÕES EM GEOPROCESSAMENTO",
+    "Semestre": 99,
+    "Apelido": "APLICAÇÕES EM GEOPROCESSAMENTO",
+    "CargaHorariaTeorico": 60,
+    "CargaHorariaPratica": null,
+    "ListaPrequisitos": []
+  },
+  {
+    "Id": 53627,
+    "Codigo": "2101.001.622-9",
+    "Tipo": "OPT",
+    "Descricao": "APROVEITAMENTO E TRATAMENTO DE RESÍDUOS AGROINDUSTRIAIS",
+    "Semestre": 99,
+    "Apelido": "APROVEITAMENTO E TRATAMENTO DE RESÍDUOS AGROINDUSTRIAIS",
+    "CargaHorariaTeorico": 30,
+    "CargaHorariaPratica": null,
+    "ListaPrequisitos": []
+  },
+  {
+    "Id": 56305,
+    "Codigo": "2101.001.827-9",
+    "Tipo": "OPT",
+    "Descricao": "APROVEITAMENTOS HIDRÁULICOS",
+    "Semestre": 99,
+    "Apelido": "APROVEITAMENTOS HIDRÁULICOS",
+    "CargaHorariaTeorico": 60,
+    "CargaHorariaPratica": null,
+    "ListaPrequisitos": []
+  },
+  {
+    "Id": 56482,
+    "Codigo": "2101.001.998-2",
+    "Tipo": "OPT",
+    "Descricao": "ÁREAS CONTAMINADAS: INVESTIGAÇÃO, ANÁLISE E GESTÃO",
+    "Semestre": 99,
+    "Apelido": "ÁREAS CONTAMINADAS: INVESTIGAÇÃO, ANÁLISE E GESTÃO",
+    "CargaHorariaTeorico": 45,
+    "CargaHorariaPratica": null,
+    "ListaPrequisitos": []
+  },
+  {
+    "Id": 56481,
+    "Codigo": "2101.001.997-3",
+    "Tipo": "OPT",
+    "Descricao": "ARQUITETURA E URBANISMO",
+    "Semestre": 99,
+    "Apelido": "ARQUITETURA E URBANISMO",
+    "CargaHorariaTeorico": 45,
+    "CargaHorariaPratica": null,
+    "ListaPrequisitos": []
+  },
+  {
+    "Id": 56500,
+    "Codigo": "2101.002.015-0",
+    "Tipo": "OPT",
+    "Descricao": "CAPACITAÇÃO TÉCNICA TEMÁTICA",
+    "Semestre": 99,
+    "Apelido": "CAPACITAÇÃO TÉCNICA TEMÁTICA",
+    "CargaHorariaTeorico": 60,
+    "CargaHorariaPratica": null,
+    "ListaPrequisitos": []
+  },
+  {
+    "Id": 53950,
+    "Codigo": "2101.001.716-4",
+    "Tipo": "OPT",
+    "Descricao": "CIÊNCIA E TECNOLOGIA DOS MATERIAIS",
+    "Semestre": 99,
+    "Apelido": "CIÊNCIA E TECNOLOGIA DOS MATERIAIS",
+    "CargaHorariaTeorico": 30,
+    "CargaHorariaPratica": null,
+    "ListaPrequisitos": []
+  },
+  {
+    "Id": 53936,
+    "Codigo": "2101.001.704-8",
+    "Tipo": "OPT",
+    "Descricao": "CIÊNCIAS DE DADOS APLICADA",
+    "Semestre": 99,
+    "Apelido": "CIÊNCIAS DE DADOS APLICADA",
+    "CargaHorariaTeorico": 45,
+    "CargaHorariaPratica": null,
+    "ListaPrequisitos": []
+  },
+  {
+    "Id": 56445,
+    "Codigo": "2101.001.962-3",
+    "Tipo": "OPT",
+    "Descricao": "DESENHO TÉCNICO PARA ENGENHARIA",
+    "Semestre": 99,
+    "Apelido": "DESENHO TÉCNICO PARA ENGENHARIA",
+    "CargaHorariaTeorico": 45,
+    "CargaHorariaPratica": null,
+    "ListaPrequisitos": []
+  },
+  {
+    "Id": 56494,
+    "Codigo": "2101.002.009-9",
+    "Tipo": "OPT",
+    "Descricao": "ECONOMIA AMBIENTAL",
+    "Semestre": 99,
+    "Apelido": "ECONOMIA AMBIENTAL",
+    "CargaHorariaTeorico": 45,
+    "CargaHorariaPratica": null,
+    "ListaPrequisitos": []
+  },
+  {
+    "Id": 56534,
+    "Codigo": "2101.002.046-4",
+    "Tipo": "OPT",
+    "Descricao": "EDUCAÇÃO AMBIENTAL",
+    "Semestre": 99,
+    "Apelido": "EDUCAÇÃO AMBIENTAL",
+    "CargaHorariaTeorico": 60,
+    "CargaHorariaPratica": null,
+    "ListaPrequisitos": []
+  },
+  {
+    "Id": 55604,
+    "Codigo": "2501.000.553-6",
+    "Tipo": "OPT",
+    "Descricao": "EDUCAÇÃO, GESTÃO E CONTABILIDADE AMBIENTAL",
+    "Semestre": 99,
+    "Apelido": "EDUCAÇÃO, GESTÃO E CONTABILIDADE AMBIENTAL",
+    "CargaHorariaTeorico": 60,
+    "CargaHorariaPratica": null,
+    "ListaPrequisitos": []
+  },
+  {
+    "Id": 56231,
+    "Codigo": "2101.001.754-9",
+    "Tipo": "OPT",
+    "Descricao": "EFICIÊNCIA ENERGÉTICA EM HIDRÁULICA E SANEAMENTO",
+    "Semestre": 99,
+    "Apelido": "EFICIÊNCIA ENERGÉTICA EM HIDRÁULICA E SANEAMENTO",
+    "CargaHorariaTeorico": 45,
+    "CargaHorariaPratica": null,
+    "ListaPrequisitos": []
+  },
+  {
+    "Id": 52308,
+    "Codigo": "0100.000.003-0",
+    "Tipo": "NFC",
+    "Descricao": "EMPREENDEDORISMO E INOVAÇÃO",
+    "Semestre": 99,
+    "Apelido": "EMPREENDEDORISMO E INOVAÇÃO",
+    "CargaHorariaTeorico": 30,
+    "CargaHorariaPratica": null,
+    "ListaPrequisitos": []
+  },
+  {
+    "Id": 56271,
+    "Codigo": "2101.001.793-2",
+    "Tipo": "OPT",
+    "Descricao": "EMPREENDEDORISMO E INOVAÇÃO TECNOLÓGICA",
+    "Semestre": 99,
+    "Apelido": "EMPREENDEDORISMO E INOVAÇÃO TECNOLÓGICA",
+    "CargaHorariaTeorico": 30,
+    "CargaHorariaPratica": null,
+    "ListaPrequisitos": []
+  },
+  {
+    "Id": 56270,
+    "Codigo": "2101.001.792-3",
+    "Tipo": "OPT",
+    "Descricao": "ENGENHARIA DE TRANSPORTES I",
+    "Semestre": 99,
+    "Apelido": "ENGENHARIA DE TRANSPORTES I",
+    "CargaHorariaTeorico": 60,
+    "CargaHorariaPratica": null,
+    "ListaPrequisitos": []
+  },
+  {
+    "Id": 56268,
+    "Codigo": "2101.001.790-5",
+    "Tipo": "OPT",
+    "Descricao": "ENGENHARIA DE TRANSPORTES II",
+    "Semestre": 99,
+    "Apelido": "ENGENHARIA DE TRANSPORTES II",
+    "CargaHorariaTeorico": 30,
+    "CargaHorariaPratica": null,
+    "ListaPrequisitos": []
+  },
+  {
+    "Id": 53289,
+    "Codigo": "3101.000.720-0",
+    "Tipo": "OPT",
+    "Descricao": "ESTUDO DE LIBRAS",
+    "Semestre": 99,
+    "Apelido": "ESTUDO DE LIBRAS",
+    "CargaHorariaTeorico": 60,
+    "CargaHorariaPratica": null,
+    "ListaPrequisitos": []
+  },
+  {
+    "Id": 56533,
+    "Codigo": "2101.002.045-5",
+    "Tipo": "OPT",
+    "Descricao": "ESTUDO ESPECIAL EM ENGENHARIA AMBIENTAL",
+    "Semestre": 99,
+    "Apelido": "ESTUDO ESPECIAL EM ENGENHARIA AMBIENTAL",
+    "CargaHorariaTeorico": 45,
+    "CargaHorariaPratica": null,
+    "ListaPrequisitos": []
+  },
+  {
+    "Id": 56463,
+    "Codigo": "2101.001.979-5",
+    "Tipo": "OPT",
+    "Descricao": "FLORESTA URBANA:COMO PLANEJAR CIDADES VERDES, SUSTENTÁVEIS E SOCIOAMBIENTALMENTE JUSTAS",
+    "Semestre": 99,
+    "Apelido": "FLORESTA URBANA:COMO PLANEJAR CIDADES VERDES, SUSTENTÁVEIS E SOCIOAMBIENTALMENTE JUSTAS",
+    "CargaHorariaTeorico": 60,
+    "CargaHorariaPratica": null,
+    "ListaPrequisitos": []
+  },
+  {
+    "Id": 56391,
+    "Codigo": "2101.001.911-3",
+    "Tipo": "OPT",
+    "Descricao": "FONTES DE ENERGIAS RENOVÁVEIS",
+    "Semestre": 99,
+    "Apelido": "FONTES DE ENERGIAS RENOVÁVEIS",
+    "CargaHorariaTeorico": 45,
+    "CargaHorariaPratica": null,
+    "ListaPrequisitos": []
+  },
+  {
+    "Id": 53850,
+    "Codigo": "2401.000.409-0",
+    "Tipo": "OPT",
+    "Descricao": "FUNDAMENTOS DE ELETROMAGNETISMO",
+    "Semestre": 99,
+    "Apelido": "FUNDAMENTOS DE ELETROMAGNETISMO",
+    "CargaHorariaTeorico": 60,
+    "CargaHorariaPratica": null,
+    "ListaPrequisitos": []
+  },
+  {
+    "Id": 56470,
+    "Codigo": "2101.001.986-6",
+    "Tipo": "OPT",
+    "Descricao": "FUNDAMENTOS DE FLUIDODINÂMICA COMPUTACIONAL",
+    "Semestre": 99,
+    "Apelido": "FUNDAMENTOS DE FLUIDODINÂMICA COMPUTACIONAL",
+    "CargaHorariaTeorico": 45,
+    "CargaHorariaPratica": null,
+    "ListaPrequisitos": [
+      {
+        "Id": 56293,
+        "Codigo": "2101.001.815-2",
+        "Descricao": "FENÔMENOS DE TRANSPORTE",
+        "Semestre": "0",
+        "Apelido": "FENÔMENOS DE TRANSPORTE",
+        "CargaHorariaTeorico": 0,
+        "CargaHorariaPratica": 0,
+        "ListaPrequisitos": []
+      }
+    ]
+  },
+  {
+    "Id": 53964,
+    "Codigo": "2401.000.416-1",
+    "Tipo": "OPT",
+    "Descricao": "FUNDAMENTOS DE OSCILAÇÕES, ONDAS E FLUIDOS",
+    "Semestre": 99,
+    "Apelido": "FUNDAMENTOS DE OSCILAÇÕES, ONDAS E FLUIDOS",
+    "CargaHorariaTeorico": 30,
+    "CargaHorariaPratica": null,
+    "ListaPrequisitos": []
+  },
+  {
+    "Id": 56491,
+    "Codigo": "2101.002.006-1",
+    "Tipo": "OPT",
+    "Descricao": "GEOBIOSSISTEMAS",
+    "Semestre": 99,
+    "Apelido": "GEOBIOSSISTEMAS",
+    "CargaHorariaTeorico": 45,
+    "CargaHorariaPratica": null,
+    "ListaPrequisitos": []
+  },
+  {
+    "Id": 56527,
+    "Codigo": "2101.002.040-0",
+    "Tipo": "OPT",
+    "Descricao": "GEOLOGIA APLICADA",
+    "Semestre": 99,
+    "Apelido": "GEOLOGIA APLICADA",
+    "CargaHorariaTeorico": 60,
+    "CargaHorariaPratica": null,
+    "ListaPrequisitos": []
+  },
+  {
+    "Id": 56525,
+    "Codigo": "2101.002.038-4",
+    "Tipo": "OPT",
+    "Descricao": "GERENCIAMENTO DE PROJETOS",
+    "Semestre": 99,
+    "Apelido": "GERENCIAMENTO DE PROJETOS",
+    "CargaHorariaTeorico": 60,
+    "CargaHorariaPratica": null,
+    "ListaPrequisitos": []
+  },
+  {
+    "Id": 53844,
+    "Codigo": "2101.001.625-6",
+    "Tipo": "OPT",
+    "Descricao": "GERENCIAMENTO DE PROJETOS SOCIAIS",
+    "Semestre": 99,
+    "Apelido": "GERENCIAMENTO DE PROJETOS SOCIAIS",
+    "CargaHorariaTeorico": 60,
+    "CargaHorariaPratica": null,
+    "ListaPrequisitos": []
+  },
+  {
+    "Id": 56465,
+    "Codigo": "2101.001.981-0",
+    "Tipo": "OPT",
+    "Descricao": "GESTÃO DA PROFISSÃO NA ENGENHARIA",
+    "Semestre": 99,
+    "Apelido": "GESTÃO DA PROFISSÃO NA ENGENHARIA",
+    "CargaHorariaTeorico": 45,
+    "CargaHorariaPratica": null,
+    "ListaPrequisitos": []
+  },
+  {
+    "Id": 56468,
+    "Codigo": "2101.001.984-8",
+    "Tipo": "OPT",
+    "Descricao": "GESTÃO ESTRATÉGICA EM SANEAMENTO",
+    "Semestre": 99,
+    "Apelido": "GESTÃO ESTRATÉGICA EM SANEAMENTO",
+    "CargaHorariaTeorico": 30,
+    "CargaHorariaPratica": null,
+    "ListaPrequisitos": []
+  },
+  {
+    "Id": 56508,
+    "Codigo": "2101.002.023-0",
+    "Tipo": "OPT",
+    "Descricao": "HIDROLOGIA ESTATÍSTICA",
+    "Semestre": 99,
+    "Apelido": "HIDROLOGIA ESTATÍSTICA",
+    "CargaHorariaTeorico": 60,
+    "CargaHorariaPratica": null,
+    "ListaPrequisitos": []
+  },
+  {
+    "Id": 56523,
+    "Codigo": "2101.002.036-6",
+    "Tipo": "OPT",
+    "Descricao": "INSTRUMENTAÇÃO E MODELOS DIGITAIS AMBIENTAIS",
+    "Semestre": 99,
+    "Apelido": "INSTRUMENTAÇÃO E MODELOS DIGITAIS AMBIENTAIS",
+    "CargaHorariaTeorico": 30,
+    "CargaHorariaPratica": null,
+    "ListaPrequisitos": []
+  },
+  {
+    "Id": 52306,
+    "Codigo": "0100.000.001-1",
+    "Tipo": "NFC",
+    "Descricao": "INTELIGÊNCIA ARTIFICIAL: FUNDAMENTOS E PRÁTICAS",
+    "Semestre": 99,
+    "Apelido": "INTELIGÊNCIA ARTIFICIAL: FUNDAMENTOS E PRÁTICAS",
+    "CargaHorariaTeorico": 30,
+    "CargaHorariaPratica": null,
+    "ListaPrequisitos": []
+  },
+  {
+    "Id": 56519,
+    "Codigo": "2101.002.033-9",
+    "Tipo": "OPT",
+    "Descricao": "INTRODUÇÃO AO LICENCIAMENTO AMBIENTAL",
+    "Semestre": 99,
+    "Apelido": "INTRODUÇÃO AO LICENCIAMENTO AMBIENTAL",
+    "CargaHorariaTeorico": 60,
+    "CargaHorariaPratica": null,
+    "ListaPrequisitos": []
+  },
+  {
+    "Id": 56514,
+    "Codigo": "2101.002.028-6",
+    "Tipo": "OPT",
+    "Descricao": "INTRODUÇÃO À VIDA UNIVERSITÁRIA",
+    "Semestre": 99,
+    "Apelido": "INTRODUÇÃO À VIDA UNIVERSITÁRIA",
+    "CargaHorariaTeorico": 45,
+    "CargaHorariaPratica": null,
+    "ListaPrequisitos": []
+  },
+  {
+    "Id": 53911,
+    "Codigo": "2401.000.413-4",
+    "Tipo": "OPT",
+    "Descricao": "LABORATÓRIO DE ONDAS E ELETRICIDADE E MAGNETISMO",
+    "Semestre": 99,
+    "Apelido": "LABORATÓRIO DE ONDAS E ELETRICIDADE E MAGNETISMO",
+    "CargaHorariaTeorico": 30,
+    "CargaHorariaPratica": null,
+    "ListaPrequisitos": []
+  },
+  {
+    "Id": 56511,
+    "Codigo": "2601.000.711-1",
+    "Tipo": "OPT",
+    "Descricao": "LEGISLAÇÃO E HIGIENE NA INDÚSTRIA DE ALIMENTOS",
+    "Semestre": 99,
+    "Apelido": "LEGISLAÇÃO E HIGIENE NA INDÚSTRIA DE ALIMENTOS",
+    "CargaHorariaTeorico": 45,
+    "CargaHorariaPratica": null,
+    "ListaPrequisitos": []
+  },
+  {
+    "Id": 56509,
+    "Codigo": "2101.002.024-0",
+    "Tipo": "OPT",
+    "Descricao": "LIMNOLOGIA",
+    "Semestre": 99,
+    "Apelido": "LIMNOLOGIA",
+    "CargaHorariaTeorico": 45,
+    "CargaHorariaPratica": null,
+    "ListaPrequisitos": [
+      {
+        "Id": 56532,
+        "Codigo": "2101.002.044-6",
+        "Descricao": "QUALIDADE DA ÁGUA",
+        "Semestre": "0",
+        "Apelido": "QUALIDADE DA ÁGUA",
+        "CargaHorariaTeorico": 0,
+        "CargaHorariaPratica": 0,
+        "ListaPrequisitos": []
+      }
+    ]
+  },
+  {
+    "Id": 56520,
+    "Codigo": "2401.000.423-2",
+    "Tipo": "OPT",
+    "Descricao": "MECÂNICA GERAL",
+    "Semestre": 99,
+    "Apelido": "MECÂNICA GERAL",
+    "CargaHorariaTeorico": 45,
+    "CargaHorariaPratica": null,
+    "ListaPrequisitos": []
+  },
+  {
+    "Id": 56522,
+    "Codigo": "2101.002.035-7",
+    "Tipo": "OPT",
+    "Descricao": "MEIO FÍSICO DA BACIA DO PANTANAL",
+    "Semestre": 99,
+    "Apelido": "MEIO FÍSICO DA BACIA DO PANTANAL",
+    "CargaHorariaTeorico": 60,
+    "CargaHorariaPratica": null,
+    "ListaPrequisitos": []
+  },
+  {
+    "Id": 56512,
+    "Codigo": "2101.002.026-8",
+    "Tipo": "OPT",
+    "Descricao": "MODELAGEM DE SISTEMAS DE SANEAMENTO",
+    "Semestre": 99,
+    "Apelido": "MODELAGEM DE SISTEMAS DE SANEAMENTO",
+    "CargaHorariaTeorico": 45,
+    "CargaHorariaPratica": null,
+    "ListaPrequisitos": []
+  },
+  {
+    "Id": 56478,
+    "Codigo": "2101.001.994-6",
+    "Tipo": "OPT",
+    "Descricao": "MODELAGEM DO TEMPO E CLIMA",
+    "Semestre": 99,
+    "Apelido": "MODELAGEM DO TEMPO E CLIMA",
+    "CargaHorariaTeorico": 60,
+    "CargaHorariaPratica": null,
+    "ListaPrequisitos": []
+  },
+  {
+    "Id": 56487,
+    "Codigo": "2101.002.002-5",
+    "Tipo": "OPT",
+    "Descricao": "MUDANÇAS CLIMÁTICAS",
+    "Semestre": 99,
+    "Apelido": "MUDANÇAS CLIMÁTICAS",
+    "CargaHorariaTeorico": 45,
+    "CargaHorariaPratica": null,
+    "ListaPrequisitos": []
+  },
+  {
+    "Id": 56496,
+    "Codigo": "2101.002.011-4",
+    "Tipo": "OPT",
+    "Descricao": "OTIMIZAÇÃO DE SISTEMAS AMBIENTAIS",
+    "Semestre": 99,
+    "Apelido": "OTIMIZAÇÃO DE SISTEMAS AMBIENTAIS",
+    "CargaHorariaTeorico": 60,
+    "CargaHorariaPratica": null,
+    "ListaPrequisitos": []
+  },
+  {
+    "Id": 56524,
+    "Codigo": "2101.002.037-5",
+    "Tipo": "OPT",
+    "Descricao": "PEDOLOGIA",
+    "Semestre": 99,
+    "Apelido": "PEDOLOGIA",
+    "CargaHorariaTeorico": 45,
+    "CargaHorariaPratica": null,
+    "ListaPrequisitos": []
+  },
+  {
+    "Id": 56498,
+    "Codigo": "2101.002.013-2",
+    "Tipo": "OPT",
+    "Descricao": "PERÍCIA AMBIENTAL",
+    "Semestre": 99,
+    "Apelido": "PERÍCIA AMBIENTAL",
+    "CargaHorariaTeorico": 60,
+    "CargaHorariaPratica": null,
+    "ListaPrequisitos": [
+      {
+        "Id": 56515,
+        "Codigo": "2101.002.029-5",
+        "Descricao": "DIREITO AMBIENTAL",
+        "Semestre": "0",
+        "Apelido": "DIREITO AMBIENTAL",
+        "CargaHorariaTeorico": 0,
+        "CargaHorariaPratica": 0,
+        "ListaPrequisitos": []
+      }
+    ]
+  },
+  {
+    "Id": 53593,
+    "Codigo": "2101.001.620-0",
+    "Tipo": "OPT",
+    "Descricao": "PROCESSOS AGROINDUSTRIAIS",
+    "Semestre": 99,
+    "Apelido": "PROCESSOS AGROINDUSTRIAIS",
+    "CargaHorariaTeorico": 30,
+    "CargaHorariaPratica": null,
+    "ListaPrequisitos": []
+  },
+  {
+    "Id": 56484,
+    "Codigo": "2101.002.000-7",
+    "Tipo": "OPT",
+    "Descricao": "RELAÇÃO SOLO, ÁGUA E PLANTA",
+    "Semestre": 99,
+    "Apelido": "RELAÇÃO SOLO, ÁGUA E PLANTA",
+    "CargaHorariaTeorico": 60,
+    "CargaHorariaPratica": null,
+    "ListaPrequisitos": []
+  },
+  {
+    "Id": 56488,
+    "Codigo": "2101.002.003-4",
+    "Tipo": "OPT",
+    "Descricao": "SEGURANÇA E INSPEÇÃO DE BARRAGENS",
+    "Semestre": 99,
+    "Apelido": "SEGURANÇA E INSPEÇÃO DE BARRAGENS",
+    "CargaHorariaTeorico": 45,
+    "CargaHorariaPratica": null,
+    "ListaPrequisitos": []
+  },
+  {
+    "Id": 56497,
+    "Codigo": "2101.002.012-3",
+    "Tipo": "OPT",
+    "Descricao": "SENSORIAMENTO REMOTO E FOTOINTERPRETAÇÃO",
+    "Semestre": 99,
+    "Apelido": "SENSORIAMENTO REMOTO E FOTOINTERPRETAÇÃO",
+    "CargaHorariaTeorico": 60,
+    "CargaHorariaPratica": null,
+    "ListaPrequisitos": [
+      {
+        "Id": 56505,
+        "Codigo": "2101.002.020-3",
+        "Descricao": "GEOTECNOLOGIAS AMBIENTAIS",
+        "Semestre": "0",
+        "Apelido": "GEOTECNOLOGIAS AMBIENTAIS",
+        "CargaHorariaTeorico": 0,
+        "CargaHorariaPratica": 0,
+        "ListaPrequisitos": []
+      }
+    ]
+  },
+  {
+    "Id": 52378,
+    "Codigo": "2201.000.256-6",
+    "Tipo": "OPT",
+    "Descricao": "SEQUÊNCIAS E SÉRIES",
+    "Semestre": 99,
+    "Apelido": "SEQUÊNCIAS E SÉRIES",
+    "CargaHorariaTeorico": 30,
+    "CargaHorariaPratica": null,
+    "ListaPrequisitos": []
+  },
+  {
+    "Id": 56507,
+    "Codigo": "2101.002.022-1",
+    "Tipo": "OPT",
+    "Descricao": "SOLUÇÕES BASEADAS NA NATUREZA PARA TRATAMENTO E REÚSO DE ESGOTO SANITÁRIO",
+    "Semestre": 99,
+    "Apelido": "SOLUÇÕES BASEADAS NA NATUREZA PARA TRATAMENTO E REÚSO DE ESGOTO SANITÁRIO",
+    "CargaHorariaTeorico": 45,
+    "CargaHorariaPratica": null,
+    "ListaPrequisitos": []
+  },
+  {
+    "Id": 56521,
+    "Codigo": "2101.002.034-8",
+    "Tipo": "OPT",
+    "Descricao": "TECNOLOGIAS COMPACTAS DE TRATAMENTO DE EFLUENTES",
+    "Semestre": 99,
+    "Apelido": "TECNOLOGIAS COMPACTAS DE TRATAMENTO DE EFLUENTES",
+    "CargaHorariaTeorico": 45,
+    "CargaHorariaPratica": null,
+    "ListaPrequisitos": []
+  },
+  {
+    "Id": 56504,
+    "Codigo": "2101.002.019-7",
+    "Tipo": "OPT",
+    "Descricao": "VEGETAÇÃO E RECURSOS FLORESTAIS",
+    "Semestre": 99,
+    "Apelido": "VEGETAÇÃO E RECURSOS FLORESTAIS",
+    "CargaHorariaTeorico": 45,
+    "CargaHorariaPratica": null,
+    "ListaPrequisitos": []
+  },
+  {
+    "Id": 52307,
+    "Codigo": "0100.000.002-0",
+    "Tipo": "NFC",
+    "Descricao": "VIDA, CIDADANIA E SUSTENTABILIDADE",
+    "Semestre": 99,
+    "Apelido": "VIDA, CIDADANIA E SUSTENTABILIDADE",
+    "CargaHorariaTeorico": 30,
+    "CargaHorariaPratica": null,
+    "ListaPrequisitos": []
+  }
+]

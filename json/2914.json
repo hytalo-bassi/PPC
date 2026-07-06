@@ -1,0 +1,1058 @@
+[
+  {
+    "Id": 55686,
+    "Codigo": "2901.001.382-0",
+    "Tipo": "OBR",
+    "Descricao": "GEOPOLÍTICA",
+    "Semestre": 1,
+    "Apelido": "GEOPOLÍTICA",
+    "CargaHorariaTeorico": 60,
+    "CargaHorariaPratica": null,
+    "ListaPrequisitos": []
+  },
+  {
+    "Id": 55664,
+    "Codigo": "2901.001.360-6",
+    "Tipo": "OBR",
+    "Descricao": "HISTÓRIA DO JORNALISMO",
+    "Semestre": 1,
+    "Apelido": "HISTÓRIA DO JORNALISMO",
+    "CargaHorariaTeorico": 60,
+    "CargaHorariaPratica": null,
+    "ListaPrequisitos": []
+  },
+  {
+    "Id": 55639,
+    "Codigo": "2901.001.337-5",
+    "Tipo": "OBR",
+    "Descricao": "INTERFACES DOS MEIOS DIGITAIS",
+    "Semestre": 1,
+    "Apelido": "INTERFACES DOS MEIOS DIGITAIS",
+    "CargaHorariaTeorico": 60,
+    "CargaHorariaPratica": null,
+    "ListaPrequisitos": []
+  },
+  {
+    "Id": 55652,
+    "Codigo": "2901.001.348-2",
+    "Tipo": "OBR",
+    "Descricao": "LINGUAGEM JORNALÍSTICA I",
+    "Semestre": 1,
+    "Apelido": "LINGUAGEM JORNALÍSTICA I",
+    "CargaHorariaTeorico": 60,
+    "CargaHorariaPratica": null,
+    "ListaPrequisitos": []
+  },
+  {
+    "Id": 55661,
+    "Codigo": "2901.001.357-1",
+    "Tipo": "OBR",
+    "Descricao": "TEORIAS DA COMUNICAÇÃO I",
+    "Semestre": 1,
+    "Apelido": "TEORIAS DA COMUNICAÇÃO I",
+    "CargaHorariaTeorico": 60,
+    "CargaHorariaPratica": null,
+    "ListaPrequisitos": []
+  },
+  {
+    "Id": 55698,
+    "Codigo": "2901.001.394-7",
+    "Tipo": "OBR",
+    "Descricao": "ENTREVISTA E PESQUISA JORNALÍSTICA",
+    "Semestre": 2,
+    "Apelido": "ENTREVISTA E PESQUISA JORNALÍSTICA",
+    "CargaHorariaTeorico": 60,
+    "CargaHorariaPratica": null,
+    "ListaPrequisitos": []
+  },
+  {
+    "Id": 55676,
+    "Codigo": "2901.001.372-2",
+    "Tipo": "OBR",
+    "Descricao": "FOTOGRAFIA E OUTRAS IMAGENS",
+    "Semestre": 2,
+    "Apelido": "FOTOGRAFIA E OUTRAS IMAGENS",
+    "CargaHorariaTeorico": 60,
+    "CargaHorariaPratica": null,
+    "ListaPrequisitos": []
+  },
+  {
+    "Id": 55685,
+    "Codigo": "2901.001.381-1",
+    "Tipo": "OBR",
+    "Descricao": "INTRODUÇÃO À IMAGEM",
+    "Semestre": 2,
+    "Apelido": "INTRODUÇÃO À IMAGEM",
+    "CargaHorariaTeorico": 60,
+    "CargaHorariaPratica": null,
+    "ListaPrequisitos": []
+  },
+  {
+    "Id": 55665,
+    "Codigo": "2901.001.361-5",
+    "Tipo": "OBR",
+    "Descricao": "LINGUAGEM JORNALÍSTICA II",
+    "Semestre": 2,
+    "Apelido": "LINGUAGEM JORNALÍSTICA II",
+    "CargaHorariaTeorico": 60,
+    "CargaHorariaPratica": null,
+    "ListaPrequisitos": [
+      {
+        "Id": 55652,
+        "Codigo": "2901.001.348-2",
+        "Descricao": "LINGUAGEM JORNALÍSTICA I",
+        "Semestre": "0",
+        "Apelido": "LINGUAGEM JORNALÍSTICA I",
+        "CargaHorariaTeorico": 0,
+        "CargaHorariaPratica": 0,
+        "ListaPrequisitos": []
+      }
+    ]
+  },
+  {
+    "Id": 55641,
+    "Codigo": "2901.001.339-3",
+    "Tipo": "OBR",
+    "Descricao": "TEORIAS DA COMUNICAÇÃO II",
+    "Semestre": 2,
+    "Apelido": "TEORIAS DA COMUNICAÇÃO II",
+    "CargaHorariaTeorico": 60,
+    "CargaHorariaPratica": null,
+    "ListaPrequisitos": [
+      {
+        "Id": 55661,
+        "Codigo": "2901.001.357-1",
+        "Descricao": "TEORIAS DA COMUNICAÇÃO I",
+        "Semestre": "0",
+        "Apelido": "TEORIAS DA COMUNICAÇÃO I",
+        "CargaHorariaTeorico": 0,
+        "CargaHorariaPratica": 0,
+        "ListaPrequisitos": []
+      }
+    ]
+  },
+  {
+    "Id": 55655,
+    "Codigo": "2901.001.351-7",
+    "Tipo": "OBR",
+    "Descricao": "TEORIAS DO JORNALISMO",
+    "Semestre": 2,
+    "Apelido": "TEORIAS DO JORNALISMO",
+    "CargaHorariaTeorico": 60,
+    "CargaHorariaPratica": null,
+    "ListaPrequisitos": []
+  },
+  {
+    "Id": 55667,
+    "Codigo": "2901.001.363-3",
+    "Tipo": "OBR",
+    "Descricao": "COMUNICAÇÃO VISUAL",
+    "Semestre": 3,
+    "Apelido": "COMUNICAÇÃO VISUAL",
+    "CargaHorariaTeorico": 60,
+    "CargaHorariaPratica": null,
+    "ListaPrequisitos": []
+  },
+  {
+    "Id": 55704,
+    "Codigo": "2901.001.400-4",
+    "Tipo": "OBR",
+    "Descricao": "FILOSOFIA",
+    "Semestre": 3,
+    "Apelido": "FILOSOFIA",
+    "CargaHorariaTeorico": 60,
+    "CargaHorariaPratica": null,
+    "ListaPrequisitos": []
+  },
+  {
+    "Id": 55645,
+    "Codigo": "2901.001.342-8",
+    "Tipo": "OBR",
+    "Descricao": "LINGUAGEM JORNALÍSTICA III",
+    "Semestre": 3,
+    "Apelido": "LINGUAGEM JORNALÍSTICA III",
+    "CargaHorariaTeorico": 60,
+    "CargaHorariaPratica": null,
+    "ListaPrequisitos": [
+      {
+        "Id": 55665,
+        "Codigo": "2901.001.361-5",
+        "Descricao": "LINGUAGEM JORNALÍSTICA II",
+        "Semestre": "0",
+        "Apelido": "LINGUAGEM JORNALÍSTICA II",
+        "CargaHorariaTeorico": 0,
+        "CargaHorariaPratica": 0,
+        "ListaPrequisitos": []
+      }
+    ]
+  },
+  {
+    "Id": 55672,
+    "Codigo": "2901.001.368-9",
+    "Tipo": "OBR",
+    "Descricao": "SOCIOLOGIA DA COMUNICAÇÃO",
+    "Semestre": 3,
+    "Apelido": "SOCIOLOGIA DA COMUNICAÇÃO",
+    "CargaHorariaTeorico": 60,
+    "CargaHorariaPratica": null,
+    "ListaPrequisitos": []
+  },
+  {
+    "Id": 55666,
+    "Codigo": "2901.001.362-4",
+    "Tipo": "OBR",
+    "Descricao": "VISUALIDADES JORNALÍSTICAS",
+    "Semestre": 3,
+    "Apelido": "VISUALIDADES JORNALÍSTICAS",
+    "CargaHorariaTeorico": 60,
+    "CargaHorariaPratica": null,
+    "ListaPrequisitos": [
+      {
+        "Id": 55676,
+        "Codigo": "2901.001.372-2",
+        "Descricao": "FOTOGRAFIA E OUTRAS IMAGENS",
+        "Semestre": "0",
+        "Apelido": "FOTOGRAFIA E OUTRAS IMAGENS",
+        "CargaHorariaTeorico": 0,
+        "CargaHorariaPratica": 0,
+        "ListaPrequisitos": []
+      }
+    ]
+  },
+  {
+    "Id": 55684,
+    "Codigo": "2901.001.380-2",
+    "Tipo": "OBR",
+    "Descricao": "EDIÇÃO",
+    "Semestre": 4,
+    "Apelido": "EDIÇÃO",
+    "CargaHorariaTeorico": 60,
+    "CargaHorariaPratica": null,
+    "ListaPrequisitos": [
+      {
+        "Id": 55645,
+        "Codigo": "2901.001.342-8",
+        "Descricao": "LINGUAGEM JORNALÍSTICA III",
+        "Semestre": "0",
+        "Apelido": "LINGUAGEM JORNALÍSTICA III",
+        "CargaHorariaTeorico": 0,
+        "CargaHorariaPratica": 0,
+        "ListaPrequisitos": []
+      }
+    ]
+  },
+  {
+    "Id": 55671,
+    "Codigo": "2901.001.367-0",
+    "Tipo": "OBR",
+    "Descricao": "LABORATÓRIO DE DESIGN EM JORNALISMO",
+    "Semestre": 4,
+    "Apelido": "LABORATÓRIO DE DESIGN EM JORNALISMO",
+    "CargaHorariaTeorico": 60,
+    "CargaHorariaPratica": null,
+    "ListaPrequisitos": [
+      {
+        "Id": 55667,
+        "Codigo": "2901.001.363-3",
+        "Descricao": "COMUNICAÇÃO VISUAL",
+        "Semestre": "0",
+        "Apelido": "COMUNICAÇÃO VISUAL",
+        "CargaHorariaTeorico": 0,
+        "CargaHorariaPratica": 0,
+        "ListaPrequisitos": []
+      }
+    ]
+  },
+  {
+    "Id": 55653,
+    "Codigo": "2901.001.349-1",
+    "Tipo": "OBR",
+    "Descricao": "LEGISLAÇÃO E ÉTICA EM JORNALISMO",
+    "Semestre": 4,
+    "Apelido": "LEGISLAÇÃO E ÉTICA EM JORNALISMO",
+    "CargaHorariaTeorico": 60,
+    "CargaHorariaPratica": null,
+    "ListaPrequisitos": []
+  },
+  {
+    "Id": 55695,
+    "Codigo": "2901.001.391-0",
+    "Tipo": "OBR",
+    "Descricao": "METODOLOGIA DA PESQUISA CIENTÍFICA",
+    "Semestre": 4,
+    "Apelido": "METODOLOGIA DA PESQUISA CIENTÍFICA",
+    "CargaHorariaTeorico": 60,
+    "CargaHorariaPratica": null,
+    "ListaPrequisitos": []
+  },
+  {
+    "Id": 55693,
+    "Codigo": "2901.001.389-4",
+    "Tipo": "OBR",
+    "Descricao": "REPORTAGEM",
+    "Semestre": 4,
+    "Apelido": "REPORTAGEM",
+    "CargaHorariaTeorico": 60,
+    "CargaHorariaPratica": null,
+    "ListaPrequisitos": [
+      {
+        "Id": 55645,
+        "Codigo": "2901.001.342-8",
+        "Descricao": "LINGUAGEM JORNALÍSTICA III",
+        "Semestre": "0",
+        "Apelido": "LINGUAGEM JORNALÍSTICA III",
+        "CargaHorariaTeorico": 0,
+        "CargaHorariaPratica": 0,
+        "ListaPrequisitos": []
+      }
+    ]
+  },
+  {
+    "Id": 55633,
+    "Codigo": "2901.001.331-0",
+    "Tipo": "OBR",
+    "Descricao": "EMPREENDEDORISMO E INOVAÇÃO",
+    "Semestre": 5,
+    "Apelido": "EMPREENDEDORISMO E INOVAÇÃO",
+    "CargaHorariaTeorico": 60,
+    "CargaHorariaPratica": null,
+    "ListaPrequisitos": []
+  },
+  {
+    "Id": 55675,
+    "Codigo": "2901.001.371-3",
+    "Tipo": "OBR",
+    "Descricao": "JORNAL LABORATÓRIO",
+    "Semestre": 5,
+    "Apelido": "JORNAL LABORATÓRIO",
+    "CargaHorariaTeorico": 60,
+    "CargaHorariaPratica": null,
+    "ListaPrequisitos": [
+      {
+        "Id": 55645,
+        "Codigo": "2901.001.342-8",
+        "Descricao": "LINGUAGEM JORNALÍSTICA III",
+        "Semestre": "0",
+        "Apelido": "LINGUAGEM JORNALÍSTICA III",
+        "CargaHorariaTeorico": 0,
+        "CargaHorariaPratica": 0,
+        "ListaPrequisitos": []
+      }
+    ]
+  },
+  {
+    "Id": 55694,
+    "Codigo": "2901.001.390-0",
+    "Tipo": "OBR",
+    "Descricao": "LABORATÓRIO DE JORNALISMO AUDIOVISUAL I",
+    "Semestre": 5,
+    "Apelido": "LABORATÓRIO DE JORNALISMO AUDIOVISUAL I",
+    "CargaHorariaTeorico": 60,
+    "CargaHorariaPratica": null,
+    "ListaPrequisitos": [
+      {
+        "Id": 55645,
+        "Codigo": "2901.001.342-8",
+        "Descricao": "LINGUAGEM JORNALÍSTICA III",
+        "Semestre": "0",
+        "Apelido": "LINGUAGEM JORNALÍSTICA III",
+        "CargaHorariaTeorico": 0,
+        "CargaHorariaPratica": 0,
+        "ListaPrequisitos": []
+      }
+    ]
+  },
+  {
+    "Id": 55646,
+    "Codigo": "2901.001.343-7",
+    "Tipo": "OBR",
+    "Descricao": "LABORATÓRIO DE JORNALISMO SONORO I",
+    "Semestre": 5,
+    "Apelido": "LABORATÓRIO DE JORNALISMO SONORO I",
+    "CargaHorariaTeorico": 60,
+    "CargaHorariaPratica": null,
+    "ListaPrequisitos": [
+      {
+        "Id": 55645,
+        "Codigo": "2901.001.342-8",
+        "Descricao": "LINGUAGEM JORNALÍSTICA III",
+        "Semestre": "0",
+        "Apelido": "LINGUAGEM JORNALÍSTICA III",
+        "CargaHorariaTeorico": 0,
+        "CargaHorariaPratica": 0,
+        "ListaPrequisitos": []
+      }
+    ]
+  },
+  {
+    "Id": 55644,
+    "Codigo": "3001.000.758-6",
+    "Tipo": "OBR",
+    "Descricao": "PSICOLOGIA DA COMUNICAÇÃO",
+    "Semestre": 5,
+    "Apelido": "PSICOLOGIA DA COMUNICAÇÃO",
+    "CargaHorariaTeorico": 60,
+    "CargaHorariaPratica": null,
+    "ListaPrequisitos": []
+  },
+  {
+    "Id": 55656,
+    "Codigo": "2901.001.352-6",
+    "Tipo": "OBR",
+    "Descricao": "ASSESSORIA DE IMPRENSA DE COMUNICAÇÃO",
+    "Semestre": 6,
+    "Apelido": "ASSESSORIA DE IMPRENSA DE COMUNICAÇÃO",
+    "CargaHorariaTeorico": 60,
+    "CargaHorariaPratica": null,
+    "ListaPrequisitos": [
+      {
+        "Id": 55645,
+        "Codigo": "2901.001.342-8",
+        "Descricao": "LINGUAGEM JORNALÍSTICA III",
+        "Semestre": "0",
+        "Apelido": "LINGUAGEM JORNALÍSTICA III",
+        "CargaHorariaTeorico": 0,
+        "CargaHorariaPratica": 0,
+        "ListaPrequisitos": []
+      }
+    ]
+  },
+  {
+    "Id": 55642,
+    "Codigo": "2901.001.340-0",
+    "Tipo": "OBR",
+    "Descricao": "JORNALISMO DE REVISTA",
+    "Semestre": 6,
+    "Apelido": "JORNALISMO DE REVISTA",
+    "CargaHorariaTeorico": 60,
+    "CargaHorariaPratica": null,
+    "ListaPrequisitos": [
+      {
+        "Id": 55693,
+        "Codigo": "2901.001.389-4",
+        "Descricao": "REPORTAGEM",
+        "Semestre": "0",
+        "Apelido": "REPORTAGEM",
+        "CargaHorariaTeorico": 0,
+        "CargaHorariaPratica": 0,
+        "ListaPrequisitos": []
+      }
+    ]
+  },
+  {
+    "Id": 55640,
+    "Codigo": "2901.001.338-4",
+    "Tipo": "OBR",
+    "Descricao": "LABORATÓRIO DE CIBERJORNALISMO I",
+    "Semestre": 6,
+    "Apelido": "LABORATÓRIO DE CIBERJORNALISMO I",
+    "CargaHorariaTeorico": 60,
+    "CargaHorariaPratica": null,
+    "ListaPrequisitos": [
+      {
+        "Id": 55645,
+        "Codigo": "2901.001.342-8",
+        "Descricao": "LINGUAGEM JORNALÍSTICA III",
+        "Semestre": "0",
+        "Apelido": "LINGUAGEM JORNALÍSTICA III",
+        "CargaHorariaTeorico": 0,
+        "CargaHorariaPratica": 0,
+        "ListaPrequisitos": []
+      }
+    ]
+  },
+  {
+    "Id": 55691,
+    "Codigo": "2901.001.387-6",
+    "Tipo": "OBR",
+    "Descricao": "LABORATÓRIO DE JORNALISMO AUDIOVISUAL II",
+    "Semestre": 6,
+    "Apelido": "LABORATÓRIO DE JORNALISMO AUDIOVISUAL II",
+    "CargaHorariaTeorico": 60,
+    "CargaHorariaPratica": null,
+    "ListaPrequisitos": [
+      {
+        "Id": 55694,
+        "Codigo": "2901.001.390-0",
+        "Descricao": "LABORATÓRIO DE JORNALISMO AUDIOVISUAL I",
+        "Semestre": "0",
+        "Apelido": "LABORATÓRIO DE JORNALISMO AUDIOVISUAL I",
+        "CargaHorariaTeorico": 0,
+        "CargaHorariaPratica": 0,
+        "ListaPrequisitos": []
+      }
+    ]
+  },
+  {
+    "Id": 55650,
+    "Codigo": "2901.001.346-4",
+    "Tipo": "OBR",
+    "Descricao": "LABORATÓRIO DE JORNALISMO SONORO II",
+    "Semestre": 6,
+    "Apelido": "LABORATÓRIO DE JORNALISMO SONORO II",
+    "CargaHorariaTeorico": 60,
+    "CargaHorariaPratica": null,
+    "ListaPrequisitos": [
+      {
+        "Id": 55646,
+        "Codigo": "2901.001.343-7",
+        "Descricao": "LABORATÓRIO DE JORNALISMO SONORO I",
+        "Semestre": "0",
+        "Apelido": "LABORATÓRIO DE JORNALISMO SONORO I",
+        "CargaHorariaTeorico": 0,
+        "CargaHorariaPratica": 0,
+        "ListaPrequisitos": []
+      }
+    ]
+  },
+  {
+    "Id": 55647,
+    "Codigo": "3001.000.759-5",
+    "Tipo": "OBR",
+    "Descricao": "ANTROPOLOGIA DA CULTURA BRASILEIRA",
+    "Semestre": 7,
+    "Apelido": "ANTROPOLOGIA DA CULTURA BRASILEIRA",
+    "CargaHorariaTeorico": 60,
+    "CargaHorariaPratica": null,
+    "ListaPrequisitos": []
+  },
+  {
+    "Id": 55702,
+    "Codigo": "2901.001.398-3",
+    "Tipo": "OBR",
+    "Descricao": "LABORATÓRIO DE CIBERJORNALISMO II",
+    "Semestre": 7,
+    "Apelido": "LABORATÓRIO DE CIBERJORNALISMO II",
+    "CargaHorariaTeorico": 60,
+    "CargaHorariaPratica": null,
+    "ListaPrequisitos": [
+      {
+        "Id": 55640,
+        "Codigo": "2901.001.338-4",
+        "Descricao": "LABORATÓRIO DE CIBERJORNALISMO I",
+        "Semestre": "0",
+        "Apelido": "LABORATÓRIO DE CIBERJORNALISMO I",
+        "CargaHorariaTeorico": 0,
+        "CargaHorariaPratica": 0,
+        "ListaPrequisitos": []
+      }
+    ]
+  },
+  {
+    "Id": 55697,
+    "Codigo": "2901.001.393-8",
+    "Tipo": "OBR",
+    "Descricao": "PESQUISA EM JORNALISMO",
+    "Semestre": 7,
+    "Apelido": "PESQUISA EM JORNALISMO",
+    "CargaHorariaTeorico": 60,
+    "CargaHorariaPratica": null,
+    "ListaPrequisitos": [
+      {
+        "Id": 55695,
+        "Codigo": "2901.001.391-0",
+        "Descricao": "METODOLOGIA DA PESQUISA CIENTÍFICA",
+        "Semestre": "0",
+        "Apelido": "METODOLOGIA DA PESQUISA CIENTÍFICA",
+        "CargaHorariaTeorico": 0,
+        "CargaHorariaPratica": 0,
+        "ListaPrequisitos": []
+      }
+    ]
+  },
+  {
+    "Id": 55635,
+    "Codigo": "2901.001.333-9",
+    "Tipo": "OBR",
+    "Descricao": "SISTEMAS, MÍDIAS E CIDADANIA",
+    "Semestre": 7,
+    "Apelido": "SISTEMAS, MÍDIAS E CIDADANIA",
+    "CargaHorariaTeorico": 60,
+    "CargaHorariaPratica": null,
+    "ListaPrequisitos": [
+      {
+        "Id": 55672,
+        "Codigo": "2901.001.368-9",
+        "Descricao": "SOCIOLOGIA DA COMUNICAÇÃO",
+        "Semestre": "0",
+        "Apelido": "SOCIOLOGIA DA COMUNICAÇÃO",
+        "CargaHorariaTeorico": 0,
+        "CargaHorariaPratica": 0,
+        "ListaPrequisitos": []
+      }
+    ]
+  },
+  {
+    "Id": 55705,
+    "Codigo": "2901.001.401-3",
+    "Tipo": "OBR",
+    "Descricao": "ESTÁGIO OBRIGATÓRIO",
+    "Semestre": 8,
+    "Apelido": "ESTÁGIO OBRIGATÓRIO",
+    "CargaHorariaTeorico": 250,
+    "CargaHorariaPratica": null,
+    "ListaPrequisitos": []
+  },
+  {
+    "Id": 55669,
+    "Codigo": "2901.001.365-1",
+    "Tipo": "OBR",
+    "Descricao": "JORNALISMO ESPECIALIZADO",
+    "Semestre": 8,
+    "Apelido": "JORNALISMO ESPECIALIZADO",
+    "CargaHorariaTeorico": 60,
+    "CargaHorariaPratica": null,
+    "ListaPrequisitos": [
+      {
+        "Id": 55642,
+        "Codigo": "2901.001.340-0",
+        "Descricao": "JORNALISMO DE REVISTA",
+        "Semestre": "0",
+        "Apelido": "JORNALISMO DE REVISTA",
+        "CargaHorariaTeorico": 0,
+        "CargaHorariaPratica": 0,
+        "ListaPrequisitos": []
+      }
+    ]
+  },
+  {
+    "Id": 55636,
+    "Codigo": "2901.001.334-8",
+    "Tipo": "OPT",
+    "Descricao": "CIBERJORNALISMO",
+    "Semestre": 99,
+    "Apelido": "CIBERJORNALISMO",
+    "CargaHorariaTeorico": 60,
+    "CargaHorariaPratica": null,
+    "ListaPrequisitos": []
+  },
+  {
+    "Id": 55637,
+    "Codigo": "2901.001.335-7",
+    "Tipo": "OPT",
+    "Descricao": "COMUNICAÇÃO E EDUCAÇÃO",
+    "Semestre": 99,
+    "Apelido": "COMUNICAÇÃO E EDUCAÇÃO",
+    "CargaHorariaTeorico": 60,
+    "CargaHorariaPratica": null,
+    "ListaPrequisitos": []
+  },
+  {
+    "Id": 55658,
+    "Codigo": "2901.001.354-4",
+    "Tipo": "OPT",
+    "Descricao": "COMUNICAÇÃO E SAÚDE",
+    "Semestre": 99,
+    "Apelido": "COMUNICAÇÃO E SAÚDE",
+    "CargaHorariaTeorico": 60,
+    "CargaHorariaPratica": null,
+    "ListaPrequisitos": []
+  },
+  {
+    "Id": 55668,
+    "Codigo": "2901.001.364-2",
+    "Tipo": "OPT",
+    "Descricao": "DOCUMENTÁRIO II - CRIAÇÃO E PRODUÇÃO",
+    "Semestre": 99,
+    "Apelido": "DOCUMENTÁRIO II - CRIAÇÃO E PRODUÇÃO",
+    "CargaHorariaTeorico": 60,
+    "CargaHorariaPratica": null,
+    "ListaPrequisitos": []
+  },
+  {
+    "Id": 55659,
+    "Codigo": "2901.001.355-3",
+    "Tipo": "OPT",
+    "Descricao": "DOCUMENTÁRIO I - TEORIA E HISTÓRIA",
+    "Semestre": 99,
+    "Apelido": "DOCUMENTÁRIO I - TEORIA E HISTÓRIA",
+    "CargaHorariaTeorico": 60,
+    "CargaHorariaPratica": null,
+    "ListaPrequisitos": []
+  },
+  {
+    "Id": 52887,
+    "Codigo": "3001.000.747-9",
+    "Tipo": "OPT",
+    "Descricao": "EDUCAÇÃO DAS RELAÇÕES ÉTNICO-RACIAIS",
+    "Semestre": 99,
+    "Apelido": "EDUCAÇÃO DAS RELAÇÕES ÉTNICO-RACIAIS",
+    "CargaHorariaTeorico": 30,
+    "CargaHorariaPratica": null,
+    "ListaPrequisitos": []
+  },
+  {
+    "Id": 55687,
+    "Codigo": "2901.001.383-0",
+    "Tipo": "OPT",
+    "Descricao": "ENSAIO FOTOGRÁFICO",
+    "Semestre": 99,
+    "Apelido": "ENSAIO FOTOGRÁFICO",
+    "CargaHorariaTeorico": 60,
+    "CargaHorariaPratica": null,
+    "ListaPrequisitos": []
+  },
+  {
+    "Id": 52303,
+    "Codigo": "3101.000.707-8",
+    "Tipo": "OPT",
+    "Descricao": "ESTUDO DE LIBRAS",
+    "Semestre": 99,
+    "Apelido": "ESTUDO DE LIBRAS",
+    "CargaHorariaTeorico": 45,
+    "CargaHorariaPratica": null,
+    "ListaPrequisitos": []
+  },
+  {
+    "Id": 55690,
+    "Codigo": "2901.001.386-7",
+    "Tipo": "OPT",
+    "Descricao": "ESTUDOS DE RECEPÇÃO",
+    "Semestre": 99,
+    "Apelido": "ESTUDOS DE RECEPÇÃO",
+    "CargaHorariaTeorico": 45,
+    "CargaHorariaPratica": null,
+    "ListaPrequisitos": []
+  },
+  {
+    "Id": 55688,
+    "Codigo": "2901.001.384-9",
+    "Tipo": "OPT",
+    "Descricao": "FOTOGRAFIA ANALÓGICA",
+    "Semestre": 99,
+    "Apelido": "FOTOGRAFIA ANALÓGICA",
+    "CargaHorariaTeorico": 60,
+    "CargaHorariaPratica": null,
+    "ListaPrequisitos": []
+  },
+  {
+    "Id": 55689,
+    "Codigo": "2901.001.385-8",
+    "Tipo": "OPT",
+    "Descricao": "FOTOGRAFIA DOCUMENTAL",
+    "Semestre": 99,
+    "Apelido": "FOTOGRAFIA DOCUMENTAL",
+    "CargaHorariaTeorico": 60,
+    "CargaHorariaPratica": null,
+    "ListaPrequisitos": []
+  },
+  {
+    "Id": 55662,
+    "Codigo": "2901.001.358-0",
+    "Tipo": "OPT",
+    "Descricao": "GESTÃO CULTURAL",
+    "Semestre": 99,
+    "Apelido": "GESTÃO CULTURAL",
+    "CargaHorariaTeorico": 30,
+    "CargaHorariaPratica": null,
+    "ListaPrequisitos": []
+  },
+  {
+    "Id": 55654,
+    "Codigo": "2901.001.350-8",
+    "Tipo": "OPT",
+    "Descricao": "INFOGRAFIA",
+    "Semestre": 99,
+    "Apelido": "INFOGRAFIA",
+    "CargaHorariaTeorico": 60,
+    "CargaHorariaPratica": null,
+    "ListaPrequisitos": []
+  },
+  {
+    "Id": 52306,
+    "Codigo": "0100.000.001-1",
+    "Tipo": "NFC",
+    "Descricao": "INTELIGÊNCIA ARTIFICIAL: FUNDAMENTOS E PRÁTICAS",
+    "Semestre": 99,
+    "Apelido": "INTELIGÊNCIA ARTIFICIAL: FUNDAMENTOS E PRÁTICAS",
+    "CargaHorariaTeorico": 30,
+    "CargaHorariaPratica": null,
+    "ListaPrequisitos": []
+  },
+  {
+    "Id": 55674,
+    "Codigo": "2901.001.370-4",
+    "Tipo": "OPT",
+    "Descricao": "JORNALISMO AMBIENTAL",
+    "Semestre": 99,
+    "Apelido": "JORNALISMO AMBIENTAL",
+    "CargaHorariaTeorico": 60,
+    "CargaHorariaPratica": null,
+    "ListaPrequisitos": []
+  },
+  {
+    "Id": 55657,
+    "Codigo": "2901.001.353-5",
+    "Tipo": "OPT",
+    "Descricao": "JORNALISMO CIENTÍFICO",
+    "Semestre": 99,
+    "Apelido": "JORNALISMO CIENTÍFICO",
+    "CargaHorariaTeorico": 60,
+    "CargaHorariaPratica": null,
+    "ListaPrequisitos": []
+  },
+  {
+    "Id": 55643,
+    "Codigo": "2901.001.341-9",
+    "Tipo": "OPT",
+    "Descricao": "JORNALISMO CULTURAL",
+    "Semestre": 99,
+    "Apelido": "JORNALISMO CULTURAL",
+    "CargaHorariaTeorico": 60,
+    "CargaHorariaPratica": null,
+    "ListaPrequisitos": []
+  },
+  {
+    "Id": 55651,
+    "Codigo": "2901.001.347-3",
+    "Tipo": "OPT",
+    "Descricao": "JORNALISMO DE DADOS",
+    "Semestre": 99,
+    "Apelido": "JORNALISMO DE DADOS",
+    "CargaHorariaTeorico": 60,
+    "CargaHorariaPratica": null,
+    "ListaPrequisitos": []
+  },
+  {
+    "Id": 55699,
+    "Codigo": "2901.001.395-6",
+    "Tipo": "OPT",
+    "Descricao": "JORNALISMO E GÊNERO",
+    "Semestre": 99,
+    "Apelido": "JORNALISMO E GÊNERO",
+    "CargaHorariaTeorico": 60,
+    "CargaHorariaPratica": null,
+    "ListaPrequisitos": []
+  },
+  {
+    "Id": 55648,
+    "Codigo": "2901.001.344-6",
+    "Tipo": "OPT",
+    "Descricao": "JORNALISMO ESPORTIVO",
+    "Semestre": 99,
+    "Apelido": "JORNALISMO ESPORTIVO",
+    "CargaHorariaTeorico": 60,
+    "CargaHorariaPratica": null,
+    "ListaPrequisitos": []
+  },
+  {
+    "Id": 55677,
+    "Codigo": "2901.001.373-1",
+    "Tipo": "OPT",
+    "Descricao": "JORNALISMO INVESTIGATIVO",
+    "Semestre": 99,
+    "Apelido": "JORNALISMO INVESTIGATIVO",
+    "CargaHorariaTeorico": 60,
+    "CargaHorariaPratica": null,
+    "ListaPrequisitos": []
+  },
+  {
+    "Id": 55638,
+    "Codigo": "2901.001.336-6",
+    "Tipo": "OPT",
+    "Descricao": "JORNALISMO LITERÁRIO",
+    "Semestre": 99,
+    "Apelido": "JORNALISMO LITERÁRIO",
+    "CargaHorariaTeorico": 60,
+    "CargaHorariaPratica": null,
+    "ListaPrequisitos": []
+  },
+  {
+    "Id": 55692,
+    "Codigo": "2901.001.388-5",
+    "Tipo": "OPT",
+    "Descricao": "JORNALISMO OPINATIVO",
+    "Semestre": 99,
+    "Apelido": "JORNALISMO OPINATIVO",
+    "CargaHorariaTeorico": 60,
+    "CargaHorariaPratica": null,
+    "ListaPrequisitos": []
+  },
+  {
+    "Id": 55700,
+    "Codigo": "2901.001.396-5",
+    "Tipo": "OPT",
+    "Descricao": "JORNALISMO POLÍTICO",
+    "Semestre": 99,
+    "Apelido": "JORNALISMO POLÍTICO",
+    "CargaHorariaTeorico": 60,
+    "CargaHorariaPratica": null,
+    "ListaPrequisitos": []
+  },
+  {
+    "Id": 55679,
+    "Codigo": "2901.001.375-0",
+    "Tipo": "OPT",
+    "Descricao": "JORNALISMO RURAL",
+    "Semestre": 99,
+    "Apelido": "JORNALISMO RURAL",
+    "CargaHorariaTeorico": 60,
+    "CargaHorariaPratica": null,
+    "ListaPrequisitos": []
+  },
+  {
+    "Id": 55634,
+    "Codigo": "2901.001.332-0",
+    "Tipo": "OPT",
+    "Descricao": "JORNALISMO VISUAL",
+    "Semestre": 99,
+    "Apelido": "JORNALISMO VISUAL",
+    "CargaHorariaTeorico": 60,
+    "CargaHorariaPratica": null,
+    "ListaPrequisitos": []
+  },
+  {
+    "Id": 55701,
+    "Codigo": "2901.001.397-4",
+    "Tipo": "OPT",
+    "Descricao": "LABORATÓRIO DE CRIAÇÃO VISUAL DIGITAL",
+    "Semestre": 99,
+    "Apelido": "LABORATÓRIO DE CRIAÇÃO VISUAL DIGITAL",
+    "CargaHorariaTeorico": 60,
+    "CargaHorariaPratica": null,
+    "ListaPrequisitos": []
+  },
+  {
+    "Id": 55660,
+    "Codigo": "2901.001.356-2",
+    "Tipo": "OPT",
+    "Descricao": "LIVRO-REPORTAGEM",
+    "Semestre": 99,
+    "Apelido": "LIVRO-REPORTAGEM",
+    "CargaHorariaTeorico": 60,
+    "CargaHorariaPratica": null,
+    "ListaPrequisitos": []
+  },
+  {
+    "Id": 55673,
+    "Codigo": "2901.001.369-8",
+    "Tipo": "OPT",
+    "Descricao": "MÍDIA, CIDADANIA E TECNOLOGIAS",
+    "Semestre": 99,
+    "Apelido": "MÍDIA, CIDADANIA E TECNOLOGIAS",
+    "CargaHorariaTeorico": 60,
+    "CargaHorariaPratica": null,
+    "ListaPrequisitos": []
+  },
+  {
+    "Id": 55703,
+    "Codigo": "2901.001.399-2",
+    "Tipo": "OPT",
+    "Descricao": "OBSERVATÓRIO DE MÍDIA",
+    "Semestre": 99,
+    "Apelido": "OBSERVATÓRIO DE MÍDIA",
+    "CargaHorariaTeorico": 60,
+    "CargaHorariaPratica": null,
+    "ListaPrequisitos": []
+  },
+  {
+    "Id": 55670,
+    "Codigo": "2901.001.366-0",
+    "Tipo": "OPT",
+    "Descricao": "PRÁTICA EM REPORTAGEM FOTOGRÁFICA",
+    "Semestre": 99,
+    "Apelido": "PRÁTICA EM REPORTAGEM FOTOGRÁFICA",
+    "CargaHorariaTeorico": 60,
+    "CargaHorariaPratica": null,
+    "ListaPrequisitos": []
+  },
+  {
+    "Id": 55696,
+    "Codigo": "2901.001.392-9",
+    "Tipo": "OPT",
+    "Descricao": "PRODUÇÃO DE PROGRAMAS DE TV",
+    "Semestre": 99,
+    "Apelido": "PRODUÇÃO DE PROGRAMAS DE TV",
+    "CargaHorariaTeorico": 45,
+    "CargaHorariaPratica": null,
+    "ListaPrequisitos": []
+  },
+  {
+    "Id": 55680,
+    "Codigo": "2901.001.376-9",
+    "Tipo": "OPT",
+    "Descricao": "PRODUÇÃO WEB",
+    "Semestre": 99,
+    "Apelido": "PRODUÇÃO WEB",
+    "CargaHorariaTeorico": 60,
+    "CargaHorariaPratica": null,
+    "ListaPrequisitos": []
+  },
+  {
+    "Id": 55681,
+    "Codigo": "2901.001.377-8",
+    "Tipo": "OPT",
+    "Descricao": "RADIOJORNALISMO",
+    "Semestre": 99,
+    "Apelido": "RADIOJORNALISMO",
+    "CargaHorariaTeorico": 60,
+    "CargaHorariaPratica": null,
+    "ListaPrequisitos": []
+  },
+  {
+    "Id": 55678,
+    "Codigo": "2901.001.374-0",
+    "Tipo": "OPT",
+    "Descricao": "SEMIÓTICA",
+    "Semestre": 99,
+    "Apelido": "SEMIÓTICA",
+    "CargaHorariaTeorico": 60,
+    "CargaHorariaPratica": null,
+    "ListaPrequisitos": []
+  },
+  {
+    "Id": 55682,
+    "Codigo": "2901.001.378-7",
+    "Tipo": "OPT",
+    "Descricao": "TELEJORNALISMO",
+    "Semestre": 99,
+    "Apelido": "TELEJORNALISMO",
+    "CargaHorariaTeorico": 60,
+    "CargaHorariaPratica": null,
+    "ListaPrequisitos": []
+  },
+  {
+    "Id": 55683,
+    "Codigo": "2901.001.379-6",
+    "Tipo": "OPT",
+    "Descricao": "TÓPICOS ESPECIAIS EM FOTOGRAFIA",
+    "Semestre": 99,
+    "Apelido": "TÓPICOS ESPECIAIS EM FOTOGRAFIA",
+    "CargaHorariaTeorico": 60,
+    "CargaHorariaPratica": null,
+    "ListaPrequisitos": []
+  },
+  {
+    "Id": 55649,
+    "Codigo": "2901.001.345-5",
+    "Tipo": "OPT",
+    "Descricao": "TÓPICOS ESPECIAIS EM JORNALISMO I",
+    "Semestre": 99,
+    "Apelido": "TÓPICOS ESPECIAIS EM JORNALISMO I",
+    "CargaHorariaTeorico": 60,
+    "CargaHorariaPratica": null,
+    "ListaPrequisitos": []
+  },
+  {
+    "Id": 55663,
+    "Codigo": "2901.001.359-0",
+    "Tipo": "OPT",
+    "Descricao": "TÓPICOS ESPECIAIS EM JORNALISMO II",
+    "Semestre": 99,
+    "Apelido": "TÓPICOS ESPECIAIS EM JORNALISMO II",
+    "CargaHorariaTeorico": 60,
+    "CargaHorariaPratica": null,
+    "ListaPrequisitos": []
+  },
+  {
+    "Id": 52307,
+    "Codigo": "0100.000.002-0",
+    "Tipo": "NFC",
+    "Descricao": "VIDA, CIDADANIA E SUSTENTABILIDADE",
+    "Semestre": 99,
+    "Apelido": "VIDA, CIDADANIA E SUSTENTABILIDADE",
+    "CargaHorariaTeorico": 30,
+    "CargaHorariaPratica": null,
+    "ListaPrequisitos": []
+  }
+]

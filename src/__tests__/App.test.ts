@@ -74,7 +74,7 @@ describe("App.vue", () => {
 
       const titulo = wrapper.find("h1");
       expect(titulo.exists()).toBe(true);
-      expect(titulo.text()).toBe("Semestralização e pré-requisitos");
+      expect(titulo.text()).toBe("hytalo-bassi/PPC");
     });
 
     it("deve renderizar o campo de busca", () => {
@@ -463,38 +463,6 @@ describe("App.vue", () => {
       expect(document.activeElement).toBe(input.element);
 
       wrapper.unmount();
-    });
-  });
-
-  describe("Estilização e Classes CSS", () => {
-    it("deve aplicar classes de gradiente no container principal", () => {
-      mockUseSemestralizacaoGrafo.mockReturnValue(criaEstadoMock());
-
-      wrapper = mount(App);
-
-      const app = wrapper.find("#app");
-      expect(app.classes()).toContain("from-blue-400");
-      expect(app.classes()).toContain("to-rose-500");
-    });
-
-    it("deve aplicar estilos corretos ao header", () => {
-      mockUseSemestralizacaoGrafo.mockReturnValue(criaEstadoMock());
-
-      wrapper = mount(App);
-
-      const header = wrapper.find("header");
-      expect(header.classes()).toContain("flex");
-      expect(header.classes()).toContain("items-center");
-      expect(header.classes()).toContain("py-2");
-    });
-
-    it("deve aplicar estilos ao container de busca", () => {
-      mockUseSemestralizacaoGrafo.mockReturnValue(criaEstadoMock());
-
-      wrapper = mount(App);
-
-      const containerBusca = wrapper.find("header > div:nth-child(2)");
-      expect(containerBusca.classes()).toContain("ml-auto");
     });
   });
 

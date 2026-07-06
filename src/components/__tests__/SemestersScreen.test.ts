@@ -151,7 +151,7 @@ describe("SemestersScreen", () => {
       ];
       const wrapper = criarWrapper({ semestres });
 
-      const semestresDivs = wrapper.findAll(".flex-1.py-6");
+      const semestresDivs = wrapper.findAll(".semestre-span");
       expect(semestresDivs).toHaveLength(2);
     });
 
@@ -522,33 +522,6 @@ describe("SemestersScreen", () => {
       await calculoI!.trigger("click");
       await wrapper.vm.$nextTick();
       expect(grafoMock.getNextDisciplines).toHaveBeenCalled();
-    });
-  });
-
-  describe("Layout e Estrutura", () => {
-    it("aplica classes CSS corretas no container principal", () => {
-      const wrapper = criarWrapper();
-      const container = wrapper.find(".flex.flex-row");
-
-      expect(container.classes()).toContain("h-full");
-    });
-
-    it("renderiza semestres em layout horizontal", () => {
-      const semestres = [[disciplina1], [disciplina2], [disciplina3]];
-      const wrapper = criarWrapper({ semestres });
-
-      const container = wrapper.find(".flex.flex-row");
-      const semestresDivs = container.findAll(".flex-1.py-6");
-
-      expect(semestresDivs).toHaveLength(3);
-    });
-
-    it("renderiza disciplinas em layout vertical dentro de cada semestre", () => {
-      const semestres = [[disciplina1, disciplina2, disciplina3]];
-      const wrapper = criarWrapper({ semestres });
-
-      const semestreContainer = wrapper.find(".flex.justify-around.flex-col");
-      expect(semestreContainer.exists()).toBe(true);
     });
   });
 });

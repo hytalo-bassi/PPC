@@ -225,7 +225,9 @@ let pinchStartDist = 0;
 let pinchStartZoom = 1;
 
 function getPinchDist(touches: TouchList): number {
-  const [a, b] = [touches[0], touches[1]];
+  const a = touches[0];
+  const b = touches[1];
+  if (!a || !b) return 0;
   return Math.hypot(a.clientX - b.clientX, a.clientY - b.clientY);
 }
 
@@ -245,28 +247,15 @@ function handleTouchMove(e: TouchEvent) {
 </script>
 
 <template>
-  <div
-    class="flex-1 overflow-auto lg:px-6"
-    ref="scrollContainer"
-    @wheel="handleWheel"
-    @touchstart="handleTouchStart"
-    @touchmove="handleTouchMove"
-  >
-    <div
-      :style="{
-        transform: `scale(${zoom})`,
-        width: `${zoom * 100}%`,
-        height: `${zoom * 100}%`,
-      }"
-    >
-      <div
-        class="flex items-center flex-row gap-4 lg:gap-12 px-6 py-4 origin-center transition-transform duration-100"
-      >
-        <div
-          class="w-full lg:w-52 shrink-0"
-          v-for="i in semestres.length"
-          :key="i"
-        >
+  <div class="flex-1 overflow-auto lg:px-6" ref="scrollContainer" @wheel="handleWheel" @touchstart="handleTouchStart"
+    @touchmove="handleTouchMove">
+    <div :style="{
+      transform: `scale(${zoom})`,
+      width: `${zoom * 100}%`,
+      height: `${zoom * 100}%`,
+    }">
+      <div class="flex items-center flex-row gap-4 lg:gap-12 px-6 py-4 origin-center transition-transform duration-100">
+        <div class="w-full lg:w-52 shrink-0" v-for="i in semestres.length" :key="i">
           <div class="semestre-span">
             <span data-test-semester-label="true">{{ i }}</span>
           </div>
@@ -276,76 +265,51 @@ function handleTouchMove(e: TouchEvent) {
             de profundidade definido em focoCascataDisciplinas via el.$el.style.transitionDelay.
             @see https://vuejs.org/guide/built-ins/transition-group.html
           -->
-          <TransitionGroup
-            name="card"
-            tag="div"
-            class="flex flex-col gap-2 gap-y-4"
-          >
-            <DisciplineCard
-              v-for="discipline in semestres[i - 1]"
-              @inFocus="
-                focoCascataDisciplinas({
-                  id: discipline.pegaId(),
-                })
-              "
-              @outFocus="
+          <TransitionGroup name="card" tag="div" class="flex flex-col gap-2 gap-y-4">
+            <DisciplineCard v-for="discipline in semestres[i - 1]" @inFocus="
+              focoCascataDisciplinas({
+                id: discipline.pegaId(),
+              })
+              " @outFocus="
                 focoCascataDisciplinas({
                   id: discipline.pegaId(),
                   foco: false,
                 })
-              "
-              @onClick="
+                " @onClick="
                 focoCascataDisciplinas({
                   id: discipline.pegaId(),
                   proximas: true,
                 })
-              "
-              @offClick="
+                " @offClick="
                 focoCascataDisciplinas({
                   id: discipline.pegaId(),
                   foco: false,
                   proximas: true,
                 })
-              "
-              :key="discipline.pegaId()"
-              :ref="
-                (el) =>
-                  (elementRefsById[discipline.pegaId()] =
-                    el as DisciplineCardType)
-              "
-              :discipline="discipline"
-              :gray-scale-mode="grayScaleMode"
-            />
+                " :key="discipline.pegaId()" :ref="(el) =>
+                (elementRefsById[discipline.pegaId()] =
+                  el as DisciplineCardType)
+                " :discipline="discipline" :gray-scale-mode="grayScaleMode" />
           </TransitionGroup>
         </div>
       </div>
-      <div
-        v-if="semestres.length === 0"
-        class="flex justify-center items-center w-full py-20"
-      >
+      <div v-if="semestres.length === 0" class="flex justify-center items-center w-full py-20">
         <h2 class="text-4xl font-extrabold">Nenhuma matéria!</h2>
       </div>
     </div>
 
     <!-- Controle de zoom flutuante -->
     <div
-      class="fixed bottom-6 right-6 flex items-center gap-2 border border-secondary shadow-secondary/30 shadow-md backdrop-blur rounded-full px-3 py-1.5 select-none z-10 transition-transform"
-    >
-      <button
-        @click="zoomOut"
+      class="fixed bottom-6 right-6 flex items-center gap-2 border border-secondary shadow-secondary/30 shadow-md backdrop-blur rounded-full px-3 py-1.5 select-none z-10 transition-transform">
+      <button @click="zoomOut"
         class="w-8 h-8 lg:w-6 lg:h-6 flex items-center justify-center rounded-full hover:bg-white/20 transition-colors"
-        aria-label="Diminuir zoom"
-      >
+        aria-label="Diminuir zoom">
         -
       </button>
-      <span class="text-sm w-10 text-center tabular-nums"
-        >{{ Math.round(zoom * 100) }}%</span
-      >
-      <button
-        @click="zoomIn"
+      <span class="text-sm w-10 text-center tabular-nums">{{ Math.round(zoom * 100) }}%</span>
+      <button @click="zoomIn"
         class="w-8 h-8 lg:w-6 lg:h-6 flex items-center justify-center rounded-full hover:bg-white/20 transition-colors"
-        aria-label="Aumentar zoom"
-      >
+        aria-label="Aumentar zoom">
         +
       </button>
     </div>

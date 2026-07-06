@@ -1,0 +1,860 @@
+[
+  {
+    "Id": 55511,
+    "Codigo": "2501.000.467-3",
+    "Tipo": "OBR",
+    "Descricao": "FORMAÇÃO ECONÔMICA DO CAPITALISMO",
+    "Semestre": 1,
+    "Apelido": "FORMAÇÃO ECONÔMICA DO CAPITALISMO",
+    "CargaHorariaTeorico": 60,
+    "CargaHorariaPratica": null,
+    "ListaPrequisitos": []
+  },
+  {
+    "Id": 55525,
+    "Codigo": "2501.000.481-5",
+    "Tipo": "OBR",
+    "Descricao": "INTRODUÇÃO À CONTABILIDADE",
+    "Semestre": 1,
+    "Apelido": "INTRODUÇÃO À CONTABILIDADE",
+    "CargaHorariaTeorico": 30,
+    "CargaHorariaPratica": null,
+    "ListaPrequisitos": []
+  },
+  {
+    "Id": 55535,
+    "Codigo": "2501.000.491-3",
+    "Tipo": "OBR",
+    "Descricao": "INTRODUÇÃO À ECONOMIA",
+    "Semestre": 1,
+    "Apelido": "INTRODUÇÃO À ECONOMIA",
+    "CargaHorariaTeorico": 60,
+    "CargaHorariaPratica": null,
+    "ListaPrequisitos": []
+  },
+  {
+    "Id": 55513,
+    "Codigo": "2501.000.469-1",
+    "Tipo": "OBR",
+    "Descricao": "INTRODUÇÃO ÀS CIÊNCIAS SOCIAIS",
+    "Semestre": 1,
+    "Apelido": "INTRODUÇÃO ÀS CIÊNCIAS SOCIAIS",
+    "CargaHorariaTeorico": 30,
+    "CargaHorariaPratica": null,
+    "ListaPrequisitos": []
+  },
+  {
+    "Id": 55536,
+    "Codigo": "2201.000.263-7",
+    "Tipo": "OBR",
+    "Descricao": "MATEMÁTICA",
+    "Semestre": 1,
+    "Apelido": "MATEMÁTICA",
+    "CargaHorariaTeorico": 60,
+    "CargaHorariaPratica": null,
+    "ListaPrequisitos": []
+  },
+  {
+    "Id": 55523,
+    "Codigo": "2501.000.479-0",
+    "Tipo": "OBR",
+    "Descricao": "PRÁTICA EXTENSIONISTA I",
+    "Semestre": 1,
+    "Apelido": "PRÁTICA EXTENSIONISTA I",
+    "CargaHorariaTeorico": 120,
+    "CargaHorariaPratica": null,
+    "ListaPrequisitos": []
+  },
+  {
+    "Id": 55516,
+    "Codigo": "2501.000.472-6",
+    "Tipo": "OBR",
+    "Descricao": "CONTABILIDADE SOCIAL",
+    "Semestre": 2,
+    "Apelido": "CONTABILIDADE SOCIAL",
+    "CargaHorariaTeorico": 60,
+    "CargaHorariaPratica": null,
+    "ListaPrequisitos": []
+  },
+  {
+    "Id": 55553,
+    "Codigo": "2001.000.431-5",
+    "Tipo": "OBR",
+    "Descricao": "DIREITO E ECONOMIA",
+    "Semestre": 2,
+    "Apelido": "DIREITO E ECONOMIA",
+    "CargaHorariaTeorico": 30,
+    "CargaHorariaPratica": null,
+    "ListaPrequisitos": []
+  },
+  {
+    "Id": 55499,
+    "Codigo": "2201.000.262-8",
+    "Tipo": "OBR",
+    "Descricao": "ECONOMIA MATEMÁTICA",
+    "Semestre": 2,
+    "Apelido": "ECONOMIA MATEMÁTICA",
+    "CargaHorariaTeorico": 60,
+    "CargaHorariaPratica": null,
+    "ListaPrequisitos": []
+  },
+  {
+    "Id": 55522,
+    "Codigo": "2501.000.478-0",
+    "Tipo": "OBR",
+    "Descricao": "FUNDAMENTOS TEÓRICOS DA MACROECONOMIA",
+    "Semestre": 2,
+    "Apelido": "FUNDAMENTOS TEÓRICOS DA MACROECONOMIA",
+    "CargaHorariaTeorico": 60,
+    "CargaHorariaPratica": null,
+    "ListaPrequisitos": []
+  },
+  {
+    "Id": 55510,
+    "Codigo": "2501.000.466-4",
+    "Tipo": "OBR",
+    "Descricao": "HISTÓRIA DO PENSAMENTO ECONÔMICO",
+    "Semestre": 2,
+    "Apelido": "HISTÓRIA DO PENSAMENTO ECONÔMICO",
+    "CargaHorariaTeorico": 60,
+    "CargaHorariaPratica": null,
+    "ListaPrequisitos": []
+  },
+  {
+    "Id": 55506,
+    "Codigo": "2501.000.462-8",
+    "Tipo": "OBR",
+    "Descricao": "INTRODUÇÃO À TEORIA DA ADMINISTRAÇÃO",
+    "Semestre": 2,
+    "Apelido": "INTRODUÇÃO À TEORIA DA ADMINISTRAÇÃO",
+    "CargaHorariaTeorico": 30,
+    "CargaHorariaPratica": null,
+    "ListaPrequisitos": []
+  },
+  {
+    "Id": 55545,
+    "Codigo": "2501.000.500-8",
+    "Tipo": "OBR",
+    "Descricao": "PRÁTICA EXTENSIONISTA II",
+    "Semestre": 2,
+    "Apelido": "PRÁTICA EXTENSIONISTA II",
+    "CargaHorariaTeorico": 60,
+    "CargaHorariaPratica": null,
+    "ListaPrequisitos": []
+  },
+  {
+    "Id": 55539,
+    "Codigo": "2501.000.494-0",
+    "Tipo": "OBR",
+    "Descricao": "ECONOMIA MARXISTA",
+    "Semestre": 3,
+    "Apelido": "ECONOMIA MARXISTA",
+    "CargaHorariaTeorico": 60,
+    "CargaHorariaPratica": null,
+    "ListaPrequisitos": []
+  },
+  {
+    "Id": 55554,
+    "Codigo": "2501.000.508-0",
+    "Tipo": "OBR",
+    "Descricao": "ESTATÍSTICA I",
+    "Semestre": 3,
+    "Apelido": "ESTATÍSTICA I",
+    "CargaHorariaTeorico": 60,
+    "CargaHorariaPratica": null,
+    "ListaPrequisitos": []
+  },
+  {
+    "Id": 55521,
+    "Codigo": "2501.000.477-1",
+    "Tipo": "OBR",
+    "Descricao": "MÉTODOS MATEMÁTICOS EM ECONOMIA",
+    "Semestre": 3,
+    "Apelido": "MÉTODOS MATEMÁTICOS EM ECONOMIA",
+    "CargaHorariaTeorico": 60,
+    "CargaHorariaPratica": null,
+    "ListaPrequisitos": []
+  },
+  {
+    "Id": 55509,
+    "Codigo": "2501.000.465-5",
+    "Tipo": "OBR",
+    "Descricao": "TEORIA MACROECONÔMICA I",
+    "Semestre": 3,
+    "Apelido": "TEORIA MACROECONÔMICA I",
+    "CargaHorariaTeorico": 60,
+    "CargaHorariaPratica": null,
+    "ListaPrequisitos": []
+  },
+  {
+    "Id": 55504,
+    "Codigo": "2501.000.460-0",
+    "Tipo": "OBR",
+    "Descricao": "TEORIA MICROECONÔMICA I",
+    "Semestre": 3,
+    "Apelido": "TEORIA MICROECONÔMICA I",
+    "CargaHorariaTeorico": 60,
+    "CargaHorariaPratica": null,
+    "ListaPrequisitos": []
+  },
+  {
+    "Id": 55517,
+    "Codigo": "2501.000.473-5",
+    "Tipo": "OBR",
+    "Descricao": "ECONOMIA MONETÁRIA",
+    "Semestre": 4,
+    "Apelido": "ECONOMIA MONETÁRIA",
+    "CargaHorariaTeorico": 60,
+    "CargaHorariaPratica": null,
+    "ListaPrequisitos": []
+  },
+  {
+    "Id": 55519,
+    "Codigo": "2501.000.475-3",
+    "Tipo": "OBR",
+    "Descricao": "ESTATÍSTICA II",
+    "Semestre": 4,
+    "Apelido": "ESTATÍSTICA II",
+    "CargaHorariaTeorico": 60,
+    "CargaHorariaPratica": null,
+    "ListaPrequisitos": [
+      {
+        "Id": 55554,
+        "Codigo": "2501.000.508-0",
+        "Descricao": "ESTATÍSTICA I",
+        "Semestre": "0",
+        "Apelido": "ESTATÍSTICA I",
+        "CargaHorariaTeorico": 0,
+        "CargaHorariaPratica": 0,
+        "ListaPrequisitos": []
+      }
+    ]
+  },
+  {
+    "Id": 55552,
+    "Codigo": "2501.000.507-1",
+    "Tipo": "OBR",
+    "Descricao": "FORMAÇÃO ECONÔMICA DO BRASIL",
+    "Semestre": 4,
+    "Apelido": "FORMAÇÃO ECONÔMICA DO BRASIL",
+    "CargaHorariaTeorico": 60,
+    "CargaHorariaPratica": null,
+    "ListaPrequisitos": []
+  },
+  {
+    "Id": 55534,
+    "Codigo": "2501.000.490-4",
+    "Tipo": "OBR",
+    "Descricao": "TEORIA MACROECONÔMICA II",
+    "Semestre": 4,
+    "Apelido": "TEORIA MACROECONÔMICA II",
+    "CargaHorariaTeorico": 60,
+    "CargaHorariaPratica": null,
+    "ListaPrequisitos": [
+      {
+        "Id": 55509,
+        "Codigo": "2501.000.465-5",
+        "Descricao": "TEORIA MACROECONÔMICA I",
+        "Semestre": "0",
+        "Apelido": "TEORIA MACROECONÔMICA I",
+        "CargaHorariaTeorico": 0,
+        "CargaHorariaPratica": 0,
+        "ListaPrequisitos": []
+      }
+    ]
+  },
+  {
+    "Id": 55518,
+    "Codigo": "2501.000.474-4",
+    "Tipo": "OBR",
+    "Descricao": "TEORIA MICROECONÔMICA II",
+    "Semestre": 4,
+    "Apelido": "TEORIA MICROECONÔMICA II",
+    "CargaHorariaTeorico": 60,
+    "CargaHorariaPratica": null,
+    "ListaPrequisitos": [
+      {
+        "Id": 55504,
+        "Codigo": "2501.000.460-0",
+        "Descricao": "TEORIA MICROECONÔMICA I",
+        "Semestre": "0",
+        "Apelido": "TEORIA MICROECONÔMICA I",
+        "CargaHorariaTeorico": 0,
+        "CargaHorariaPratica": 0,
+        "ListaPrequisitos": []
+      }
+    ]
+  },
+  {
+    "Id": 55548,
+    "Codigo": "2501.000.503-5",
+    "Tipo": "OBR",
+    "Descricao": "ECONOMETRIA I",
+    "Semestre": 5,
+    "Apelido": "ECONOMETRIA I",
+    "CargaHorariaTeorico": 60,
+    "CargaHorariaPratica": null,
+    "ListaPrequisitos": [
+      {
+        "Id": 55519,
+        "Codigo": "2501.000.475-3",
+        "Descricao": "ESTATÍSTICA II",
+        "Semestre": "0",
+        "Apelido": "ESTATÍSTICA II",
+        "CargaHorariaTeorico": 0,
+        "CargaHorariaPratica": 0,
+        "ListaPrequisitos": []
+      }
+    ]
+  },
+  {
+    "Id": 55514,
+    "Codigo": "2501.000.470-8",
+    "Tipo": "OBR",
+    "Descricao": "ECONOMIA INTERNACIONAL I",
+    "Semestre": 5,
+    "Apelido": "ECONOMIA INTERNACIONAL I",
+    "CargaHorariaTeorico": 60,
+    "CargaHorariaPratica": null,
+    "ListaPrequisitos": [
+      {
+        "Id": 55504,
+        "Codigo": "2501.000.460-0",
+        "Descricao": "TEORIA MICROECONÔMICA I",
+        "Semestre": "0",
+        "Apelido": "TEORIA MICROECONÔMICA I",
+        "CargaHorariaTeorico": 0,
+        "CargaHorariaPratica": 0,
+        "ListaPrequisitos": []
+      }
+    ]
+  },
+  {
+    "Id": 55547,
+    "Codigo": "2501.000.502-6",
+    "Tipo": "OBR",
+    "Descricao": "MATEMÁTICA FINANCEIRA",
+    "Semestre": 5,
+    "Apelido": "MATEMÁTICA FINANCEIRA",
+    "CargaHorariaTeorico": 60,
+    "CargaHorariaPratica": null,
+    "ListaPrequisitos": []
+  },
+  {
+    "Id": 55540,
+    "Codigo": "2501.000.495-0",
+    "Tipo": "OBR",
+    "Descricao": "TEORIA MACROECONÔMICA III",
+    "Semestre": 5,
+    "Apelido": "TEORIA MACROECONÔMICA III",
+    "CargaHorariaTeorico": 60,
+    "CargaHorariaPratica": null,
+    "ListaPrequisitos": [
+      {
+        "Id": 55509,
+        "Codigo": "2501.000.465-5",
+        "Descricao": "TEORIA MACROECONÔMICA I",
+        "Semestre": "0",
+        "Apelido": "TEORIA MACROECONÔMICA I",
+        "CargaHorariaTeorico": 0,
+        "CargaHorariaPratica": 0,
+        "ListaPrequisitos": []
+      }
+    ]
+  },
+  {
+    "Id": 55543,
+    "Codigo": "2501.000.498-7",
+    "Tipo": "OBR",
+    "Descricao": "TEORIA MICROECONÔMICA III",
+    "Semestre": 5,
+    "Apelido": "TEORIA MICROECONÔMICA III",
+    "CargaHorariaTeorico": 60,
+    "CargaHorariaPratica": null,
+    "ListaPrequisitos": [
+      {
+        "Id": 55504,
+        "Codigo": "2501.000.460-0",
+        "Descricao": "TEORIA MICROECONÔMICA I",
+        "Semestre": "0",
+        "Apelido": "TEORIA MICROECONÔMICA I",
+        "CargaHorariaTeorico": 0,
+        "CargaHorariaPratica": 0,
+        "ListaPrequisitos": []
+      }
+    ]
+  },
+  {
+    "Id": 55526,
+    "Codigo": "2501.000.482-4",
+    "Tipo": "OBR",
+    "Descricao": "ECONOMETRIA II",
+    "Semestre": 6,
+    "Apelido": "ECONOMETRIA II",
+    "CargaHorariaTeorico": 60,
+    "CargaHorariaPratica": null,
+    "ListaPrequisitos": [
+      {
+        "Id": 55519,
+        "Codigo": "2501.000.475-3",
+        "Descricao": "ESTATÍSTICA II",
+        "Semestre": "0",
+        "Apelido": "ESTATÍSTICA II",
+        "CargaHorariaTeorico": 0,
+        "CargaHorariaPratica": 0,
+        "ListaPrequisitos": []
+      }
+    ]
+  },
+  {
+    "Id": 55515,
+    "Codigo": "2501.000.471-7",
+    "Tipo": "OBR",
+    "Descricao": "ECONOMIA DO SETOR PÚBLICO",
+    "Semestre": 6,
+    "Apelido": "ECONOMIA DO SETOR PÚBLICO",
+    "CargaHorariaTeorico": 60,
+    "CargaHorariaPratica": null,
+    "ListaPrequisitos": [
+      {
+        "Id": 55509,
+        "Codigo": "2501.000.465-5",
+        "Descricao": "TEORIA MACROECONÔMICA I",
+        "Semestre": "0",
+        "Apelido": "TEORIA MACROECONÔMICA I",
+        "CargaHorariaTeorico": 0,
+        "CargaHorariaPratica": 0,
+        "ListaPrequisitos": []
+      }
+    ]
+  },
+  {
+    "Id": 55503,
+    "Codigo": "2501.000.459-3",
+    "Tipo": "OBR",
+    "Descricao": "ECONOMIA INDUSTRIAL",
+    "Semestre": 6,
+    "Apelido": "ECONOMIA INDUSTRIAL",
+    "CargaHorariaTeorico": 60,
+    "CargaHorariaPratica": null,
+    "ListaPrequisitos": []
+  },
+  {
+    "Id": 55507,
+    "Codigo": "2501.000.463-7",
+    "Tipo": "OBR",
+    "Descricao": "ECONOMIA INTERNACIONAL II",
+    "Semestre": 6,
+    "Apelido": "ECONOMIA INTERNACIONAL II",
+    "CargaHorariaTeorico": 60,
+    "CargaHorariaPratica": null,
+    "ListaPrequisitos": [
+      {
+        "Id": 55509,
+        "Codigo": "2501.000.465-5",
+        "Descricao": "TEORIA MACROECONÔMICA I",
+        "Semestre": "0",
+        "Apelido": "TEORIA MACROECONÔMICA I",
+        "CargaHorariaTeorico": 0,
+        "CargaHorariaPratica": 0,
+        "ListaPrequisitos": []
+      }
+    ]
+  },
+  {
+    "Id": 55550,
+    "Codigo": "2501.000.505-3",
+    "Tipo": "OBR",
+    "Descricao": "METÓDOS E TÉCNICAS DE PESQUISA EM ECONOMIA",
+    "Semestre": 6,
+    "Apelido": "METÓDOS E TÉCNICAS DE PESQUISA EM ECONOMIA",
+    "CargaHorariaTeorico": 60,
+    "CargaHorariaPratica": null,
+    "ListaPrequisitos": []
+  },
+  {
+    "Id": 55528,
+    "Codigo": "2501.000.484-2",
+    "Tipo": "OBR",
+    "Descricao": "DESENVOLVIMENTO SOCIOECONÔMICO",
+    "Semestre": 7,
+    "Apelido": "DESENVOLVIMENTO SOCIOECONÔMICO",
+    "CargaHorariaTeorico": 60,
+    "CargaHorariaPratica": null,
+    "ListaPrequisitos": []
+  },
+  {
+    "Id": 55502,
+    "Codigo": "2501.000.458-4",
+    "Tipo": "OBR",
+    "Descricao": "ECONOMIA BRASILEIRA CONTEMPORÂNEA I",
+    "Semestre": 7,
+    "Apelido": "ECONOMIA BRASILEIRA CONTEMPORÂNEA I",
+    "CargaHorariaTeorico": 60,
+    "CargaHorariaPratica": null,
+    "ListaPrequisitos": [
+      {
+        "Id": 55552,
+        "Codigo": "2501.000.507-1",
+        "Descricao": "FORMAÇÃO ECONÔMICA DO BRASIL",
+        "Semestre": "0",
+        "Apelido": "FORMAÇÃO ECONÔMICA DO BRASIL",
+        "CargaHorariaTeorico": 0,
+        "CargaHorariaPratica": 0,
+        "ListaPrequisitos": []
+      }
+    ]
+  },
+  {
+    "Id": 55551,
+    "Codigo": "2501.000.506-2",
+    "Tipo": "OBR",
+    "Descricao": "ECONOMIA DOS RECURSOS NATURAIS",
+    "Semestre": 7,
+    "Apelido": "ECONOMIA DOS RECURSOS NATURAIS",
+    "CargaHorariaTeorico": 60,
+    "CargaHorariaPratica": null,
+    "ListaPrequisitos": []
+  },
+  {
+    "Id": 55532,
+    "Codigo": "2501.000.488-9",
+    "Tipo": "OBR",
+    "Descricao": "LABORATÓRIO DE ECONOMIA",
+    "Semestre": 7,
+    "Apelido": "LABORATÓRIO DE ECONOMIA",
+    "CargaHorariaTeorico": 60,
+    "CargaHorariaPratica": null,
+    "ListaPrequisitos": [
+      {
+        "Id": 55519,
+        "Codigo": "2501.000.475-3",
+        "Descricao": "ESTATÍSTICA II",
+        "Semestre": "0",
+        "Apelido": "ESTATÍSTICA II",
+        "CargaHorariaTeorico": 0,
+        "CargaHorariaPratica": 0,
+        "ListaPrequisitos": []
+      }
+    ]
+  },
+  {
+    "Id": 55546,
+    "Codigo": "2501.000.501-7",
+    "Tipo": "OBR",
+    "Descricao": "PRÁTICA EXTENSIONISTA III",
+    "Semestre": 7,
+    "Apelido": "PRÁTICA EXTENSIONISTA III",
+    "CargaHorariaTeorico": 60,
+    "CargaHorariaPratica": null,
+    "ListaPrequisitos": []
+  },
+  {
+    "Id": 55544,
+    "Codigo": "2501.000.499-6",
+    "Tipo": "OBR",
+    "Descricao": "ANÁLISE DE INVESTIMENTOS",
+    "Semestre": 8,
+    "Apelido": "ANÁLISE DE INVESTIMENTOS",
+    "CargaHorariaTeorico": 60,
+    "CargaHorariaPratica": null,
+    "ListaPrequisitos": [
+      {
+        "Id": 55547,
+        "Codigo": "2501.000.502-6",
+        "Descricao": "MATEMÁTICA FINANCEIRA",
+        "Semestre": "0",
+        "Apelido": "MATEMÁTICA FINANCEIRA",
+        "CargaHorariaTeorico": 0,
+        "CargaHorariaPratica": 0,
+        "ListaPrequisitos": []
+      }
+    ]
+  },
+  {
+    "Id": 55527,
+    "Codigo": "2501.000.483-3",
+    "Tipo": "OBR",
+    "Descricao": "ECONOMIA BRASILEIRA CONTEMPORÂNEA II",
+    "Semestre": 8,
+    "Apelido": "ECONOMIA BRASILEIRA CONTEMPORÂNEA II",
+    "CargaHorariaTeorico": 60,
+    "CargaHorariaPratica": null,
+    "ListaPrequisitos": [
+      {
+        "Id": 55502,
+        "Codigo": "2501.000.458-4",
+        "Descricao": "ECONOMIA BRASILEIRA CONTEMPORÂNEA I",
+        "Semestre": "0",
+        "Apelido": "ECONOMIA BRASILEIRA CONTEMPORÂNEA I",
+        "CargaHorariaTeorico": 0,
+        "CargaHorariaPratica": 0,
+        "ListaPrequisitos": []
+      }
+    ]
+  },
+  {
+    "Id": 55505,
+    "Codigo": "2501.000.461-9",
+    "Tipo": "OBR",
+    "Descricao": "ECONOMIA REGIONAL E URBANA",
+    "Semestre": 8,
+    "Apelido": "ECONOMIA REGIONAL E URBANA",
+    "CargaHorariaTeorico": 60,
+    "CargaHorariaPratica": null,
+    "ListaPrequisitos": []
+  },
+  {
+    "Id": 55533,
+    "Codigo": "2501.000.489-8",
+    "Tipo": "OBR",
+    "Descricao": "MERCADOS FINANCEIROS E DE CAPITAIS",
+    "Semestre": 8,
+    "Apelido": "MERCADOS FINANCEIROS E DE CAPITAIS",
+    "CargaHorariaTeorico": 60,
+    "CargaHorariaPratica": null,
+    "ListaPrequisitos": []
+  },
+  {
+    "Id": 55508,
+    "Codigo": "2501.000.464-6",
+    "Tipo": "OBR",
+    "Descricao": "PRÁTICA EXTENSIONISTA IV",
+    "Semestre": 8,
+    "Apelido": "PRÁTICA EXTENSIONISTA IV",
+    "CargaHorariaTeorico": 60,
+    "CargaHorariaPratica": null,
+    "ListaPrequisitos": []
+  },
+  {
+    "Id": 55500,
+    "Codigo": "2501.000.456-6",
+    "Tipo": "OPT",
+    "Descricao": "ECONOMIA DO TRABALHO",
+    "Semestre": 99,
+    "Apelido": "ECONOMIA DO TRABALHO",
+    "CargaHorariaTeorico": 60,
+    "CargaHorariaPratica": null,
+    "ListaPrequisitos": []
+  },
+  {
+    "Id": 52308,
+    "Codigo": "0100.000.003-0",
+    "Tipo": "NFC",
+    "Descricao": "EMPREENDEDORISMO E INOVAÇÃO",
+    "Semestre": 99,
+    "Apelido": "EMPREENDEDORISMO E INOVAÇÃO",
+    "CargaHorariaTeorico": 30,
+    "CargaHorariaPratica": null,
+    "ListaPrequisitos": []
+  },
+  {
+    "Id": 52303,
+    "Codigo": "3101.000.707-8",
+    "Tipo": "OPT",
+    "Descricao": "ESTUDO DE LIBRAS",
+    "Semestre": 99,
+    "Apelido": "ESTUDO DE LIBRAS",
+    "CargaHorariaTeorico": 45,
+    "CargaHorariaPratica": null,
+    "ListaPrequisitos": []
+  },
+  {
+    "Id": 52306,
+    "Codigo": "0100.000.001-1",
+    "Tipo": "NFC",
+    "Descricao": "INTELIGÊNCIA ARTIFICIAL: FUNDAMENTOS E PRÁTICAS",
+    "Semestre": 99,
+    "Apelido": "INTELIGÊNCIA ARTIFICIAL: FUNDAMENTOS E PRÁTICAS",
+    "CargaHorariaTeorico": 30,
+    "CargaHorariaPratica": null,
+    "ListaPrequisitos": []
+  },
+  {
+    "Id": 55530,
+    "Codigo": "2501.000.486-0",
+    "Tipo": "OPT",
+    "Descricao": "TEORIA DOS JOGOS",
+    "Semestre": 99,
+    "Apelido": "TEORIA DOS JOGOS",
+    "CargaHorariaTeorico": 60,
+    "CargaHorariaPratica": null,
+    "ListaPrequisitos": []
+  },
+  {
+    "Id": 55541,
+    "Codigo": "2501.000.496-9",
+    "Tipo": "OPT",
+    "Descricao": "TÓPICO EM NEGOCIAÇÃO INTERNACIONAL",
+    "Semestre": 99,
+    "Apelido": "TÓPICO EM NEGOCIAÇÃO INTERNACIONAL",
+    "CargaHorariaTeorico": 60,
+    "CargaHorariaPratica": null,
+    "ListaPrequisitos": []
+  },
+  {
+    "Id": 55512,
+    "Codigo": "2501.000.468-2",
+    "Tipo": "OPT",
+    "Descricao": "TÓPICOS EM ECONOMIA BRASILEIRA CONTEMPORÂNEA",
+    "Semestre": 99,
+    "Apelido": "TÓPICOS EM ECONOMIA BRASILEIRA CONTEMPORÂNEA",
+    "CargaHorariaTeorico": 60,
+    "CargaHorariaPratica": null,
+    "ListaPrequisitos": [
+      {
+        "Id": 55527,
+        "Codigo": "2501.000.483-3",
+        "Descricao": "ECONOMIA BRASILEIRA CONTEMPORÂNEA II",
+        "Semestre": "0",
+        "Apelido": "ECONOMIA BRASILEIRA CONTEMPORÂNEA II",
+        "CargaHorariaTeorico": 0,
+        "CargaHorariaPratica": 0,
+        "ListaPrequisitos": []
+      }
+    ]
+  },
+  {
+    "Id": 55497,
+    "Codigo": "2501.000.454-8",
+    "Tipo": "OPT",
+    "Descricao": "TÓPICOS EM ECONOMIA DA INOVAÇÃO TECNOLÓGICA I",
+    "Semestre": 99,
+    "Apelido": "TÓPICOS EM ECONOMIA DA INOVAÇÃO TECNOLÓGICA I",
+    "CargaHorariaTeorico": 60,
+    "CargaHorariaPratica": null,
+    "ListaPrequisitos": []
+  },
+  {
+    "Id": 55549,
+    "Codigo": "2501.000.504-4",
+    "Tipo": "OPT",
+    "Descricao": "TÓPICOS EM ECONOMIA DA INOVAÇÃO TECNOLÓGICA II",
+    "Semestre": 99,
+    "Apelido": "TÓPICOS EM ECONOMIA DA INOVAÇÃO TECNOLÓGICA II",
+    "CargaHorariaTeorico": 60,
+    "CargaHorariaPratica": null,
+    "ListaPrequisitos": []
+  },
+  {
+    "Id": 55498,
+    "Codigo": "2501.000.455-7",
+    "Tipo": "OPT",
+    "Descricao": "TÓPICOS EM ECONOMIA MONETÁRIA",
+    "Semestre": 99,
+    "Apelido": "TÓPICOS EM ECONOMIA MONETÁRIA",
+    "CargaHorariaTeorico": 60,
+    "CargaHorariaPratica": null,
+    "ListaPrequisitos": [
+      {
+        "Id": 55517,
+        "Codigo": "2501.000.473-5",
+        "Descricao": "ECONOMIA MONETÁRIA",
+        "Semestre": "0",
+        "Apelido": "ECONOMIA MONETÁRIA",
+        "CargaHorariaTeorico": 0,
+        "CargaHorariaPratica": 0,
+        "ListaPrequisitos": []
+      }
+    ]
+  },
+  {
+    "Id": 55520,
+    "Codigo": "2501.000.476-2",
+    "Tipo": "OPT",
+    "Descricao": "TÓPICOS EM ECONOMIA REGIONAL E URBANA",
+    "Semestre": 99,
+    "Apelido": "TÓPICOS EM ECONOMIA REGIONAL E URBANA",
+    "CargaHorariaTeorico": 60,
+    "CargaHorariaPratica": null,
+    "ListaPrequisitos": []
+  },
+  {
+    "Id": 55537,
+    "Codigo": "2501.000.492-2",
+    "Tipo": "OPT",
+    "Descricao": "TÓPICOS EM MACROECONOMIA KEYNESIANA",
+    "Semestre": 99,
+    "Apelido": "TÓPICOS EM MACROECONOMIA KEYNESIANA",
+    "CargaHorariaTeorico": 60,
+    "CargaHorariaPratica": null,
+    "ListaPrequisitos": []
+  },
+  {
+    "Id": 55538,
+    "Codigo": "2501.000.493-1",
+    "Tipo": "OPT",
+    "Descricao": "TÓPICOS ESPECIAIS EM ECONOMIA AGRÍCOLA",
+    "Semestre": 99,
+    "Apelido": "TÓPICOS ESPECIAIS EM ECONOMIA AGRÍCOLA",
+    "CargaHorariaTeorico": 60,
+    "CargaHorariaPratica": null,
+    "ListaPrequisitos": []
+  },
+  {
+    "Id": 55524,
+    "Codigo": "2501.000.480-6",
+    "Tipo": "OPT",
+    "Descricao": "TÓPICOS ESPECIAIS EM ECONOMIA CRIATIVA",
+    "Semestre": 99,
+    "Apelido": "TÓPICOS ESPECIAIS EM ECONOMIA CRIATIVA",
+    "CargaHorariaTeorico": 60,
+    "CargaHorariaPratica": null,
+    "ListaPrequisitos": []
+  },
+  {
+    "Id": 55501,
+    "Codigo": "2501.000.457-5",
+    "Tipo": "OPT",
+    "Descricao": "TÓPICOS ESPECIAIS EM ECONOMIA DE EMPRESAS",
+    "Semestre": 99,
+    "Apelido": "TÓPICOS ESPECIAIS EM ECONOMIA DE EMPRESAS",
+    "CargaHorariaTeorico": 60,
+    "CargaHorariaPratica": null,
+    "ListaPrequisitos": []
+  },
+  {
+    "Id": 55529,
+    "Codigo": "2501.000.485-1",
+    "Tipo": "OPT",
+    "Descricao": "TÓPICOS ESPECIAIS EM MACROECONOMIA",
+    "Semestre": 99,
+    "Apelido": "TÓPICOS ESPECIAIS EM MACROECONOMIA",
+    "CargaHorariaTeorico": 60,
+    "CargaHorariaPratica": null,
+    "ListaPrequisitos": []
+  },
+  {
+    "Id": 55531,
+    "Codigo": "2501.000.487-0",
+    "Tipo": "OPT",
+    "Descricao": "TÓPICOS ESPECIAIS EM TEORIA ECONÔMICA",
+    "Semestre": 99,
+    "Apelido": "TÓPICOS ESPECIAIS EM TEORIA ECONÔMICA",
+    "CargaHorariaTeorico": 60,
+    "CargaHorariaPratica": null,
+    "ListaPrequisitos": []
+  },
+  {
+    "Id": 55542,
+    "Codigo": "2501.000.497-8",
+    "Tipo": "OPT",
+    "Descricao": "TÓPICOS ESPECIAIS MERCADO FINANCEIRO E DE CAPITAIS",
+    "Semestre": 99,
+    "Apelido": "TÓPICOS ESPECIAIS MERCADO FINANCEIRO E DE CAPITAIS",
+    "CargaHorariaTeorico": 60,
+    "CargaHorariaPratica": null,
+    "ListaPrequisitos": []
+  },
+  {
+    "Id": 52307,
+    "Codigo": "0100.000.002-0",
+    "Tipo": "NFC",
+    "Descricao": "VIDA, CIDADANIA E SUSTENTABILIDADE",
+    "Semestre": 99,
+    "Apelido": "VIDA, CIDADANIA E SUSTENTABILIDADE",
+    "CargaHorariaTeorico": 30,
+    "CargaHorariaPratica": null,
+    "ListaPrequisitos": []
+  }
+]

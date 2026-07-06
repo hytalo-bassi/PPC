@@ -1,0 +1,1399 @@
+[
+  {
+    "Id": 59869,
+    "Codigo": "2901.001.743-6",
+    "Tipo": "OBR",
+    "Descricao": "ESCRITA CRIATIVA",
+    "Semestre": 1,
+    "Apelido": "ESCRITA CRIATIVA",
+    "CargaHorariaTeorico": 60,
+    "CargaHorariaPratica": null,
+    "ListaPrequisitos": []
+  },
+  {
+    "Id": 59929,
+    "Codigo": "2901.001.803-0",
+    "Tipo": "OBR",
+    "Descricao": "FOTOGRAFIA",
+    "Semestre": 1,
+    "Apelido": "FOTOGRAFIA",
+    "CargaHorariaTeorico": 60,
+    "CargaHorariaPratica": null,
+    "ListaPrequisitos": []
+  },
+  {
+    "Id": 59870,
+    "Codigo": "2901.001.744-5",
+    "Tipo": "OBR",
+    "Descricao": "HISTÓRIA DA ARTE",
+    "Semestre": 1,
+    "Apelido": "HISTÓRIA DA ARTE",
+    "CargaHorariaTeorico": 60,
+    "CargaHorariaPratica": null,
+    "ListaPrequisitos": []
+  },
+  {
+    "Id": 59901,
+    "Codigo": "2901.001.775-9",
+    "Tipo": "OBR",
+    "Descricao": "HISTÓRIA DO CINEMA E DO AUDIOVISUAL I",
+    "Semestre": 1,
+    "Apelido": "HISTÓRIA DO CINEMA E DO AUDIOVISUAL I",
+    "CargaHorariaTeorico": 60,
+    "CargaHorariaPratica": null,
+    "ListaPrequisitos": []
+  },
+  {
+    "Id": 59899,
+    "Codigo": "2901.001.773-0",
+    "Tipo": "OBR",
+    "Descricao": "LINGUAGEM AUDIOVISUAL",
+    "Semestre": 1,
+    "Apelido": "LINGUAGEM AUDIOVISUAL",
+    "CargaHorariaTeorico": 60,
+    "CargaHorariaPratica": null,
+    "ListaPrequisitos": []
+  },
+  {
+    "Id": 59886,
+    "Codigo": "2901.001.760-5",
+    "Tipo": "OBR",
+    "Descricao": "ARGUMENTO E ROTEIRO I",
+    "Semestre": 2,
+    "Apelido": "ARGUMENTO E ROTEIRO I",
+    "CargaHorariaTeorico": 60,
+    "CargaHorariaPratica": null,
+    "ListaPrequisitos": [
+      {
+        "Id": 59869,
+        "Codigo": "2901.001.743-6",
+        "Descricao": "ESCRITA CRIATIVA",
+        "Semestre": "0",
+        "Apelido": "ESCRITA CRIATIVA",
+        "CargaHorariaTeorico": 0,
+        "CargaHorariaPratica": 0,
+        "ListaPrequisitos": []
+      }
+    ]
+  },
+  {
+    "Id": 59862,
+    "Codigo": "2901.001.736-5",
+    "Tipo": "OBR",
+    "Descricao": "DIREÇÃO AUDIOVISUAL I",
+    "Semestre": 2,
+    "Apelido": "DIREÇÃO AUDIOVISUAL I",
+    "CargaHorariaTeorico": 60,
+    "CargaHorariaPratica": null,
+    "ListaPrequisitos": []
+  },
+  {
+    "Id": 59895,
+    "Codigo": "2901.001.769-7",
+    "Tipo": "OBR",
+    "Descricao": "FUNDAMENTOS DA MONTAGEM",
+    "Semestre": 2,
+    "Apelido": "FUNDAMENTOS DA MONTAGEM",
+    "CargaHorariaTeorico": 60,
+    "CargaHorariaPratica": null,
+    "ListaPrequisitos": []
+  },
+  {
+    "Id": 59930,
+    "Codigo": "2901.001.804-0",
+    "Tipo": "OBR",
+    "Descricao": "HISTÓRIA DO CINEMA E DO AUDIOVISUAL II",
+    "Semestre": 2,
+    "Apelido": "HISTÓRIA DO CINEMA E DO AUDIOVISUAL II",
+    "CargaHorariaTeorico": 60,
+    "CargaHorariaPratica": null,
+    "ListaPrequisitos": [
+      {
+        "Id": 59901,
+        "Codigo": "2901.001.775-9",
+        "Descricao": "HISTÓRIA DO CINEMA E DO AUDIOVISUAL I",
+        "Semestre": "0",
+        "Apelido": "HISTÓRIA DO CINEMA E DO AUDIOVISUAL I",
+        "CargaHorariaTeorico": 0,
+        "CargaHorariaPratica": 0,
+        "ListaPrequisitos": []
+      }
+    ]
+  },
+  {
+    "Id": 59908,
+    "Codigo": "2901.001.782-0",
+    "Tipo": "OBR",
+    "Descricao": "PRODUÇÃO AUDIOVISUAL I",
+    "Semestre": 2,
+    "Apelido": "PRODUÇÃO AUDIOVISUAL I",
+    "CargaHorariaTeorico": 60,
+    "CargaHorariaPratica": null,
+    "ListaPrequisitos": []
+  },
+  {
+    "Id": 59907,
+    "Codigo": "2901.001.781-0",
+    "Tipo": "OBR",
+    "Descricao": "ARGUMENTO E ROTEIRO II",
+    "Semestre": 3,
+    "Apelido": "ARGUMENTO E ROTEIRO II",
+    "CargaHorariaTeorico": 60,
+    "CargaHorariaPratica": null,
+    "ListaPrequisitos": [
+      {
+        "Id": 59886,
+        "Codigo": "2901.001.760-5",
+        "Descricao": "ARGUMENTO E ROTEIRO I",
+        "Semestre": "0",
+        "Apelido": "ARGUMENTO E ROTEIRO I",
+        "CargaHorariaTeorico": 0,
+        "CargaHorariaPratica": 0,
+        "ListaPrequisitos": []
+      }
+    ]
+  },
+  {
+    "Id": 59892,
+    "Codigo": "2901.001.766-0",
+    "Tipo": "OBR",
+    "Descricao": "DIREÇÃO DE ARTE",
+    "Semestre": 3,
+    "Apelido": "DIREÇÃO DE ARTE",
+    "CargaHorariaTeorico": 60,
+    "CargaHorariaPratica": null,
+    "ListaPrequisitos": []
+  },
+  {
+    "Id": 59896,
+    "Codigo": "2901.001.770-3",
+    "Tipo": "OBR",
+    "Descricao": "DISTRIBUIÇÃO E EXIBIÇÃO AUDIOVISUAL",
+    "Semestre": 3,
+    "Apelido": "DISTRIBUIÇÃO E EXIBIÇÃO AUDIOVISUAL",
+    "CargaHorariaTeorico": 60,
+    "CargaHorariaPratica": null,
+    "ListaPrequisitos": []
+  },
+  {
+    "Id": 59911,
+    "Codigo": "2901.001.785-7",
+    "Tipo": "OBR",
+    "Descricao": "HISTÓRIA DO CINEMA E DO AUDIOVISUAL BRASILEIRO I",
+    "Semestre": 3,
+    "Apelido": "HISTÓRIA DO CINEMA E DO AUDIOVISUAL BRASILEIRO I",
+    "CargaHorariaTeorico": 60,
+    "CargaHorariaPratica": null,
+    "ListaPrequisitos": []
+  },
+  {
+    "Id": 59898,
+    "Codigo": "2901.001.772-1",
+    "Tipo": "OBR",
+    "Descricao": "SOM I",
+    "Semestre": 3,
+    "Apelido": "SOM I",
+    "CargaHorariaTeorico": 60,
+    "CargaHorariaPratica": null,
+    "ListaPrequisitos": []
+  },
+  {
+    "Id": 59882,
+    "Codigo": "2901.001.756-1",
+    "Tipo": "OBR",
+    "Descricao": "ANIMAÇÃO",
+    "Semestre": 4,
+    "Apelido": "ANIMAÇÃO",
+    "CargaHorariaTeorico": 60,
+    "CargaHorariaPratica": null,
+    "ListaPrequisitos": []
+  },
+  {
+    "Id": 59889,
+    "Codigo": "2901.001.763-2",
+    "Tipo": "OBR",
+    "Descricao": "DIREÇÃO DE FOTOGRAFIA",
+    "Semestre": 4,
+    "Apelido": "DIREÇÃO DE FOTOGRAFIA",
+    "CargaHorariaTeorico": 60,
+    "CargaHorariaPratica": null,
+    "ListaPrequisitos": []
+  },
+  {
+    "Id": 59872,
+    "Codigo": "2901.001.746-3",
+    "Tipo": "OBR",
+    "Descricao": "FILOSOFIA E CINEMA",
+    "Semestre": 4,
+    "Apelido": "FILOSOFIA E CINEMA",
+    "CargaHorariaTeorico": 60,
+    "CargaHorariaPratica": null,
+    "ListaPrequisitos": []
+  },
+  {
+    "Id": 59876,
+    "Codigo": "2901.001.750-7",
+    "Tipo": "OBR",
+    "Descricao": "HISTÓRIA DO CINEMA E DO AUDIOVISUAL BRASILEIRO II",
+    "Semestre": 4,
+    "Apelido": "HISTÓRIA DO CINEMA E DO AUDIOVISUAL BRASILEIRO II",
+    "CargaHorariaTeorico": 60,
+    "CargaHorariaPratica": null,
+    "ListaPrequisitos": [
+      {
+        "Id": 59911,
+        "Codigo": "2901.001.785-7",
+        "Descricao": "HISTÓRIA DO CINEMA E DO AUDIOVISUAL BRASILEIRO I",
+        "Semestre": "0",
+        "Apelido": "HISTÓRIA DO CINEMA E DO AUDIOVISUAL BRASILEIRO I",
+        "CargaHorariaTeorico": 0,
+        "CargaHorariaPratica": 0,
+        "ListaPrequisitos": []
+      }
+    ]
+  },
+  {
+    "Id": 59890,
+    "Codigo": "2901.001.764-1",
+    "Tipo": "OBR",
+    "Descricao": "TEORIAS DA COMUNICAÇÃO",
+    "Semestre": 4,
+    "Apelido": "TEORIAS DA COMUNICAÇÃO",
+    "CargaHorariaTeorico": 60,
+    "CargaHorariaPratica": null,
+    "ListaPrequisitos": []
+  },
+  {
+    "Id": 59900,
+    "Codigo": "2901.001.774-0",
+    "Tipo": "OBR",
+    "Descricao": "DIREÇÃO AUDIOVISUAL II",
+    "Semestre": 5,
+    "Apelido": "DIREÇÃO AUDIOVISUAL II",
+    "CargaHorariaTeorico": 60,
+    "CargaHorariaPratica": null,
+    "ListaPrequisitos": [
+      {
+        "Id": 59862,
+        "Codigo": "2901.001.736-5",
+        "Descricao": "DIREÇÃO AUDIOVISUAL I",
+        "Semestre": "0",
+        "Apelido": "DIREÇÃO AUDIOVISUAL I",
+        "CargaHorariaTeorico": 0,
+        "CargaHorariaPratica": 0,
+        "ListaPrequisitos": []
+      }
+    ]
+  },
+  {
+    "Id": 59877,
+    "Codigo": "2901.001.751-6",
+    "Tipo": "OBR",
+    "Descricao": "DOCUMENTÁRIO I - TEORIA E HISTÓRIA",
+    "Semestre": 5,
+    "Apelido": "DOCUMENTÁRIO I - TEORIA E HISTÓRIA",
+    "CargaHorariaTeorico": 60,
+    "CargaHorariaPratica": null,
+    "ListaPrequisitos": []
+  },
+  {
+    "Id": 59894,
+    "Codigo": "2901.001.768-8",
+    "Tipo": "OBR",
+    "Descricao": "ILUMINAÇÃO",
+    "Semestre": 5,
+    "Apelido": "ILUMINAÇÃO",
+    "CargaHorariaTeorico": 60,
+    "CargaHorariaPratica": null,
+    "ListaPrequisitos": []
+  },
+  {
+    "Id": 59891,
+    "Codigo": "2901.001.765-0",
+    "Tipo": "OBR",
+    "Descricao": "LABORATÓRIO DE EDIÇÃO E MONTAGEM",
+    "Semestre": 5,
+    "Apelido": "LABORATÓRIO DE EDIÇÃO E MONTAGEM",
+    "CargaHorariaTeorico": 60,
+    "CargaHorariaPratica": null,
+    "ListaPrequisitos": [
+      {
+        "Id": 59895,
+        "Codigo": "2901.001.769-7",
+        "Descricao": "FUNDAMENTOS DA MONTAGEM",
+        "Semestre": "0",
+        "Apelido": "FUNDAMENTOS DA MONTAGEM",
+        "CargaHorariaTeorico": 0,
+        "CargaHorariaPratica": 0,
+        "ListaPrequisitos": []
+      }
+    ]
+  },
+  {
+    "Id": 59873,
+    "Codigo": "2901.001.747-2",
+    "Tipo": "OBR",
+    "Descricao": "TEORIAS DO CINEMA E DO AUDIOVISUAL",
+    "Semestre": 5,
+    "Apelido": "TEORIAS DO CINEMA E DO AUDIOVISUAL",
+    "CargaHorariaTeorico": 60,
+    "CargaHorariaPratica": null,
+    "ListaPrequisitos": []
+  },
+  {
+    "Id": 59874,
+    "Codigo": "2901.001.748-1",
+    "Tipo": "OBR",
+    "Descricao": "ANÁLISE FÍLMICA",
+    "Semestre": 6,
+    "Apelido": "ANÁLISE FÍLMICA",
+    "CargaHorariaTeorico": 60,
+    "CargaHorariaPratica": null,
+    "ListaPrequisitos": []
+  },
+  {
+    "Id": 59893,
+    "Codigo": "2901.001.767-9",
+    "Tipo": "OBR",
+    "Descricao": "AUDIOVISUAL E EDUCAÇÃO",
+    "Semestre": 6,
+    "Apelido": "AUDIOVISUAL E EDUCAÇÃO",
+    "CargaHorariaTeorico": 60,
+    "CargaHorariaPratica": null,
+    "ListaPrequisitos": []
+  },
+  {
+    "Id": 59867,
+    "Codigo": "2901.001.741-8",
+    "Tipo": "OBR",
+    "Descricao": "DOCUMENTÁRIO II - CRIAÇÃO E PRODUÇÃO",
+    "Semestre": 6,
+    "Apelido": "DOCUMENTÁRIO II - CRIAÇÃO E PRODUÇÃO",
+    "CargaHorariaTeorico": 60,
+    "CargaHorariaPratica": null,
+    "ListaPrequisitos": [
+      {
+        "Id": 59877,
+        "Codigo": "2901.001.751-6",
+        "Descricao": "DOCUMENTÁRIO I - TEORIA E HISTÓRIA",
+        "Semestre": "0",
+        "Apelido": "DOCUMENTÁRIO I - TEORIA E HISTÓRIA",
+        "CargaHorariaTeorico": 0,
+        "CargaHorariaPratica": 0,
+        "ListaPrequisitos": []
+      }
+    ]
+  },
+  {
+    "Id": 55695,
+    "Codigo": "2901.001.391-0",
+    "Tipo": "OBR",
+    "Descricao": "METODOLOGIA DA PESQUISA CIENTÍFICA",
+    "Semestre": 6,
+    "Apelido": "METODOLOGIA DA PESQUISA CIENTÍFICA",
+    "CargaHorariaTeorico": 60,
+    "CargaHorariaPratica": null,
+    "ListaPrequisitos": []
+  },
+  {
+    "Id": 56920,
+    "Codigo": "2901.001.731-0",
+    "Tipo": "OBR",
+    "Descricao": "SOCIOLOGIA DA COMUNICAÇÃO",
+    "Semestre": 6,
+    "Apelido": "SOCIOLOGIA DA COMUNICAÇÃO",
+    "CargaHorariaTeorico": 60,
+    "CargaHorariaPratica": null,
+    "ListaPrequisitos": []
+  },
+  {
+    "Id": 59902,
+    "Codigo": "2901.001.776-8",
+    "Tipo": "OBR",
+    "Descricao": "FINALIZAÇÃO E PÓS-PRODUÇÃO",
+    "Semestre": 7,
+    "Apelido": "FINALIZAÇÃO E PÓS-PRODUÇÃO",
+    "CargaHorariaTeorico": 60,
+    "CargaHorariaPratica": null,
+    "ListaPrequisitos": [
+      {
+        "Id": 59891,
+        "Codigo": "2901.001.765-0",
+        "Descricao": "LABORATÓRIO DE EDIÇÃO E MONTAGEM",
+        "Semestre": "0",
+        "Apelido": "LABORATÓRIO DE EDIÇÃO E MONTAGEM",
+        "CargaHorariaTeorico": 0,
+        "CargaHorariaPratica": 0,
+        "ListaPrequisitos": []
+      }
+    ]
+  },
+  {
+    "Id": 59865,
+    "Codigo": "2901.001.739-2",
+    "Tipo": "OBR",
+    "Descricao": "PRESERVAÇÃO AUDIOVISUAL",
+    "Semestre": 7,
+    "Apelido": "PRESERVAÇÃO AUDIOVISUAL",
+    "CargaHorariaTeorico": 60,
+    "CargaHorariaPratica": null,
+    "ListaPrequisitos": []
+  },
+  {
+    "Id": 59928,
+    "Codigo": "2901.001.802-1",
+    "Tipo": "OBR",
+    "Descricao": "SEMINÁRIO DE PESQUISA E PRODUÇÃO EM AUDIOVISUAL I",
+    "Semestre": 7,
+    "Apelido": "SEMINÁRIO DE PESQUISA E PRODUÇÃO EM AUDIOVISUAL I",
+    "CargaHorariaTeorico": 30,
+    "CargaHorariaPratica": null,
+    "ListaPrequisitos": [
+      {
+        "Id": 55695,
+        "Codigo": "2901.001.391-0",
+        "Descricao": "METODOLOGIA DA PESQUISA CIENTÍFICA",
+        "Semestre": "0",
+        "Apelido": "METODOLOGIA DA PESQUISA CIENTÍFICA",
+        "CargaHorariaTeorico": 0,
+        "CargaHorariaPratica": 0,
+        "ListaPrequisitos": []
+      }
+    ]
+  },
+  {
+    "Id": 59888,
+    "Codigo": "2901.001.762-3",
+    "Tipo": "OBR",
+    "Descricao": "EMPREENDEDORISMO E INOVAÇÃO",
+    "Semestre": 8,
+    "Apelido": "EMPREENDEDORISMO E INOVAÇÃO",
+    "CargaHorariaTeorico": 60,
+    "CargaHorariaPratica": null,
+    "ListaPrequisitos": [
+      {
+        "Id": 59908,
+        "Codigo": "2901.001.782-0",
+        "Descricao": "PRODUÇÃO AUDIOVISUAL I",
+        "Semestre": "0",
+        "Apelido": "PRODUÇÃO AUDIOVISUAL I",
+        "CargaHorariaTeorico": 0,
+        "CargaHorariaPratica": 0,
+        "ListaPrequisitos": []
+      }
+    ]
+  },
+  {
+    "Id": 59897,
+    "Codigo": "2901.001.771-2",
+    "Tipo": "OBR",
+    "Descricao": "HISTÓRIA DO CINEMA E DO AUDIOVISUAL CONTEMPORÂNEO",
+    "Semestre": 8,
+    "Apelido": "HISTÓRIA DO CINEMA E DO AUDIOVISUAL CONTEMPORÂNEO",
+    "CargaHorariaTeorico": 60,
+    "CargaHorariaPratica": null,
+    "ListaPrequisitos": [
+      {
+        "Id": 59930,
+        "Codigo": "2901.001.804-0",
+        "Descricao": "HISTÓRIA DO CINEMA E DO AUDIOVISUAL II",
+        "Semestre": "0",
+        "Apelido": "HISTÓRIA DO CINEMA E DO AUDIOVISUAL II",
+        "CargaHorariaTeorico": 0,
+        "CargaHorariaPratica": 0,
+        "ListaPrequisitos": []
+      }
+    ]
+  },
+  {
+    "Id": 59871,
+    "Codigo": "2901.001.745-4",
+    "Tipo": "OBR",
+    "Descricao": "SEMINÁRIO DE PESQUISA E PRODUÇÃO EM AUDIOVISUAL II",
+    "Semestre": 8,
+    "Apelido": "SEMINÁRIO DE PESQUISA E PRODUÇÃO EM AUDIOVISUAL II",
+    "CargaHorariaTeorico": 30,
+    "CargaHorariaPratica": null,
+    "ListaPrequisitos": [
+      {
+        "Id": 59928,
+        "Codigo": "2901.001.802-1",
+        "Descricao": "SEMINÁRIO DE PESQUISA E PRODUÇÃO EM AUDIOVISUAL I",
+        "Semestre": "0",
+        "Apelido": "SEMINÁRIO DE PESQUISA E PRODUÇÃO EM AUDIOVISUAL I",
+        "CargaHorariaTeorico": 0,
+        "CargaHorariaPratica": 0,
+        "ListaPrequisitos": []
+      }
+    ]
+  },
+  {
+    "Id": 55717,
+    "Codigo": "2901.001.413-0",
+    "Tipo": "OPT",
+    "Descricao": "ARTE E LINGUAGEM I",
+    "Semestre": 99,
+    "Apelido": "ARTE E LINGUAGEM I",
+    "CargaHorariaTeorico": 30,
+    "CargaHorariaPratica": null,
+    "ListaPrequisitos": []
+  },
+  {
+    "Id": 55719,
+    "Codigo": "2901.001.415-8",
+    "Tipo": "OPT",
+    "Descricao": "ARTE E LINGUAGEM II",
+    "Semestre": 99,
+    "Apelido": "ARTE E LINGUAGEM II",
+    "CargaHorariaTeorico": 30,
+    "CargaHorariaPratica": null,
+    "ListaPrequisitos": [
+      {
+        "Id": 55717,
+        "Codigo": "2901.001.413-0",
+        "Descricao": "ARTE E LINGUAGEM I",
+        "Semestre": "0",
+        "Apelido": "ARTE E LINGUAGEM I",
+        "CargaHorariaTeorico": 0,
+        "CargaHorariaPratica": 0,
+        "ListaPrequisitos": []
+      }
+    ]
+  },
+  {
+    "Id": 59921,
+    "Codigo": "2901.001.795-5",
+    "Tipo": "OPT",
+    "Descricao": "CINEMA CLÁSSICO HOLLYWOODIANO",
+    "Semestre": 99,
+    "Apelido": "CINEMA CLÁSSICO HOLLYWOODIANO",
+    "CargaHorariaTeorico": 60,
+    "CargaHorariaPratica": null,
+    "ListaPrequisitos": []
+  },
+  {
+    "Id": 59883,
+    "Codigo": "2901.001.757-0",
+    "Tipo": "OPT",
+    "Descricao": "CINEMA JAPONÊS",
+    "Semestre": 99,
+    "Apelido": "CINEMA JAPONÊS",
+    "CargaHorariaTeorico": 60,
+    "CargaHorariaPratica": null,
+    "ListaPrequisitos": []
+  },
+  {
+    "Id": 59925,
+    "Codigo": "2901.001.799-1",
+    "Tipo": "OPT",
+    "Descricao": "CINEMA LATINO-AMERICANO",
+    "Semestre": 99,
+    "Apelido": "CINEMA LATINO-AMERICANO",
+    "CargaHorariaTeorico": 60,
+    "CargaHorariaPratica": null,
+    "ListaPrequisitos": []
+  },
+  {
+    "Id": 59909,
+    "Codigo": "2901.001.783-9",
+    "Tipo": "OPT",
+    "Descricao": "CINEMAS AFRO-DIASPÓRICOS",
+    "Semestre": 99,
+    "Apelido": "CINEMAS AFRO-DIASPÓRICOS",
+    "CargaHorariaTeorico": 60,
+    "CargaHorariaPratica": null,
+    "ListaPrequisitos": []
+  },
+  {
+    "Id": 59884,
+    "Codigo": "2901.001.758-0",
+    "Tipo": "OPT",
+    "Descricao": "COMUNICAÇÃO PARA O TERCEIRO SETOR E PARA O CIBERATIVISMO",
+    "Semestre": 99,
+    "Apelido": "COMUNICAÇÃO PARA O TERCEIRO SETOR E PARA O CIBERATIVISMO",
+    "CargaHorariaTeorico": 45,
+    "CargaHorariaPratica": null,
+    "ListaPrequisitos": []
+  },
+  {
+    "Id": 59920,
+    "Codigo": "2901.001.794-6",
+    "Tipo": "OPT",
+    "Descricao": "CRÍTICA DE CINEMA",
+    "Semestre": 99,
+    "Apelido": "CRÍTICA DE CINEMA",
+    "CargaHorariaTeorico": 60,
+    "CargaHorariaPratica": null,
+    "ListaPrequisitos": []
+  },
+  {
+    "Id": 59903,
+    "Codigo": "2901.001.777-7",
+    "Tipo": "OPT",
+    "Descricao": "EDUCAÇÃO DAS RELAÇÕES ÉTNICO-RACIAIS",
+    "Semestre": 99,
+    "Apelido": "EDUCAÇÃO DAS RELAÇÕES ÉTNICO-RACIAIS",
+    "CargaHorariaTeorico": 30,
+    "CargaHorariaPratica": null,
+    "ListaPrequisitos": []
+  },
+  {
+    "Id": 55687,
+    "Codigo": "2901.001.383-0",
+    "Tipo": "OPT",
+    "Descricao": "ENSAIO FOTOGRÁFICO",
+    "Semestre": 99,
+    "Apelido": "ENSAIO FOTOGRÁFICO",
+    "CargaHorariaTeorico": 60,
+    "CargaHorariaPratica": null,
+    "ListaPrequisitos": [
+      {
+        "Id": 59929,
+        "Codigo": "2901.001.803-0",
+        "Descricao": "FOTOGRAFIA",
+        "Semestre": "0",
+        "Apelido": "FOTOGRAFIA",
+        "CargaHorariaTeorico": 0,
+        "CargaHorariaPratica": 0,
+        "ListaPrequisitos": []
+      }
+    ]
+  },
+  {
+    "Id": 55722,
+    "Codigo": "2901.001.418-5",
+    "Tipo": "OPT",
+    "Descricao": "ESTÉTICA E TEORIA DA ARTE I",
+    "Semestre": 99,
+    "Apelido": "ESTÉTICA E TEORIA DA ARTE I",
+    "CargaHorariaTeorico": 45,
+    "CargaHorariaPratica": null,
+    "ListaPrequisitos": []
+  },
+  {
+    "Id": 55718,
+    "Codigo": "2901.001.414-9",
+    "Tipo": "OPT",
+    "Descricao": "ESTÉTICA E TEORIA DA ARTE II",
+    "Semestre": 99,
+    "Apelido": "ESTÉTICA E TEORIA DA ARTE II",
+    "CargaHorariaTeorico": 45,
+    "CargaHorariaPratica": null,
+    "ListaPrequisitos": [
+      {
+        "Id": 55722,
+        "Codigo": "2901.001.418-5",
+        "Descricao": "ESTÉTICA E TEORIA DA ARTE I",
+        "Semestre": "0",
+        "Apelido": "ESTÉTICA E TEORIA DA ARTE I",
+        "CargaHorariaTeorico": 0,
+        "CargaHorariaPratica": 0,
+        "ListaPrequisitos": []
+      }
+    ]
+  },
+  {
+    "Id": 55280,
+    "Codigo": "2901.001.328-6",
+    "Tipo": "OPT",
+    "Descricao": "ESTUDO DE LIBRAS",
+    "Semestre": 99,
+    "Apelido": "ESTUDO DE LIBRAS",
+    "CargaHorariaTeorico": 45,
+    "CargaHorariaPratica": null,
+    "ListaPrequisitos": []
+  },
+  {
+    "Id": 55690,
+    "Codigo": "2901.001.386-7",
+    "Tipo": "OPT",
+    "Descricao": "ESTUDOS DE RECEPÇÃO",
+    "Semestre": 99,
+    "Apelido": "ESTUDOS DE RECEPÇÃO",
+    "CargaHorariaTeorico": 45,
+    "CargaHorariaPratica": null,
+    "ListaPrequisitos": []
+  },
+  {
+    "Id": 52791,
+    "Codigo": "2901.001.227-0",
+    "Tipo": "OPT",
+    "Descricao": "ESTUDOS DISCURSIVOS E PRAGMÁTICOS",
+    "Semestre": 99,
+    "Apelido": "ESTUDOS DISCURSIVOS E PRAGMÁTICOS",
+    "CargaHorariaTeorico": 45,
+    "CargaHorariaPratica": null,
+    "ListaPrequisitos": [
+      {
+        "Id": 52792,
+        "Codigo": "2901.001.228-9",
+        "Descricao": "TEORIAS DO TEXTO E DO DISCURSO",
+        "Semestre": "0",
+        "Apelido": "TEORIAS DO TEXTO E DO DISCURSO",
+        "CargaHorariaTeorico": 0,
+        "CargaHorariaPratica": 0,
+        "ListaPrequisitos": []
+      }
+    ]
+  },
+  {
+    "Id": 55688,
+    "Codigo": "2901.001.384-9",
+    "Tipo": "OPT",
+    "Descricao": "FOTOGRAFIA ANALÓGICA",
+    "Semestre": 99,
+    "Apelido": "FOTOGRAFIA ANALÓGICA",
+    "CargaHorariaTeorico": 60,
+    "CargaHorariaPratica": null,
+    "ListaPrequisitos": [
+      {
+        "Id": 59929,
+        "Codigo": "2901.001.803-0",
+        "Descricao": "FOTOGRAFIA",
+        "Semestre": "0",
+        "Apelido": "FOTOGRAFIA",
+        "CargaHorariaTeorico": 0,
+        "CargaHorariaPratica": 0,
+        "ListaPrequisitos": []
+      }
+    ]
+  },
+  {
+    "Id": 55689,
+    "Codigo": "2901.001.385-8",
+    "Tipo": "OPT",
+    "Descricao": "FOTOGRAFIA DOCUMENTAL",
+    "Semestre": 99,
+    "Apelido": "FOTOGRAFIA DOCUMENTAL",
+    "CargaHorariaTeorico": 60,
+    "CargaHorariaPratica": null,
+    "ListaPrequisitos": [
+      {
+        "Id": 59929,
+        "Codigo": "2901.001.803-0",
+        "Descricao": "FOTOGRAFIA",
+        "Semestre": "0",
+        "Apelido": "FOTOGRAFIA",
+        "CargaHorariaTeorico": 0,
+        "CargaHorariaPratica": 0,
+        "ListaPrequisitos": []
+      }
+    ]
+  },
+  {
+    "Id": 59923,
+    "Codigo": "2901.001.797-3",
+    "Tipo": "OPT",
+    "Descricao": "FUNDAMENTOS DE ANÁLISE LINGUÍSTICA",
+    "Semestre": 99,
+    "Apelido": "FUNDAMENTOS DE ANÁLISE LINGUÍSTICA",
+    "CargaHorariaTeorico": 60,
+    "CargaHorariaPratica": null,
+    "ListaPrequisitos": [
+      {
+        "Id": 59926,
+        "Codigo": "2901.001.800-3",
+        "Descricao": "INTRODUÇÃO AOS ESTUDOS LINGUÍSTICOS",
+        "Semestre": "0",
+        "Apelido": "INTRODUÇÃO AOS ESTUDOS LINGUÍSTICOS",
+        "CargaHorariaTeorico": 0,
+        "CargaHorariaPratica": 0,
+        "ListaPrequisitos": []
+      }
+    ]
+  },
+  {
+    "Id": 55686,
+    "Codigo": "2901.001.382-0",
+    "Tipo": "OPT",
+    "Descricao": "GEOPOLÍTICA",
+    "Semestre": 99,
+    "Apelido": "GEOPOLÍTICA",
+    "CargaHorariaTeorico": 60,
+    "CargaHorariaPratica": null,
+    "ListaPrequisitos": []
+  },
+  {
+    "Id": 56021,
+    "Codigo": "2901.001.715-0",
+    "Tipo": "OPT",
+    "Descricao": "HISTÓRIA DA MÚSICA OCIDENTAL I",
+    "Semestre": 99,
+    "Apelido": "HISTÓRIA DA MÚSICA OCIDENTAL I",
+    "CargaHorariaTeorico": 30,
+    "CargaHorariaPratica": null,
+    "ListaPrequisitos": []
+  },
+  {
+    "Id": 55963,
+    "Codigo": "2901.001.657-3",
+    "Tipo": "OPT",
+    "Descricao": "HISTÓRIA DA MÚSICA OCIDENTAL II",
+    "Semestre": 99,
+    "Apelido": "HISTÓRIA DA MÚSICA OCIDENTAL II",
+    "CargaHorariaTeorico": 30,
+    "CargaHorariaPratica": null,
+    "ListaPrequisitos": [
+      {
+        "Id": 56021,
+        "Codigo": "2901.001.715-0",
+        "Descricao": "HISTÓRIA DA MÚSICA OCIDENTAL I",
+        "Semestre": "0",
+        "Apelido": "HISTÓRIA DA MÚSICA OCIDENTAL I",
+        "CargaHorariaTeorico": 0,
+        "CargaHorariaPratica": 0,
+        "ListaPrequisitos": []
+      }
+    ]
+  },
+  {
+    "Id": 55966,
+    "Codigo": "2901.001.660-8",
+    "Tipo": "OPT",
+    "Descricao": "HISTÓRIA DA MÚSICA OCIDENTAL III",
+    "Semestre": 99,
+    "Apelido": "HISTÓRIA DA MÚSICA OCIDENTAL III",
+    "CargaHorariaTeorico": 30,
+    "CargaHorariaPratica": null,
+    "ListaPrequisitos": [
+      {
+        "Id": 55963,
+        "Codigo": "2901.001.657-3",
+        "Descricao": "HISTÓRIA DA MÚSICA OCIDENTAL II",
+        "Semestre": "0",
+        "Apelido": "HISTÓRIA DA MÚSICA OCIDENTAL II",
+        "CargaHorariaTeorico": 0,
+        "CargaHorariaPratica": 0,
+        "ListaPrequisitos": []
+      }
+    ]
+  },
+  {
+    "Id": 52306,
+    "Codigo": "0100.000.001-1",
+    "Tipo": "NFC",
+    "Descricao": "INTELIGÊNCIA ARTIFICIAL: FUNDAMENTOS E PRÁTICAS",
+    "Semestre": 99,
+    "Apelido": "INTELIGÊNCIA ARTIFICIAL: FUNDAMENTOS E PRÁTICAS",
+    "CargaHorariaTeorico": 30,
+    "CargaHorariaPratica": null,
+    "ListaPrequisitos": []
+  },
+  {
+    "Id": 55780,
+    "Codigo": "2901.001.474-8",
+    "Tipo": "OPT",
+    "Descricao": "INTRODUÇÃO À ETNOMUSICOLOGIA",
+    "Semestre": 99,
+    "Apelido": "INTRODUÇÃO À ETNOMUSICOLOGIA",
+    "CargaHorariaTeorico": 30,
+    "CargaHorariaPratica": null,
+    "ListaPrequisitos": []
+  },
+  {
+    "Id": 59926,
+    "Codigo": "2901.001.800-3",
+    "Tipo": "OPT",
+    "Descricao": "INTRODUÇÃO AOS ESTUDOS LINGUÍSTICOS",
+    "Semestre": 99,
+    "Apelido": "INTRODUÇÃO AOS ESTUDOS LINGUÍSTICOS",
+    "CargaHorariaTeorico": 60,
+    "CargaHorariaPratica": null,
+    "ListaPrequisitos": []
+  },
+  {
+    "Id": 59922,
+    "Codigo": "2901.001.796-4",
+    "Tipo": "OPT",
+    "Descricao": "MÍDIA-EDUCAÇÃO",
+    "Semestre": 99,
+    "Apelido": "MÍDIA-EDUCAÇÃO",
+    "CargaHorariaTeorico": 45,
+    "CargaHorariaPratica": null,
+    "ListaPrequisitos": []
+  },
+  {
+    "Id": 59885,
+    "Codigo": "2901.001.759-9",
+    "Tipo": "OPT",
+    "Descricao": "MONTAGEM E EDIÇÃO II",
+    "Semestre": 99,
+    "Apelido": "MONTAGEM E EDIÇÃO II",
+    "CargaHorariaTeorico": 60,
+    "CargaHorariaPratica": null,
+    "ListaPrequisitos": []
+  },
+  {
+    "Id": 59912,
+    "Codigo": "2901.001.786-6",
+    "Tipo": "OPT",
+    "Descricao": "NARRATIVAS TRANSMÍDIA",
+    "Semestre": 99,
+    "Apelido": "NARRATIVAS TRANSMÍDIA",
+    "CargaHorariaTeorico": 60,
+    "CargaHorariaPratica": null,
+    "ListaPrequisitos": []
+  },
+  {
+    "Id": 59868,
+    "Codigo": "2901.001.742-7",
+    "Tipo": "OPT",
+    "Descricao": "NARRATIVA TRANSMÍDIA",
+    "Semestre": 99,
+    "Apelido": "NARRATIVA TRANSMÍDIA",
+    "CargaHorariaTeorico": 60,
+    "CargaHorariaPratica": null,
+    "ListaPrequisitos": []
+  },
+  {
+    "Id": 59918,
+    "Codigo": "2901.001.792-8",
+    "Tipo": "OPT",
+    "Descricao": "NOVÍSSIMO CINEMA BRASILEIRO",
+    "Semestre": 99,
+    "Apelido": "NOVÍSSIMO CINEMA BRASILEIRO",
+    "CargaHorariaTeorico": 60,
+    "CargaHorariaPratica": null,
+    "ListaPrequisitos": []
+  },
+  {
+    "Id": 59924,
+    "Codigo": "2901.001.798-2",
+    "Tipo": "OPT",
+    "Descricao": "NUEVO CINE LATINOAMERICANO",
+    "Semestre": 99,
+    "Apelido": "NUEVO CINE LATINOAMERICANO",
+    "CargaHorariaTeorico": 60,
+    "CargaHorariaPratica": null,
+    "ListaPrequisitos": []
+  },
+  {
+    "Id": 59887,
+    "Codigo": "2901.001.761-4",
+    "Tipo": "OPT",
+    "Descricao": "OFICINA DE CRIAÇÃO FOTOGRÁFICA",
+    "Semestre": 99,
+    "Apelido": "OFICINA DE CRIAÇÃO FOTOGRÁFICA",
+    "CargaHorariaTeorico": 45,
+    "CargaHorariaPratica": null,
+    "ListaPrequisitos": []
+  },
+  {
+    "Id": 55965,
+    "Codigo": "2901.001.659-1",
+    "Tipo": "OPT",
+    "Descricao": "PANORAMA DA HISTÓRIA DA MÚSICA DO OCIDENTE",
+    "Semestre": 99,
+    "Apelido": "PANORAMA DA HISTÓRIA DA MÚSICA DO OCIDENTE",
+    "CargaHorariaTeorico": 30,
+    "CargaHorariaPratica": null,
+    "ListaPrequisitos": []
+  },
+  {
+    "Id": 59875,
+    "Codigo": "2901.001.749-0",
+    "Tipo": "OPT",
+    "Descricao": "POÉTICAS DO DOCUMENTÁRIO: ENSAIO E ARQUIVO NO CINEMA CONTEMPORÂNEO",
+    "Semestre": 99,
+    "Apelido": "POÉTICAS DO DOCUMENTÁRIO: ENSAIO E ARQUIVO NO CINEMA CONTEMPORÂNEO",
+    "CargaHorariaTeorico": 60,
+    "CargaHorariaPratica": null,
+    "ListaPrequisitos": []
+  },
+  {
+    "Id": 59913,
+    "Codigo": "2901.001.787-5",
+    "Tipo": "OPT",
+    "Descricao": "PRÁTICAS ARTÍSTICAS DA FOTOGRAFIA CONTEMPORÂNEA",
+    "Semestre": 99,
+    "Apelido": "PRÁTICAS ARTÍSTICAS DA FOTOGRAFIA CONTEMPORÂNEA",
+    "CargaHorariaTeorico": 60,
+    "CargaHorariaPratica": null,
+    "ListaPrequisitos": []
+  },
+  {
+    "Id": 59866,
+    "Codigo": "2901.001.740-9",
+    "Tipo": "OPT",
+    "Descricao": "PRODUÇÃO AUDIOVISUAL II",
+    "Semestre": 99,
+    "Apelido": "PRODUÇÃO AUDIOVISUAL II",
+    "CargaHorariaTeorico": 45,
+    "CargaHorariaPratica": null,
+    "ListaPrequisitos": []
+  },
+  {
+    "Id": 55696,
+    "Codigo": "2901.001.392-9",
+    "Tipo": "OPT",
+    "Descricao": "PRODUÇÃO DE PROGRAMAS DE TV",
+    "Semestre": 99,
+    "Apelido": "PRODUÇÃO DE PROGRAMAS DE TV",
+    "CargaHorariaTeorico": 45,
+    "CargaHorariaPratica": null,
+    "ListaPrequisitos": []
+  },
+  {
+    "Id": 55644,
+    "Codigo": "3001.000.758-6",
+    "Tipo": "OPT",
+    "Descricao": "PSICOLOGIA DA COMUNICAÇÃO",
+    "Semestre": 99,
+    "Apelido": "PSICOLOGIA DA COMUNICAÇÃO",
+    "CargaHorariaTeorico": 60,
+    "CargaHorariaPratica": null,
+    "ListaPrequisitos": []
+  },
+  {
+    "Id": 52789,
+    "Codigo": "2901.001.225-1",
+    "Tipo": "OPT",
+    "Descricao": "RETÓRICA E ESTUDOS DE LINGUAGEM",
+    "Semestre": 99,
+    "Apelido": "RETÓRICA E ESTUDOS DE LINGUAGEM",
+    "CargaHorariaTeorico": 30,
+    "CargaHorariaPratica": null,
+    "ListaPrequisitos": []
+  },
+  {
+    "Id": 52586,
+    "Codigo": "3001.000.739-9",
+    "Tipo": "OPT",
+    "Descricao": "SOCIEDADE, MEIO AMBIENTE E SUSTENTABILIDADE",
+    "Semestre": 99,
+    "Apelido": "SOCIEDADE, MEIO AMBIENTE E SUSTENTABILIDADE",
+    "CargaHorariaTeorico": 30,
+    "CargaHorariaPratica": null,
+    "ListaPrequisitos": []
+  },
+  {
+    "Id": 59863,
+    "Codigo": "2901.001.737-4",
+    "Tipo": "OPT",
+    "Descricao": "SOM II",
+    "Semestre": 99,
+    "Apelido": "SOM II",
+    "CargaHorariaTeorico": 60,
+    "CargaHorariaPratica": null,
+    "ListaPrequisitos": [
+      {
+        "Id": 59898,
+        "Codigo": "2901.001.772-1",
+        "Descricao": "SOM I",
+        "Semestre": "0",
+        "Apelido": "SOM I",
+        "CargaHorariaTeorico": 0,
+        "CargaHorariaPratica": 0,
+        "ListaPrequisitos": []
+      }
+    ]
+  },
+  {
+    "Id": 56170,
+    "Codigo": "2901.001.722-0",
+    "Tipo": "OPT",
+    "Descricao": "TEORIA E CRÍTICA EM ARTE VISUAL",
+    "Semestre": 99,
+    "Apelido": "TEORIA E CRÍTICA EM ARTE VISUAL",
+    "CargaHorariaTeorico": 30,
+    "CargaHorariaPratica": null,
+    "ListaPrequisitos": []
+  },
+  {
+    "Id": 52792,
+    "Codigo": "2901.001.228-9",
+    "Tipo": "OPT",
+    "Descricao": "TEORIAS DO TEXTO E DO DISCURSO",
+    "Semestre": 99,
+    "Apelido": "TEORIAS DO TEXTO E DO DISCURSO",
+    "CargaHorariaTeorico": 60,
+    "CargaHorariaPratica": null,
+    "ListaPrequisitos": [
+      {
+        "Id": 59923,
+        "Codigo": "2901.001.797-3",
+        "Descricao": "FUNDAMENTOS DE ANÁLISE LINGUÍSTICA",
+        "Semestre": "0",
+        "Apelido": "FUNDAMENTOS DE ANÁLISE LINGUÍSTICA",
+        "CargaHorariaTeorico": 0,
+        "CargaHorariaPratica": 0,
+        "ListaPrequisitos": []
+      }
+    ]
+  },
+  {
+    "Id": 59914,
+    "Codigo": "2901.001.788-4",
+    "Tipo": "OPT",
+    "Descricao": "TEXTO DRAMÁTICO",
+    "Semestre": 99,
+    "Apelido": "TEXTO DRAMÁTICO",
+    "CargaHorariaTeorico": 60,
+    "CargaHorariaPratica": null,
+    "ListaPrequisitos": []
+  },
+  {
+    "Id": 59878,
+    "Codigo": "2901.001.752-5",
+    "Tipo": "OPT",
+    "Descricao": "TÓPICOS EM MÚSICA E AUDIOVISUAL I",
+    "Semestre": 99,
+    "Apelido": "TÓPICOS EM MÚSICA E AUDIOVISUAL I",
+    "CargaHorariaTeorico": 30,
+    "CargaHorariaPratica": null,
+    "ListaPrequisitos": []
+  },
+  {
+    "Id": 55964,
+    "Codigo": "2901.001.658-2",
+    "Tipo": "OPT",
+    "Descricao": "TÓPICOS EM MÚSICA E AUDIOVISUAL II",
+    "Semestre": 99,
+    "Apelido": "TÓPICOS EM MÚSICA E AUDIOVISUAL II",
+    "CargaHorariaTeorico": 30,
+    "CargaHorariaPratica": null,
+    "ListaPrequisitos": []
+  },
+  {
+    "Id": 55962,
+    "Codigo": "2901.001.656-4",
+    "Tipo": "OPT",
+    "Descricao": "TÓPICOS EM MÚSICA E AUDIOVISUAL III",
+    "Semestre": 99,
+    "Apelido": "TÓPICOS EM MÚSICA E AUDIOVISUAL III",
+    "CargaHorariaTeorico": 30,
+    "CargaHorariaPratica": null,
+    "ListaPrequisitos": []
+  },
+  {
+    "Id": 56022,
+    "Codigo": "2901.001.716-9",
+    "Tipo": "OPT",
+    "Descricao": "TÓPICOS EM MÚSICA E AUDIOVISUAL IV",
+    "Semestre": 99,
+    "Apelido": "TÓPICOS EM MÚSICA E AUDIOVISUAL IV",
+    "CargaHorariaTeorico": 30,
+    "CargaHorariaPratica": null,
+    "ListaPrequisitos": []
+  },
+  {
+    "Id": 55829,
+    "Codigo": "2901.001.523-5",
+    "Tipo": "OPT",
+    "Descricao": "TÓPICOS EM TRILHA SONORA I",
+    "Semestre": 99,
+    "Apelido": "TÓPICOS EM TRILHA SONORA I",
+    "CargaHorariaTeorico": 30,
+    "CargaHorariaPratica": null,
+    "ListaPrequisitos": []
+  },
+  {
+    "Id": 55773,
+    "Codigo": "2901.001.467-7",
+    "Tipo": "OPT",
+    "Descricao": "TÓPICOS EM TRILHA SONORA II",
+    "Semestre": 99,
+    "Apelido": "TÓPICOS EM TRILHA SONORA II",
+    "CargaHorariaTeorico": 30,
+    "CargaHorariaPratica": null,
+    "ListaPrequisitos": []
+  },
+  {
+    "Id": 55772,
+    "Codigo": "2901.001.466-8",
+    "Tipo": "OPT",
+    "Descricao": "TÓPICOS EM TRILHA SONORA III",
+    "Semestre": 99,
+    "Apelido": "TÓPICOS EM TRILHA SONORA III",
+    "CargaHorariaTeorico": 30,
+    "CargaHorariaPratica": null,
+    "ListaPrequisitos": []
+  },
+  {
+    "Id": 59927,
+    "Codigo": "2901.001.801-2",
+    "Tipo": "OPT",
+    "Descricao": "TÓPICOS ESPECIAIS EM AUDIOVISUAL I",
+    "Semestre": 99,
+    "Apelido": "TÓPICOS ESPECIAIS EM AUDIOVISUAL I",
+    "CargaHorariaTeorico": 60,
+    "CargaHorariaPratica": null,
+    "ListaPrequisitos": []
+  },
+  {
+    "Id": 59879,
+    "Codigo": "2901.001.753-4",
+    "Tipo": "OPT",
+    "Descricao": "TÓPICOS ESPECIAIS EM AUDIOVISUAL II",
+    "Semestre": 99,
+    "Apelido": "TÓPICOS ESPECIAIS EM AUDIOVISUAL II",
+    "CargaHorariaTeorico": 60,
+    "CargaHorariaPratica": null,
+    "ListaPrequisitos": []
+  },
+  {
+    "Id": 59919,
+    "Codigo": "2901.001.793-7",
+    "Tipo": "OPT",
+    "Descricao": "TÓPICOS ESPECIAIS EM AUDIOVISUAL III",
+    "Semestre": 99,
+    "Apelido": "TÓPICOS ESPECIAIS EM AUDIOVISUAL III",
+    "CargaHorariaTeorico": 60,
+    "CargaHorariaPratica": null,
+    "ListaPrequisitos": []
+  },
+  {
+    "Id": 59859,
+    "Codigo": "2901.001.733-8",
+    "Tipo": "OPT",
+    "Descricao": "TÓPICOS ESPECIAIS EM AUDIOVISUAL IV",
+    "Semestre": 99,
+    "Apelido": "TÓPICOS ESPECIAIS EM AUDIOVISUAL IV",
+    "CargaHorariaTeorico": 60,
+    "CargaHorariaPratica": null,
+    "ListaPrequisitos": []
+  },
+  {
+    "Id": 59860,
+    "Codigo": "2901.001.734-7",
+    "Tipo": "OPT",
+    "Descricao": "TÓPICOS ESPECIAIS EM AUDIOVISUAL IX",
+    "Semestre": 99,
+    "Apelido": "TÓPICOS ESPECIAIS EM AUDIOVISUAL IX",
+    "CargaHorariaTeorico": 60,
+    "CargaHorariaPratica": null,
+    "ListaPrequisitos": []
+  },
+  {
+    "Id": 59910,
+    "Codigo": "2901.001.784-8",
+    "Tipo": "OPT",
+    "Descricao": "TÓPICOS ESPECIAIS EM AUDIOVISUAL V",
+    "Semestre": 99,
+    "Apelido": "TÓPICOS ESPECIAIS EM AUDIOVISUAL V",
+    "CargaHorariaTeorico": 60,
+    "CargaHorariaPratica": null,
+    "ListaPrequisitos": []
+  },
+  {
+    "Id": 59861,
+    "Codigo": "2901.001.735-6",
+    "Tipo": "OPT",
+    "Descricao": "TÓPICOS ESPECIAIS EM AUDIOVISUAL VI",
+    "Semestre": 99,
+    "Apelido": "TÓPICOS ESPECIAIS EM AUDIOVISUAL VI",
+    "CargaHorariaTeorico": 60,
+    "CargaHorariaPratica": null,
+    "ListaPrequisitos": []
+  },
+  {
+    "Id": 59904,
+    "Codigo": "2901.001.778-6",
+    "Tipo": "OPT",
+    "Descricao": "TÓPICOS ESPECIAIS EM AUDIOVISUAL VII",
+    "Semestre": 99,
+    "Apelido": "TÓPICOS ESPECIAIS EM AUDIOVISUAL VII",
+    "CargaHorariaTeorico": 60,
+    "CargaHorariaPratica": null,
+    "ListaPrequisitos": []
+  },
+  {
+    "Id": 59880,
+    "Codigo": "2901.001.754-3",
+    "Tipo": "OPT",
+    "Descricao": "TÓPICOS ESPECIAIS EM AUDIOVISUAL VIII",
+    "Semestre": 99,
+    "Apelido": "TÓPICOS ESPECIAIS EM AUDIOVISUAL VIII",
+    "CargaHorariaTeorico": 60,
+    "CargaHorariaPratica": null,
+    "ListaPrequisitos": []
+  },
+  {
+    "Id": 59905,
+    "Codigo": "2901.001.779-5",
+    "Tipo": "OPT",
+    "Descricao": "TÓPICOS ESPECIAIS EM AUDIOVISUAL X",
+    "Semestre": 99,
+    "Apelido": "TÓPICOS ESPECIAIS EM AUDIOVISUAL X",
+    "CargaHorariaTeorico": 60,
+    "CargaHorariaPratica": null,
+    "ListaPrequisitos": []
+  },
+  {
+    "Id": 59881,
+    "Codigo": "2901.001.755-2",
+    "Tipo": "OPT",
+    "Descricao": "TÓPICOS ESPECIAIS EM AUDIOVISUAL XI",
+    "Semestre": 99,
+    "Apelido": "TÓPICOS ESPECIAIS EM AUDIOVISUAL XI",
+    "CargaHorariaTeorico": 60,
+    "CargaHorariaPratica": null,
+    "ListaPrequisitos": []
+  },
+  {
+    "Id": 59864,
+    "Codigo": "2901.001.738-3",
+    "Tipo": "OPT",
+    "Descricao": "TÓPICOS ESPECIAIS EM AUDIOVISUAL XII",
+    "Semestre": 99,
+    "Apelido": "TÓPICOS ESPECIAIS EM AUDIOVISUAL XII",
+    "CargaHorariaTeorico": 60,
+    "CargaHorariaPratica": null,
+    "ListaPrequisitos": []
+  },
+  {
+    "Id": 59906,
+    "Codigo": "2901.001.780-1",
+    "Tipo": "OPT",
+    "Descricao": "TÓPICOS ESPECIAIS EM AUDIOVISUAL XIII",
+    "Semestre": 99,
+    "Apelido": "TÓPICOS ESPECIAIS EM AUDIOVISUAL XIII",
+    "CargaHorariaTeorico": 60,
+    "CargaHorariaPratica": null,
+    "ListaPrequisitos": []
+  },
+  {
+    "Id": 59915,
+    "Codigo": "2901.001.789-3",
+    "Tipo": "OPT",
+    "Descricao": "TÓPICOS ESPECIAIS EM CINEMA XIV",
+    "Semestre": 99,
+    "Apelido": "TÓPICOS ESPECIAIS EM CINEMA XIV",
+    "CargaHorariaTeorico": 60,
+    "CargaHorariaPratica": null,
+    "ListaPrequisitos": []
+  },
+  {
+    "Id": 59916,
+    "Codigo": "2901.001.790-0",
+    "Tipo": "OPT",
+    "Descricao": "TÓPICOS ESPECIAIS EM CINEMA XV",
+    "Semestre": 99,
+    "Apelido": "TÓPICOS ESPECIAIS EM CINEMA XV",
+    "CargaHorariaTeorico": 60,
+    "CargaHorariaPratica": null,
+    "ListaPrequisitos": []
+  },
+  {
+    "Id": 59917,
+    "Codigo": "2901.001.791-9",
+    "Tipo": "OPT",
+    "Descricao": "TÓPICOS ESPECIAIS EM CINEMA XVI",
+    "Semestre": 99,
+    "Apelido": "TÓPICOS ESPECIAIS EM CINEMA XVI",
+    "CargaHorariaTeorico": 60,
+    "CargaHorariaPratica": null,
+    "ListaPrequisitos": []
+  },
+  {
+    "Id": 52307,
+    "Codigo": "0100.000.002-0",
+    "Tipo": "NFC",
+    "Descricao": "VIDA, CIDADANIA E SUSTENTABILIDADE",
+    "Semestre": 99,
+    "Apelido": "VIDA, CIDADANIA E SUSTENTABILIDADE",
+    "CargaHorariaTeorico": 30,
+    "CargaHorariaPratica": null,
+    "ListaPrequisitos": []
+  }
+]

@@ -1,0 +1,2254 @@
+[
+  {
+    "Id": 52362,
+    "Codigo": "1919.000.461-9",
+    "Tipo": "OBR",
+    "Descricao": "ALGORITMOS E PROGRAMAÇÃO I",
+    "Semestre": 1,
+    "Apelido": "ALGORITMOS E PROGRAMAÇÃO I",
+    "CargaHorariaTeorico": 90,
+    "CargaHorariaPratica": null,
+    "ListaPrequisitos": []
+  },
+  {
+    "Id": 53260,
+    "Codigo": "2501.000.353-1",
+    "Tipo": "OBR",
+    "Descricao": "FUNDAMENTOS DA ADMINISTRAÇÃO",
+    "Semestre": 1,
+    "Apelido": "FUNDAMENTOS DA ADMINISTRAÇÃO",
+    "CargaHorariaTeorico": 60,
+    "CargaHorariaPratica": null,
+    "ListaPrequisitos": []
+  },
+  {
+    "Id": 56156,
+    "Codigo": "1919.000.587-7",
+    "Tipo": "OBR",
+    "Descricao": "FUNDAMENTOS MATEMÁTICOS PARA COMPUTAÇÃO",
+    "Semestre": 1,
+    "Apelido": "FUNDAMENTOS MATEMÁTICOS PARA COMPUTAÇÃO",
+    "CargaHorariaTeorico": 60,
+    "CargaHorariaPratica": null,
+    "ListaPrequisitos": []
+  },
+  {
+    "Id": 56098,
+    "Codigo": "1919.000.537-6",
+    "Tipo": "OBR",
+    "Descricao": "INTRODUÇÃO À COMPUTAÇÃO",
+    "Semestre": 1,
+    "Apelido": "INTRODUÇÃO À COMPUTAÇÃO",
+    "CargaHorariaTeorico": 30,
+    "CargaHorariaPratica": null,
+    "ListaPrequisitos": []
+  },
+  {
+    "Id": 52383,
+    "Codigo": "2201.000.258-4",
+    "Tipo": "OBR",
+    "Descricao": "MATEMÁTICA ELEMENTAR",
+    "Semestre": 1,
+    "Apelido": "MATEMÁTICA ELEMENTAR",
+    "CargaHorariaTeorico": 60,
+    "CargaHorariaPratica": null,
+    "ListaPrequisitos": []
+  },
+  {
+    "Id": 56141,
+    "Codigo": "1919.000.576-0",
+    "Tipo": "OBR",
+    "Descricao": "ALGORITMOS E PROGRAMAÇÃO II",
+    "Semestre": 2,
+    "Apelido": "ALGORITMOS E PROGRAMAÇÃO II",
+    "CargaHorariaTeorico": 90,
+    "CargaHorariaPratica": null,
+    "ListaPrequisitos": [
+      {
+        "Id": 52362,
+        "Codigo": "1919.000.461-9",
+        "Descricao": "ALGORITMOS E PROGRAMAÇÃO I",
+        "Semestre": "0",
+        "Apelido": "ALGORITMOS E PROGRAMAÇÃO I",
+        "CargaHorariaTeorico": 0,
+        "CargaHorariaPratica": 0,
+        "ListaPrequisitos": []
+      }
+    ]
+  },
+  {
+    "Id": 56057,
+    "Codigo": "1919.000.496-9",
+    "Tipo": "OBR",
+    "Descricao": "BANCO DE DADOS",
+    "Semestre": 2,
+    "Apelido": "BANCO DE DADOS",
+    "CargaHorariaTeorico": 60,
+    "CargaHorariaPratica": null,
+    "ListaPrequisitos": []
+  },
+  {
+    "Id": 54047,
+    "Codigo": "2501.000.410-9",
+    "Tipo": "OBR",
+    "Descricao": "COMPORTAMENTO HUMANO E ORGANIZACIONAL",
+    "Semestre": 2,
+    "Apelido": "COMPORTAMENTO HUMANO E ORGANIZACIONAL",
+    "CargaHorariaTeorico": 60,
+    "CargaHorariaPratica": null,
+    "ListaPrequisitos": []
+  },
+  {
+    "Id": 56027,
+    "Codigo": "1919.000.467-3",
+    "Tipo": "OBR",
+    "Descricao": "MODELAGEM DE PROCESSOS DE NEGÓCIO",
+    "Semestre": 2,
+    "Apelido": "MODELAGEM DE PROCESSOS DE NEGÓCIO",
+    "CargaHorariaTeorico": 60,
+    "CargaHorariaPratica": null,
+    "ListaPrequisitos": []
+  },
+  {
+    "Id": 56113,
+    "Codigo": "1919.000.551-8",
+    "Tipo": "OBR",
+    "Descricao": "ENGENHARIA DE SOFTWARE",
+    "Semestre": 3,
+    "Apelido": "ENGENHARIA DE SOFTWARE",
+    "CargaHorariaTeorico": 60,
+    "CargaHorariaPratica": null,
+    "ListaPrequisitos": []
+  },
+  {
+    "Id": 56029,
+    "Codigo": "2201.000.265-5",
+    "Tipo": "OBR",
+    "Descricao": "ESTATÍSTICA",
+    "Semestre": 3,
+    "Apelido": "ESTATÍSTICA",
+    "CargaHorariaTeorico": 60,
+    "CargaHorariaPratica": null,
+    "ListaPrequisitos": []
+  },
+  {
+    "Id": 53259,
+    "Codigo": "2501.000.352-2",
+    "Tipo": "OBR",
+    "Descricao": "GESTÃO ESTRATÉGICA",
+    "Semestre": 3,
+    "Apelido": "GESTÃO ESTRATÉGICA",
+    "CargaHorariaTeorico": 60,
+    "CargaHorariaPratica": null,
+    "ListaPrequisitos": []
+  },
+  {
+    "Id": 56127,
+    "Codigo": "1919.000.564-3",
+    "Tipo": "OBR",
+    "Descricao": "LINGUAGEM DE PROGRAMAÇÃO ORIENTADA A OBJETOS",
+    "Semestre": 3,
+    "Apelido": "LINGUAGEM DE PROGRAMAÇÃO ORIENTADA A OBJETOS",
+    "CargaHorariaTeorico": 60,
+    "CargaHorariaPratica": null,
+    "ListaPrequisitos": [
+      {
+        "Id": 52362,
+        "Codigo": "1919.000.461-9",
+        "Descricao": "ALGORITMOS E PROGRAMAÇÃO I",
+        "Semestre": "0",
+        "Apelido": "ALGORITMOS E PROGRAMAÇÃO I",
+        "CargaHorariaTeorico": 0,
+        "CargaHorariaPratica": 0,
+        "ListaPrequisitos": []
+      }
+    ]
+  },
+  {
+    "Id": 56044,
+    "Codigo": "1919.000.483-3",
+    "Tipo": "OBR",
+    "Descricao": "ORGANIZAÇÃO DE COMPUTADORES",
+    "Semestre": 3,
+    "Apelido": "ORGANIZAÇÃO DE COMPUTADORES",
+    "CargaHorariaTeorico": 60,
+    "CargaHorariaPratica": null,
+    "ListaPrequisitos": []
+  },
+  {
+    "Id": 56155,
+    "Codigo": "1919.000.586-8",
+    "Tipo": "OBR",
+    "Descricao": "ANÁLISE E PROJETO DE SOFTWARE ORIENTADO A OBJETOS",
+    "Semestre": 4,
+    "Apelido": "ANÁLISE E PROJETO DE SOFTWARE ORIENTADO A OBJETOS",
+    "CargaHorariaTeorico": 60,
+    "CargaHorariaPratica": null,
+    "ListaPrequisitos": [
+      {
+        "Id": 56127,
+        "Codigo": "1919.000.564-3",
+        "Descricao": "LINGUAGEM DE PROGRAMAÇÃO ORIENTADA A OBJETOS",
+        "Semestre": "0",
+        "Apelido": "LINGUAGEM DE PROGRAMAÇÃO ORIENTADA A OBJETOS",
+        "CargaHorariaTeorico": 0,
+        "CargaHorariaPratica": 0,
+        "ListaPrequisitos": []
+      }
+    ]
+  },
+  {
+    "Id": 56105,
+    "Codigo": "1919.000.543-8",
+    "Tipo": "OBR",
+    "Descricao": "ESTRUTURAS DE DADOS",
+    "Semestre": 4,
+    "Apelido": "ESTRUTURAS DE DADOS",
+    "CargaHorariaTeorico": 60,
+    "CargaHorariaPratica": null,
+    "ListaPrequisitos": [
+      {
+        "Id": 56141,
+        "Codigo": "1919.000.576-0",
+        "Descricao": "ALGORITMOS E PROGRAMAÇÃO II",
+        "Semestre": "0",
+        "Apelido": "ALGORITMOS E PROGRAMAÇÃO II",
+        "CargaHorariaTeorico": 0,
+        "CargaHorariaPratica": 0,
+        "ListaPrequisitos": []
+      }
+    ]
+  },
+  {
+    "Id": 56108,
+    "Codigo": "1919.000.546-5",
+    "Tipo": "OBR",
+    "Descricao": "GERÊNCIA DE PROJETOS",
+    "Semestre": 4,
+    "Apelido": "GERÊNCIA DE PROJETOS",
+    "CargaHorariaTeorico": 60,
+    "CargaHorariaPratica": null,
+    "ListaPrequisitos": []
+  },
+  {
+    "Id": 56059,
+    "Codigo": "1919.000.498-7",
+    "Tipo": "OBR",
+    "Descricao": "LABORATÓRIO DE BANCO DE DADOS",
+    "Semestre": 4,
+    "Apelido": "LABORATÓRIO DE BANCO DE DADOS",
+    "CargaHorariaTeorico": 60,
+    "CargaHorariaPratica": null,
+    "ListaPrequisitos": [
+      {
+        "Id": 56057,
+        "Codigo": "1919.000.496-9",
+        "Descricao": "BANCO DE DADOS",
+        "Semestre": "0",
+        "Apelido": "BANCO DE DADOS",
+        "CargaHorariaTeorico": 0,
+        "CargaHorariaPratica": 0,
+        "ListaPrequisitos": []
+      }
+    ]
+  },
+  {
+    "Id": 56126,
+    "Codigo": "1919.000.563-4",
+    "Tipo": "OBR",
+    "Descricao": "INTELIGÊNCIA ARTIFICIAL",
+    "Semestre": 5,
+    "Apelido": "INTELIGÊNCIA ARTIFICIAL",
+    "CargaHorariaTeorico": 60,
+    "CargaHorariaPratica": null,
+    "ListaPrequisitos": [
+      {
+        "Id": 56141,
+        "Codigo": "1919.000.576-0",
+        "Descricao": "ALGORITMOS E PROGRAMAÇÃO II",
+        "Semestre": "0",
+        "Apelido": "ALGORITMOS E PROGRAMAÇÃO II",
+        "CargaHorariaTeorico": 0,
+        "CargaHorariaPratica": 0,
+        "ListaPrequisitos": []
+      }
+    ]
+  },
+  {
+    "Id": 56030,
+    "Codigo": "1919.000.469-1",
+    "Tipo": "OBR",
+    "Descricao": "INTERAÇÃO HUMANO-COMPUTADOR",
+    "Semestre": 5,
+    "Apelido": "INTERAÇÃO HUMANO-COMPUTADOR",
+    "CargaHorariaTeorico": 60,
+    "CargaHorariaPratica": null,
+    "ListaPrequisitos": []
+  },
+  {
+    "Id": 56031,
+    "Codigo": "1919.000.470-8",
+    "Tipo": "OBR",
+    "Descricao": "INTRODUÇÃO A SISTEMAS OPERACIONAIS",
+    "Semestre": 5,
+    "Apelido": "INTRODUÇÃO A SISTEMAS OPERACIONAIS",
+    "CargaHorariaTeorico": 60,
+    "CargaHorariaPratica": null,
+    "ListaPrequisitos": [
+      {
+        "Id": 56141,
+        "Codigo": "1919.000.576-0",
+        "Descricao": "ALGORITMOS E PROGRAMAÇÃO II",
+        "Semestre": "0",
+        "Apelido": "ALGORITMOS E PROGRAMAÇÃO II",
+        "CargaHorariaTeorico": 0,
+        "CargaHorariaPratica": 0,
+        "ListaPrequisitos": []
+      }
+    ]
+  },
+  {
+    "Id": 56043,
+    "Codigo": "1919.000.482-4",
+    "Tipo": "OBR",
+    "Descricao": "PROGRAMAÇÃO PARA WEB",
+    "Semestre": 5,
+    "Apelido": "PROGRAMAÇÃO PARA WEB",
+    "CargaHorariaTeorico": 60,
+    "CargaHorariaPratica": null,
+    "ListaPrequisitos": [
+      {
+        "Id": 56127,
+        "Codigo": "1919.000.564-3",
+        "Descricao": "LINGUAGEM DE PROGRAMAÇÃO ORIENTADA A OBJETOS",
+        "Semestre": "0",
+        "Apelido": "LINGUAGEM DE PROGRAMAÇÃO ORIENTADA A OBJETOS",
+        "CargaHorariaTeorico": 0,
+        "CargaHorariaPratica": 0,
+        "ListaPrequisitos": []
+      }
+    ]
+  },
+  {
+    "Id": 56025,
+    "Codigo": "1919.000.465-5",
+    "Tipo": "OBR",
+    "Descricao": "FUNDAMENTOS DE REDES DE COMPUTADORES",
+    "Semestre": 6,
+    "Apelido": "FUNDAMENTOS DE REDES DE COMPUTADORES",
+    "CargaHorariaTeorico": 60,
+    "CargaHorariaPratica": null,
+    "ListaPrequisitos": [
+      {
+        "Id": 56044,
+        "Codigo": "1919.000.483-3",
+        "Descricao": "ORGANIZAÇÃO DE COMPUTADORES",
+        "Semestre": "0",
+        "Apelido": "ORGANIZAÇÃO DE COMPUTADORES",
+        "CargaHorariaTeorico": 0,
+        "CargaHorariaPratica": 0,
+        "ListaPrequisitos": []
+      }
+    ]
+  },
+  {
+    "Id": 56095,
+    "Codigo": "1919.000.534-9",
+    "Tipo": "OBR",
+    "Descricao": "GERÊNCIA DE CONFIGURAÇÃO DE SOFTWARE",
+    "Semestre": 6,
+    "Apelido": "GERÊNCIA DE CONFIGURAÇÃO DE SOFTWARE",
+    "CargaHorariaTeorico": 30,
+    "CargaHorariaPratica": null,
+    "ListaPrequisitos": [
+      {
+        "Id": 56113,
+        "Codigo": "1919.000.551-8",
+        "Descricao": "ENGENHARIA DE SOFTWARE",
+        "Semestre": "0",
+        "Apelido": "ENGENHARIA DE SOFTWARE",
+        "CargaHorariaTeorico": 0,
+        "CargaHorariaPratica": 0,
+        "ListaPrequisitos": []
+      }
+    ]
+  },
+  {
+    "Id": 56139,
+    "Codigo": "1919.000.574-1",
+    "Tipo": "OBR",
+    "Descricao": "QUALIDADE DE SOFTWARE",
+    "Semestre": 6,
+    "Apelido": "QUALIDADE DE SOFTWARE",
+    "CargaHorariaTeorico": 60,
+    "CargaHorariaPratica": null,
+    "ListaPrequisitos": [
+      {
+        "Id": 56113,
+        "Codigo": "1919.000.551-8",
+        "Descricao": "ENGENHARIA DE SOFTWARE",
+        "Semestre": "0",
+        "Apelido": "ENGENHARIA DE SOFTWARE",
+        "CargaHorariaTeorico": 0,
+        "CargaHorariaPratica": 0,
+        "ListaPrequisitos": []
+      }
+    ]
+  },
+  {
+    "Id": 56119,
+    "Codigo": "1919.000.557-2",
+    "Tipo": "OBR",
+    "Descricao": "TÉCNICAS AVANÇADAS DE DESENVOLVIMENTO DE SOFTWARE",
+    "Semestre": 6,
+    "Apelido": "TÉCNICAS AVANÇADAS DE DESENVOLVIMENTO DE SOFTWARE",
+    "CargaHorariaTeorico": 60,
+    "CargaHorariaPratica": null,
+    "ListaPrequisitos": [
+      {
+        "Id": 56043,
+        "Codigo": "1919.000.482-4",
+        "Descricao": "PROGRAMAÇÃO PARA WEB",
+        "Semestre": "0",
+        "Apelido": "PROGRAMAÇÃO PARA WEB",
+        "CargaHorariaTeorico": 0,
+        "CargaHorariaPratica": 0,
+        "ListaPrequisitos": []
+      }
+    ]
+  },
+  {
+    "Id": 56160,
+    "Codigo": "1919.000.591-0",
+    "Tipo": "OBR",
+    "Descricao": "COMPUTAÇÃO DISTRIBUÍDA",
+    "Semestre": 7,
+    "Apelido": "COMPUTAÇÃO DISTRIBUÍDA",
+    "CargaHorariaTeorico": 60,
+    "CargaHorariaPratica": null,
+    "ListaPrequisitos": [
+      {
+        "Id": 56031,
+        "Codigo": "1919.000.470-8",
+        "Descricao": "INTRODUÇÃO A SISTEMAS OPERACIONAIS",
+        "Semestre": "0",
+        "Apelido": "INTRODUÇÃO A SISTEMAS OPERACIONAIS",
+        "CargaHorariaTeorico": 0,
+        "CargaHorariaPratica": 0,
+        "ListaPrequisitos": []
+      }
+    ]
+  },
+  {
+    "Id": 56159,
+    "Codigo": "1919.000.590-1",
+    "Tipo": "OBR",
+    "Descricao": "COMPUTAÇÃO E SOCIEDADE",
+    "Semestre": 7,
+    "Apelido": "COMPUTAÇÃO E SOCIEDADE",
+    "CargaHorariaTeorico": 30,
+    "CargaHorariaPratica": null,
+    "ListaPrequisitos": []
+  },
+  {
+    "Id": 56045,
+    "Codigo": "1919.000.484-2",
+    "Tipo": "OBR",
+    "Descricao": "SISTEMAS DE APOIO À DECISÃO",
+    "Semestre": 7,
+    "Apelido": "SISTEMAS DE APOIO À DECISÃO",
+    "CargaHorariaTeorico": 60,
+    "CargaHorariaPratica": null,
+    "ListaPrequisitos": [
+      {
+        "Id": 56126,
+        "Codigo": "1919.000.563-4",
+        "Descricao": "INTELIGÊNCIA ARTIFICIAL",
+        "Semestre": "0",
+        "Apelido": "INTELIGÊNCIA ARTIFICIAL",
+        "CargaHorariaTeorico": 0,
+        "CargaHorariaPratica": 0,
+        "ListaPrequisitos": []
+      }
+    ]
+  },
+  {
+    "Id": 56026,
+    "Codigo": "1919.000.466-4",
+    "Tipo": "OBR",
+    "Descricao": "GOVERNANÇA DE TECNOLOGIA DA INFORMAÇÃO",
+    "Semestre": 8,
+    "Apelido": "GOVERNANÇA DE TECNOLOGIA DA INFORMAÇÃO",
+    "CargaHorariaTeorico": 60,
+    "CargaHorariaPratica": null,
+    "ListaPrequisitos": []
+  },
+  {
+    "Id": 56142,
+    "Codigo": "1919.000.577-9",
+    "Tipo": "OBR",
+    "Descricao": "SEGURANÇA E AUDITORIA DE SISTEMAS",
+    "Semestre": 8,
+    "Apelido": "SEGURANÇA E AUDITORIA DE SISTEMAS",
+    "CargaHorariaTeorico": 60,
+    "CargaHorariaPratica": null,
+    "ListaPrequisitos": []
+  },
+  {
+    "Id": 56148,
+    "Codigo": "1919.000.582-1",
+    "Tipo": "OPT",
+    "Descricao": "ADMINISTRAÇÃO DE SISTEMAS",
+    "Semestre": 99,
+    "Apelido": "ADMINISTRAÇÃO DE SISTEMAS",
+    "CargaHorariaTeorico": 60,
+    "CargaHorariaPratica": null,
+    "ListaPrequisitos": [
+      {
+        "Id": 56025,
+        "Codigo": "1919.000.465-5",
+        "Descricao": "FUNDAMENTOS DE REDES DE COMPUTADORES",
+        "Semestre": "0",
+        "Apelido": "FUNDAMENTOS DE REDES DE COMPUTADORES",
+        "CargaHorariaTeorico": 0,
+        "CargaHorariaPratica": 0,
+        "ListaPrequisitos": []
+      }
+    ]
+  },
+  {
+    "Id": 56068,
+    "Codigo": "1919.000.507-1",
+    "Tipo": "OPT",
+    "Descricao": "AGENTES INTELIGENTES",
+    "Semestre": 99,
+    "Apelido": "AGENTES INTELIGENTES",
+    "CargaHorariaTeorico": 60,
+    "CargaHorariaPratica": null,
+    "ListaPrequisitos": [
+      {
+        "Id": 56065,
+        "Codigo": "1919.000.504-4",
+        "Descricao": "REDES NEURAIS",
+        "Semestre": "0",
+        "Apelido": "REDES NEURAIS",
+        "CargaHorariaTeorico": 0,
+        "CargaHorariaPratica": 0,
+        "ListaPrequisitos": []
+      }
+    ]
+  },
+  {
+    "Id": 56103,
+    "Codigo": "1919.000.542-9",
+    "Tipo": "OPT",
+    "Descricao": "ANÁLISE FORENSE COMPUTACIONAL",
+    "Semestre": 99,
+    "Apelido": "ANÁLISE FORENSE COMPUTACIONAL",
+    "CargaHorariaTeorico": 60,
+    "CargaHorariaPratica": null,
+    "ListaPrequisitos": [
+      {
+        "Id": 56025,
+        "Codigo": "1919.000.465-5",
+        "Descricao": "FUNDAMENTOS DE REDES DE COMPUTADORES",
+        "Semestre": "0",
+        "Apelido": "FUNDAMENTOS DE REDES DE COMPUTADORES",
+        "CargaHorariaTeorico": 0,
+        "CargaHorariaPratica": 0,
+        "ListaPrequisitos": []
+      }
+    ]
+  },
+  {
+    "Id": 56071,
+    "Codigo": "1919.000.510-6",
+    "Tipo": "OPT",
+    "Descricao": "APRENDIZADO DE MÁQUINA NÃO SUPERVISIONADO",
+    "Semestre": 99,
+    "Apelido": "APRENDIZADO DE MÁQUINA NÃO SUPERVISIONADO",
+    "CargaHorariaTeorico": 60,
+    "CargaHorariaPratica": null,
+    "ListaPrequisitos": [
+      {
+        "Id": 56029,
+        "Codigo": "2201.000.265-5",
+        "Descricao": "ESTATÍSTICA",
+        "Semestre": "0",
+        "Apelido": "ESTATÍSTICA",
+        "CargaHorariaTeorico": 0,
+        "CargaHorariaPratica": 0,
+        "ListaPrequisitos": []
+      }
+    ]
+  },
+  {
+    "Id": 56069,
+    "Codigo": "1919.000.508-0",
+    "Tipo": "OPT",
+    "Descricao": "APRENDIZADO DE MÁQUINA POR REFORÇO",
+    "Semestre": 99,
+    "Apelido": "APRENDIZADO DE MÁQUINA POR REFORÇO",
+    "CargaHorariaTeorico": 60,
+    "CargaHorariaPratica": null,
+    "ListaPrequisitos": [
+      {
+        "Id": 56126,
+        "Codigo": "1919.000.563-4",
+        "Descricao": "INTELIGÊNCIA ARTIFICIAL",
+        "Semestre": "0",
+        "Apelido": "INTELIGÊNCIA ARTIFICIAL",
+        "CargaHorariaTeorico": 0,
+        "CargaHorariaPratica": 0,
+        "ListaPrequisitos": []
+      }
+    ]
+  },
+  {
+    "Id": 56073,
+    "Codigo": "1919.000.512-4",
+    "Tipo": "OPT",
+    "Descricao": "APRENDIZADO DE MÁQUINA SUPERVISIONADO",
+    "Semestre": 99,
+    "Apelido": "APRENDIZADO DE MÁQUINA SUPERVISIONADO",
+    "CargaHorariaTeorico": 60,
+    "CargaHorariaPratica": null,
+    "ListaPrequisitos": [
+      {
+        "Id": 52362,
+        "Codigo": "1919.000.461-9",
+        "Descricao": "ALGORITMOS E PROGRAMAÇÃO I",
+        "Semestre": "0",
+        "Apelido": "ALGORITMOS E PROGRAMAÇÃO I",
+        "CargaHorariaTeorico": 0,
+        "CargaHorariaPratica": 0,
+        "ListaPrequisitos": []
+      }
+    ]
+  },
+  {
+    "Id": 56133,
+    "Codigo": "1919.000.570-5",
+    "Tipo": "OPT",
+    "Descricao": "ARQUITETURA DE SOFTWARE",
+    "Semestre": 99,
+    "Apelido": "ARQUITETURA DE SOFTWARE",
+    "CargaHorariaTeorico": 60,
+    "CargaHorariaPratica": null,
+    "ListaPrequisitos": [
+      {
+        "Id": 56155,
+        "Codigo": "1919.000.586-8",
+        "Descricao": "ANÁLISE E PROJETO DE SOFTWARE ORIENTADO A OBJETOS",
+        "Semestre": "0",
+        "Apelido": "ANÁLISE E PROJETO DE SOFTWARE ORIENTADO A OBJETOS",
+        "CargaHorariaTeorico": 0,
+        "CargaHorariaPratica": 0,
+        "ListaPrequisitos": []
+      }
+    ]
+  },
+  {
+    "Id": 52366,
+    "Codigo": "2101.001.614-9",
+    "Tipo": "OPT",
+    "Descricao": "CIÊNCIAS DO AMBIENTE",
+    "Semestre": 99,
+    "Apelido": "CIÊNCIAS DO AMBIENTE",
+    "CargaHorariaTeorico": 30,
+    "CargaHorariaPratica": null,
+    "ListaPrequisitos": []
+  },
+  {
+    "Id": 56112,
+    "Codigo": "1919.000.550-9",
+    "Tipo": "OPT",
+    "Descricao": "COMUNICAÇÃO E TRANSMISSÃO DE DADOS",
+    "Semestre": 99,
+    "Apelido": "COMUNICAÇÃO E TRANSMISSÃO DE DADOS",
+    "CargaHorariaTeorico": 30,
+    "CargaHorariaPratica": null,
+    "ListaPrequisitos": []
+  },
+  {
+    "Id": 56041,
+    "Codigo": "1919.000.480-6",
+    "Tipo": "OPT",
+    "Descricao": "CONFIABILIDADE EM SISTEMAS DE SOFTWARE",
+    "Semestre": 99,
+    "Apelido": "CONFIABILIDADE EM SISTEMAS DE SOFTWARE",
+    "CargaHorariaTeorico": 60,
+    "CargaHorariaPratica": null,
+    "ListaPrequisitos": [
+      {
+        "Id": 56155,
+        "Codigo": "1919.000.586-8",
+        "Descricao": "ANÁLISE E PROJETO DE SOFTWARE ORIENTADO A OBJETOS",
+        "Semestre": "0",
+        "Apelido": "ANÁLISE E PROJETO DE SOFTWARE ORIENTADO A OBJETOS",
+        "CargaHorariaTeorico": 0,
+        "CargaHorariaPratica": 0,
+        "ListaPrequisitos": []
+      }
+    ]
+  },
+  {
+    "Id": 56117,
+    "Codigo": "1919.000.555-4",
+    "Tipo": "OPT",
+    "Descricao": "CONSTRUÇÃO DE SOFTWARE",
+    "Semestre": 99,
+    "Apelido": "CONSTRUÇÃO DE SOFTWARE",
+    "CargaHorariaTeorico": 90,
+    "CargaHorariaPratica": null,
+    "ListaPrequisitos": [
+      {
+        "Id": 56155,
+        "Codigo": "1919.000.586-8",
+        "Descricao": "ANÁLISE E PROJETO DE SOFTWARE ORIENTADO A OBJETOS",
+        "Semestre": "0",
+        "Apelido": "ANÁLISE E PROJETO DE SOFTWARE ORIENTADO A OBJETOS",
+        "CargaHorariaTeorico": 0,
+        "CargaHorariaPratica": 0,
+        "ListaPrequisitos": []
+      }
+    ]
+  },
+  {
+    "Id": 56121,
+    "Codigo": "1919.000.559-0",
+    "Tipo": "OPT",
+    "Descricao": "DESAFIOS DE PROGRAMAÇÃO",
+    "Semestre": 99,
+    "Apelido": "DESAFIOS DE PROGRAMAÇÃO",
+    "CargaHorariaTeorico": 60,
+    "CargaHorariaPratica": null,
+    "ListaPrequisitos": [
+      {
+        "Id": 56141,
+        "Codigo": "1919.000.576-0",
+        "Descricao": "ALGORITMOS E PROGRAMAÇÃO II",
+        "Semestre": "0",
+        "Apelido": "ALGORITMOS E PROGRAMAÇÃO II",
+        "CargaHorariaTeorico": 0,
+        "CargaHorariaPratica": 0,
+        "ListaPrequisitos": []
+      }
+    ]
+  },
+  {
+    "Id": 56110,
+    "Codigo": "1919.000.548-3",
+    "Tipo": "OPT",
+    "Descricao": "DESAFIOS DE PROGRAMAÇÃO II",
+    "Semestre": 99,
+    "Apelido": "DESAFIOS DE PROGRAMAÇÃO II",
+    "CargaHorariaTeorico": 60,
+    "CargaHorariaPratica": null,
+    "ListaPrequisitos": [
+      {
+        "Id": 56141,
+        "Codigo": "1919.000.576-0",
+        "Descricao": "ALGORITMOS E PROGRAMAÇÃO II",
+        "Semestre": "0",
+        "Apelido": "ALGORITMOS E PROGRAMAÇÃO II",
+        "CargaHorariaTeorico": 0,
+        "CargaHorariaPratica": 0,
+        "ListaPrequisitos": []
+      }
+    ]
+  },
+  {
+    "Id": 56147,
+    "Codigo": "1919.000.581-2",
+    "Tipo": "OPT",
+    "Descricao": "DESENVOLVIMENTO DE LINHAS DE PRODUTO DE SOFTWARE",
+    "Semestre": 99,
+    "Apelido": "DESENVOLVIMENTO DE LINHAS DE PRODUTO DE SOFTWARE",
+    "CargaHorariaTeorico": 60,
+    "CargaHorariaPratica": null,
+    "ListaPrequisitos": [
+      {
+        "Id": 56155,
+        "Codigo": "1919.000.586-8",
+        "Descricao": "ANÁLISE E PROJETO DE SOFTWARE ORIENTADO A OBJETOS",
+        "Semestre": "0",
+        "Apelido": "ANÁLISE E PROJETO DE SOFTWARE ORIENTADO A OBJETOS",
+        "CargaHorariaTeorico": 0,
+        "CargaHorariaPratica": 0,
+        "ListaPrequisitos": []
+      }
+    ]
+  },
+  {
+    "Id": 56150,
+    "Codigo": "2001.000.434-2",
+    "Tipo": "OPT",
+    "Descricao": "DIREITOS HUMANOS",
+    "Semestre": 99,
+    "Apelido": "DIREITOS HUMANOS",
+    "CargaHorariaTeorico": 60,
+    "CargaHorariaPratica": null,
+    "ListaPrequisitos": []
+  },
+  {
+    "Id": 52887,
+    "Codigo": "3001.000.747-9",
+    "Tipo": "OPT",
+    "Descricao": "EDUCAÇÃO DAS RELAÇÕES ÉTNICO-RACIAIS",
+    "Semestre": 99,
+    "Apelido": "EDUCAÇÃO DAS RELAÇÕES ÉTNICO-RACIAIS",
+    "CargaHorariaTeorico": 30,
+    "CargaHorariaPratica": null,
+    "ListaPrequisitos": []
+  },
+  {
+    "Id": 56151,
+    "Codigo": "2101.001.732-4",
+    "Tipo": "OPT",
+    "Descricao": "ELETRICIDADE",
+    "Semestre": 99,
+    "Apelido": "ELETRICIDADE",
+    "CargaHorariaTeorico": 45,
+    "CargaHorariaPratica": null,
+    "ListaPrequisitos": []
+  },
+  {
+    "Id": 52308,
+    "Codigo": "0100.000.003-0",
+    "Tipo": "NFC",
+    "Descricao": "EMPREENDEDORISMO E INOVAÇÃO",
+    "Semestre": 99,
+    "Apelido": "EMPREENDEDORISMO E INOVAÇÃO",
+    "CargaHorariaTeorico": 30,
+    "CargaHorariaPratica": null,
+    "ListaPrequisitos": []
+  },
+  {
+    "Id": 56138,
+    "Codigo": "1919.000.573-2",
+    "Tipo": "OPT",
+    "Descricao": "ENGENHARIA DE REQUISITOS",
+    "Semestre": 99,
+    "Apelido": "ENGENHARIA DE REQUISITOS",
+    "CargaHorariaTeorico": 60,
+    "CargaHorariaPratica": null,
+    "ListaPrequisitos": []
+  },
+  {
+    "Id": 56028,
+    "Codigo": "1919.000.468-2",
+    "Tipo": "OPT",
+    "Descricao": "ENGENHARIA DE SOFTWARE EXPERIMENTAL",
+    "Semestre": 99,
+    "Apelido": "ENGENHARIA DE SOFTWARE EXPERIMENTAL",
+    "CargaHorariaTeorico": 60,
+    "CargaHorariaPratica": null,
+    "ListaPrequisitos": [
+      {
+        "Id": 56029,
+        "Codigo": "2201.000.265-5",
+        "Descricao": "ESTATÍSTICA",
+        "Semestre": "0",
+        "Apelido": "ESTATÍSTICA",
+        "CargaHorariaTeorico": 0,
+        "CargaHorariaPratica": 0,
+        "ListaPrequisitos": []
+      },
+      {
+        "Id": 56039,
+        "Codigo": "1919.000.478-0",
+        "Descricao": "MEDIÇÃO DE SOFTWARE",
+        "Semestre": "0",
+        "Apelido": "MEDIÇÃO DE SOFTWARE",
+        "CargaHorariaTeorico": 0,
+        "CargaHorariaPratica": 0,
+        "ListaPrequisitos": []
+      }
+    ]
+  },
+  {
+    "Id": 52303,
+    "Codigo": "3101.000.707-8",
+    "Tipo": "OPT",
+    "Descricao": "ESTUDO DE LIBRAS",
+    "Semestre": 99,
+    "Apelido": "ESTUDO DE LIBRAS",
+    "CargaHorariaTeorico": 45,
+    "CargaHorariaPratica": null,
+    "ListaPrequisitos": []
+  },
+  {
+    "Id": 56162,
+    "Codigo": "1919.000.593-9",
+    "Tipo": "OPT",
+    "Descricao": "FUNDAMENTOS DE TEORIA DA COMPUTAÇÃO",
+    "Semestre": 99,
+    "Apelido": "FUNDAMENTOS DE TEORIA DA COMPUTAÇÃO",
+    "CargaHorariaTeorico": 60,
+    "CargaHorariaPratica": null,
+    "ListaPrequisitos": []
+  },
+  {
+    "Id": 56070,
+    "Codigo": "1919.000.509-0",
+    "Tipo": "OPT",
+    "Descricao": "GERÊNCIA DE CONFIGURAÇÃO APLICADA À INTELIGÊNCIA ARTIFICIAL",
+    "Semestre": 99,
+    "Apelido": "GERÊNCIA DE CONFIGURAÇÃO APLICADA À INTELIGÊNCIA ARTIFICIAL",
+    "CargaHorariaTeorico": 60,
+    "CargaHorariaPratica": null,
+    "ListaPrequisitos": [
+      {
+        "Id": 56113,
+        "Codigo": "1919.000.551-8",
+        "Descricao": "ENGENHARIA DE SOFTWARE",
+        "Semestre": "0",
+        "Apelido": "ENGENHARIA DE SOFTWARE",
+        "CargaHorariaTeorico": 0,
+        "CargaHorariaPratica": 0,
+        "ListaPrequisitos": []
+      }
+    ]
+  },
+  {
+    "Id": 56023,
+    "Codigo": "1919.000.463-7",
+    "Tipo": "OPT",
+    "Descricao": "GERENCIAMENTO DE SERVIÇOS DE TECNOLOGIA DA INFORMAÇÃO",
+    "Semestre": 99,
+    "Apelido": "GERENCIAMENTO DE SERVIÇOS DE TECNOLOGIA DA INFORMAÇÃO",
+    "CargaHorariaTeorico": 60,
+    "CargaHorariaPratica": null,
+    "ListaPrequisitos": []
+  },
+  {
+    "Id": 56061,
+    "Codigo": "1919.000.500-8",
+    "Tipo": "OPT",
+    "Descricao": "GRANDES MODELOS DE LINGUAGEM",
+    "Semestre": 99,
+    "Apelido": "GRANDES MODELOS DE LINGUAGEM",
+    "CargaHorariaTeorico": 60,
+    "CargaHorariaPratica": null,
+    "ListaPrequisitos": [
+      {
+        "Id": 56065,
+        "Codigo": "1919.000.504-4",
+        "Descricao": "REDES NEURAIS",
+        "Semestre": "0",
+        "Apelido": "REDES NEURAIS",
+        "CargaHorariaTeorico": 0,
+        "CargaHorariaPratica": 0,
+        "ListaPrequisitos": []
+      }
+    ]
+  },
+  {
+    "Id": 56036,
+    "Codigo": "1919.000.475-3",
+    "Tipo": "OPT",
+    "Descricao": "IMPLEMENTAÇÃO ALGORÍTMICA",
+    "Semestre": 99,
+    "Apelido": "IMPLEMENTAÇÃO ALGORÍTMICA",
+    "CargaHorariaTeorico": 60,
+    "CargaHorariaPratica": null,
+    "ListaPrequisitos": [
+      {
+        "Id": 56141,
+        "Codigo": "1919.000.576-0",
+        "Descricao": "ALGORITMOS E PROGRAMAÇÃO II",
+        "Semestre": "0",
+        "Apelido": "ALGORITMOS E PROGRAMAÇÃO II",
+        "CargaHorariaTeorico": 0,
+        "CargaHorariaPratica": 0,
+        "ListaPrequisitos": []
+      }
+    ]
+  },
+  {
+    "Id": 56164,
+    "Codigo": "1919.000.595-7",
+    "Tipo": "OPT",
+    "Descricao": "INTRODUÇÃO À BIOINFORMÁTICA",
+    "Semestre": 99,
+    "Apelido": "INTRODUÇÃO À BIOINFORMÁTICA",
+    "CargaHorariaTeorico": 60,
+    "CargaHorariaPratica": null,
+    "ListaPrequisitos": []
+  },
+  {
+    "Id": 56146,
+    "Codigo": "2501.000.581-2",
+    "Tipo": "OPT",
+    "Descricao": "INTRODUÇÃO À CONTABILIDADE",
+    "Semestre": 99,
+    "Apelido": "INTRODUÇÃO À CONTABILIDADE",
+    "CargaHorariaTeorico": 60,
+    "CargaHorariaPratica": null,
+    "ListaPrequisitos": []
+  },
+  {
+    "Id": 56032,
+    "Codigo": "1919.000.471-7",
+    "Tipo": "OPT",
+    "Descricao": "INTRODUÇÃO À CRIPTOGRAFIA COMPUTACIONAL",
+    "Semestre": 99,
+    "Apelido": "INTRODUÇÃO À CRIPTOGRAFIA COMPUTACIONAL",
+    "CargaHorariaTeorico": 60,
+    "CargaHorariaPratica": null,
+    "ListaPrequisitos": [
+      {
+        "Id": 56141,
+        "Codigo": "1919.000.576-0",
+        "Descricao": "ALGORITMOS E PROGRAMAÇÃO II",
+        "Semestre": "0",
+        "Apelido": "ALGORITMOS E PROGRAMAÇÃO II",
+        "CargaHorariaTeorico": 0,
+        "CargaHorariaPratica": 0,
+        "ListaPrequisitos": []
+      },
+      {
+        "Id": 56156,
+        "Codigo": "1919.000.587-7",
+        "Descricao": "FUNDAMENTOS MATEMÁTICOS PARA COMPUTAÇÃO",
+        "Semestre": "0",
+        "Apelido": "FUNDAMENTOS MATEMÁTICOS PARA COMPUTAÇÃO",
+        "CargaHorariaTeorico": 0,
+        "CargaHorariaPratica": 0,
+        "ListaPrequisitos": []
+      }
+    ]
+  },
+  {
+    "Id": 56149,
+    "Codigo": "2501.000.582-1",
+    "Tipo": "OPT",
+    "Descricao": "INTRODUÇÃO À ECONOMIA",
+    "Semestre": 99,
+    "Apelido": "INTRODUÇÃO À ECONOMIA",
+    "CargaHorariaTeorico": 60,
+    "CargaHorariaPratica": null,
+    "ListaPrequisitos": []
+  },
+  {
+    "Id": 56123,
+    "Codigo": "2201.000.266-4",
+    "Tipo": "OPT",
+    "Descricao": "INTRODUÇÃO AO CÁLCULO",
+    "Semestre": 99,
+    "Apelido": "INTRODUÇÃO AO CÁLCULO",
+    "CargaHorariaTeorico": 90,
+    "CargaHorariaPratica": null,
+    "ListaPrequisitos": []
+  },
+  {
+    "Id": 56136,
+    "Codigo": "3001.000.761-0",
+    "Tipo": "OPT",
+    "Descricao": "INTRODUÇÃO À PSICOLOGIA",
+    "Semestre": 99,
+    "Apelido": "INTRODUÇÃO À PSICOLOGIA",
+    "CargaHorariaTeorico": 60,
+    "CargaHorariaPratica": null,
+    "ListaPrequisitos": []
+  },
+  {
+    "Id": 56104,
+    "Codigo": "3001.000.760-1",
+    "Tipo": "OPT",
+    "Descricao": "INTRODUÇÃO ÀS CIÊNCIAS SOCIAIS E POLÍTICAS",
+    "Semestre": 99,
+    "Apelido": "INTRODUÇÃO ÀS CIÊNCIAS SOCIAIS E POLÍTICAS",
+    "CargaHorariaTeorico": 60,
+    "CargaHorariaPratica": null,
+    "ListaPrequisitos": []
+  },
+  {
+    "Id": 56154,
+    "Codigo": "1919.000.585-9",
+    "Tipo": "OPT",
+    "Descricao": "INTRODUÇÃO A SISTEMAS DIGITAIS",
+    "Semestre": 99,
+    "Apelido": "INTRODUÇÃO A SISTEMAS DIGITAIS",
+    "CargaHorariaTeorico": 30,
+    "CargaHorariaPratica": null,
+    "ListaPrequisitos": []
+  },
+  {
+    "Id": 56143,
+    "Codigo": "1919.000.578-8",
+    "Tipo": "OPT",
+    "Descricao": "MANUTENÇÃO DE SOFTWARE",
+    "Semestre": 99,
+    "Apelido": "MANUTENÇÃO DE SOFTWARE",
+    "CargaHorariaTeorico": 30,
+    "CargaHorariaPratica": null,
+    "ListaPrequisitos": [
+      {
+        "Id": 56113,
+        "Codigo": "1919.000.551-8",
+        "Descricao": "ENGENHARIA DE SOFTWARE",
+        "Semestre": "0",
+        "Apelido": "ENGENHARIA DE SOFTWARE",
+        "CargaHorariaTeorico": 0,
+        "CargaHorariaPratica": 0,
+        "ListaPrequisitos": []
+      }
+    ]
+  },
+  {
+    "Id": 56039,
+    "Codigo": "1919.000.478-0",
+    "Tipo": "OPT",
+    "Descricao": "MEDIÇÃO DE SOFTWARE",
+    "Semestre": 99,
+    "Apelido": "MEDIÇÃO DE SOFTWARE",
+    "CargaHorariaTeorico": 30,
+    "CargaHorariaPratica": null,
+    "ListaPrequisitos": [
+      {
+        "Id": 56113,
+        "Codigo": "1919.000.551-8",
+        "Descricao": "ENGENHARIA DE SOFTWARE",
+        "Semestre": "0",
+        "Apelido": "ENGENHARIA DE SOFTWARE",
+        "CargaHorariaTeorico": 0,
+        "CargaHorariaPratica": 0,
+        "ListaPrequisitos": []
+      }
+    ]
+  },
+  {
+    "Id": 56107,
+    "Codigo": "1919.000.545-6",
+    "Tipo": "OPT",
+    "Descricao": "MELHORIA DE PROCESSOS DE SOFTWARE",
+    "Semestre": 99,
+    "Apelido": "MELHORIA DE PROCESSOS DE SOFTWARE",
+    "CargaHorariaTeorico": 30,
+    "CargaHorariaPratica": null,
+    "ListaPrequisitos": []
+  },
+  {
+    "Id": 56137,
+    "Codigo": "3001.000.762-0",
+    "Tipo": "OPT",
+    "Descricao": "METODOLOGIA CIENTÍFICA",
+    "Semestre": 99,
+    "Apelido": "METODOLOGIA CIENTÍFICA",
+    "CargaHorariaTeorico": 30,
+    "CargaHorariaPratica": null,
+    "ListaPrequisitos": []
+  },
+  {
+    "Id": 56116,
+    "Codigo": "1919.000.554-5",
+    "Tipo": "OPT",
+    "Descricao": "METODOLOGIA CIENTÍFICA PARA COMPUTAÇÃO",
+    "Semestre": 99,
+    "Apelido": "METODOLOGIA CIENTÍFICA PARA COMPUTAÇÃO",
+    "CargaHorariaTeorico": 60,
+    "CargaHorariaPratica": null,
+    "ListaPrequisitos": []
+  },
+  {
+    "Id": 56062,
+    "Codigo": "1919.000.501-7",
+    "Tipo": "OPT",
+    "Descricao": "MINERAÇÃO DE DADOS",
+    "Semestre": 99,
+    "Apelido": "MINERAÇÃO DE DADOS",
+    "CargaHorariaTeorico": 60,
+    "CargaHorariaPratica": null,
+    "ListaPrequisitos": [
+      {
+        "Id": 56126,
+        "Codigo": "1919.000.563-4",
+        "Descricao": "INTELIGÊNCIA ARTIFICIAL",
+        "Semestre": "0",
+        "Apelido": "INTELIGÊNCIA ARTIFICIAL",
+        "CargaHorariaTeorico": 0,
+        "CargaHorariaPratica": 0,
+        "ListaPrequisitos": []
+      }
+    ]
+  },
+  {
+    "Id": 56063,
+    "Codigo": "1919.000.502-6",
+    "Tipo": "OPT",
+    "Descricao": "PROCESSAMENTO DE IMAGENS",
+    "Semestre": 99,
+    "Apelido": "PROCESSAMENTO DE IMAGENS",
+    "CargaHorariaTeorico": 60,
+    "CargaHorariaPratica": null,
+    "ListaPrequisitos": [
+      {
+        "Id": 56126,
+        "Codigo": "1919.000.563-4",
+        "Descricao": "INTELIGÊNCIA ARTIFICIAL",
+        "Semestre": "0",
+        "Apelido": "INTELIGÊNCIA ARTIFICIAL",
+        "CargaHorariaTeorico": 0,
+        "CargaHorariaPratica": 0,
+        "ListaPrequisitos": []
+      }
+    ]
+  },
+  {
+    "Id": 56064,
+    "Codigo": "1919.000.503-5",
+    "Tipo": "OPT",
+    "Descricao": "PROCESSAMENTO DE LINGUAGEM NATURAL",
+    "Semestre": 99,
+    "Apelido": "PROCESSAMENTO DE LINGUAGEM NATURAL",
+    "CargaHorariaTeorico": 60,
+    "CargaHorariaPratica": null,
+    "ListaPrequisitos": [
+      {
+        "Id": 56073,
+        "Codigo": "1919.000.512-4",
+        "Descricao": "APRENDIZADO DE MÁQUINA SUPERVISIONADO",
+        "Semestre": "0",
+        "Apelido": "APRENDIZADO DE MÁQUINA SUPERVISIONADO",
+        "CargaHorariaTeorico": 0,
+        "CargaHorariaPratica": 0,
+        "ListaPrequisitos": []
+      }
+    ]
+  },
+  {
+    "Id": 56055,
+    "Codigo": "1919.000.494-0",
+    "Tipo": "OPT",
+    "Descricao": "PROGRAMAÇÃO MULTI-CORE",
+    "Semestre": 99,
+    "Apelido": "PROGRAMAÇÃO MULTI-CORE",
+    "CargaHorariaTeorico": 60,
+    "CargaHorariaPratica": null,
+    "ListaPrequisitos": [
+      {
+        "Id": 56105,
+        "Codigo": "1919.000.543-8",
+        "Descricao": "ESTRUTURAS DE DADOS",
+        "Semestre": "0",
+        "Apelido": "ESTRUTURAS DE DADOS",
+        "CargaHorariaTeorico": 0,
+        "CargaHorariaPratica": 0,
+        "ListaPrequisitos": []
+      }
+    ]
+  },
+  {
+    "Id": 56053,
+    "Codigo": "1919.000.492-2",
+    "Tipo": "OPT",
+    "Descricao": "PROGRAMAÇÃO PARA DISPOSITIVOS MÓVEIS",
+    "Semestre": 99,
+    "Apelido": "PROGRAMAÇÃO PARA DISPOSITIVOS MÓVEIS",
+    "CargaHorariaTeorico": 60,
+    "CargaHorariaPratica": null,
+    "ListaPrequisitos": [
+      {
+        "Id": 56127,
+        "Codigo": "1919.000.564-3",
+        "Descricao": "LINGUAGEM DE PROGRAMAÇÃO ORIENTADA A OBJETOS",
+        "Semestre": "0",
+        "Apelido": "LINGUAGEM DE PROGRAMAÇÃO ORIENTADA A OBJETOS",
+        "CargaHorariaTeorico": 0,
+        "CargaHorariaPratica": 0,
+        "ListaPrequisitos": []
+      }
+    ]
+  },
+  {
+    "Id": 56130,
+    "Codigo": "1919.000.567-0",
+    "Tipo": "OPT",
+    "Descricao": "PROGRAMAÇÃO PARALELA",
+    "Semestre": 99,
+    "Apelido": "PROGRAMAÇÃO PARALELA",
+    "CargaHorariaTeorico": 60,
+    "CargaHorariaPratica": null,
+    "ListaPrequisitos": [
+      {
+        "Id": 56105,
+        "Codigo": "1919.000.543-8",
+        "Descricao": "ESTRUTURAS DE DADOS",
+        "Semestre": "0",
+        "Apelido": "ESTRUTURAS DE DADOS",
+        "CargaHorariaTeorico": 0,
+        "CargaHorariaPratica": 0,
+        "ListaPrequisitos": []
+      }
+    ]
+  },
+  {
+    "Id": 56034,
+    "Codigo": "1919.000.473-5",
+    "Tipo": "OPT",
+    "Descricao": "PROGRAMAÇÃO PARA REDES",
+    "Semestre": 99,
+    "Apelido": "PROGRAMAÇÃO PARA REDES",
+    "CargaHorariaTeorico": 30,
+    "CargaHorariaPratica": null,
+    "ListaPrequisitos": [
+      {
+        "Id": 56031,
+        "Codigo": "1919.000.470-8",
+        "Descricao": "INTRODUÇÃO A SISTEMAS OPERACIONAIS",
+        "Semestre": "0",
+        "Apelido": "INTRODUÇÃO A SISTEMAS OPERACIONAIS",
+        "CargaHorariaTeorico": 0,
+        "CargaHorariaPratica": 0,
+        "ListaPrequisitos": []
+      }
+    ]
+  },
+  {
+    "Id": 56163,
+    "Codigo": "1919.000.594-8",
+    "Tipo": "OPT",
+    "Descricao": "PROJETO E ANÁLISE DE ALGORITMOS I",
+    "Semestre": 99,
+    "Apelido": "PROJETO E ANÁLISE DE ALGORITMOS I",
+    "CargaHorariaTeorico": 60,
+    "CargaHorariaPratica": null,
+    "ListaPrequisitos": [
+      {
+        "Id": 56141,
+        "Codigo": "1919.000.576-0",
+        "Descricao": "ALGORITMOS E PROGRAMAÇÃO II",
+        "Semestre": "0",
+        "Apelido": "ALGORITMOS E PROGRAMAÇÃO II",
+        "CargaHorariaTeorico": 0,
+        "CargaHorariaPratica": 0,
+        "ListaPrequisitos": []
+      },
+      {
+        "Id": 56162,
+        "Codigo": "1919.000.593-9",
+        "Descricao": "FUNDAMENTOS DE TEORIA DA COMPUTAÇÃO",
+        "Semestre": "0",
+        "Apelido": "FUNDAMENTOS DE TEORIA DA COMPUTAÇÃO",
+        "CargaHorariaTeorico": 0,
+        "CargaHorariaPratica": 0,
+        "ListaPrequisitos": []
+      }
+    ]
+  },
+  {
+    "Id": 56101,
+    "Codigo": "1919.000.540-0",
+    "Tipo": "OPT",
+    "Descricao": "REDES DEFINIDAS POR SOFTWARE",
+    "Semestre": 99,
+    "Apelido": "REDES DEFINIDAS POR SOFTWARE",
+    "CargaHorariaTeorico": 60,
+    "CargaHorariaPratica": null,
+    "ListaPrequisitos": [
+      {
+        "Id": 56025,
+        "Codigo": "1919.000.465-5",
+        "Descricao": "FUNDAMENTOS DE REDES DE COMPUTADORES",
+        "Semestre": "0",
+        "Apelido": "FUNDAMENTOS DE REDES DE COMPUTADORES",
+        "CargaHorariaTeorico": 0,
+        "CargaHorariaPratica": 0,
+        "ListaPrequisitos": []
+      }
+    ]
+  },
+  {
+    "Id": 56065,
+    "Codigo": "1919.000.504-4",
+    "Tipo": "OPT",
+    "Descricao": "REDES NEURAIS",
+    "Semestre": 99,
+    "Apelido": "REDES NEURAIS",
+    "CargaHorariaTeorico": 60,
+    "CargaHorariaPratica": null,
+    "ListaPrequisitos": [
+      {
+        "Id": 56126,
+        "Codigo": "1919.000.563-4",
+        "Descricao": "INTELIGÊNCIA ARTIFICIAL",
+        "Semestre": "0",
+        "Apelido": "INTELIGÊNCIA ARTIFICIAL",
+        "CargaHorariaTeorico": 0,
+        "CargaHorariaPratica": 0,
+        "ListaPrequisitos": []
+      }
+    ]
+  },
+  {
+    "Id": 56056,
+    "Codigo": "1919.000.495-0",
+    "Tipo": "OPT",
+    "Descricao": "REDES SEM FIO",
+    "Semestre": 99,
+    "Apelido": "REDES SEM FIO",
+    "CargaHorariaTeorico": 30,
+    "CargaHorariaPratica": null,
+    "ListaPrequisitos": [
+      {
+        "Id": 56025,
+        "Codigo": "1919.000.465-5",
+        "Descricao": "FUNDAMENTOS DE REDES DE COMPUTADORES",
+        "Semestre": "0",
+        "Apelido": "FUNDAMENTOS DE REDES DE COMPUTADORES",
+        "CargaHorariaTeorico": 0,
+        "CargaHorariaPratica": 0,
+        "ListaPrequisitos": []
+      }
+    ]
+  },
+  {
+    "Id": 56099,
+    "Codigo": "1919.000.538-5",
+    "Tipo": "OPT",
+    "Descricao": "SEGURANÇA DE REDES",
+    "Semestre": 99,
+    "Apelido": "SEGURANÇA DE REDES",
+    "CargaHorariaTeorico": 60,
+    "CargaHorariaPratica": null,
+    "ListaPrequisitos": [
+      {
+        "Id": 56025,
+        "Codigo": "1919.000.465-5",
+        "Descricao": "FUNDAMENTOS DE REDES DE COMPUTADORES",
+        "Semestre": "0",
+        "Apelido": "FUNDAMENTOS DE REDES DE COMPUTADORES",
+        "CargaHorariaTeorico": 0,
+        "CargaHorariaPratica": 0,
+        "ListaPrequisitos": []
+      }
+    ]
+  },
+  {
+    "Id": 56048,
+    "Codigo": "1919.000.487-0",
+    "Tipo": "OPT",
+    "Descricao": "SISTEMAS DISTRIBUÍDOS",
+    "Semestre": 99,
+    "Apelido": "SISTEMAS DISTRIBUÍDOS",
+    "CargaHorariaTeorico": 60,
+    "CargaHorariaPratica": null,
+    "ListaPrequisitos": [
+      {
+        "Id": 56031,
+        "Codigo": "1919.000.470-8",
+        "Descricao": "INTRODUÇÃO A SISTEMAS OPERACIONAIS",
+        "Semestre": "0",
+        "Apelido": "INTRODUÇÃO A SISTEMAS OPERACIONAIS",
+        "CargaHorariaTeorico": 0,
+        "CargaHorariaPratica": 0,
+        "ListaPrequisitos": []
+      }
+    ]
+  },
+  {
+    "Id": 56109,
+    "Codigo": "1919.000.547-4",
+    "Tipo": "OPT",
+    "Descricao": "TEORIA DOS GRAFOS E SEUS ALGORITMOS",
+    "Semestre": 99,
+    "Apelido": "TEORIA DOS GRAFOS E SEUS ALGORITMOS",
+    "CargaHorariaTeorico": 60,
+    "CargaHorariaPratica": null,
+    "ListaPrequisitos": [
+      {
+        "Id": 56162,
+        "Codigo": "1919.000.593-9",
+        "Descricao": "FUNDAMENTOS DE TEORIA DA COMPUTAÇÃO",
+        "Semestre": "0",
+        "Apelido": "FUNDAMENTOS DE TEORIA DA COMPUTAÇÃO",
+        "CargaHorariaTeorico": 0,
+        "CargaHorariaPratica": 0,
+        "ListaPrequisitos": []
+      }
+    ]
+  },
+  {
+    "Id": 56128,
+    "Codigo": "1919.000.565-2",
+    "Tipo": "OPT",
+    "Descricao": "TÓPICOS EM ARQUITETURA DE COMPUTADORES",
+    "Semestre": 99,
+    "Apelido": "TÓPICOS EM ARQUITETURA DE COMPUTADORES",
+    "CargaHorariaTeorico": 60,
+    "CargaHorariaPratica": null,
+    "ListaPrequisitos": []
+  },
+  {
+    "Id": 56144,
+    "Codigo": "1919.000.579-7",
+    "Tipo": "OPT",
+    "Descricao": "TÓPICOS EM BANCOS DE DADOS",
+    "Semestre": 99,
+    "Apelido": "TÓPICOS EM BANCOS DE DADOS",
+    "CargaHorariaTeorico": 60,
+    "CargaHorariaPratica": null,
+    "ListaPrequisitos": []
+  },
+  {
+    "Id": 56161,
+    "Codigo": "1919.000.592-0",
+    "Tipo": "OPT",
+    "Descricao": "TÓPICOS EM BANCOS DE DADOS I",
+    "Semestre": 99,
+    "Apelido": "TÓPICOS EM BANCOS DE DADOS I",
+    "CargaHorariaTeorico": 60,
+    "CargaHorariaPratica": null,
+    "ListaPrequisitos": []
+  },
+  {
+    "Id": 56060,
+    "Codigo": "1919.000.499-6",
+    "Tipo": "OPT",
+    "Descricao": "TÓPICOS EM BANCOS DE DADOS II",
+    "Semestre": 99,
+    "Apelido": "TÓPICOS EM BANCOS DE DADOS II",
+    "CargaHorariaTeorico": 60,
+    "CargaHorariaPratica": null,
+    "ListaPrequisitos": []
+  },
+  {
+    "Id": 56046,
+    "Codigo": "1919.000.485-1",
+    "Tipo": "OPT",
+    "Descricao": "TÓPICOS EM BANCOS DE DADOS III",
+    "Semestre": 99,
+    "Apelido": "TÓPICOS EM BANCOS DE DADOS III",
+    "CargaHorariaTeorico": 30,
+    "CargaHorariaPratica": null,
+    "ListaPrequisitos": []
+  },
+  {
+    "Id": 56051,
+    "Codigo": "1919.000.490-4",
+    "Tipo": "OPT",
+    "Descricao": "TÓPICOS EM BANCOS DE DADOS IV",
+    "Semestre": 99,
+    "Apelido": "TÓPICOS EM BANCOS DE DADOS IV",
+    "CargaHorariaTeorico": 30,
+    "CargaHorariaPratica": null,
+    "ListaPrequisitos": []
+  },
+  {
+    "Id": 56125,
+    "Codigo": "1919.000.562-5",
+    "Tipo": "OPT",
+    "Descricao": "TÓPICOS EM BANCOS DE DADOS IV",
+    "Semestre": 99,
+    "Apelido": "TÓPICOS EM BANCOS DE DADOS IV",
+    "CargaHorariaTeorico": 30,
+    "CargaHorariaPratica": null,
+    "ListaPrequisitos": []
+  },
+  {
+    "Id": 56086,
+    "Codigo": "1919.000.525-0",
+    "Tipo": "OPT",
+    "Descricao": "TÓPICOS EM COMPUTAÇÃO E EDUCAÇÃO I",
+    "Semestre": 99,
+    "Apelido": "TÓPICOS EM COMPUTAÇÃO E EDUCAÇÃO I",
+    "CargaHorariaTeorico": 60,
+    "CargaHorariaPratica": null,
+    "ListaPrequisitos": []
+  },
+  {
+    "Id": 56088,
+    "Codigo": "1919.000.527-8",
+    "Tipo": "OPT",
+    "Descricao": "TÓPICOS EM COMPUTAÇÃO E EDUCAÇÃO II",
+    "Semestre": 99,
+    "Apelido": "TÓPICOS EM COMPUTAÇÃO E EDUCAÇÃO II",
+    "CargaHorariaTeorico": 60,
+    "CargaHorariaPratica": null,
+    "ListaPrequisitos": []
+  },
+  {
+    "Id": 56090,
+    "Codigo": "1919.000.529-6",
+    "Tipo": "OPT",
+    "Descricao": "TÓPICOS EM COMPUTAÇÃO E EDUCAÇÃO III",
+    "Semestre": 99,
+    "Apelido": "TÓPICOS EM COMPUTAÇÃO E EDUCAÇÃO III",
+    "CargaHorariaTeorico": 60,
+    "CargaHorariaPratica": null,
+    "ListaPrequisitos": []
+  },
+  {
+    "Id": 56091,
+    "Codigo": "1919.000.530-2",
+    "Tipo": "OPT",
+    "Descricao": "TÓPICOS EM COMPUTAÇÃO E EDUCAÇÃO IV",
+    "Semestre": 99,
+    "Apelido": "TÓPICOS EM COMPUTAÇÃO E EDUCAÇÃO IV",
+    "CargaHorariaTeorico": 30,
+    "CargaHorariaPratica": null,
+    "ListaPrequisitos": []
+  },
+  {
+    "Id": 56092,
+    "Codigo": "1919.000.531-1",
+    "Tipo": "OPT",
+    "Descricao": "TÓPICOS EM COMPUTAÇÃO E EDUCAÇÃO V",
+    "Semestre": 99,
+    "Apelido": "TÓPICOS EM COMPUTAÇÃO E EDUCAÇÃO V",
+    "CargaHorariaTeorico": 30,
+    "CargaHorariaPratica": null,
+    "ListaPrequisitos": []
+  },
+  {
+    "Id": 56093,
+    "Codigo": "1919.000.532-0",
+    "Tipo": "OPT",
+    "Descricao": "TÓPICOS EM COMPUTAÇÃO E EDUCAÇÃO VI",
+    "Semestre": 99,
+    "Apelido": "TÓPICOS EM COMPUTAÇÃO E EDUCAÇÃO VI",
+    "CargaHorariaTeorico": 30,
+    "CargaHorariaPratica": null,
+    "ListaPrequisitos": []
+  },
+  {
+    "Id": 56042,
+    "Codigo": "1919.000.481-5",
+    "Tipo": "OPT",
+    "Descricao": "TÓPICOS EM COMPUTAÇÃO GRÁFICA",
+    "Semestre": 99,
+    "Apelido": "TÓPICOS EM COMPUTAÇÃO GRÁFICA",
+    "CargaHorariaTeorico": 60,
+    "CargaHorariaPratica": null,
+    "ListaPrequisitos": []
+  },
+  {
+    "Id": 56035,
+    "Codigo": "1919.000.474-4",
+    "Tipo": "OPT",
+    "Descricao": "TÓPICOS EM COMPUTAÇÃO I",
+    "Semestre": 99,
+    "Apelido": "TÓPICOS EM COMPUTAÇÃO I",
+    "CargaHorariaTeorico": 60,
+    "CargaHorariaPratica": null,
+    "ListaPrequisitos": []
+  },
+  {
+    "Id": 56114,
+    "Codigo": "1919.000.552-7",
+    "Tipo": "OPT",
+    "Descricao": "TÓPICOS EM COMPUTAÇÃO II",
+    "Semestre": 99,
+    "Apelido": "TÓPICOS EM COMPUTAÇÃO II",
+    "CargaHorariaTeorico": 60,
+    "CargaHorariaPratica": null,
+    "ListaPrequisitos": []
+  },
+  {
+    "Id": 56118,
+    "Codigo": "1919.000.556-3",
+    "Tipo": "OPT",
+    "Descricao": "TÓPICOS EM COMPUTAÇÃO III",
+    "Semestre": 99,
+    "Apelido": "TÓPICOS EM COMPUTAÇÃO III",
+    "CargaHorariaTeorico": 60,
+    "CargaHorariaPratica": null,
+    "ListaPrequisitos": []
+  },
+  {
+    "Id": 56037,
+    "Codigo": "1919.000.476-2",
+    "Tipo": "OPT",
+    "Descricao": "TÓPICOS EM COMPUTAÇÃO IV",
+    "Semestre": 99,
+    "Apelido": "TÓPICOS EM COMPUTAÇÃO IV",
+    "CargaHorariaTeorico": 30,
+    "CargaHorariaPratica": null,
+    "ListaPrequisitos": []
+  },
+  {
+    "Id": 56074,
+    "Codigo": "1919.000.513-3",
+    "Tipo": "OPT",
+    "Descricao": "TÓPICOS EM COMPUTAÇÃO IX",
+    "Semestre": 99,
+    "Apelido": "TÓPICOS EM COMPUTAÇÃO IX",
+    "CargaHorariaTeorico": 60,
+    "CargaHorariaPratica": null,
+    "ListaPrequisitos": []
+  },
+  {
+    "Id": 56050,
+    "Codigo": "1919.000.489-8",
+    "Tipo": "OPT",
+    "Descricao": "TÓPICOS EM COMPUTAÇÃO V",
+    "Semestre": 99,
+    "Apelido": "TÓPICOS EM COMPUTAÇÃO V",
+    "CargaHorariaTeorico": 30,
+    "CargaHorariaPratica": null,
+    "ListaPrequisitos": []
+  },
+  {
+    "Id": 56047,
+    "Codigo": "1919.000.486-0",
+    "Tipo": "OPT",
+    "Descricao": "TÓPICOS EM COMPUTAÇÃO VI",
+    "Semestre": 99,
+    "Apelido": "TÓPICOS EM COMPUTAÇÃO VI",
+    "CargaHorariaTeorico": 30,
+    "CargaHorariaPratica": null,
+    "ListaPrequisitos": []
+  },
+  {
+    "Id": 56076,
+    "Codigo": "1919.000.515-1",
+    "Tipo": "OPT",
+    "Descricao": "TÓPICOS EM COMPUTAÇÃO VII",
+    "Semestre": 99,
+    "Apelido": "TÓPICOS EM COMPUTAÇÃO VII",
+    "CargaHorariaTeorico": 60,
+    "CargaHorariaPratica": null,
+    "ListaPrequisitos": []
+  },
+  {
+    "Id": 56075,
+    "Codigo": "1919.000.514-2",
+    "Tipo": "OPT",
+    "Descricao": "TÓPICOS EM COMPUTAÇÃO VIII",
+    "Semestre": 99,
+    "Apelido": "TÓPICOS EM COMPUTAÇÃO VIII",
+    "CargaHorariaTeorico": 60,
+    "CargaHorariaPratica": null,
+    "ListaPrequisitos": []
+  },
+  {
+    "Id": 56072,
+    "Codigo": "1919.000.511-5",
+    "Tipo": "OPT",
+    "Descricao": "TÓPICOS EM COMPUTAÇÃO X",
+    "Semestre": 99,
+    "Apelido": "TÓPICOS EM COMPUTAÇÃO X",
+    "CargaHorariaTeorico": 30,
+    "CargaHorariaPratica": null,
+    "ListaPrequisitos": []
+  },
+  {
+    "Id": 56066,
+    "Codigo": "1919.000.505-3",
+    "Tipo": "OPT",
+    "Descricao": "TÓPICOS EM COMPUTAÇÃO XI",
+    "Semestre": 99,
+    "Apelido": "TÓPICOS EM COMPUTAÇÃO XI",
+    "CargaHorariaTeorico": 30,
+    "CargaHorariaPratica": null,
+    "ListaPrequisitos": []
+  },
+  {
+    "Id": 56077,
+    "Codigo": "1919.000.516-0",
+    "Tipo": "OPT",
+    "Descricao": "TÓPICOS EM COMPUTAÇÃO XII",
+    "Semestre": 99,
+    "Apelido": "TÓPICOS EM COMPUTAÇÃO XII",
+    "CargaHorariaTeorico": 30,
+    "CargaHorariaPratica": null,
+    "ListaPrequisitos": []
+  },
+  {
+    "Id": 56102,
+    "Codigo": "1919.000.541-0",
+    "Tipo": "OPT",
+    "Descricao": "TÓPICOS EM ENGENHARIA DE SOFTWARE",
+    "Semestre": 99,
+    "Apelido": "TÓPICOS EM ENGENHARIA DE SOFTWARE",
+    "CargaHorariaTeorico": 60,
+    "CargaHorariaPratica": null,
+    "ListaPrequisitos": []
+  },
+  {
+    "Id": 56115,
+    "Codigo": "1919.000.553-6",
+    "Tipo": "OPT",
+    "Descricao": "TÓPICOS EM ENGENHARIA DE SOFTWARE I",
+    "Semestre": 99,
+    "Apelido": "TÓPICOS EM ENGENHARIA DE SOFTWARE I",
+    "CargaHorariaTeorico": 60,
+    "CargaHorariaPratica": null,
+    "ListaPrequisitos": []
+  },
+  {
+    "Id": 56049,
+    "Codigo": "1919.000.488-9",
+    "Tipo": "OPT",
+    "Descricao": "TÓPICOS EM ENGENHARIA DE SOFTWARE II",
+    "Semestre": 99,
+    "Apelido": "TÓPICOS EM ENGENHARIA DE SOFTWARE II",
+    "CargaHorariaTeorico": 60,
+    "CargaHorariaPratica": null,
+    "ListaPrequisitos": []
+  },
+  {
+    "Id": 56140,
+    "Codigo": "1919.000.575-0",
+    "Tipo": "OPT",
+    "Descricao": "TÓPICOS EM ENGENHARIA DE SOFTWARE III",
+    "Semestre": 99,
+    "Apelido": "TÓPICOS EM ENGENHARIA DE SOFTWARE III",
+    "CargaHorariaTeorico": 60,
+    "CargaHorariaPratica": null,
+    "ListaPrequisitos": []
+  },
+  {
+    "Id": 56024,
+    "Codigo": "1919.000.464-6",
+    "Tipo": "OPT",
+    "Descricao": "TÓPICOS EM ENGENHARIA DE SOFTWARE IV",
+    "Semestre": 99,
+    "Apelido": "TÓPICOS EM ENGENHARIA DE SOFTWARE IV",
+    "CargaHorariaTeorico": 30,
+    "CargaHorariaPratica": null,
+    "ListaPrequisitos": []
+  },
+  {
+    "Id": 56111,
+    "Codigo": "1919.000.549-2",
+    "Tipo": "OPT",
+    "Descricao": "TÓPICOS EM ENGENHARIA DE SOFTWARE V",
+    "Semestre": 99,
+    "Apelido": "TÓPICOS EM ENGENHARIA DE SOFTWARE V",
+    "CargaHorariaTeorico": 30,
+    "CargaHorariaPratica": null,
+    "ListaPrequisitos": []
+  },
+  {
+    "Id": 56078,
+    "Codigo": "1919.000.517-0",
+    "Tipo": "OPT",
+    "Descricao": "TÓPICOS EM ENGENHARIA DE SOFTWARE VI",
+    "Semestre": 99,
+    "Apelido": "TÓPICOS EM ENGENHARIA DE SOFTWARE VI",
+    "CargaHorariaTeorico": 30,
+    "CargaHorariaPratica": null,
+    "ListaPrequisitos": []
+  },
+  {
+    "Id": 56157,
+    "Codigo": "1919.000.588-6",
+    "Tipo": "OPT",
+    "Descricao": "TÓPICOS EM INTELIGÊNCIA ARTIFICIAL I",
+    "Semestre": 99,
+    "Apelido": "TÓPICOS EM INTELIGÊNCIA ARTIFICIAL I",
+    "CargaHorariaTeorico": 60,
+    "CargaHorariaPratica": null,
+    "ListaPrequisitos": []
+  },
+  {
+    "Id": 56132,
+    "Codigo": "1919.000.569-9",
+    "Tipo": "OPT",
+    "Descricao": "TÓPICOS EM INTELIGÊNCIA ARTIFICIAL II",
+    "Semestre": 99,
+    "Apelido": "TÓPICOS EM INTELIGÊNCIA ARTIFICIAL II",
+    "CargaHorariaTeorico": 60,
+    "CargaHorariaPratica": null,
+    "ListaPrequisitos": []
+  },
+  {
+    "Id": 56131,
+    "Codigo": "1919.000.568-0",
+    "Tipo": "OPT",
+    "Descricao": "TÓPICOS EM INTELIGÊNCIA ARTIFICIAL III",
+    "Semestre": 99,
+    "Apelido": "TÓPICOS EM INTELIGÊNCIA ARTIFICIAL III",
+    "CargaHorariaTeorico": 60,
+    "CargaHorariaPratica": null,
+    "ListaPrequisitos": []
+  },
+  {
+    "Id": 56079,
+    "Codigo": "1919.000.518-9",
+    "Tipo": "OPT",
+    "Descricao": "TÓPICOS EM INTELIGÊNCIA ARTIFICIAL IV",
+    "Semestre": 99,
+    "Apelido": "TÓPICOS EM INTELIGÊNCIA ARTIFICIAL IV",
+    "CargaHorariaTeorico": 30,
+    "CargaHorariaPratica": null,
+    "ListaPrequisitos": []
+  },
+  {
+    "Id": 56094,
+    "Codigo": "1919.000.533-0",
+    "Tipo": "OPT",
+    "Descricao": "TÓPICOS EM INTELIGÊNCIA ARTIFICIAL V",
+    "Semestre": 99,
+    "Apelido": "TÓPICOS EM INTELIGÊNCIA ARTIFICIAL V",
+    "CargaHorariaTeorico": 30,
+    "CargaHorariaPratica": null,
+    "ListaPrequisitos": []
+  },
+  {
+    "Id": 56080,
+    "Codigo": "1919.000.519-8",
+    "Tipo": "OPT",
+    "Descricao": "TÓPICOS EM INTELIGÊNCIA ARTIFICIAL VI",
+    "Semestre": 99,
+    "Apelido": "TÓPICOS EM INTELIGÊNCIA ARTIFICIAL VI",
+    "CargaHorariaTeorico": 30,
+    "CargaHorariaPratica": null,
+    "ListaPrequisitos": []
+  },
+  {
+    "Id": 56058,
+    "Codigo": "1919.000.497-8",
+    "Tipo": "OPT",
+    "Descricao": "TÓPICOS EM PROCESSAMENTO DE IMAGENS",
+    "Semestre": 99,
+    "Apelido": "TÓPICOS EM PROCESSAMENTO DE IMAGENS",
+    "CargaHorariaTeorico": 60,
+    "CargaHorariaPratica": null,
+    "ListaPrequisitos": []
+  },
+  {
+    "Id": 56040,
+    "Codigo": "1919.000.479-0",
+    "Tipo": "OPT",
+    "Descricao": "TÓPICOS EM REDES DE COMPUTADORES I",
+    "Semestre": 99,
+    "Apelido": "TÓPICOS EM REDES DE COMPUTADORES I",
+    "CargaHorariaTeorico": 60,
+    "CargaHorariaPratica": null,
+    "ListaPrequisitos": []
+  },
+  {
+    "Id": 56106,
+    "Codigo": "1919.000.544-7",
+    "Tipo": "OPT",
+    "Descricao": "TÓPICOS EM REDES DE COMPUTADORES II",
+    "Semestre": 99,
+    "Apelido": "TÓPICOS EM REDES DE COMPUTADORES II",
+    "CargaHorariaTeorico": 60,
+    "CargaHorariaPratica": null,
+    "ListaPrequisitos": []
+  },
+  {
+    "Id": 56052,
+    "Codigo": "1919.000.491-3",
+    "Tipo": "OPT",
+    "Descricao": "TÓPICOS EM REDES DE COMPUTADORES III",
+    "Semestre": 99,
+    "Apelido": "TÓPICOS EM REDES DE COMPUTADORES III",
+    "CargaHorariaTeorico": 60,
+    "CargaHorariaPratica": null,
+    "ListaPrequisitos": []
+  },
+  {
+    "Id": 56100,
+    "Codigo": "1919.000.539-4",
+    "Tipo": "OPT",
+    "Descricao": "TÓPICOS EM SISTEMAS DE INFORMAÇÃO I",
+    "Semestre": 99,
+    "Apelido": "TÓPICOS EM SISTEMAS DE INFORMAÇÃO I",
+    "CargaHorariaTeorico": 60,
+    "CargaHorariaPratica": null,
+    "ListaPrequisitos": []
+  },
+  {
+    "Id": 56145,
+    "Codigo": "1919.000.580-3",
+    "Tipo": "OPT",
+    "Descricao": "TÓPICOS EM SISTEMAS DE INFORMAÇÃO II",
+    "Semestre": 99,
+    "Apelido": "TÓPICOS EM SISTEMAS DE INFORMAÇÃO II",
+    "CargaHorariaTeorico": 60,
+    "CargaHorariaPratica": null,
+    "ListaPrequisitos": []
+  },
+  {
+    "Id": 56134,
+    "Codigo": "1919.000.571-4",
+    "Tipo": "OPT",
+    "Descricao": "TÓPICOS EM SISTEMAS DE INFORMAÇÃO III",
+    "Semestre": 99,
+    "Apelido": "TÓPICOS EM SISTEMAS DE INFORMAÇÃO III",
+    "CargaHorariaTeorico": 60,
+    "CargaHorariaPratica": null,
+    "ListaPrequisitos": []
+  },
+  {
+    "Id": 56096,
+    "Codigo": "1919.000.535-8",
+    "Tipo": "OPT",
+    "Descricao": "TÓPICOS EM SISTEMAS DE INFORMAÇÃO IV",
+    "Semestre": 99,
+    "Apelido": "TÓPICOS EM SISTEMAS DE INFORMAÇÃO IV",
+    "CargaHorariaTeorico": 30,
+    "CargaHorariaPratica": null,
+    "ListaPrequisitos": []
+  },
+  {
+    "Id": 56081,
+    "Codigo": "1919.000.520-4",
+    "Tipo": "OPT",
+    "Descricao": "TÓPICOS EM SISTEMAS DE INFORMAÇÃO V",
+    "Semestre": 99,
+    "Apelido": "TÓPICOS EM SISTEMAS DE INFORMAÇÃO V",
+    "CargaHorariaTeorico": 30,
+    "CargaHorariaPratica": null,
+    "ListaPrequisitos": []
+  },
+  {
+    "Id": 56083,
+    "Codigo": "1919.000.522-2",
+    "Tipo": "OPT",
+    "Descricao": "TÓPICOS EM SISTEMAS DE INFORMAÇÃO VI",
+    "Semestre": 99,
+    "Apelido": "TÓPICOS EM SISTEMAS DE INFORMAÇÃO VI",
+    "CargaHorariaTeorico": 30,
+    "CargaHorariaPratica": null,
+    "ListaPrequisitos": []
+  },
+  {
+    "Id": 56152,
+    "Codigo": "1919.000.583-0",
+    "Tipo": "OPT",
+    "Descricao": "TÓPICOS EM SISTEMAS DIGITAIS",
+    "Semestre": 99,
+    "Apelido": "TÓPICOS EM SISTEMAS DIGITAIS",
+    "CargaHorariaTeorico": 60,
+    "CargaHorariaPratica": null,
+    "ListaPrequisitos": []
+  },
+  {
+    "Id": 56054,
+    "Codigo": "1919.000.493-1",
+    "Tipo": "OPT",
+    "Descricao": "TÓPICOS EM SISTEMAS DISTRIBUÍDOS I",
+    "Semestre": 99,
+    "Apelido": "TÓPICOS EM SISTEMAS DISTRIBUÍDOS I",
+    "CargaHorariaTeorico": 60,
+    "CargaHorariaPratica": null,
+    "ListaPrequisitos": []
+  },
+  {
+    "Id": 56033,
+    "Codigo": "1919.000.472-6",
+    "Tipo": "OPT",
+    "Descricao": "TÓPICOS EM SISTEMAS DISTRIBUÍDOS II",
+    "Semestre": 99,
+    "Apelido": "TÓPICOS EM SISTEMAS DISTRIBUÍDOS II",
+    "CargaHorariaTeorico": 60,
+    "CargaHorariaPratica": null,
+    "ListaPrequisitos": []
+  },
+  {
+    "Id": 56038,
+    "Codigo": "1919.000.477-1",
+    "Tipo": "OPT",
+    "Descricao": "TÓPICOS EM SISTEMAS DISTRIBUÍDOS III",
+    "Semestre": 99,
+    "Apelido": "TÓPICOS EM SISTEMAS DISTRIBUÍDOS III",
+    "CargaHorariaTeorico": 60,
+    "CargaHorariaPratica": null,
+    "ListaPrequisitos": []
+  },
+  {
+    "Id": 56129,
+    "Codigo": "1919.000.566-1",
+    "Tipo": "OPT",
+    "Descricao": "TÓPICOS EM SISTEMAS OPERACIONAIS",
+    "Semestre": 99,
+    "Apelido": "TÓPICOS EM SISTEMAS OPERACIONAIS",
+    "CargaHorariaTeorico": 60,
+    "CargaHorariaPratica": null,
+    "ListaPrequisitos": []
+  },
+  {
+    "Id": 56097,
+    "Codigo": "1919.000.536-7",
+    "Tipo": "OPT",
+    "Descricao": "TÓPICOS EM TECNOLOGIA E SOCIEDADE I",
+    "Semestre": 99,
+    "Apelido": "TÓPICOS EM TECNOLOGIA E SOCIEDADE I",
+    "CargaHorariaTeorico": 60,
+    "CargaHorariaPratica": null,
+    "ListaPrequisitos": []
+  },
+  {
+    "Id": 56082,
+    "Codigo": "1919.000.521-3",
+    "Tipo": "OPT",
+    "Descricao": "TÓPICOS EM TECNOLOGIA E SOCIEDADE II",
+    "Semestre": 99,
+    "Apelido": "TÓPICOS EM TECNOLOGIA E SOCIEDADE II",
+    "CargaHorariaTeorico": 60,
+    "CargaHorariaPratica": null,
+    "ListaPrequisitos": []
+  },
+  {
+    "Id": 56084,
+    "Codigo": "1919.000.523-1",
+    "Tipo": "OPT",
+    "Descricao": "TÓPICOS EM TECNOLOGIA E SOCIEDADE III",
+    "Semestre": 99,
+    "Apelido": "TÓPICOS EM TECNOLOGIA E SOCIEDADE III",
+    "CargaHorariaTeorico": 60,
+    "CargaHorariaPratica": null,
+    "ListaPrequisitos": []
+  },
+  {
+    "Id": 56085,
+    "Codigo": "1919.000.524-0",
+    "Tipo": "OPT",
+    "Descricao": "TÓPICOS EM TECNOLOGIA E SOCIEDADE IV",
+    "Semestre": 99,
+    "Apelido": "TÓPICOS EM TECNOLOGIA E SOCIEDADE IV",
+    "CargaHorariaTeorico": 30,
+    "CargaHorariaPratica": null,
+    "ListaPrequisitos": []
+  },
+  {
+    "Id": 56087,
+    "Codigo": "1919.000.526-9",
+    "Tipo": "OPT",
+    "Descricao": "TÓPICOS EM TECNOLOGIA E SOCIEDADE V",
+    "Semestre": 99,
+    "Apelido": "TÓPICOS EM TECNOLOGIA E SOCIEDADE V",
+    "CargaHorariaTeorico": 30,
+    "CargaHorariaPratica": null,
+    "ListaPrequisitos": []
+  },
+  {
+    "Id": 56089,
+    "Codigo": "1919.000.528-7",
+    "Tipo": "OPT",
+    "Descricao": "TÓPICOS EM TECNOLOGIA E SOCIEDADE VI",
+    "Semestre": 99,
+    "Apelido": "TÓPICOS EM TECNOLOGIA E SOCIEDADE VI",
+    "CargaHorariaTeorico": 30,
+    "CargaHorariaPratica": null,
+    "ListaPrequisitos": []
+  },
+  {
+    "Id": 56158,
+    "Codigo": "1919.000.589-5",
+    "Tipo": "OPT",
+    "Descricao": "TÓPICOS EM TEORIA DOS GRAFOS",
+    "Semestre": 99,
+    "Apelido": "TÓPICOS EM TEORIA DOS GRAFOS",
+    "CargaHorariaTeorico": 60,
+    "CargaHorariaPratica": null,
+    "ListaPrequisitos": []
+  },
+  {
+    "Id": 56135,
+    "Codigo": "1919.000.572-3",
+    "Tipo": "OPT",
+    "Descricao": "TÓPICOS EM TESTES DE SOFTWARE",
+    "Semestre": 99,
+    "Apelido": "TÓPICOS EM TESTES DE SOFTWARE",
+    "CargaHorariaTeorico": 60,
+    "CargaHorariaPratica": null,
+    "ListaPrequisitos": [
+      {
+        "Id": 56120,
+        "Codigo": "1919.000.558-1",
+        "Descricao": "VERIFICAÇÃO, VALIDAÇÃO E TESTE DE SOFTWARE",
+        "Semestre": "0",
+        "Apelido": "VERIFICAÇÃO, VALIDAÇÃO E TESTE DE SOFTWARE",
+        "CargaHorariaTeorico": 0,
+        "CargaHorariaPratica": 0,
+        "ListaPrequisitos": []
+      }
+    ]
+  },
+  {
+    "Id": 56122,
+    "Codigo": "1919.000.560-7",
+    "Tipo": "OPT",
+    "Descricao": "TÓPICOS - INTERCÂMBIO I",
+    "Semestre": 99,
+    "Apelido": "TÓPICOS - INTERCÂMBIO I",
+    "CargaHorariaTeorico": 60,
+    "CargaHorariaPratica": null,
+    "ListaPrequisitos": []
+  },
+  {
+    "Id": 56153,
+    "Codigo": "1919.000.584-0",
+    "Tipo": "OPT",
+    "Descricao": "TÓPICOS - INTERCÂMBIO II",
+    "Semestre": 99,
+    "Apelido": "TÓPICOS - INTERCÂMBIO II",
+    "CargaHorariaTeorico": 60,
+    "CargaHorariaPratica": null,
+    "ListaPrequisitos": []
+  },
+  {
+    "Id": 56124,
+    "Codigo": "1919.000.561-6",
+    "Tipo": "OPT",
+    "Descricao": "TÓPICOS - INTERCÂMBIO III",
+    "Semestre": 99,
+    "Apelido": "TÓPICOS - INTERCÂMBIO III",
+    "CargaHorariaTeorico": 60,
+    "CargaHorariaPratica": null,
+    "ListaPrequisitos": []
+  },
+  {
+    "Id": 56120,
+    "Codigo": "1919.000.558-1",
+    "Tipo": "OPT",
+    "Descricao": "VERIFICAÇÃO, VALIDAÇÃO E TESTE DE SOFTWARE",
+    "Semestre": 99,
+    "Apelido": "VERIFICAÇÃO, VALIDAÇÃO E TESTE DE SOFTWARE",
+    "CargaHorariaTeorico": 60,
+    "CargaHorariaPratica": null,
+    "ListaPrequisitos": [
+      {
+        "Id": 56155,
+        "Codigo": "1919.000.586-8",
+        "Descricao": "ANÁLISE E PROJETO DE SOFTWARE ORIENTADO A OBJETOS",
+        "Semestre": "0",
+        "Apelido": "ANÁLISE E PROJETO DE SOFTWARE ORIENTADO A OBJETOS",
+        "CargaHorariaTeorico": 0,
+        "CargaHorariaPratica": 0,
+        "ListaPrequisitos": []
+      }
+    ]
+  },
+  {
+    "Id": 52307,
+    "Codigo": "0100.000.002-0",
+    "Tipo": "NFC",
+    "Descricao": "VIDA, CIDADANIA E SUSTENTABILIDADE",
+    "Semestre": 99,
+    "Apelido": "VIDA, CIDADANIA E SUSTENTABILIDADE",
+    "CargaHorariaTeorico": 30,
+    "CargaHorariaPratica": null,
+    "ListaPrequisitos": []
+  },
+  {
+    "Id": 56067,
+    "Codigo": "1919.000.506-2",
+    "Tipo": "OPT",
+    "Descricao": "VISÃO COMPUTACIONAL",
+    "Semestre": 99,
+    "Apelido": "VISÃO COMPUTACIONAL",
+    "CargaHorariaTeorico": 60,
+    "CargaHorariaPratica": null,
+    "ListaPrequisitos": [
+      {
+        "Id": 56065,
+        "Codigo": "1919.000.504-4",
+        "Descricao": "REDES NEURAIS",
+        "Semestre": "0",
+        "Apelido": "REDES NEURAIS",
+        "CargaHorariaTeorico": 0,
+        "CargaHorariaPratica": 0,
+        "ListaPrequisitos": []
+      }
+    ]
+  }
+]

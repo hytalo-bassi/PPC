@@ -1,0 +1,1900 @@
+[
+  {
+    "Id": 52679,
+    "Codigo": "2701.000.457-9",
+    "Tipo": "OBR",
+    "Descricao": "ANATOMIA HUMANA",
+    "Semestre": 1,
+    "Apelido": "ANATOMIA HUMANA",
+    "CargaHorariaTeorico": 60,
+    "CargaHorariaPratica": null,
+    "ListaPrequisitos": []
+  },
+  {
+    "Id": 55386,
+    "Codigo": "2601.000.683-0",
+    "Tipo": "OBR",
+    "Descricao": "CÁLCULO FARMACÊUTICO",
+    "Semestre": 1,
+    "Apelido": "CÁLCULO FARMACÊUTICO",
+    "CargaHorariaTeorico": 30,
+    "CargaHorariaPratica": null,
+    "ListaPrequisitos": []
+  },
+  {
+    "Id": 53047,
+    "Codigo": "2701.000.585-2",
+    "Tipo": "OBR",
+    "Descricao": "HISTOLOGIA BÁSICA",
+    "Semestre": 1,
+    "Apelido": "HISTOLOGIA BÁSICA",
+    "CargaHorariaTeorico": 60,
+    "CargaHorariaPratica": null,
+    "ListaPrequisitos": []
+  },
+  {
+    "Id": 55398,
+    "Codigo": "2601.000.693-8",
+    "Tipo": "OBR",
+    "Descricao": "INTRODUÇÃO ÀS CIÊNCIAS FARMACÊUTICAS",
+    "Semestre": 1,
+    "Apelido": "INTRODUÇÃO ÀS CIÊNCIAS FARMACÊUTICAS",
+    "CargaHorariaTeorico": 30,
+    "CargaHorariaPratica": null,
+    "ListaPrequisitos": []
+  },
+  {
+    "Id": 55338,
+    "Codigo": "2301.000.428-6",
+    "Tipo": "OBR",
+    "Descricao": "QUÍMICA GERAL E INORGÂNICA",
+    "Semestre": 1,
+    "Apelido": "QUÍMICA GERAL E INORGÂNICA",
+    "CargaHorariaTeorico": 30,
+    "CargaHorariaPratica": null,
+    "ListaPrequisitos": []
+  },
+  {
+    "Id": 53874,
+    "Codigo": "2301.000.418-8",
+    "Tipo": "OBR",
+    "Descricao": "QUÍMICA GERAL EXPERIMENTAL",
+    "Semestre": 1,
+    "Apelido": "QUÍMICA GERAL EXPERIMENTAL",
+    "CargaHorariaTeorico": 30,
+    "CargaHorariaPratica": null,
+    "ListaPrequisitos": []
+  },
+  {
+    "Id": 55352,
+    "Codigo": "2801.000.258-5",
+    "Tipo": "OBR",
+    "Descricao": "SAÚDE DA COMUNIDADE",
+    "Semestre": 1,
+    "Apelido": "SAÚDE DA COMUNIDADE",
+    "CargaHorariaTeorico": 45,
+    "CargaHorariaPratica": null,
+    "ListaPrequisitos": []
+  },
+  {
+    "Id": 55412,
+    "Codigo": "2601.000.704-0",
+    "Tipo": "OBR",
+    "Descricao": "BIOLOGIA CELULAR E MOLECULAR",
+    "Semestre": 2,
+    "Apelido": "BIOLOGIA CELULAR E MOLECULAR",
+    "CargaHorariaTeorico": 45,
+    "CargaHorariaPratica": null,
+    "ListaPrequisitos": []
+  },
+  {
+    "Id": 52660,
+    "Codigo": "2701.000.454-1",
+    "Tipo": "OBR",
+    "Descricao": "BIOQUÍMICA I",
+    "Semestre": 2,
+    "Apelido": "BIOQUÍMICA I",
+    "CargaHorariaTeorico": 45,
+    "CargaHorariaPratica": null,
+    "ListaPrequisitos": []
+  },
+  {
+    "Id": 55379,
+    "Codigo": "2601.000.678-7",
+    "Tipo": "OBR",
+    "Descricao": "ESTÁGIO OBRIGATÓRIO EM SAÚDE E COMUNIDADE",
+    "Semestre": 2,
+    "Apelido": "ESTÁGIO OBRIGATÓRIO EM SAÚDE E COMUNIDADE",
+    "CargaHorariaTeorico": 60,
+    "CargaHorariaPratica": null,
+    "ListaPrequisitos": [
+      {
+        "Id": 55352,
+        "Codigo": "2801.000.258-5",
+        "Descricao": "SAÚDE DA COMUNIDADE",
+        "Semestre": "0",
+        "Apelido": "SAÚDE DA COMUNIDADE",
+        "CargaHorariaTeorico": 0,
+        "CargaHorariaPratica": 0,
+        "ListaPrequisitos": []
+      }
+    ]
+  },
+  {
+    "Id": 52839,
+    "Codigo": "2701.000.461-2",
+    "Tipo": "OBR",
+    "Descricao": "HISTOLOGIA DOS SISTEMAS",
+    "Semestre": 2,
+    "Apelido": "HISTOLOGIA DOS SISTEMAS",
+    "CargaHorariaTeorico": 45,
+    "CargaHorariaPratica": null,
+    "ListaPrequisitos": [
+      {
+        "Id": 53047,
+        "Codigo": "2701.000.585-2",
+        "Descricao": "HISTOLOGIA BÁSICA",
+        "Semestre": "0",
+        "Apelido": "HISTOLOGIA BÁSICA",
+        "CargaHorariaTeorico": 0,
+        "CargaHorariaPratica": 0,
+        "ListaPrequisitos": []
+      }
+    ]
+  },
+  {
+    "Id": 55336,
+    "Codigo": "2301.000.426-8",
+    "Tipo": "OBR",
+    "Descricao": "QUÍMICA ORGÂNICA I",
+    "Semestre": 2,
+    "Apelido": "QUÍMICA ORGÂNICA I",
+    "CargaHorariaTeorico": 45,
+    "CargaHorariaPratica": null,
+    "ListaPrequisitos": []
+  },
+  {
+    "Id": 55337,
+    "Codigo": "2301.000.427-7",
+    "Tipo": "OBR",
+    "Descricao": "QUÍMICA ORGÂNICA PRÁTICA I",
+    "Semestre": 2,
+    "Apelido": "QUÍMICA ORGÂNICA PRÁTICA I",
+    "CargaHorariaTeorico": 30,
+    "CargaHorariaPratica": null,
+    "ListaPrequisitos": []
+  },
+  {
+    "Id": 52623,
+    "Codigo": "2701.000.451-4",
+    "Tipo": "OBR",
+    "Descricao": "BIOQUÍMICA II",
+    "Semestre": 3,
+    "Apelido": "BIOQUÍMICA II",
+    "CargaHorariaTeorico": 45,
+    "CargaHorariaPratica": null,
+    "ListaPrequisitos": [
+      {
+        "Id": 52660,
+        "Codigo": "2701.000.454-1",
+        "Descricao": "BIOQUÍMICA I",
+        "Semestre": "0",
+        "Apelido": "BIOQUÍMICA I",
+        "CargaHorariaTeorico": 0,
+        "CargaHorariaPratica": 0,
+        "ListaPrequisitos": []
+      }
+    ]
+  },
+  {
+    "Id": 55385,
+    "Codigo": "2601.000.682-0",
+    "Tipo": "OBR",
+    "Descricao": "ÉTICA E BIOÉTICA",
+    "Semestre": 3,
+    "Apelido": "ÉTICA E BIOÉTICA",
+    "CargaHorariaTeorico": 30,
+    "CargaHorariaPratica": null,
+    "ListaPrequisitos": []
+  },
+  {
+    "Id": 55349,
+    "Codigo": "2701.000.674-2",
+    "Tipo": "OBR",
+    "Descricao": "IMUNOLOGIA BÁSICA",
+    "Semestre": 3,
+    "Apelido": "IMUNOLOGIA BÁSICA",
+    "CargaHorariaTeorico": 60,
+    "CargaHorariaPratica": null,
+    "ListaPrequisitos": []
+  },
+  {
+    "Id": 55361,
+    "Codigo": "2701.000.675-1",
+    "Tipo": "OBR",
+    "Descricao": "MICROBIOLOGIA BÁSICA",
+    "Semestre": 3,
+    "Apelido": "MICROBIOLOGIA BÁSICA",
+    "CargaHorariaTeorico": 45,
+    "CargaHorariaPratica": null,
+    "ListaPrequisitos": []
+  },
+  {
+    "Id": 55394,
+    "Codigo": "2301.000.433-9",
+    "Tipo": "OBR",
+    "Descricao": "QUÍMICA ANALÍTICA EXPERIMENTAL I",
+    "Semestre": 3,
+    "Apelido": "QUÍMICA ANALÍTICA EXPERIMENTAL I",
+    "CargaHorariaTeorico": 30,
+    "CargaHorariaPratica": null,
+    "ListaPrequisitos": []
+  },
+  {
+    "Id": 55380,
+    "Codigo": "2301.000.431-0",
+    "Tipo": "OBR",
+    "Descricao": "QUÍMICA ANALÍTICA I",
+    "Semestre": 3,
+    "Apelido": "QUÍMICA ANALÍTICA I",
+    "CargaHorariaTeorico": 30,
+    "CargaHorariaPratica": null,
+    "ListaPrequisitos": []
+  },
+  {
+    "Id": 55339,
+    "Codigo": "2301.000.429-5",
+    "Tipo": "OBR",
+    "Descricao": "QUÍMICA ORGÂNICA II",
+    "Semestre": 3,
+    "Apelido": "QUÍMICA ORGÂNICA II",
+    "CargaHorariaTeorico": 45,
+    "CargaHorariaPratica": null,
+    "ListaPrequisitos": [
+      {
+        "Id": 55336,
+        "Codigo": "2301.000.426-8",
+        "Descricao": "QUÍMICA ORGÂNICA I",
+        "Semestre": "0",
+        "Apelido": "QUÍMICA ORGÂNICA I",
+        "CargaHorariaTeorico": 0,
+        "CargaHorariaPratica": 0,
+        "ListaPrequisitos": []
+      }
+    ]
+  },
+  {
+    "Id": 55365,
+    "Codigo": "2301.000.430-1",
+    "Tipo": "OBR",
+    "Descricao": "QUÍMICA ORGÂNICA PRÁTICA II",
+    "Semestre": 3,
+    "Apelido": "QUÍMICA ORGÂNICA PRÁTICA II",
+    "CargaHorariaTeorico": 30,
+    "CargaHorariaPratica": null,
+    "ListaPrequisitos": [
+      {
+        "Id": 55336,
+        "Codigo": "2301.000.426-8",
+        "Descricao": "QUÍMICA ORGÂNICA I",
+        "Semestre": "0",
+        "Apelido": "QUÍMICA ORGÂNICA I",
+        "CargaHorariaTeorico": 0,
+        "CargaHorariaPratica": 0,
+        "ListaPrequisitos": []
+      }
+    ]
+  },
+  {
+    "Id": 52692,
+    "Codigo": "2601.000.545-8",
+    "Tipo": "OBR",
+    "Descricao": "BROMATOLOGIA",
+    "Semestre": 4,
+    "Apelido": "BROMATOLOGIA",
+    "CargaHorariaTeorico": 60,
+    "CargaHorariaPratica": null,
+    "ListaPrequisitos": []
+  },
+  {
+    "Id": 55399,
+    "Codigo": "2601.000.694-7",
+    "Tipo": "OBR",
+    "Descricao": "FÍSICO-QUÍMICA APLICADA À FARMÁCIA",
+    "Semestre": 4,
+    "Apelido": "FÍSICO-QUÍMICA APLICADA À FARMÁCIA",
+    "CargaHorariaTeorico": 30,
+    "CargaHorariaPratica": null,
+    "ListaPrequisitos": [
+      {
+        "Id": 55338,
+        "Codigo": "2301.000.428-6",
+        "Descricao": "QUÍMICA GERAL E INORGÂNICA",
+        "Semestre": "0",
+        "Apelido": "QUÍMICA GERAL E INORGÂNICA",
+        "CargaHorariaTeorico": 0,
+        "CargaHorariaPratica": 0,
+        "ListaPrequisitos": []
+      },
+      {
+        "Id": 55380,
+        "Codigo": "2301.000.431-0",
+        "Descricao": "QUÍMICA ANALÍTICA I",
+        "Semestre": "0",
+        "Apelido": "QUÍMICA ANALÍTICA I",
+        "CargaHorariaTeorico": 0,
+        "CargaHorariaPratica": 0,
+        "ListaPrequisitos": []
+      }
+    ]
+  },
+  {
+    "Id": 55407,
+    "Codigo": "2701.000.677-0",
+    "Tipo": "OBR",
+    "Descricao": "FISIOLOGIA",
+    "Semestre": 4,
+    "Apelido": "FISIOLOGIA",
+    "CargaHorariaTeorico": 60,
+    "CargaHorariaPratica": null,
+    "ListaPrequisitos": [
+      {
+        "Id": 52679,
+        "Codigo": "2701.000.457-9",
+        "Descricao": "ANATOMIA HUMANA",
+        "Semestre": "0",
+        "Apelido": "ANATOMIA HUMANA",
+        "CargaHorariaTeorico": 0,
+        "CargaHorariaPratica": 0,
+        "ListaPrequisitos": []
+      }
+    ]
+  },
+  {
+    "Id": 55261,
+    "Codigo": "2601.000.576-1",
+    "Tipo": "OBR",
+    "Descricao": "GERENCIAMENTO DA QUALIDADE",
+    "Semestre": 4,
+    "Apelido": "GERENCIAMENTO DA QUALIDADE",
+    "CargaHorariaTeorico": 30,
+    "CargaHorariaPratica": null,
+    "ListaPrequisitos": []
+  },
+  {
+    "Id": 55400,
+    "Codigo": "2601.000.695-6",
+    "Tipo": "OBR",
+    "Descricao": "METODOLOGIA CIENTÍFICA",
+    "Semestre": 4,
+    "Apelido": "METODOLOGIA CIENTÍFICA",
+    "CargaHorariaTeorico": 30,
+    "CargaHorariaPratica": null,
+    "ListaPrequisitos": []
+  },
+  {
+    "Id": 55345,
+    "Codigo": "2701.000.673-3",
+    "Tipo": "OBR",
+    "Descricao": "PARASITOLOGIA HUMANA",
+    "Semestre": 4,
+    "Apelido": "PARASITOLOGIA HUMANA",
+    "CargaHorariaTeorico": 60,
+    "CargaHorariaPratica": null,
+    "ListaPrequisitos": []
+  },
+  {
+    "Id": 55382,
+    "Codigo": "2301.000.432-0",
+    "Tipo": "OBR",
+    "Descricao": "QUÍMICA ANALÍTICA EXPERIMENTAL II",
+    "Semestre": 4,
+    "Apelido": "QUÍMICA ANALÍTICA EXPERIMENTAL II",
+    "CargaHorariaTeorico": 30,
+    "CargaHorariaPratica": null,
+    "ListaPrequisitos": []
+  },
+  {
+    "Id": 55403,
+    "Codigo": "2301.000.434-8",
+    "Tipo": "OBR",
+    "Descricao": "QUIMICA ANALÍTICA II",
+    "Semestre": 4,
+    "Apelido": "QUIMICA ANALÍTICA II",
+    "CargaHorariaTeorico": 30,
+    "CargaHorariaPratica": null,
+    "ListaPrequisitos": []
+  },
+  {
+    "Id": 55409,
+    "Codigo": "2601.000.701-3",
+    "Tipo": "OBR",
+    "Descricao": "FARMÁCIA HOSPITALAR",
+    "Semestre": 5,
+    "Apelido": "FARMÁCIA HOSPITALAR",
+    "CargaHorariaTeorico": 30,
+    "CargaHorariaPratica": null,
+    "ListaPrequisitos": []
+  },
+  {
+    "Id": 55340,
+    "Codigo": "2601.000.644-6",
+    "Tipo": "OBR",
+    "Descricao": "FARMACOLOGIA BÁSICA I",
+    "Semestre": 5,
+    "Apelido": "FARMACOLOGIA BÁSICA I",
+    "CargaHorariaTeorico": 45,
+    "CargaHorariaPratica": null,
+    "ListaPrequisitos": [
+      {
+        "Id": 55407,
+        "Codigo": "2701.000.677-0",
+        "Descricao": "FISIOLOGIA",
+        "Semestre": "0",
+        "Apelido": "FISIOLOGIA",
+        "CargaHorariaTeorico": 0,
+        "CargaHorariaPratica": 0,
+        "ListaPrequisitos": []
+      }
+    ]
+  },
+  {
+    "Id": 55402,
+    "Codigo": "2601.000.697-4",
+    "Tipo": "OBR",
+    "Descricao": "IDENTIFICAÇÃO ESPECTROMÉTRICA DE COMPOSTOS ORGÂNICOS",
+    "Semestre": 5,
+    "Apelido": "IDENTIFICAÇÃO ESPECTROMÉTRICA DE COMPOSTOS ORGÂNICOS",
+    "CargaHorariaTeorico": 45,
+    "CargaHorariaPratica": null,
+    "ListaPrequisitos": [
+      {
+        "Id": 55339,
+        "Codigo": "2301.000.429-5",
+        "Descricao": "QUÍMICA ORGÂNICA II",
+        "Semestre": "0",
+        "Apelido": "QUÍMICA ORGÂNICA II",
+        "CargaHorariaTeorico": 0,
+        "CargaHorariaPratica": 0,
+        "ListaPrequisitos": []
+      }
+    ]
+  },
+  {
+    "Id": 55404,
+    "Codigo": "2601.000.698-3",
+    "Tipo": "OBR",
+    "Descricao": "MICROBIOLOGIA CLÍNICA",
+    "Semestre": 5,
+    "Apelido": "MICROBIOLOGIA CLÍNICA",
+    "CargaHorariaTeorico": 60,
+    "CargaHorariaPratica": null,
+    "ListaPrequisitos": [
+      {
+        "Id": 55361,
+        "Codigo": "2701.000.675-1",
+        "Descricao": "MICROBIOLOGIA BÁSICA",
+        "Semestre": "0",
+        "Apelido": "MICROBIOLOGIA BÁSICA",
+        "CargaHorariaTeorico": 0,
+        "CargaHorariaPratica": 0,
+        "ListaPrequisitos": []
+      }
+    ]
+  },
+  {
+    "Id": 55384,
+    "Codigo": "2601.000.681-1",
+    "Tipo": "OBR",
+    "Descricao": "PARASITOLOGIA CLÍNICA",
+    "Semestre": 5,
+    "Apelido": "PARASITOLOGIA CLÍNICA",
+    "CargaHorariaTeorico": 60,
+    "CargaHorariaPratica": null,
+    "ListaPrequisitos": [
+      {
+        "Id": 55345,
+        "Codigo": "2701.000.673-3",
+        "Descricao": "PARASITOLOGIA HUMANA",
+        "Semestre": "0",
+        "Apelido": "PARASITOLOGIA HUMANA",
+        "CargaHorariaTeorico": 0,
+        "CargaHorariaPratica": 0,
+        "ListaPrequisitos": []
+      }
+    ]
+  },
+  {
+    "Id": 53112,
+    "Codigo": "2701.000.596-0",
+    "Tipo": "OBR",
+    "Descricao": "PATOLOGIA GERAL",
+    "Semestre": 5,
+    "Apelido": "PATOLOGIA GERAL",
+    "CargaHorariaTeorico": 45,
+    "CargaHorariaPratica": null,
+    "ListaPrequisitos": [
+      {
+        "Id": 52839,
+        "Codigo": "2701.000.461-2",
+        "Descricao": "HISTOLOGIA DOS SISTEMAS",
+        "Semestre": "0",
+        "Apelido": "HISTOLOGIA DOS SISTEMAS",
+        "CargaHorariaTeorico": 0,
+        "CargaHorariaPratica": 0,
+        "ListaPrequisitos": []
+      }
+    ]
+  },
+  {
+    "Id": 55362,
+    "Codigo": "2601.000.662-4",
+    "Tipo": "OBR",
+    "Descricao": "QUÍMICA FARMACÊUTICA I",
+    "Semestre": 5,
+    "Apelido": "QUÍMICA FARMACÊUTICA I",
+    "CargaHorariaTeorico": 60,
+    "CargaHorariaPratica": null,
+    "ListaPrequisitos": [
+      {
+        "Id": 55336,
+        "Codigo": "2301.000.426-8",
+        "Descricao": "QUÍMICA ORGÂNICA I",
+        "Semestre": "0",
+        "Apelido": "QUÍMICA ORGÂNICA I",
+        "CargaHorariaTeorico": 0,
+        "CargaHorariaPratica": 0,
+        "ListaPrequisitos": []
+      }
+    ]
+  },
+  {
+    "Id": 55341,
+    "Codigo": "2601.000.645-5",
+    "Tipo": "OBR",
+    "Descricao": "DEONTOLOGIA E LEGISLAÇÃO FARMACÊUTICA",
+    "Semestre": 6,
+    "Apelido": "DEONTOLOGIA E LEGISLAÇÃO FARMACÊUTICA",
+    "CargaHorariaTeorico": 30,
+    "CargaHorariaPratica": null,
+    "ListaPrequisitos": []
+  },
+  {
+    "Id": 45750,
+    "Codigo": "2601.000.292-0",
+    "Tipo": "OBR",
+    "Descricao": "ESTÁGIO OBRIGATÓRIO EM FARMÁCIA HOSPITALAR",
+    "Semestre": 6,
+    "Apelido": "ESTÁGIO OBRIGATÓRIO EM FARMÁCIA HOSPITALAR",
+    "CargaHorariaTeorico": 108,
+    "CargaHorariaPratica": null,
+    "ListaPrequisitos": [
+      {
+        "Id": 55340,
+        "Codigo": "2601.000.644-6",
+        "Descricao": "FARMACOLOGIA BÁSICA I",
+        "Semestre": "0",
+        "Apelido": "FARMACOLOGIA BÁSICA I",
+        "CargaHorariaTeorico": 0,
+        "CargaHorariaPratica": 0,
+        "ListaPrequisitos": []
+      },
+      {
+        "Id": 55409,
+        "Codigo": "2601.000.701-3",
+        "Descricao": "FARMÁCIA HOSPITALAR",
+        "Semestre": "0",
+        "Apelido": "FARMÁCIA HOSPITALAR",
+        "CargaHorariaTeorico": 0,
+        "CargaHorariaPratica": 0,
+        "ListaPrequisitos": []
+      }
+    ]
+  },
+  {
+    "Id": 55387,
+    "Codigo": "2601.000.684-9",
+    "Tipo": "OBR",
+    "Descricao": "FARMACOBOTÂNICA",
+    "Semestre": 6,
+    "Apelido": "FARMACOBOTÂNICA",
+    "CargaHorariaTeorico": 45,
+    "CargaHorariaPratica": null,
+    "ListaPrequisitos": []
+  },
+  {
+    "Id": 55347,
+    "Codigo": "2601.000.650-8",
+    "Tipo": "OBR",
+    "Descricao": "FARMACOLOGIA BÁSICA II",
+    "Semestre": 6,
+    "Apelido": "FARMACOLOGIA BÁSICA II",
+    "CargaHorariaTeorico": 45,
+    "CargaHorariaPratica": null,
+    "ListaPrequisitos": [
+      {
+        "Id": 55340,
+        "Codigo": "2601.000.644-6",
+        "Descricao": "FARMACOLOGIA BÁSICA I",
+        "Semestre": "0",
+        "Apelido": "FARMACOLOGIA BÁSICA I",
+        "CargaHorariaTeorico": 0,
+        "CargaHorariaPratica": 0,
+        "ListaPrequisitos": []
+      }
+    ]
+  },
+  {
+    "Id": 55374,
+    "Codigo": "2601.000.673-1",
+    "Tipo": "OBR",
+    "Descricao": "IMUNOLOGIA CLÍNICA",
+    "Semestre": 6,
+    "Apelido": "IMUNOLOGIA CLÍNICA",
+    "CargaHorariaTeorico": 60,
+    "CargaHorariaPratica": null,
+    "ListaPrequisitos": [
+      {
+        "Id": 55349,
+        "Codigo": "2701.000.674-2",
+        "Descricao": "IMUNOLOGIA BÁSICA",
+        "Semestre": "0",
+        "Apelido": "IMUNOLOGIA BÁSICA",
+        "CargaHorariaTeorico": 0,
+        "CargaHorariaPratica": 0,
+        "ListaPrequisitos": []
+      }
+    ]
+  },
+  {
+    "Id": 55355,
+    "Codigo": "2601.000.656-2",
+    "Tipo": "OBR",
+    "Descricao": "MICOLOGIA CLÍNICA",
+    "Semestre": 6,
+    "Apelido": "MICOLOGIA CLÍNICA",
+    "CargaHorariaTeorico": 60,
+    "CargaHorariaPratica": null,
+    "ListaPrequisitos": [
+      {
+        "Id": 55404,
+        "Codigo": "2601.000.698-3",
+        "Descricao": "MICROBIOLOGIA CLÍNICA",
+        "Semestre": "0",
+        "Apelido": "MICROBIOLOGIA CLÍNICA",
+        "CargaHorariaTeorico": 0,
+        "CargaHorariaPratica": 0,
+        "ListaPrequisitos": []
+      }
+    ]
+  },
+  {
+    "Id": 55395,
+    "Codigo": "2601.000.690-0",
+    "Tipo": "OBR",
+    "Descricao": "QUÍMICA FARMACÊUTICA II",
+    "Semestre": 6,
+    "Apelido": "QUÍMICA FARMACÊUTICA II",
+    "CargaHorariaTeorico": 60,
+    "CargaHorariaPratica": null,
+    "ListaPrequisitos": [
+      {
+        "Id": 55362,
+        "Codigo": "2601.000.662-4",
+        "Descricao": "QUÍMICA FARMACÊUTICA I",
+        "Semestre": "0",
+        "Apelido": "QUÍMICA FARMACÊUTICA I",
+        "CargaHorariaTeorico": 0,
+        "CargaHorariaPratica": 0,
+        "ListaPrequisitos": []
+      }
+    ]
+  },
+  {
+    "Id": 55413,
+    "Codigo": "2601.000.705-0",
+    "Tipo": "OBR",
+    "Descricao": "CONTROLE DE QUALIDADE DE FÁRMACOS E MEDICAMENTOS I",
+    "Semestre": 7,
+    "Apelido": "CONTROLE DE QUALIDADE DE FÁRMACOS E MEDICAMENTOS I",
+    "CargaHorariaTeorico": 60,
+    "CargaHorariaPratica": null,
+    "ListaPrequisitos": [
+      {
+        "Id": 55382,
+        "Codigo": "2301.000.432-0",
+        "Descricao": "QUÍMICA ANALÍTICA EXPERIMENTAL II",
+        "Semestre": "0",
+        "Apelido": "QUÍMICA ANALÍTICA EXPERIMENTAL II",
+        "CargaHorariaTeorico": 0,
+        "CargaHorariaPratica": 0,
+        "ListaPrequisitos": []
+      },
+      {
+        "Id": 55403,
+        "Codigo": "2301.000.434-8",
+        "Descricao": "QUIMICA ANALÍTICA II",
+        "Semestre": "0",
+        "Apelido": "QUIMICA ANALÍTICA II",
+        "CargaHorariaTeorico": 0,
+        "CargaHorariaPratica": 0,
+        "ListaPrequisitos": []
+      }
+    ]
+  },
+  {
+    "Id": 55353,
+    "Codigo": "2601.000.654-4",
+    "Tipo": "OBR",
+    "Descricao": "ESTÁGIO OBRIGATÓRIO NO SERVIÇO PÚBLICO DE SAÚDE",
+    "Semestre": 7,
+    "Apelido": "ESTÁGIO OBRIGATÓRIO NO SERVIÇO PÚBLICO DE SAÚDE",
+    "CargaHorariaTeorico": 148,
+    "CargaHorariaPratica": null,
+    "ListaPrequisitos": [
+      {
+        "Id": 55347,
+        "Codigo": "2601.000.650-8",
+        "Descricao": "FARMACOLOGIA BÁSICA II",
+        "Semestre": "0",
+        "Apelido": "FARMACOLOGIA BÁSICA II",
+        "CargaHorariaTeorico": 0,
+        "CargaHorariaPratica": 0,
+        "ListaPrequisitos": []
+      },
+      {
+        "Id": 55379,
+        "Codigo": "2601.000.678-7",
+        "Descricao": "ESTÁGIO OBRIGATÓRIO EM SAÚDE E COMUNIDADE",
+        "Semestre": "0",
+        "Apelido": "ESTÁGIO OBRIGATÓRIO EM SAÚDE E COMUNIDADE",
+        "CargaHorariaTeorico": 0,
+        "CargaHorariaPratica": 0,
+        "ListaPrequisitos": []
+      }
+    ]
+  },
+  {
+    "Id": 55418,
+    "Codigo": "2601.000.710-2",
+    "Tipo": "OBR",
+    "Descricao": "FARMACOGNOSIA",
+    "Semestre": 7,
+    "Apelido": "FARMACOGNOSIA",
+    "CargaHorariaTeorico": 60,
+    "CargaHorariaPratica": null,
+    "ListaPrequisitos": [
+      {
+        "Id": 55336,
+        "Codigo": "2301.000.426-8",
+        "Descricao": "QUÍMICA ORGÂNICA I",
+        "Semestre": "0",
+        "Apelido": "QUÍMICA ORGÂNICA I",
+        "CargaHorariaTeorico": 0,
+        "CargaHorariaPratica": 0,
+        "ListaPrequisitos": []
+      },
+      {
+        "Id": 55387,
+        "Codigo": "2601.000.684-9",
+        "Descricao": "FARMACOBOTÂNICA",
+        "Semestre": "0",
+        "Apelido": "FARMACOBOTÂNICA",
+        "CargaHorariaTeorico": 0,
+        "CargaHorariaPratica": 0,
+        "ListaPrequisitos": []
+      }
+    ]
+  },
+  {
+    "Id": 55391,
+    "Codigo": "2601.000.687-6",
+    "Tipo": "OBR",
+    "Descricao": "FARMACOLOGIA CLÍNICA E TERAPÊUTICA I",
+    "Semestre": 7,
+    "Apelido": "FARMACOLOGIA CLÍNICA E TERAPÊUTICA I",
+    "CargaHorariaTeorico": 45,
+    "CargaHorariaPratica": null,
+    "ListaPrequisitos": [
+      {
+        "Id": 55347,
+        "Codigo": "2601.000.650-8",
+        "Descricao": "FARMACOLOGIA BÁSICA II",
+        "Semestre": "0",
+        "Apelido": "FARMACOLOGIA BÁSICA II",
+        "CargaHorariaTeorico": 0,
+        "CargaHorariaPratica": 0,
+        "ListaPrequisitos": []
+      }
+    ]
+  },
+  {
+    "Id": 55372,
+    "Codigo": "2601.000.671-3",
+    "Tipo": "OBR",
+    "Descricao": "FARMACOTÉCNICA I",
+    "Semestre": 7,
+    "Apelido": "FARMACOTÉCNICA I",
+    "CargaHorariaTeorico": 60,
+    "CargaHorariaPratica": null,
+    "ListaPrequisitos": [
+      {
+        "Id": 55399,
+        "Codigo": "2601.000.694-7",
+        "Descricao": "FÍSICO-QUÍMICA APLICADA À FARMÁCIA",
+        "Semestre": "0",
+        "Apelido": "FÍSICO-QUÍMICA APLICADA À FARMÁCIA",
+        "CargaHorariaTeorico": 0,
+        "CargaHorariaPratica": 0,
+        "ListaPrequisitos": []
+      }
+    ]
+  },
+  {
+    "Id": 55343,
+    "Codigo": "2601.000.647-3",
+    "Tipo": "OBR",
+    "Descricao": "FLUIDOS ORGÂNICOS",
+    "Semestre": 7,
+    "Apelido": "FLUIDOS ORGÂNICOS",
+    "CargaHorariaTeorico": 60,
+    "CargaHorariaPratica": null,
+    "ListaPrequisitos": [
+      {
+        "Id": 53112,
+        "Codigo": "2701.000.596-0",
+        "Descricao": "PATOLOGIA GERAL",
+        "Semestre": "0",
+        "Apelido": "PATOLOGIA GERAL",
+        "CargaHorariaTeorico": 0,
+        "CargaHorariaPratica": 0,
+        "ListaPrequisitos": []
+      }
+    ]
+  },
+  {
+    "Id": 55410,
+    "Codigo": "2601.000.702-2",
+    "Tipo": "OBR",
+    "Descricao": "TOXICOLOGIA GERAL",
+    "Semestre": 7,
+    "Apelido": "TOXICOLOGIA GERAL",
+    "CargaHorariaTeorico": 45,
+    "CargaHorariaPratica": null,
+    "ListaPrequisitos": [
+      {
+        "Id": 55347,
+        "Codigo": "2601.000.650-8",
+        "Descricao": "FARMACOLOGIA BÁSICA II",
+        "Semestre": "0",
+        "Apelido": "FARMACOLOGIA BÁSICA II",
+        "CargaHorariaTeorico": 0,
+        "CargaHorariaPratica": 0,
+        "ListaPrequisitos": []
+      }
+    ]
+  },
+  {
+    "Id": 55417,
+    "Codigo": "2601.000.709-6",
+    "Tipo": "OBR",
+    "Descricao": "CONTROLE DE QUALIDADE DE FÁRMACOS E MEDICAMENTOS II",
+    "Semestre": 8,
+    "Apelido": "CONTROLE DE QUALIDADE DE FÁRMACOS E MEDICAMENTOS II",
+    "CargaHorariaTeorico": 60,
+    "CargaHorariaPratica": null,
+    "ListaPrequisitos": [
+      {
+        "Id": 55413,
+        "Codigo": "2601.000.705-0",
+        "Descricao": "CONTROLE DE QUALIDADE DE FÁRMACOS E MEDICAMENTOS I",
+        "Semestre": "0",
+        "Apelido": "CONTROLE DE QUALIDADE DE FÁRMACOS E MEDICAMENTOS I",
+        "CargaHorariaTeorico": 0,
+        "CargaHorariaPratica": 0,
+        "ListaPrequisitos": []
+      }
+    ]
+  },
+  {
+    "Id": 55396,
+    "Codigo": "2601.000.691-0",
+    "Tipo": "OBR",
+    "Descricao": "COSMETOLOGIA",
+    "Semestre": 8,
+    "Apelido": "COSMETOLOGIA",
+    "CargaHorariaTeorico": 60,
+    "CargaHorariaPratica": null,
+    "ListaPrequisitos": [
+      {
+        "Id": 55372,
+        "Codigo": "2601.000.671-3",
+        "Descricao": "FARMACOTÉCNICA I",
+        "Semestre": "0",
+        "Apelido": "FARMACOTÉCNICA I",
+        "CargaHorariaTeorico": 0,
+        "CargaHorariaPratica": 0,
+        "ListaPrequisitos": []
+      }
+    ]
+  },
+  {
+    "Id": 55354,
+    "Codigo": "2601.000.655-3",
+    "Tipo": "OBR",
+    "Descricao": "ESTÁGIO OBRIGATÓRIO EM DROGARIA",
+    "Semestre": 8,
+    "Apelido": "ESTÁGIO OBRIGATÓRIO EM DROGARIA",
+    "CargaHorariaTeorico": 116,
+    "CargaHorariaPratica": null,
+    "ListaPrequisitos": [
+      {
+        "Id": 55391,
+        "Codigo": "2601.000.687-6",
+        "Descricao": "FARMACOLOGIA CLÍNICA E TERAPÊUTICA I",
+        "Semestre": "0",
+        "Apelido": "FARMACOLOGIA CLÍNICA E TERAPÊUTICA I",
+        "CargaHorariaTeorico": 0,
+        "CargaHorariaPratica": 0,
+        "ListaPrequisitos": []
+      }
+    ]
+  },
+  {
+    "Id": 55364,
+    "Codigo": "2601.000.664-2",
+    "Tipo": "OBR",
+    "Descricao": "FARMACOLOGIA CLÍNICA E TERAPÊUTICA II",
+    "Semestre": 8,
+    "Apelido": "FARMACOLOGIA CLÍNICA E TERAPÊUTICA II",
+    "CargaHorariaTeorico": 45,
+    "CargaHorariaPratica": null,
+    "ListaPrequisitos": [
+      {
+        "Id": 55391,
+        "Codigo": "2601.000.687-6",
+        "Descricao": "FARMACOLOGIA CLÍNICA E TERAPÊUTICA I",
+        "Semestre": "0",
+        "Apelido": "FARMACOLOGIA CLÍNICA E TERAPÊUTICA I",
+        "CargaHorariaTeorico": 0,
+        "CargaHorariaPratica": 0,
+        "ListaPrequisitos": []
+      }
+    ]
+  },
+  {
+    "Id": 55393,
+    "Codigo": "2601.000.689-4",
+    "Tipo": "OBR",
+    "Descricao": "FARMACOTÉCNICA II",
+    "Semestre": 8,
+    "Apelido": "FARMACOTÉCNICA II",
+    "CargaHorariaTeorico": 60,
+    "CargaHorariaPratica": null,
+    "ListaPrequisitos": [
+      {
+        "Id": 55372,
+        "Codigo": "2601.000.671-3",
+        "Descricao": "FARMACOTÉCNICA I",
+        "Semestre": "0",
+        "Apelido": "FARMACOTÉCNICA I",
+        "CargaHorariaTeorico": 0,
+        "CargaHorariaPratica": 0,
+        "ListaPrequisitos": []
+      }
+    ]
+  },
+  {
+    "Id": 55392,
+    "Codigo": "2601.000.688-5",
+    "Tipo": "OBR",
+    "Descricao": "FITOTERAPIA E CONTROLE DE QUALIDADE DE PLANTAS MEDICINAIS",
+    "Semestre": 8,
+    "Apelido": "FITOTERAPIA E CONTROLE DE QUALIDADE DE PLANTAS MEDICINAIS",
+    "CargaHorariaTeorico": 60,
+    "CargaHorariaPratica": null,
+    "ListaPrequisitos": [
+      {
+        "Id": 55418,
+        "Codigo": "2601.000.710-2",
+        "Descricao": "FARMACOGNOSIA",
+        "Semestre": "0",
+        "Apelido": "FARMACOGNOSIA",
+        "CargaHorariaTeorico": 0,
+        "CargaHorariaPratica": 0,
+        "ListaPrequisitos": []
+      }
+    ]
+  },
+  {
+    "Id": 55401,
+    "Codigo": "2601.000.696-5",
+    "Tipo": "OBR",
+    "Descricao": "BIOQUÍMICA CLÍNICA",
+    "Semestre": 9,
+    "Apelido": "BIOQUÍMICA CLÍNICA",
+    "CargaHorariaTeorico": 75,
+    "CargaHorariaPratica": null,
+    "ListaPrequisitos": [
+      {
+        "Id": 52623,
+        "Codigo": "2701.000.451-4",
+        "Descricao": "BIOQUÍMICA II",
+        "Semestre": "0",
+        "Apelido": "BIOQUÍMICA II",
+        "CargaHorariaTeorico": 0,
+        "CargaHorariaPratica": 0,
+        "ListaPrequisitos": []
+      },
+      {
+        "Id": 53112,
+        "Codigo": "2701.000.596-0",
+        "Descricao": "PATOLOGIA GERAL",
+        "Semestre": "0",
+        "Apelido": "PATOLOGIA GERAL",
+        "CargaHorariaTeorico": 0,
+        "CargaHorariaPratica": 0,
+        "ListaPrequisitos": []
+      },
+      {
+        "Id": 55407,
+        "Codigo": "2701.000.677-0",
+        "Descricao": "FISIOLOGIA",
+        "Semestre": "0",
+        "Apelido": "FISIOLOGIA",
+        "CargaHorariaTeorico": 0,
+        "CargaHorariaPratica": 0,
+        "ListaPrequisitos": []
+      }
+    ]
+  },
+  {
+    "Id": 55356,
+    "Codigo": "2601.000.657-1",
+    "Tipo": "OBR",
+    "Descricao": "CUIDADO FARMACÊUTICO I",
+    "Semestre": 9,
+    "Apelido": "CUIDADO FARMACÊUTICO I",
+    "CargaHorariaTeorico": 60,
+    "CargaHorariaPratica": null,
+    "ListaPrequisitos": [
+      {
+        "Id": 55347,
+        "Codigo": "2601.000.650-8",
+        "Descricao": "FARMACOLOGIA BÁSICA II",
+        "Semestre": "0",
+        "Apelido": "FARMACOLOGIA BÁSICA II",
+        "CargaHorariaTeorico": 0,
+        "CargaHorariaPratica": 0,
+        "ListaPrequisitos": []
+      }
+    ]
+  },
+  {
+    "Id": 47548,
+    "Codigo": "2601.000.396-3",
+    "Tipo": "OBR",
+    "Descricao": "ESTÁGIO OBRIGATÓRIO EM ESPECIFICIDADES REGIONAIS",
+    "Semestre": 9,
+    "Apelido": "ESTÁGIO OBRIGATÓRIO EM ESPECIFICIDADES REGIONAIS",
+    "CargaHorariaTeorico": 90,
+    "CargaHorariaPratica": null,
+    "ListaPrequisitos": [
+      {
+        "Id": 55347,
+        "Codigo": "2601.000.650-8",
+        "Descricao": "FARMACOLOGIA BÁSICA II",
+        "Semestre": "0",
+        "Apelido": "FARMACOLOGIA BÁSICA II",
+        "CargaHorariaTeorico": 0,
+        "CargaHorariaPratica": 0,
+        "ListaPrequisitos": []
+      }
+    ]
+  },
+  {
+    "Id": 45751,
+    "Codigo": "2601.000.293-9",
+    "Tipo": "OBR",
+    "Descricao": "ESTÁGIO OBRIGATÓRIO EM FARMÁCIA COM MANIPULAÇÃO",
+    "Semestre": 9,
+    "Apelido": "ESTÁGIO OBRIGATÓRIO EM FARMÁCIA COM MANIPULAÇÃO",
+    "CargaHorariaTeorico": 108,
+    "CargaHorariaPratica": null,
+    "ListaPrequisitos": [
+      {
+        "Id": 55393,
+        "Codigo": "2601.000.689-4",
+        "Descricao": "FARMACOTÉCNICA II",
+        "Semestre": "0",
+        "Apelido": "FARMACOTÉCNICA II",
+        "CargaHorariaTeorico": 0,
+        "CargaHorariaPratica": 0,
+        "ListaPrequisitos": []
+      },
+      {
+        "Id": 55413,
+        "Codigo": "2601.000.705-0",
+        "Descricao": "CONTROLE DE QUALIDADE DE FÁRMACOS E MEDICAMENTOS I",
+        "Semestre": "0",
+        "Apelido": "CONTROLE DE QUALIDADE DE FÁRMACOS E MEDICAMENTOS I",
+        "CargaHorariaTeorico": 0,
+        "CargaHorariaPratica": 0,
+        "ListaPrequisitos": []
+      }
+    ]
+  },
+  {
+    "Id": 55377,
+    "Codigo": "2601.000.676-9",
+    "Tipo": "OBR",
+    "Descricao": "FUNDAMENTAÇÃO PARA O PROJETO DE CONCLUSÃO DE CURSO",
+    "Semestre": 9,
+    "Apelido": "FUNDAMENTAÇÃO PARA O PROJETO DE CONCLUSÃO DE CURSO",
+    "CargaHorariaTeorico": 45,
+    "CargaHorariaPratica": null,
+    "ListaPrequisitos": [
+      {
+        "Id": 55400,
+        "Codigo": "2601.000.695-6",
+        "Descricao": "METODOLOGIA CIENTÍFICA",
+        "Semestre": "0",
+        "Apelido": "METODOLOGIA CIENTÍFICA",
+        "CargaHorariaTeorico": 0,
+        "CargaHorariaPratica": 0,
+        "ListaPrequisitos": []
+      }
+    ]
+  },
+  {
+    "Id": 55357,
+    "Codigo": "2601.000.658-0",
+    "Tipo": "OBR",
+    "Descricao": "HEMATOLOGIA CLÍNICA",
+    "Semestre": 9,
+    "Apelido": "HEMATOLOGIA CLÍNICA",
+    "CargaHorariaTeorico": 75,
+    "CargaHorariaPratica": null,
+    "ListaPrequisitos": [
+      {
+        "Id": 53112,
+        "Codigo": "2701.000.596-0",
+        "Descricao": "PATOLOGIA GERAL",
+        "Semestre": "0",
+        "Apelido": "PATOLOGIA GERAL",
+        "CargaHorariaTeorico": 0,
+        "CargaHorariaPratica": 0,
+        "ListaPrequisitos": []
+      }
+    ]
+  },
+  {
+    "Id": 55388,
+    "Codigo": "2601.000.685-8",
+    "Tipo": "OBR",
+    "Descricao": "TECNOLOGIA FARMACÊUTICA",
+    "Semestre": 9,
+    "Apelido": "TECNOLOGIA FARMACÊUTICA",
+    "CargaHorariaTeorico": 60,
+    "CargaHorariaPratica": null,
+    "ListaPrequisitos": [
+      {
+        "Id": 55393,
+        "Codigo": "2601.000.689-4",
+        "Descricao": "FARMACOTÉCNICA II",
+        "Semestre": "0",
+        "Apelido": "FARMACOTÉCNICA II",
+        "CargaHorariaTeorico": 0,
+        "CargaHorariaPratica": 0,
+        "ListaPrequisitos": []
+      }
+    ]
+  },
+  {
+    "Id": 55359,
+    "Codigo": "2601.000.660-6",
+    "Tipo": "OBR",
+    "Descricao": "CUIDADO FARMACÊUTICO II",
+    "Semestre": 10,
+    "Apelido": "CUIDADO FARMACÊUTICO II",
+    "CargaHorariaTeorico": 60,
+    "CargaHorariaPratica": null,
+    "ListaPrequisitos": [
+      {
+        "Id": 55356,
+        "Codigo": "2601.000.657-1",
+        "Descricao": "CUIDADO FARMACÊUTICO I",
+        "Semestre": "0",
+        "Apelido": "CUIDADO FARMACÊUTICO I",
+        "CargaHorariaTeorico": 0,
+        "CargaHorariaPratica": 0,
+        "ListaPrequisitos": []
+      }
+    ]
+  },
+  {
+    "Id": 45786,
+    "Codigo": "2601.000.323-9",
+    "Tipo": "OBR",
+    "Descricao": "ESTÁGIO OBRIGATÓRIO EM ANÁLISES CLÍNICAS, TOXICOLÓGICAS, GENÉTICAS E ALIMENTOS",
+    "Semestre": 10,
+    "Apelido": "ESTÁGIO OBRIGATÓRIO EM ANÁLISES CLÍNICAS, TOXICOLÓGICAS, GENÉTICAS E ALIMENTOS",
+    "CargaHorariaTeorico": 270,
+    "CargaHorariaPratica": null,
+    "ListaPrequisitos": [
+      {
+        "Id": 52692,
+        "Codigo": "2601.000.545-8",
+        "Descricao": "BROMATOLOGIA",
+        "Semestre": "0",
+        "Apelido": "BROMATOLOGIA",
+        "CargaHorariaTeorico": 0,
+        "CargaHorariaPratica": 0,
+        "ListaPrequisitos": []
+      },
+      {
+        "Id": 55343,
+        "Codigo": "2601.000.647-3",
+        "Descricao": "FLUIDOS ORGÂNICOS",
+        "Semestre": "0",
+        "Apelido": "FLUIDOS ORGÂNICOS",
+        "CargaHorariaTeorico": 0,
+        "CargaHorariaPratica": 0,
+        "ListaPrequisitos": []
+      },
+      {
+        "Id": 55355,
+        "Codigo": "2601.000.656-2",
+        "Descricao": "MICOLOGIA CLÍNICA",
+        "Semestre": "0",
+        "Apelido": "MICOLOGIA CLÍNICA",
+        "CargaHorariaTeorico": 0,
+        "CargaHorariaPratica": 0,
+        "ListaPrequisitos": []
+      },
+      {
+        "Id": 55357,
+        "Codigo": "2601.000.658-0",
+        "Descricao": "HEMATOLOGIA CLÍNICA",
+        "Semestre": "0",
+        "Apelido": "HEMATOLOGIA CLÍNICA",
+        "CargaHorariaTeorico": 0,
+        "CargaHorariaPratica": 0,
+        "ListaPrequisitos": []
+      },
+      {
+        "Id": 55374,
+        "Codigo": "2601.000.673-1",
+        "Descricao": "IMUNOLOGIA CLÍNICA",
+        "Semestre": "0",
+        "Apelido": "IMUNOLOGIA CLÍNICA",
+        "CargaHorariaTeorico": 0,
+        "CargaHorariaPratica": 0,
+        "ListaPrequisitos": []
+      },
+      {
+        "Id": 55384,
+        "Codigo": "2601.000.681-1",
+        "Descricao": "PARASITOLOGIA CLÍNICA",
+        "Semestre": "0",
+        "Apelido": "PARASITOLOGIA CLÍNICA",
+        "CargaHorariaTeorico": 0,
+        "CargaHorariaPratica": 0,
+        "ListaPrequisitos": []
+      },
+      {
+        "Id": 55401,
+        "Codigo": "2601.000.696-5",
+        "Descricao": "BIOQUÍMICA CLÍNICA",
+        "Semestre": "0",
+        "Apelido": "BIOQUÍMICA CLÍNICA",
+        "CargaHorariaTeorico": 0,
+        "CargaHorariaPratica": 0,
+        "ListaPrequisitos": []
+      },
+      {
+        "Id": 55404,
+        "Codigo": "2601.000.698-3",
+        "Descricao": "MICROBIOLOGIA CLÍNICA",
+        "Semestre": "0",
+        "Apelido": "MICROBIOLOGIA CLÍNICA",
+        "CargaHorariaTeorico": 0,
+        "CargaHorariaPratica": 0,
+        "ListaPrequisitos": []
+      }
+    ]
+  },
+  {
+    "Id": 55346,
+    "Codigo": "2601.000.649-1",
+    "Tipo": "OBR",
+    "Descricao": "GESTÃO EM SAÚDE",
+    "Semestre": 10,
+    "Apelido": "GESTÃO EM SAÚDE",
+    "CargaHorariaTeorico": 30,
+    "CargaHorariaPratica": null,
+    "ListaPrequisitos": []
+  },
+  {
+    "Id": 55381,
+    "Codigo": "2601.000.679-6",
+    "Tipo": "OPT",
+    "Descricao": "ANÁLISE E APRESENTAÇÃO DE DADOS BIOLÓGICOS",
+    "Semestre": 99,
+    "Apelido": "ANÁLISE E APRESENTAÇÃO DE DADOS BIOLÓGICOS",
+    "CargaHorariaTeorico": 30,
+    "CargaHorariaPratica": null,
+    "ListaPrequisitos": []
+  },
+  {
+    "Id": 55370,
+    "Codigo": "2601.000.669-8",
+    "Tipo": "OPT",
+    "Descricao": "ANÁLISE FÍSICO-QUÍMICA DE ALIMENTOS",
+    "Semestre": 99,
+    "Apelido": "ANÁLISE FÍSICO-QUÍMICA DE ALIMENTOS",
+    "CargaHorariaTeorico": 45,
+    "CargaHorariaPratica": null,
+    "ListaPrequisitos": []
+  },
+  {
+    "Id": 55367,
+    "Codigo": "2601.000.666-0",
+    "Tipo": "OPT",
+    "Descricao": "AURICULOTERAPIA",
+    "Semestre": 99,
+    "Apelido": "AURICULOTERAPIA",
+    "CargaHorariaTeorico": 45,
+    "CargaHorariaPratica": null,
+    "ListaPrequisitos": []
+  },
+  {
+    "Id": 52640,
+    "Codigo": "2801.000.176-6",
+    "Tipo": "OPT",
+    "Descricao": "BIOESTATÍSTICA",
+    "Semestre": 99,
+    "Apelido": "BIOESTATÍSTICA",
+    "CargaHorariaTeorico": 30,
+    "CargaHorariaPratica": null,
+    "ListaPrequisitos": []
+  },
+  {
+    "Id": 55358,
+    "Codigo": "2601.000.659-0",
+    "Tipo": "OPT",
+    "Descricao": "BIOESTATÍSTICA APLICADA À FARMÁCIA",
+    "Semestre": 99,
+    "Apelido": "BIOESTATÍSTICA APLICADA À FARMÁCIA",
+    "CargaHorariaTeorico": 30,
+    "CargaHorariaPratica": null,
+    "ListaPrequisitos": [
+      {
+        "Id": 55386,
+        "Codigo": "2601.000.683-0",
+        "Descricao": "CÁLCULO FARMACÊUTICO",
+        "Semestre": "0",
+        "Apelido": "CÁLCULO FARMACÊUTICO",
+        "CargaHorariaTeorico": 0,
+        "CargaHorariaPratica": 0,
+        "ListaPrequisitos": []
+      }
+    ]
+  },
+  {
+    "Id": 55389,
+    "Codigo": "2601.000.686-7",
+    "Tipo": "OPT",
+    "Descricao": "CITOLOGIA CLÍNICA",
+    "Semestre": 99,
+    "Apelido": "CITOLOGIA CLÍNICA",
+    "CargaHorariaTeorico": 60,
+    "CargaHorariaPratica": null,
+    "ListaPrequisitos": []
+  },
+  {
+    "Id": 55415,
+    "Codigo": "2601.000.707-8",
+    "Tipo": "OPT",
+    "Descricao": "CONTROLE MICROBIOLÓGICO DE FÁRMACOS E MEDICAMENTOS",
+    "Semestre": 99,
+    "Apelido": "CONTROLE MICROBIOLÓGICO DE FÁRMACOS E MEDICAMENTOS",
+    "CargaHorariaTeorico": 45,
+    "CargaHorariaPratica": null,
+    "ListaPrequisitos": []
+  },
+  {
+    "Id": 55408,
+    "Codigo": "2601.000.700-4",
+    "Tipo": "OPT",
+    "Descricao": "DIAGNÓSTICO MOLECULAR DE DOENÇAS INFECCIOSAS E PARASITÁRIAS",
+    "Semestre": 99,
+    "Apelido": "DIAGNÓSTICO MOLECULAR DE DOENÇAS INFECCIOSAS E PARASITÁRIAS",
+    "CargaHorariaTeorico": 45,
+    "CargaHorariaPratica": null,
+    "ListaPrequisitos": [
+      {
+        "Id": 55412,
+        "Codigo": "2601.000.704-0",
+        "Descricao": "BIOLOGIA CELULAR E MOLECULAR",
+        "Semestre": "0",
+        "Apelido": "BIOLOGIA CELULAR E MOLECULAR",
+        "CargaHorariaTeorico": 0,
+        "CargaHorariaPratica": 0,
+        "ListaPrequisitos": []
+      }
+    ]
+  },
+  {
+    "Id": 55390,
+    "Codigo": "3001.000.756-8",
+    "Tipo": "OPT",
+    "Descricao": "EDUCAÇÃO DAS RELAÇÕES ÉTNICO-RACIAIS",
+    "Semestre": 99,
+    "Apelido": "EDUCAÇÃO DAS RELAÇÕES ÉTNICO-RACIAIS",
+    "CargaHorariaTeorico": 60,
+    "CargaHorariaPratica": null,
+    "ListaPrequisitos": []
+  },
+  {
+    "Id": 52308,
+    "Codigo": "0100.000.003-0",
+    "Tipo": "NFC",
+    "Descricao": "EMPREENDEDORISMO E INOVAÇÃO",
+    "Semestre": 99,
+    "Apelido": "EMPREENDEDORISMO E INOVAÇÃO",
+    "CargaHorariaTeorico": 30,
+    "CargaHorariaPratica": null,
+    "ListaPrequisitos": []
+  },
+  {
+    "Id": 52345,
+    "Codigo": "0100.000.004-9",
+    "Tipo": "OPT",
+    "Descricao": "EMPREENDEDORISMO E INOVAÇÃO",
+    "Semestre": 99,
+    "Apelido": "EMPREENDEDORISMO E INOVAÇÃO",
+    "CargaHorariaTeorico": 60,
+    "CargaHorariaPratica": null,
+    "ListaPrequisitos": []
+  },
+  {
+    "Id": 52889,
+    "Codigo": "2801.000.230-6",
+    "Tipo": "OPT",
+    "Descricao": "EPIDEMIOLOGIA",
+    "Semestre": 99,
+    "Apelido": "EPIDEMIOLOGIA",
+    "CargaHorariaTeorico": 30,
+    "CargaHorariaPratica": null,
+    "ListaPrequisitos": []
+  },
+  {
+    "Id": 45756,
+    "Codigo": "2601.000.296-6",
+    "Tipo": "OPT",
+    "Descricao": "ESTÁGIO OBRIGATÓRIO COMPLEMENTAR",
+    "Semestre": 99,
+    "Apelido": "ESTÁGIO OBRIGATÓRIO COMPLEMENTAR",
+    "CargaHorariaTeorico": 34,
+    "CargaHorariaPratica": null,
+    "ListaPrequisitos": []
+  },
+  {
+    "Id": 52303,
+    "Codigo": "3101.000.707-8",
+    "Tipo": "OPT",
+    "Descricao": "ESTUDO DE LIBRAS",
+    "Semestre": 99,
+    "Apelido": "ESTUDO DE LIBRAS",
+    "CargaHorariaTeorico": 45,
+    "CargaHorariaPratica": null,
+    "ListaPrequisitos": []
+  },
+  {
+    "Id": 55344,
+    "Codigo": "2601.000.648-2",
+    "Tipo": "OPT",
+    "Descricao": "FARMACOEPIDEMIOLOGIA",
+    "Semestre": 99,
+    "Apelido": "FARMACOEPIDEMIOLOGIA",
+    "CargaHorariaTeorico": 45,
+    "CargaHorariaPratica": null,
+    "ListaPrequisitos": []
+  },
+  {
+    "Id": 55369,
+    "Codigo": "2601.000.668-9",
+    "Tipo": "OPT",
+    "Descricao": "FUNDAMENTOS DE CROMATOGRAFIA",
+    "Semestre": 99,
+    "Apelido": "FUNDAMENTOS DE CROMATOGRAFIA",
+    "CargaHorariaTeorico": 45,
+    "CargaHorariaPratica": null,
+    "ListaPrequisitos": [
+      {
+        "Id": 55339,
+        "Codigo": "2301.000.429-5",
+        "Descricao": "QUÍMICA ORGÂNICA II",
+        "Semestre": "0",
+        "Apelido": "QUÍMICA ORGÂNICA II",
+        "CargaHorariaTeorico": 0,
+        "CargaHorariaPratica": 0,
+        "ListaPrequisitos": []
+      },
+      {
+        "Id": 55403,
+        "Codigo": "2301.000.434-8",
+        "Descricao": "QUIMICA ANALÍTICA II",
+        "Semestre": "0",
+        "Apelido": "QUIMICA ANALÍTICA II",
+        "CargaHorariaTeorico": 0,
+        "CargaHorariaPratica": 0,
+        "ListaPrequisitos": []
+      }
+    ]
+  },
+  {
+    "Id": 52339,
+    "Codigo": "3101.000.708-7",
+    "Tipo": "OPT",
+    "Descricao": "FUNDAMENTOS DE DIDÁTICA",
+    "Semestre": 99,
+    "Apelido": "FUNDAMENTOS DE DIDÁTICA",
+    "CargaHorariaTeorico": 45,
+    "CargaHorariaPratica": null,
+    "ListaPrequisitos": []
+  },
+  {
+    "Id": 53039,
+    "Codigo": "2701.000.577-2",
+    "Tipo": "OPT",
+    "Descricao": "GESTÃO AMBIENTAL",
+    "Semestre": 99,
+    "Apelido": "GESTÃO AMBIENTAL",
+    "CargaHorariaTeorico": 45,
+    "CargaHorariaPratica": null,
+    "ListaPrequisitos": []
+  },
+  {
+    "Id": 55366,
+    "Codigo": "2601.000.665-1",
+    "Tipo": "OPT",
+    "Descricao": "GESTÃO DA QUALIDADE EM ANÁLISES CLÍNICAS",
+    "Semestre": 99,
+    "Apelido": "GESTÃO DA QUALIDADE EM ANÁLISES CLÍNICAS",
+    "CargaHorariaTeorico": 45,
+    "CargaHorariaPratica": null,
+    "ListaPrequisitos": [
+      {
+        "Id": 55341,
+        "Codigo": "2601.000.645-5",
+        "Descricao": "DEONTOLOGIA E LEGISLAÇÃO FARMACÊUTICA",
+        "Semestre": "0",
+        "Apelido": "DEONTOLOGIA E LEGISLAÇÃO FARMACÊUTICA",
+        "CargaHorariaTeorico": 0,
+        "CargaHorariaPratica": 0,
+        "ListaPrequisitos": []
+      }
+    ]
+  },
+  {
+    "Id": 55342,
+    "Codigo": "2601.000.646-4",
+    "Tipo": "OPT",
+    "Descricao": "HOMEOPATIA",
+    "Semestre": 99,
+    "Apelido": "HOMEOPATIA",
+    "CargaHorariaTeorico": 60,
+    "CargaHorariaPratica": null,
+    "ListaPrequisitos": []
+  },
+  {
+    "Id": 52306,
+    "Codigo": "0100.000.001-1",
+    "Tipo": "NFC",
+    "Descricao": "INTELIGÊNCIA ARTIFICIAL: FUNDAMENTOS E PRÁTICAS",
+    "Semestre": 99,
+    "Apelido": "INTELIGÊNCIA ARTIFICIAL: FUNDAMENTOS E PRÁTICAS",
+    "CargaHorariaTeorico": 30,
+    "CargaHorariaPratica": null,
+    "ListaPrequisitos": []
+  },
+  {
+    "Id": 55375,
+    "Codigo": "2601.000.674-0",
+    "Tipo": "OPT",
+    "Descricao": "INTERPRETAÇÃO DOS EXAMES LABORATORIAIS NA ATENÇÃO FARMACÊUTICA",
+    "Semestre": 99,
+    "Apelido": "INTERPRETAÇÃO DOS EXAMES LABORATORIAIS NA ATENÇÃO FARMACÊUTICA",
+    "CargaHorariaTeorico": 45,
+    "CargaHorariaPratica": null,
+    "ListaPrequisitos": []
+  },
+  {
+    "Id": 55363,
+    "Codigo": "2601.000.663-3",
+    "Tipo": "OPT",
+    "Descricao": "INTRODUÇÃO À VIROLOGIA HUMANA",
+    "Semestre": 99,
+    "Apelido": "INTRODUÇÃO À VIROLOGIA HUMANA",
+    "CargaHorariaTeorico": 45,
+    "CargaHorariaPratica": null,
+    "ListaPrequisitos": [
+      {
+        "Id": 55412,
+        "Codigo": "2601.000.704-0",
+        "Descricao": "BIOLOGIA CELULAR E MOLECULAR",
+        "Semestre": "0",
+        "Apelido": "BIOLOGIA CELULAR E MOLECULAR",
+        "CargaHorariaTeorico": 0,
+        "CargaHorariaPratica": 0,
+        "ListaPrequisitos": []
+      }
+    ]
+  },
+  {
+    "Id": 55348,
+    "Codigo": "2601.000.651-7",
+    "Tipo": "OPT",
+    "Descricao": "MICROBIOLOGIA DE ALIMENTOS",
+    "Semestre": 99,
+    "Apelido": "MICROBIOLOGIA DE ALIMENTOS",
+    "CargaHorariaTeorico": 60,
+    "CargaHorariaPratica": null,
+    "ListaPrequisitos": []
+  },
+  {
+    "Id": 55383,
+    "Codigo": "2601.000.680-2",
+    "Tipo": "OPT",
+    "Descricao": "PRINCÍPIOS DE TECNOLOGIA DE ALIMENTOS",
+    "Semestre": 99,
+    "Apelido": "PRINCÍPIOS DE TECNOLOGIA DE ALIMENTOS",
+    "CargaHorariaTeorico": 45,
+    "CargaHorariaPratica": null,
+    "ListaPrequisitos": []
+  },
+  {
+    "Id": 55378,
+    "Codigo": "2601.000.677-8",
+    "Tipo": "OPT",
+    "Descricao": "SERVIÇOS FARMACÊUTICOS",
+    "Semestre": 99,
+    "Apelido": "SERVIÇOS FARMACÊUTICOS",
+    "CargaHorariaTeorico": 60,
+    "CargaHorariaPratica": null,
+    "ListaPrequisitos": [
+      {
+        "Id": 55356,
+        "Codigo": "2601.000.657-1",
+        "Descricao": "CUIDADO FARMACÊUTICO I",
+        "Semestre": "0",
+        "Apelido": "CUIDADO FARMACÊUTICO I",
+        "CargaHorariaTeorico": 0,
+        "CargaHorariaPratica": 0,
+        "ListaPrequisitos": []
+      }
+    ]
+  },
+  {
+    "Id": 55373,
+    "Codigo": "2601.000.672-2",
+    "Tipo": "OPT",
+    "Descricao": "SISTEMAS DE LIBERAÇÃO DE FÁRMACOS",
+    "Semestre": 99,
+    "Apelido": "SISTEMAS DE LIBERAÇÃO DE FÁRMACOS",
+    "CargaHorariaTeorico": 30,
+    "CargaHorariaPratica": null,
+    "ListaPrequisitos": [
+      {
+        "Id": 55372,
+        "Codigo": "2601.000.671-3",
+        "Descricao": "FARMACOTÉCNICA I",
+        "Semestre": "0",
+        "Apelido": "FARMACOTÉCNICA I",
+        "CargaHorariaTeorico": 0,
+        "CargaHorariaPratica": 0,
+        "ListaPrequisitos": []
+      }
+    ]
+  },
+  {
+    "Id": 52682,
+    "Codigo": "2601.000.539-6",
+    "Tipo": "OPT",
+    "Descricao": "TECNOLOGIA DE ALIMENTOS DE ORIGEM ANIMAL",
+    "Semestre": 99,
+    "Apelido": "TECNOLOGIA DE ALIMENTOS DE ORIGEM ANIMAL",
+    "CargaHorariaTeorico": 45,
+    "CargaHorariaPratica": null,
+    "ListaPrequisitos": []
+  },
+  {
+    "Id": 52658,
+    "Codigo": "2601.000.523-3",
+    "Tipo": "OPT",
+    "Descricao": "TECNOLOGIA DE ALIMENTOS DE ORIGEM VEGETAL",
+    "Semestre": 99,
+    "Apelido": "TECNOLOGIA DE ALIMENTOS DE ORIGEM VEGETAL",
+    "CargaHorariaTeorico": 45,
+    "CargaHorariaPratica": null,
+    "ListaPrequisitos": []
+  },
+  {
+    "Id": 55295,
+    "Codigo": "2601.000.607-0",
+    "Tipo": "OPT",
+    "Descricao": "TECNOLOGIA DE BEBIDAS ALCOÓLICAS",
+    "Semestre": 99,
+    "Apelido": "TECNOLOGIA DE BEBIDAS ALCOÓLICAS",
+    "CargaHorariaTeorico": 45,
+    "CargaHorariaPratica": null,
+    "ListaPrequisitos": []
+  },
+  {
+    "Id": 52598,
+    "Codigo": "2601.000.476-4",
+    "Tipo": "OPT",
+    "Descricao": "TECNOLOGIAS EMERGENTES EM CONSERVAÇÃO DE ALIMENTOS",
+    "Semestre": 99,
+    "Apelido": "TECNOLOGIAS EMERGENTES EM CONSERVAÇÃO DE ALIMENTOS",
+    "CargaHorariaTeorico": 30,
+    "CargaHorariaPratica": null,
+    "ListaPrequisitos": []
+  },
+  {
+    "Id": 55368,
+    "Codigo": "2601.000.667-0",
+    "Tipo": "OPT",
+    "Descricao": "TÓPICOS EM FARMÁCIA I",
+    "Semestre": 99,
+    "Apelido": "TÓPICOS EM FARMÁCIA I",
+    "CargaHorariaTeorico": 30,
+    "CargaHorariaPratica": null,
+    "ListaPrequisitos": []
+  },
+  {
+    "Id": 55414,
+    "Codigo": "2601.000.706-9",
+    "Tipo": "OPT",
+    "Descricao": "TÓPICOS EM FARMÁCIA II",
+    "Semestre": 99,
+    "Apelido": "TÓPICOS EM FARMÁCIA II",
+    "CargaHorariaTeorico": 30,
+    "CargaHorariaPratica": null,
+    "ListaPrequisitos": []
+  },
+  {
+    "Id": 55351,
+    "Codigo": "2601.000.653-5",
+    "Tipo": "OPT",
+    "Descricao": "TÓPICOS EM FARMÁCIA III",
+    "Semestre": 99,
+    "Apelido": "TÓPICOS EM FARMÁCIA III",
+    "CargaHorariaTeorico": 30,
+    "CargaHorariaPratica": null,
+    "ListaPrequisitos": []
+  },
+  {
+    "Id": 55376,
+    "Codigo": "2601.000.675-0",
+    "Tipo": "OPT",
+    "Descricao": "TÓPICOS EM FARMÁCIA IV",
+    "Semestre": 99,
+    "Apelido": "TÓPICOS EM FARMÁCIA IV",
+    "CargaHorariaTeorico": 30,
+    "CargaHorariaPratica": null,
+    "ListaPrequisitos": []
+  },
+  {
+    "Id": 55397,
+    "Codigo": "2601.000.692-9",
+    "Tipo": "OPT",
+    "Descricao": "TÓPICOS EM FARMÁCIA IX",
+    "Semestre": 99,
+    "Apelido": "TÓPICOS EM FARMÁCIA IX",
+    "CargaHorariaTeorico": 60,
+    "CargaHorariaPratica": null,
+    "ListaPrequisitos": []
+  },
+  {
+    "Id": 55360,
+    "Codigo": "2601.000.661-5",
+    "Tipo": "OPT",
+    "Descricao": "TÓPICOS EM FARMÁCIA V",
+    "Semestre": 99,
+    "Apelido": "TÓPICOS EM FARMÁCIA V",
+    "CargaHorariaTeorico": 30,
+    "CargaHorariaPratica": null,
+    "ListaPrequisitos": []
+  },
+  {
+    "Id": 55371,
+    "Codigo": "2601.000.670-4",
+    "Tipo": "OPT",
+    "Descricao": "TÓPICOS EM FARMÁCIA VI",
+    "Semestre": 99,
+    "Apelido": "TÓPICOS EM FARMÁCIA VI",
+    "CargaHorariaTeorico": 45,
+    "CargaHorariaPratica": null,
+    "ListaPrequisitos": []
+  },
+  {
+    "Id": 55416,
+    "Codigo": "2601.000.708-7",
+    "Tipo": "OPT",
+    "Descricao": "TÓPICOS EM FARMÁCIA VII",
+    "Semestre": 99,
+    "Apelido": "TÓPICOS EM FARMÁCIA VII",
+    "CargaHorariaTeorico": 45,
+    "CargaHorariaPratica": null,
+    "ListaPrequisitos": []
+  },
+  {
+    "Id": 55350,
+    "Codigo": "2601.000.652-6",
+    "Tipo": "OPT",
+    "Descricao": "TÓPICOS EM FARMÁCIA VIII",
+    "Semestre": 99,
+    "Apelido": "TÓPICOS EM FARMÁCIA VIII",
+    "CargaHorariaTeorico": 60,
+    "CargaHorariaPratica": null,
+    "ListaPrequisitos": []
+  },
+  {
+    "Id": 55405,
+    "Codigo": "2601.000.699-2",
+    "Tipo": "OPT",
+    "Descricao": "TÓPICOS ESPECIAIS EM GERONTOLOGIA",
+    "Semestre": 99,
+    "Apelido": "TÓPICOS ESPECIAIS EM GERONTOLOGIA",
+    "CargaHorariaTeorico": 45,
+    "CargaHorariaPratica": null,
+    "ListaPrequisitos": []
+  },
+  {
+    "Id": 55406,
+    "Codigo": "2701.000.676-0",
+    "Tipo": "OPT",
+    "Descricao": "TÓPICOS ESPECIAIS EM PARASITOLOGIA",
+    "Semestre": 99,
+    "Apelido": "TÓPICOS ESPECIAIS EM PARASITOLOGIA",
+    "CargaHorariaTeorico": 45,
+    "CargaHorariaPratica": null,
+    "ListaPrequisitos": [
+      {
+        "Id": 55345,
+        "Codigo": "2701.000.673-3",
+        "Descricao": "PARASITOLOGIA HUMANA",
+        "Semestre": "0",
+        "Apelido": "PARASITOLOGIA HUMANA",
+        "CargaHorariaTeorico": 0,
+        "CargaHorariaPratica": 0,
+        "ListaPrequisitos": []
+      }
+    ]
+  },
+  {
+    "Id": 55411,
+    "Codigo": "2601.000.703-1",
+    "Tipo": "OPT",
+    "Descricao": "USO RACIONAL DE MEDICAMENTOS",
+    "Semestre": 99,
+    "Apelido": "USO RACIONAL DE MEDICAMENTOS",
+    "CargaHorariaTeorico": 45,
+    "CargaHorariaPratica": null,
+    "ListaPrequisitos": []
+  },
+  {
+    "Id": 52307,
+    "Codigo": "0100.000.002-0",
+    "Tipo": "NFC",
+    "Descricao": "VIDA, CIDADANIA E SUSTENTABILIDADE",
+    "Semestre": 99,
+    "Apelido": "VIDA, CIDADANIA E SUSTENTABILIDADE",
+    "CargaHorariaTeorico": 30,
+    "CargaHorariaPratica": null,
+    "ListaPrequisitos": []
+  }
+]

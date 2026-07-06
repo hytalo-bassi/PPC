@@ -1,0 +1,943 @@
+[
+  {
+    "Id": 52309,
+    "Codigo": "2401.000.330-6",
+    "Tipo": "OBR",
+    "Descricao": "EVOLUÇÃO DAS IDEIAS DA FÍSICA",
+    "Semestre": 1,
+    "Apelido": "EVOLUÇÃO DAS IDEIAS DA FÍSICA",
+    "CargaHorariaTeorico": 60,
+    "CargaHorariaPratica": null,
+    "ListaPrequisitos": []
+  },
+  {
+    "Id": 52296,
+    "Codigo": "2401.000.325-3",
+    "Tipo": "OBR",
+    "Descricao": "FÍSICA CONCEITUAL",
+    "Semestre": 1,
+    "Apelido": "FÍSICA CONCEITUAL",
+    "CargaHorariaTeorico": 60,
+    "CargaHorariaPratica": null,
+    "ListaPrequisitos": []
+  },
+  {
+    "Id": 52322,
+    "Codigo": "2401.000.343-1",
+    "Tipo": "OBR",
+    "Descricao": "FUNDAMENTOS COMPUTACIONAIS PARA O ENSINO DE FÍSICA",
+    "Semestre": 1,
+    "Apelido": "FUNDAMENTOS COMPUTACIONAIS PARA O ENSINO DE FÍSICA",
+    "CargaHorariaTeorico": 60,
+    "CargaHorariaPratica": null,
+    "ListaPrequisitos": []
+  },
+  {
+    "Id": 52304,
+    "Codigo": "2401.000.329-0",
+    "Tipo": "OBR",
+    "Descricao": "LEITURA E PRODUÇÃO DE TEXTOS",
+    "Semestre": 1,
+    "Apelido": "LEITURA E PRODUÇÃO DE TEXTOS",
+    "CargaHorariaTeorico": 30,
+    "CargaHorariaPratica": null,
+    "ListaPrequisitos": []
+  },
+  {
+    "Id": 52316,
+    "Codigo": "2401.000.337-0",
+    "Tipo": "OBR",
+    "Descricao": "MATEMÁTICA ELEMENTAR",
+    "Semestre": 1,
+    "Apelido": "MATEMÁTICA ELEMENTAR",
+    "CargaHorariaTeorico": 60,
+    "CargaHorariaPratica": null,
+    "ListaPrequisitos": []
+  },
+  {
+    "Id": 52342,
+    "Codigo": "3001.000.738-0",
+    "Tipo": "OBR",
+    "Descricao": "PSICOLOGIA E EDUCAÇÃO",
+    "Semestre": 1,
+    "Apelido": "PSICOLOGIA E EDUCAÇÃO",
+    "CargaHorariaTeorico": 45,
+    "CargaHorariaPratica": null,
+    "ListaPrequisitos": []
+  },
+  {
+    "Id": 52301,
+    "Codigo": "2201.000.253-9",
+    "Tipo": "OBR",
+    "Descricao": "CÁLCULO I",
+    "Semestre": 2,
+    "Apelido": "CÁLCULO I",
+    "CargaHorariaTeorico": 60,
+    "CargaHorariaPratica": null,
+    "ListaPrequisitos": []
+  },
+  {
+    "Id": 52324,
+    "Codigo": "2401.000.345-0",
+    "Tipo": "OBR",
+    "Descricao": "FÍSICA F1",
+    "Semestre": 2,
+    "Apelido": "FÍSICA F1",
+    "CargaHorariaTeorico": 90,
+    "CargaHorariaPratica": null,
+    "ListaPrequisitos": []
+  },
+  {
+    "Id": 52339,
+    "Codigo": "3101.000.708-7",
+    "Tipo": "OBR",
+    "Descricao": "FUNDAMENTOS DE DIDÁTICA",
+    "Semestre": 2,
+    "Apelido": "FUNDAMENTOS DE DIDÁTICA",
+    "CargaHorariaTeorico": 45,
+    "CargaHorariaPratica": null,
+    "ListaPrequisitos": []
+  },
+  {
+    "Id": 52310,
+    "Codigo": "2401.000.331-5",
+    "Tipo": "OBR",
+    "Descricao": "INTRODUÇÃO AO LABORATÓRIO DE FÍSICA",
+    "Semestre": 2,
+    "Apelido": "INTRODUÇÃO AO LABORATÓRIO DE FÍSICA",
+    "CargaHorariaTeorico": 30,
+    "CargaHorariaPratica": null,
+    "ListaPrequisitos": []
+  },
+  {
+    "Id": 52299,
+    "Codigo": "2201.000.251-0",
+    "Tipo": "OBR",
+    "Descricao": "VETORES E GEOMETRIA ANALÍTICA",
+    "Semestre": 2,
+    "Apelido": "VETORES E GEOMETRIA ANALÍTICA",
+    "CargaHorariaTeorico": 60,
+    "CargaHorariaPratica": null,
+    "ListaPrequisitos": []
+  },
+  {
+    "Id": 52300,
+    "Codigo": "2201.000.252-0",
+    "Tipo": "OBR",
+    "Descricao": "CÁLCULO II",
+    "Semestre": 3,
+    "Apelido": "CÁLCULO II",
+    "CargaHorariaTeorico": 60,
+    "CargaHorariaPratica": null,
+    "ListaPrequisitos": []
+  },
+  {
+    "Id": 52340,
+    "Codigo": "3001.000.737-0",
+    "Tipo": "OBR",
+    "Descricao": "EDUCAÇÃO DAS RELAÇÕES ÉTNICO-RACIAIS",
+    "Semestre": 3,
+    "Apelido": "EDUCAÇÃO DAS RELAÇÕES ÉTNICO-RACIAIS",
+    "CargaHorariaTeorico": 45,
+    "CargaHorariaPratica": null,
+    "ListaPrequisitos": []
+  },
+  {
+    "Id": 52352,
+    "Codigo": "2401.000.368-3",
+    "Tipo": "OBR",
+    "Descricao": "FÍSICA F2",
+    "Semestre": 3,
+    "Apelido": "FÍSICA F2",
+    "CargaHorariaTeorico": 90,
+    "CargaHorariaPratica": null,
+    "ListaPrequisitos": []
+  },
+  {
+    "Id": 52297,
+    "Codigo": "2401.000.326-2",
+    "Tipo": "OBR",
+    "Descricao": "INTRODUÇÃO À ASTRONOMIA",
+    "Semestre": 3,
+    "Apelido": "INTRODUÇÃO À ASTRONOMIA",
+    "CargaHorariaTeorico": 60,
+    "CargaHorariaPratica": null,
+    "ListaPrequisitos": []
+  },
+  {
+    "Id": 52298,
+    "Codigo": "2401.000.327-1",
+    "Tipo": "OBR",
+    "Descricao": "LABORATÓRIO DE MECÂNICA",
+    "Semestre": 3,
+    "Apelido": "LABORATÓRIO DE MECÂNICA",
+    "CargaHorariaTeorico": 30,
+    "CargaHorariaPratica": null,
+    "ListaPrequisitos": [
+      {
+        "Id": 52310,
+        "Codigo": "2401.000.331-5",
+        "Descricao": "INTRODUÇÃO AO LABORATÓRIO DE FÍSICA",
+        "Semestre": "0",
+        "Apelido": "INTRODUÇÃO AO LABORATÓRIO DE FÍSICA",
+        "CargaHorariaTeorico": 0,
+        "CargaHorariaPratica": 0,
+        "ListaPrequisitos": []
+      }
+    ]
+  },
+  {
+    "Id": 52320,
+    "Codigo": "2401.000.341-3",
+    "Tipo": "OBR",
+    "Descricao": "PRÁTICA DE ENSINO DE FÍSICA I",
+    "Semestre": 3,
+    "Apelido": "PRÁTICA DE ENSINO DE FÍSICA I",
+    "CargaHorariaTeorico": 60,
+    "CargaHorariaPratica": null,
+    "ListaPrequisitos": []
+  },
+  {
+    "Id": 52305,
+    "Codigo": "2201.000.254-8",
+    "Tipo": "OBR",
+    "Descricao": "CÁLCULO III",
+    "Semestre": 4,
+    "Apelido": "CÁLCULO III",
+    "CargaHorariaTeorico": 60,
+    "CargaHorariaPratica": null,
+    "ListaPrequisitos": []
+  },
+  {
+    "Id": 52291,
+    "Codigo": "3101.000.706-9",
+    "Tipo": "OBR",
+    "Descricao": "EDUCAÇÃO ESPECIAL",
+    "Semestre": 4,
+    "Apelido": "EDUCAÇÃO ESPECIAL",
+    "CargaHorariaTeorico": 45,
+    "CargaHorariaPratica": null,
+    "ListaPrequisitos": []
+  },
+  {
+    "Id": 52351,
+    "Codigo": "2401.000.367-4",
+    "Tipo": "OBR",
+    "Descricao": "FÍSICA F3",
+    "Semestre": 4,
+    "Apelido": "FÍSICA F3",
+    "CargaHorariaTeorico": 90,
+    "CargaHorariaPratica": null,
+    "ListaPrequisitos": [
+      {
+        "Id": 52301,
+        "Codigo": "2201.000.253-9",
+        "Descricao": "CÁLCULO I",
+        "Semestre": "0",
+        "Apelido": "CÁLCULO I",
+        "CargaHorariaTeorico": 0,
+        "CargaHorariaPratica": 0,
+        "ListaPrequisitos": []
+      }
+    ]
+  },
+  {
+    "Id": 52336,
+    "Codigo": "2401.000.357-6",
+    "Tipo": "OBR",
+    "Descricao": "FUNDAMENTOS DE FÍSICA MATEMÁTICA",
+    "Semestre": 4,
+    "Apelido": "FUNDAMENTOS DE FÍSICA MATEMÁTICA",
+    "CargaHorariaTeorico": 60,
+    "CargaHorariaPratica": null,
+    "ListaPrequisitos": [
+      {
+        "Id": 52316,
+        "Codigo": "2401.000.337-0",
+        "Descricao": "MATEMÁTICA ELEMENTAR",
+        "Semestre": "0",
+        "Apelido": "MATEMÁTICA ELEMENTAR",
+        "CargaHorariaTeorico": 0,
+        "CargaHorariaPratica": 0,
+        "ListaPrequisitos": []
+      }
+    ]
+  },
+  {
+    "Id": 52311,
+    "Codigo": "2401.000.332-4",
+    "Tipo": "OBR",
+    "Descricao": "LABORATÓRIO DE TERMODINÂMICA, FLUIDOS E ONDAS",
+    "Semestre": 4,
+    "Apelido": "LABORATÓRIO DE TERMODINÂMICA, FLUIDOS E ONDAS",
+    "CargaHorariaTeorico": 30,
+    "CargaHorariaPratica": null,
+    "ListaPrequisitos": [
+      {
+        "Id": 52310,
+        "Codigo": "2401.000.331-5",
+        "Descricao": "INTRODUÇÃO AO LABORATÓRIO DE FÍSICA",
+        "Semestre": "0",
+        "Apelido": "INTRODUÇÃO AO LABORATÓRIO DE FÍSICA",
+        "CargaHorariaTeorico": 0,
+        "CargaHorariaPratica": 0,
+        "ListaPrequisitos": []
+      }
+    ]
+  },
+  {
+    "Id": 52327,
+    "Codigo": "2401.000.348-7",
+    "Tipo": "OBR",
+    "Descricao": "PRÁTICA DE ENSINO DE FÍSICA II",
+    "Semestre": 4,
+    "Apelido": "PRÁTICA DE ENSINO DE FÍSICA II",
+    "CargaHorariaTeorico": 60,
+    "CargaHorariaPratica": null,
+    "ListaPrequisitos": []
+  },
+  {
+    "Id": 52302,
+    "Codigo": "2401.000.328-0",
+    "Tipo": "OBR",
+    "Descricao": "FILOSOFIA DA CIÊNCIA",
+    "Semestre": 5,
+    "Apelido": "FILOSOFIA DA CIÊNCIA",
+    "CargaHorariaTeorico": 60,
+    "CargaHorariaPratica": null,
+    "ListaPrequisitos": []
+  },
+  {
+    "Id": 52353,
+    "Codigo": "2401.000.369-2",
+    "Tipo": "OBR",
+    "Descricao": "FÍSICA F4",
+    "Semestre": 5,
+    "Apelido": "FÍSICA F4",
+    "CargaHorariaTeorico": 60,
+    "CargaHorariaPratica": null,
+    "ListaPrequisitos": []
+  },
+  {
+    "Id": 52312,
+    "Codigo": "2401.000.333-3",
+    "Tipo": "OBR",
+    "Descricao": "LABORATÓRIO DE ELETRICIDADE E MAGNETISMO",
+    "Semestre": 5,
+    "Apelido": "LABORATÓRIO DE ELETRICIDADE E MAGNETISMO",
+    "CargaHorariaTeorico": 30,
+    "CargaHorariaPratica": null,
+    "ListaPrequisitos": [
+      {
+        "Id": 52310,
+        "Codigo": "2401.000.331-5",
+        "Descricao": "INTRODUÇÃO AO LABORATÓRIO DE FÍSICA",
+        "Semestre": "0",
+        "Apelido": "INTRODUÇÃO AO LABORATÓRIO DE FÍSICA",
+        "CargaHorariaTeorico": 0,
+        "CargaHorariaPratica": 0,
+        "ListaPrequisitos": []
+      }
+    ]
+  },
+  {
+    "Id": 52341,
+    "Codigo": "3101.000.709-6",
+    "Tipo": "OBR",
+    "Descricao": "POLÍTICAS EDUCACIONAIS",
+    "Semestre": 5,
+    "Apelido": "POLÍTICAS EDUCACIONAIS",
+    "CargaHorariaTeorico": 45,
+    "CargaHorariaPratica": null,
+    "ListaPrequisitos": []
+  },
+  {
+    "Id": 52337,
+    "Codigo": "2401.000.358-5",
+    "Tipo": "OBR",
+    "Descricao": "PRÁTICA DE ENSINO DE FÍSICA III",
+    "Semestre": 5,
+    "Apelido": "PRÁTICA DE ENSINO DE FÍSICA III",
+    "CargaHorariaTeorico": 60,
+    "CargaHorariaPratica": null,
+    "ListaPrequisitos": []
+  },
+  {
+    "Id": 52350,
+    "Codigo": "2401.000.366-5",
+    "Tipo": "OBR",
+    "Descricao": "QUÍMICA GERAL PARA FÍSICA E ENGENHARIA FÍSICA",
+    "Semestre": 5,
+    "Apelido": "QUÍMICA GERAL PARA FÍSICA E ENGENHARIA FÍSICA",
+    "CargaHorariaTeorico": 60,
+    "CargaHorariaPratica": null,
+    "ListaPrequisitos": []
+  },
+  {
+    "Id": 49481,
+    "Codigo": "2401.000.304-8",
+    "Tipo": "OBR",
+    "Descricao": "ESTÁGIO OBRIGATÓRIO DE FÍSICA I",
+    "Semestre": 6,
+    "Apelido": "ESTÁGIO OBRIGATÓRIO DE FÍSICA I",
+    "CargaHorariaTeorico": 136,
+    "CargaHorariaPratica": null,
+    "ListaPrequisitos": [
+      {
+        "Id": 52320,
+        "Codigo": "2401.000.341-3",
+        "Descricao": "PRÁTICA DE ENSINO DE FÍSICA I",
+        "Semestre": "0",
+        "Apelido": "PRÁTICA DE ENSINO DE FÍSICA I",
+        "CargaHorariaTeorico": 0,
+        "CargaHorariaPratica": 0,
+        "ListaPrequisitos": []
+      },
+      {
+        "Id": 52327,
+        "Codigo": "2401.000.348-7",
+        "Descricao": "PRÁTICA DE ENSINO DE FÍSICA II",
+        "Semestre": "0",
+        "Apelido": "PRÁTICA DE ENSINO DE FÍSICA II",
+        "CargaHorariaTeorico": 0,
+        "CargaHorariaPratica": 0,
+        "ListaPrequisitos": []
+      },
+      {
+        "Id": 52337,
+        "Codigo": "2401.000.358-5",
+        "Descricao": "PRÁTICA DE ENSINO DE FÍSICA III",
+        "Semestre": "0",
+        "Apelido": "PRÁTICA DE ENSINO DE FÍSICA III",
+        "CargaHorariaTeorico": 0,
+        "CargaHorariaPratica": 0,
+        "ListaPrequisitos": []
+      }
+    ]
+  },
+  {
+    "Id": 52326,
+    "Codigo": "2401.000.347-8",
+    "Tipo": "OBR",
+    "Descricao": "FÍSICA MODERNA",
+    "Semestre": 6,
+    "Apelido": "FÍSICA MODERNA",
+    "CargaHorariaTeorico": 60,
+    "CargaHorariaPratica": null,
+    "ListaPrequisitos": [
+      {
+        "Id": 52351,
+        "Codigo": "2401.000.367-4",
+        "Descricao": "FÍSICA F3",
+        "Semestre": "0",
+        "Apelido": "FÍSICA F3",
+        "CargaHorariaTeorico": 0,
+        "CargaHorariaPratica": 0,
+        "ListaPrequisitos": []
+      }
+    ]
+  },
+  {
+    "Id": 52346,
+    "Codigo": "2401.000.362-9",
+    "Tipo": "OBR",
+    "Descricao": "INSTRUMENTAÇÃO PARA O ENSINO DE FÍSICA I",
+    "Semestre": 6,
+    "Apelido": "INSTRUMENTAÇÃO PARA O ENSINO DE FÍSICA I",
+    "CargaHorariaTeorico": 60,
+    "CargaHorariaPratica": null,
+    "ListaPrequisitos": []
+  },
+  {
+    "Id": 52330,
+    "Codigo": "2401.000.351-1",
+    "Tipo": "OBR",
+    "Descricao": "INTRODUÇÃO À PESQUISA EM ENSINO DE FÍSICA",
+    "Semestre": 6,
+    "Apelido": "INTRODUÇÃO À PESQUISA EM ENSINO DE FÍSICA",
+    "CargaHorariaTeorico": 30,
+    "CargaHorariaPratica": null,
+    "ListaPrequisitos": []
+  },
+  {
+    "Id": 52313,
+    "Codigo": "2401.000.334-2",
+    "Tipo": "OBR",
+    "Descricao": "LABORATÓRIO DE CIRCUITOS E ÓTICA",
+    "Semestre": 6,
+    "Apelido": "LABORATÓRIO DE CIRCUITOS E ÓTICA",
+    "CargaHorariaTeorico": 30,
+    "CargaHorariaPratica": null,
+    "ListaPrequisitos": []
+  },
+  {
+    "Id": 49482,
+    "Codigo": "2401.000.305-7",
+    "Tipo": "OBR",
+    "Descricao": "ESTÁGIO OBRIGATÓRIO DE FÍSICA II",
+    "Semestre": 7,
+    "Apelido": "ESTÁGIO OBRIGATÓRIO DE FÍSICA II",
+    "CargaHorariaTeorico": 136,
+    "CargaHorariaPratica": null,
+    "ListaPrequisitos": [
+      {
+        "Id": 49481,
+        "Codigo": "2401.000.304-8",
+        "Descricao": "ESTÁGIO OBRIGATÓRIO DE FÍSICA I",
+        "Semestre": "0",
+        "Apelido": "ESTÁGIO OBRIGATÓRIO DE FÍSICA I",
+        "CargaHorariaTeorico": 0,
+        "CargaHorariaPratica": 0,
+        "ListaPrequisitos": []
+      }
+    ]
+  },
+  {
+    "Id": 52303,
+    "Codigo": "3101.000.707-8",
+    "Tipo": "OBR",
+    "Descricao": "ESTUDO DE LIBRAS",
+    "Semestre": 7,
+    "Apelido": "ESTUDO DE LIBRAS",
+    "CargaHorariaTeorico": 45,
+    "CargaHorariaPratica": null,
+    "ListaPrequisitos": []
+  },
+  {
+    "Id": 52323,
+    "Codigo": "2401.000.344-0",
+    "Tipo": "OBR",
+    "Descricao": "FÍSICA CLÁSSICA AVANÇADA I",
+    "Semestre": 7,
+    "Apelido": "FÍSICA CLÁSSICA AVANÇADA I",
+    "CargaHorariaTeorico": 60,
+    "CargaHorariaPratica": null,
+    "ListaPrequisitos": [
+      {
+        "Id": 52336,
+        "Codigo": "2401.000.357-6",
+        "Descricao": "FUNDAMENTOS DE FÍSICA MATEMÁTICA",
+        "Semestre": "0",
+        "Apelido": "FUNDAMENTOS DE FÍSICA MATEMÁTICA",
+        "CargaHorariaTeorico": 0,
+        "CargaHorariaPratica": 0,
+        "ListaPrequisitos": []
+      },
+      {
+        "Id": 52351,
+        "Codigo": "2401.000.367-4",
+        "Descricao": "FÍSICA F3",
+        "Semestre": "0",
+        "Apelido": "FÍSICA F3",
+        "CargaHorariaTeorico": 0,
+        "CargaHorariaPratica": 0,
+        "ListaPrequisitos": []
+      }
+    ]
+  },
+  {
+    "Id": 52347,
+    "Codigo": "2401.000.363-8",
+    "Tipo": "OBR",
+    "Descricao": "INSTRUMENTAÇÃO PARA O ENSINO DE FÍSICA II",
+    "Semestre": 7,
+    "Apelido": "INSTRUMENTAÇÃO PARA O ENSINO DE FÍSICA II",
+    "CargaHorariaTeorico": 60,
+    "CargaHorariaPratica": null,
+    "ListaPrequisitos": []
+  },
+  {
+    "Id": 52294,
+    "Codigo": "2401.000.323-5",
+    "Tipo": "OBR",
+    "Descricao": "PRÁTICA DE ENSINO EM CIÊNCIAS",
+    "Semestre": 7,
+    "Apelido": "PRÁTICA DE ENSINO EM CIÊNCIAS",
+    "CargaHorariaTeorico": 30,
+    "CargaHorariaPratica": null,
+    "ListaPrequisitos": []
+  },
+  {
+    "Id": 52331,
+    "Codigo": "2401.000.352-0",
+    "Tipo": "OBR",
+    "Descricao": "ENSINO DE FÍSICA MODERNA E CONTEMPORÂNEA",
+    "Semestre": 8,
+    "Apelido": "ENSINO DE FÍSICA MODERNA E CONTEMPORÂNEA",
+    "CargaHorariaTeorico": 60,
+    "CargaHorariaPratica": null,
+    "ListaPrequisitos": [
+      {
+        "Id": 52326,
+        "Codigo": "2401.000.347-8",
+        "Descricao": "FÍSICA MODERNA",
+        "Semestre": "0",
+        "Apelido": "FÍSICA MODERNA",
+        "CargaHorariaTeorico": 0,
+        "CargaHorariaPratica": 0,
+        "ListaPrequisitos": []
+      }
+    ]
+  },
+  {
+    "Id": 49483,
+    "Codigo": "2401.000.306-6",
+    "Tipo": "OBR",
+    "Descricao": "ESTÁGIO OBRIGATÓRIO DE FÍSICA III",
+    "Semestre": 8,
+    "Apelido": "ESTÁGIO OBRIGATÓRIO DE FÍSICA III",
+    "CargaHorariaTeorico": 136,
+    "CargaHorariaPratica": null,
+    "ListaPrequisitos": [
+      {
+        "Id": 49481,
+        "Codigo": "2401.000.304-8",
+        "Descricao": "ESTÁGIO OBRIGATÓRIO DE FÍSICA I",
+        "Semestre": "0",
+        "Apelido": "ESTÁGIO OBRIGATÓRIO DE FÍSICA I",
+        "CargaHorariaTeorico": 0,
+        "CargaHorariaPratica": 0,
+        "ListaPrequisitos": []
+      }
+    ]
+  },
+  {
+    "Id": 52318,
+    "Codigo": "2401.000.339-8",
+    "Tipo": "OBR",
+    "Descricao": "FÍSICA CLÁSSICA AVANÇADA II",
+    "Semestre": 8,
+    "Apelido": "FÍSICA CLÁSSICA AVANÇADA II",
+    "CargaHorariaTeorico": 60,
+    "CargaHorariaPratica": null,
+    "ListaPrequisitos": [
+      {
+        "Id": 52336,
+        "Codigo": "2401.000.357-6",
+        "Descricao": "FUNDAMENTOS DE FÍSICA MATEMÁTICA",
+        "Semestre": "0",
+        "Apelido": "FUNDAMENTOS DE FÍSICA MATEMÁTICA",
+        "CargaHorariaTeorico": 0,
+        "CargaHorariaPratica": 0,
+        "ListaPrequisitos": []
+      },
+      {
+        "Id": 52352,
+        "Codigo": "2401.000.368-3",
+        "Descricao": "FÍSICA F2",
+        "Semestre": "0",
+        "Apelido": "FÍSICA F2",
+        "CargaHorariaTeorico": 0,
+        "CargaHorariaPratica": 0,
+        "ListaPrequisitos": []
+      }
+    ]
+  },
+  {
+    "Id": 52314,
+    "Codigo": "2401.000.335-1",
+    "Tipo": "OBR",
+    "Descricao": "LABORATÓRIO DE FÍSICA MODERNA E CONTEMPORÂNEA",
+    "Semestre": 8,
+    "Apelido": "LABORATÓRIO DE FÍSICA MODERNA E CONTEMPORÂNEA",
+    "CargaHorariaTeorico": 60,
+    "CargaHorariaPratica": null,
+    "ListaPrequisitos": [
+      {
+        "Id": 52298,
+        "Codigo": "2401.000.327-1",
+        "Descricao": "LABORATÓRIO DE MECÂNICA",
+        "Semestre": "0",
+        "Apelido": "LABORATÓRIO DE MECÂNICA",
+        "CargaHorariaTeorico": 0,
+        "CargaHorariaPratica": 0,
+        "ListaPrequisitos": []
+      },
+      {
+        "Id": 52326,
+        "Codigo": "2401.000.347-8",
+        "Descricao": "FÍSICA MODERNA",
+        "Semestre": "0",
+        "Apelido": "FÍSICA MODERNA",
+        "CargaHorariaTeorico": 0,
+        "CargaHorariaPratica": 0,
+        "ListaPrequisitos": []
+      }
+    ]
+  },
+  {
+    "Id": 52321,
+    "Codigo": "2401.000.342-2",
+    "Tipo": "OBR",
+    "Descricao": "PRÁTICA DE ENSINO DE FÍSICA IV",
+    "Semestre": 8,
+    "Apelido": "PRÁTICA DE ENSINO DE FÍSICA IV",
+    "CargaHorariaTeorico": 30,
+    "CargaHorariaPratica": null,
+    "ListaPrequisitos": []
+  },
+  {
+    "Id": 52334,
+    "Codigo": "2401.000.355-8",
+    "Tipo": "OBR",
+    "Descricao": "PRÁTICA DE ENSINO DE FÍSICA V",
+    "Semestre": 8,
+    "Apelido": "PRÁTICA DE ENSINO DE FÍSICA V",
+    "CargaHorariaTeorico": 30,
+    "CargaHorariaPratica": null,
+    "ListaPrequisitos": []
+  },
+  {
+    "Id": 52349,
+    "Codigo": "2401.000.365-6",
+    "Tipo": "OPT",
+    "Descricao": "EDUCAÇÃO EM ASTRONOMIA I",
+    "Semestre": 99,
+    "Apelido": "EDUCAÇÃO EM ASTRONOMIA I",
+    "CargaHorariaTeorico": 45,
+    "CargaHorariaPratica": null,
+    "ListaPrequisitos": []
+  },
+  {
+    "Id": 52344,
+    "Codigo": "2401.000.361-0",
+    "Tipo": "OPT",
+    "Descricao": "EDUCAÇÃO EM ASTRONOMIA II",
+    "Semestre": 99,
+    "Apelido": "EDUCAÇÃO EM ASTRONOMIA II",
+    "CargaHorariaTeorico": 45,
+    "CargaHorariaPratica": null,
+    "ListaPrequisitos": []
+  },
+  {
+    "Id": 52308,
+    "Codigo": "0100.000.003-0",
+    "Tipo": "NFC",
+    "Descricao": "EMPREENDEDORISMO E INOVAÇÃO",
+    "Semestre": 99,
+    "Apelido": "EMPREENDEDORISMO E INOVAÇÃO",
+    "CargaHorariaTeorico": 30,
+    "CargaHorariaPratica": null,
+    "ListaPrequisitos": []
+  },
+  {
+    "Id": 52345,
+    "Codigo": "0100.000.004-9",
+    "Tipo": "OPT",
+    "Descricao": "EMPREENDEDORISMO E INOVAÇÃO",
+    "Semestre": 99,
+    "Apelido": "EMPREENDEDORISMO E INOVAÇÃO",
+    "CargaHorariaTeorico": 60,
+    "CargaHorariaPratica": null,
+    "ListaPrequisitos": []
+  },
+  {
+    "Id": 52335,
+    "Codigo": "2401.000.356-7",
+    "Tipo": "OPT",
+    "Descricao": "EVOLUÇÃO DAS IDÉIAS DA FÍSICA I",
+    "Semestre": 99,
+    "Apelido": "EVOLUÇÃO DAS IDÉIAS DA FÍSICA I",
+    "CargaHorariaTeorico": 60,
+    "CargaHorariaPratica": null,
+    "ListaPrequisitos": []
+  },
+  {
+    "Id": 52315,
+    "Codigo": "2401.000.336-0",
+    "Tipo": "OPT",
+    "Descricao": "EVOLUÇÃO DAS IDÉIAS DA FÍSICA II",
+    "Semestre": 99,
+    "Apelido": "EVOLUÇÃO DAS IDÉIAS DA FÍSICA II",
+    "CargaHorariaTeorico": 60,
+    "CargaHorariaPratica": null,
+    "ListaPrequisitos": []
+  },
+  {
+    "Id": 52319,
+    "Codigo": "2401.000.340-4",
+    "Tipo": "OPT",
+    "Descricao": "FILOSOFIA E SOCIOLOGIA DA CIÊNCIA",
+    "Semestre": 99,
+    "Apelido": "FILOSOFIA E SOCIOLOGIA DA CIÊNCIA",
+    "CargaHorariaTeorico": 60,
+    "CargaHorariaPratica": null,
+    "ListaPrequisitos": []
+  },
+  {
+    "Id": 52317,
+    "Codigo": "2401.000.338-9",
+    "Tipo": "OPT",
+    "Descricao": "FORMAÇÃO E PRÁTICA DOCENTE I",
+    "Semestre": 99,
+    "Apelido": "FORMAÇÃO E PRÁTICA DOCENTE I",
+    "CargaHorariaTeorico": 60,
+    "CargaHorariaPratica": null,
+    "ListaPrequisitos": []
+  },
+  {
+    "Id": 52329,
+    "Codigo": "2401.000.350-2",
+    "Tipo": "OPT",
+    "Descricao": "FORMAÇÃO E PRÁTICA DOCENTE II",
+    "Semestre": 99,
+    "Apelido": "FORMAÇÃO E PRÁTICA DOCENTE II",
+    "CargaHorariaTeorico": 60,
+    "CargaHorariaPratica": null,
+    "ListaPrequisitos": []
+  },
+  {
+    "Id": 52328,
+    "Codigo": "2401.000.349-6",
+    "Tipo": "OPT",
+    "Descricao": "FORMAÇÃO E PRÁTICA DOCENTE III",
+    "Semestre": 99,
+    "Apelido": "FORMAÇÃO E PRÁTICA DOCENTE III",
+    "CargaHorariaTeorico": 60,
+    "CargaHorariaPratica": null,
+    "ListaPrequisitos": []
+  },
+  {
+    "Id": 52295,
+    "Codigo": "2401.000.324-4",
+    "Tipo": "OPT",
+    "Descricao": "FREIRE E VYGOTSKY: CONTRIBUIÇÕES PARA ORGANIZAÇÕES CURRICULARES",
+    "Semestre": 99,
+    "Apelido": "FREIRE E VYGOTSKY: CONTRIBUIÇÕES PARA ORGANIZAÇÕES CURRICULARES",
+    "CargaHorariaTeorico": 60,
+    "CargaHorariaPratica": null,
+    "ListaPrequisitos": []
+  },
+  {
+    "Id": 52333,
+    "Codigo": "2401.000.354-9",
+    "Tipo": "OPT",
+    "Descricao": "INFORMÁTICA NA EDUCAÇÃO",
+    "Semestre": 99,
+    "Apelido": "INFORMÁTICA NA EDUCAÇÃO",
+    "CargaHorariaTeorico": 60,
+    "CargaHorariaPratica": null,
+    "ListaPrequisitos": []
+  },
+  {
+    "Id": 52306,
+    "Codigo": "0100.000.001-1",
+    "Tipo": "NFC",
+    "Descricao": "INTELIGÊNCIA ARTIFICIAL: FUNDAMENTOS E PRÁTICAS",
+    "Semestre": 99,
+    "Apelido": "INTELIGÊNCIA ARTIFICIAL: FUNDAMENTOS E PRÁTICAS",
+    "CargaHorariaTeorico": 30,
+    "CargaHorariaPratica": null,
+    "ListaPrequisitos": []
+  },
+  {
+    "Id": 52343,
+    "Codigo": "2401.000.360-0",
+    "Tipo": "OPT",
+    "Descricao": "INTRODUÇÃO À FÍSICA",
+    "Semestre": 99,
+    "Apelido": "INTRODUÇÃO À FÍSICA",
+    "CargaHorariaTeorico": 30,
+    "CargaHorariaPratica": null,
+    "ListaPrequisitos": []
+  },
+  {
+    "Id": 52325,
+    "Codigo": "2401.000.346-9",
+    "Tipo": "OPT",
+    "Descricao": "INTRODUÇÃO À FÍSICA DA ATMOSFERA",
+    "Semestre": 99,
+    "Apelido": "INTRODUÇÃO À FÍSICA DA ATMOSFERA",
+    "CargaHorariaTeorico": 60,
+    "CargaHorariaPratica": null,
+    "ListaPrequisitos": []
+  },
+  {
+    "Id": 52290,
+    "Codigo": "2401.000.320-8",
+    "Tipo": "OPT",
+    "Descricao": "MICROCONTROLADORES E FABRICAÇÃO DIGITAL NO ENSINO DE FÍSICA",
+    "Semestre": 99,
+    "Apelido": "MICROCONTROLADORES E FABRICAÇÃO DIGITAL NO ENSINO DE FÍSICA",
+    "CargaHorariaTeorico": 60,
+    "CargaHorariaPratica": null,
+    "ListaPrequisitos": []
+  },
+  {
+    "Id": 52332,
+    "Codigo": "2401.000.353-0",
+    "Tipo": "OPT",
+    "Descricao": "PRÁTICAS INTEGRADORAS PARA A FORMAÇÃO DOCENTE",
+    "Semestre": 99,
+    "Apelido": "PRÁTICAS INTEGRADORAS PARA A FORMAÇÃO DOCENTE",
+    "CargaHorariaTeorico": 60,
+    "CargaHorariaPratica": null,
+    "ListaPrequisitos": []
+  },
+  {
+    "Id": 52354,
+    "Codigo": "2401.000.370-9",
+    "Tipo": "OPT",
+    "Descricao": "TÓPICOS ESPECIAIS I",
+    "Semestre": 99,
+    "Apelido": "TÓPICOS ESPECIAIS I",
+    "CargaHorariaTeorico": 30,
+    "CargaHorariaPratica": null,
+    "ListaPrequisitos": []
+  },
+  {
+    "Id": 52348,
+    "Codigo": "2401.000.364-7",
+    "Tipo": "OPT",
+    "Descricao": "TÓPICOS ESPECIAIS II",
+    "Semestre": 99,
+    "Apelido": "TÓPICOS ESPECIAIS II",
+    "CargaHorariaTeorico": 45,
+    "CargaHorariaPratica": null,
+    "ListaPrequisitos": []
+  },
+  {
+    "Id": 52292,
+    "Codigo": "2401.000.321-7",
+    "Tipo": "OPT",
+    "Descricao": "TÓPICOS ESPECIAIS III",
+    "Semestre": 99,
+    "Apelido": "TÓPICOS ESPECIAIS III",
+    "CargaHorariaTeorico": 60,
+    "CargaHorariaPratica": null,
+    "ListaPrequisitos": []
+  },
+  {
+    "Id": 52338,
+    "Codigo": "2401.000.359-4",
+    "Tipo": "OPT",
+    "Descricao": "TÓPICOS ESPECIAIS IV",
+    "Semestre": 99,
+    "Apelido": "TÓPICOS ESPECIAIS IV",
+    "CargaHorariaTeorico": 75,
+    "CargaHorariaPratica": null,
+    "ListaPrequisitos": []
+  },
+  {
+    "Id": 52293,
+    "Codigo": "2401.000.322-6",
+    "Tipo": "OPT",
+    "Descricao": "TÓPICOS ESPECIAIS V",
+    "Semestre": 99,
+    "Apelido": "TÓPICOS ESPECIAIS V",
+    "CargaHorariaTeorico": 90,
+    "CargaHorariaPratica": null,
+    "ListaPrequisitos": []
+  },
+  {
+    "Id": 52307,
+    "Codigo": "0100.000.002-0",
+    "Tipo": "NFC",
+    "Descricao": "VIDA, CIDADANIA E SUSTENTABILIDADE",
+    "Semestre": 99,
+    "Apelido": "VIDA, CIDADANIA E SUSTENTABILIDADE",
+    "CargaHorariaTeorico": 30,
+    "CargaHorariaPratica": null,
+    "ListaPrequisitos": []
+  }
+]

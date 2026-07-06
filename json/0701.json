@@ -1,0 +1,695 @@
+[
+  {
+    "Id": 58200,
+    "Codigo": "0709.002.650-3",
+    "Tipo": "OBR",
+    "Descricao": "CARTOGRAFIA",
+    "Semestre": 1,
+    "Apelido": "CARTOGRAFIA",
+    "CargaHorariaTeorico": 60,
+    "CargaHorariaPratica": null,
+    "ListaPrequisitos": []
+  },
+  {
+    "Id": 58202,
+    "Codigo": "0709.002.652-1",
+    "Tipo": "OBR",
+    "Descricao": "GEOGRAFIA DA POPULAÇÃO",
+    "Semestre": 1,
+    "Apelido": "GEOGRAFIA DA POPULAÇÃO",
+    "CargaHorariaTeorico": 60,
+    "CargaHorariaPratica": null,
+    "ListaPrequisitos": []
+  },
+  {
+    "Id": 58220,
+    "Codigo": "0709.002.670-0",
+    "Tipo": "OBR",
+    "Descricao": "GEOLOGIA",
+    "Semestre": 1,
+    "Apelido": "GEOLOGIA",
+    "CargaHorariaTeorico": 60,
+    "CargaHorariaPratica": null,
+    "ListaPrequisitos": []
+  },
+  {
+    "Id": 58227,
+    "Codigo": "0709.002.677-3",
+    "Tipo": "OBR",
+    "Descricao": "HISTÓRIA DO PENSAMENTO GEOGRÁFICO",
+    "Semestre": 1,
+    "Apelido": "HISTÓRIA DO PENSAMENTO GEOGRÁFICO",
+    "CargaHorariaTeorico": 60,
+    "CargaHorariaPratica": null,
+    "ListaPrequisitos": []
+  },
+  {
+    "Id": 58196,
+    "Codigo": "0709.002.646-0",
+    "Tipo": "OBR",
+    "Descricao": "CLIMATOLOGIA",
+    "Semestre": 2,
+    "Apelido": "CLIMATOLOGIA",
+    "CargaHorariaTeorico": 60,
+    "CargaHorariaPratica": null,
+    "ListaPrequisitos": []
+  },
+  {
+    "Id": 58204,
+    "Codigo": "0709.002.654-0",
+    "Tipo": "OBR",
+    "Descricao": "GEOGRAFIA ECONÔMICA",
+    "Semestre": 2,
+    "Apelido": "GEOGRAFIA ECONÔMICA",
+    "CargaHorariaTeorico": 60,
+    "CargaHorariaPratica": null,
+    "ListaPrequisitos": []
+  },
+  {
+    "Id": 58237,
+    "Codigo": "0709.002.687-1",
+    "Tipo": "OBR",
+    "Descricao": "CULTURA E RELAÇÕES ÉTNICO-RACIAIS",
+    "Semestre": 3,
+    "Apelido": "CULTURA E RELAÇÕES ÉTNICO-RACIAIS",
+    "CargaHorariaTeorico": 60,
+    "CargaHorariaPratica": null,
+    "ListaPrequisitos": []
+  },
+  {
+    "Id": 58243,
+    "Codigo": "0709.002.693-3",
+    "Tipo": "OBR",
+    "Descricao": "GEOGRAFIA URBANA",
+    "Semestre": 3,
+    "Apelido": "GEOGRAFIA URBANA",
+    "CargaHorariaTeorico": 60,
+    "CargaHorariaPratica": null,
+    "ListaPrequisitos": []
+  },
+  {
+    "Id": 58205,
+    "Codigo": "0709.002.655-9",
+    "Tipo": "OBR",
+    "Descricao": "GEOMORFOLOGIA",
+    "Semestre": 3,
+    "Apelido": "GEOMORFOLOGIA",
+    "CargaHorariaTeorico": 60,
+    "CargaHorariaPratica": null,
+    "ListaPrequisitos": [
+      {
+        "Id": 58220,
+        "Codigo": "0709.002.670-0",
+        "Descricao": "GEOLOGIA",
+        "Semestre": "0",
+        "Apelido": "GEOLOGIA",
+        "CargaHorariaTeorico": 0,
+        "CargaHorariaPratica": 0,
+        "ListaPrequisitos": []
+      }
+    ]
+  },
+  {
+    "Id": 58207,
+    "Codigo": "0709.002.657-7",
+    "Tipo": "OBR",
+    "Descricao": "CARTOGRAFIA TEMÁTICA",
+    "Semestre": 4,
+    "Apelido": "CARTOGRAFIA TEMÁTICA",
+    "CargaHorariaTeorico": 60,
+    "CargaHorariaPratica": null,
+    "ListaPrequisitos": [
+      {
+        "Id": 58200,
+        "Codigo": "0709.002.650-3",
+        "Descricao": "CARTOGRAFIA",
+        "Semestre": "0",
+        "Apelido": "CARTOGRAFIA",
+        "CargaHorariaTeorico": 0,
+        "CargaHorariaPratica": 0,
+        "ListaPrequisitos": []
+      }
+    ]
+  },
+  {
+    "Id": 58236,
+    "Codigo": "0709.002.686-2",
+    "Tipo": "OBR",
+    "Descricao": "GEOGRAFIA AGRÁRIA",
+    "Semestre": 4,
+    "Apelido": "GEOGRAFIA AGRÁRIA",
+    "CargaHorariaTeorico": 60,
+    "CargaHorariaPratica": null,
+    "ListaPrequisitos": []
+  },
+  {
+    "Id": 58215,
+    "Codigo": "0709.002.665-7",
+    "Tipo": "OBR",
+    "Descricao": "MÉTODOS E TÉCNICAS DE PESQUISA",
+    "Semestre": 4,
+    "Apelido": "MÉTODOS E TÉCNICAS DE PESQUISA",
+    "CargaHorariaTeorico": 60,
+    "CargaHorariaPratica": null,
+    "ListaPrequisitos": []
+  },
+  {
+    "Id": 58223,
+    "Codigo": "0709.002.673-7",
+    "Tipo": "OBR",
+    "Descricao": "PLANEJAMENTO URBANO E REGIONAL",
+    "Semestre": 4,
+    "Apelido": "PLANEJAMENTO URBANO E REGIONAL",
+    "CargaHorariaTeorico": 60,
+    "CargaHorariaPratica": null,
+    "ListaPrequisitos": [
+      {
+        "Id": 58243,
+        "Codigo": "0709.002.693-3",
+        "Descricao": "GEOGRAFIA URBANA",
+        "Semestre": "0",
+        "Apelido": "GEOGRAFIA URBANA",
+        "CargaHorariaTeorico": 0,
+        "CargaHorariaPratica": 0,
+        "ListaPrequisitos": []
+      }
+    ]
+  },
+  {
+    "Id": 58195,
+    "Codigo": "0709.002.645-0",
+    "Tipo": "OBR",
+    "Descricao": "AVALIAÇÃO DE IMPACTOS AMBIENTAIS",
+    "Semestre": 5,
+    "Apelido": "AVALIAÇÃO DE IMPACTOS AMBIENTAIS",
+    "CargaHorariaTeorico": 60,
+    "CargaHorariaPratica": null,
+    "ListaPrequisitos": []
+  },
+  {
+    "Id": 58193,
+    "Codigo": "0709.002.643-2",
+    "Tipo": "OBR",
+    "Descricao": "ELABORAÇÃO DE PROJETOS E RELATÓRIOS TÉCNICOS",
+    "Semestre": 5,
+    "Apelido": "ELABORAÇÃO DE PROJETOS E RELATÓRIOS TÉCNICOS",
+    "CargaHorariaTeorico": 60,
+    "CargaHorariaPratica": null,
+    "ListaPrequisitos": []
+  },
+  {
+    "Id": 58212,
+    "Codigo": "0709.002.662-0",
+    "Tipo": "OBR",
+    "Descricao": "GEOGRAFIA E MOVIMENTOS SOCIAIS",
+    "Semestre": 5,
+    "Apelido": "GEOGRAFIA E MOVIMENTOS SOCIAIS",
+    "CargaHorariaTeorico": 60,
+    "CargaHorariaPratica": null,
+    "ListaPrequisitos": []
+  },
+  {
+    "Id": 58217,
+    "Codigo": "0709.002.667-5",
+    "Tipo": "OBR",
+    "Descricao": "GEOGRAFIA REGIONAL",
+    "Semestre": 5,
+    "Apelido": "GEOGRAFIA REGIONAL",
+    "CargaHorariaTeorico": 60,
+    "CargaHorariaPratica": null,
+    "ListaPrequisitos": []
+  },
+  {
+    "Id": 58214,
+    "Codigo": "0709.002.664-8",
+    "Tipo": "OBR",
+    "Descricao": "SENSORIAMENTO REMOTO",
+    "Semestre": 5,
+    "Apelido": "SENSORIAMENTO REMOTO",
+    "CargaHorariaTeorico": 60,
+    "CargaHorariaPratica": null,
+    "ListaPrequisitos": []
+  },
+  {
+    "Id": 58190,
+    "Codigo": "0709.002.640-5",
+    "Tipo": "OBR",
+    "Descricao": "GEOPROCESSAMENTO",
+    "Semestre": 6,
+    "Apelido": "GEOPROCESSAMENTO",
+    "CargaHorariaTeorico": 60,
+    "CargaHorariaPratica": null,
+    "ListaPrequisitos": []
+  },
+  {
+    "Id": 58211,
+    "Codigo": "0709.002.661-0",
+    "Tipo": "OBR",
+    "Descricao": "HIDROLOGIA",
+    "Semestre": 6,
+    "Apelido": "HIDROLOGIA",
+    "CargaHorariaTeorico": 60,
+    "CargaHorariaPratica": null,
+    "ListaPrequisitos": []
+  },
+  {
+    "Id": 58197,
+    "Codigo": "0709.002.647-9",
+    "Tipo": "OBR",
+    "Descricao": "PEDOLOGIA",
+    "Semestre": 6,
+    "Apelido": "PEDOLOGIA",
+    "CargaHorariaTeorico": 60,
+    "CargaHorariaPratica": null,
+    "ListaPrequisitos": []
+  },
+  {
+    "Id": 58209,
+    "Codigo": "0709.002.659-5",
+    "Tipo": "OBR",
+    "Descricao": "TEORIA E MÉTODOS DA GEOGRAFIA",
+    "Semestre": 6,
+    "Apelido": "TEORIA E MÉTODOS DA GEOGRAFIA",
+    "CargaHorariaTeorico": 60,
+    "CargaHorariaPratica": null,
+    "ListaPrequisitos": []
+  },
+  {
+    "Id": 50618,
+    "Codigo": "0709.002.179-5",
+    "Tipo": "OBR",
+    "Descricao": "ESTÁGIO OBRIGATÓRIO I",
+    "Semestre": 7,
+    "Apelido": "ESTÁGIO OBRIGATÓRIO I",
+    "CargaHorariaTeorico": 124,
+    "CargaHorariaPratica": null,
+    "ListaPrequisitos": []
+  },
+  {
+    "Id": 58231,
+    "Codigo": "0709.002.681-7",
+    "Tipo": "OBR",
+    "Descricao": "GEOGRAFIA DOS ESPAÇOS GLOBAIS",
+    "Semestre": 7,
+    "Apelido": "GEOGRAFIA DOS ESPAÇOS GLOBAIS",
+    "CargaHorariaTeorico": 60,
+    "CargaHorariaPratica": null,
+    "ListaPrequisitos": []
+  },
+  {
+    "Id": 58232,
+    "Codigo": "0709.002.682-6",
+    "Tipo": "OBR",
+    "Descricao": "SISTEMA DE INFORMAÇÃO GEOGRÁFICA",
+    "Semestre": 7,
+    "Apelido": "SISTEMA DE INFORMAÇÃO GEOGRÁFICA",
+    "CargaHorariaTeorico": 60,
+    "CargaHorariaPratica": null,
+    "ListaPrequisitos": []
+  },
+  {
+    "Id": 58239,
+    "Codigo": "0709.002.689-0",
+    "Tipo": "OBR",
+    "Descricao": "TOPOGRAFIA",
+    "Semestre": 7,
+    "Apelido": "TOPOGRAFIA",
+    "CargaHorariaTeorico": 60,
+    "CargaHorariaPratica": null,
+    "ListaPrequisitos": []
+  },
+  {
+    "Id": 58210,
+    "Codigo": "0709.002.660-1",
+    "Tipo": "OBR",
+    "Descricao": "BIOGEOGRAFIA",
+    "Semestre": 8,
+    "Apelido": "BIOGEOGRAFIA",
+    "CargaHorariaTeorico": 60,
+    "CargaHorariaPratica": null,
+    "ListaPrequisitos": []
+  },
+  {
+    "Id": 50620,
+    "Codigo": "0709.002.181-0",
+    "Tipo": "OBR",
+    "Descricao": "ESTÁGIO OBRIGATÓRIO II",
+    "Semestre": 8,
+    "Apelido": "ESTÁGIO OBRIGATÓRIO II",
+    "CargaHorariaTeorico": 124,
+    "CargaHorariaPratica": null,
+    "ListaPrequisitos": [
+      {
+        "Id": 50618,
+        "Codigo": "0709.002.179-5",
+        "Descricao": "ESTÁGIO OBRIGATÓRIO I",
+        "Semestre": "0",
+        "Apelido": "ESTÁGIO OBRIGATÓRIO I",
+        "CargaHorariaTeorico": 0,
+        "CargaHorariaPratica": 0,
+        "ListaPrequisitos": []
+      }
+    ]
+  },
+  {
+    "Id": 58224,
+    "Codigo": "0709.002.674-6",
+    "Tipo": "OBR",
+    "Descricao": "PLANEJAMENTO AMBIENTAL",
+    "Semestre": 8,
+    "Apelido": "PLANEJAMENTO AMBIENTAL",
+    "CargaHorariaTeorico": 60,
+    "CargaHorariaPratica": null,
+    "ListaPrequisitos": []
+  },
+  {
+    "Id": 58213,
+    "Codigo": "0709.002.663-9",
+    "Tipo": "OPT",
+    "Descricao": "CLIMATOLOGIA E APLICAÇÕES",
+    "Semestre": 99,
+    "Apelido": "CLIMATOLOGIA E APLICAÇÕES",
+    "CargaHorariaTeorico": 60,
+    "CargaHorariaPratica": null,
+    "ListaPrequisitos": [
+      {
+        "Id": 58196,
+        "Codigo": "0709.002.646-0",
+        "Descricao": "CLIMATOLOGIA",
+        "Semestre": "0",
+        "Apelido": "CLIMATOLOGIA",
+        "CargaHorariaTeorico": 0,
+        "CargaHorariaPratica": 0,
+        "ListaPrequisitos": []
+      }
+    ]
+  },
+  {
+    "Id": 58201,
+    "Codigo": "0709.002.651-2",
+    "Tipo": "OPT",
+    "Descricao": "CLIMATOLOGIA URBANA",
+    "Semestre": 99,
+    "Apelido": "CLIMATOLOGIA URBANA",
+    "CargaHorariaTeorico": 60,
+    "CargaHorariaPratica": null,
+    "ListaPrequisitos": [
+      {
+        "Id": 58196,
+        "Codigo": "0709.002.646-0",
+        "Descricao": "CLIMATOLOGIA",
+        "Semestre": "0",
+        "Apelido": "CLIMATOLOGIA",
+        "CargaHorariaTeorico": 0,
+        "CargaHorariaPratica": 0,
+        "ListaPrequisitos": []
+      }
+    ]
+  },
+  {
+    "Id": 58203,
+    "Codigo": "0709.002.653-0",
+    "Tipo": "OPT",
+    "Descricao": "DINÂMICA REGIONAL E PRODUÇÃO AGRÁRIA NO MATO GROSSO DO SUL",
+    "Semestre": 99,
+    "Apelido": "DINÂMICA REGIONAL E PRODUÇÃO AGRÁRIA NO MATO GROSSO DO SUL",
+    "CargaHorariaTeorico": 60,
+    "CargaHorariaPratica": null,
+    "ListaPrequisitos": []
+  },
+  {
+    "Id": 58233,
+    "Codigo": "0709.002.683-5",
+    "Tipo": "OPT",
+    "Descricao": "ESTUDO DE LIBRAS",
+    "Semestre": 99,
+    "Apelido": "ESTUDO DE LIBRAS",
+    "CargaHorariaTeorico": 45,
+    "CargaHorariaPratica": null,
+    "ListaPrequisitos": []
+  },
+  {
+    "Id": 58228,
+    "Codigo": "0709.002.678-2",
+    "Tipo": "OPT",
+    "Descricao": "FISIOLOGIA DA PAISAGEM",
+    "Semestre": 99,
+    "Apelido": "FISIOLOGIA DA PAISAGEM",
+    "CargaHorariaTeorico": 60,
+    "CargaHorariaPratica": null,
+    "ListaPrequisitos": []
+  },
+  {
+    "Id": 58229,
+    "Codigo": "0709.002.679-1",
+    "Tipo": "OPT",
+    "Descricao": "FOTOINTERPRETAÇÃO E AEROFOTOGRAMETRIA",
+    "Semestre": 99,
+    "Apelido": "FOTOINTERPRETAÇÃO E AEROFOTOGRAMETRIA",
+    "CargaHorariaTeorico": 60,
+    "CargaHorariaPratica": null,
+    "ListaPrequisitos": []
+  },
+  {
+    "Id": 58192,
+    "Codigo": "0709.002.642-3",
+    "Tipo": "OPT",
+    "Descricao": "GÊNERO E PODER NA ANÁLISE GEOGRÁFICA",
+    "Semestre": 99,
+    "Apelido": "GÊNERO E PODER NA ANÁLISE GEOGRÁFICA",
+    "CargaHorariaTeorico": 60,
+    "CargaHorariaPratica": null,
+    "ListaPrequisitos": []
+  },
+  {
+    "Id": 58240,
+    "Codigo": "0709.002.690-6",
+    "Tipo": "OPT",
+    "Descricao": "GEODÉSIA",
+    "Semestre": 99,
+    "Apelido": "GEODÉSIA",
+    "CargaHorariaTeorico": 60,
+    "CargaHorariaPratica": null,
+    "ListaPrequisitos": []
+  },
+  {
+    "Id": 58218,
+    "Codigo": "0709.002.668-4",
+    "Tipo": "OPT",
+    "Descricao": "GEOGRAFIA CULTURAL",
+    "Semestre": 99,
+    "Apelido": "GEOGRAFIA CULTURAL",
+    "CargaHorariaTeorico": 60,
+    "CargaHorariaPratica": null,
+    "ListaPrequisitos": []
+  },
+  {
+    "Id": 58221,
+    "Codigo": "0709.002.671-9",
+    "Tipo": "OPT",
+    "Descricao": "GEOGRAFIA DA ENERGIA E DA INDÚSTRIA",
+    "Semestre": 99,
+    "Apelido": "GEOGRAFIA DA ENERGIA E DA INDÚSTRIA",
+    "CargaHorariaTeorico": 60,
+    "CargaHorariaPratica": null,
+    "ListaPrequisitos": []
+  },
+  {
+    "Id": 58191,
+    "Codigo": "0709.002.641-4",
+    "Tipo": "OPT",
+    "Descricao": "GEOGRAFIA DA SAÚDE",
+    "Semestre": 99,
+    "Apelido": "GEOGRAFIA DA SAÚDE",
+    "CargaHorariaTeorico": 60,
+    "CargaHorariaPratica": null,
+    "ListaPrequisitos": []
+  },
+  {
+    "Id": 58235,
+    "Codigo": "0709.002.685-3",
+    "Tipo": "OPT",
+    "Descricao": "GEOGRAFIA DAS REDES E DOS TERRITÓRIOS",
+    "Semestre": 99,
+    "Apelido": "GEOGRAFIA DAS REDES E DOS TERRITÓRIOS",
+    "CargaHorariaTeorico": 60,
+    "CargaHorariaPratica": null,
+    "ListaPrequisitos": []
+  },
+  {
+    "Id": 58208,
+    "Codigo": "0709.002.658-6",
+    "Tipo": "OPT",
+    "Descricao": "GEOGRAFIA DE MATO GROSSO DO SUL",
+    "Semestre": 99,
+    "Apelido": "GEOGRAFIA DE MATO GROSSO DO SUL",
+    "CargaHorariaTeorico": 60,
+    "CargaHorariaPratica": null,
+    "ListaPrequisitos": []
+  },
+  {
+    "Id": 58219,
+    "Codigo": "0709.002.669-3",
+    "Tipo": "OPT",
+    "Descricao": "GEOGRAFIA DO BRASIL",
+    "Semestre": 99,
+    "Apelido": "GEOGRAFIA DO BRASIL",
+    "CargaHorariaTeorico": 60,
+    "CargaHorariaPratica": null,
+    "ListaPrequisitos": []
+  },
+  {
+    "Id": 58225,
+    "Codigo": "0709.002.675-5",
+    "Tipo": "OPT",
+    "Descricao": "GEOGRAFIA POLÍTICA",
+    "Semestre": 99,
+    "Apelido": "GEOGRAFIA POLÍTICA",
+    "CargaHorariaTeorico": 60,
+    "CargaHorariaPratica": null,
+    "ListaPrequisitos": []
+  },
+  {
+    "Id": 58216,
+    "Codigo": "0709.002.666-6",
+    "Tipo": "OPT",
+    "Descricao": "GEOMORFOLOGIA AMBIENTAL",
+    "Semestre": 99,
+    "Apelido": "GEOMORFOLOGIA AMBIENTAL",
+    "CargaHorariaTeorico": 60,
+    "CargaHorariaPratica": null,
+    "ListaPrequisitos": []
+  },
+  {
+    "Id": 58242,
+    "Codigo": "0709.002.692-4",
+    "Tipo": "OPT",
+    "Descricao": "GEOMORFOLOGIA FLUVIAL",
+    "Semestre": 99,
+    "Apelido": "GEOMORFOLOGIA FLUVIAL",
+    "CargaHorariaTeorico": 60,
+    "CargaHorariaPratica": null,
+    "ListaPrequisitos": []
+  },
+  {
+    "Id": 58194,
+    "Codigo": "0709.002.644-1",
+    "Tipo": "OPT",
+    "Descricao": "INTRODUÇÃO AO PROJETO DE PESQUISA CIENTÍFICA",
+    "Semestre": 99,
+    "Apelido": "INTRODUÇÃO AO PROJETO DE PESQUISA CIENTÍFICA",
+    "CargaHorariaTeorico": 60,
+    "CargaHorariaPratica": null,
+    "ListaPrequisitos": []
+  },
+  {
+    "Id": 58206,
+    "Codigo": "0709.002.656-8",
+    "Tipo": "OPT",
+    "Descricao": "LEGISLAÇÃO AMBIENTAL",
+    "Semestre": 99,
+    "Apelido": "LEGISLAÇÃO AMBIENTAL",
+    "CargaHorariaTeorico": 60,
+    "CargaHorariaPratica": null,
+    "ListaPrequisitos": []
+  },
+  {
+    "Id": 58244,
+    "Codigo": "0709.002.694-2",
+    "Tipo": "OPT",
+    "Descricao": "MATEMÁTICA E ESTATÍSTICA APLICADA À GEOGRAFIA",
+    "Semestre": 99,
+    "Apelido": "MATEMÁTICA E ESTATÍSTICA APLICADA À GEOGRAFIA",
+    "CargaHorariaTeorico": 60,
+    "CargaHorariaPratica": null,
+    "ListaPrequisitos": []
+  },
+  {
+    "Id": 58222,
+    "Codigo": "0709.002.672-8",
+    "Tipo": "OPT",
+    "Descricao": "MORFOLOGIA DO SOLO",
+    "Semestre": 99,
+    "Apelido": "MORFOLOGIA DO SOLO",
+    "CargaHorariaTeorico": 60,
+    "CargaHorariaPratica": null,
+    "ListaPrequisitos": []
+  },
+  {
+    "Id": 58234,
+    "Codigo": "0709.002.684-4",
+    "Tipo": "OPT",
+    "Descricao": "PLANEJAMENTO DO TURISMO",
+    "Semestre": 99,
+    "Apelido": "PLANEJAMENTO DO TURISMO",
+    "CargaHorariaTeorico": 60,
+    "CargaHorariaPratica": null,
+    "ListaPrequisitos": []
+  },
+  {
+    "Id": 58226,
+    "Codigo": "0709.002.676-4",
+    "Tipo": "OPT",
+    "Descricao": "REDAÇÃO E PRODUÇÃO DE TEXTO",
+    "Semestre": 99,
+    "Apelido": "REDAÇÃO E PRODUÇÃO DE TEXTO",
+    "CargaHorariaTeorico": 60,
+    "CargaHorariaPratica": null,
+    "ListaPrequisitos": []
+  },
+  {
+    "Id": 58238,
+    "Codigo": "0709.002.688-0",
+    "Tipo": "OPT",
+    "Descricao": "RELAÇÕES ÉTNICO-RACIAIS E A PRODUÇÃO DO ESPAÇO",
+    "Semestre": 99,
+    "Apelido": "RELAÇÕES ÉTNICO-RACIAIS E A PRODUÇÃO DO ESPAÇO",
+    "CargaHorariaTeorico": 60,
+    "CargaHorariaPratica": null,
+    "ListaPrequisitos": []
+  },
+  {
+    "Id": 58198,
+    "Codigo": "0709.002.648-8",
+    "Tipo": "OPT",
+    "Descricao": "SEMINÁRIOS DE GRADUAÇÃO",
+    "Semestre": 99,
+    "Apelido": "SEMINÁRIOS DE GRADUAÇÃO",
+    "CargaHorariaTeorico": 60,
+    "CargaHorariaPratica": null,
+    "ListaPrequisitos": []
+  },
+  {
+    "Id": 58241,
+    "Codigo": "0709.002.691-5",
+    "Tipo": "OPT",
+    "Descricao": "TEORIA DA REGIÃO E DA REGIONALIZAÇÃO",
+    "Semestre": 99,
+    "Apelido": "TEORIA DA REGIÃO E DA REGIONALIZAÇÃO",
+    "CargaHorariaTeorico": 60,
+    "CargaHorariaPratica": null,
+    "ListaPrequisitos": []
+  },
+  {
+    "Id": 58199,
+    "Codigo": "0709.002.649-7",
+    "Tipo": "OPT",
+    "Descricao": "TRABALHO DE CAMPO INTEGRADO",
+    "Semestre": 99,
+    "Apelido": "TRABALHO DE CAMPO INTEGRADO",
+    "CargaHorariaTeorico": 60,
+    "CargaHorariaPratica": null,
+    "ListaPrequisitos": []
+  },
+  {
+    "Id": 58230,
+    "Codigo": "0709.002.680-8",
+    "Tipo": "OPT",
+    "Descricao": "VEÍCULOS AÉREOS NÃO TRIPULADOS",
+    "Semestre": 99,
+    "Apelido": "VEÍCULOS AÉREOS NÃO TRIPULADOS",
+    "CargaHorariaTeorico": 60,
+    "CargaHorariaPratica": null,
+    "ListaPrequisitos": []
+  }
+]

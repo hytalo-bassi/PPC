@@ -1,0 +1,156 @@
+[
+  {
+    "Id": 52308,
+    "Codigo": "0100.000.003-0",
+    "Tipo": "OPT",
+    "Descricao": "EMPREENDEDORISMO E INOVAÇÃO",
+    "Semestre": 99,
+    "Apelido": "EMPREENDEDORISMO E INOVAÇÃO",
+    "CargaHorariaTeorico": 30,
+    "CargaHorariaPratica": null,
+    "ListaPrequisitos": []
+  },
+  {
+    "Id": 52345,
+    "Codigo": "0100.000.004-9",
+    "Tipo": "OPT",
+    "Descricao": "EMPREENDEDORISMO E INOVAÇÃO",
+    "Semestre": 99,
+    "Apelido": "EMPREENDEDORISMO E INOVAÇÃO",
+    "CargaHorariaTeorico": 60,
+    "CargaHorariaPratica": null,
+    "ListaPrequisitos": []
+  },
+  {
+    "Id": 61393,
+    "Codigo": "0100.000.014-7",
+    "Tipo": "OPT",
+    "Descricao": "INICIAÇÃO À DOCÊNCIA I",
+    "Semestre": 99,
+    "Apelido": "INICIAÇÃO À DOCÊNCIA I",
+    "CargaHorariaTeorico": 45,
+    "CargaHorariaPratica": null,
+    "ListaPrequisitos": []
+  },
+  {
+    "Id": 61387,
+    "Codigo": "0100.000.008-5",
+    "Tipo": "OPT",
+    "Descricao": "INICIAÇÃO À DOCÊNCIA II",
+    "Semestre": 99,
+    "Apelido": "INICIAÇÃO À DOCÊNCIA II",
+    "CargaHorariaTeorico": 45,
+    "CargaHorariaPratica": null,
+    "ListaPrequisitos": []
+  },
+  {
+    "Id": 52306,
+    "Codigo": "0100.000.001-1",
+    "Tipo": "OPT",
+    "Descricao": "INTELIGÊNCIA ARTIFICIAL: FUNDAMENTOS E PRÁTICAS",
+    "Semestre": 99,
+    "Apelido": "INTELIGÊNCIA ARTIFICIAL: FUNDAMENTOS E PRÁTICAS",
+    "CargaHorariaTeorico": 30,
+    "CargaHorariaPratica": null,
+    "ListaPrequisitos": []
+  },
+  {
+    "Id": 61386,
+    "Codigo": "0100.000.007-6",
+    "Tipo": "OPT",
+    "Descricao": "TÓPICOS ESPECIAIS EM INTERNACIONALIZAÇÃO I",
+    "Semestre": 99,
+    "Apelido": "TÓPICOS ESPECIAIS EM INTERNACIONALIZAÇÃO I",
+    "CargaHorariaTeorico": 15,
+    "CargaHorariaPratica": null,
+    "ListaPrequisitos": []
+  },
+  {
+    "Id": 61388,
+    "Codigo": "0100.000.009-4",
+    "Tipo": "OPT",
+    "Descricao": "TÓPICOS ESPECIAIS EM INTERNACIONALIZAÇÃO II",
+    "Semestre": 99,
+    "Apelido": "TÓPICOS ESPECIAIS EM INTERNACIONALIZAÇÃO II",
+    "CargaHorariaTeorico": 30,
+    "CargaHorariaPratica": null,
+    "ListaPrequisitos": []
+  },
+  {
+    "Id": 61392,
+    "Codigo": "0100.000.013-8",
+    "Tipo": "OPT",
+    "Descricao": "TÓPICOS ESPECIAIS EM INTERNACIONALIZAÇÃO III",
+    "Semestre": 99,
+    "Apelido": "TÓPICOS ESPECIAIS EM INTERNACIONALIZAÇÃO III",
+    "CargaHorariaTeorico": 45,
+    "CargaHorariaPratica": null,
+    "ListaPrequisitos": []
+  },
+  {
+    "Id": 61389,
+    "Codigo": "0100.000.010-0",
+    "Tipo": "OPT",
+    "Descricao": "TÓPICOS ESPECIAIS EM INTERNACIONALIZAÇÃO IV",
+    "Semestre": 99,
+    "Apelido": "TÓPICOS ESPECIAIS EM INTERNACIONALIZAÇÃO IV",
+    "CargaHorariaTeorico": 60,
+    "CargaHorariaPratica": null,
+    "ListaPrequisitos": []
+  },
+  {
+    "Id": 61391,
+    "Codigo": "0100.000.012-9",
+    "Tipo": "OPT",
+    "Descricao": "TÓPICOS ESPECIAIS EM INTERNACIONALIZAÇÃO V",
+    "Semestre": 99,
+    "Apelido": "TÓPICOS ESPECIAIS EM INTERNACIONALIZAÇÃO V",
+    "CargaHorariaTeorico": 75,
+    "CargaHorariaPratica": null,
+    "ListaPrequisitos": []
+  },
+  {
+    "Id": 61384,
+    "Codigo": "0100.000.005-8",
+    "Tipo": "OPT",
+    "Descricao": "TÓPICOS ESPECIAIS EM INTERNACIONALIZAÇÃO VI",
+    "Semestre": 99,
+    "Apelido": "TÓPICOS ESPECIAIS EM INTERNACIONALIZAÇÃO VI",
+    "CargaHorariaTeorico": 90,
+    "CargaHorariaPratica": null,
+    "ListaPrequisitos": []
+  },
+  {
+    "Id": 61385,
+    "Codigo": "0100.000.006-7",
+    "Tipo": "OPT",
+    "Descricao": "TÓPICOS ESPECIAIS NO ENSINO SUPERIOR",
+    "Semestre": 99,
+    "Apelido": "TÓPICOS ESPECIAIS NO ENSINO SUPERIOR",
+    "CargaHorariaTeorico": 30,
+    "CargaHorariaPratica": null,
+    "ListaPrequisitos": []
+  },
+  {
+    "Id": 61390,
+    "Codigo": "0100.000.011-0",
+    "Tipo": "OPT",
+    "Descricao": "TÓPICOS ESPECIAIS NO ENSINO SUPERIOR II",
+    "Semestre": 99,
+    "Apelido": "TÓPICOS ESPECIAIS NO ENSINO SUPERIOR II",
+    "CargaHorariaTeorico": 30,
+    "CargaHorariaPratica": null,
+    "ListaPrequisitos": []
+  },
+  {
+    "Id": 52307,
+    "Codigo": "0100.000.002-0",
+    "Tipo": "OPT",
+    "Descricao": "VIDA, CIDADANIA E SUSTENTABILIDADE",
+    "Semestre": 99,
+    "Apelido": "VIDA, CIDADANIA E SUSTENTABILIDADE",
+    "CargaHorariaTeorico": 30,
+    "CargaHorariaPratica": null,
+    "ListaPrequisitos": []
+  }
+]

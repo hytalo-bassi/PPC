@@ -1,0 +1,1464 @@
+[
+  {
+    "Id": 59200,
+    "Codigo": "3101.000.834-2",
+    "Tipo": "OBR",
+    "Descricao": "FILOSOFIA DA EDUCAÇÃO",
+    "Semestre": 1,
+    "Apelido": "FILOSOFIA DA EDUCAÇÃO",
+    "CargaHorariaTeorico": 60,
+    "CargaHorariaPratica": null,
+    "ListaPrequisitos": []
+  },
+  {
+    "Id": 59283,
+    "Codigo": "3101.000.917-0",
+    "Tipo": "OBR",
+    "Descricao": "HISTÓRIA DA EDUCAÇÃO I",
+    "Semestre": 1,
+    "Apelido": "HISTÓRIA DA EDUCAÇÃO I",
+    "CargaHorariaTeorico": 60,
+    "CargaHorariaPratica": null,
+    "ListaPrequisitos": []
+  },
+  {
+    "Id": 59273,
+    "Codigo": "3101.000.907-2",
+    "Tipo": "OBR",
+    "Descricao": "PSICOLOGIA DA EDUCAÇÃO",
+    "Semestre": 1,
+    "Apelido": "PSICOLOGIA DA EDUCAÇÃO",
+    "CargaHorariaTeorico": 60,
+    "CargaHorariaPratica": null,
+    "ListaPrequisitos": []
+  },
+  {
+    "Id": 59270,
+    "Codigo": "3101.000.904-5",
+    "Tipo": "OBR",
+    "Descricao": "SOCIOLOGIA DA EDUCAÇÃO",
+    "Semestre": 1,
+    "Apelido": "SOCIOLOGIA DA EDUCAÇÃO",
+    "CargaHorariaTeorico": 60,
+    "CargaHorariaPratica": null,
+    "ListaPrequisitos": []
+  },
+  {
+    "Id": 59197,
+    "Codigo": "3101.000.831-5",
+    "Tipo": "OBR",
+    "Descricao": "TRABALHO ACADÊMICO",
+    "Semestre": 1,
+    "Apelido": "TRABALHO ACADÊMICO",
+    "CargaHorariaTeorico": 60,
+    "CargaHorariaPratica": null,
+    "ListaPrequisitos": []
+  },
+  {
+    "Id": 59199,
+    "Codigo": "3101.000.833-3",
+    "Tipo": "OBR",
+    "Descricao": "CURRÍCULO E EDUCAÇÃO",
+    "Semestre": 2,
+    "Apelido": "CURRÍCULO E EDUCAÇÃO",
+    "CargaHorariaTeorico": 60,
+    "CargaHorariaPratica": null,
+    "ListaPrequisitos": []
+  },
+  {
+    "Id": 59229,
+    "Codigo": "3101.000.863-8",
+    "Tipo": "OBR",
+    "Descricao": "DIDÁTICA I",
+    "Semestre": 2,
+    "Apelido": "DIDÁTICA I",
+    "CargaHorariaTeorico": 60,
+    "CargaHorariaPratica": null,
+    "ListaPrequisitos": []
+  },
+  {
+    "Id": 59237,
+    "Codigo": "3101.000.871-8",
+    "Tipo": "OBR",
+    "Descricao": "EDUCAÇÃO E ANTROPOLOGIA",
+    "Semestre": 2,
+    "Apelido": "EDUCAÇÃO E ANTROPOLOGIA",
+    "CargaHorariaTeorico": 60,
+    "CargaHorariaPratica": null,
+    "ListaPrequisitos": []
+  },
+  {
+    "Id": 59198,
+    "Codigo": "3101.000.832-4",
+    "Tipo": "OBR",
+    "Descricao": "HISTÓRIA DA EDUCAÇÃO II",
+    "Semestre": 2,
+    "Apelido": "HISTÓRIA DA EDUCAÇÃO II",
+    "CargaHorariaTeorico": 60,
+    "CargaHorariaPratica": null,
+    "ListaPrequisitos": [
+      {
+        "Id": 59283,
+        "Codigo": "3101.000.917-0",
+        "Descricao": "HISTÓRIA DA EDUCAÇÃO I",
+        "Semestre": "0",
+        "Apelido": "HISTÓRIA DA EDUCAÇÃO I",
+        "CargaHorariaTeorico": 0,
+        "CargaHorariaPratica": 0,
+        "ListaPrequisitos": []
+      }
+    ]
+  },
+  {
+    "Id": 59247,
+    "Codigo": "3101.000.881-6",
+    "Tipo": "OBR",
+    "Descricao": "INFÂNCIA E SOCIEDADE",
+    "Semestre": 2,
+    "Apelido": "INFÂNCIA E SOCIEDADE",
+    "CargaHorariaTeorico": 60,
+    "CargaHorariaPratica": null,
+    "ListaPrequisitos": []
+  },
+  {
+    "Id": 59215,
+    "Codigo": "3101.000.849-6",
+    "Tipo": "OBR",
+    "Descricao": "ALFABETIZAÇÃO E LETRAMENTO",
+    "Semestre": 3,
+    "Apelido": "ALFABETIZAÇÃO E LETRAMENTO",
+    "CargaHorariaTeorico": 60,
+    "CargaHorariaPratica": null,
+    "ListaPrequisitos": []
+  },
+  {
+    "Id": 59235,
+    "Codigo": "3101.000.869-2",
+    "Tipo": "OBR",
+    "Descricao": "DIDÁTICA II",
+    "Semestre": 3,
+    "Apelido": "DIDÁTICA II",
+    "CargaHorariaTeorico": 60,
+    "CargaHorariaPratica": null,
+    "ListaPrequisitos": [
+      {
+        "Id": 59229,
+        "Codigo": "3101.000.863-8",
+        "Descricao": "DIDÁTICA I",
+        "Semestre": "0",
+        "Apelido": "DIDÁTICA I",
+        "CargaHorariaTeorico": 0,
+        "CargaHorariaPratica": 0,
+        "ListaPrequisitos": []
+      }
+    ]
+  },
+  {
+    "Id": 59267,
+    "Codigo": "3101.000.901-8",
+    "Tipo": "OBR",
+    "Descricao": "LUDICIDADE E EDUCAÇÃO",
+    "Semestre": 3,
+    "Apelido": "LUDICIDADE E EDUCAÇÃO",
+    "CargaHorariaTeorico": 60,
+    "CargaHorariaPratica": null,
+    "ListaPrequisitos": []
+  },
+  {
+    "Id": 59245,
+    "Codigo": "3101.000.879-0",
+    "Tipo": "OBR",
+    "Descricao": "PEDAGOGIA DA EDUCAÇÃO INFANTIL",
+    "Semestre": 3,
+    "Apelido": "PEDAGOGIA DA EDUCAÇÃO INFANTIL",
+    "CargaHorariaTeorico": 60,
+    "CargaHorariaPratica": null,
+    "ListaPrequisitos": []
+  },
+  {
+    "Id": 59272,
+    "Codigo": "3101.000.906-3",
+    "Tipo": "OBR",
+    "Descricao": "POLÍTICAS EDUCACIONAIS",
+    "Semestre": 3,
+    "Apelido": "POLÍTICAS EDUCACIONAIS",
+    "CargaHorariaTeorico": 60,
+    "CargaHorariaPratica": null,
+    "ListaPrequisitos": []
+  },
+  {
+    "Id": 59257,
+    "Codigo": "3101.000.891-4",
+    "Tipo": "OBR",
+    "Descricao": "FUNDAMENTOS E METODOLOGIAS DO ENSINO DA LÍNGUA, LINGUAGEM ORAL E ESCRITA",
+    "Semestre": 4,
+    "Apelido": "FUNDAMENTOS E METODOLOGIAS DO ENSINO DA LÍNGUA, LINGUAGEM ORAL E ESCRITA",
+    "CargaHorariaTeorico": 60,
+    "CargaHorariaPratica": null,
+    "ListaPrequisitos": []
+  },
+  {
+    "Id": 59263,
+    "Codigo": "3101.000.897-9",
+    "Tipo": "OBR",
+    "Descricao": "FUNDAMENTOS E METODOLOGIAS DO ENSINO DE CIÊNCIAS",
+    "Semestre": 4,
+    "Apelido": "FUNDAMENTOS E METODOLOGIAS DO ENSINO DE CIÊNCIAS",
+    "CargaHorariaTeorico": 60,
+    "CargaHorariaPratica": null,
+    "ListaPrequisitos": []
+  },
+  {
+    "Id": 59228,
+    "Codigo": "3101.000.862-9",
+    "Tipo": "OBR",
+    "Descricao": "FUNDAMENTOS E METODOLOGIAS DO ENSINO DE GEOGRAFIA",
+    "Semestre": 4,
+    "Apelido": "FUNDAMENTOS E METODOLOGIAS DO ENSINO DE GEOGRAFIA",
+    "CargaHorariaTeorico": 60,
+    "CargaHorariaPratica": null,
+    "ListaPrequisitos": []
+  },
+  {
+    "Id": 59258,
+    "Codigo": "3101.000.892-3",
+    "Tipo": "OBR",
+    "Descricao": "FUNDAMENTOS E METODOLOGIAS DO ENSINO DE HISTÓRIA",
+    "Semestre": 4,
+    "Apelido": "FUNDAMENTOS E METODOLOGIAS DO ENSINO DE HISTÓRIA",
+    "CargaHorariaTeorico": 60,
+    "CargaHorariaPratica": null,
+    "ListaPrequisitos": []
+  },
+  {
+    "Id": 59259,
+    "Codigo": "3101.000.893-2",
+    "Tipo": "OBR",
+    "Descricao": "FUNDAMENTOS E METODOLOGIAS DO ENSINO DE MATEMÁTICA",
+    "Semestre": 4,
+    "Apelido": "FUNDAMENTOS E METODOLOGIAS DO ENSINO DE MATEMÁTICA",
+    "CargaHorariaTeorico": 60,
+    "CargaHorariaPratica": null,
+    "ListaPrequisitos": []
+  },
+  {
+    "Id": 59244,
+    "Codigo": "3101.000.878-1",
+    "Tipo": "OBR",
+    "Descricao": "EDUCAÇÃO DE JOVENS E ADULTOS",
+    "Semestre": 5,
+    "Apelido": "EDUCAÇÃO DE JOVENS E ADULTOS",
+    "CargaHorariaTeorico": 60,
+    "CargaHorariaPratica": null,
+    "ListaPrequisitos": []
+  },
+  {
+    "Id": 59231,
+    "Codigo": "3101.000.865-6",
+    "Tipo": "OBR",
+    "Descricao": "EDUCAÇÃO ESPECIAL",
+    "Semestre": 5,
+    "Apelido": "EDUCAÇÃO ESPECIAL",
+    "CargaHorariaTeorico": 60,
+    "CargaHorariaPratica": null,
+    "ListaPrequisitos": []
+  },
+  {
+    "Id": 59224,
+    "Codigo": "3101.000.858-5",
+    "Tipo": "OBR",
+    "Descricao": "EDUCAÇÃO E TRABALHO",
+    "Semestre": 5,
+    "Apelido": "EDUCAÇÃO E TRABALHO",
+    "CargaHorariaTeorico": 60,
+    "CargaHorariaPratica": null,
+    "ListaPrequisitos": []
+  },
+  {
+    "Id": 48458,
+    "Codigo": "3101.000.597-7",
+    "Tipo": "OBR",
+    "Descricao": "ESTÁGIO OBRIGATÓRIO I",
+    "Semestre": 5,
+    "Apelido": "ESTÁGIO OBRIGATÓRIO I",
+    "CargaHorariaTeorico": 100,
+    "CargaHorariaPratica": null,
+    "ListaPrequisitos": [
+      {
+        "Id": 59245,
+        "Codigo": "3101.000.879-0",
+        "Descricao": "PEDAGOGIA DA EDUCAÇÃO INFANTIL",
+        "Semestre": "0",
+        "Apelido": "PEDAGOGIA DA EDUCAÇÃO INFANTIL",
+        "CargaHorariaTeorico": 0,
+        "CargaHorariaPratica": 0,
+        "ListaPrequisitos": []
+      }
+    ]
+  },
+  {
+    "Id": 59271,
+    "Codigo": "3101.000.905-4",
+    "Tipo": "OBR",
+    "Descricao": "GESTÃO ESCOLAR",
+    "Semestre": 5,
+    "Apelido": "GESTÃO ESCOLAR",
+    "CargaHorariaTeorico": 60,
+    "CargaHorariaPratica": null,
+    "ListaPrequisitos": []
+  },
+  {
+    "Id": 59223,
+    "Codigo": "3101.000.857-6",
+    "Tipo": "OBR",
+    "Descricao": "PRÁTICAS PEDAGÓGICAS EM EDUCAÇÃO INFANTIL I",
+    "Semestre": 5,
+    "Apelido": "PRÁTICAS PEDAGÓGICAS EM EDUCAÇÃO INFANTIL I",
+    "CargaHorariaTeorico": 60,
+    "CargaHorariaPratica": null,
+    "ListaPrequisitos": [
+      {
+        "Id": 59245,
+        "Codigo": "3101.000.879-0",
+        "Descricao": "PEDAGOGIA DA EDUCAÇÃO INFANTIL",
+        "Semestre": "0",
+        "Apelido": "PEDAGOGIA DA EDUCAÇÃO INFANTIL",
+        "CargaHorariaTeorico": 0,
+        "CargaHorariaPratica": 0,
+        "ListaPrequisitos": []
+      }
+    ]
+  },
+  {
+    "Id": 59185,
+    "Codigo": "3001.000.972-2",
+    "Tipo": "OBR",
+    "Descricao": "EDUCAÇÃO E RELAÇÕES ÉTNICO-RACIAIS",
+    "Semestre": 6,
+    "Apelido": "EDUCAÇÃO E RELAÇÕES ÉTNICO-RACIAIS",
+    "CargaHorariaTeorico": 60,
+    "CargaHorariaPratica": null,
+    "ListaPrequisitos": []
+  },
+  {
+    "Id": 48459,
+    "Codigo": "3101.000.598-6",
+    "Tipo": "OBR",
+    "Descricao": "ESTÁGIO OBRIGATÓRIO II",
+    "Semestre": 6,
+    "Apelido": "ESTÁGIO OBRIGATÓRIO II",
+    "CargaHorariaTeorico": 100,
+    "CargaHorariaPratica": null,
+    "ListaPrequisitos": [
+      {
+        "Id": 59223,
+        "Codigo": "3101.000.857-6",
+        "Descricao": "PRÁTICAS PEDAGÓGICAS EM EDUCAÇÃO INFANTIL I",
+        "Semestre": "0",
+        "Apelido": "PRÁTICAS PEDAGÓGICAS EM EDUCAÇÃO INFANTIL I",
+        "CargaHorariaTeorico": 0,
+        "CargaHorariaPratica": 0,
+        "ListaPrequisitos": []
+      }
+    ]
+  },
+  {
+    "Id": 59194,
+    "Codigo": "3101.000.828-0",
+    "Tipo": "OBR",
+    "Descricao": "ESTUDO DE LIBRAS",
+    "Semestre": 6,
+    "Apelido": "ESTUDO DE LIBRAS",
+    "CargaHorariaTeorico": 60,
+    "CargaHorariaPratica": null,
+    "ListaPrequisitos": []
+  },
+  {
+    "Id": 59238,
+    "Codigo": "3101.000.872-7",
+    "Tipo": "OBR",
+    "Descricao": "PESQUISA EDUCACIONAL",
+    "Semestre": 6,
+    "Apelido": "PESQUISA EDUCACIONAL",
+    "CargaHorariaTeorico": 60,
+    "CargaHorariaPratica": null,
+    "ListaPrequisitos": []
+  },
+  {
+    "Id": 59252,
+    "Codigo": "3101.000.886-1",
+    "Tipo": "OBR",
+    "Descricao": "PRÁTICAS PEDAGÓGICAS EM EDUCAÇÃO INFANTIL II",
+    "Semestre": 6,
+    "Apelido": "PRÁTICAS PEDAGÓGICAS EM EDUCAÇÃO INFANTIL II",
+    "CargaHorariaTeorico": 60,
+    "CargaHorariaPratica": null,
+    "ListaPrequisitos": [
+      {
+        "Id": 59223,
+        "Codigo": "3101.000.857-6",
+        "Descricao": "PRÁTICAS PEDAGÓGICAS EM EDUCAÇÃO INFANTIL I",
+        "Semestre": "0",
+        "Apelido": "PRÁTICAS PEDAGÓGICAS EM EDUCAÇÃO INFANTIL I",
+        "CargaHorariaTeorico": 0,
+        "CargaHorariaPratica": 0,
+        "ListaPrequisitos": []
+      }
+    ]
+  },
+  {
+    "Id": 59202,
+    "Codigo": "3101.000.836-0",
+    "Tipo": "OBR",
+    "Descricao": "EDUCAÇÃO, MÍDIAS E TECNOLOGIAS",
+    "Semestre": 7,
+    "Apelido": "EDUCAÇÃO, MÍDIAS E TECNOLOGIAS",
+    "CargaHorariaTeorico": 60,
+    "CargaHorariaPratica": null,
+    "ListaPrequisitos": []
+  },
+  {
+    "Id": 59226,
+    "Codigo": "3101.000.860-0",
+    "Tipo": "OBR",
+    "Descricao": "EDUCAÇÃO, SEXUALIDADE E GÊNERO",
+    "Semestre": 7,
+    "Apelido": "EDUCAÇÃO, SEXUALIDADE E GÊNERO",
+    "CargaHorariaTeorico": 60,
+    "CargaHorariaPratica": null,
+    "ListaPrequisitos": []
+  },
+  {
+    "Id": 48460,
+    "Codigo": "3101.000.599-5",
+    "Tipo": "OBR",
+    "Descricao": "ESTÁGIO OBRIGATÓRIO III",
+    "Semestre": 7,
+    "Apelido": "ESTÁGIO OBRIGATÓRIO III",
+    "CargaHorariaTeorico": 100,
+    "CargaHorariaPratica": null,
+    "ListaPrequisitos": [
+      {
+        "Id": 59257,
+        "Codigo": "3101.000.891-4",
+        "Descricao": "FUNDAMENTOS E METODOLOGIAS DO ENSINO DA LÍNGUA, LINGUAGEM ORAL E ESCRITA",
+        "Semestre": "0",
+        "Apelido": "FUNDAMENTOS E METODOLOGIAS DO ENSINO DA LÍNGUA, LINGUAGEM ORAL E ESCRITA",
+        "CargaHorariaTeorico": 0,
+        "CargaHorariaPratica": 0,
+        "ListaPrequisitos": []
+      },
+      {
+        "Id": 59259,
+        "Codigo": "3101.000.893-2",
+        "Descricao": "FUNDAMENTOS E METODOLOGIAS DO ENSINO DE MATEMÁTICA",
+        "Semestre": "0",
+        "Apelido": "FUNDAMENTOS E METODOLOGIAS DO ENSINO DE MATEMÁTICA",
+        "CargaHorariaTeorico": 0,
+        "CargaHorariaPratica": 0,
+        "ListaPrequisitos": []
+      }
+    ]
+  },
+  {
+    "Id": 59220,
+    "Codigo": "3101.000.854-9",
+    "Tipo": "OBR",
+    "Descricao": "PRÁTICA DE ENSINO NOS ANOS INICIAIS DO ENSINO FUNDAMENTAL I",
+    "Semestre": 7,
+    "Apelido": "PRÁTICA DE ENSINO NOS ANOS INICIAIS DO ENSINO FUNDAMENTAL I",
+    "CargaHorariaTeorico": 60,
+    "CargaHorariaPratica": null,
+    "ListaPrequisitos": []
+  },
+  {
+    "Id": 59219,
+    "Codigo": "3101.000.853-0",
+    "Tipo": "OBR",
+    "Descricao": "TRABALHO PEDAGÓGICO NOS ANOS INICIAIS DO ENSINO FUNDAMENTAL",
+    "Semestre": 7,
+    "Apelido": "TRABALHO PEDAGÓGICO NOS ANOS INICIAIS DO ENSINO FUNDAMENTAL",
+    "CargaHorariaTeorico": 60,
+    "CargaHorariaPratica": null,
+    "ListaPrequisitos": []
+  },
+  {
+    "Id": 48461,
+    "Codigo": "3101.000.600-7",
+    "Tipo": "OBR",
+    "Descricao": "ESTÁGIO OBRIGATÓRIO IV",
+    "Semestre": 8,
+    "Apelido": "ESTÁGIO OBRIGATÓRIO IV",
+    "CargaHorariaTeorico": 100,
+    "CargaHorariaPratica": null,
+    "ListaPrequisitos": [
+      {
+        "Id": 59219,
+        "Codigo": "3101.000.853-0",
+        "Descricao": "TRABALHO PEDAGÓGICO NOS ANOS INICIAIS DO ENSINO FUNDAMENTAL",
+        "Semestre": "0",
+        "Apelido": "TRABALHO PEDAGÓGICO NOS ANOS INICIAIS DO ENSINO FUNDAMENTAL",
+        "CargaHorariaTeorico": 0,
+        "CargaHorariaPratica": 0,
+        "ListaPrequisitos": []
+      }
+    ]
+  },
+  {
+    "Id": 59264,
+    "Codigo": "3101.000.898-8",
+    "Tipo": "OBR",
+    "Descricao": "LÍNGUA PORTUGUESA COMO SEGUNDA LÍNGUA PARA SURDOS",
+    "Semestre": 8,
+    "Apelido": "LÍNGUA PORTUGUESA COMO SEGUNDA LÍNGUA PARA SURDOS",
+    "CargaHorariaTeorico": 60,
+    "CargaHorariaPratica": null,
+    "ListaPrequisitos": [
+      {
+        "Id": 59194,
+        "Codigo": "3101.000.828-0",
+        "Descricao": "ESTUDO DE LIBRAS",
+        "Semestre": "0",
+        "Apelido": "ESTUDO DE LIBRAS",
+        "CargaHorariaTeorico": 0,
+        "CargaHorariaPratica": 0,
+        "ListaPrequisitos": []
+      }
+    ]
+  },
+  {
+    "Id": 59217,
+    "Codigo": "3101.000.851-1",
+    "Tipo": "OBR",
+    "Descricao": "LITERATURA E EDUCAÇÃO",
+    "Semestre": 8,
+    "Apelido": "LITERATURA E EDUCAÇÃO",
+    "CargaHorariaTeorico": 60,
+    "CargaHorariaPratica": null,
+    "ListaPrequisitos": []
+  },
+  {
+    "Id": 59221,
+    "Codigo": "3101.000.855-8",
+    "Tipo": "OBR",
+    "Descricao": "PRÁTICA DE ENSINO NOS ANOS INICIAIS DO ENSINO FUNDAMENTAL II",
+    "Semestre": 8,
+    "Apelido": "PRÁTICA DE ENSINO NOS ANOS INICIAIS DO ENSINO FUNDAMENTAL II",
+    "CargaHorariaTeorico": 60,
+    "CargaHorariaPratica": null,
+    "ListaPrequisitos": [
+      {
+        "Id": 59220,
+        "Codigo": "3101.000.854-9",
+        "Descricao": "PRÁTICA DE ENSINO NOS ANOS INICIAIS DO ENSINO FUNDAMENTAL I",
+        "Semestre": "0",
+        "Apelido": "PRÁTICA DE ENSINO NOS ANOS INICIAIS DO ENSINO FUNDAMENTAL I",
+        "CargaHorariaTeorico": 0,
+        "CargaHorariaPratica": 0,
+        "ListaPrequisitos": []
+      }
+    ]
+  },
+  {
+    "Id": 59236,
+    "Codigo": "3101.000.870-9",
+    "Tipo": "NAP",
+    "Descricao": "ALFABETIZAÇÃO DE JOVENS E ADULTOS",
+    "Semestre": 99,
+    "Apelido": "ALFABETIZAÇÃO DE JOVENS E ADULTOS",
+    "CargaHorariaTeorico": 60,
+    "CargaHorariaPratica": null,
+    "ListaPrequisitos": [
+      {
+        "Id": 59244,
+        "Codigo": "3101.000.878-1",
+        "Descricao": "EDUCAÇÃO DE JOVENS E ADULTOS",
+        "Semestre": "0",
+        "Apelido": "EDUCAÇÃO DE JOVENS E ADULTOS",
+        "CargaHorariaTeorico": 0,
+        "CargaHorariaPratica": 0,
+        "ListaPrequisitos": []
+      }
+    ]
+  },
+  {
+    "Id": 59190,
+    "Codigo": "3101.000.824-4",
+    "Tipo": "OPT",
+    "Descricao": "ASPECTOS LEGAIS DOS DIREITOS DAS CRIANÇAS E DOS ADOLESCENTES",
+    "Semestre": 99,
+    "Apelido": "ASPECTOS LEGAIS DOS DIREITOS DAS CRIANÇAS E DOS ADOLESCENTES",
+    "CargaHorariaTeorico": 60,
+    "CargaHorariaPratica": null,
+    "ListaPrequisitos": []
+  },
+  {
+    "Id": 59191,
+    "Codigo": "3101.000.825-3",
+    "Tipo": "OPT",
+    "Descricao": "ATIVIDADE INTERDISCIPLINAR EDUCATIVA, CULTURAL E CIENTÍFICA I",
+    "Semestre": 99,
+    "Apelido": "ATIVIDADE INTERDISCIPLINAR EDUCATIVA, CULTURAL E CIENTÍFICA I",
+    "CargaHorariaTeorico": 105,
+    "CargaHorariaPratica": null,
+    "ListaPrequisitos": []
+  },
+  {
+    "Id": 59256,
+    "Codigo": "3101.000.890-5",
+    "Tipo": "OPT",
+    "Descricao": "ATIVIDADE INTERDISCIPLINAR EDUCATIVA, CULTURAL E CIENTÍFICA II",
+    "Semestre": 99,
+    "Apelido": "ATIVIDADE INTERDISCIPLINAR EDUCATIVA, CULTURAL E CIENTÍFICA II",
+    "CargaHorariaTeorico": 105,
+    "CargaHorariaPratica": null,
+    "ListaPrequisitos": []
+  },
+  {
+    "Id": 59253,
+    "Codigo": "3101.000.887-0",
+    "Tipo": "OPT",
+    "Descricao": "ATIVIDADE INTERDISCIPLINAR EDUCATIVA, CULTURAL E CIENTÍFICA III",
+    "Semestre": 99,
+    "Apelido": "ATIVIDADE INTERDISCIPLINAR EDUCATIVA, CULTURAL E CIENTÍFICA III",
+    "CargaHorariaTeorico": 105,
+    "CargaHorariaPratica": null,
+    "ListaPrequisitos": []
+  },
+  {
+    "Id": 59203,
+    "Codigo": "3101.000.837-0",
+    "Tipo": "OPT",
+    "Descricao": "AVALIAÇÃO EDUCACIONAL",
+    "Semestre": 99,
+    "Apelido": "AVALIAÇÃO EDUCACIONAL",
+    "CargaHorariaTeorico": 60,
+    "CargaHorariaPratica": null,
+    "ListaPrequisitos": []
+  },
+  {
+    "Id": 59274,
+    "Codigo": "3101.000.908-1",
+    "Tipo": "OPT",
+    "Descricao": "AVALIAÇÃO EM INSTITUIÇÕES ESCOLARES",
+    "Semestre": 99,
+    "Apelido": "AVALIAÇÃO EM INSTITUIÇÕES ESCOLARES",
+    "CargaHorariaTeorico": 60,
+    "CargaHorariaPratica": null,
+    "ListaPrequisitos": []
+  },
+  {
+    "Id": 59187,
+    "Codigo": "2901.001.732-9",
+    "Tipo": "OPT",
+    "Descricao": "CINEMA E EDUCAÇÃO DA DIVERSIDADE E DIFERENÇA",
+    "Semestre": 99,
+    "Apelido": "CINEMA E EDUCAÇÃO DA DIVERSIDADE E DIFERENÇA",
+    "CargaHorariaTeorico": 60,
+    "CargaHorariaPratica": null,
+    "ListaPrequisitos": []
+  },
+  {
+    "Id": 59278,
+    "Codigo": "3101.000.912-5",
+    "Tipo": "OPT",
+    "Descricao": "CUIDAR E EDUCAR NA PRIMEIRA INFÂNCIA",
+    "Semestre": 99,
+    "Apelido": "CUIDAR E EDUCAR NA PRIMEIRA INFÂNCIA",
+    "CargaHorariaTeorico": 60,
+    "CargaHorariaPratica": null,
+    "ListaPrequisitos": []
+  },
+  {
+    "Id": 59213,
+    "Codigo": "3101.000.847-8",
+    "Tipo": "OPT",
+    "Descricao": "CULTURA BRASILEIRA",
+    "Semestre": 99,
+    "Apelido": "CULTURA BRASILEIRA",
+    "CargaHorariaTeorico": 60,
+    "CargaHorariaPratica": null,
+    "ListaPrequisitos": []
+  },
+  {
+    "Id": 59209,
+    "Codigo": "3101.000.843-1",
+    "Tipo": "OPT",
+    "Descricao": "CURRÍCULO E INSTITUIÇÕES EDUCATIVAS",
+    "Semestre": 99,
+    "Apelido": "CURRÍCULO E INSTITUIÇÕES EDUCATIVAS",
+    "CargaHorariaTeorico": 60,
+    "CargaHorariaPratica": null,
+    "ListaPrequisitos": []
+  },
+  {
+    "Id": 59239,
+    "Codigo": "3101.000.873-6",
+    "Tipo": "OPT",
+    "Descricao": "DIVERSIDADE CULTURAL",
+    "Semestre": 99,
+    "Apelido": "DIVERSIDADE CULTURAL",
+    "CargaHorariaTeorico": 60,
+    "CargaHorariaPratica": null,
+    "ListaPrequisitos": []
+  },
+  {
+    "Id": 59188,
+    "Codigo": "3101.000.822-6",
+    "Tipo": "OPT",
+    "Descricao": "ECONOMIA DA EDUCAÇÃO",
+    "Semestre": 99,
+    "Apelido": "ECONOMIA DA EDUCAÇÃO",
+    "CargaHorariaTeorico": 60,
+    "CargaHorariaPratica": null,
+    "ListaPrequisitos": []
+  },
+  {
+    "Id": 59192,
+    "Codigo": "3101.000.826-2",
+    "Tipo": "OPT",
+    "Descricao": "EDUCAÇÃO A DISTÂNCIA",
+    "Semestre": 99,
+    "Apelido": "EDUCAÇÃO A DISTÂNCIA",
+    "CargaHorariaTeorico": 60,
+    "CargaHorariaPratica": null,
+    "ListaPrequisitos": []
+  },
+  {
+    "Id": 56536,
+    "Codigo": "3101.000.816-4",
+    "Tipo": "OPT",
+    "Descricao": "EDUCAÇÃO AMBIENTAL",
+    "Semestre": 99,
+    "Apelido": "EDUCAÇÃO AMBIENTAL",
+    "CargaHorariaTeorico": 60,
+    "CargaHorariaPratica": null,
+    "ListaPrequisitos": []
+  },
+  {
+    "Id": 59222,
+    "Codigo": "3101.000.856-7",
+    "Tipo": "NAP",
+    "Descricao": "EDUCAÇÃO, CIDADANIA E DIREITOS HUMANOS",
+    "Semestre": 99,
+    "Apelido": "EDUCAÇÃO, CIDADANIA E DIREITOS HUMANOS",
+    "CargaHorariaTeorico": 60,
+    "CargaHorariaPratica": null,
+    "ListaPrequisitos": [
+      {
+        "Id": 59185,
+        "Codigo": "3001.000.972-2",
+        "Descricao": "EDUCAÇÃO E RELAÇÕES ÉTNICO-RACIAIS",
+        "Semestre": "0",
+        "Apelido": "EDUCAÇÃO E RELAÇÕES ÉTNICO-RACIAIS",
+        "CargaHorariaTeorico": 0,
+        "CargaHorariaPratica": 0,
+        "ListaPrequisitos": []
+      }
+    ]
+  },
+  {
+    "Id": 59193,
+    "Codigo": "3101.000.827-1",
+    "Tipo": "OPT",
+    "Descricao": "EDUCAÇÃO, CULTURA E LINGUAGENS",
+    "Semestre": 99,
+    "Apelido": "EDUCAÇÃO, CULTURA E LINGUAGENS",
+    "CargaHorariaTeorico": 60,
+    "CargaHorariaPratica": null,
+    "ListaPrequisitos": []
+  },
+  {
+    "Id": 59246,
+    "Codigo": "3101.000.880-7",
+    "Tipo": "OPT",
+    "Descricao": "EDUCAÇÃO DO CAMPO",
+    "Semestre": 99,
+    "Apelido": "EDUCAÇÃO DO CAMPO",
+    "CargaHorariaTeorico": 60,
+    "CargaHorariaPratica": null,
+    "ListaPrequisitos": []
+  },
+  {
+    "Id": 59277,
+    "Codigo": "3101.000.911-6",
+    "Tipo": "OPT",
+    "Descricao": "EDUCAÇÃO E ARTE",
+    "Semestre": 99,
+    "Apelido": "EDUCAÇÃO E ARTE",
+    "CargaHorariaTeorico": 60,
+    "CargaHorariaPratica": null,
+    "ListaPrequisitos": []
+  },
+  {
+    "Id": 59241,
+    "Codigo": "3101.000.875-4",
+    "Tipo": "OPT",
+    "Descricao": "EDUCAÇÃO E ESPIRITUALIDADE",
+    "Semestre": 99,
+    "Apelido": "EDUCAÇÃO E ESPIRITUALIDADE",
+    "CargaHorariaTeorico": 60,
+    "CargaHorariaPratica": null,
+    "ListaPrequisitos": []
+  },
+  {
+    "Id": 59281,
+    "Codigo": "3101.000.915-2",
+    "Tipo": "OPT",
+    "Descricao": "EDUCAÇÃO EM ESPAÇOS NÃO ESCOLARES",
+    "Semestre": 99,
+    "Apelido": "EDUCAÇÃO EM ESPAÇOS NÃO ESCOLARES",
+    "CargaHorariaTeorico": 60,
+    "CargaHorariaPratica": null,
+    "ListaPrequisitos": []
+  },
+  {
+    "Id": 59254,
+    "Codigo": "3101.000.888-0",
+    "Tipo": "OPT",
+    "Descricao": "EDUCAÇÃO E MOVIMENTOS SOCIAIS",
+    "Semestre": 99,
+    "Apelido": "EDUCAÇÃO E MOVIMENTOS SOCIAIS",
+    "CargaHorariaTeorico": 60,
+    "CargaHorariaPratica": null,
+    "ListaPrequisitos": []
+  },
+  {
+    "Id": 59279,
+    "Codigo": "3101.000.913-4",
+    "Tipo": "OPT",
+    "Descricao": "EDUCAÇÃO E RELIGIOSIDADE",
+    "Semestre": 99,
+    "Apelido": "EDUCAÇÃO E RELIGIOSIDADE",
+    "CargaHorariaTeorico": 60,
+    "CargaHorariaPratica": null,
+    "ListaPrequisitos": []
+  },
+  {
+    "Id": 59210,
+    "Codigo": "3101.000.844-0",
+    "Tipo": "OPT",
+    "Descricao": "EDUCAÇÃO INDÍGENA",
+    "Semestre": 99,
+    "Apelido": "EDUCAÇÃO INDÍGENA",
+    "CargaHorariaTeorico": 60,
+    "CargaHorariaPratica": null,
+    "ListaPrequisitos": []
+  },
+  {
+    "Id": 59211,
+    "Codigo": "3101.000.845-0",
+    "Tipo": "OPT",
+    "Descricao": "EDUCAÇÃO LÚDICA",
+    "Semestre": 99,
+    "Apelido": "EDUCAÇÃO LÚDICA",
+    "CargaHorariaTeorico": 60,
+    "CargaHorariaPratica": null,
+    "ListaPrequisitos": []
+  },
+  {
+    "Id": 59201,
+    "Codigo": "3101.000.835-1",
+    "Tipo": "OPT",
+    "Descricao": "EDUCAÇÃO POPULAR",
+    "Semestre": 99,
+    "Apelido": "EDUCAÇÃO POPULAR",
+    "CargaHorariaTeorico": 60,
+    "CargaHorariaPratica": null,
+    "ListaPrequisitos": []
+  },
+  {
+    "Id": 59218,
+    "Codigo": "3101.000.852-0",
+    "Tipo": "OPT",
+    "Descricao": "EDUCAÇÃO, SAÚDE E NUTRIÇÃO PARA A INFÂNCIA",
+    "Semestre": 99,
+    "Apelido": "EDUCAÇÃO, SAÚDE E NUTRIÇÃO PARA A INFÂNCIA",
+    "CargaHorariaTeorico": 60,
+    "CargaHorariaPratica": null,
+    "ListaPrequisitos": []
+  },
+  {
+    "Id": 59234,
+    "Codigo": "3101.000.868-3",
+    "Tipo": "NAP",
+    "Descricao": "EDUCAÇÃO, SOCIEDADE E TRABALHO",
+    "Semestre": 99,
+    "Apelido": "EDUCAÇÃO, SOCIEDADE E TRABALHO",
+    "CargaHorariaTeorico": 60,
+    "CargaHorariaPratica": null,
+    "ListaPrequisitos": [
+      {
+        "Id": 59224,
+        "Codigo": "3101.000.858-5",
+        "Descricao": "EDUCAÇÃO E TRABALHO",
+        "Semestre": "0",
+        "Apelido": "EDUCAÇÃO E TRABALHO",
+        "CargaHorariaTeorico": 0,
+        "CargaHorariaPratica": 0,
+        "ListaPrequisitos": []
+      }
+    ]
+  },
+  {
+    "Id": 59240,
+    "Codigo": "3101.000.874-5",
+    "Tipo": "NAP",
+    "Descricao": "ESTADO, SOCIEDADE E POLÍTICAS SOCIAIS",
+    "Semestre": 99,
+    "Apelido": "ESTADO, SOCIEDADE E POLÍTICAS SOCIAIS",
+    "CargaHorariaTeorico": 60,
+    "CargaHorariaPratica": null,
+    "ListaPrequisitos": [
+      {
+        "Id": 59271,
+        "Codigo": "3101.000.905-4",
+        "Descricao": "GESTÃO ESCOLAR",
+        "Semestre": "0",
+        "Apelido": "GESTÃO ESCOLAR",
+        "CargaHorariaTeorico": 0,
+        "CargaHorariaPratica": 0,
+        "ListaPrequisitos": []
+      }
+    ]
+  },
+  {
+    "Id": 48462,
+    "Codigo": "3101.000.601-6",
+    "Tipo": "OPT",
+    "Descricao": "ESTÁGIO OBRIGATÓRIO NA EDUCAÇÃO INFANTIL",
+    "Semestre": 99,
+    "Apelido": "ESTÁGIO OBRIGATÓRIO NA EDUCAÇÃO INFANTIL",
+    "CargaHorariaTeorico": 68,
+    "CargaHorariaPratica": null,
+    "ListaPrequisitos": []
+  },
+  {
+    "Id": 48463,
+    "Codigo": "3101.000.602-5",
+    "Tipo": "OPT",
+    "Descricao": "ESTÁGIO OBRIGATÓRIO NOS ANOS INICIAIS DO ENSINO FUNDAMENTAL",
+    "Semestre": 99,
+    "Apelido": "ESTÁGIO OBRIGATÓRIO NOS ANOS INICIAIS DO ENSINO FUNDAMENTAL",
+    "CargaHorariaTeorico": 68,
+    "CargaHorariaPratica": null,
+    "ListaPrequisitos": []
+  },
+  {
+    "Id": 59261,
+    "Codigo": "3101.000.895-0",
+    "Tipo": "OPT",
+    "Descricao": "FAMÍLIA E INSTITUIÇÕES EDUCATIVAS",
+    "Semestre": 99,
+    "Apelido": "FAMÍLIA E INSTITUIÇÕES EDUCATIVAS",
+    "CargaHorariaTeorico": 60,
+    "CargaHorariaPratica": null,
+    "ListaPrequisitos": []
+  },
+  {
+    "Id": 59266,
+    "Codigo": "3101.000.900-9",
+    "Tipo": "OPT",
+    "Descricao": "FILOSOFIA DA EDUCAÇÃO BRASILEIRA",
+    "Semestre": 99,
+    "Apelido": "FILOSOFIA DA EDUCAÇÃO BRASILEIRA",
+    "CargaHorariaTeorico": 60,
+    "CargaHorariaPratica": null,
+    "ListaPrequisitos": []
+  },
+  {
+    "Id": 59243,
+    "Codigo": "3101.000.877-2",
+    "Tipo": "OPT",
+    "Descricao": "FORMAÇÃO DOCENTE E AÇÕES ESCOLARES",
+    "Semestre": 99,
+    "Apelido": "FORMAÇÃO DOCENTE E AÇÕES ESCOLARES",
+    "CargaHorariaTeorico": 60,
+    "CargaHorariaPratica": null,
+    "ListaPrequisitos": []
+  },
+  {
+    "Id": 59204,
+    "Codigo": "3101.000.838-9",
+    "Tipo": "NAP",
+    "Descricao": "FUNDAMENTOS DA EDUCAÇÃO E DIVERSIDADE",
+    "Semestre": 99,
+    "Apelido": "FUNDAMENTOS DA EDUCAÇÃO E DIVERSIDADE",
+    "CargaHorariaTeorico": 60,
+    "CargaHorariaPratica": null,
+    "ListaPrequisitos": [
+      {
+        "Id": 59185,
+        "Codigo": "3001.000.972-2",
+        "Descricao": "EDUCAÇÃO E RELAÇÕES ÉTNICO-RACIAIS",
+        "Semestre": "0",
+        "Apelido": "EDUCAÇÃO E RELAÇÕES ÉTNICO-RACIAIS",
+        "CargaHorariaTeorico": 0,
+        "CargaHorariaPratica": 0,
+        "ListaPrequisitos": []
+      }
+    ]
+  },
+  {
+    "Id": 59276,
+    "Codigo": "3101.000.910-7",
+    "Tipo": "NAP",
+    "Descricao": "FUNDAMENTOS DA EDUCAÇÃO INCLUSIVA",
+    "Semestre": 99,
+    "Apelido": "FUNDAMENTOS DA EDUCAÇÃO INCLUSIVA",
+    "CargaHorariaTeorico": 60,
+    "CargaHorariaPratica": null,
+    "ListaPrequisitos": [
+      {
+        "Id": 59231,
+        "Codigo": "3101.000.865-6",
+        "Descricao": "EDUCAÇÃO ESPECIAL",
+        "Semestre": "0",
+        "Apelido": "EDUCAÇÃO ESPECIAL",
+        "CargaHorariaTeorico": 0,
+        "CargaHorariaPratica": 0,
+        "ListaPrequisitos": []
+      }
+    ]
+  },
+  {
+    "Id": 54106,
+    "Codigo": "3101.000.810-0",
+    "Tipo": "NAP",
+    "Descricao": "GESTÃO DOS SISTEMAS DE ENSINO",
+    "Semestre": 99,
+    "Apelido": "GESTÃO DOS SISTEMAS DE ENSINO",
+    "CargaHorariaTeorico": 60,
+    "CargaHorariaPratica": null,
+    "ListaPrequisitos": [
+      {
+        "Id": 59271,
+        "Codigo": "3101.000.905-4",
+        "Descricao": "GESTÃO ESCOLAR",
+        "Semestre": "0",
+        "Apelido": "GESTÃO ESCOLAR",
+        "CargaHorariaTeorico": 0,
+        "CargaHorariaPratica": 0,
+        "ListaPrequisitos": []
+      }
+    ]
+  },
+  {
+    "Id": 59250,
+    "Codigo": "3101.000.884-3",
+    "Tipo": "OPT",
+    "Descricao": "HISTÓRIA DA ÁFRICA",
+    "Semestre": 99,
+    "Apelido": "HISTÓRIA DA ÁFRICA",
+    "CargaHorariaTeorico": 60,
+    "CargaHorariaPratica": null,
+    "ListaPrequisitos": []
+  },
+  {
+    "Id": 59216,
+    "Codigo": "3101.000.850-2",
+    "Tipo": "OPT",
+    "Descricao": "HISTÓRIA DA PEDAGOGIA",
+    "Semestre": 99,
+    "Apelido": "HISTÓRIA DA PEDAGOGIA",
+    "CargaHorariaTeorico": 60,
+    "CargaHorariaPratica": null,
+    "ListaPrequisitos": []
+  },
+  {
+    "Id": 59195,
+    "Codigo": "3101.000.829-0",
+    "Tipo": "OPT",
+    "Descricao": "HISTÓRIA DAS INSTITUIÇÕES ESCOLARES",
+    "Semestre": 99,
+    "Apelido": "HISTÓRIA DAS INSTITUIÇÕES ESCOLARES",
+    "CargaHorariaTeorico": 60,
+    "CargaHorariaPratica": null,
+    "ListaPrequisitos": []
+  },
+  {
+    "Id": 59214,
+    "Codigo": "3101.000.848-7",
+    "Tipo": "OPT",
+    "Descricao": "HISTÓRIA E CULTURA DA INFÂNCIA",
+    "Semestre": 99,
+    "Apelido": "HISTÓRIA E CULTURA DA INFÂNCIA",
+    "CargaHorariaTeorico": 60,
+    "CargaHorariaPratica": null,
+    "ListaPrequisitos": []
+  },
+  {
+    "Id": 59196,
+    "Codigo": "3101.000.830-6",
+    "Tipo": "OPT",
+    "Descricao": "INCLUSÃO E ARTE: APRENDIZAGEM AO LONGO DA VIDA",
+    "Semestre": 99,
+    "Apelido": "INCLUSÃO E ARTE: APRENDIZAGEM AO LONGO DA VIDA",
+    "CargaHorariaTeorico": 60,
+    "CargaHorariaPratica": null,
+    "ListaPrequisitos": []
+  },
+  {
+    "Id": 59205,
+    "Codigo": "3101.000.839-8",
+    "Tipo": "OPT",
+    "Descricao": "INFÂNCIA E LETRAMENTO",
+    "Semestre": 99,
+    "Apelido": "INFÂNCIA E LETRAMENTO",
+    "CargaHorariaTeorico": 60,
+    "CargaHorariaPratica": null,
+    "ListaPrequisitos": []
+  },
+  {
+    "Id": 59208,
+    "Codigo": "3101.000.842-2",
+    "Tipo": "OPT",
+    "Descricao": "INICIAÇÃO À DOCÊNCIA I",
+    "Semestre": 99,
+    "Apelido": "INICIAÇÃO À DOCÊNCIA I",
+    "CargaHorariaTeorico": 45,
+    "CargaHorariaPratica": null,
+    "ListaPrequisitos": []
+  },
+  {
+    "Id": 59249,
+    "Codigo": "3101.000.883-4",
+    "Tipo": "OPT",
+    "Descricao": "INICIAÇÃO À DOCÊNCIA II",
+    "Semestre": 99,
+    "Apelido": "INICIAÇÃO À DOCÊNCIA II",
+    "CargaHorariaTeorico": 45,
+    "CargaHorariaPratica": null,
+    "ListaPrequisitos": []
+  },
+  {
+    "Id": 59227,
+    "Codigo": "3101.000.861-0",
+    "Tipo": "OPT",
+    "Descricao": "INSTRUMENTAÇÃO DO ENSINO DE MATEMÁTICA DA EDUCAÇÃO INFANTIL",
+    "Semestre": 99,
+    "Apelido": "INSTRUMENTAÇÃO DO ENSINO DE MATEMÁTICA DA EDUCAÇÃO INFANTIL",
+    "CargaHorariaTeorico": 60,
+    "CargaHorariaPratica": null,
+    "ListaPrequisitos": []
+  },
+  {
+    "Id": 59280,
+    "Codigo": "3101.000.914-3",
+    "Tipo": "OPT",
+    "Descricao": "INSTRUMENTAÇÃO DO ENSINO DE MATEMÁTICA DOS ANOS INICIAIS DO ENSINO FUNDAMENTAL",
+    "Semestre": 99,
+    "Apelido": "INSTRUMENTAÇÃO DO ENSINO DE MATEMÁTICA DOS ANOS INICIAIS DO ENSINO FUNDAMENTAL",
+    "CargaHorariaTeorico": 60,
+    "CargaHorariaPratica": null,
+    "ListaPrequisitos": []
+  },
+  {
+    "Id": 59268,
+    "Codigo": "3101.000.902-7",
+    "Tipo": "OPT",
+    "Descricao": "JOGOS BRINQUEDOS E BRINCADEIRAS NA INFÂNCIA",
+    "Semestre": 99,
+    "Apelido": "JOGOS BRINQUEDOS E BRINCADEIRAS NA INFÂNCIA",
+    "CargaHorariaTeorico": 60,
+    "CargaHorariaPratica": null,
+    "ListaPrequisitos": []
+  },
+  {
+    "Id": 59275,
+    "Codigo": "3101.000.909-0",
+    "Tipo": "OPT",
+    "Descricao": "LEITURA E PRODUÇÃO DE TEXTO",
+    "Semestre": 99,
+    "Apelido": "LEITURA E PRODUÇÃO DE TEXTO",
+    "CargaHorariaTeorico": 60,
+    "CargaHorariaPratica": null,
+    "ListaPrequisitos": []
+  },
+  {
+    "Id": 59282,
+    "Codigo": "3101.000.916-1",
+    "Tipo": "OPT",
+    "Descricao": "LIBRAS NO CONTEXTO EDUCACIONAL",
+    "Semestre": 99,
+    "Apelido": "LIBRAS NO CONTEXTO EDUCACIONAL",
+    "CargaHorariaTeorico": 60,
+    "CargaHorariaPratica": null,
+    "ListaPrequisitos": []
+  },
+  {
+    "Id": 59233,
+    "Codigo": "3101.000.867-4",
+    "Tipo": "OPT",
+    "Descricao": "LITERATURA INFANTO-JUVENIL",
+    "Semestre": 99,
+    "Apelido": "LITERATURA INFANTO-JUVENIL",
+    "CargaHorariaTeorico": 60,
+    "CargaHorariaPratica": null,
+    "ListaPrequisitos": []
+  },
+  {
+    "Id": 59232,
+    "Codigo": "3101.000.866-5",
+    "Tipo": "NAP",
+    "Descricao": "POLÍTICAS DE EDUCAÇÃO DE JOVENS E ADULTOS",
+    "Semestre": 99,
+    "Apelido": "POLÍTICAS DE EDUCAÇÃO DE JOVENS E ADULTOS",
+    "CargaHorariaTeorico": 60,
+    "CargaHorariaPratica": null,
+    "ListaPrequisitos": [
+      {
+        "Id": 59244,
+        "Codigo": "3101.000.878-1",
+        "Descricao": "EDUCAÇÃO DE JOVENS E ADULTOS",
+        "Semestre": "0",
+        "Apelido": "EDUCAÇÃO DE JOVENS E ADULTOS",
+        "CargaHorariaTeorico": 0,
+        "CargaHorariaPratica": 0,
+        "ListaPrequisitos": []
+      }
+    ]
+  },
+  {
+    "Id": 59242,
+    "Codigo": "3101.000.876-3",
+    "Tipo": "NAP",
+    "Descricao": "POLÍTICAS DE EDUCAÇÃO PROFISSIONAL",
+    "Semestre": 99,
+    "Apelido": "POLÍTICAS DE EDUCAÇÃO PROFISSIONAL",
+    "CargaHorariaTeorico": 60,
+    "CargaHorariaPratica": null,
+    "ListaPrequisitos": [
+      {
+        "Id": 59224,
+        "Codigo": "3101.000.858-5",
+        "Descricao": "EDUCAÇÃO E TRABALHO",
+        "Semestre": "0",
+        "Apelido": "EDUCAÇÃO E TRABALHO",
+        "CargaHorariaTeorico": 0,
+        "CargaHorariaPratica": 0,
+        "ListaPrequisitos": []
+      }
+    ]
+  },
+  {
+    "Id": 59212,
+    "Codigo": "3101.000.846-9",
+    "Tipo": "OPT",
+    "Descricao": "POLÍTICAS PÚBLICAS EM EDUCAÇÃO INFANTIL",
+    "Semestre": 99,
+    "Apelido": "POLÍTICAS PÚBLICAS EM EDUCAÇÃO INFANTIL",
+    "CargaHorariaTeorico": 60,
+    "CargaHorariaPratica": null,
+    "ListaPrequisitos": []
+  },
+  {
+    "Id": 59225,
+    "Codigo": "3101.000.859-4",
+    "Tipo": "OPT",
+    "Descricao": "POLÍTICAS PÚBLICAS SOCIAIS",
+    "Semestre": 99,
+    "Apelido": "POLÍTICAS PÚBLICAS SOCIAIS",
+    "CargaHorariaTeorico": 60,
+    "CargaHorariaPratica": null,
+    "ListaPrequisitos": []
+  },
+  {
+    "Id": 59189,
+    "Codigo": "3101.000.823-5",
+    "Tipo": "OPT",
+    "Descricao": "PRÁTICA CIENTÍFICA I",
+    "Semestre": 99,
+    "Apelido": "PRÁTICA CIENTÍFICA I",
+    "CargaHorariaTeorico": 60,
+    "CargaHorariaPratica": null,
+    "ListaPrequisitos": []
+  },
+  {
+    "Id": 59251,
+    "Codigo": "3101.000.885-2",
+    "Tipo": "OPT",
+    "Descricao": "PRÁTICA CIENTÍFICA II",
+    "Semestre": 99,
+    "Apelido": "PRÁTICA CIENTÍFICA II",
+    "CargaHorariaTeorico": 60,
+    "CargaHorariaPratica": null,
+    "ListaPrequisitos": []
+  },
+  {
+    "Id": 59230,
+    "Codigo": "3101.000.864-7",
+    "Tipo": "NAP",
+    "Descricao": "PRÁTICA EM EDUCAÇÃO DE JOVENS E ADULTOS",
+    "Semestre": 99,
+    "Apelido": "PRÁTICA EM EDUCAÇÃO DE JOVENS E ADULTOS",
+    "CargaHorariaTeorico": 60,
+    "CargaHorariaPratica": null,
+    "ListaPrequisitos": [
+      {
+        "Id": 59244,
+        "Codigo": "3101.000.878-1",
+        "Descricao": "EDUCAÇÃO DE JOVENS E ADULTOS",
+        "Semestre": "0",
+        "Apelido": "EDUCAÇÃO DE JOVENS E ADULTOS",
+        "CargaHorariaTeorico": 0,
+        "CargaHorariaPratica": 0,
+        "ListaPrequisitos": []
+      }
+    ]
+  },
+  {
+    "Id": 59269,
+    "Codigo": "3101.000.903-6",
+    "Tipo": "NAP",
+    "Descricao": "PRÁTICA EM EDUCAÇÃO E DIVERSIDADE",
+    "Semestre": 99,
+    "Apelido": "PRÁTICA EM EDUCAÇÃO E DIVERSIDADE",
+    "CargaHorariaTeorico": 60,
+    "CargaHorariaPratica": null,
+    "ListaPrequisitos": [
+      {
+        "Id": 59185,
+        "Codigo": "3001.000.972-2",
+        "Descricao": "EDUCAÇÃO E RELAÇÕES ÉTNICO-RACIAIS",
+        "Semestre": "0",
+        "Apelido": "EDUCAÇÃO E RELAÇÕES ÉTNICO-RACIAIS",
+        "CargaHorariaTeorico": 0,
+        "CargaHorariaPratica": 0,
+        "ListaPrequisitos": []
+      }
+    ]
+  },
+  {
+    "Id": 59260,
+    "Codigo": "3101.000.894-1",
+    "Tipo": "NAP",
+    "Descricao": "PRÁTICA EM EDUCAÇÃO ESPECIAL",
+    "Semestre": 99,
+    "Apelido": "PRÁTICA EM EDUCAÇÃO ESPECIAL",
+    "CargaHorariaTeorico": 60,
+    "CargaHorariaPratica": null,
+    "ListaPrequisitos": [
+      {
+        "Id": 59231,
+        "Codigo": "3101.000.865-6",
+        "Descricao": "EDUCAÇÃO ESPECIAL",
+        "Semestre": "0",
+        "Apelido": "EDUCAÇÃO ESPECIAL",
+        "CargaHorariaTeorico": 0,
+        "CargaHorariaPratica": 0,
+        "ListaPrequisitos": []
+      }
+    ]
+  },
+  {
+    "Id": 59207,
+    "Codigo": "3101.000.841-3",
+    "Tipo": "NAP",
+    "Descricao": "PRÁTICA EM EDUCAÇÃO E TRABALHO",
+    "Semestre": 99,
+    "Apelido": "PRÁTICA EM EDUCAÇÃO E TRABALHO",
+    "CargaHorariaTeorico": 60,
+    "CargaHorariaPratica": null,
+    "ListaPrequisitos": [
+      {
+        "Id": 59224,
+        "Codigo": "3101.000.858-5",
+        "Descricao": "EDUCAÇÃO E TRABALHO",
+        "Semestre": "0",
+        "Apelido": "EDUCAÇÃO E TRABALHO",
+        "CargaHorariaTeorico": 0,
+        "CargaHorariaPratica": 0,
+        "ListaPrequisitos": []
+      }
+    ]
+  },
+  {
+    "Id": 59206,
+    "Codigo": "3101.000.840-4",
+    "Tipo": "NAP",
+    "Descricao": "PRÁTICA EM GESTÃO ESCOLAR",
+    "Semestre": 99,
+    "Apelido": "PRÁTICA EM GESTÃO ESCOLAR",
+    "CargaHorariaTeorico": 60,
+    "CargaHorariaPratica": null,
+    "ListaPrequisitos": [
+      {
+        "Id": 59271,
+        "Codigo": "3101.000.905-4",
+        "Descricao": "GESTÃO ESCOLAR",
+        "Semestre": "0",
+        "Apelido": "GESTÃO ESCOLAR",
+        "CargaHorariaTeorico": 0,
+        "CargaHorariaPratica": 0,
+        "ListaPrequisitos": []
+      }
+    ]
+  },
+  {
+    "Id": 59186,
+    "Codigo": "3001.000.973-1",
+    "Tipo": "OPT",
+    "Descricao": "PSICOLOGIA DO DESENVOLVIMENTO E DA APRENDIZAGEM",
+    "Semestre": 99,
+    "Apelido": "PSICOLOGIA DO DESENVOLVIMENTO E DA APRENDIZAGEM",
+    "CargaHorariaTeorico": 60,
+    "CargaHorariaPratica": null,
+    "ListaPrequisitos": []
+  },
+  {
+    "Id": 59255,
+    "Codigo": "3101.000.889-9",
+    "Tipo": "OPT",
+    "Descricao": "TÓPICOS ESPECIAIS DA EDUCAÇÃO BRASILEIRA",
+    "Semestre": 99,
+    "Apelido": "TÓPICOS ESPECIAIS DA EDUCAÇÃO BRASILEIRA",
+    "CargaHorariaTeorico": 60,
+    "CargaHorariaPratica": null,
+    "ListaPrequisitos": []
+  },
+  {
+    "Id": 59265,
+    "Codigo": "3101.000.899-7",
+    "Tipo": "NAP",
+    "Descricao": "TÓPICOS ESPECIAIS: LEITURAS DE CURRÍCULO EM EDUCAÇÃO ESPECIAL",
+    "Semestre": 99,
+    "Apelido": "TÓPICOS ESPECIAIS: LEITURAS DE CURRÍCULO EM EDUCAÇÃO ESPECIAL",
+    "CargaHorariaTeorico": 60,
+    "CargaHorariaPratica": null,
+    "ListaPrequisitos": [
+      {
+        "Id": 59231,
+        "Codigo": "3101.000.865-6",
+        "Descricao": "EDUCAÇÃO ESPECIAL",
+        "Semestre": "0",
+        "Apelido": "EDUCAÇÃO ESPECIAL",
+        "CargaHorariaTeorico": 0,
+        "CargaHorariaPratica": 0,
+        "ListaPrequisitos": []
+      }
+    ]
+  },
+  {
+    "Id": 59248,
+    "Codigo": "3101.000.882-5",
+    "Tipo": "OPT",
+    "Descricao": "TRABALHO DOCENTE E AS INSTITUIÇÕES SOCIAIS ESCOLARES E NÃO ESCOLARES",
+    "Semestre": 99,
+    "Apelido": "TRABALHO DOCENTE E AS INSTITUIÇÕES SOCIAIS ESCOLARES E NÃO ESCOLARES",
+    "CargaHorariaTeorico": 60,
+    "CargaHorariaPratica": null,
+    "ListaPrequisitos": []
+  },
+  {
+    "Id": 59262,
+    "Codigo": "3101.000.896-0",
+    "Tipo": "OPT",
+    "Descricao": "VIOLÊNCIAS CONTRA CRIANÇAS E ADOLESCENTES E AS INSTITUIÇÕES EDUCATIVAS",
+    "Semestre": 99,
+    "Apelido": "VIOLÊNCIAS CONTRA CRIANÇAS E ADOLESCENTES E AS INSTITUIÇÕES EDUCATIVAS",
+    "CargaHorariaTeorico": 60,
+    "CargaHorariaPratica": null,
+    "ListaPrequisitos": []
+  }
+]

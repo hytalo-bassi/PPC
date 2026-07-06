@@ -1,0 +1,1129 @@
+[
+  {
+    "Id": 61194,
+    "Codigo": "0401.002.252-8",
+    "Tipo": "OBR",
+    "Descricao": "ANTROPOLOGIA E SAÚDE",
+    "Semestre": 1,
+    "Apelido": "ANTROPOLOGIA E SAÚDE",
+    "CargaHorariaTeorico": 45,
+    "CargaHorariaPratica": null,
+    "ListaPrequisitos": []
+  },
+  {
+    "Id": 61185,
+    "Codigo": "0401.002.243-9",
+    "Tipo": "OBR",
+    "Descricao": "BIOESTATÍSTICA",
+    "Semestre": 1,
+    "Apelido": "BIOESTATÍSTICA",
+    "CargaHorariaTeorico": 30,
+    "CargaHorariaPratica": null,
+    "ListaPrequisitos": []
+  },
+  {
+    "Id": 61182,
+    "Codigo": "0401.002.240-1",
+    "Tipo": "OBR",
+    "Descricao": "BIOLOGIA CELULAR",
+    "Semestre": 1,
+    "Apelido": "BIOLOGIA CELULAR",
+    "CargaHorariaTeorico": 45,
+    "CargaHorariaPratica": null,
+    "ListaPrequisitos": []
+  },
+  {
+    "Id": 61186,
+    "Codigo": "0401.002.244-8",
+    "Tipo": "OBR",
+    "Descricao": "BIOQUÍMICA",
+    "Semestre": 1,
+    "Apelido": "BIOQUÍMICA",
+    "CargaHorariaTeorico": 45,
+    "CargaHorariaPratica": null,
+    "ListaPrequisitos": []
+  },
+  {
+    "Id": 61187,
+    "Codigo": "0401.002.245-7",
+    "Tipo": "OBR",
+    "Descricao": "EDUCAÇÃO DAS RELAÇÕES ÉTNICO-RACIAIS",
+    "Semestre": 1,
+    "Apelido": "EDUCAÇÃO DAS RELAÇÕES ÉTNICO-RACIAIS",
+    "CargaHorariaTeorico": 45,
+    "CargaHorariaPratica": null,
+    "ListaPrequisitos": []
+  },
+  {
+    "Id": 61177,
+    "Codigo": "0401.002.235-9",
+    "Tipo": "OBR",
+    "Descricao": "ESTUDO DE LIBRAS",
+    "Semestre": 1,
+    "Apelido": "ESTUDO DE LIBRAS",
+    "CargaHorariaTeorico": 45,
+    "CargaHorariaPratica": null,
+    "ListaPrequisitos": []
+  },
+  {
+    "Id": 61179,
+    "Codigo": "0401.002.237-7",
+    "Tipo": "OBR",
+    "Descricao": "PSICOLOGIA APLICADA À SAÚDE",
+    "Semestre": 1,
+    "Apelido": "PSICOLOGIA APLICADA À SAÚDE",
+    "CargaHorariaTeorico": 45,
+    "CargaHorariaPratica": null,
+    "ListaPrequisitos": []
+  },
+  {
+    "Id": 61161,
+    "Codigo": "0401.002.219-9",
+    "Tipo": "OBR",
+    "Descricao": "SAÚDE E SOCIEDADE",
+    "Semestre": 1,
+    "Apelido": "SAÚDE E SOCIEDADE",
+    "CargaHorariaTeorico": 45,
+    "CargaHorariaPratica": null,
+    "ListaPrequisitos": []
+  },
+  {
+    "Id": 61162,
+    "Codigo": "0401.002.220-5",
+    "Tipo": "OBR",
+    "Descricao": "ANATOMIA HUMANA",
+    "Semestre": 2,
+    "Apelido": "ANATOMIA HUMANA",
+    "CargaHorariaTeorico": 60,
+    "CargaHorariaPratica": null,
+    "ListaPrequisitos": []
+  },
+  {
+    "Id": 61159,
+    "Codigo": "0401.002.217-0",
+    "Tipo": "OBR",
+    "Descricao": "BASES CONCEITUAIS DA SAÚDE COLETIVA",
+    "Semestre": 2,
+    "Apelido": "BASES CONCEITUAIS DA SAÚDE COLETIVA",
+    "CargaHorariaTeorico": 60,
+    "CargaHorariaPratica": null,
+    "ListaPrequisitos": []
+  },
+  {
+    "Id": 61160,
+    "Codigo": "0401.002.218-0",
+    "Tipo": "OBR",
+    "Descricao": "EMBRIOLOGIA",
+    "Semestre": 2,
+    "Apelido": "EMBRIOLOGIA",
+    "CargaHorariaTeorico": 45,
+    "CargaHorariaPratica": null,
+    "ListaPrequisitos": []
+  },
+  {
+    "Id": 61188,
+    "Codigo": "0401.002.246-6",
+    "Tipo": "OBR",
+    "Descricao": "FISIOLOGIA HUMANA",
+    "Semestre": 2,
+    "Apelido": "FISIOLOGIA HUMANA",
+    "CargaHorariaTeorico": 60,
+    "CargaHorariaPratica": null,
+    "ListaPrequisitos": []
+  },
+  {
+    "Id": 61164,
+    "Codigo": "0401.002.222-3",
+    "Tipo": "OBR",
+    "Descricao": "HISTOLOGIA",
+    "Semestre": 2,
+    "Apelido": "HISTOLOGIA",
+    "CargaHorariaTeorico": 60,
+    "CargaHorariaPratica": null,
+    "ListaPrequisitos": []
+  },
+  {
+    "Id": 61189,
+    "Codigo": "0401.002.247-5",
+    "Tipo": "OBR",
+    "Descricao": "HISTÓRIA DA ENFERMAGEM",
+    "Semestre": 2,
+    "Apelido": "HISTÓRIA DA ENFERMAGEM",
+    "CargaHorariaTeorico": 45,
+    "CargaHorariaPratica": null,
+    "ListaPrequisitos": []
+  },
+  {
+    "Id": 61190,
+    "Codigo": "0401.002.248-4",
+    "Tipo": "OBR",
+    "Descricao": "MICROBIOLOGIA BÁSICA E CLÍNICA",
+    "Semestre": 2,
+    "Apelido": "MICROBIOLOGIA BÁSICA E CLÍNICA",
+    "CargaHorariaTeorico": 60,
+    "CargaHorariaPratica": null,
+    "ListaPrequisitos": []
+  },
+  {
+    "Id": 61158,
+    "Codigo": "0401.002.216-1",
+    "Tipo": "OBR",
+    "Descricao": "DIDÁTICA APLICADA À ENFERMAGEM",
+    "Semestre": 3,
+    "Apelido": "DIDÁTICA APLICADA À ENFERMAGEM",
+    "CargaHorariaTeorico": 30,
+    "CargaHorariaPratica": null,
+    "ListaPrequisitos": []
+  },
+  {
+    "Id": 61191,
+    "Codigo": "0401.002.249-3",
+    "Tipo": "OBR",
+    "Descricao": "EDUCAÇÃO EM SAÚDE",
+    "Semestre": 3,
+    "Apelido": "EDUCAÇÃO EM SAÚDE",
+    "CargaHorariaTeorico": 45,
+    "CargaHorariaPratica": null,
+    "ListaPrequisitos": []
+  },
+  {
+    "Id": 61165,
+    "Codigo": "0401.002.223-2",
+    "Tipo": "OBR",
+    "Descricao": "EPIDEMIOLOGIA",
+    "Semestre": 3,
+    "Apelido": "EPIDEMIOLOGIA",
+    "CargaHorariaTeorico": 30,
+    "CargaHorariaPratica": null,
+    "ListaPrequisitos": []
+  },
+  {
+    "Id": 61166,
+    "Codigo": "0401.002.224-1",
+    "Tipo": "OBR",
+    "Descricao": "FARMACOLOGIA APLICADA À ENFERMAGEM I",
+    "Semestre": 3,
+    "Apelido": "FARMACOLOGIA APLICADA À ENFERMAGEM I",
+    "CargaHorariaTeorico": 45,
+    "CargaHorariaPratica": null,
+    "ListaPrequisitos": []
+  },
+  {
+    "Id": 61167,
+    "Codigo": "0401.002.225-0",
+    "Tipo": "OBR",
+    "Descricao": "GENÉTICA HUMANA",
+    "Semestre": 3,
+    "Apelido": "GENÉTICA HUMANA",
+    "CargaHorariaTeorico": 45,
+    "CargaHorariaPratica": null,
+    "ListaPrequisitos": []
+  },
+  {
+    "Id": 61168,
+    "Codigo": "0401.002.226-0",
+    "Tipo": "OBR",
+    "Descricao": "PARASITOLOGIA HUMANA",
+    "Semestre": 3,
+    "Apelido": "PARASITOLOGIA HUMANA",
+    "CargaHorariaTeorico": 45,
+    "CargaHorariaPratica": null,
+    "ListaPrequisitos": []
+  },
+  {
+    "Id": 61169,
+    "Codigo": "0401.002.227-9",
+    "Tipo": "OBR",
+    "Descricao": "PATOLOGIA GERAL",
+    "Semestre": 3,
+    "Apelido": "PATOLOGIA GERAL",
+    "CargaHorariaTeorico": 45,
+    "CargaHorariaPratica": null,
+    "ListaPrequisitos": []
+  },
+  {
+    "Id": 61170,
+    "Codigo": "0401.002.228-8",
+    "Tipo": "OBR",
+    "Descricao": "FARMACOLOGIA APLICADA À ENFERMAGEM II",
+    "Semestre": 4,
+    "Apelido": "FARMACOLOGIA APLICADA À ENFERMAGEM II",
+    "CargaHorariaTeorico": 60,
+    "CargaHorariaPratica": null,
+    "ListaPrequisitos": [
+      {
+        "Id": 61166,
+        "Codigo": "0401.002.224-1",
+        "Descricao": "FARMACOLOGIA APLICADA À ENFERMAGEM I",
+        "Semestre": "0",
+        "Apelido": "FARMACOLOGIA APLICADA À ENFERMAGEM I",
+        "CargaHorariaTeorico": 0,
+        "CargaHorariaPratica": 0,
+        "ListaPrequisitos": []
+      }
+    ]
+  },
+  {
+    "Id": 61192,
+    "Codigo": "0401.002.250-0",
+    "Tipo": "OBR",
+    "Descricao": "FUNDAMENTOS DE ENFERMAGEM I",
+    "Semestre": 4,
+    "Apelido": "FUNDAMENTOS DE ENFERMAGEM I",
+    "CargaHorariaTeorico": 90,
+    "CargaHorariaPratica": null,
+    "ListaPrequisitos": []
+  },
+  {
+    "Id": 61193,
+    "Codigo": "0401.002.251-9",
+    "Tipo": "OBR",
+    "Descricao": "HISTÓRIA DA SAÚDE PÚBLICA NO BRASIL",
+    "Semestre": 4,
+    "Apelido": "HISTÓRIA DA SAÚDE PÚBLICA NO BRASIL",
+    "CargaHorariaTeorico": 45,
+    "CargaHorariaPratica": null,
+    "ListaPrequisitos": []
+  },
+  {
+    "Id": 61178,
+    "Codigo": "0401.002.236-8",
+    "Tipo": "OBR",
+    "Descricao": "IMUNOLOGIA",
+    "Semestre": 4,
+    "Apelido": "IMUNOLOGIA",
+    "CargaHorariaTeorico": 45,
+    "CargaHorariaPratica": null,
+    "ListaPrequisitos": []
+  },
+  {
+    "Id": 61242,
+    "Codigo": "0401.002.300-6",
+    "Tipo": "OBR",
+    "Descricao": "LEGISLAÇÃO, ÉTICA E BIOÉTICA APLICADAS À ENFERMAGEM",
+    "Semestre": 4,
+    "Apelido": "LEGISLAÇÃO, ÉTICA E BIOÉTICA APLICADAS À ENFERMAGEM",
+    "CargaHorariaTeorico": 45,
+    "CargaHorariaPratica": null,
+    "ListaPrequisitos": []
+  },
+  {
+    "Id": 61181,
+    "Codigo": "0401.002.239-5",
+    "Tipo": "OBR",
+    "Descricao": "SUPORTE BÁSICO DE VIDA",
+    "Semestre": 4,
+    "Apelido": "SUPORTE BÁSICO DE VIDA",
+    "CargaHorariaTeorico": 45,
+    "CargaHorariaPratica": null,
+    "ListaPrequisitos": []
+  },
+  {
+    "Id": 61171,
+    "Codigo": "0401.002.229-7",
+    "Tipo": "OBR",
+    "Descricao": "CONTROLE E PREVENÇÃO DE INFECÇÕES NOS SERVIÇOS DE SAÚDE",
+    "Semestre": 5,
+    "Apelido": "CONTROLE E PREVENÇÃO DE INFECÇÕES NOS SERVIÇOS DE SAÚDE",
+    "CargaHorariaTeorico": 45,
+    "CargaHorariaPratica": null,
+    "ListaPrequisitos": []
+  },
+  {
+    "Id": 61197,
+    "Codigo": "0401.002.255-5",
+    "Tipo": "OBR",
+    "Descricao": "ENFERMAGEM EM DOENÇAS TRANSMISSÍVEIS",
+    "Semestre": 5,
+    "Apelido": "ENFERMAGEM EM DOENÇAS TRANSMISSÍVEIS",
+    "CargaHorariaTeorico": 45,
+    "CargaHorariaPratica": null,
+    "ListaPrequisitos": []
+  },
+  {
+    "Id": 61195,
+    "Codigo": "0401.002.253-7",
+    "Tipo": "OBR",
+    "Descricao": "ENFERMAGEM EM SAÚDE MENTAL I",
+    "Semestre": 5,
+    "Apelido": "ENFERMAGEM EM SAÚDE MENTAL I",
+    "CargaHorariaTeorico": 75,
+    "CargaHorariaPratica": null,
+    "ListaPrequisitos": [
+      {
+        "Id": 61179,
+        "Codigo": "0401.002.237-7",
+        "Descricao": "PSICOLOGIA APLICADA À SAÚDE",
+        "Semestre": "0",
+        "Apelido": "PSICOLOGIA APLICADA À SAÚDE",
+        "CargaHorariaTeorico": 0,
+        "CargaHorariaPratica": 0,
+        "ListaPrequisitos": []
+      }
+    ]
+  },
+  {
+    "Id": 61172,
+    "Codigo": "0401.002.230-3",
+    "Tipo": "OBR",
+    "Descricao": "FUNDAMENTOS DE ENFERMAGEM II",
+    "Semestre": 5,
+    "Apelido": "FUNDAMENTOS DE ENFERMAGEM II",
+    "CargaHorariaTeorico": 120,
+    "CargaHorariaPratica": null,
+    "ListaPrequisitos": [
+      {
+        "Id": 61192,
+        "Codigo": "0401.002.250-0",
+        "Descricao": "FUNDAMENTOS DE ENFERMAGEM I",
+        "Semestre": "0",
+        "Apelido": "FUNDAMENTOS DE ENFERMAGEM I",
+        "CargaHorariaTeorico": 0,
+        "CargaHorariaPratica": 0,
+        "ListaPrequisitos": []
+      }
+    ]
+  },
+  {
+    "Id": 61173,
+    "Codigo": "0401.002.231-2",
+    "Tipo": "OBR",
+    "Descricao": "INVESTIGAÇÃO EM SAÚDE I",
+    "Semestre": 5,
+    "Apelido": "INVESTIGAÇÃO EM SAÚDE I",
+    "CargaHorariaTeorico": 45,
+    "CargaHorariaPratica": null,
+    "ListaPrequisitos": []
+  },
+  {
+    "Id": 61183,
+    "Codigo": "0401.002.241-0",
+    "Tipo": "OBR",
+    "Descricao": "PROCESSO DE ENFERMAGEM E MÉTODOS TEÓRICOS",
+    "Semestre": 5,
+    "Apelido": "PROCESSO DE ENFERMAGEM E MÉTODOS TEÓRICOS",
+    "CargaHorariaTeorico": 30,
+    "CargaHorariaPratica": null,
+    "ListaPrequisitos": []
+  },
+  {
+    "Id": 61210,
+    "Codigo": "0401.002.268-0",
+    "Tipo": "OBR",
+    "Descricao": "ENFERMAGEM EM SAÚDE COLETIVA I",
+    "Semestre": 6,
+    "Apelido": "ENFERMAGEM EM SAÚDE COLETIVA I",
+    "CargaHorariaTeorico": 60,
+    "CargaHorariaPratica": null,
+    "ListaPrequisitos": []
+  },
+  {
+    "Id": 61196,
+    "Codigo": "0401.002.254-6",
+    "Tipo": "OBR",
+    "Descricao": "ENFERMAGEM EM SAÚDE MENTAL II",
+    "Semestre": 6,
+    "Apelido": "ENFERMAGEM EM SAÚDE MENTAL II",
+    "CargaHorariaTeorico": 75,
+    "CargaHorariaPratica": null,
+    "ListaPrequisitos": [
+      {
+        "Id": 61195,
+        "Codigo": "0401.002.253-7",
+        "Descricao": "ENFERMAGEM EM SAÚDE MENTAL I",
+        "Semestre": "0",
+        "Apelido": "ENFERMAGEM EM SAÚDE MENTAL I",
+        "CargaHorariaTeorico": 0,
+        "CargaHorariaPratica": 0,
+        "ListaPrequisitos": []
+      }
+    ]
+  },
+  {
+    "Id": 61184,
+    "Codigo": "0401.002.242-0",
+    "Tipo": "OBR",
+    "Descricao": "ENFERMAGEM NA SAÚDE DA CRIANÇA E DO ADOLESCENTE",
+    "Semestre": 6,
+    "Apelido": "ENFERMAGEM NA SAÚDE DA CRIANÇA E DO ADOLESCENTE",
+    "CargaHorariaTeorico": 105,
+    "CargaHorariaPratica": null,
+    "ListaPrequisitos": []
+  },
+  {
+    "Id": 61174,
+    "Codigo": "0401.002.232-1",
+    "Tipo": "OBR",
+    "Descricao": "ENFERMAGEM NA SAÚDE SEXUAL E REPRODUTIVA",
+    "Semestre": 6,
+    "Apelido": "ENFERMAGEM NA SAÚDE SEXUAL E REPRODUTIVA",
+    "CargaHorariaTeorico": 105,
+    "CargaHorariaPratica": null,
+    "ListaPrequisitos": []
+  },
+  {
+    "Id": 61216,
+    "Codigo": "0401.002.274-2",
+    "Tipo": "OBR",
+    "Descricao": "INTERPRETAÇÃO DE EXAMES LABORATORIAIS",
+    "Semestre": 6,
+    "Apelido": "INTERPRETAÇÃO DE EXAMES LABORATORIAIS",
+    "CargaHorariaTeorico": 60,
+    "CargaHorariaPratica": null,
+    "ListaPrequisitos": []
+  },
+  {
+    "Id": 61175,
+    "Codigo": "0401.002.233-0",
+    "Tipo": "OBR",
+    "Descricao": "INVESTIGAÇÃO EM SAÚDE II",
+    "Semestre": 6,
+    "Apelido": "INVESTIGAÇÃO EM SAÚDE II",
+    "CargaHorariaTeorico": 30,
+    "CargaHorariaPratica": null,
+    "ListaPrequisitos": []
+  },
+  {
+    "Id": 61201,
+    "Codigo": "0401.002.259-1",
+    "Tipo": "OBR",
+    "Descricao": "ENFERMAGEM EM SAÚDE COLETIVA II",
+    "Semestre": 7,
+    "Apelido": "ENFERMAGEM EM SAÚDE COLETIVA II",
+    "CargaHorariaTeorico": 75,
+    "CargaHorariaPratica": null,
+    "ListaPrequisitos": [
+      {
+        "Id": 61210,
+        "Codigo": "0401.002.268-0",
+        "Descricao": "ENFERMAGEM EM SAÚDE COLETIVA I",
+        "Semestre": "0",
+        "Apelido": "ENFERMAGEM EM SAÚDE COLETIVA I",
+        "CargaHorariaTeorico": 0,
+        "CargaHorariaPratica": 0,
+        "ListaPrequisitos": []
+      }
+    ]
+  },
+  {
+    "Id": 61176,
+    "Codigo": "0401.002.234-0",
+    "Tipo": "OBR",
+    "Descricao": "ENFERMAGEM NA SAÚDE DA PESSOA ADULTA",
+    "Semestre": 7,
+    "Apelido": "ENFERMAGEM NA SAÚDE DA PESSOA ADULTA",
+    "CargaHorariaTeorico": 60,
+    "CargaHorariaPratica": null,
+    "ListaPrequisitos": []
+  },
+  {
+    "Id": 61163,
+    "Codigo": "0401.002.221-4",
+    "Tipo": "OBR",
+    "Descricao": "ENFERMAGEM NA SAÚDE DA PESSOA IDOSA",
+    "Semestre": 7,
+    "Apelido": "ENFERMAGEM NA SAÚDE DA PESSOA IDOSA",
+    "CargaHorariaTeorico": 60,
+    "CargaHorariaPratica": null,
+    "ListaPrequisitos": []
+  },
+  {
+    "Id": 61180,
+    "Codigo": "0401.002.238-6",
+    "Tipo": "OBR",
+    "Descricao": "ENFERMAGEM NA SAÚDE DA PESSOA INDÍGENA",
+    "Semestre": 7,
+    "Apelido": "ENFERMAGEM NA SAÚDE DA PESSOA INDÍGENA",
+    "CargaHorariaTeorico": 60,
+    "CargaHorariaPratica": null,
+    "ListaPrequisitos": []
+  },
+  {
+    "Id": 61202,
+    "Codigo": "0401.002.260-8",
+    "Tipo": "OBR",
+    "Descricao": "ENFERMAGEM NAS PRÁTICAS INTEGRATIVAS E COMPLEMENTARES I",
+    "Semestre": 7,
+    "Apelido": "ENFERMAGEM NAS PRÁTICAS INTEGRATIVAS E COMPLEMENTARES I",
+    "CargaHorariaTeorico": 60,
+    "CargaHorariaPratica": null,
+    "ListaPrequisitos": []
+  },
+  {
+    "Id": 61203,
+    "Codigo": "0401.002.261-7",
+    "Tipo": "OBR",
+    "Descricao": "NUTRIÇÃO APLICADA À ENFERMAGEM",
+    "Semestre": 7,
+    "Apelido": "NUTRIÇÃO APLICADA À ENFERMAGEM",
+    "CargaHorariaTeorico": 45,
+    "CargaHorariaPratica": null,
+    "ListaPrequisitos": []
+  },
+  {
+    "Id": 61211,
+    "Codigo": "0401.002.269-0",
+    "Tipo": "OBR",
+    "Descricao": "ENFERMAGEM NAS PRÁTICAS INTEGRATIVAS E COMPLEMENTARES II",
+    "Semestre": 8,
+    "Apelido": "ENFERMAGEM NAS PRÁTICAS INTEGRATIVAS E COMPLEMENTARES II",
+    "CargaHorariaTeorico": 60,
+    "CargaHorariaPratica": null,
+    "ListaPrequisitos": [
+      {
+        "Id": 61202,
+        "Codigo": "0401.002.260-8",
+        "Descricao": "ENFERMAGEM NAS PRÁTICAS INTEGRATIVAS E COMPLEMENTARES I",
+        "Semestre": "0",
+        "Apelido": "ENFERMAGEM NAS PRÁTICAS INTEGRATIVAS E COMPLEMENTARES I",
+        "CargaHorariaTeorico": 0,
+        "CargaHorariaPratica": 0,
+        "ListaPrequisitos": []
+      }
+    ]
+  },
+  {
+    "Id": 61212,
+    "Codigo": "0401.002.270-6",
+    "Tipo": "OBR",
+    "Descricao": "ENFERMAGEM NO CUIDADO DO PACIENTE CRÍTICO",
+    "Semestre": 8,
+    "Apelido": "ENFERMAGEM NO CUIDADO DO PACIENTE CRÍTICO",
+    "CargaHorariaTeorico": 75,
+    "CargaHorariaPratica": null,
+    "ListaPrequisitos": []
+  },
+  {
+    "Id": 61204,
+    "Codigo": "0401.002.262-6",
+    "Tipo": "OBR",
+    "Descricao": "ENFERMAGEM PERIOPERATÓRIA",
+    "Semestre": 8,
+    "Apelido": "ENFERMAGEM PERIOPERATÓRIA",
+    "CargaHorariaTeorico": 75,
+    "CargaHorariaPratica": null,
+    "ListaPrequisitos": []
+  },
+  {
+    "Id": 61205,
+    "Codigo": "0401.002.263-5",
+    "Tipo": "OBR",
+    "Descricao": "GERENCIAMENTO APLICADO À ENFERMAGEM HOSPITALAR",
+    "Semestre": 8,
+    "Apelido": "GERENCIAMENTO APLICADO À ENFERMAGEM HOSPITALAR",
+    "CargaHorariaTeorico": 60,
+    "CargaHorariaPratica": null,
+    "ListaPrequisitos": []
+  },
+  {
+    "Id": 61206,
+    "Codigo": "0401.002.264-4",
+    "Tipo": "OBR",
+    "Descricao": "GESTÃO EM SAÚDE COLETIVA",
+    "Semestre": 8,
+    "Apelido": "GESTÃO EM SAÚDE COLETIVA",
+    "CargaHorariaTeorico": 45,
+    "CargaHorariaPratica": null,
+    "ListaPrequisitos": []
+  },
+  {
+    "Id": 61207,
+    "Codigo": "0401.002.265-3",
+    "Tipo": "OBR",
+    "Descricao": "INTERPRETAÇÃO DO ELETROCARDIOGRAMA",
+    "Semestre": 8,
+    "Apelido": "INTERPRETAÇÃO DO ELETROCARDIOGRAMA",
+    "CargaHorariaTeorico": 45,
+    "CargaHorariaPratica": null,
+    "ListaPrequisitos": []
+  },
+  {
+    "Id": 61215,
+    "Codigo": "0401.002.273-3",
+    "Tipo": "OBR",
+    "Descricao": "ESTÁGIO OBRIGATÓRIO EM REDES DE SERVIÇOS DE SAÚDE I",
+    "Semestre": 9,
+    "Apelido": "ESTÁGIO OBRIGATÓRIO EM REDES DE SERVIÇOS DE SAÚDE I",
+    "CargaHorariaTeorico": 440,
+    "CargaHorariaPratica": null,
+    "ListaPrequisitos": [
+      {
+        "Id": 61165,
+        "Codigo": "0401.002.223-2",
+        "Descricao": "EPIDEMIOLOGIA",
+        "Semestre": "0",
+        "Apelido": "EPIDEMIOLOGIA",
+        "CargaHorariaTeorico": 0,
+        "CargaHorariaPratica": 0,
+        "ListaPrequisitos": []
+      },
+      {
+        "Id": 61174,
+        "Codigo": "0401.002.232-1",
+        "Descricao": "ENFERMAGEM NA SAÚDE SEXUAL E REPRODUTIVA",
+        "Semestre": "0",
+        "Apelido": "ENFERMAGEM NA SAÚDE SEXUAL E REPRODUTIVA",
+        "CargaHorariaTeorico": 0,
+        "CargaHorariaPratica": 0,
+        "ListaPrequisitos": []
+      },
+      {
+        "Id": 61184,
+        "Codigo": "0401.002.242-0",
+        "Descricao": "ENFERMAGEM NA SAÚDE DA CRIANÇA E DO ADOLESCENTE",
+        "Semestre": "0",
+        "Apelido": "ENFERMAGEM NA SAÚDE DA CRIANÇA E DO ADOLESCENTE",
+        "CargaHorariaTeorico": 0,
+        "CargaHorariaPratica": 0,
+        "ListaPrequisitos": []
+      },
+      {
+        "Id": 61189,
+        "Codigo": "0401.002.247-5",
+        "Descricao": "HISTÓRIA DA ENFERMAGEM",
+        "Semestre": "0",
+        "Apelido": "HISTÓRIA DA ENFERMAGEM",
+        "CargaHorariaTeorico": 0,
+        "CargaHorariaPratica": 0,
+        "ListaPrequisitos": []
+      },
+      {
+        "Id": 61206,
+        "Codigo": "0401.002.264-4",
+        "Descricao": "GESTÃO EM SAÚDE COLETIVA",
+        "Semestre": "0",
+        "Apelido": "GESTÃO EM SAÚDE COLETIVA",
+        "CargaHorariaTeorico": 0,
+        "CargaHorariaPratica": 0,
+        "ListaPrequisitos": []
+      }
+    ]
+  },
+  {
+    "Id": 61217,
+    "Codigo": "0401.002.275-1",
+    "Tipo": "OBR",
+    "Descricao": "ESTÁGIO OBRIGATÓRIO EM REDES DE SERVIÇOS DE SAÚDE II",
+    "Semestre": 10,
+    "Apelido": "ESTÁGIO OBRIGATÓRIO EM REDES DE SERVIÇOS DE SAÚDE II",
+    "CargaHorariaTeorico": 440,
+    "CargaHorariaPratica": null,
+    "ListaPrequisitos": [
+      {
+        "Id": 61204,
+        "Codigo": "0401.002.262-6",
+        "Descricao": "ENFERMAGEM PERIOPERATÓRIA",
+        "Semestre": "0",
+        "Apelido": "ENFERMAGEM PERIOPERATÓRIA",
+        "CargaHorariaTeorico": 0,
+        "CargaHorariaPratica": 0,
+        "ListaPrequisitos": []
+      },
+      {
+        "Id": 61205,
+        "Codigo": "0401.002.263-5",
+        "Descricao": "GERENCIAMENTO APLICADO À ENFERMAGEM HOSPITALAR",
+        "Semestre": "0",
+        "Apelido": "GERENCIAMENTO APLICADO À ENFERMAGEM HOSPITALAR",
+        "CargaHorariaTeorico": 0,
+        "CargaHorariaPratica": 0,
+        "ListaPrequisitos": []
+      },
+      {
+        "Id": 61212,
+        "Codigo": "0401.002.270-6",
+        "Descricao": "ENFERMAGEM NO CUIDADO DO PACIENTE CRÍTICO",
+        "Semestre": "0",
+        "Apelido": "ENFERMAGEM NO CUIDADO DO PACIENTE CRÍTICO",
+        "CargaHorariaTeorico": 0,
+        "CargaHorariaPratica": 0,
+        "ListaPrequisitos": []
+      }
+    ]
+  },
+  {
+    "Id": 61208,
+    "Codigo": "0401.002.266-2",
+    "Tipo": "OPT",
+    "Descricao": "ASPECTOS BIOQUÍMICOS, IMUNOPATOLÓGICOS E TERAPÊUTICOS DE DOENÇAS INFECCIOSAS E NÃO INFECCIOSAS",
+    "Semestre": 99,
+    "Apelido": "ASPECTOS BIOQUÍMICOS, IMUNOPATOLÓGICOS E TERAPÊUTICOS DE DOENÇAS INFECCIOSAS E NÃO INFECCIOSAS",
+    "CargaHorariaTeorico": 60,
+    "CargaHorariaPratica": null,
+    "ListaPrequisitos": []
+  },
+  {
+    "Id": 61198,
+    "Codigo": "0401.002.256-4",
+    "Tipo": "OPT",
+    "Descricao": "ASSISTÊNCIA DE ENFERMAGEM À SAÚDE NEONATAL",
+    "Semestre": 99,
+    "Apelido": "ASSISTÊNCIA DE ENFERMAGEM À SAÚDE NEONATAL",
+    "CargaHorariaTeorico": 30,
+    "CargaHorariaPratica": null,
+    "ListaPrequisitos": []
+  },
+  {
+    "Id": 61199,
+    "Codigo": "0401.002.257-3",
+    "Tipo": "OPT",
+    "Descricao": "COMUNICAÇÃO E LIDERANÇA EM ENFERMAGEM",
+    "Semestre": 99,
+    "Apelido": "COMUNICAÇÃO E LIDERANÇA EM ENFERMAGEM",
+    "CargaHorariaTeorico": 30,
+    "CargaHorariaPratica": null,
+    "ListaPrequisitos": []
+  },
+  {
+    "Id": 61209,
+    "Codigo": "0401.002.267-1",
+    "Tipo": "OPT",
+    "Descricao": "CRIANÇA, INFÂNCIA E SAÚDE",
+    "Semestre": 99,
+    "Apelido": "CRIANÇA, INFÂNCIA E SAÚDE",
+    "CargaHorariaTeorico": 60,
+    "CargaHorariaPratica": null,
+    "ListaPrequisitos": []
+  },
+  {
+    "Id": 61213,
+    "Codigo": "0401.002.271-5",
+    "Tipo": "OPT",
+    "Descricao": "CUIDADOS PALIATIVOS E A ENFERMAGEM",
+    "Semestre": 99,
+    "Apelido": "CUIDADOS PALIATIVOS E A ENFERMAGEM",
+    "CargaHorariaTeorico": 60,
+    "CargaHorariaPratica": null,
+    "ListaPrequisitos": []
+  },
+  {
+    "Id": 61218,
+    "Codigo": "0401.002.276-0",
+    "Tipo": "OPT",
+    "Descricao": "DIAGNÓSTICO DAS DOENÇAS TORÁCICAS POR IMAGEM",
+    "Semestre": 99,
+    "Apelido": "DIAGNÓSTICO DAS DOENÇAS TORÁCICAS POR IMAGEM",
+    "CargaHorariaTeorico": 60,
+    "CargaHorariaPratica": null,
+    "ListaPrequisitos": []
+  },
+  {
+    "Id": 61240,
+    "Codigo": "0401.002.298-5",
+    "Tipo": "OPT",
+    "Descricao": "DIREITOS HUMANOS",
+    "Semestre": 99,
+    "Apelido": "DIREITOS HUMANOS",
+    "CargaHorariaTeorico": 30,
+    "CargaHorariaPratica": null,
+    "ListaPrequisitos": []
+  },
+  {
+    "Id": 61241,
+    "Codigo": "0401.002.299-4",
+    "Tipo": "OPT",
+    "Descricao": "EDUCAÇÃO AMBIENTAL",
+    "Semestre": 99,
+    "Apelido": "EDUCAÇÃO AMBIENTAL",
+    "CargaHorariaTeorico": 30,
+    "CargaHorariaPratica": null,
+    "ListaPrequisitos": []
+  },
+  {
+    "Id": 61220,
+    "Codigo": "0401.002.278-9",
+    "Tipo": "OPT",
+    "Descricao": "EDUCAÇÃO E SAÚDE NA ESCOLA",
+    "Semestre": 99,
+    "Apelido": "EDUCAÇÃO E SAÚDE NA ESCOLA",
+    "CargaHorariaTeorico": 60,
+    "CargaHorariaPratica": null,
+    "ListaPrequisitos": []
+  },
+  {
+    "Id": 61200,
+    "Codigo": "0401.002.258-2",
+    "Tipo": "OPT",
+    "Descricao": "EDUCAÇÃO FINANCEIRA E EMPREENDEDORISMO",
+    "Semestre": 99,
+    "Apelido": "EDUCAÇÃO FINANCEIRA E EMPREENDEDORISMO",
+    "CargaHorariaTeorico": 30,
+    "CargaHorariaPratica": null,
+    "ListaPrequisitos": []
+  },
+  {
+    "Id": 52308,
+    "Codigo": "0100.000.003-0",
+    "Tipo": "NFC",
+    "Descricao": "EMPREENDEDORISMO E INOVAÇÃO",
+    "Semestre": 99,
+    "Apelido": "EMPREENDEDORISMO E INOVAÇÃO",
+    "CargaHorariaTeorico": 30,
+    "CargaHorariaPratica": null,
+    "ListaPrequisitos": []
+  },
+  {
+    "Id": 61214,
+    "Codigo": "0401.002.272-4",
+    "Tipo": "OPT",
+    "Descricao": "ENFERMAGEM E SAÚDE DO TRABALHADOR",
+    "Semestre": 99,
+    "Apelido": "ENFERMAGEM E SAÚDE DO TRABALHADOR",
+    "CargaHorariaTeorico": 60,
+    "CargaHorariaPratica": null,
+    "ListaPrequisitos": []
+  },
+  {
+    "Id": 61224,
+    "Codigo": "0401.002.282-2",
+    "Tipo": "OPT",
+    "Descricao": "ENFERMAGEM NA ATENÇÃO À SAÚDE DA POPULAÇÃO LGBTQIA+",
+    "Semestre": 99,
+    "Apelido": "ENFERMAGEM NA ATENÇÃO À SAÚDE DA POPULAÇÃO LGBTQIA+",
+    "CargaHorariaTeorico": 60,
+    "CargaHorariaPratica": null,
+    "ListaPrequisitos": []
+  },
+  {
+    "Id": 61228,
+    "Codigo": "0401.002.286-9",
+    "Tipo": "OPT",
+    "Descricao": "ENFERMAGEM NA ATENÇÃO À SAÚDE DO HOMEM",
+    "Semestre": 99,
+    "Apelido": "ENFERMAGEM NA ATENÇÃO À SAÚDE DO HOMEM",
+    "CargaHorariaTeorico": 60,
+    "CargaHorariaPratica": null,
+    "ListaPrequisitos": []
+  },
+  {
+    "Id": 61221,
+    "Codigo": "0401.002.279-8",
+    "Tipo": "OPT",
+    "Descricao": "ENFERMAGEM NA ATENÇÃO DOMICILIAR",
+    "Semestre": 99,
+    "Apelido": "ENFERMAGEM NA ATENÇÃO DOMICILIAR",
+    "CargaHorariaTeorico": 60,
+    "CargaHorariaPratica": null,
+    "ListaPrequisitos": []
+  },
+  {
+    "Id": 61225,
+    "Codigo": "0401.002.283-1",
+    "Tipo": "OPT",
+    "Descricao": "ENFERMAGEM ONCOLÓGICA",
+    "Semestre": 99,
+    "Apelido": "ENFERMAGEM ONCOLÓGICA",
+    "CargaHorariaTeorico": 60,
+    "CargaHorariaPratica": null,
+    "ListaPrequisitos": []
+  },
+  {
+    "Id": 61232,
+    "Codigo": "0401.002.290-2",
+    "Tipo": "OPT",
+    "Descricao": "FISIOPATOLOGIA E TERAPÊUTICA DE DOENÇAS CRÔNICAS",
+    "Semestre": 99,
+    "Apelido": "FISIOPATOLOGIA E TERAPÊUTICA DE DOENÇAS CRÔNICAS",
+    "CargaHorariaTeorico": 60,
+    "CargaHorariaPratica": null,
+    "ListaPrequisitos": []
+  },
+  {
+    "Id": 61235,
+    "Codigo": "0401.002.293-0",
+    "Tipo": "OPT",
+    "Descricao": "FOTOTERAPIA E APLICAÇÕES CLÍNICAS",
+    "Semestre": 99,
+    "Apelido": "FOTOTERAPIA E APLICAÇÕES CLÍNICAS",
+    "CargaHorariaTeorico": 60,
+    "CargaHorariaPratica": null,
+    "ListaPrequisitos": []
+  },
+  {
+    "Id": 61222,
+    "Codigo": "0401.002.280-4",
+    "Tipo": "OPT",
+    "Descricao": "HISTÓRIA DA ÁFRICA E CULTURA AFRO-BRASILEIRA",
+    "Semestre": 99,
+    "Apelido": "HISTÓRIA DA ÁFRICA E CULTURA AFRO-BRASILEIRA",
+    "CargaHorariaTeorico": 60,
+    "CargaHorariaPratica": null,
+    "ListaPrequisitos": []
+  },
+  {
+    "Id": 61237,
+    "Codigo": "0401.002.295-8",
+    "Tipo": "OPT",
+    "Descricao": "HISTÓRIA DA CRIANÇA E SUA INFÂNCIA",
+    "Semestre": 99,
+    "Apelido": "HISTÓRIA DA CRIANÇA E SUA INFÂNCIA",
+    "CargaHorariaTeorico": 60,
+    "CargaHorariaPratica": null,
+    "ListaPrequisitos": []
+  },
+  {
+    "Id": 61238,
+    "Codigo": "0401.002.296-7",
+    "Tipo": "OPT",
+    "Descricao": "HISTÓRIA DA SAÚDE E SEXUALIDADE",
+    "Semestre": 99,
+    "Apelido": "HISTÓRIA DA SAÚDE E SEXUALIDADE",
+    "CargaHorariaTeorico": 60,
+    "CargaHorariaPratica": null,
+    "ListaPrequisitos": []
+  },
+  {
+    "Id": 61226,
+    "Codigo": "0401.002.284-0",
+    "Tipo": "OPT",
+    "Descricao": "HISTÓRIA DA SAÚDE INDÍGENA",
+    "Semestre": 99,
+    "Apelido": "HISTÓRIA DA SAÚDE INDÍGENA",
+    "CargaHorariaTeorico": 60,
+    "CargaHorariaPratica": null,
+    "ListaPrequisitos": []
+  },
+  {
+    "Id": 61239,
+    "Codigo": "0401.002.297-6",
+    "Tipo": "OPT",
+    "Descricao": "HISTÓRIA DAS MULHERES E RELAÇÕES DE GÊNERO",
+    "Semestre": 99,
+    "Apelido": "HISTÓRIA DAS MULHERES E RELAÇÕES DE GÊNERO",
+    "CargaHorariaTeorico": 60,
+    "CargaHorariaPratica": null,
+    "ListaPrequisitos": []
+  },
+  {
+    "Id": 52306,
+    "Codigo": "0100.000.001-1",
+    "Tipo": "NFC",
+    "Descricao": "INTELIGÊNCIA ARTIFICIAL: FUNDAMENTOS E PRÁTICAS",
+    "Semestre": 99,
+    "Apelido": "INTELIGÊNCIA ARTIFICIAL: FUNDAMENTOS E PRÁTICAS",
+    "CargaHorariaTeorico": 30,
+    "CargaHorariaPratica": null,
+    "ListaPrequisitos": []
+  },
+  {
+    "Id": 61219,
+    "Codigo": "0401.002.277-0",
+    "Tipo": "OPT",
+    "Descricao": "INTERAÇÕES MEDICAMENTOSAS",
+    "Semestre": 99,
+    "Apelido": "INTERAÇÕES MEDICAMENTOSAS",
+    "CargaHorariaTeorico": 60,
+    "CargaHorariaPratica": null,
+    "ListaPrequisitos": []
+  },
+  {
+    "Id": 61243,
+    "Codigo": "0401.002.301-5",
+    "Tipo": "OPT",
+    "Descricao": "INTRODUÇÃO AO CONHECIMENTO CIENTÍFICO",
+    "Semestre": 99,
+    "Apelido": "INTRODUÇÃO AO CONHECIMENTO CIENTÍFICO",
+    "CargaHorariaTeorico": 30,
+    "CargaHorariaPratica": null,
+    "ListaPrequisitos": []
+  },
+  {
+    "Id": 61223,
+    "Codigo": "0401.002.281-3",
+    "Tipo": "OPT",
+    "Descricao": "MANEJO E CUIDADO NAS PATOLOGIAS E DISFUNÇÕES DA PELE",
+    "Semestre": 99,
+    "Apelido": "MANEJO E CUIDADO NAS PATOLOGIAS E DISFUNÇÕES DA PELE",
+    "CargaHorariaTeorico": 60,
+    "CargaHorariaPratica": null,
+    "ListaPrequisitos": []
+  },
+  {
+    "Id": 61229,
+    "Codigo": "0401.002.287-8",
+    "Tipo": "OPT",
+    "Descricao": "NEUROCIÊNCIA E FISIOPATOLOGIA DAS DOENÇAS NEUROLÓGICAS",
+    "Semestre": 99,
+    "Apelido": "NEUROCIÊNCIA E FISIOPATOLOGIA DAS DOENÇAS NEUROLÓGICAS",
+    "CargaHorariaTeorico": 60,
+    "CargaHorariaPratica": null,
+    "ListaPrequisitos": []
+  },
+  {
+    "Id": 61230,
+    "Codigo": "0401.002.288-7",
+    "Tipo": "OPT",
+    "Descricao": "NEUROPSICOFARMACOLOGIA",
+    "Semestre": 99,
+    "Apelido": "NEUROPSICOFARMACOLOGIA",
+    "CargaHorariaTeorico": 60,
+    "CargaHorariaPratica": null,
+    "ListaPrequisitos": []
+  },
+  {
+    "Id": 61231,
+    "Codigo": "0401.002.289-6",
+    "Tipo": "OPT",
+    "Descricao": "OZONIOTERAPIA E APLICAÇÕES CLÍNICAS",
+    "Semestre": 99,
+    "Apelido": "OZONIOTERAPIA E APLICAÇÕES CLÍNICAS",
+    "CargaHorariaTeorico": 60,
+    "CargaHorariaPratica": null,
+    "ListaPrequisitos": []
+  },
+  {
+    "Id": 61233,
+    "Codigo": "0401.002.291-1",
+    "Tipo": "OPT",
+    "Descricao": "PLANTAS MEDICINAIS",
+    "Semestre": 99,
+    "Apelido": "PLANTAS MEDICINAIS",
+    "CargaHorariaTeorico": 60,
+    "CargaHorariaPratica": null,
+    "ListaPrequisitos": []
+  },
+  {
+    "Id": 61236,
+    "Codigo": "0401.002.294-9",
+    "Tipo": "OPT",
+    "Descricao": "PRÁTICAS POPULARES E INTEGRATIVAS NO ÂMBITO DA EDUCAÇÃO POPULAR EM SAÚDE",
+    "Semestre": 99,
+    "Apelido": "PRÁTICAS POPULARES E INTEGRATIVAS NO ÂMBITO DA EDUCAÇÃO POPULAR EM SAÚDE",
+    "CargaHorariaTeorico": 60,
+    "CargaHorariaPratica": null,
+    "ListaPrequisitos": []
+  },
+  {
+    "Id": 61227,
+    "Codigo": "0401.002.285-0",
+    "Tipo": "OPT",
+    "Descricao": "SAÚDE E ESPIRITUALIDADE",
+    "Semestre": 99,
+    "Apelido": "SAÚDE E ESPIRITUALIDADE",
+    "CargaHorariaTeorico": 60,
+    "CargaHorariaPratica": null,
+    "ListaPrequisitos": []
+  },
+  {
+    "Id": 61234,
+    "Codigo": "0401.002.292-0",
+    "Tipo": "OPT",
+    "Descricao": "TOXICOLOGIA",
+    "Semestre": 99,
+    "Apelido": "TOXICOLOGIA",
+    "CargaHorariaTeorico": 60,
+    "CargaHorariaPratica": null,
+    "ListaPrequisitos": []
+  },
+  {
+    "Id": 52307,
+    "Codigo": "0100.000.002-0",
+    "Tipo": "NFC",
+    "Descricao": "VIDA, CIDADANIA E SUSTENTABILIDADE",
+    "Semestre": 99,
+    "Apelido": "VIDA, CIDADANIA E SUSTENTABILIDADE",
+    "CargaHorariaTeorico": 30,
+    "CargaHorariaPratica": null,
+    "ListaPrequisitos": []
+  }
+]

@@ -62,10 +62,7 @@ const handleInput = (): void => {
 </script>
 
 <template>
-  <div
-    id="app"
-    class="flex flex-col h-screen"
-  >
+  <div id="app" class="flex flex-col h-screen">
     <SemestresHeading
       :model-value="inputValue"
       :carregando="carregando"

@@ -152,7 +152,9 @@ function focoCascataDisciplinas({
       continue;
     }
 
-    el.$el.style.transitionDelay = foco ? `${depth * getCascadeDelay()}ms` : "0ms";
+    el.$el.style.transitionDelay = foco
+      ? `${depth * getCascadeDelay()}ms`
+      : "0ms";
 
     if (proximas) {
       el.disciplineClicked(foco);
@@ -208,7 +210,6 @@ function zoomOut() {
   setZoom(zoom.value - ZOOM_STEP);
 }
 
-
 /**
  * Detecta Ctrl+wheel (Windows/Linux) e Cmd+wheel (Mac) para aplicar zoom.
  * O preventDefault evita o zoom nativo do navegador na página inteira.
@@ -224,7 +225,9 @@ let pinchStartDist = 0;
 let pinchStartZoom = 1;
 
 function getPinchDist(touches: TouchList): number {
-  const [a, b] = [touches[0], touches[1]];
+  const a = touches[0];
+  const b = touches[1];
+  if (!a || !b) return 0;
   return Math.hypot(a.clientX - b.clientX, a.clientY - b.clientY);
 }
 
@@ -258,11 +261,15 @@ function handleTouchMove(e: TouchEvent) {
         height: `${zoom * 100}%`,
       }"
     >
-      <div class="flex items-center flex-row gap-4 lg:gap-12 px-6 py-4 origin-center transition-transform duration-100">
-        <div class="w-full lg:w-52 shrink-0" v-for="i in semestres.length" :key="i">
-          <div
-            class="semestre-span"
-          >
+      <div
+        class="flex items-center flex-row gap-4 lg:gap-12 px-6 py-4 origin-center transition-transform duration-100"
+      >
+        <div
+          class="w-full lg:w-52 shrink-0"
+          v-for="i in semestres.length"
+          :key="i"
+        >
+          <div class="semestre-span">
             <span data-test-semester-label="true">{{ i }}</span>
           </div>
           <!--
@@ -271,7 +278,11 @@ function handleTouchMove(e: TouchEvent) {
             de profundidade definido em focoCascataDisciplinas via el.$el.style.transitionDelay.
             @see https://vuejs.org/guide/built-ins/transition-group.html
           -->
-          <TransitionGroup name="card" tag="div" class="flex flex-col gap-2 gap-y-4">
+          <TransitionGroup
+            name="card"
+            tag="div"
+            class="flex flex-col gap-2 gap-y-4"
+          >
             <DisciplineCard
               v-for="discipline in semestres[i - 1]"
               @inFocus="
@@ -301,7 +312,8 @@ function handleTouchMove(e: TouchEvent) {
               :key="discipline.pegaId()"
               :ref="
                 (el) =>
-                  (elementRefsById[discipline.pegaId()] = el as DisciplineCardType)
+                  (elementRefsById[discipline.pegaId()] =
+                    el as DisciplineCardType)
               "
               :discipline="discipline"
               :gray-scale-mode="grayScaleMode"
@@ -328,7 +340,9 @@ function handleTouchMove(e: TouchEvent) {
       >
         -
       </button>
-      <span class="text-sm w-10 text-center tabular-nums">{{ Math.round(zoom * 100) }}%</span>
+      <span class="text-sm w-10 text-center tabular-nums"
+        >{{ Math.round(zoom * 100) }}%</span
+      >
       <button
         @click="zoomIn"
         class="w-8 h-8 lg:w-6 lg:h-6 flex items-center justify-center rounded-full hover:bg-white/20 transition-colors"

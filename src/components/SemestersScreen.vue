@@ -263,7 +263,7 @@ function handleTouchMove(e: TouchEvent) {
           <div
             class="semestre-span"
           >
-            <span class="text-sm" data-test-semester-label="true">{{ i }}</span>
+            <span data-test-semester-label="true">{{ i }}</span>
           </div>
           <!--
             TransitionGroup anima a entrada dos cards ao carregar dados de um novo curso.
@@ -271,7 +271,7 @@ function handleTouchMove(e: TouchEvent) {
             de profundidade definido em focoCascataDisciplinas via el.$el.style.transitionDelay.
             @see https://vuejs.org/guide/built-ins/transition-group.html
           -->
-          <TransitionGroup name="card" tag="div" class="flex flex-col gap-2">
+          <TransitionGroup name="card" tag="div" class="flex flex-col gap-2 gap-y-4">
             <DisciplineCard
               v-for="discipline in semestres[i - 1]"
               @inFocus="

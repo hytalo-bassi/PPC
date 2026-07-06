@@ -74,14 +74,14 @@ body {
 }
 
 .semestre-span {
-  @apply rounded-full text-center border border-primary/60 h-6 mb-2;
+  @apply text-[12px] rounded-full text-center border border-primary/60 h-6 mb-2;
 }
 
 .discipline {
   @apply 
     flex flex-col justify-center overflow-hidden border bg-card-bg
     text-center text-card-text py-3 lg:py-0 lg:h-[58px] px-2 rounded-card border-card-border transition-all
-    backdrop-blur-sm cursor-pointer shadow-primary/40 shadow-md;
+    backdrop-blur-sm cursor-pointer shadow-primary/30 shadow-lg bg-primary/10;
   will-change: transform;
   transition-duration: var(--duration-focus);
   

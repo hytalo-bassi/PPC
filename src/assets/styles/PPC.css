@@ -14,11 +14,33 @@
  *                             Consumido em JavaScript (SemestersScreen.vue: DELAY_PER_DEPTH_MS).
  */
 @theme {
-  --color-card-bg: rgb(0 0 0 / 0.2);
-  --color-card-border: rgb(255 255 255 / 0.5);
+  --spacing-logo: 1.5rem;
+  --text-discipline: 14px;
+  --text-discipline-alt: 10px;
+
+  --color-background: black;
+  --color-primary-foreground: white;
+
+  --color-primary: var(--color-blue-400);
+  --color-primary-hover: var(--color-blue-500);
+  --color-primary-foreground: white;
+
+  --color-secondary: var(--color-rose-500);
+  --color-secondary-hover: var(--color-rose-600);
+  --color-secondary-foreground: white;
+
+  --color-card-bg: var(--color-background);
+  --color-card-text: var(--color-primary-foreground);
+  --color-card-border: var(--color-blue-400);
   --radius-card: var(--radius-lg);
   --duration-focus: 250ms;
   --duration-cascade: 75ms;
+}
+
+* {
+  scrollbar-width: auto; /* or 'auto' / 'none' */
+  scrollbar-color: var(--color-primary) var(--color-background);
+  /* thumb color, then track color */
 }
 
 body {
@@ -47,16 +69,24 @@ body {
   transform: translateY(10px);
 }
 
+.logo-icon {
+  @apply w-logo h-logo;
+}
+
+.semestre-span {
+  @apply rounded-full text-center border border-primary/60 h-6 mb-2;
+}
+
 .discipline {
   @apply 
     flex flex-col justify-center overflow-hidden border bg-card-bg
-    text-center h-[58px] px-2 rounded-card border-card-border transition-all
-    backdrop-blur-sm cursor-pointer;
+    text-center text-card-text py-3 lg:py-0 lg:h-[58px] px-2 rounded-card border-card-border transition-all
+    backdrop-blur-sm cursor-pointer shadow-primary/40 shadow-md;
   will-change: transform;
   transition-duration: var(--duration-focus);
   
   h1 {
-    @apply font-semibold text-[12px]/[12px] first-letter:uppercase;
+    @apply font-bold text-discipline first-letter:uppercase line-clamp-2;
   }
 
   p {
@@ -64,10 +94,10 @@ body {
   }
 
   &[data-focused] {
-    @apply h-[82px] shadow-xl scale-x-110;
+    @apply py-5 lg:py-0 lg:h-[82px] shadow-xl scale-x-110;
 
     p {
-      @apply block text-[8px];
+      @apply block text-discipline-alt ;
     }
   }
 }

@@ -64,7 +64,7 @@ const handleInput = (): void => {
 <template>
   <div
     id="app"
-    class="bg-linear-65 from-blue-400 to-rose-500 w-full h-full px-24 overflow-auto pb-8"
+    class="flex flex-col h-screen"
   >
     <SemestresHeading
       :model-value="inputValue"
@@ -130,9 +130,8 @@ const handleInput = (): void => {
         </div>
       </div>
 
-      <div v-else key="conteudo">
+      <div class="flex flex-col flex-1" v-else key="conteudo">
         <SemestersScreen :semestres="semestres" :grafo="grafo" />
-        <div class="Line"></div>
       </div>
     </Transition>
   </div>

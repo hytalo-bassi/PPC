@@ -85,9 +85,10 @@ const props = defineProps({
 
 const elementRefsById: Ref<Record<number, DisciplineCardType>> = ref({});
 const grayScaleMode = ref(false);
+const scrollContainer: Ref<HTMLElement | null> = ref(null);
 
 const zoom = ref(1);
-const ZOOM_MIN = 0.5;
+const ZOOM_MIN = 0.2;
 const ZOOM_MAX = 2;
 const ZOOM_STEP = 0.1;
 
@@ -162,7 +163,41 @@ function focoCascataDisciplinas({
 }
 
 function setZoom(valor: number) {
-  zoom.value = Math.min(ZOOM_MAX, Math.max(ZOOM_MIN, valor));
+  const zoomClamped = Math.min(ZOOM_MAX, Math.max(ZOOM_MIN, valor));
+  const container = scrollContainer.value;
+
+  if (!container || zoomClamped === zoom.value) {
+    zoom.value = zoomClamped;
+    return;
+  }
+
+  const zoomAnterior = zoom.value;
+  const centroX = container.scrollLeft + container.clientWidth / 2;
+  const centroY = container.scrollTop + container.clientHeight / 2;
+  const pontoConteudoX = centroX / zoomAnterior;
+  const pontoConteudoY = centroY / zoomAnterior;
+
+  zoom.value = zoomClamped;
+
+  const aplicarScroll = () => {
+    if (!scrollContainer.value) return;
+    scrollContainer.value.scrollLeft =
+      pontoConteudoX * zoomClamped - scrollContainer.value.clientWidth / 2;
+    scrollContainer.value.scrollTop =
+      pontoConteudoY * zoomClamped - scrollContainer.value.clientHeight / 2;
+  };
+
+  const conteudo = container.firstElementChild as HTMLElement | null;
+  if (conteudo) {
+    const onEnd = (ev: TransitionEvent) => {
+      if (ev.propertyName !== "transform") return;
+      conteudo.removeEventListener("transitionend", onEnd);
+      aplicarScroll();
+    };
+    conteudo.addEventListener("transitionend", onEnd);
+  } else {
+    requestAnimationFrame(aplicarScroll);
+  }
 }
 
 function zoomIn() {
@@ -210,67 +245,73 @@ function handleTouchMove(e: TouchEvent) {
 
 <template>
   <div
-    class="relative h-[500px] overflow-hidden space-x-12 px-6"
+    class="flex-1 overflow-auto lg:px-6"
+    ref="scrollContainer"
     @wheel="handleWheel"
     @touchstart="handleTouchStart"
     @touchmove="handleTouchMove"
   >
     <div
-      class="flex flex-row h-full overflow-x-auto overflow-y-hidden space-x-12 px-6 origin-top-left transition-transform duration-100"
-      :style="{ transform: `scale(${zoom})`, width: `${100 / zoom}%`, height: `${100 / zoom}%` }"
+      :style="{
+        transform: `scale(${zoom})`,
+        width: `${zoom * 100}%`,
+        height: `${zoom * 100}%`,
+      }"
     >
-      <div class="flex-1 py-6" v-for="i in semestres.length" :key="i">
-        <div
-          class="rounded-full text-center border border-white/50 bg-black/20 h-6 mb-2"
-        >
-          <span class="text-sm" data-test-semester-label="true">{{ i }}</span>
+      <div class="flex items-center flex-row gap-4 lg:gap-12 px-6 py-4 origin-center transition-transform duration-100">
+        <div class="w-full lg:w-52 shrink-0" v-for="i in semestres.length" :key="i">
+          <div
+            class="semestre-span"
+          >
+            <span class="text-sm" data-test-semester-label="true">{{ i }}</span>
+          </div>
+          <!--
+            TransitionGroup anima a entrada dos cards ao carregar dados de um novo curso.
+            O tag "div" preserva o layout flex existente; cada card recebe o delay
+            de profundidade definido em focoCascataDisciplinas via el.$el.style.transitionDelay.
+            @see https://vuejs.org/guide/built-ins/transition-group.html
+          -->
+          <TransitionGroup name="card" tag="div" class="flex flex-col gap-2">
+            <DisciplineCard
+              v-for="discipline in semestres[i - 1]"
+              @inFocus="
+                focoCascataDisciplinas({
+                  id: discipline.pegaId(),
+                })
+              "
+              @outFocus="
+                focoCascataDisciplinas({
+                  id: discipline.pegaId(),
+                  foco: false,
+                })
+              "
+              @onClick="
+                focoCascataDisciplinas({
+                  id: discipline.pegaId(),
+                  proximas: true,
+                })
+              "
+              @offClick="
+                focoCascataDisciplinas({
+                  id: discipline.pegaId(),
+                  foco: false,
+                  proximas: true,
+                })
+              "
+              :key="discipline.pegaId()"
+              :ref="
+                (el) =>
+                  (elementRefsById[discipline.pegaId()] = el as DisciplineCardType)
+              "
+              :discipline="discipline"
+              :gray-scale-mode="grayScaleMode"
+            />
+          </TransitionGroup>
         </div>
-        <!--
-          TransitionGroup anima a entrada dos cards ao carregar dados de um novo curso.
-          O tag "div" preserva o layout flex existente; cada card recebe o delay
-          de profundidade definido em focoCascataDisciplinas via el.$el.style.transitionDelay.
-          @see https://vuejs.org/guide/built-ins/transition-group.html
-        -->
-        <TransitionGroup name="card" tag="div" class="flex justify-around flex-col h-full">
-          <DisciplineCard
-            v-for="discipline in semestres[i - 1]"
-            @inFocus="
-              focoCascataDisciplinas({
-                id: discipline.pegaId(),
-              })
-            "
-            @outFocus="
-              focoCascataDisciplinas({
-                id: discipline.pegaId(),
-                foco: false,
-              })
-            "
-            @onClick="
-              focoCascataDisciplinas({
-                id: discipline.pegaId(),
-                proximas: true,
-              })
-            "
-            @offClick="
-              focoCascataDisciplinas({
-                id: discipline.pegaId(),
-                foco: false,
-                proximas: true,
-              })
-            "
-            :key="discipline.pegaId()"
-            :ref="
-              (el) =>
-                (elementRefsById[discipline.pegaId()] = el as DisciplineCardType)
-            "
-            :discipline="discipline"
-            :gray-scale-mode="grayScaleMode"
-          />
-        </TransitionGroup>
       </div>
       <div
         v-if="semestres.length === 0"
-        class="flex justify-center items-center flex-1 h-full"
+        class="flex justify-center items-center w-full py-20"
       >
         <h2 class="text-4xl font-extrabold">Nenhuma matéria!</h2>
       </div>
@@ -278,11 +319,11 @@ function handleTouchMove(e: TouchEvent) {
 
     <!-- Controle de zoom flutuante -->
     <div
-      class="absolute bottom-6 right-6 flex items-center gap-2 bg-black/60 backdrop-blur rounded-full px-3 py-1.5 select-none z-10 transition-transform"
+      class="fixed bottom-6 right-6 flex items-center gap-2 border border-secondary shadow-secondary/30 shadow-md backdrop-blur rounded-full px-3 py-1.5 select-none z-10 transition-transform"
     >
       <button
         @click="zoomOut"
-        class="w-6 h-6 flex items-center justify-center rounded-full hover:bg-white/20 transition-colors"
+        class="w-8 h-8 lg:w-6 lg:h-6 flex items-center justify-center rounded-full hover:bg-white/20 transition-colors"
         aria-label="Diminuir zoom"
       >
         -
@@ -290,7 +331,7 @@ function handleTouchMove(e: TouchEvent) {
       <span class="text-sm w-10 text-center tabular-nums">{{ Math.round(zoom * 100) }}%</span>
       <button
         @click="zoomIn"
-        class="w-6 h-6 flex items-center justify-center rounded-full hover:bg-white/20 transition-colors"
+        class="w-8 h-8 lg:w-6 lg:h-6 flex items-center justify-center rounded-full hover:bg-white/20 transition-colors"
         aria-label="Aumentar zoom"
       >
         +

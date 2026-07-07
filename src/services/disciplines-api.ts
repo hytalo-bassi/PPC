@@ -1,6 +1,8 @@
 import { Discipline, TipoCurso } from "../models/discipline.js";
 import DisciplinesGraph from "../core/disciplines-graph.js";
 
+const API_BASE = import.meta.env.VITE_API_BASE_URL ?? "/PPC";
+
 /**
  * Carrega um arquivo JSON contendo dados de disciplinas a partir do código fornecido.
  *
@@ -40,7 +42,9 @@ import DisciplinesGraph from "../core/disciplines-graph.js";
 async function load_json(
   code: number,
 ): Promise<Array<Record<string, unknown>>> {
-  const res = await fetch(`/data/${String(code).padStart(4, "0")}.json`);
+  const res = await fetch(
+    `${API_BASE}/data/${String(code).padStart(4, "0")}.json`,
+  );
   const data = await res.json();
   return data;
 }

@@ -10,6 +10,8 @@ import { TipoCurso } from "@/models/discipline";
 // Mock do fetch global
 globalThis.fetch = vi.fn();
 
+const API_BASE = import.meta.env.VITE_API_BASE_URL ?? "/PPC";
+
 describe("API de Disciplinas", () => {
   // Dados mock completos para simular arquivo JSON real
   const dadosMockCompletos = [
@@ -142,7 +144,7 @@ describe("API de Disciplinas", () => {
       } as Response);
 
       await pegarSemestralizacao(15);
-      expect(fetch).toHaveBeenCalledWith("/data/0015.json");
+      expect(fetch).toHaveBeenCalledWith(`${API_BASE}/data/0015.json`);
 
       vi.clearAllMocks();
 
@@ -152,7 +154,7 @@ describe("API de Disciplinas", () => {
       } as Response);
 
       await pegarSemestralizacao(1905);
-      expect(fetch).toHaveBeenCalledWith("/data/1905.json");
+      expect(fetch).toHaveBeenCalledWith(`${API_BASE}/data/1905.json`);
     });
 
     it("deve criar disciplinas com todas as propriedades corretas", async () => {
@@ -378,7 +380,7 @@ describe("API de Disciplinas", () => {
       await pegarSemestralizacaoLista(1905);
 
       expect(fetch).toHaveBeenCalledTimes(1);
-      expect(fetch).toHaveBeenCalledWith("/data/1905.json");
+      expect(fetch).toHaveBeenCalledWith(`${API_BASE}/data/1905.json`);
     });
 
     it("deve manter consistência: todas disciplinas da matriz devem estar na lista", async () => {

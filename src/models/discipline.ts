@@ -22,6 +22,8 @@ export enum TipoCurso {
   Optativa = 1,
 }
 
+export const _useTipoCurso = () => TipoCurso;
+
 /**
  * Classe que representa uma disciplina de um curso acadêmico.
  *

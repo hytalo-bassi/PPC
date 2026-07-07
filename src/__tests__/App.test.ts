@@ -451,7 +451,7 @@ describe("App.vue", () => {
       mockUseSemestralizacaoGrafo.mockReturnValue(criaEstadoMock());
 
       wrapper = mount(App, {
-        attachTo: document.body,
+        attachTo: globalThis.document.body,
       });
 
       const input = wrapper.find("input");
@@ -460,7 +460,7 @@ describe("App.vue", () => {
       await input.setValue("1234");
       await nextTick();
 
-      expect(document.activeElement).toBe(input.element);
+      expect(globalThis.document.activeElement).toBe(input.element);
 
       wrapper.unmount();
     });

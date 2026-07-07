@@ -86,10 +86,8 @@ describe("SemestersScreen", () => {
 
         const getNeighbors = (node: number) =>
           direction === "before"
-            ? // prerequisites (parents)
-              (grafoMock.getPreRequisites as (id: number) => number[])(node)
-            : // next disciplines (children)
-              (grafoMock.getNextDisciplines as (id: number) => number[])(node);
+            ? (grafoMock.getPreRequisites as (_id: number) => number[])(node)
+            : (grafoMock.getNextDisciplines as (_id: number) => number[])(node);
 
         const startNeighbors = getNeighbors(id) || [];
         for (const n of startNeighbors) {

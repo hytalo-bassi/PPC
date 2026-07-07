@@ -10,7 +10,16 @@ import prettier from "eslint-config-prettier";
 const jsTsVueFiles = ["**/*.{js,mjs,cjs,ts,mts,cts,vue}"];
 
 export default [
-  { files: jsTsVueFiles, languageOptions: { globals: globals.node } },
+  { 
+    files: jsTsVueFiles,
+    languageOptions: { 
+      globals: globals.node,
+      parserOptions: {
+        project: ["./tsconfig.json", "./tsconfig.node.json"],
+        tsconfigRootDir: import.meta.dirname,
+      },
+    } 
+  },
   { files: jsTsVueFiles, ...js.configs.recommended },
   ...tseslint.configs.recommended.map((config) => ({
     ...config,
@@ -25,7 +34,13 @@ export default [
     files: ["**/*.vue"],
     languageOptions: {
       parser: vueParser,
-      parserOptions: { parser: tseslint.parser, sourceType: "module" },
+      parserOptions: { 
+        parser: tseslint.parser, 
+        sourceType: "module",
+        project: ["./tsconfig.json"],
+        tsconfigRootDir: import.meta.dirname,
+        extraFileExtensions: [".vue"],
+      },
     },
   },
   {

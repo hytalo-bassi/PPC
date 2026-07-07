@@ -1,7 +1,7 @@
 import { Discipline, TipoCurso } from "../models/discipline.js";
 import DisciplinesGraph from "../core/disciplines-graph.js";
 
-const API_BASE = import.meta.env.VITE_API_BASE_URL ?? "/PPC";
+const API_BASE = import.meta.env["VITE_API_BASE_URL"] ?? "/PPC";
 
 /**
  * Carrega um arquivo JSON contendo dados de disciplinas a partir do código fornecido.

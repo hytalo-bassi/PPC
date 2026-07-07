@@ -10,7 +10,7 @@ import { TipoCurso } from "@/models/discipline";
 // Mock do fetch global
 globalThis.fetch = vi.fn();
 
-const API_BASE = import.meta.env.VITE_API_BASE_URL ?? "/PPC";
+const API_BASE = import.meta.env["VITE_API_BASE_URL"] ?? "/PPC";
 
 describe("API de Disciplinas", () => {
   // Dados mock completos para simular arquivo JSON real
